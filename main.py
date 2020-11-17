@@ -11,9 +11,16 @@ from bom1 import *
 
 def main():
     import sys
+    import os
+    
     sys.path.insert(1, 'DTU-Video-Downloader')
     import DTU_VD_functions  as VDfunc   
     
+    #Check if ./download and ./export are folders
+    needed_folders = ['./downloads', './export']
+    for folder in needed_folders:
+        if not os.path.exists(folder): os.mkdir(folder)
+        
     #Fetch input arguments
     argin = sys.argv[1:]; argin = [x.strip().lower() for x in argin]
     
@@ -58,6 +65,7 @@ def main():
                 path = df_full['path'].iloc[i].replace(' ','_')
                 
                 if driver is None:
+                     print('It looks like we need to download some videos!')
                      config = VDfunc.prompt_config()
                      driver = VDfunc.open_driver(config, 'https://video.dtu.dk/user/login')
                     
@@ -76,10 +84,13 @@ def main():
             
             #Do the actual clipping
             clip(lecturepath, t1, t2, clippath)
-    #else:
-    #    print('Unknown main argument.')
-    #    return
-    
-           
+            
+            #Remove the downloaded lecture if need be. 
+            if i != len(df_full)-1:
+                if df_full['lecture'][i] != df_full['lecture'][i+1]:
+                    os.remove(lecturepath)
+            else:
+                os.remove(lecturepath)
+                   
 if __name__ == '__main__':
     main()
