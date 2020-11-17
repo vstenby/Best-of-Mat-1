@@ -20,3 +20,5 @@ The folder structure should be as follows:
 ```
 
 Download chromedriver from here: https://chromedriver.chromium.org/downloads
+
+Run main.py from the terminal.
