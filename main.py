@@ -32,8 +32,8 @@ def main():
         argin = argin[1:]
     
     if mainarg == 'clip':
-        df_clip = read_all_clips(); df_clip['lecture'] = df_clip['lecture'].apply(lambda x : unicodedata.normalize('NFD', x))
-        df_link = read_all_links(); df_link['lecture'] = df_link['lecture'].apply(lambda x : unicodedata.normalize('NFD', x))
+        df_clip = read_all_clips(); #df_clip['lecture'] = df_clip['lecture'].apply(lambda x : unicodedata.normalize('NFD', x))
+        df_link = read_all_links(); #df_link['lecture'] = df_link['lecture'].apply(lambda x : unicodedata.normalize('NFD', x))
         
         df_full = pd.merge(df_clip, df_link, how='left', on=['lecture','semester'])
         df_full = df_full.sort_values(['semester','n'])
