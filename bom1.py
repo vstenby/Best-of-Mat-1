@@ -21,7 +21,7 @@ def clip(pathin, t1 : int, t2 : int, pathout):
     
     if pathout.endswith('.mp4'):
         #pathout = pathout.replace('.mp4','')
-        clip.write_videofile(pathout, temp_audiofile="temp-audio.m4a", remove_temp=True, codec="libx264", audio_codec="aac")
+        clip.write_videofile(pathout, temp_audiofile="./export/temp-audio.m4a", remove_temp=True, codec="libx264", audio_codec="aac")
         #clip.write_videofile(pathout)
     elif pathout.endswith('.mp3'):
         #pathout = pathout.replace('.mp3','')
@@ -29,7 +29,7 @@ def clip(pathin, t1 : int, t2 : int, pathout):
     
     
 def fetch_semesters():
-    semesters = os.listdir('./csv')
+    semesters = os.listdir('./tsv')
     semesters = [x for x in semesters if x.startswith('E') or x.startswith('F')]
     return semesters
     
@@ -54,12 +54,12 @@ def read_clips(semesters):
     df = pd.DataFrame(columns=['t1','t2','name','rating','semester','clipnumber'])
     
     for semester in semesters:
-        csvs = os.listdir('./csv/' + semester); 
-        csvs = [x for x in csvs if x.endswith('.csv') and x != 'links.csv']
+        csvs = os.listdir('./tsv/' + semester); 
+        csvs = [x for x in csvs if x.endswith('.tsv') and x != 'links.tsv']
        
         for csv in csvs:
-            dftemp = pd.read_csv('./csv/'+semester+'/'+csv,sep=';',encoding='utf-8')
-            dftemp['lecture']  = csv.replace('_',' ').replace('.csv','')
+            dftemp = pd.read_csv('./tsv/'+semester+'/'+csv,sep='\t',encoding='utf-8')
+            dftemp['lecture']  = csv.replace('_',' ').replace('.tsv','')
             dftemp['semester'] = semester
             dftemp['clipnumber'] = np.arange(len(dftemp))+1
             df = df.append(dftemp)
@@ -77,7 +77,7 @@ def read_links(semesters):
     df = pd.DataFrame(columns=['n', 'lecture', 'link', 'semester'])
     for semester in semesters:
         try:
-            dftemp = pd.read_csv('./csv/' + semester + '/links.csv',sep=';',encoding='utf-8')
+            dftemp = pd.read_csv('./tsv/' + semester + '/links.tsv',sep='\t',encoding='utf-8')
             dftemp['semester'] = semester
         except:
             dftemp = pd.DataFrame(columns=['n', 'lecture', 'link', 'semester'])
