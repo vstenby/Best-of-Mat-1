@@ -40,12 +40,6 @@ def main():
         
         #df_clip['downloaded'] = df_clip.apply(lambda x : x['semester']+'_'+)
         df_full['path'] = './downloads/' + df_full['semester'] + '_' + df_full['n'].astype(str).str.zfill(2) + '_' + df_full['lecture'] + '.mp4'
-        
-        lecture_need = df_full['path'].to_numpy()
-        lecture_have = np.asarray(['./downloads/' + x.replace('.mp4','').replace('_',' ') for x in os.listdir('./downloads') if not x.startswith('.')])
-        
-        df_full['downloaded'] = np.isin(lecture_need,lecture_have)
-        
         df_full['clippath'] = './export/' + df_full['semester'] + ' L' + df_full['n'].astype(str).str.zfill(2) + ' C' + df_full['clipnumber'].astype(str).str.zfill(2)+' R' + df_full['rating'].astype(str).str.zfill(2)+' '+df_full['name']
         
         if '.mp3' in argin:
@@ -59,8 +53,17 @@ def main():
         
         driver = None
         for i in range(len(df_full)):
-            downloaded = df_full['downloaded'].iloc[i]
+            downloaded = os.path.exists(df_full['path'].iloc[i].replace(' ','_'))
             if not downloaded:
+                #Clear the downloaded folder
+                files = os.listdir('./downloads/')
+                for file in files: 
+                    try: 
+                        os.remove(file)
+                    except:
+                        pass
+                
+                
                 link = df_full['link'].iloc[i]
                 path = df_full['path'].iloc[i].replace(' ','_')
                 
@@ -71,26 +74,16 @@ def main():
                     
                 VDfunc.download_videos(driver,[link],pathout=[path.replace('.mp4','')])
                     
-                #Update the dataframe to show we have downloaded said video
-                downloadstatus = df_full['downloaded'].to_numpy()
-                videopaths = df_full['path'].to_numpy()
-                downloadstatus[videopaths == path] = True
-                df_full['downloaded'] = downloadstatus
-            
             lecturepath = df_full['path'].iloc[i].replace(' ','_')
             t1 = df_full['t1'].iloc[i]
             t2 = df_full['t2'].iloc[i]
             clippath = df_full['clippath'].iloc[i]
             
             #Do the actual clipping
-            clip(lecturepath, t1, t2, clippath)
-            
-            #Remove the downloaded lecture if need be. 
-            if i != len(df_full)-1:
-                if df_full['lecture'][i] != df_full['lecture'][i+1]:
-                    os.remove(lecturepath)
+            if not os.path.exists(clippath):
+                clip(lecturepath, t1, t2, clippath)
             else:
-                os.remove(lecturepath)
-                   
+                continue
+                    
 if __name__ == '__main__':
     main()
