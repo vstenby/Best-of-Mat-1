@@ -1,89 +1,86 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
-"""
-Created on Mon Nov 16 15:53:13 2020
 
-@author: viktorstenby
-"""
-
+# -- Dependencies -- 
+import sys
+import os
 import numpy as np
+import time
+
 from bom1 import *
+from settings import *
+
+#These packages usually cause the most trouble.
+import moviepy
+import selenium
+import youtube_dl
+
+#Import DTU-Video-Downloader
+sys.path.insert(1, 'DTU-Video-Downloader')
+try:
+    import DTU_VD_functions  as VDfunc
+except ImportError:
+    raise ImportError('Unable to import DTU-Video-Downloader. '\
+                      +'Download it here: https://github.com/vstenby/DTU-Video-Downloader '\
+                      +'and check folder structure.')
+        
+#Check if chromedriver exists
+if not os.path.exists('chromedriver'):
+    raise ImportError('chromedriver not found. Download the corresponding version here: https://chromedriver.chromium.org/downloads')
 
 def main():
-    import sys
-    import os
-    
-    sys.path.insert(1, 'DTU-Video-Downloader')
-    import DTU_VD_functions  as VDfunc   
     
     #Check if ./download and ./export are folders
     needed_folders = ['./downloads', './export']
     for folder in needed_folders:
         if not os.path.exists(folder): os.mkdir(folder)
-        
-    #Fetch input arguments
-    argin = sys.argv[1:]; argin = [x.strip().lower() for x in argin]
     
-    #Work in progress - should be able to hand multiple keywords later.
-    if len(argin) == 0: 
-        mainarg = 'clip'
-    else:
-        mainarg = argin[0]
-        argin = argin[1:]
+    #Generate df with all information
+    df = generate_df()
     
-    if mainarg == 'clip':
-        df_clip = read_all_clips(); #df_clip['lecture'] = df_clip['lecture'].apply(lambda x : unicodedata.normalize('NFD', x))
-        df_link = read_all_links(); #df_link['lecture'] = df_link['lecture'].apply(lambda x : unicodedata.normalize('NFD', x))
+    #Extract valid clips.
+    df = df.loc[df['rating'].to_numpy() >= settings['min_rating']]
+    df = df.loc[(df['t2'].to_numpy() - df['t1'].to_numpy()) <= settings['max_duration']]
+    
+    if settings['semesters'] == 'all': settings['semesters'] = [x for x in os.listdir('./tsv') if not x.startswith('.')]
+    df = df.loc[np.isin(df.semester.to_numpy(), settings['semesters'])]
+    
+    driver = None
+    
+    if len(df) == 0: 
+        print('No clips to be clipped')
+        return
         
-        df_full = pd.merge(df_clip, df_link, how='left', on=['lecture','semester'])
-        df_full = df_full.sort_values(['semester','n'])
+    for i in range(len(df)):
         
-        #df_clip['downloaded'] = df_clip.apply(lambda x : x['semester']+'_'+)
-        df_full['path'] = './downloads/' + df_full['semester'] + '_' + df_full['n'].astype(str).str.zfill(2) + '_' + df_full['lecture'] + '.mp4'
-        df_full['clippath'] = './export/' + df_full['semester'] + ' L' + df_full['n'].astype(str).str.zfill(2) + ' C' + df_full['clipnumber'].astype(str).str.zfill(2)+' R' + df_full['rating'].astype(str).str.zfill(2)+' '+df_full['name']
+        lecturepath = df['path'].iloc[i]
         
-        if '.mp3' in argin:
-            df_full['clippath'] += '.mp3'
+        # -- Download check  --
+        if not os.path.exists(lecturepath):
+            #Clear the downloaded folder
+            for file in os.listdir('./downloads/'): 
+                os.remove('./downloads/' + file)
+
+            link = df['link'].iloc[i]; 
+            if driver is None:
+                print('It looks like we need to download a video!')
+                config = VDfunc.prompt_config()
+                driver = VDfunc.open_driver(config, 'https://video.dtu.dk/user/login')
+    
+            #Download video
+            VDfunc.download_videos(driver, [link], pathout = [lecturepath.replace('.mp4', '')])
+        # -- End of download check --
+        
+        
+        t1 = df['t1'].iloc[i]
+        t2 = df['t2'].iloc[i]
+        clippath = df['clippath'].iloc[i] + settings['outputtype']
+        
+        #Do the actual clipping
+        if not os.path.exists(clippath):
+            clip(lecturepath, t1, t2, clippath)
         else:
-            df_full['clippath'] += '.mp4'
-            
-        #Convert timestamps
-        df_full['t1'] = df_full['t1'].apply(lambda x : convert_timestamp(x))
-        df_full['t2'] = df_full['t2'].apply(lambda x : convert_timestamp(x))
-        
-        driver = None
-        for i in range(len(df_full)):
-            downloaded = os.path.exists(df_full['path'].iloc[i].replace(' ','_'))
-            if not downloaded:
-                #Clear the downloaded folder
-                files = os.listdir('./downloads/')
-                for file in files: 
-                    try: 
-                        os.remove(file)
-                    except:
-                        pass
+            continue
                 
-                
-                link = df_full['link'].iloc[i]
-                path = df_full['path'].iloc[i].replace(' ','_')
-                
-                if driver is None:
-                     print('It looks like we need to download some videos!')
-                     config = VDfunc.prompt_config()
-                     driver = VDfunc.open_driver(config, 'https://video.dtu.dk/user/login')
-                    
-                VDfunc.download_videos(driver,[link],pathout=[path.replace('.mp4','')])
-                    
-            lecturepath = df_full['path'].iloc[i].replace(' ','_')
-            t1 = df_full['t1'].iloc[i]
-            t2 = df_full['t2'].iloc[i]
-            clippath = df_full['clippath'].iloc[i]
-            
-            #Do the actual clipping
-            if not os.path.exists(clippath):
-                clip(lecturepath, t1, t2, clippath)
-            else:
-                continue
-                    
 if __name__ == '__main__':
     main()

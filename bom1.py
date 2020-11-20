@@ -12,6 +12,7 @@ import pandas as pd
 import os
 import unicodedata
 import numpy as np
+import re
 
 def clip(pathin, t1 : int, t2 : int, pathout):
     if t2 < t1: 
@@ -20,12 +21,12 @@ def clip(pathin, t1 : int, t2 : int, pathout):
     clip = VideoFileClip(filename=pathin).subclip(t1,t2)
     
     if pathout.endswith('.mp4'):
-        #pathout = pathout.replace('.mp4','')
         clip.write_videofile(pathout, temp_audiofile="./export/temp-audio.m4a", remove_temp=True, codec="libx264", audio_codec="aac")
-        #clip.write_videofile(pathout)
+        clip.close()
     elif pathout.endswith('.mp3'):
-        #pathout = pathout.replace('.mp3','')
-        clip.write_audiofile(pathout)
+        audio = clip.audio
+        audio.write_audiofile(pathout)
+        audio.close()
     
     
 def fetch_semesters():
@@ -115,9 +116,24 @@ def download_links(df):
     
     download_videos(driver,links,pathout=names)
     
+def generate_df():
+    df_clip = read_all_clips(); #df_clip['lecture'] = df_clip['lecture'].apply(lambda x : unicodedata.normalize('NFD', x))
+    df_link = read_all_links(); #df_link['lecture'] = df_link['lecture'].apply(lambda x : unicodedata.normalize('NFD', x))
+    
+    df = pd.merge(df_clip, df_link, how='left', on=['lecture','semester'])
+    df = df.sort_values(['semester','n'])
+    
+    df['path'] = './downloads/' + df['semester'] + '_' + df['n'].astype(str).str.zfill(2) + '_' + df['lecture'].str.replace(' ','_') + '.mp4'
+    df['clippath'] = './export/' + df['semester'] + ' L' + df['n'].astype(str).str.zfill(2) + ' C' + df['clipnumber'].astype(str).str.zfill(2)+' R' + df['rating'].astype(str).str.zfill(2)+' '+df['name']
+    
+    #Convert timestamps
+    df['t1'] = df['t1'].apply(lambda x : convert_timestamp(x))
+    df['t2'] = df['t2'].apply(lambda x : convert_timestamp(x))
+    
+    if os.name == 'nt':
+        df['name'] = df['name'].apply(lambda x : re.sub(r'[\\/*?:"<>|]',"",x))
 
-    
-    
+    return df
     
     
         
