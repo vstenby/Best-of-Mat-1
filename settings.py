@@ -7,7 +7,7 @@ import numpy as np
 settings = {'min_rating' : 1,
             'max_duration' : np.inf,
             'semesters' : 'all',
-            'outputtype' : '.mp3'}
+            'outputtype' : '.mp4'}
 
 
 
