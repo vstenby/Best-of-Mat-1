@@ -46,7 +46,7 @@ def main():
         #Clips specified in settings:
         clips_found = clips[np.isin(clips, df['name'].to_numpy())]
         print('Clipping the following clip(s):')
-        for clip in clips_found: print(clip)
+        for clipf in clips_found: print(clipf)
         print('')
         
         
@@ -54,8 +54,8 @@ def main():
         clips_not_found = clips[np.invert(np.isin(clips,df['name'].to_numpy()))] 
         if len(clips_not_found) != 0:
             print('Error finding the following clip(s):')
-            for clip in clips_not_found:
-                print(clip)
+            for clipnf in clips_not_found:
+                print(clipnf)
             print('')
         
     #Extract valid clips.
@@ -104,6 +104,10 @@ def main():
         t2 = df['t2'].iloc[i]
         
         #Do the actual clipping
+        print(type(lecturepath))
+        print(type(clippath))
+        print(type(t1))
+        print(type(t2))
         clip(lecturepath, t1, t2, clippath)
 
                 
