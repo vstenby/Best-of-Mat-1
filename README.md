@@ -82,11 +82,11 @@ Here, I have listed some features that I would like to work on in the future.
 - [x] User can specify export format (.mp3 or .mp4)
 - [x] User can specify minimum rating
 - [x] User can specify minimum duration
+- [x] Easy overview for user of available clips - can be found [here](https://github.com/vstenby/Best-of-Mat-1/blob/main/overview.tsv)
+- [x] Export specific clip(s)
 
 ### Future Features
 
-- [ ] Easy overview for user of available clips.
-- [ ] Export specific clip(s), i.e. by name, lecture, semester ... 
 - [ ] Google Chrome Extension such that users can easily add more clips. 
 
 Please feel free to add suggestions for features [here](https://github.com/vstenby/Best-of-Mat-1/issues).
