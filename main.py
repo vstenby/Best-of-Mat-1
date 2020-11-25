@@ -38,11 +38,33 @@ def main():
     #Generate df with all information
     df = generate_df()
     
+    if not settings['clips'] == 'all':
+        #Extract the clips that we need.
+        clips = np.array(settings['clips'])
+        df = df.loc[np.isin(df['name'].to_numpy(),clips)]
+        
+        #Clips specified in settings:
+        clips_found = clips[np.isin(clips, df['name'].to_numpy())]
+        print('Clipping the following clip(s):')
+        for clip in clips_found: print(clip)
+        print('')
+        
+        
+        #Check that all of the clips were found.
+        clips_not_found = clips[np.invert(np.isin(clips,df['name'].to_numpy()))] 
+        if len(clips_not_found) != 0:
+            print('Error finding the following clip(s):')
+            for clip in clips_not_found:
+                print(clip)
+            print('')
+        
     #Extract valid clips.
     df = df.loc[df['rating'].to_numpy() >= settings['min_rating']]
     df = df.loc[(df['t2'].to_numpy() - df['t1'].to_numpy()) <= settings['max_duration']]
     
-    if settings['semesters'] == 'all': settings['semesters'] = [x for x in os.listdir('./tsv') if not x.startswith('.')]
+    if settings['semesters'] == 'all': 
+        settings['semesters'] = [x for x in os.listdir('./tsv') if not x.startswith('.')]
+        
     df = df.loc[np.isin(df.semester.to_numpy(), settings['semesters'])]
     
     driver = None
@@ -50,9 +72,16 @@ def main():
     if len(df) == 0: 
         print('No clips to be clipped')
         return
+    else:
+        print(f'A total of {len(df)} clips were found to be exported.')
         
     for i in range(len(df)):
         
+        clippath = df['clippath'].iloc[i] + settings['outputtype']
+        if os.path.exists(clippath):
+            #This clip already exists and therefore, it should be skipped.
+            continue
+    
         lecturepath = df['path'].iloc[i]
         
         # -- Download check  --
@@ -71,16 +100,12 @@ def main():
             VDfunc.download_videos(driver, [link], pathout = [lecturepath.replace('.mp4', '')])
         # -- End of download check --
         
-        
         t1 = df['t1'].iloc[i]
         t2 = df['t2'].iloc[i]
-        clippath = df['clippath'].iloc[i] + settings['outputtype']
         
         #Do the actual clipping
-        if not os.path.exists(clippath):
-            clip(lecturepath, t1, t2, clippath)
-        else:
-            continue
+        clip(lecturepath, t1, t2, clippath)
+
                 
 if __name__ == '__main__':
     main()
