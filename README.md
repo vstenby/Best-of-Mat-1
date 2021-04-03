@@ -40,56 +40,92 @@ Then, the main idea was to download all of the lectures and let my clipping scri
 
 ## Installation and Setup
 
-1. Download the repository from GitHub by writing ``git clone --recursive https://github.com/vstenby/Best-of-Mat-1.git`` in your terminal.
+1. Download the repository from GitHub by writing ``git clone https://github.com/vstenby/Best-of-Mat-1.git`` in your terminal.
 
-2. Make sure that you have the following Python packages installed:
+2. Make sure you have ``ffmpeg`` installed. 
 
-    * ``moviepy`` for clipping.
-    * ``selenium`` for downloading the lectures from [video.dtu.dk](video.dtu.dk)
-    
-3. Download the appropriate chromedriver from [https://chromedriver.chromium.org/downloads](https://chromedriver.chromium.org/downloads)
-
-4. Check your folder setup. It should be as follows:
+3. Before you run anything, check that your folder structure is like this:
 
 ```
 .
-├── DTU-Video-Downloader
-│   ├── DTU_VD_functions.py
-│   ├── LICENSE
-│   ├── README.md
-│   └── main.py
 ├── LICENSE
 ├── README.md
 ├── bom1.py
-├── chromedriver
-├── main.py
-├── settings.py
-└── tsv
-    ├── E18_B
-    ├── E19_B
-    └── F19_B 
+├── csv
+└── main.py
  ```
 
-5. Once this is done, run the script by: ``python main.py``
+4. Once this is done, run the script by: ``python main.py``
 
-In the ``settings.py``, you can change the outputtype to either ``.mp3`` or ``.mp4``, depending on if you want to export the clips as audio or video. You can also specify if you want clips that are of a shorter duration, or if you want only clips with a specific rating.  
+## Optional Arguments and How to Use Them
 
-## Feature Overview
+Note that this script has many different options that you can play around with to get the specific clips you want and in the format that you want them. You can always check which options are available by typing ``python main.py --help`` in the terminal.
 
-Here, I have listed some features that I would like to work on in the future. 
+```
+python main.py --help
 
-### Current Features
-- [x] User can specify export format (.mp3 or .mp4)
-- [x] User can specify minimum rating
-- [x] User can specify minimum duration
-- [x] Easy overview for user of available clips - can be found [here](https://github.com/vstenby/Best-of-Mat-1/blob/main/overview.tsv)
-- [x] Export specific clip(s)
+      ____            _            __   __  __       _     __ 
+     |  _ \          | |          / _| |  \/  |     | |   /_ |
+     | |_) | ___  ___| |_    ___ | |_  | \  / | __ _| |_   | |
+     |  _ < / _ \/ __| __|  / _ \|  _| | |\/| |/ _` | __|  | |
+     | |_) |  __/\__ \ |_  | (_) | |   | |  | | (_| | |_   | |
+     |____/ \___||___/\__|  \___/|_|   |_|  |_|\__,_|\__|  |_|
+        
+             Best of Mat 1: Release 2.0.0 (03/04/2021)        
 
-### Future Features
+Author: Viktor Stenby Johansson
+If you have any problems with this software, feel free to reach out to me via Facebook.
 
-- [ ] Google Chrome Extension such that users can easily add more clips. 
+usage: main.py [-h] [--list] [--clipname CLIPNAME]
+               [--minrating {1,2,3,4,5,6,7,8,9,10}]
+               [--maxrating {1,2,3,4,5,6,7,8,9,10}]
+               [--minduration MINDURATION] [--maxduration MAXDURATION]
+               [--tag TAG] [--mint1 MINT1] [--maxt1 MAXT1] [--mint2 MINT2]
+               [--maxt2 MAXT2] [--filetype {mp3,mp4}] [--noprefix]
+               [--clearexport] [--silent]
 
-Please feel free to add suggestions for features [here](https://github.com/vstenby/Best-of-Mat-1/issues).
+optional arguments:
+  -h, --help            show this help message and exit
+  --list                print the list of clips instead of actually exporting
+                        them.
+  --clipname CLIPNAME   specify which clip name you want to export.
+  --minrating {1,2,3,4,5,6,7,8,9,10}
+                        only export clips with rating >= minrating.
+  --maxrating {1,2,3,4,5,6,7,8,9,10}
+                        only export clips with rating <= maxrating.
+  --minduration MINDURATION
+                        only export clips with duration >= minduration.
+                        duration is in seconds.
+  --maxduration MAXDURATION
+                        only export clips with duration <= maxduration.
+                        duration is in seconds.
+  --tag TAG             regex for specfiying which tag you want to export.
+  --mint1 MINT1         only export clips with mint1 <= t1.
+  --maxt1 MAXT1         only export clips with t1 <= maxt1.
+  --mint2 MINT2         only export clips with mint2 <= t2.
+  --maxt2 MAXT2         only export clips with t2 <= maxt2.
+  --filetype {mp3,mp4}  filetype to export as - either mp3 or mp4.
+  --noprefix            include prefix specifying info about the clip.
+  --clearexport         clear the export folder before exporting.
+  --silent              if --silent is passed, then progress is not printed to
+                        the console.
+```
+
+### Examples Using Optional Arguments
+
+| What You Want    | How You Do It
+| :-:              | :-:   |
+| List all clips   | ``python main.py --list`` |
+| Export all clips as mp3 | ``python main.py`` | 
+| Export all clips as mp4 | ``python main.py --filetype 'mp4' ``|
+| Export clips with rating 8 or above | ``python main.py --minrating 8 ``|
+| Export clips with rating 10 as mp4  | ``python main.py --minrating 10 --filetype 'mp4'``|
+| Export clips shorter than 30 seconds | ``python main.py --maxduration 30 ``|
+| Export clips from E19 | ``python main.py --tag E19* ``|
+| Export clips from the first 60 seconds of all lectures (e.g. "Godmorgen"-clips) | ``python main.py --maxt1 60``|
+
+
+If you have any ideas for useful optional arguments, please feel free to reach out to me or request a feature [here](https://github.com/vstenby/Best-of-Mat-1/issues).
 
 ## Special Thanks
 
