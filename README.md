@@ -1,6 +1,6 @@
 # Best of Mat 1
 
-## About
+## An Even Better Story... ⏳
 
 In the summer of 2018, my friend Rasmus Aagaard ([@rasgaard](https://github.com/rasgaard)) and I enjoyed watching Advanced Engineering Mathematics 1 lectures by Michael Pedersen for fun. I had just finished the course and rewatched the lectures for fun, while Rasmus had finished the course the year before albeit with a different lecturer.
 
@@ -38,7 +38,7 @@ Therefore, I came up with the idea of having a so-called "Klippeark" for each le
 
 Then, the main idea was to download all of the lectures and let my clipping script do the clipping. Then, I could just select my favourite clips and do some fine trimming such that I had 2 x 30 minutes. My new system worked pretty much perfectly! There was only one flaw, and that was that while I sent out the "Klippeark" to friends, I had watched most of the lectures before they even got around to watching them... but I mean, with the ease of clipping that my new system provided, it was a joy to watch Michael's new lectures (which I had not seen before). [Best of Mat 1 - 2018/2019](https://www.facebook.com/events/362771311018272/) turned out to be a great success. Michael once again attended the event and like the previous year, we gave him some flowers and a big basket filled with various wines, chocolate and beer.
 
-## Installation and Setup
+## Installation and Setup 🛠️
 
 1. Download the repository from GitHub by writing ``git clone https://github.com/vstenby/Best-of-Mat-1.git`` in your terminal.
 
@@ -127,7 +127,7 @@ optional arguments:
 
 If you have any ideas for useful optional arguments, please feel free to reach out to me or request a feature [here](https://github.com/vstenby/Best-of-Mat-1/issues).
 
-## Special Thanks
+## Special Thanks 🙏
 
 I would like to thank Jonas ([@YoonAddicting](https://github.com/YoonAddicting/DTU-Video-Downloader)) for his DTU-Video-Downloader. Without his downloader, Best of Mat 1 would not have happend after DTU changed over to video.dtu.dk. 
 
