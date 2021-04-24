@@ -37,10 +37,15 @@ def load_clips():
         temp = pd.read_csv('./csv/'+csv, sep='\t')
         temp['tag'] = csv.split(' ')[0]
         temp['nclip'] = np.arange(1, len(temp)+1)
+        
+        #Make sure we don't get any of them nans.
+        if np.any(pd.isna(temp)):
+            raise ValueError(f'NaN found in {csv}.')
+            
         clips = clips.append(temp)
 
     clips = clips.merge(metadata, on='tag')
-    clips['duration'] = [ts_to_int(duration(x,y)) for x, y in zip(clips['t1'], clips['t2'])]
+    clips['duration'] = [ts_to_int(duration(x,y)) for x, y in zip(clips['t1'], clips['t2'])]    
     clips['name'] = clips['name'].apply(lambda x : x.strip())
     
     return clips
