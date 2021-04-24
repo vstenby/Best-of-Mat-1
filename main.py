@@ -49,11 +49,11 @@ def main():
                         help='only export clips with t2 <= maxt2.')
     
     parser.add_argument('--filetype', default='mp3', type=str, choices=['mp3', 'mp4'], help='filetype to export as either mp3 or mp4.')
-    parser.add_argument('--normalizeaudio', default=False, action='store_true', help='normalize the audio of the output clip, which will make the clipper take longer. this only works with mp4 at the moment.')
+    parser.add_argument('--normalizeaudio', default=True, action='store_true', help='normalize the audio of the output clip. this only works with mp4 at the moment.')
     parser.add_argument('--noprefix', default=False,  action='store_true', help='include prefix specifying info about the clip.')
     parser.add_argument('--clearexport', default=False, action='store_true', help='clear the export folder before exporting.')
     parser.add_argument('--silent', default=False, action='store_true', help='if --silent is passed, then progress is not printed to the console.')
-    #TODO: Add some 
+    #TODO: Add some more arguments. 
     
     args = parser.parse_args()
         
