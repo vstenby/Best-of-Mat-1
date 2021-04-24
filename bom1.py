@@ -24,7 +24,7 @@ def welcome():
 
 def load_clips():
     #Read in the metadata, download links etc. etc.
-    metadata = pd.read_csv('./csv/metadata.csv',sep=';')
+    metadata = pd.read_csv('./csv/metadata.csv',sep=',')
 
     csvs = [x for x in os.listdir('./csv') if (x.endswith('.csv')) and (x != 'metadata.csv')]
     
@@ -34,7 +34,7 @@ def load_clips():
     clips = pd.DataFrame(columns=['tag', 'nclip', 'name', 't1', 't2', 'rating'])
 
     for csv in csvs:
-        temp = pd.read_csv('./csv/'+csv, sep=';')
+        temp = pd.read_csv('./csv/'+csv, sep=',')
         temp['tag'] = csv.split(' ')[0]
         temp['nclip'] = np.arange(1, len(temp)+1)
         
