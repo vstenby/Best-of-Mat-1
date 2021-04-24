@@ -48,7 +48,8 @@ def main():
     parser.add_argument('--maxt2', default=np.inf, type=int,
                         help='only export clips with t2 <= maxt2.')
     
-    parser.add_argument('--filetype', default='mp3', type=str, choices=['mp3', 'mp4'], help='filetype to export as - either mp3 or mp4.')
+    parser.add_argument('--filetype', default='mp3', type=str, choices=['mp3', 'mp4'], help='filetype to export as either mp3 or mp4.')
+    parser.add_argument('--normalizeaudio', default=False, action='store_true', help='normalize the audio of the output clip, which will make the clipper take longer. this only works with mp4 at the moment.')
     parser.add_argument('--noprefix', default=False,  action='store_true', help='include prefix specifying info about the clip.')
     parser.add_argument('--clearexport', default=False, action='store_true', help='clear the export folder before exporting.')
     parser.add_argument('--silent', default=False, action='store_true', help='if --silent is passed, then progress is not printed to the console.')
@@ -61,7 +62,10 @@ def main():
     #Make sure that we have the ./export folder.
     if not os.path.exists('./export'):
         os.mkdir('./export')
-            
+    
+    #Remove all of the 'Placeholder' clips.
+    placeholder_mask = (clips['name'] != 'Placeholder').to_numpy()
+    
     #Construct the masks for each query.
     if args.clipname is not None:
         clipname_mask = (clips['name'] == args.clipname).to_numpy()
@@ -134,7 +138,7 @@ def main():
     
     #Combine all of the masks into a final single mask, and cut out the relevant clips.
     final_mask = (clipname_mask) & (minrating_mask) & (maxrating_mask) & (minduration_mask) & (maxduration_mask) & (tags_mask)\
-                 & (mint1_mask) & (maxt1_mask) & (mint2_mask) & (maxt2_mask)
+                 & (mint1_mask) & (maxt1_mask) & (mint2_mask) & (maxt2_mask) & (placeholder_mask)
     
     clips_final = clips.copy().loc[final_mask]
     
@@ -159,10 +163,14 @@ def main():
             print('')
             
         for t1, t2, url, outpath, i in zip(clips_final['t1'], clips_final['t2'], clips_final['stream_link'], clips_final['outpath'], range(0, n)):
-            rtrn = ffmpeg_clip(t1,t2,url,outpath)
+            rtrn = ffmpeg_clip(t1,t2,url,outpath, normalize=args.normalizeaudio)
             progress = f'({i+1}/{n})'.ljust(9)
             if not args.silent:
                 if not rtrn:
+                    #Replace letters causing trouble.
+                    outpath = outpath.replace(' ','_')\
+                                     .replace(',','')\
+                                     .replace("'","") 
                     print(f'{progress} {outpath} succesfully exported.')
                 else:
                     print(f'{progress} {outpath} was not exported.')

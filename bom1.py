@@ -14,7 +14,7 @@ def welcome():
      | |_) |  __/\__ \ |_  | (_) | |   | |  | | (_| | |_   | |
      |____/ \___||___/\__|  \___/|_|   |_|  |_|\__,_|\__|  |_|
         """,
-        '     '+'Best of Mat 1: Release 2.0.0 (03/04/2021)'.center(57),
+        '     '+'Best of Mat 1: Release 2.1.0 (24/04/2021)'.center(57),
         '',
         'Author: Viktor Stenby Johansson',
         'If you have any problems with this software, feel free to reach out to me via Facebook.',
@@ -123,6 +123,7 @@ def fetch_info(urls):
         #Get the stream link and download link.
         stream_links.append(js["entryResult"]["meta"]["dataUrl"])
         download_links.append(js["entryResult"]["meta"]["downloadUrl"])
+        print(f'Info fetched for video {i+1}/{len(urls)}', end='\r')
         
     #If we only queried for one url.
     if len(stream_titles) == 1: 
@@ -193,7 +194,7 @@ def print_clips(clips):
         print(tag.ljust(10) + name.ljust(100) + str(rating).rjust(6))
     return
 
-def ffmpeg_clip(t1, t2, url, pathout):
+def ffmpeg_clip(t1, t2, url, pathout, normalize=False):
     import subprocess
     
     #Replace letters causing trouble.
@@ -211,8 +212,9 @@ def ffmpeg_clip(t1, t2, url, pathout):
             
     rtrn = subprocess.call(bashcmd, shell=True)
     
+    if normalize and pathout.endswith('.mp4'):
+        #This might fail if you don't have ffmpeg-normalize installed. pip3 install ffmpeg-normalize. Normalization also only seems to work with mp4.
+        normalize_rtrn = subprocess.call(f'ffmpeg-normalize {pathout} -o {pathout} -c:a aac -b:a 192k -f', shell=True, 
+                                         stdout=subprocess.DEVNULL, stderr=subprocess.STDOUT)
+        
     return rtrn
-    
-
-    
-    
