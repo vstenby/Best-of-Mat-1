@@ -71,7 +71,7 @@ python main.py --help
      | |_) |  __/\__ \ |_  | (_) | |   | |  | | (_| | |_   | |
      |____/ \___||___/\__|  \___/|_|   |_|  |_|\__,_|\__|  |_|
         
-             Best of Mat 1: Release 2.0.0 (03/04/2021)        
+             Best of Mat 1: Release 2.1.0 (24/04/2021)        
 
 Author: Viktor Stenby Johansson
 If you have any problems with this software, feel free to reach out to me via Facebook.
@@ -81,8 +81,8 @@ usage: main.py [-h] [--list] [--clipname CLIPNAME]
                [--maxrating {1,2,3,4,5,6,7,8,9,10}]
                [--minduration MINDURATION] [--maxduration MAXDURATION]
                [--tag TAG] [--mint1 MINT1] [--maxt1 MAXT1] [--mint2 MINT2]
-               [--maxt2 MAXT2] [--filetype {mp3,mp4}] [--noprefix]
-               [--clearexport] [--silent]
+               [--maxt2 MAXT2] [--filetype {mp3,mp4}] [--normalizeaudio]
+               [--noprefix] [--clearexport] [--silent]
 
 optional arguments:
   -h, --help            show this help message and exit
@@ -104,7 +104,10 @@ optional arguments:
   --maxt1 MAXT1         only export clips with t1 <= maxt1.
   --mint2 MINT2         only export clips with mint2 <= t2.
   --maxt2 MAXT2         only export clips with t2 <= maxt2.
-  --filetype {mp3,mp4}  filetype to export as - either mp3 or mp4.
+  --filetype {mp3,mp4}  filetype to export as either mp3 or mp4.
+  --normalizeaudio      normalize the audio of the output clip, which will
+                        make the clipper take longer. this only works with mp4
+                        at the moment.
   --noprefix            include prefix specifying info about the clip.
   --clearexport         clear the export folder before exporting.
   --silent              if --silent is passed, then progress is not printed to
