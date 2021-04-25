@@ -63,8 +63,8 @@ def main():
     if not os.path.exists('./export'):
         os.mkdir('./export')
     
-    #Remove all of the 'Placeholder' clips.
-    placeholder_mask = (clips['name'] != 'Placeholder').to_numpy()
+    #Remove all of the 'Placeholder' clips with rating 0
+    placeholder_mask = ~((clips['name'] == 'Placeholder').to_numpy() & (clips['rating'] == 0).to_numpy())
     
     #Construct the masks for each query.
     if args.clipname is not None:
