@@ -1,5 +1,7 @@
 # Best of Mat 1
 
+![](https://raw.githubusercontent.com/vstenby/Best-of-Mat-1/main/cover.gif)
+
 ## An Even Better Story... ⏳
 
 In the summer of 2018, my friend Rasmus Aagaard ([@rasgaard](https://github.com/rasgaard)) and I enjoyed watching Advanced Engineering Mathematics 1 lectures by Michael Pedersen for fun. I had just finished the course and rewatched the lectures for fun, while Rasmus had finished the course the year before albeit with a different lecturer.
