@@ -20,7 +20,12 @@ Secondly, since I worked on a local project, no one were able to help out with t
 
 Thirdly, and perhaps the biggest problem, was that I had no system of labeling the clips or rating them. In the end, I had boiled all of the lectures down to **3.5 hours** of funny moments and jokes. But even then, some jokes were funnier than others, so if I had to shorten it even further down, I had to watch 3.5 hours of jokes to find the funniest... and after watching 3.5 hours of jokes, it's very hard to determine if something is fun or not. 
 
-Nevertheless, me and some friends threw together [Best of Mat 1-event](https://www.facebook.com/events/459509117872655/), where we filled up DTU's biggest auditorium at the time and had 637 attendees on Facebook. None of us expected that **that** many people would show up to watch highlights. Originally, we figured some 30 people would join in Kælderbaren, but the event grew totally out of proportions. After the event, I realized that if I was ever to remake the event, I had to have some way of cutting it even further down since that for most normal people, 3.5 hours was too long, and that perhaps, 2 x 30 minutes would be more fitting. After the event, I went back to iMovie and clipped the 3.5 hours further down to what is today [Best of Mat 1 - 2017/2018](https://www.youtube.com/watch?v=vr192nWESRA). 
+Nevertheless, me and some friends threw together [Best of Mat 1-event](https://www.facebook.com/events/459509117872655/), where we filled up DTU's biggest auditorium at the time and had 637 attendees on Facebook. None of us expected that **that** many people would show up to watch highlights. Originally, we figured some 30 people would join in Kælderbaren, but the event grew totally out of proportions. 
+
+https://user-images.githubusercontent.com/35364024/115996963-a2a6d800-a5e1-11eb-805e-a1b2ab71e45b.mov
+
+
+After the event, I realized that if I was ever to remake the event, I had to have some way of cutting it even further down since that for most normal people, 3.5 hours was too long, and that perhaps, 2 x 30 minutes would be more fitting. After the event, I went back to iMovie and clipped the 3.5 hours further down to what is today [Best of Mat 1 - 2017/2018](https://www.youtube.com/watch?v=vr192nWESRA). 
 
 ### Best of Mat 1 (2018/2019)
 
