@@ -48,7 +48,8 @@ def main():
     parser.add_argument('--maxt2', default=np.inf, type=int,
                         help='only export clips with t2 <= maxt2.')
     
-    parser.add_argument('--filetype', default='mp3', type=str, choices=['mp3', 'mp4'], help='filetype to export as either mp3 or mp4.')
+    
+    parser.add_argument('--filetype', default='mp3', type=str, choices=['mp3', 'mp4', 'gif'], help='filetype to export as either mp3, mp4 or gif.')
     parser.add_argument('--normalizeaudio', default=True, action='store_true', help='normalize the audio of the output clip. this only works with mp4 at the moment.')
     parser.add_argument('--noprefix', default=False,  action='store_true', help='include prefix specifying info about the clip.')
     parser.add_argument('--clearexport', default=False, action='store_true', help='clear the export folder before exporting.')
@@ -161,9 +162,16 @@ def main():
         if n > 1:
             input(f'A total of {n} clips were found. Press enter to export. ') #Ask for confirmation if several clips are exported.
             print('')
-            
+        
+        #Multiprocessing test
+        import multiprocessing as mp
+        pool = mp.Pool(mp.cpu_count())
+        
         for t1, t2, url, outpath, i in zip(clips_final['t1'], clips_final['t2'], clips_final['stream_link'], clips_final['outpath'], range(0, n)):
+            
             rtrn = ffmpeg_clip(t1,t2,url,outpath, normalize=args.normalizeaudio)
+            #pool.apply_async(ffmpeg_clip, args=(t1, t2, url, outpath, args.normalizeaudio))
+            
             progress = f'({i+1}/{n})'.ljust(9)
             if not args.silent:
                 if not rtrn:
@@ -174,7 +182,11 @@ def main():
                     print(f'{progress} {outpath} succesfully exported.')
                 else:
                     print(f'{progress} {outpath} was not exported.')
-                    
+        
+           
+        pool.close()
+        pool.join()
+        
         end_time = time.time()
         print('')
         print(f'Time elapsed: {end_time-start_time} seconds.')

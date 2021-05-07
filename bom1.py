@@ -49,9 +49,7 @@ def load_clips():
     clips['name'] = clips['name'].apply(lambda x : x.strip())
     
     return clips
-                                                                   
-
-                                             
+                                                                
 def fetch_info(urls):
     from getpass import getpass
     from selenium import webdriver
@@ -209,7 +207,7 @@ def ffmpeg_clip(t1, t2, url, pathout, normalize=False):
     
     if pathout.endswith('.mp3'):
         bashcmd = f'ffmpeg -ss 00:{t1}.00 -i "{url}" -t 00:{duration(t1,t2)}.00 -q:a 0 -map a {pathout} -loglevel error'
-    elif pathout.endswith('.mp4'):
+    elif pathout.endswith('.mp4') or pathout.endswith('.gif'):
         #bashcmd = f'ffmpeg -ss 00:{t1}.00 -i "{url}" -t 00:{duration(t1,t2)}.00 -c copy {pathout} -loglevel error'
         bashcmd = f'ffmpeg -ss 00:{t1}.00 -i "{url}" -t 00:{duration(t1,t2)}.00 {pathout} -loglevel error'
     else:
