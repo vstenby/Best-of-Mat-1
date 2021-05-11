@@ -102,12 +102,12 @@ def main():
         tags_mask = np.ones(n).astype(bool)
         
     if args.mint1 != 0:
-        mint1_mask = args.mint1 <= clips['t1'].apply(lambda x : ts_to_int(x)).to_numpy()
+        mint1_mask = args.mint1 <= clips['t1'].apply(lambda x : timestamp_to_seconds(x)).to_numpy()
     else:
         mint1_mask = np.ones(n).astype(bool)
         
     if args.maxt1 != np.inf:
-        maxt1_mask = clips['t1'].apply(lambda x : ts_to_int(x)).to_numpy() <= args.maxt1
+        maxt1_mask = clips['t1'].apply(lambda x : timestamp_to_seconds(x)).to_numpy() <= args.maxt1
     else:
         maxt1_mask = np.ones(n).astype(bool)
         
