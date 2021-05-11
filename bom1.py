@@ -4,6 +4,7 @@
 import pandas as pd
 import os
 import numpy as np
+import time
 
 def welcome():
     st=["""
@@ -45,7 +46,7 @@ def load_clips():
         clips = clips.append(temp)
 
     clips = clips.merge(metadata, on='tag')
-    clips['duration'] = [ts_to_int(duration(x,y)) for x, y in zip(clips['t1'], clips['t2'])]    
+    clips['duration'] = [timestamp_to_seconds(y) - timestamp_to_seconds(x) for x, y in zip(clips['t1'], clips['t2'])]    
     clips['name'] = clips['name'].apply(lambda x : x.strip())
     
     return clips
@@ -147,42 +148,33 @@ class reversor:
     def __lt__(self, other):
         return other.obj < self.obj
 
-def ts_to_int(ts):
-    '''
-    Helper function to convert timestamp to int.
-    '''
-    if type(ts) is str:
-        if ':' in ts:
-            #We either have HH:MM:SS or HH:SS
-            if ts.count(':') == 1:
-                #MM:SS
-                hh     = 0
-                mm, ss = ts.split(':')
-                mm, ss = int(mm), int(ss)
+def timestamp_to_seconds(timestamp):
+    split_timestamp = timestamp.split(':') 
+    try:
+        split_timestamp = [int(x) for x in split_timestamp]
+    except:
+        raise ValueError(f'Invalid timestamp input: {timestamp}')
 
-            elif ts.count(':') == 2:
-                #HH:MM:SS
-                hh, mm, ss = ts.split(':')
-                hh, mm, ss = int(hh), int(mm), int(ss)
-        #Check that mm < 60 and ss < 60.
-        if not ((mm < 60) and (ss < 60)):
-            raise ValueError(f'Minute or second count is more than 60. Given timestamp: {ts}.')
-        s = ss + mm*60 + hh*60*60
+    if len(split_timestamp) == 2:
+        #MM:SS
+        hh, (mm, ss) = 0, split_timestamp
+    elif len(split_timestamp) == 3:
+        #HH:MM:SS
+        hh, mm, ss = split_timestamp
     else:
-        s = int(ts)
-    return s
+        raise ValueError(f'Wrong number of :s in the input string. {timestamp}')
 
-def duration(t1, t2):
-    
-    diff = ts_to_int(t2) - ts_to_int(t1)
-    
-    #Clip is between 0 seconds and 1 hour.
-    assert (diff > 0) and (diff < 3600)
+    #Assertions
+    assert 0 <= hh, 'Hour should be positive'
+    assert (0 <= mm) & (mm < 60), 'Minute should be between 0 and 59.'
+    assert (0 <= ss) & (ss < 60), 'Second should be between 0 and 59.'
 
-    minutes, seconds = divmod(diff, 60)
+    return hh*60**2 + mm*60 + ss
 
-    return f'{minutes:02}:{seconds:02}'
-
+def seconds_to_timestamp(seconds):
+    assert 0 <= seconds, f'Seconds should be larger than 0. Seconds given: {seconds}'
+    return time.strftime('%H:%M:%S', time.gmtime(seconds))
+ 
 def print_clips(clips):
     if len(clips) == 0:
         return
@@ -205,11 +197,15 @@ def ffmpeg_clip(t1, t2, url, pathout, normalize=False):
                      .replace(',','')\
                      .replace("'","") 
     
+    
+    t1_timestamp = seconds_to_timestamp(t1) #Subtract t1 padding here.
+    t2_timestamp = seconds_to_timestamp(t2) #Add t2 padding here.
+    
+    seconds_to_timestamp(t1)
     if pathout.endswith('.mp3'):
-        bashcmd = f'ffmpeg -ss 00:{t1}.00 -i "{url}" -t 00:{duration(t1,t2)}.00 -q:a 0 -map a {pathout} -loglevel error'
+        bashcmd = f'ffmpeg -ss {t1_timestamp}.00 -i "{url}" -t {t2_timestamp}.00 -q:a 0 -map a {pathout} -loglevel error'
     elif pathout.endswith('.mp4') or pathout.endswith('.gif'):
-        #bashcmd = f'ffmpeg -ss 00:{t1}.00 -i "{url}" -t 00:{duration(t1,t2)}.00 -c copy {pathout} -loglevel error'
-        bashcmd = f'ffmpeg -ss 00:{t1}.00 -i "{url}" -t 00:{duration(t1,t2)}.00 {pathout} -loglevel error'
+        bashcmd = f'ffmpeg -ss {t1_timestamp}.00 -i "{url}" -t {t2_timestamp}.00 {pathout} -loglevel error'
     else:
         raise ValueError('Wrong output format.')
             

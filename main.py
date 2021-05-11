@@ -48,6 +48,8 @@ def main():
     parser.add_argument('--maxt2', default=np.inf, type=int,
                         help='only export clips with t2 <= maxt2.')
     
+    parser.add_argument('--prepad', default=0, type=int, help='pads the start of the clip with <prepad> seconds.')
+    parser.add_argument('--postpad', default=0, type=int, help='pads the end of clip with <endpad> seconds.')
     
     parser.add_argument('--filetype', default='mp3', type=str, choices=['mp3', 'mp4', 'gif'], help='filetype to export as either mp3, mp4 or gif.')
     parser.add_argument('--normalizeaudio', default=True, action='store_true', help='normalize the audio of the output clip. this only works with mp4 at the moment.')
@@ -110,12 +112,12 @@ def main():
         maxt1_mask = np.ones(n).astype(bool)
         
     if args.mint2 != 0:
-        mint2_mask = args.mint2 <= clips['t2'].apply(lambda x : ts_to_int(x)).to_numpy()
+        mint2_mask = args.mint2 <= clips['t2'].apply(lambda x : timestamp_to_seconds(x)).to_numpy()
     else:
         mint2_mask = np.ones(n).astype(bool)
         
     if args.maxt2 != np.inf:
-        maxt2_mask = clips['t2'].apply(lambda x : ts_to_int(x)).to_numpy() <= args.maxt2
+        maxt2_mask = clips['t2'].apply(lambda x : timestamp_to_seconds(x)).to_numpy() <= args.maxt2
     else:
         maxt2_mask = np.ones(n).astype(bool)
         
@@ -163,14 +165,11 @@ def main():
             input(f'A total of {n} clips were found. Press enter to export. ') #Ask for confirmation if several clips are exported.
             print('')
         
-        #Multiprocessing test
-        import multiprocessing as mp
-        pool = mp.Pool(mp.cpu_count())
-        
         for t1, t2, url, outpath, i in zip(clips_final['t1'], clips_final['t2'], clips_final['stream_link'], clips_final['outpath'], range(0, n)):
             
+            t1, t2 = timestamp_to_seconds(t1) - args.prepad, timestamp_to_seconds(t2) + args.postpad
+            
             rtrn = ffmpeg_clip(t1,t2,url,outpath, normalize=args.normalizeaudio)
-            #pool.apply_async(ffmpeg_clip, args=(t1, t2, url, outpath, args.normalizeaudio))
             
             progress = f'({i+1}/{n})'.ljust(9)
             if not args.silent:
@@ -182,11 +181,7 @@ def main():
                     print(f'{progress} {outpath} succesfully exported.')
                 else:
                     print(f'{progress} {outpath} was not exported.')
-        
-           
-        pool.close()
-        pool.join()
-        
+
         end_time = time.time()
         print('')
         print(f'Time elapsed: {end_time-start_time} seconds.')
