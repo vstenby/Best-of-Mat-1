@@ -46,8 +46,7 @@ Therefore, I came up with the idea of having a so-called "Klippeark" for each le
 
 Then, the main idea was to download all of the lectures and let my clipping script do the clipping. Then, I could just select my favourite clips and do some fine trimming such that I had 2 x 30 minutes. My new system worked pretty much perfectly! There was only one flaw, and that was that while I sent out the "Klippeark" to friends, I had watched most of the lectures before they even got around to watching them... but I mean, with the ease of clipping that my new system provided, it was a joy to watch Michael's new lectures (which I had not seen before). [Best of Mat 1 - 2018/2019](https://www.facebook.com/events/362771311018272/) turned out to be a great success. Michael once again attended the event and like the previous year, we gave him some flowers and a big basket filled with various wines, chocolate and beer.
 
-![IMG_0190](https://user-images.githubusercontent.com/35364024/115997156-6e7fe700-a5e2-11eb-838c-a8909b98b781.JPG)
-
+<img src="https://user-images.githubusercontent.com/35364024/118003790-2c2c0900-b349-11eb-9c83-261dfed54eb3.png" width="500" height="500">
 
 ## Installation and Setup 🛠️
 
