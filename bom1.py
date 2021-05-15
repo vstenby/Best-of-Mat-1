@@ -199,13 +199,12 @@ def ffmpeg_clip(t1, t2, url, pathout, normalize=False):
     
     
     t1_timestamp = seconds_to_timestamp(t1) #Subtract t1 padding here.
-    t2_timestamp = seconds_to_timestamp(t2) #Add t2 padding here.
+    duration = seconds_to_timestamp(t2-t1) #Add t2 padding here.
     
-    seconds_to_timestamp(t1)
     if pathout.endswith('.mp3'):
-        bashcmd = f'ffmpeg -ss {t1_timestamp}.00 -i "{url}" -t {t2_timestamp}.00 -q:a 0 -map a {pathout} -loglevel error'
+        bashcmd = f'ffmpeg -ss {t1_timestamp}.00 -i "{url}" -t {duration}.00 -q:a 0 -map a {pathout} -loglevel error'
     elif pathout.endswith('.mp4') or pathout.endswith('.gif'):
-        bashcmd = f'ffmpeg -ss {t1_timestamp}.00 -i "{url}" -t {t2_timestamp}.00 {pathout} -loglevel error'
+        bashcmd = f'ffmpeg -ss {t1_timestamp}.00 -i "{url}" -t {duration}.00 {pathout} -loglevel error'
     else:
         raise ValueError('Wrong output format.')
             
