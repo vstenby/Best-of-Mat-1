@@ -48,8 +48,8 @@ def main():
     parser.add_argument('--maxt2', default=np.inf, type=int,
                         help='only export clips with t2 <= maxt2.')
     
-    parser.add_argument('--prepad', default=0, type=int, help='pads the start of the clip with <prepad> seconds.')
-    parser.add_argument('--postpad', default=0, type=int, help='pads the end of clip with <endpad> seconds.')
+    parser.add_argument('--prepad', default=0, type=float, help='pads the start of the clip with <prepad> seconds.')
+    parser.add_argument('--postpad', default=0, type=float, help='pads the end of clip with <endpad> seconds.')
     
     parser.add_argument('--filetype', default='mp3', type=str, choices=['mp3', 'mp4', 'gif'], help='filetype to export as either mp3, mp4 or gif.')
     parser.add_argument('--normalizeaudio', default=True, action='store_true', help='normalize the audio of the output clip. this only works with mp4 at the moment.')
@@ -57,9 +57,15 @@ def main():
     parser.add_argument('--clearexport', default=False, action='store_true', help='clear the export folder before exporting.')
     parser.add_argument('--silent', default=False, action='store_true', help='if --silent is passed, then progress is not printed to the console.')
     #TODO: Add some more arguments. 
+
     
     args = parser.parse_args()
-        
+    
+    #A few assertions
+    assert args.prepad >= 0, f'args.prepad should be 0 or greater. args.prepad: {args.prepad}'
+    assert args.postpad >= 0, f'args.postpad should be 0 or greater. args.postpad: {args.postpad}'
+    
+    
     n = len(clips)
     
     #Make sure that we have the ./export folder.
@@ -167,6 +173,7 @@ def main():
         
         for t1, t2, url, outpath, i in zip(clips_final['t1'], clips_final['t2'], clips_final['stream_link'], clips_final['outpath'], range(0, n)):
             
+            #Convert t1 and t2 to seconds and subtract the prepadding and postpadding.
             t1, t2 = timestamp_to_seconds(t1) - args.prepad, timestamp_to_seconds(t2) + args.postpad
             
             rtrn = ffmpeg_clip(t1,t2,url,outpath, normalize=args.normalizeaudio)
@@ -184,7 +191,7 @@ def main():
 
         end_time = time.time()
         print('')
-        print(f'Time elapsed: {end_time-start_time} seconds.')
+        print("Time elapsed: {:.2f} seconds.".format(end_time-start_time))
         return
                 
 if __name__ == '__main__':

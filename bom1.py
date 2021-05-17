@@ -49,6 +49,8 @@ def load_clips():
     clips['duration'] = [timestamp_to_seconds(y) - timestamp_to_seconds(x) for x, y in zip(clips['t1'], clips['t2'])]    
     clips['name'] = clips['name'].apply(lambda x : x.strip())
     
+    assert np.all(clips['duration'] >= 0), 'Clips found with negative duration.'
+    
     return clips
                                                                 
 def fetch_info(urls):
@@ -148,33 +150,50 @@ class reversor:
     def __lt__(self, other):
         return other.obj < self.obj
 
-def timestamp_to_seconds(timestamp):
-    split_timestamp = timestamp.split(':') 
-    try:
-        split_timestamp = [int(x) for x in split_timestamp]
-    except:
-        raise ValueError(f'Invalid timestamp input: {timestamp}')
 
-    if len(split_timestamp) == 2:
-        #MM:SS
-        hh, (mm, ss) = 0, split_timestamp
-    elif len(split_timestamp) == 3:
-        #HH:MM:SS
-        hh, mm, ss = split_timestamp
-    else:
-        raise ValueError(f'Wrong number of :s in the input string. {timestamp}')
-
-    #Assertions
-    assert 0 <= hh, 'Hour should be positive'
-    assert (0 <= mm) & (mm < 60), 'Minute should be between 0 and 59.'
-    assert (0 <= ss) & (ss < 60), 'Second should be between 0 and 59.'
-
-    return hh*60**2 + mm*60 + ss
+def timestamp_to_seconds(ts):
+    '''
+    Converts a timestamp to seconds.
+    '''
+    assert ts.count(':') <= 2, f"Too many :'s in the timestamp: {ts}"
+    assert ts.count('.') <= 1, f"Too many .'s in the timestamp: {ts}"
+    sss_ = 0
+    
+    if ts.count('.') == 1:
+        ts, sss = ts.split('.')
+        sss_ = 0
+        for i, n in enumerate(sss):
+            sss_ += 1/(10**(i+1)) * float(n)
+            
+    seconds = float(sum(int(x) * (60**i) for i, x in enumerate(reversed(ts.split(':'))))) + sss_
+    
+    assert 0 <= seconds, f"Something went wrong with loading the timestamp. {ts}"
+    
+    return seconds
 
 def seconds_to_timestamp(seconds):
-    assert 0 <= seconds, f'Seconds should be larger than 0. Seconds given: {seconds}'
-    return time.strftime('%H:%M:%S', time.gmtime(seconds))
- 
+    '''
+    Convert the seconds to HH:MM:SS:SSS timestamp.
+    '''
+    sss = np.round(seconds - np.floor(seconds),2)
+
+    m, s = divmod(np.floor(seconds), 60)
+    h, m = divmod(m, 60)
+
+    sss = str(sss).split('.')[-1].ljust(2,'0')
+
+    h = str(int(h)).zfill(2); m = str(int(m)).zfill(2); s = str(int(s)).zfill(2);
+
+    return ':'.join([h,m,s]) + '.' + sss
+    
+def duration(t1, t2):
+    t1  = timestamp_to_seconds(t1)
+    t2  = timestamp_to_seconds(t2)
+    dur = t2-t1
+    
+    assert dur >= 0, 'Duration should be zero or positive.'
+    return seconds_to_timestamp(dur)
+     
 def print_clips(clips):
     if len(clips) == 0:
         return
@@ -190,6 +209,9 @@ def print_clips(clips):
     return
 
 def ffmpeg_clip(t1, t2, url, pathout, normalize=False):
+    #t1 and t2 are seconds here.
+    assert 0 <= t1, f'Invalid value of t1: {t1}'
+    
     import subprocess
     
     #Replace letters causing trouble.
@@ -198,13 +220,14 @@ def ffmpeg_clip(t1, t2, url, pathout, normalize=False):
                      .replace("'","") 
     
     
-    t1_timestamp = seconds_to_timestamp(t1) #Subtract t1 padding here.
-    duration = seconds_to_timestamp(t2-t1) #Add t2 padding here.
+    
+    t1_timestamp = seconds_to_timestamp(t1) 
+    duration = seconds_to_timestamp(t2-t1) 
     
     if pathout.endswith('.mp3'):
-        bashcmd = f'ffmpeg -ss {t1_timestamp}.00 -i "{url}" -t {duration}.00 -q:a 0 -map a {pathout} -loglevel error'
+        bashcmd = f'ffmpeg -ss {t1_timestamp} -i "{url}" -t {duration} -q:a 0 -map a {pathout} -loglevel error'
     elif pathout.endswith('.mp4') or pathout.endswith('.gif'):
-        bashcmd = f'ffmpeg -ss {t1_timestamp}.00 -i "{url}" -t {duration}.00 {pathout} -loglevel error'
+        bashcmd = f'ffmpeg -ss {t1_timestamp} -i "{url}" -t {duration} {pathout} -loglevel error'
     else:
         raise ValueError('Wrong output format.')
             
