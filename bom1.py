@@ -27,7 +27,7 @@ def load_clips():
     #Read in the metadata, download links etc. etc.
     metadata = pd.read_csv('./csv/metadata.csv',sep=',')
 
-    csvs = [x for x in os.listdir('./csv') if (x.endswith('.csv')) and (x != 'metadata.csv')]
+    csvs = [x for x in os.listdir('./csv') if (x.endswith('.csv')) and (x != 'metadata.csv') and (x != 'kan-i-se-det.csv')]
     
     #Sort by all sorts of stuff. Basically make sure that the csvs are loaded in the right order.
     csvs.sort(key = lambda element: (int(element[1:3]), reversor(element[0]), element[3], element[6:8]))
