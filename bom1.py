@@ -27,7 +27,7 @@ def load_clips():
     #Read in the metadata, download links etc. etc.
     metadata = pd.read_csv('./csv/metadata.csv',sep=',')
 
-    csvs = [x for x in os.listdir('./csv') if (x.endswith('.csv')) and (x != 'metadata.csv') and (x != 'kan-i-se-det.csv')]
+    csvs = [x for x in os.listdir('./csv') if (x.endswith('.csv')) and (x != 'metadata.csv')]
     
     #Sort by all sorts of stuff. Basically make sure that the csvs are loaded in the right order.
     csvs.sort(key = lambda element: (int(element[1:3]), reversor(element[0]), element[3], element[6:8]))
@@ -222,13 +222,13 @@ def ffmpeg_clip(t1, t2, url, pathout, normalize=False):
     
     
     t1_timestamp = seconds_to_timestamp(t1) 
-    #t2_timestamp = seconds_to_timestamp(t2) 
+    t2_timestamp = seconds_to_timestamp(t2) 
     duration = seconds_to_timestamp(t2-t1) 
     
     if pathout.endswith('.mp3'):
-        bashcmd = f'ffmpeg -ss {t1_timestamp} -i "{url}" -t {duration} -q:a 0 -map a {pathout} -loglevel error'
+        bashcmd = f'ffmpeg -ss {t1_timestamp} -i "{url}" -to {t2_timestamp} -q:a 0 -map a {pathout} -loglevel error'
     elif pathout.endswith('.mp4') or pathout.endswith('.gif'):
-        bashcmd = f'ffmpeg -ss {t1_timestamp} -i "{url}" -t {duration} {pathout} -loglevel error'
+        bashcmd = f'ffmpeg -ss {t1_timestamp} -i "{url}" -to {t2_timestamp} {pathout} -loglevel error'
     else:
         raise ValueError('Wrong output format.')
             
