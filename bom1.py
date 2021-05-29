@@ -5,6 +5,7 @@ import pandas as pd
 import os
 import numpy as np
 import time
+import subprocess
 
 def welcome():
     st=["""
@@ -53,92 +54,6 @@ def load_clips():
     
     return clips
                                                                 
-def fetch_info(urls):
-    from getpass import getpass
-    from selenium import webdriver
-    from selenium.webdriver.common.keys import Keys
-    import os
-    import json
-    
-    '''
-    Input: 
-        urls, either a single or list of urls pointing to a lecture,
-        e.g. https://video.dtu.dk/media/Uge+11A+Symmetriske+matricer+-+del+1/0_knty601o/185135
-        
-    Output:
-        (stream_titles, stream_links, download_links)
-        stream_titles  are the lecture title, where ':', ',' and '.' is removed.
-        stream_links   are the links to the streamed version of the lecture.
-        download_links are the links to downloading the lecture. 
-    '''
-    
-    username = input("Please enter your DTU login: ")
-    password = getpass("Please enter your DTU password: ")
-    
-    if not os.path.isfile('./chromedriver'):
-            raise Exception('Chromedriver cannot be located.')
-            
-    # Specify window to not open
-    options = webdriver.ChromeOptions()
-    options.add_argument("headless")
-
-    driver = webdriver.Chrome('./chromedriver',options=options)
-
-    driver.get('https://video.dtu.dk/user/login')
-
-    elem = driver.find_element_by_name('Login[username]')
-    elem.clear()
-    elem.send_keys(username)
-
-    elem = driver.find_element_by_name('Login[password]')
-    elem.clear()
-    elem.send_keys(password)
-
-    print('Logging into video.dtu.dk!')
-    elem.send_keys(Keys.RETURN)
-
-    try:
-        elem = driver.find_element_by_class_name('formError')
-        print('Wrong username or password.')
-    except:
-        print('Succesfully logged into video.dtu.dk!')
-        
-    if type(urls) is not list: urls = [urls]
-    
-    stream_titles   = []
-    stream_links    = []
-    download_links  = []
-    
-    for i, url in enumerate(urls):
-        
-        #Move driver to that url.
-        driver.get(url)
-        
-        stream_titles.append(driver.find_element_by_class_name('entryTitle').text\
-                                   .replace(':','').replace(',','')\
-                                   .replace('Ã¥', 'aa').replace('Ã¦', 'ae')) 
-                                    #We might need to replace more letters eventually.
-        
-        driver.switch_to.frame(driver.find_element_by_css_selector('#kplayer_ifp'))
-        script = driver.find_element_by_css_selector('body script:nth-child(2)').get_attribute("innerHTML")
-        data = (script.splitlines()[2])[37:-1]
-        
-        # Load the data into json format
-        js = json.loads(data)
-        
-        #Get the stream link and download link.
-        stream_links.append(js["entryResult"]["meta"]["dataUrl"])
-        download_links.append(js["entryResult"]["meta"]["downloadUrl"])
-        print(f'Info fetched for video {i+1}/{len(urls)}', end='\r')
-        
-    #If we only queried for one url.
-    if len(stream_titles) == 1: 
-        stream_titles  = stream_titles[0]
-        stream_links   = stream_links[0]
-        download_links = download_links[0]
-    
-    return stream_titles, stream_links, download_links
-
 #Class used to sort the csvs.
 class reversor:
     def __init__(self, obj):
@@ -211,9 +126,7 @@ def print_clips(clips):
 def ffmpeg_clip(t1, t2, url, pathout, normalize=False):
     #t1 and t2 are seconds here.
     assert 0 <= t1, f'Invalid value of t1: {t1}'
-    
-    import subprocess
-    
+        
     #Replace letters causing trouble.
     pathout = pathout.replace(' ','_')\
                      .replace(',','')\
@@ -240,3 +153,118 @@ def ffmpeg_clip(t1, t2, url, pathout, normalize=False):
                                          stdout=subprocess.DEVNULL, stderr=subprocess.STDOUT)
         
     return rtrn
+
+def fetch_info(urls, silent=False):
+    from getpass import getpass
+    from selenium import webdriver
+    from selenium.webdriver.common.keys import Keys
+    import os
+    import json
+    
+    '''
+    Input: 
+        urls, either a single or list of urls pointing to a lecture,
+        e.g. https://video.dtu.dk/media/Uge+11A+Symmetriske+matricer+-+del+1/0_knty601o/185135
+        
+    Output:
+        (stream_titles, stream_links, download_links)
+        stream_titles  are the lecture title, where ':', ',' and '.' is removed.
+        stream_links   are the links to the streamed version of the lecture.
+        download_links are the links to downloading the lecture. 
+    '''
+    
+    if type(urls) is not list: urls = [urls]
+    
+    for url in urls:
+        assert 'video.dtu.dk' in url, f'{url} is not a valid video.dtu.dk link.'
+        
+    username = input("Please enter your DTU login (sxxxxxx@student.dtu.dk): ")
+    password = getpass("Please enter your DTU password: ")
+    
+    if not os.path.isfile('./chromedriver'):
+            raise Exception('Chromedriver cannot be located.')
+            
+    # Specify window to not open
+    options = webdriver.ChromeOptions()
+    options.add_argument("headless")
+
+    driver = webdriver.Chrome('./chromedriver',options=options)
+
+    driver.get('https://video.dtu.dk/user/login')
+
+    elem = driver.find_element_by_name('Login[username]')
+    elem.clear()
+    elem.send_keys(username)
+
+    elem = driver.find_element_by_name('Login[password]')
+    elem.clear()
+    elem.send_keys(password)
+
+    print('Logging into video.dtu.dk!')
+    elem.send_keys(Keys.RETURN)
+
+    try:
+        elem = driver.find_element_by_class_name('formError')
+        print('Wrong username or password.')
+    except:
+        print('Succesfully logged into video.dtu.dk!')
+        
+    stream_titles   = []
+    stream_links    = []
+    download_links  = []
+    
+    for i, url in enumerate(urls):
+
+        try:
+            #Move driver to that url.
+            driver.get(url)            
+            stream_titles.append(driver.find_element_by_class_name('entryTitle').text\
+                                       .replace(':','').replace(',','')\
+                                       .replace('Ã¥', 'aa').replace('Ã¦', 'ae')) 
+                                        #We might need to replace more letters eventually.
+
+            driver.switch_to.frame(driver.find_element_by_css_selector('#kplayer_ifp'))
+            script = driver.find_element_by_css_selector('body script:nth-child(2)').get_attribute("innerHTML")
+            data = (script.splitlines()[2])[37:-1]
+
+            # Load the data into json format
+            js = json.loads(data)
+
+            #Get the stream link and download link.
+            stream_links.append(js["entryResult"]["meta"]["dataUrl"])
+            download_links.append(js["entryResult"]["meta"]["downloadUrl"])
+        except:
+            raise ValueError(f'Failed on url {url}')
+        
+        if i == len(urls)-1:
+            print(f'Info fetched for video {i+1}/{len(urls)}')
+        else:
+            print(f'Info fetched for video {i+1}/{len(urls)}', end='\r')
+        
+        
+    return stream_titles, stream_links, download_links
+
+def check_tag(tag):
+    '''
+    Checks the syntax of tags.
+    '''
+    
+    assert len(tag) == 8, f'Error with {tag}: tag should have length 8.'
+    assert tag[0] in ['E', 'F'], f'Error with {tag}: the first character of the tag should either be E (Efterår) or F (Forår)'
+    try:
+        year = int(tag[1:2])
+        assert year >= 0, f'{tag} is an invalid tag.'
+    except:
+        raise ValueError(f'Error with {tag}: tag[1:2] should be numbers specifying the year.')
+    
+     #This will exclude GEs, but we'll cross that bridge when we get to it...
+    assert tag[3] in ['A', 'B', 'C'], f'Error with {tag}: tag[3] should specify the skema, either A, B or C.'
+    assert tag[4:6] == '_L', f'{tag} is an invalid tag.'
+
+    try: 
+        lecture_number = int(tag[6:8])
+        assert lecture_number >= 1
+    except:
+        raise ValueError(f'Error with {tag}: tag[6:8] should be numbers specifying the lecture. First lecture number is 01.')
+
+    return
