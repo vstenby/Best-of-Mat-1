@@ -138,7 +138,7 @@ def ffmpeg_clip(t1, t2, url, pathout, normalize=False):
     t2_timestamp = seconds_to_timestamp(t2) 
     duration = seconds_to_timestamp(t2-t1) 
     
-    if pathout.endswith('.mp3'):
+    if pathout.endswith('.mp3') or pathout.endswith('.wav'):
         bashcmd = f'ffmpeg -ss {t1_timestamp} -i "{url}" -t {duration} -q:a 0 -map a {pathout} -loglevel error'
     elif pathout.endswith('.mp4') or pathout.endswith('.gif'):
         bashcmd = f'ffmpeg -ss {t1_timestamp} -i "{url}" -t {duration} {pathout} -loglevel error'

@@ -51,7 +51,7 @@ def main():
     parser.add_argument('--prepad', default=0, type=float, help='pads the start of the clip with <prepad> seconds.')
     parser.add_argument('--postpad', default=0, type=float, help='pads the end of clip with <endpad> seconds.')
     
-    parser.add_argument('--filetype', default='mp3', type=str, choices=['mp3', 'mp4', 'gif'], help='filetype to export as either mp3, mp4 or gif.')
+    parser.add_argument('--filetype', default='mp3', type=str, choices=['mp3', 'mp4', 'gif', 'wav'], help='filetype to export as either mp3, mp4 or gif.')
     parser.add_argument('--normalizeaudio', default=True, action='store_true', help='normalize the audio of the output clip. this only works with mp4 at the moment.')
     parser.add_argument('--noprefix', default=False,  action='store_true', help='include prefix specifying info about the clip.')
     parser.add_argument('--clearexport', default=False, action='store_true', help='clear the export folder before exporting.')
