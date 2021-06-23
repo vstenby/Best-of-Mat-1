@@ -6,11 +6,7 @@ import os
 import numpy as np
 import time
 import subprocess
-from getpass import getpass
-from selenium import webdriver
-from selenium.webdriver.common.keys import Keys
 import os
-import json
 
 def welcome():
     st=["""
@@ -184,13 +180,16 @@ def check_tag(tag):
 
     return
 
+
+
+
 class InfoFetcher():
     '''
     Class used for fetching information from video.dtu.dk.
     Not used in main.py, but used to fetch information for the metadata.csv file. 
     '''
     def __init__(self):
-    
+        
         assert os.path.isfile('./chromedriver'), 'Chromedriver was not located - make sure to download it!'
             
         #Log in on video.dtu.dk
@@ -207,6 +206,8 @@ class InfoFetcher():
         '''
         Open the driver!
         '''
+        from selenium import webdriver
+        from selenium.webdriver.common.keys import Keys
         # Specify window to not open
         options = webdriver.ChromeOptions()
         options.add_argument("headless")
@@ -220,6 +221,7 @@ class InfoFetcher():
         '''
         Prompt for login upon creating the VideoDownloader
         '''
+        from getpass import getpass
         username    = input('Please enter your DTU login (sxxxxxx@student.dtu.dk)').strip()
         password    = getpass('Please enter your password').strip()
         
@@ -229,7 +231,7 @@ class InfoFetcher():
         '''
         Logs in on video.dtu.dk
         '''
-        
+        from selenium import webdriver
         username, password = self.prompt_login()
         
         #Enter username
@@ -258,6 +260,8 @@ class InfoFetcher():
         '''
         Convert a category url to a list of lectures.
         '''
+        from selenium import webdriver
+
         assert 'category' in category_url, 'Category should be in category url.'
         
         #Load the url and wait a few seconds.
@@ -312,6 +316,8 @@ class InfoFetcher():
         Returns:
             title, stream_url, download_url
         '''
+        from selenium import webdriver
+        import json
         
         if 'category' in url:
             #If we give it a category url, then it should first make the category url to lecture urls.
