@@ -6,6 +6,11 @@ import os
 import numpy as np
 import time
 import subprocess
+from getpass import getpass
+from selenium import webdriver
+from selenium.webdriver.common.keys import Keys
+import os
+import json
 
 def welcome():
     st=["""
@@ -185,13 +190,7 @@ class InfoFetcher():
     Not used in main.py, but used to fetch information for the metadata.csv file. 
     '''
     def __init__(self):
-        
-        from getpass import getpass
-        from selenium import webdriver
-        from selenium.webdriver.common.keys import Keys
-        import os
-        import json
-
+    
         assert os.path.isfile('./chromedriver'), 'Chromedriver was not located - make sure to download it!'
             
         #Log in on video.dtu.dk
