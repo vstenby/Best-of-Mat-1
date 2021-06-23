@@ -154,96 +154,6 @@ def ffmpeg_clip(t1, t2, url, pathout, normalize=False):
         
     return rtrn
 
-def fetch_info(urls, silent=False):
-    from getpass import getpass
-    from selenium import webdriver
-    from selenium.webdriver.common.keys import Keys
-    import os
-    import json
-    
-    '''
-    Input: 
-        urls, either a single or list of urls pointing to a lecture,
-        e.g. https://video.dtu.dk/media/Uge+11A+Symmetriske+matricer+-+del+1/0_knty601o/185135
-        
-    Output:
-        (stream_titles, stream_links, download_links)
-        stream_titles  are the lecture title, where ':', ',' and '.' is removed.
-        stream_links   are the links to the streamed version of the lecture.
-        download_links are the links to downloading the lecture. 
-    '''
-    
-    if type(urls) is not list: urls = [urls]
-    
-    for url in urls:
-        assert 'video.dtu.dk' in url, f'{url} is not a valid video.dtu.dk link.'
-        
-    username = input("Please enter your DTU login (sxxxxxx@student.dtu.dk): ")
-    password = getpass("Please enter your DTU password: ")
-    
-    if not os.path.isfile('./chromedriver'):
-            raise Exception('Chromedriver cannot be located.')
-            
-    # Specify window to not open
-    options = webdriver.ChromeOptions()
-    options.add_argument("headless")
-
-    driver = webdriver.Chrome('./chromedriver',options=options)
-
-    driver.get('https://video.dtu.dk/user/login')
-
-    elem = driver.find_element_by_name('Login[username]')
-    elem.clear()
-    elem.send_keys(username)
-
-    elem = driver.find_element_by_name('Login[password]')
-    elem.clear()
-    elem.send_keys(password)
-
-    print('Logging into video.dtu.dk!')
-    elem.send_keys(Keys.RETURN)
-
-    try:
-        elem = driver.find_element_by_class_name('formError')
-        print('Wrong username or password.')
-    except:
-        print('Succesfully logged into video.dtu.dk!')
-        
-    stream_titles   = []
-    stream_links    = []
-    download_links  = []
-    
-    for i, url in enumerate(urls):
-
-        try:
-            #Move driver to that url.
-            driver.get(url)            
-            stream_titles.append(driver.find_element_by_class_name('entryTitle').text\
-                                       .replace(':','').replace(',','')\
-                                       .replace('Ã¥', 'aa').replace('Ã¦', 'ae')) 
-                                        #We might need to replace more letters eventually.
-
-            driver.switch_to.frame(driver.find_element_by_css_selector('#kplayer_ifp'))
-            script = driver.find_element_by_css_selector('body script:nth-child(2)').get_attribute("innerHTML")
-            data = (script.splitlines()[2])[37:-1]
-
-            # Load the data into json format
-            js = json.loads(data)
-
-            #Get the stream link and download link.
-            stream_links.append(js["entryResult"]["meta"]["dataUrl"])
-            download_links.append(js["entryResult"]["meta"]["downloadUrl"])
-        except:
-            raise ValueError(f'Failed on url {url}')
-        
-        if i == len(urls)-1:
-            print(f'Info fetched for video {i+1}/{len(urls)}')
-        else:
-            print(f'Info fetched for video {i+1}/{len(urls)}', end='\r')
-        
-        
-    return stream_titles, stream_links, download_links
-
 def check_tag(tag):
     '''
     Checks the syntax of tags.
@@ -268,3 +178,180 @@ def check_tag(tag):
         raise ValueError(f'Error with {tag}: tag[5:7] should be numbers specifying the lecture. First lecture number is 01.')
 
     return
+
+class InfoFetcher():
+    '''
+    Class used for fetching information from video.dtu.dk.
+    Not used in main.py, but used to fetch information for the metadata.csv file. 
+    '''
+    def __init__(self):
+        
+        from getpass import getpass
+        from selenium import webdriver
+        from selenium.webdriver.common.keys import Keys
+        import os
+        import json
+
+        assert os.path.isfile('./chromedriver'), 'Chromedriver was not located - make sure to download it!'
+            
+        #Log in on video.dtu.dk
+        self.driver = self.open_driver()
+        
+        while True:
+            rtrn = self.login()
+            if rtrn == 0:
+                break
+        
+        #Now, we have a driver that is logged in.
+        
+    def open_driver(self):
+        '''
+        Open the driver!
+        '''
+        # Specify window to not open
+        options = webdriver.ChromeOptions()
+        options.add_argument("headless")
+
+        driver = webdriver.Chrome('./chromedriver',options=options)
+        driver.get('https://video.dtu.dk/user/login')
+        
+        return driver
+
+    def prompt_login(self):
+        '''
+        Prompt for login upon creating the VideoDownloader
+        '''
+        username    = input('Please enter your DTU login (sxxxxxx@student.dtu.dk)').strip()
+        password    = getpass('Please enter your password').strip()
+        
+        return username, password
+        
+    def login(self):
+        '''
+        Logs in on video.dtu.dk
+        '''
+        
+        username, password = self.prompt_login()
+        
+        #Enter username
+        elem = self.driver.find_element_by_name('Login[username]')
+        elem.clear()
+        elem.send_keys(username)
+        
+        #Enter password
+        elem = self.driver.find_element_by_name('Login[password]')
+        elem.clear()
+        elem.send_keys(password)
+        elem.send_keys(Keys.RETURN)
+        
+        #Wait a second and see if it failed.
+        time.sleep(1)
+        
+        try:
+            elem = self.driver.find_element_by_class_name('formError')
+            print('Login failed. Prompting again!')
+            return 1
+        except:
+            print('Succesfully logged in.')
+            return 0
+        
+    def category_to_lectures(self, category_url):
+        '''
+        Convert a category url to a list of lectures.
+        '''
+        assert 'category' in category_url, 'Category should be in category url.'
+        
+        #Load the url and wait a few seconds.
+        self.driver.get(category_url)
+        time.sleep(4)
+
+        #Find how much media we're reading in.
+        elem   = self.driver.find_element_by_xpath('/html/body/div/div[1]/div[4]/div[4]/div/div/div[1]/div[1]/div[2]/ul/li[1]/a')
+        nmedia = int(elem.text.replace(' Media',''))
+        
+        assert nmedia > 1, 'Category should contain more than 1 url.'
+        
+        scrolling = True
+
+        while scrolling:
+
+            self.driver.execute_script("window.scrollTo(0, document.body.scrollHeight);")
+            time.sleep(4)
+
+            try:
+                elem = self.driver.find_element_by_xpath('/html/body/div/div[1]/div[4]/div[4]/div/div/div[1]/div[2]/div/div/div/div[1]/div/div/div/div[2]/div/div/a')
+                elem.click()
+            except:
+                pass
+
+            try:
+                elem = self.driver.find_element_by_xpath('/html/body/div/div[1]/div[4]/div[4]/div/div/div[1]/div[2]/div/div/div/div[1]/div/div/div/div[2]/div[2]')
+                scrolling = False
+            except:
+                pass
+
+        #Scroll to the top and get all links.
+        self.driver.execute_script("window.scrollTo(0, 0);")
+
+        lecture_urls = []
+
+        for idx in np.arange(1, nmedia+1):
+
+            elem = vd.driver.find_element_by_xpath('//*[@id="gallery"]/li[' + str(idx) + ']/div[1]/div[1]/div/p/a')
+            vd.driver.execute_script("arguments[0].scrollIntoView()", elem)
+            link = elem.get_attribute('href')
+            lecture_urls.append(link)
+
+        assert nmedia == len(lecture_urls), f'Top said {nmedia} Media, but only {len(lecture_urls)} links found.'
+        
+        return lecture_urls
+    
+    def unpack_url(self, url):
+        '''
+        Input: 
+            url (str)
+        Returns:
+            title, stream_url, download_url
+        '''
+        
+        if 'category' in url:
+            #If we give it a category url, then it should first make the category url to lecture urls.
+            url = self.category_to_lectures(url)
+        
+        if type(url) is list:
+            titles = []
+            stream_urls = []
+            download_urls = []
+            
+            for u in url:
+                #Call this function recursively
+                title, stream_url, download_url = self.unpack_url(u)
+                
+                #Append to the lists
+                titles.append(title)
+                stream_urls.append(stream_url)
+                download_urls.append(download_url)
+                
+            #Return the lists.
+            return titles, stream_urls, download_urls
+            
+        else:
+            
+            #Move driver to that url.
+            self.driver.get(url)           
+
+            #Replace some strange characters = 
+            title = self.driver.find_element_by_class_name('entryTitle').text.replace(':','').replace(',','').replace('Ã¥', 'aa').replace('Ã¦', 'ae')
+
+            self.driver.switch_to.frame(self.driver.find_element_by_css_selector('#kplayer_ifp'))
+            script = self.driver.find_element_by_css_selector('body script:nth-child(2)').get_attribute("innerHTML")
+            data = (script.splitlines()[2])[37:-1]
+
+            # Load the data into json format
+            js = json.loads(data)
+
+            #Get the stream link and download link.
+            stream_url   = js["entryResult"]["meta"]["dataUrl"]
+            download_url = js["entryResult"]["meta"]["downloadUrl"]
+
+            return title, stream_url, download_url
