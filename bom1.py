@@ -207,7 +207,6 @@ class InfoFetcher():
         Open the driver!
         '''
         from selenium import webdriver
-        from selenium.webdriver.common.keys import Keys
         # Specify window to not open
         options = webdriver.ChromeOptions()
         options.add_argument("headless")
@@ -232,6 +231,8 @@ class InfoFetcher():
         Logs in on video.dtu.dk
         '''
         from selenium import webdriver
+        from selenium.webdriver.common.keys import Keys
+        
         username, password = self.prompt_login()
         
         #Enter username
