@@ -296,8 +296,8 @@ class InfoFetcher():
 
         for idx in np.arange(1, nmedia+1):
 
-            elem = vd.driver.find_element_by_xpath('//*[@id="gallery"]/li[' + str(idx) + ']/div[1]/div[1]/div/p/a')
-            vd.driver.execute_script("arguments[0].scrollIntoView()", elem)
+            elem = self.driver.find_element_by_xpath('//*[@id="gallery"]/li[' + str(idx) + ']/div[1]/div[1]/div/p/a')
+            self.driver.execute_script("arguments[0].scrollIntoView()", elem)
             link = elem.get_attribute('href')
             lecture_urls.append(link)
 
