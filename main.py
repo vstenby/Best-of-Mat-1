@@ -163,6 +163,8 @@ def main():
         return
     
     if args.list:
+        #First, we want to drop the clips where the title is "Placeholder"
+        clips_final = clips_final.loc[clips_final['name'] != 'Placeholder']
         print_clips(clips_final)
         return
     else:
