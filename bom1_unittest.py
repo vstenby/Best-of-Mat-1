@@ -12,7 +12,7 @@ def test_load_scripts():
     clips = load_clips()
     columns = clips.columns
     
-    expected_columns = ['tag', 'nclip', 'name', 't1', 't2', 'rating', 'stream_title', 'link', 'stream_link', 'download_link', 'duration']
+    expected_columns = ['tag', 'nclip', 'name', 't1', 't2', 'rating', 'stream_title', 'link', 'duration']
     
     for expected_column in expected_columns:
         assert expected_column in columns, f'Column {expected_column} was expected but not found in dataframe returned from load_clips().'    
@@ -26,8 +26,7 @@ def test_metadata():
     '''
     This catches errors in the metadata csv file.
     '''
-    
     df = pd.isna(pd.read_csv('./csv/metadata.csv'))
     assert ~np.any(df), 'metadata should be filled in. Use the fill_metadata() function!'
-    assert np.all(df.columns == ['tag', 'stream_title', 'link', 'stream_link', 'download_link'])
+    assert np.all(df.columns == ['tag', 'stream_title', 'link'])
     return

@@ -19,9 +19,6 @@ def main():
     #Print the welcome message.
     welcome()
     
-    #Load the clips
-    clips = load_clips()
-    
     #Set up the arguments. 
     parser = argparse.ArgumentParser()
     parser.add_argument('--list', default=False, action='store_true', help='print the list of clips instead of actually exporting them.')
@@ -56,24 +53,24 @@ def main():
     parser.add_argument('--noprefix', default=False,  action='store_true', help='include prefix specifying info about the clip.')
     parser.add_argument('--clearexport', default=False, action='store_true', help='clear the export folder before exporting.')
     parser.add_argument('--silent', default=False, action='store_true', help='if --silent is passed, then progress is not printed to the console.')
+    parser.add_argument('--loadempty', default=False, action='store_true', help='if --loadempty is passed, then csvs located in the "empty" csv folder are also loaded.')
+    parser.add_argument('--includeplaceholder', default=False, action='store_true', help='if --loadempty is passed, then placeholders are included.')
     #TODO: Add some more arguments. 
 
-    
     args = parser.parse_args()
     
     #A few assertions
     assert args.prepad >= 0, f'args.prepad should be 0 or greater. args.prepad: {args.prepad}'
     assert args.postpad >= 0, f'args.postpad should be 0 or greater. args.postpad: {args.postpad}'
     
+    #Load the clips
+    clips = load_clips(load_empty = args.loadempty)
     
     n = len(clips)
     
     #Make sure that we have the ./export folder.
     if not os.path.exists('./export'):
         os.mkdir('./export')
-    
-    #Remove all of the 'Placeholder' clips with rating 0
-    placeholder_mask = ~((clips['name'] == 'Placeholder').to_numpy() & (clips['rating'] == 0).to_numpy())
     
     #Construct the masks for each query.
     if args.clipname is not None:
@@ -126,8 +123,15 @@ def main():
         maxt2_mask = clips['t2'].apply(lambda x : timestamp_to_seconds(x)).to_numpy() <= args.maxt2
     else:
         maxt2_mask = np.ones(n).astype(bool)
-        
-        
+    
+    if args.includeplaceholder:
+        #We should include placeholders.
+        placeholder_mask = np.ones(n).astype(bool)
+    else:
+        #Only keep clips where the name is not "placeholder".
+        placeholder_mask = clips['name'].str.lower() != 'placeholder'
+    
+    
     if args.noprefix:
         prefix = ''
     else:
@@ -163,9 +167,10 @@ def main():
         return
     
     if args.list:
-        #First, we want to drop the clips where the title is "Placeholder"
-        clips_final = clips_final.loc[clips_final['name'] != 'Placeholder']
         print_clips(clips_final)
+        if len(clips_final) > 1:
+            print('')
+            print(f'A total of {len(clips_final)} clips met your criteria.')
         return
     else:
         n = len(clips_final)
@@ -173,7 +178,7 @@ def main():
             input(f'A total of {n} clips were found. Press enter to export. ') #Ask for confirmation if several clips are exported.
             print('')
         
-        for t1, t2, url, outpath, i in zip(clips_final['t1'], clips_final['t2'], clips_final['stream_link'], clips_final['outpath'], range(0, n)):
+        for t1, t2, url, outpath, i in zip(clips_final['t1'], clips_final['t2'], clips_final['link'], clips_final['outpath'], range(0, n)):
             
             #Convert t1 and t2 to seconds and subtract the prepadding and postpadding.
             t1, t2 = timestamp_to_seconds(t1) - args.prepad, timestamp_to_seconds(t2) + args.postpad

@@ -17,7 +17,7 @@ def welcome():
      | |_) |  __/\__ \ |_  | (_) | |   | |  | | (_| | |_   | |
      |____/ \___||___/\__|  \___/|_|   |_|  |_|\__,_|\__|  |_|
         """,
-        '     '+'Best of Mat 1: Release 2.1.0 (24/04/2021)'.center(57),
+        '     '+'Best of Mat 1: Release 2.2.0 (02/09/2021)'.center(57),
         '',
         'Author: Viktor Stenby Johansson',
         'If you have any problems with this software, feel free to reach out to me via Facebook.',
@@ -25,19 +25,29 @@ def welcome():
     for s in st: print(s)
     return
 
-def load_clips():
-    #Read in the metadata, download links etc. etc.
+def load_clips(load_empty=False):
+    #Read in the metadata which contains semester tag, name and url.
     metadata = pd.read_csv('./csv/metadata.csv',sep=',')
 
-    csvs = [x for x in os.listdir('./csv') if (x.endswith('.csv')) and (x != 'metadata.csv') and (x != 'kan-i-se-det.csv')]
+    csvs = [os.path.join('./csv/filled/',x) for x in os.listdir('./csv/filled') if (x.endswith('.csv'))]
+    
+    if load_empty:
+        #Then we also load the csvs located in the "empty" folder.
+        empty = [os.path.join('./csv/empty',x) for x in os.listdir('./csv/empty') if (x.endswith('.csv'))]
+        csvs += empty
+        
     
     #Sort by all sorts of stuff. Basically make sure that the csvs are loaded in the right order.
-    csvs.sort(key = lambda element: (int(element[1:3]), reversor(element[0]), element[3], element[6:8]))
+    csvs.sort(key = lambda element: (int(os.path.basename(element)[1:3]), reversor(os.path.basename(element)[0]), os.path.basename(element)[3], os.path.basename(element)[6:8]))
 
     clips = pd.DataFrame(columns=['tag', 'nclip', 'name', 't1', 't2', 'rating'])
 
     for csv in csvs:
-        temp = pd.read_csv('./csv/'+csv, sep=',')
+        temp = pd.read_csv(csv, sep=',')
+        
+        #Fetch the basename.
+        csv = os.path.basename(csv)
+        
         temp['tag'] = csv.split(' ')[0]
         temp['nclip'] = np.arange(1, len(temp)+1)
         
@@ -50,7 +60,7 @@ def load_clips():
     clips = clips.merge(metadata, on='tag')
     clips['duration'] = [timestamp_to_seconds(y) - timestamp_to_seconds(x) for x, y in zip(clips['t1'], clips['t2'])]    
     clips['name'] = clips['name'].apply(lambda x : x.strip())
-    
+
     assert np.all(clips['duration'] >= 0), 'Clips found with negative duration.'
     
     return clips
@@ -124,8 +134,34 @@ def print_clips(clips):
         print(tag.ljust(10) + name.ljust(100) + str(rating).rjust(6))
     return
 
+def stream_link(ID):
+    '''
+    Fetches a stream link from ID. 
+    '''
+    return f'https://dchsou11xk84p.cloudfront.net/p/201/sp/20100/playManifest/entryId/{ID}/format/url/protocol/https'
+    
+def download_link(ID):
+    '''
+    Returns a download link from ID.
+    '''
+    return f'https://dchsou11xk84p.cloudfront.net/p/201/sp/20100/playManifest/entryId/{ID}/format/download/protocol/https/flavorParamIds/0'
+
+def fetch_ID(url):
+    '''
+    Takes a video.dtu.dk link and returns the video ID.
+    
+    TODO: This should make some assertions about the url.
+    '''
+    return '0_' + url.split('0_')[-1].split('/')[0]
+
 def ffmpeg_clip(t1, t2, url, pathout, normalize=False):
-    #t1 and t2 are seconds here.
+    '''
+    Export a clip.
+    Input:
+        t1:  start time (seconds)
+        t2:  end time (seconds)
+        url: video.dtu.dk link
+    '''
     assert 0 <= t1, f'Invalid value of t1: {t1}'
         
     #Replace letters causing trouble.
@@ -133,11 +169,12 @@ def ffmpeg_clip(t1, t2, url, pathout, normalize=False):
                      .replace(',','')\
                      .replace("'","") 
     
-    
-    
     t1_timestamp = seconds_to_timestamp(t1) 
     t2_timestamp = seconds_to_timestamp(t2) 
     duration = seconds_to_timestamp(t2-t1) 
+    
+    #Get the stream url from the video.dtu.dk url.
+    url = stream_link(fetch_ID(url))
     
     if pathout.endswith('.mp3') or pathout.endswith('.wav'):
         bashcmd = f'ffmpeg -ss {t1_timestamp} -i "{url}" -t {duration} -q:a 0 -map a {pathout} -loglevel error'
@@ -179,185 +216,4 @@ def check_tag(tag):
         raise ValueError(f'Error with {tag}: tag[5:7] should be numbers specifying the lecture. First lecture number is 01.')
 
     return
-
-
-
-
-class InfoFetcher():
-    '''
-    Class used for fetching information from video.dtu.dk.
-    Not used in main.py, but used to fetch information for the metadata.csv file. 
-    '''
-    def __init__(self):
-        
-        assert os.path.isfile('./chromedriver'), 'Chromedriver was not located - make sure to download it!'
-            
-        #Log in on video.dtu.dk
-        self.driver = self.open_driver()
-        
-        while True:
-            rtrn = self.login()
-            if rtrn == 0:
-                break
-        
-        #Now, we have a driver that is logged in.
-        
-    def open_driver(self):
-        '''
-        Open the driver!
-        '''
-        from selenium import webdriver
-        # Specify window to not open
-        options = webdriver.ChromeOptions()
-        options.add_argument("headless")
-
-        driver = webdriver.Chrome('./chromedriver',options=options)
-        driver.get('https://video.dtu.dk/user/login')
-        
-        return driver
-
-    def prompt_login(self):
-        '''
-        Prompt for login upon creating the VideoDownloader
-        '''
-        from getpass import getpass
-        username    = input('Please enter your DTU login (sxxxxxx@student.dtu.dk)').strip()
-        password    = getpass('Please enter your password').strip()
-        
-        return username, password
-        
-    def login(self):
-        '''
-        Logs in on video.dtu.dk
-        '''
-        from selenium import webdriver
-        from selenium.webdriver.common.keys import Keys
-        
-        username, password = self.prompt_login()
-        
-        #Enter username
-        elem = self.driver.find_element_by_name('Login[username]')
-        elem.clear()
-        elem.send_keys(username)
-        
-        #Enter password
-        elem = self.driver.find_element_by_name('Login[password]')
-        elem.clear()
-        elem.send_keys(password)
-        elem.send_keys(Keys.RETURN)
-        
-        #Wait a second and see if it failed.
-        time.sleep(1)
-        
-        try:
-            elem = self.driver.find_element_by_class_name('formError')
-            print('Login failed. Prompting again!')
-            return 1
-        except:
-            print('Succesfully logged in.')
-            return 0
-        
-    def category_to_lectures(self, category_url):
-        '''
-        Convert a category url to a list of lectures.
-        '''
-        from selenium import webdriver
-
-        assert 'category' in category_url, 'Category should be in category url.'
-        
-        #Load the url and wait a few seconds.
-        self.driver.get(category_url)
-        time.sleep(4)
-
-        #Find how much media we're reading in.
-        elem   = self.driver.find_element_by_xpath('/html/body/div/div[1]/div[4]/div[4]/div/div/div[1]/div[1]/div[2]/ul/li[1]/a')
-        nmedia = int(elem.text.replace(' Media',''))
-        
-        assert nmedia > 1, 'Category should contain more than 1 url.'
-        
-        scrolling = True
-
-        while scrolling:
-
-            self.driver.execute_script("window.scrollTo(0, document.body.scrollHeight);")
-            time.sleep(4)
-
-            try:
-                elem = self.driver.find_element_by_xpath('/html/body/div/div[1]/div[4]/div[4]/div/div/div[1]/div[2]/div/div/div/div[1]/div/div/div/div[2]/div/div/a')
-                elem.click()
-            except:
-                pass
-
-            try:
-                elem = self.driver.find_element_by_xpath('/html/body/div/div[1]/div[4]/div[4]/div/div/div[1]/div[2]/div/div/div/div[1]/div/div/div/div[2]/div[2]')
-                scrolling = False
-            except:
-                pass
-
-        #Scroll to the top and get all links.
-        self.driver.execute_script("window.scrollTo(0, 0);")
-
-        lecture_urls = []
-
-        for idx in np.arange(1, nmedia+1):
-
-            elem = self.driver.find_element_by_xpath('//*[@id="gallery"]/li[' + str(idx) + ']/div[1]/div[1]/div/p/a')
-            self.driver.execute_script("arguments[0].scrollIntoView()", elem)
-            link = elem.get_attribute('href')
-            lecture_urls.append(link)
-
-        assert nmedia == len(lecture_urls), f'Top said {nmedia} Media, but only {len(lecture_urls)} links found.'
-        
-        return lecture_urls
     
-    def unpack_url(self, url):
-        '''
-        Input: 
-            url (str)
-        Returns:
-            title, stream_url, download_url
-        '''
-        from selenium import webdriver
-        import json
-        
-        if 'category' in url:
-            #If we give it a category url, then it should first make the category url to lecture urls.
-            url = self.category_to_lectures(url)
-        
-        if type(url) is list:
-            titles = []
-            stream_urls = []
-            download_urls = []
-            
-            for u in url:
-                #Call this function recursively
-                title, stream_url, download_url = self.unpack_url(u)
-                
-                #Append to the lists
-                titles.append(title)
-                stream_urls.append(stream_url)
-                download_urls.append(download_url)
-                
-            #Return the lists.
-            return titles, stream_urls, download_urls
-            
-        else:
-            
-            #Move driver to that url.
-            self.driver.get(url)           
-
-            #Replace some strange characters = 
-            title = self.driver.find_element_by_class_name('entryTitle').text.replace(':','').replace(',','').replace('Ã¥', 'aa').replace('Ã¦', 'ae')
-
-            self.driver.switch_to.frame(self.driver.find_element_by_css_selector('#kplayer_ifp'))
-            script = self.driver.find_element_by_css_selector('body script:nth-child(2)').get_attribute("innerHTML")
-            data = (script.splitlines()[2])[37:-1]
-
-            # Load the data into json format
-            js = json.loads(data)
-
-            #Get the stream link and download link.
-            stream_url   = js["entryResult"]["meta"]["dataUrl"]
-            download_url = js["entryResult"]["meta"]["downloadUrl"]
-
-            return title, stream_url, download_url
