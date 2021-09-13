@@ -146,6 +146,16 @@ def download_link(ID):
     '''
     return f'https://dchsou11xk84p.cloudfront.net/p/201/sp/20100/playManifest/entryId/{ID}/format/download/protocol/https/flavorParamIds/0'
 
+def get_duration(url):
+    '''
+    Returns the duration of a video.
+    '''
+    import cv2 as cv
+    
+    #Read the video capture from cv2.
+    cap = cv.VideoCapture(stream_link(fetch_ID(url)))
+    return int(cap.get(cv.CAP_PROP_FRAME_COUNT))/cap.get(cv.CAP_PROP_FPS)
+
 def fetch_ID(url):
     '''
     Takes a video.dtu.dk link and returns the video ID.
