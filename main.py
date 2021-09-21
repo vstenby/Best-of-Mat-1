@@ -217,6 +217,7 @@ def main():
         
         q = queue.Queue(0)
         num_threads = args.threads if args.threads > 0 else 1
+
         for t1, t2, url, outpath, i in zip(clips_final['t1'], clips_final['t2'], clips_final['link'], clips_final['outpath'], range(0, n)):
             q.put((t1,t2,url,outpath,i, args, n,))
         for _ in range(num_threads):
