@@ -17,7 +17,7 @@ import threading
 import queue
 
 
-
+    
 #Counter to show which files are done - previous progress counter will yield results such as (7/24) (1/24) (3/24), which doesnt make a lot of sense to the reader
 count = 0
 
@@ -91,6 +91,7 @@ def main():
     parser.add_argument('--silent', default=False, action='store_true', help='if --silent is passed, then progress is not printed to the console.')
     parser.add_argument('--loadempty', default=False, action='store_true', help='if --loadempty is passed, then csvs located in the "empty" csv folder are also loaded.')
     parser.add_argument('--includeplaceholder', default=False, action='store_true', help='if --loadempty is passed, then placeholders are included.')
+    parser.add_argument('--threads', default=4, type=int, help='Amount of threads used to download clips, default 4')
     #TODO: Add some more arguments. 
 
     args = parser.parse_args()
@@ -215,9 +216,7 @@ def main():
             print('')
         
         q = queue.Queue(0)
-        num_threads = 16  #more threads = faster, but uses more ram and does some weird stuff to the terminal, change this value at your own peril, speed seems to cap at around 16,
-                          #at around 64, i seem to run into errors with ffmpeg, if you encounter errors, i suggest lowering it even further
-
+        num_threads = args.threads if args.threads > 0 else 1
         for t1, t2, url, outpath, i in zip(clips_final['t1'], clips_final['t2'], clips_final['link'], clips_final['outpath'], range(0, n)):
             q.put((t1,t2,url,outpath,i, args, n,))
         for _ in range(num_threads):
