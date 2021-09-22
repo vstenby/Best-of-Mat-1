@@ -13,6 +13,42 @@ import shutil
 
 import time
 
+import threading
+import queue
+
+
+    
+#Counter to show which files are done - previous progress counter will yield results such as (7/24) (1/24) (3/24), which doesnt make a lot of sense to the reader
+count = 0
+
+def export(t1, t2, url, outpath, i, args, n, ):
+#Convert t1 and t2 to seconds and subtract the prepadding and postpadding.
+    t1, t2 = timestamp_to_seconds(t1) - args.prepad, timestamp_to_seconds(t2) + args.postpad
+    
+    rtrn = ffmpeg_clip(t1,t2,url,outpath, normalize=args.normalizeaudio)
+
+    global count
+    count += 1
+#    progress = '{n}/{i}'
+    if not args.silent:
+        if not rtrn:
+            #Replace letters causing trouble.
+            outpath = outpath.replace(' ','_')\
+                                .replace(',','')\
+                                .replace("'","") 
+            print((str(count)+'/'+str(n)).ljust(9)+ f'{outpath} succesfully exported.')
+        else:
+            print((str(count)+'/'+str(n)).ljust(9)+ f'{outpath} was not exported.')
+
+#worker threads for queues
+def workerThread(q):
+    while True:
+        args = q.get()[0:]
+        # print(args)
+        export(*args)
+        q.task_done()
+        # q.task_done()
+
 def main():
     start_time = time.time()
     
@@ -55,6 +91,7 @@ def main():
     parser.add_argument('--silent', default=False, action='store_true', help='if --silent is passed, then progress is not printed to the console.')
     parser.add_argument('--loadempty', default=False, action='store_true', help='if --loadempty is passed, then csvs located in the "empty" csv folder are also loaded.')
     parser.add_argument('--includeplaceholder', default=False, action='store_true', help='if --loadempty is passed, then placeholders are included.')
+    parser.add_argument('--threads', default=4, type=int, help='Amount of threads used to download clips, default 4')
     #TODO: Add some more arguments. 
 
     args = parser.parse_args()
@@ -178,24 +215,24 @@ def main():
             input(f'A total of {n} clips were found. Press enter to export. ') #Ask for confirmation if several clips are exported.
             print('')
         
-        for t1, t2, url, outpath, i in zip(clips_final['t1'], clips_final['t2'], clips_final['link'], clips_final['outpath'], range(0, n)):
-            
-            #Convert t1 and t2 to seconds and subtract the prepadding and postpadding.
-            t1, t2 = timestamp_to_seconds(t1) - args.prepad, timestamp_to_seconds(t2) + args.postpad
-            
-            rtrn = ffmpeg_clip(t1,t2,url,outpath, normalize=args.normalizeaudio)
-            
-            progress = f'({i+1}/{n})'.ljust(9)
-            if not args.silent:
-                if not rtrn:
-                    #Replace letters causing trouble.
-                    outpath = outpath.replace(' ','_')\
-                                     .replace(',','')\
-                                     .replace("'","") 
-                    print(f'{progress} {outpath} succesfully exported.')
-                else:
-                    print(f'{progress} {outpath} was not exported.')
+        q = queue.Queue(0)
+        num_threads = args.threads if args.threads > 0 else 1
 
+        for t1, t2, url, outpath, i in zip(clips_final['t1'], clips_final['t2'], clips_final['link'], clips_final['outpath'], range(0, n)):
+            q.put((t1,t2,url,outpath,i, args, n,))
+        for _ in range(num_threads):
+            worker = threading.Thread(target=workerThread, args=(q,))
+            worker.setDaemon(True)
+            worker.start()
+        
+        q.join()
+        # #start threads
+        # for thread in t:
+        #     thread.start()
+        
+        # for thread in t:
+        #     thread.join()
+        
         end_time = time.time()
         print('')
         print("Time elapsed: {:.2f} seconds.".format(end_time-start_time))
