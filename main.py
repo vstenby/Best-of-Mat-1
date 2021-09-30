@@ -74,7 +74,7 @@ def main():
     
     #Construct the masks for each query.
     if args.clipname is not None:
-        clipname_mask = (clips['name'] == args.clipname).to_numpy()
+        clipname_mask = (clips['name'].str.findall(args.clipname).astype(bool)).to_numpy()
     else:
         clipname_mask = np.ones(n).astype(bool)
         
@@ -166,40 +166,42 @@ def main():
             print('No clips met the specified query.')
         return
     
+    n = len(clips_final)
     if args.list:
         print_clips(clips_final)
-        if len(clips_final) > 1:
-            print('')
-            print(f'A total of {len(clips_final)} clips met your criteria.')
-        return
-    else:
-        n = len(clips_final)
         if n > 1:
-            input(f'A total of {n} clips were found. Press enter to export. ') #Ask for confirmation if several clips are exported.
             print('')
+    
+    if n > 1:
+        prompt = input(f'A total of {n} clips were found. Do you want to export as {args.filetype}? [y/n] ').lower().strip() #Ask for confirmation if several clips are exported.
+    else:
+        prompt = input(f'A single clip was found. Do you want to export as {args.filetype}? [y/n] ').lower().strip() #Ask for confirmation if several clips are exported.
         
-        for t1, t2, url, outpath, i in zip(clips_final['t1'], clips_final['t2'], clips_final['link'], clips_final['outpath'], range(0, n)):
-            
-            #Convert t1 and t2 to seconds and subtract the prepadding and postpadding.
-            t1, t2 = timestamp_to_seconds(t1) - args.prepad, timestamp_to_seconds(t2) + args.postpad
-            
-            rtrn = ffmpeg_clip(t1,t2,url,outpath, normalize=args.normalizeaudio)
-            
-            progress = f'({i+1}/{n})'.ljust(9)
-            if not args.silent:
-                if not rtrn:
-                    #Replace letters causing trouble.
-                    outpath = outpath.replace(' ','_')\
-                                     .replace(',','')\
-                                     .replace("'","") 
-                    print(f'{progress} {outpath} succesfully exported.')
-                else:
-                    print(f'{progress} {outpath} was not exported.')
-
-        end_time = time.time()
-        print('')
-        print("Time elapsed: {:.2f} seconds.".format(end_time-start_time))
+    if prompt != 'y':
         return
+
+    for t1, t2, url, outpath, i in zip(clips_final['t1'], clips_final['t2'], clips_final['link'], clips_final['outpath'], range(0, n)):
+
+        #Convert t1 and t2 to seconds and subtract the prepadding and postpadding.
+        t1, t2 = timestamp_to_seconds(t1) - args.prepad, timestamp_to_seconds(t2) + args.postpad
+
+        rtrn = ffmpeg_clip(t1,t2,url,outpath, normalize=args.normalizeaudio)
+
+        progress = f'({i+1}/{n})'.ljust(9)
+        if not args.silent:
+            if not rtrn:
+                #Replace letters causing trouble.
+                outpath = outpath.replace(' ','_')\
+                                 .replace(',','')\
+                                 .replace("'","") 
+                print(f'{progress} {outpath} succesfully exported.')
+            else:
+                print(f'{progress} {outpath} was not exported.')
+
+    end_time = time.time()
+    print('')
+    print("Time elapsed: {:.2f} seconds.".format(end_time-start_time))
+    return
                 
 if __name__ == '__main__':
     main()
