@@ -214,7 +214,7 @@ def main():
     else:
         prompt = input(f'A single clip was found. Do you want to export as {args.filetype}? [y/n] ').lower().strip() #Ask for confirmation if several clips are exported.
 
-    if prompt != 'y':
+    if (prompt != 'y') and (prompt != ''):
         return
     
     q = queue.Queue(0)
