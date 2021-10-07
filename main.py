@@ -29,7 +29,6 @@ def export(t1, t2, url, outpath, i, args, n, ):
 
     global count
     count += 1
-#    progress = '{n}/{i}'
     if not args.silent:
         if not rtrn:
             #Replace letters causing trouble.
@@ -44,17 +43,11 @@ def export(t1, t2, url, outpath, i, args, n, ):
 def workerThread(q):
     while True:
         args = q.get()[0:]
-        # print(args)
         export(*args)
         q.task_done()
-        # q.task_done()
 
 def main():
-    start_time = time.time()
-    
-    #Print the welcome message.
-    welcome()
-    
+
     #Set up the arguments. 
     parser = argparse.ArgumentParser()
     parser.add_argument('--clipname', default=None, type=str,
@@ -86,10 +79,10 @@ def main():
     parser.add_argument('--normalizeaudio', default=True, action='store_true', help='normalize the audio of the output clip. this only works with mp4 at the moment.')
     parser.add_argument('--noprefix', default=False,  action='store_true', help='include prefix specifying info about the clip.')
     parser.add_argument('--clearexport', default=False, action='store_true', help='clear the export folder before exporting.')
-    parser.add_argument('--silent', default=False, action='store_true', help='if --silent is passed, then progress is not printed to the console.')
-    parser.add_argument('--nolist', default=False, action='store_true', help='stop printing the list from printing before export.')
+    parser.add_argument('--silent', default=False, action='store_true', help='if --silent is passed, nothing is printed to the console.')
+    parser.add_argument('--list', default=False, action='store_true', help='prints the list instead of clipping.')
     parser.add_argument('--loadempty', default=False, action='store_true', help='if --loadempty is passed, then csvs located in the "empty" csv folder are also loaded.')
-    parser.add_argument('--includeplaceholder', default=False, action='store_true', help='if --loadempty is passed, then placeholders are included.')
+    parser.add_argument('--includeplaceholder', default=False, action='store_true', help='if --includeplaceholder is passed, then placeholders are included.')
     parser.add_argument('--threads', default=4, type=int, help='Amount of threads used to download clips, default 4')
     #TODO: Add some more arguments. 
 
@@ -98,6 +91,10 @@ def main():
     #A few assertions
     assert args.prepad >= 0, f'args.prepad should be 0 or greater. args.prepad: {args.prepad}'
     assert args.postpad >= 0, f'args.postpad should be 0 or greater. args.postpad: {args.postpad}'
+    
+    if not args.silent:
+        #Print the welcome message.
+        welcome()
     
     #Load the clips
     clips = load_clips(load_empty = args.loadempty)
@@ -204,18 +201,27 @@ def main():
     
 
     n = len(clips_final)
-    if not args.nolist:
-        print_clips(clips_final)
-        if n > 1:
-            print('')
     
+    if not args.silent:
+        print_clips(clips_final)
+        
+    #If we pass the --list args, then it should only print.
+    if args.list:
+        return
+
     if n > 1:
+        print('')
         prompt = input(f'A total of {n} clips were found. Do you want to export as {args.filetype}? [y/n] ').lower().strip() #Ask for confirmation if several clips are exported.
+        print('')
     else:
         prompt = input(f'A single clip was found. Do you want to export as {args.filetype}? [y/n] ').lower().strip() #Ask for confirmation if several clips are exported.
+        print('')
 
     if (prompt != 'y') and (prompt != ''):
         return
+    
+    #Start time before clipping.
+    start_time = time.time()
     
     q = queue.Queue(0)
     num_threads = args.threads if args.threads > 0 else 1
@@ -228,12 +234,6 @@ def main():
         worker.start()
 
     q.join()
-    # #start threads
-    # for thread in t:
-    #     thread.start()
-
-    # for thread in t:
-    #     thread.join()
 
     end_time = time.time()
     print('')
