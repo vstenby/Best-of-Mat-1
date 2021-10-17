@@ -187,9 +187,9 @@ def ffmpeg_clip(t1, t2, url, pathout, normalize=False):
     url = stream_link(fetch_ID(url))
     
     if pathout.endswith('.mp3') or pathout.endswith('.wav'):
-        bashcmd = f'ffmpeg -ss {t1_timestamp} -i "{url}" -t {duration} -q:a 0 -map a {pathout} -loglevel error'
+        bashcmd = f'ffmpeg -y -ss {t1_timestamp} -i "{url}" -t {duration} -q:a 0 -map a {pathout} -loglevel error'
     elif pathout.endswith('.mp4') or pathout.endswith('.gif'):
-        bashcmd = f'ffmpeg -ss {t1_timestamp} -i "{url}" -t {duration} {pathout} -loglevel error'
+        bashcmd = f'ffmpeg -y -ss {t1_timestamp} -i "{url}" -t {duration} {pathout} -loglevel error'
     else:
         raise ValueError('Wrong output format.')
             
