@@ -83,23 +83,22 @@ python main.py --help
      | |_) |  __/\__ \ |_  | (_) | |   | |  | | (_| | |_   | |
      |____/ \___||___/\__|  \___/|_|   |_|  |_|\__,_|\__|  |_|
         
-             Best of Mat 1: Release 2.1.0 (24/04/2021)        
+             Best of Mat 1: Release 3.0.0 (24/10/2021)        
 
 Author: Viktor Stenby Johansson
 If you have any problems with this software, feel free to reach out to me via Facebook.
 
-usage: main.py [-h] [--list] [--clipname CLIPNAME]
-               [--minrating {1,2,3,4,5,6,7,8,9,10}]
+usage: main.py [-h] [--clipname CLIPNAME] [--minrating {1,2,3,4,5,6,7,8,9,10}]
                [--maxrating {1,2,3,4,5,6,7,8,9,10}]
                [--minduration MINDURATION] [--maxduration MAXDURATION]
                [--tag TAG] [--mint1 MINT1] [--maxt1 MAXT1] [--mint2 MINT2]
-               [--maxt2 MAXT2] [--filetype {mp3,mp4}] [--normalizeaudio]
-               [--noprefix] [--clearexport] [--silent]
+               [--maxt2 MAXT2] [--prepad PREPAD] [--postpad POSTPAD]
+               [--filetype {mp3,mp4,gif,wav}] [--normalizeaudio] [--noprefix]
+               [--clearexport] [--silent] [--list] [--loadempty]
+               [--includeplaceholder] [--threads THREADS]
 
 optional arguments:
   -h, --help            show this help message and exit
-  --list                print the list of clips instead of actually exporting
-                        them.
   --clipname CLIPNAME   specify which clip name you want to export.
   --minrating {1,2,3,4,5,6,7,8,9,10}
                         only export clips with rating >= minrating.
@@ -116,14 +115,22 @@ optional arguments:
   --maxt1 MAXT1         only export clips with t1 <= maxt1.
   --mint2 MINT2         only export clips with mint2 <= t2.
   --maxt2 MAXT2         only export clips with t2 <= maxt2.
-  --filetype {mp3,mp4}  filetype to export as either mp3 or mp4.
-  --normalizeaudio      normalize the audio of the output clip, which will
-                        make the clipper take longer. this only works with mp4
-                        at the moment.
+  --prepad PREPAD       pads the start of the clip with <prepad> seconds.
+  --postpad POSTPAD     pads the end of clip with <endpad> seconds.
+  --filetype {mp3,mp4,gif,wav}
+                        filetype to export as either mp3, mp4 or gif.
+  --normalizeaudio      normalize the audio of the output clip. this only
+                        works with mp4 at the moment.
   --noprefix            include prefix specifying info about the clip.
   --clearexport         clear the export folder before exporting.
-  --silent              if --silent is passed, then progress is not printed to
-                        the console.
+  --silent              if --silent is passed, nothing is printed to the
+                        console.
+  --list                prints the list instead of clipping.
+  --loadempty           if --loadempty is passed, then csvs located in the
+                        "empty" csv folder are also loaded.
+  --includeplaceholder  if --includeplaceholder is passed, then placeholders
+                        are included.
+  --threads THREADS     Amount of threads used to download clips, default 4
 ```
 
 ### Examples Using Optional Arguments
@@ -139,12 +146,11 @@ optional arguments:
 | Export clips from E19 | ``python main.py --tag E19* ``|
 | Export clips from the first 60 seconds of all lectures (e.g. "Godmorgen"-clips) | ``python main.py --maxt1 60``|
 
-
 If you have any ideas for useful optional arguments, please feel free to reach out to me or request a feature [here](https://github.com/vstenby/Best-of-Mat-1/issues).
 
 ## Special Thanks 🙏
 
-I would like to thank Jonas ([@YoonAddicting](https://github.com/YoonAddicting/DTU-Video-Downloader)) for his DTU-Video-Downloader. Without his downloader, Best of Mat 1 would not have happend after DTU changed over to video.dtu.dk. 
+I would like to thank Jonas ([@YoonAddicting](https://github.com/YoonAddicting/DTU-Video-Downloader)) for his DTU-Video-Downloader. Without his downloader, Best of Mat 1 would not have happend after DTU changed over to video.dtu.dk. While we're at the technical thanks, a huge shout-out to Lucas ([@TheLucanus](https://github.com/TheLucanus)) for his implementation of multi-threading, which helped tremendously with speeding up the downloader!
 
 Furthermore, I would also like to thank Rasmus ([@rasgaard](https://github.com/rasgaard)) for many lively discussions on the software and for many hours of watching lectures. 
 
