@@ -32,9 +32,7 @@ def export(t1, t2, url, outpath, i, args, n, ):
     if not args.silent:
         if not rtrn:
             #Replace letters causing trouble.
-            outpath = outpath.replace(' ','_')\
-                                .replace(',','')\
-                                .replace("'","") 
+            outpath = fix_outpath(outpath)
             print((str(count)+'/'+str(n)).ljust(9)+ f'{outpath} succesfully exported.')
         else:
             print((str(count)+'/'+str(n)).ljust(9)+ f'{outpath} was not exported.')
@@ -111,7 +109,7 @@ def main():
     else:
         clipname_mask = np.ones(n).astype(bool)
         
-    if args.minrating != 1:
+    if args.minrating != 0:
         minrating_mask = (args.minrating <= clips['rating']).to_numpy()
     else:
         minrating_mask = np.ones(n).astype(bool)

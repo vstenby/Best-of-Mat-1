@@ -164,6 +164,17 @@ def fetch_ID(url):
     '''
     return '0_' + url.split('0_')[-1].split('/')[0]
 
+def fix_outpath(path):
+    '''
+    Fixes the path out by removing letters that cause issues when exporting.
+    '''
+    pathout = path.replace(' ','_')\
+                  .replace(',','')\
+                  .replace("'","")\
+                  .replace(')','').replace('(','')
+    
+    return pathout
+
 def ffmpeg_clip(t1, t2, url, pathout, normalize=False):
     '''
     Export a clip.
@@ -175,9 +186,7 @@ def ffmpeg_clip(t1, t2, url, pathout, normalize=False):
     assert 0 <= t1, f'Invalid value of t1: {t1}'
         
     #Replace letters causing trouble.
-    pathout = pathout.replace(' ','_')\
-                     .replace(',','')\
-                     .replace("'","") 
+    pathout = fix_outpath(pathout)
     
     t1_timestamp = seconds_to_timestamp(t1) 
     t2_timestamp = seconds_to_timestamp(t2) 
