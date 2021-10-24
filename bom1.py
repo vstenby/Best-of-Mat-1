@@ -17,7 +17,7 @@ def welcome():
      | |_) |  __/\__ \ |_  | (_) | |   | |  | | (_| | |_   | |
      |____/ \___||___/\__|  \___/|_|   |_|  |_|\__,_|\__|  |_|
         """,
-        '     '+'Best of Mat 1: Release 2.2.0 (02/09/2021)'.center(57),
+        '     '+'Best of Mat 1: Release 3.0.0 (24/10/2021)'.center(57),
         '',
         'Author: Viktor Stenby Johansson',
         'If you have any problems with this software, feel free to reach out to me via Facebook.',
