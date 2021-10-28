@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
 
-from bom1 import *
+import bom1 
 import pandas as pd
 import numpy as np
 
@@ -9,7 +9,7 @@ def test_load_scripts():
     '''
     This should be able to catch most errors in all of the lecture clipping csvs.
     '''
-    clips = load_clips()
+    clips = bom1.load_clips()
     columns = clips.columns
     
     expected_columns = ['tag', 'nclip', 'name', 't1', 't2', 'rating', 'stream_title', 'link', 'duration']
