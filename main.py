@@ -5,7 +5,7 @@
 import os
 import numpy as np
 import pandas as pd
-import bom1
+import bom1.bom1 as bom1
 import argparse
 import difflib
 import re
