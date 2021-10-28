@@ -6,8 +6,8 @@ from .fetch_ID import *
 from .stream_link import *
 import subprocess
 
-import queue
-import threading
+import multiprocessing
+from tqdm import tqdm
 
 def ffmpeg_clip(t1, duration, url, outpath, args, n = None):
     '''
@@ -36,24 +36,9 @@ def ffmpeg_clip(t1, duration, url, outpath, args, n = None):
         normalize_rtrn = subprocess.call(f'ffmpeg-normalize {outpath} -o {outpath} -c:a aac -b:a 192k -f', shell=True, 
                                          stdout=subprocess.DEVNULL, stderr=subprocess.STDOUT)
         
-    if not args.silent:
-        global count
-        count += 1
-        if not rtrn:
-            print((str(count)+'/'+str(n)).ljust(9) + f'{outpath} succesfully exported.')
-        else:
-            print((str(count)+'/'+str(n)).ljust(9) + f'{outpath} was not exported exported.')
+        assert normalize_rtrn == 0, 'Normalize failed.'
         
     return rtrn
-
-#worker threads for queues
-def workerThread(q):
-    while True:
-        args = q.get()[0:]
-        ffmpeg_clip(*args)
-        q.task_done()
-
-    return
 
 def clip(t1, t2, url, outpath, args = parser().parse_args([]),
         #Here, we set all arguments that can be used by ffmpeg_clip. 
@@ -63,6 +48,7 @@ def clip(t1, t2, url, outpath, args = parser().parse_args([]),
         silent    = None,
         threads   = None,
         ar        = None,
+        desc      = None,
         ):
     
     if prepad is not None:    args.prepad = prepad
@@ -71,32 +57,34 @@ def clip(t1, t2, url, outpath, args = parser().parse_args([]),
     if silent is not None:    args.silent = silent
     if threads is not None:   args.threads = threads
     if ar is not None:        args.ar = ar
+    if desc is not None:      args.desc = desc
     
     
     #Make sure that all arguments are good to go.
     outpath  = [fix_outpath(x) for x in outpath]
-    url      = [stream_link(fetch_ID(x)) for x in url]
+    
+    #This can be written in a more clever way, but for now it'll work.
+    url      = [stream_link(fetch_ID(x)) if 'video.dtu.dk' in x else x for x in url] #Only apply the transformation if x has video.dtu.dk in it.
     t1       = [seconds_to_timestamp(x) for x in t1] #make sure all t1 are timestamps.
     t2       = [timestamp_to_seconds(x) for x in t2]  #make sure all t2 are seconds.
     duration = [seconds_to_timestamp(y - timestamp_to_seconds(x)) for x, y in zip(t1, t2)] #This will fail if t1 and t2 have different lengths.
         
-    #Set the count for exporting in parallel.
-    global count
-    count = 0
+    pool = multiprocessing.Pool(processes=args.threads)
     
-    q = queue.Queue(0)
-
-    n = len(t1)
-    
-    for t1, duration, url, outpath in zip(t1, duration, url, outpath):
-        q.put((t1,duration,url, outpath, args, n,))
+    if not args.silent:
+        pbar = tqdm(total = len(t1), desc=args.desc)
         
-    for _ in range(args.threads):
-        worker = threading.Thread(target=workerThread, args=(q,))
-        worker.setDaemon(True)
-        worker.start()
+        def update(*a):
+            pbar.update()
+        
+        callback = update
+    else:
+        callback = None
 
-    q.join()
-    q = None
-    
+    for i in range(len(t1)):
+        pool.apply_async(ffmpeg_clip, args=(t1[i], duration[i], url[i], outpath[i], args), callback=callback)
+        
+    pool.close()
+    pool.join()
+        
     return 

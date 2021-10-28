@@ -19,6 +19,10 @@ def main():
     
     args = parser.parse_args()
     
+    #If args.no_normalize, then we should not normalize.
+    if args.no_normalize:
+        args.normalize = False
+        
     #A few assertions
     assert args.prepad >= 0, f'args.prepad should be 0 or greater. args.prepad: {args.prepad}'
     assert args.postpad >= 0, f'args.postpad should be 0 or greater. args.postpad: {args.postpad}'
@@ -131,16 +135,18 @@ def main():
     if args.list:
         return
 
-    if n > 1:
-        print('')
-        prompt = input(f'A total of {n} clips were found. Do you want to export as {args.file_type}? [y/n] ').lower().strip() #Ask for confirmation if several clips are exported.
-        print('')
-    else:
-        prompt = input(f'A single clip was found. Do you want to export as {args.file_type}? [y/n] ').lower().strip() #Ask for confirmation if several clips are exported.
-        print('')
+    #If args.silent, then we don't prompt the user.
+    if not args.silent:
+        if n > 1:
+            print('')
+            prompt = input(f'A total of {n} clips were found. Do you want to export as {args.file_type}? [y/n] ').lower().strip() #Ask for confirmation if several clips are exported.
+            print('')
+        else:
+            prompt = input(f'A single clip was found. Do you want to export as {args.file_type}? [y/n] ').lower().strip() #Ask for confirmation if several clips are exported.
+            print('')
 
-    if (prompt != 'y') and (prompt != ''):
-        return
+        if (prompt != 'y') and (prompt != ''):
+            return
     
     #Start time before clipping.
     start_time = time.time()
@@ -149,8 +155,10 @@ def main():
     bom1.clip(clips_final['t1'].tolist(), clips_final['t2'].tolist(), clips_final['link'].tolist(), clips_final['pathout'], args)
 
     end_time = time.time()
-    print('')
-    print("Time elapsed: {:.2f} seconds.".format(end_time-start_time))
+    
+    if not args.silent:
+        print('')
+        print("Time elapsed: {:.2f} seconds.".format(end_time-start_time))
 
                 
 if __name__ == '__main__':
