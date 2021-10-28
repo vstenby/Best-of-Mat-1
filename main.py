@@ -69,22 +69,22 @@ def main():
         tags_mask = np.ones(n).astype(bool)
         
     if args.min_t1 != 0:
-        mint1_mask = args.min_t1 <= clips['t1'].apply(lambda x : timestamp_to_seconds(x)).to_numpy()
+        mint1_mask = args.min_t1 <= clips['t1'].apply(lambda x : bom1.timestamp_to_seconds(x)).to_numpy()
     else:
         mint1_mask = np.ones(n).astype(bool)
         
     if args.max_t1 != np.inf:
-        maxt1_mask = clips['t1'].apply(lambda x : timestamp_to_seconds(x)).to_numpy() <= args.max_t1
+        maxt1_mask = clips['t1'].apply(lambda x : bom1.timestamp_to_seconds(x)).to_numpy() <= args.max_t1
     else:
         maxt1_mask = np.ones(n).astype(bool)
         
     if args.min_t2 != 0:
-        mint2_mask = args.min_t2 <= clips['t2'].apply(lambda x : timestamp_to_seconds(x)).to_numpy()
+        mint2_mask = args.min_t2 <= clips['t2'].apply(lambda x : bom1.timestamp_to_seconds(x)).to_numpy()
     else:
         mint2_mask = np.ones(n).astype(bool)
         
     if args.max_t2 != np.inf:
-        maxt2_mask = clips['t2'].apply(lambda x : timestamp_to_seconds(x)).to_numpy() <= args.max_t2
+        maxt2_mask = clips['t2'].apply(lambda x : bom1.timestamp_to_seconds(x)).to_numpy() <= args.max_t2
     else:
         maxt2_mask = np.ones(n).astype(bool)
     
