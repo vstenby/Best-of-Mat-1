@@ -17,12 +17,11 @@ def ffmpeg_clip(t1, duration, url, outpath, args, n = None):
         duration:  duration   (timestamp)
         url:       stream link
     '''
-    
-    
+ 
     if outpath.endswith('.mp3') or outpath.endswith('.wav'):
         bashcmd = f'ffmpeg -y -ss {t1} -i "{url}" -t {duration} -ar {args.ar} -q:a 0 -map a {outpath} -loglevel error'
     elif outpath.endswith('.mp4') or outpath.endswith('.gif'):
-        bashcmd = f'ffmpeg -y -ss {t1} -i "{url}" -t {duration} {outpath} -ar {args.ar} -loglevel error -ar {ar}'
+        bashcmd = f'ffmpeg -y -ss {t1} -i "{url}" -t {duration} {outpath} -ar {args.ar} -loglevel error'
     else:
         raise ValueError('Wrong output format.')
             
@@ -30,7 +29,6 @@ def ffmpeg_clip(t1, duration, url, outpath, args, n = None):
     
     assert rtrn == 0, 'Download failed.'
         
-    
     if args.normalize and outpath.endswith('.mp4'):
         #This might fail if you don't have ffmpeg-normalize installed. pip3 install ffmpeg-normalize. Normalization also only seems to work with mp4.
         normalize_rtrn = subprocess.call(f'ffmpeg-normalize {outpath} -o {outpath} -c:a aac -b:a 192k -f', shell=True, 
