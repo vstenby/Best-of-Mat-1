@@ -1,0 +1,689 @@
+0:06
+God morgen. Jeg har fornøjelsen af at skulle køre til jer i begrebet flux, og det er jo et begreb,
+
+0:17
+som er af stor interesse for studerende fra studieretninger som jeg på.
+
+0:24
+Så det kommer også de følgende gange til at handelen helt masse om, og i dag, da taler vi altså specielt om flux igennem åbne flader,
+
+0:35
+og vi skal snakke om hvad er flux for noget, og vi skal kigge på symbolet Skalar.
+
+0:44
+Produktet er, ved jeg en. Vi starter ud med nogle meget simple eksempler.
+
+0:49
+For ligesom at få begrebet ind under neglene, og så skruer vi bissen på,
+
+0:54
+og så komplicere vi problemstillingen og kommer til at snakke om parametre, flader osv.
+
+1:03
+Se, det er jo en særlig udfordring for jer, fordi før projektet.
+
+1:09
+Da havde vi jo en masse omkring parametre, seedninger og integraler af forskellig type.
+
+1:15
+Og så havde vi altså det her projekt periode på fire uger. Og nu vi så i fuld gang med vægte felter, hvor I har brug for alle dele, er det dengang.
+
+1:24
+Så da jeg så noget og hev frem af den nedre hukommelser, og det håber jeg, at I kan massere godt ind i.
+
+1:34
+Flux begrebet her, for vi har brug for det hele tiden.
+
+1:38
+For eksempel ved I se, at når jeg introducerer Flux igennem en åben flade i dag, så er det sådan set bare en variant af flade integralet.
+
+1:50
+Når vi snakkede om flade integraler, så snakkede vi jo om fortolkning.
+
+1:56
+Belastningen sagde vi ofte, at det var den lokale masse tæthed.
+
+2:02
+Og når vi så laver integralet, så finder vi så massen af den totale flade.
+
+2:09
+Se i dag, da er det en anden belastning vi skal snakke om end den lokale masse tæthed, fordi nu er det den lokale flux.
+
+2:18
+For hvis vi kan finde et udtryk for den lokale flux,
+
+2:22
+så kan vi bare putte den ind i stedet for her og så lave et flade integral over slusen over hele fladen.
+
+2:30
+Og dermed får vi så flux igennem hele fladen, så den får, men det vender jeg tilbage til.
+
+2:38
+Om 35 minutter deromkring er.
+
+2:44
+C. Så kommer der et eksempel, og så kommer der sådan en avanceret fortolkning af flux begrebet,
+
+2:53
+nemlig som en volumen ekspansion strata og det vil sige der skal vi altså forlede fantasien og visualisere vingerne godt ud og til sidst.
+
+3:06
+Og det er også noget, der kan hjælpe os til at forstå Gaustad sætning, som er på programmet næste gang.
+
+3:12
+Jamen, det gør jeg opmærksom på en ting. Se på det, vi kalder for skemad.
+
+3:17
+B. Det er jer og på det, der hedder skemad. Se, det er dem, der er til stede om onsdagen.
+
+3:23
+I har haft en dag mere i projektperioden end skema A, så derfor har skema A en ekstra undervisning.
+
+3:32
+Og den var på Lille da i sidste uge. Hvis der er nogen af, der syntes I trænger til lidt repetition,
+
+3:39
+så kan jeg altså gå ind på skema a lille dag i sidste uge dér på dagsordenen oversigten.
+
+3:44
+Og så er der et lille lækkert Revelations program over integrale og den slags ting.
+
+3:50
+Så det er bare et tilbud til jer. Nu skal vi snakke om hvad Flux er for noget, og jeg tager udgangspunkt i et simpelt eksempel.
+
+4:09
+Vi siger, der er givet et konstant og det, der i det simple består vægtere felt ved.
+
+4:30
+Og et parallelogram. Som er udspændt af vektorerne A og B.
+
+4:52
+Og da jeg spørger om det er hvad er slusen ved denne parallelogram med?
+
+5:16
+Så er mit åbnings spørgsmål, og nu vil jeg så lave en fysisk fortolkning, som jeg bruger hen ad vejen.
+
+5:28
+Så så jeg siger. Jeg siger altså hvis V er et strømmen strøm.
+
+5:50
+Hastighed svigter fælt. Hvor meget?
+
+6:11
+Strømmer gennem parallelogram med. Per tidsenhed.
+
+6:37
+Sejr er matematisk strengt matematisk, der siger vi bare Hvad er flux, når vi gennem parallelogram med?
+
+6:42
+Men vi kan altså også sige B.
+
+6:44
+Det er et strømning hastede væk, væk så fælt, og det vi spørger om, det er altså, hvor meget masse strømmer dig igennem fladen per tidsenhed.
+
+6:54
+Flux kan vi altså forstå. Typisk som gennemstrømning per tidsenhed.
+
+7:05
+Og lad os nu prøve at kigge på det eksempel her med en tegning.
+
+7:14
+C. Jeg siger altså at jeg har givet et parallelogram. Som er udspændt af to vektorer a og b.
+
+7:31
+Så parallelogram med det har vi altså her. Og så har vi altså et konstant vægtet felt, det vil sige vektorerne er ens overalt.
+
+7:57
+Så man tegner jo bare nogle forskellige repræsentanter, at den samme vægter som altså.
+
+8:04
+Det strømmer bare ud af her og I kaldte sig se det eksempel jeg laver her.
+
+8:10
+Det er et eksempel, hvor jeg betragter med en ret vinkel.
+
+8:21
+Det vil sige, strømmen går vinkelret på mit parallelogram.
+
+8:28
+Så nu kan jeg bare tegn en repræsentant for vægteren kan jeg også, hvis jeg vil.
+
+8:34
+Den kan jo tegne her, han. Så her har jeg også en repræsentant for vi.
+
+8:47
+I og med at v det er hastigheden, så kan jeg se,
+
+8:52
+at hele den pump mængde der ligger her som har samme længde som hastede aspekterne, er jo sådan set også godt tegn.
+
+9:01
+En repræsentant for vi her i løbet af en tidsenhed.
+
+9:06
+Ved alle de punkter der er her. De vil lige præcis strømme herop.
+
+9:12
+Og sådan er det overalt. Da ville alle steder det der vil strømme igennem fladen.
+
+9:17
+Det er en pumpning, der har længden ved som hvor meget er strømmet igennem.
+
+9:41
+Så kan jeg se den masse der er strømmet igennem fladen på en tidsenhed.
+
+9:47
+Det er lige præcis volumenet at dette parallelogram. Så jeg kan altså skrive at Fluxus.
+
+10:00
+Den er lig med volumen af boksen.
+
+10:10
+Og volumen af sådan en bokser. Det er jo.
+
+10:17
+Det er jo høj den. Gange med grundflade.
+
+10:32
+Og højden i denne her boks det er selvfølgelig længden af denne her konstante vægt, så ved.
+
+10:41
+Og det skal så ganges med grundflade. Og hvor store er arealet af grundplanen, det vil sige hvor stor er royal parallelogram med?
+
+10:54
+Låsby Ja. Længden af krydsproduktet.
+
+10:58
+Det er en sætning fra gymnasie formen, sammenhængen. Så altså i det her, der simpelt er tilfældet, der har vi altså kunnet finde.
+
+11:07
+Hvad er Kluxen ved gennem parallelogram med den første meget, meget nemme fortolkning?
+
+11:16
+Så går vi til dette.
+
+11:20
+Det var altså med retvinklet. Og nu laver vi så et eksempel med skæv vinkel.
+
+11:38
+Og vi har altså stadigvæk vektorerne. A.
+
+11:48
+Obie. Vi betragter os stadigvæk flux er et konstant vægtet felt igennem parallelogram ned her.
+
+12:02
+Men nu rammer vektorerne parallelogram ned under skæv vinkel.
+
+12:10
+Så vi kan for eksempel sige. Altså dér har jeg ved.
+
+12:22
+Og den har jeg også alle mulige andre steder i rummet. Den ligger også dér, for de er jo ens.
+
+12:34
+Og jeg. Det vi nu betragter, det er jo ligesom før.
+
+12:40
+Hvis jeg kigger på en vægtere, der ligger herfra og hertil, så i løbet af en tidsenhed, så vil den være nået her op.
+
+12:50
+Og det gælder alle de andre steder. Den.
+
+12:58
+Altså her vil der også være en punkt man bliver derfor skudt op her.
+
+13:04
+Her har vi en pengemængde, der er skudt op her. Og endelig har vi en pumpning, der da er.
+
+13:11
+Brudt igennem og nået så langt. Så der kan jeg så se alt det der er kommet igennem her.
+
+13:21
+Det er altså Kluxen, og vi kan nu igen skrive at Kluxen den er volumenet.
+
+13:35
+Er det biometriske objekt som hvor alle siderne er parallelle rammer, og det kan jeg måske huske.
+
+13:44
+Det kalder vi for et parallel. Det er Pipi dum.
+
+13:57
+Og her gælder det faktisk samme form, at volumenet er et parallelt epi bederum.
+
+14:04
+Det er høj den. Ganget med grundflade.
+
+14:22
+Og. Se nu får jeg brug for en enheds normalvægt på parallelogram med.
+
+14:42
+Og den vægter det at den kalder i alt for lille en. Og hermed skriver jeg Enden er en indviedes normalvægt så.
+
+15:04
+Og nu er der en vinkel jeg er meget interesseret i.
+
+15:07
+Det er nemlig vinklen imellem enedes normalt vektoren for så vidt fra den udtrykker jo skævheden.
+
+15:15
+Borgere med vide rammer. Denne flade er i hvert fald et udtryk for det.
+
+15:23
+Så lad os kalde den vinkel for vi. Det jeg er ude efter er nemlig højden af det er i Pipi dum, og det får jeg jo,
+
+15:35
+hvis jeg producerer ved vektoren vinkelret ind på denne eneste normalvægt, så.
+
+15:46
+Så jeg producerer vægteren en hær. Og den er retvinklet.
+
+15:56
+Det stykke der ligger her. Det er så lige præcis højden af dette parallelt libitum.
+
+16:10
+Og lad os se hvad er så højden? Se, nu har vi her en retvinklet trekant.
+
+16:18
+Længden af V og hypotenusen og højden er den hårdest liggende.
+
+16:24
+Kan tt. Så højden den må altså være længden af vektoren v og så cosinus til den mellemliggende vinkel.
+
+16:40
+Opsagt gange med igen bundpladen, som stadigvæk er længden af krydsproduktet af A og B, og det skriver jeg hurtigt som.
+
+17:06
+Som det her, hvor jeg bare har sat længden af N ind, fordi den er jo bare en.
+
+17:13
+Det er en enhed som. Og grunden til at jeg har gjort det, det er selvfølgelig for, at nu kan vi genkende de tre faktorer her.
+
+17:21
+For det er jo prikproduktet af V og en.
+
+17:31
+Altså vi prikket med en. Og så gange med arealet af parallelogram med.
+
+17:47
+Den.
+
+17:51
+Så det her er altså en generel form for dette enkelte tilfælde, et parallelogram og et vægtere felt, der er konstant, men går ind med skæv vinkel.
+
+18:00
+Bemærk nu, at det skalaer for dumper. Apropos punkt nummer to.
+
+18:08
+Det angiver jo så lige præcis flux per arealenhed.
+
+18:23
+Altså ved prikket med inden dette typiske skalar produkt, som I kommer til at arbejde mere med.
+
+18:32
+Det er Flux søn. Hær Royal Enhed.
+
+18:45
+Sådan. Så har vi besvaret de første to punkter.
+
+19:00
+Og nu vil jeg komplicere situationen på ikke mindre end fire forskellige måder i forhold til det her nemme standard eksempel, jeg har lavet.
+
+19:31
+Har. Og det første er at vække topfeltet.
+
+19:40
+Vil variere. Både med hensyn til længde og retning.
+
+20:04
+Og tilmed. Tillad mig nu at gå lidt ud af en tangent og bruge et billede på det her.
+
+20:16
+Lad os sige at her har vi en flod. Som strømmer igennem her og skal vi sige at der ligger en.
+
+20:29
+Der ligger måske en stor sten her midt i floden, og så får vi altså.
+
+20:43
+Og nu begynder det at gå stærkt her. Og så flyver det lidt ud igen.
+
+21:03
+Og det er bare lige for at antyde det.
+
+21:06
+Altså i sådan en situation her har vi et strømningen specter felt, hvor der selvfølgelig er forskellig retning og længde på vektorerne,
+
+21:15
+alt efter hvor vi befinder os i floden og i forhold til test til stenen her.
+
+21:21
+Så det var den første komplikation. Den anden kamp, den anden komplikation er fladen er en parameter flaget.
+
+21:42
+Og så ikke bare sådan en plan, et plan parallelogram som her hende.
+
+21:52
+Kamp og den tredje. Flux regnedes.
+
+22:05
+Med fortegn. Ja, altså skal vi lige afsluttet dette er et fladen er en parameter flade og den parameter flade.
+
+22:24
+Det kunne for eksempel være. I et fiskenet som ligger her.
+
+22:43
+Pind. Og når jeg nu stiller spørgsmålet Hvad er flux den igennem fiske nettet, som jo altså her er en åben flade.
+
+23:00
+Så kommer det næste spørgsmål i hvilken retning mener du op,
+
+23:05
+hvis spørgsmålet er hvor stor er flux af V i retningen væk fra stenen, så vil svaret være et positivt resultat, for I kan se.
+
+23:19
+Der bliver altså spurgt på en måde, som er i overensstemmelse med vægt og feltets retning.
+
+23:26
+Men hvis der i opgaven i stedet for står, hvor stor er flux ind gennem fladen henimod stenen, så kan I se, så vil vi få et negativt resultat.
+
+23:38
+Fordi den går altså imod den måde spørgsmålet er stillet på, så det er altså en vigtig ting I skal tænke over.
+
+23:45
+Det er hvordan er spørgsmålet stillet?
+
+23:50
+Er det positiv eller negativ flux? Og så til sidst.
+
+24:07
+Nej, altså hvad man skal sige ja flux sund. Er et.
+
+24:21
+Altså er et overskud. For ca.
+
+24:30
+For prøv lige at se her, hvis vi nu siger nu kommer.
+
+24:35
+Nu kommer jo alle de her vektorer, og de kommer jo pænt igennem her.
+
+24:41
+Men prøv at se, hvis der nu ligger en ny sten her. Og så da er så kommer måske væk så feltet her.
+
+24:59
+Og så går den måske udenom. Her kan I se det. Se, det er ikke sikkert at det alle sammen at hele slusen er i.
+
+25:09
+Altså i retningen væk fra stenen. Der kan jo godt være et lille minimum, som går den anden vej.
+
+25:16
+Så slusen bestemmer altid et overskud. Altså et overskud der går i den rigtige retning minus det der går i den undskyld forkerte retning.
+
+25:30
+Så det er fire ting, som jeg gerne vil bede om og lægge mærke til.
+
+25:39
+Så går vi til den mere formelle behandling af af flugten, og nu skal vi have en mere formelt definition af flux.
+
+26:14
+Og så siger vi lavede.
+
+26:20
+Lad store F være en parameter flade.
+
+26:33
+Livet ved. R af u komma ved hvor U tilhører et interval fra A til B og V, et interval fra C og til D.
+
+26:57
+Og så siger vi lavede V være et glat midterfelt.
+
+27:15
+Sådan så siger vi. Køerne ved Flux Sund a v.
+
+27:32
+Derimellem. F. Derfor står årsdag flagede i integralet.
+
+27:49
+Og så har vi altså et flade integral over f.
+
+27:54
+A. Den lokale flux. Hvor.
+
+28:12
+Inden. Vi kan måske også skrive for at tydeliggøre det skrive et store FN der her hvor en af EF.
+
+28:24
+Er et enheds normalvægtig felt. På fladen solgte.
+
+28:51
+Så lad os sige, at vi hermed har fået defineret hvad vi med, når vi har taget alle disse komplikationer med.
+
+29:01
+Hvad vi så også forstår ved lokale, hvad vi forstår ved flugten er vi gennem E.F.
+
+29:08
+Vi skal altså integrere belastningen ved prick end op over hele fladen.
+
+29:16
+Så får vi den totale flux ud igennem fladen. Men så kommer spørgsmålet.
+
+29:34
+Hvordan kan vi så finde en form, hvor vi kan udregne det her?
+
+29:41
+Dette denne flux, og da starter vi med at finde.
+
+29:57
+Vi starter med at finde det her enhedens normalvægt felt på pladen, så det er det, jeg lige vil bruge en lille smule tid på.
+
+30:14
+Hun. Så lad os sige at vi har fladen her.
+
+30:35
+Vi har fladen F. Den har vi givet her.
+
+30:42
+Og som sagt, så er det jo en parameter flaget og det betyder vi er altså i eksil i sært rummet, men vi betragter også en U.
+
+30:51
+V plan. Og her har vi et akse parallelt område som er spændt ud imellem A og B og C og D.
+
+31:11
+Så jeg har altså her A og jeg har B.
+
+31:16
+Og så har jeg set. Og jeg har det. Og så husker I.
+
+31:21
+Fladen opstår. Jeg ved, at det her rektangel akse parallel sammen bliver afbillede over i fladen her,
+
+31:30
+sådan at der til ethvert punkt her smadrer et punkt her og omvendt.
+
+31:38
+Så nu. Betragter jeg så et vilkårligt punkt her på fladen.
+
+31:45
+Jeg vil gerne have givet en enhed stå med et vægter.
+
+31:51
+Og hvor skal vi se derhen? Vi kan sige, at det ligger måske her.
+
+31:59
+Jeg vil have en investor med et væk og her. Så er det punkt der er her.
+
+32:06
+Det er jo billedet af et punkt, der ligger her over, skal vi sige det punkt.
+
+32:10
+Det ligger måske her. Så her har vi altså selve punktet u.
+
+32:17
+Kommer vi? Kom.
+
+32:25
+Så det punkt bliver afbilledet i dette punkt.
+
+32:29
+Tegner jeg nu en vanrøgtet linje. Igennem punktet jamen så vil det jo svare til en rund kurve herover, som ligger på fladen.
+
+32:41
+Det kunne måske være den romkugle, der ligger her. Sådan bratte linjer bliver afbilledet i denne her, og på samme måde tegner jeg en lodret linje,
+
+32:56
+der går igennem punktet, og det vil svare til en åben kurve, der ligger på pladen måske sådan her.
+
+33:06
+Og så kan jeg måske huske, at hvis jeg nu tager hastigheds vektorerne for disse to rum kor i det her punkt, så får jeg mig en.
+
+33:20
+Hastighed svigter her, som jeg kalder er mærke efter U, som som jo er tangent væk, og jeg ved ikke om hvor flot jeg fik tegnet det.
+
+33:32
+Men er det ikke? Det er vist nok nogenlunde kan jeg, for så tager vi også en hastighed.
+
+33:37
+Specter efter. V tid. Som jeg så kalder for at mærke efter vi.
+
+33:50
+Og så er det jo, at hvis jeg nu krydser de to vektorer dér, så får jeg en.
+
+33:57
+Vægt, så som står vinkelret på på fladen i dette punkt, så jeg krydser de to vektorer her skal vi kalde den for store en.
+
+34:12
+Sådan her. Og var der gælder at store N.
+
+34:19
+Den har jeg skaffet mig ved at krydse de to hastigheds vektorer.
+
+34:27
+Sådan her. På.
+
+34:35
+Og så siger vi et standard. Enhedens normalvægt har følt.
+
+34:52
+På f. Fås ved.
+
+35:01
+Og så skriver vi M f.
+
+35:06
+Det er som om vores betegnelse for dette standard enheds normalvægt felt, som jo så er.
+
+35:15
+Store end. Divideret med længden af store en.
+
+35:23
+Eller skrevet ud mere præcist krydsproduktet af de to hastigheds vektorer divideret med krydsproduktet.
+
+35:36
+Længden er længden af deres krydsproduktet. Sådan her.
+
+35:45
+Så hermed har jeg altså skaffet mig den enheds normalvægt top 5 på fladen, som jeg havde brug for.
+
+35:58
+Fordi nu skal vi så have formlen for flux in af vektor feltet igennem den åbne flade, som jeg har tegnet her.
+
+36:14
+Og det bliver så en sætning. Men hvor vi siger at flux integralet som vi jo har bestemt os til at vi vil skrive på denne her måde her, er lig med.
+
+36:37
+Jeg har sagt, at det er et flade integral, som vi har brug for.
+
+36:42
+Hvor den lokale belastning er skalaer, produktet er ved 1, så lad os nu kigge på, hvordan det var at blive indført flade integralet.
+
+37:20
+Vi kan se her er historien, som jeg har genfortalt.
+
+37:25
+Jeg havde brug for den for at finde det, der er Stan Standard, der enheds normalvægt.
+
+37:29
+Trafik. Men. Det flade integralet det er altså flade integrale over en belastning, det er altså belastningen taget på flad på fladen,
+
+37:44
+hvor den Paramore interesserede flade også og gange med Jacobi funktionen.
+
+37:50
+Og det bliver så til et dobbelt integral. To almindelige integraler, der bliver taget lige efter hinanden og inden.
+
+38:00
+Det var også resultatet dengang. Det var altså krydsproduktet af er u, r er mærket efter uret er mærket efter vi,
+
+38:10
+så er det lige præcis den formelle dør, vi skal have gang i nu, hvor jeg skal udvikle flux integralet.
+
+38:21
+Så det er altså et dobbelt integral. A til B, C til B.
+
+38:33
+Og så skal belastningen. Den skal jo tages på på parameter fladen, så vi skriver altså her vi a taget I er r u kommer vi?
+
+38:48
+Og der skal vi så have skalaer produktet af m f.
+
+38:57
+Også taget i uge kommer vi også gange den her store en.
+
+39:06
+Også taget i punkt bøde. Nej, det er jo rejser Lasse ikke gør det mere kompliceret end det er.
+
+39:14
+Vi skriver simpelt hen bare her enheds standard enheds nummer med et vægteren og så gange den store M.
+
+39:22
+Vi altså har indført. Og så hedder det det nu.
+
+39:27
+Og det ved vi altså først integrerer med hensyn til uuuh og så bagefter med hensyn til det.
+
+39:35
+Se, nu er der en smart ting, fordi nu har jeg afregnede eller fundet et udtryk for den, der for den er enedes normalvægtig.
+
+39:46
+Så nu kan vi så forenklet yderligere.
+
+39:58
+Så det er stadigvæk væk, så feltet taget i parameter fremstillingen.
+
+40:04
+Men nu kan I se. Jeg indsætter nu udtrykket som står her himmel.
+
+40:13
+Det indsætter jeg i stedet for her. Her står der længden.
+
+40:20
+Dette er DR nemlig Jacobi. Og I kan se den står i nævneren her, så de to går væk med hinanden.
+
+40:30
+Når jeg ganger. Så derfor går dette udtryk altså væk.
+
+40:36
+Tilbage er altså bare at vi skal tage skalaer produktet og så gange med er mærket efter.
+
+40:46
+Produceret med er mærket efter vi.
+
+40:53
+Og så kørte det ud og så det vi.
+
+41:00
+Så det vil jeg så sige.
+
+41:01
+Vi var i en vis forstand meget, meget heldige her, fordi Jacobi faktoren er gået ud, så det eneste vi altså skal gøre for at udregne flux integrated,
+
+41:13
+det er at integrere over prikproduktet er væk fra feltet og så denne her crush svigter.
+
+41:21
+Der kommer ud af selve parameter fremstilling inden for fladen, så det er et super enkelt formel,
+
+41:28
+vi hermed har nået frem til, og det glæder jeg mig til at vise jer et lille eksempel.
+
+41:34
+Efter pausen. Den snupper vi endnu.

@@ -1,0 +1,929 @@
+0:04
+Blev egenværdier introduceret og egenværdier er jo en af de aller aller vigtigste tekniske anvendelser af dine elbrønd.
+
+0:16
+C 1 en af de ting man kan bruge egenværdier til.
+
+0:21
+Det er til at kunne analysere matricer, og det er emnet for i dag.
+
+0:27
+Hvornår kan man? Hvad betyder det, at hun er i serien Matrix?
+
+0:33
+Og hvordan gør man? Kan man altid gøre det?
+
+0:37
+Hvad er betingelserne for, at man kan gøre det? Det er emnet for Ida.
+
+0:42
+Men lad os lige se på egenværdier problemet igen, fordi faktisk så har vi to versioner af egenværdi problemer.
+
+1:00
+Vi har nemlig egenværdi problemet for en lineær afbildning.
+
+1:10
+F a et vægter ro ind i sig selv.
+
+1:16
+Altså når vi nu snakker om egenværdier, så vil det altså sige, at definitionen sværmede og disposition trommet er altid det samme.
+
+1:27
+Så siger vi kun, at hvis F.
+
+1:34
+V er lig med Lambda gang er.
+
+1:40
+Hvor V er en egentlig vægter, så er Lambda en egenværdi for F.
+
+2:00
+Og VE er en egenvægt tåre som hører til til andre.
+
+2:20
+Og så den anden egenværdi problemstilling er noget der gælder for en kvadratisk matrix.
+
+2:35
+Og her lyder det sådan, at hvis. Da Matrix gerne ville væk, så er konstanten lambda gange ved vektoren.
+
+2:49
+Så er lambda en egenværdi for A.
+
+3:01
+Og ve er en egenvægt så.
+
+3:10
+Som hører til Lambda. Kysten.
+
+3:19
+Og så er spørgsmålet Hvorfor har vi to forskellige formuleringer af egenværdi?
+
+3:25
+Problemet. Se det så i sidste gang på den særlige måde at.
+
+3:35
+Hvis vi skal finde egenværdier og egen vektorer for en lineær afbildning.
+
+3:41
+Så bruger vi. F. Afbytning, smag, tricks og så er det faktisk den her matrix ligning, vi bruger til at finde det karakteristiske polynomier med.
+
+3:53
+Og dér efter finder egnede hjørner, og så finder vi egne vektorerne.
+
+3:57
+Hvad siger du? Sidste gang er brugt på at råbe og streger matricen, at det var tog fra.
+
+4:06
+Jeg synes, det er nemmere kun at sætte ind. Altså det det betyder.
+
+4:09
+Det er i håndskrift, at det er fed i en, der skriver vi i fed både for vektorer og for matricer.
+
+4:17
+Og når jeg skriver her, så en streg under et stort bogstav.
+
+4:21
+Det betyder en matrix og en streg under en et lille bogstav.
+
+4:27
+Det er en vektor.
+
+4:34
+Men da jeg så nogle gange hvad man interesseret i at finde egen værdierne for en matrix, uden at man tænker på matricen som en afbytning matrix.
+
+4:47
+Og andre gange er man interesserede i at finde egen værdierne for en lineær afbildning, uden at man indfører dens afpresningssag matrix.
+
+5:00
+Og se det sidste her. Det vil jeg nu vise er et eksempel på fordi.
+
+5:05
+Hvad nu hvis I svigter rummet? Det er ulempen dimensionalt.
+
+5:10
+Så kan vi jo ikke finde en afvænnings matrix for den, men egenværdi problemet kan alligevel være interessant, så prøv at lægge mærke til det.
+
+5:18
+Det er altså to forskellige formuleringer af egne ved problemet.
+
+5:22
+Og det har altså en mening, så lad os nu kigge på et eksempel med et uendeligt dimensionalt vektorrum.
+
+5:39
+Og vi siger. At en lineær.
+
+5:50
+Afbytning A 7 uendelige er den Iseo zero egentlig er.
+
+6:04
+Er givet ved at f a en funktion ikke sig til.
+
+6:19
+Den er funktionen differentieret. Og det jeg gerne vil vise nu er, at det følgende spørgsmål har en mening.
+
+6:32
+Find samtlige egenværdier for EF.
+
+6:45
+Og alle de tilhørende. Egen rolle.
+
+7:00
+Så det er altså den opgave jeg har stillet mig selv. Og kun delvist er lyset der.
+
+7:13
+Nu skal vi jo løse denne her denne ligning, at afbildningen af en vægtere skal være en konstant ganget med vektoren.
+
+7:36
+Det er jo egenværdi. Problemet for en lineær afbildning jeg har skrevet op her, at det der er interessant,
+
+7:44
+det er altså billedet af en vægteren er simpelthen bare vektoren selv gange med en konstant.
+
+7:52
+Så billedet er parallel med vægteren. Det er kernen, problemstillingen når.
+
+8:05
+At f eks. Er lig med det der står dér. Det er jo så ensbetydende med at.
+
+8:13
+Ex mærket har til. Er lig med Lambda gange ikke så tit.
+
+8:27
+Så egenværdi problemet er nu kommet op i den.
+
+8:35
+Version, som står her. Og er der nogen her der kender en løsning til den?
+
+8:42
+Linjen der står der Ser du selv tage i opløftet lamper?
+
+8:47
+Ja. Kan du se jeg laver lidt plads her.
+
+9:04
+Hvorfor tog du? At det er alle løsninger du har fundet her.
+
+9:12
+Man skal der, ja. Altså den differentialligning her.
+
+9:21
+Det er en første ordens differentialligning. Den har samtlige løsninger her.
+
+9:27
+Så vil jeg sige i det her tilfælde der viste det sig, at egenværdi er problemet for en lineær afbildning.
+
+9:33
+Det var det samme som at løse en første ordens ligner differentialligning. Og lad os lige se var der nogle betingelser på og lamper.
+
+9:46
+Ingen betingelser overhovedet. Fordi denne her passer uanset hvad andre er, så i det her tilfælde kan vi altså se,
+
+9:54
+at et vilkårligt tal lambda er egenværdi for den her lille afbildning.
+
+10:19
+Byen vugge levede et lambda den.
+
+10:34
+Så kan vi også godt finde egenvægt til rummet egenvægt til rummet.
+
+10:38
+Det er jo alle de egenvægt 2'ere, der hører til egenværdi 1 og kan se.
+
+10:47
+Her fik vi din arbitrære konstant ind.
+
+10:51
+Og den viser jo lige præcis, at den første funktion du nævnte.
+
+10:56
+Det er en basis for for at få egenvægt mig, så det vil altså sige, at egenvægt rummet, det er udspændt ingen af.
+
+11:08
+Denne her vægter. Og så op og vi har at den biometriske multiple site.
+
+11:23
+For ethvert for enhver egenværdi, at den er i. Og kan I set den problemstilling her, ville vi slet ikke have kunnet udtrykke i en Matrix formulering.
+
+11:39
+Det her er ren analyse, vi har lavet hen.
+
+11:46
+Uendelig mange egne værdier har vi set at den her funktion den har.
+
+11:52
+Nu vender vi tilbage til byen endeligt Demons Signal, fordi I ved de her er jo uendeligt dimensionalt vektorrum her.
+
+12:00
+Nu vender vi tilbage til endelig dimensionalt vektorrum, og det snakker vi om resten af dagen.
+
+12:10
+Og nu skal vi have en hovedsætning. Vi betragter.
+
+12:33
+En lineær funktion.
+
+12:37
+V eller SF er et vektorrum ind i sig selv.
+
+12:47
+Hvor dimensionen af vægter rummet er endelig. Skal vi sige, at den har dimensionen en.
+
+12:58
+Og sætningen Den siger så at hvis vi.
+
+13:04
+Vader V lige med væk, tager vi en op til lektor ved EM.
+
+13:15
+Kun hver en. Basis får vi.
+
+13:27
+Så gælder det. Så gælder der at afbytning matricen.
+
+13:48
+Med hensyn til den til den tid den givende basis, at den er en diagonal matrix.
+
+14:07
+Hvis og kun vidste. V er en egen basis.
+
+14:30
+En egnet basis det består. Det betyder en basis, der består af egne vektorer.
+
+14:36
+Så her ser jeg altså forbindelsen imellem egenværdi problemet og diagonal i sikkerhedsproblemerne.
+
+14:46
+En lineær afbytning. Da kan vi finde en afbildning small trick, som er en diagonal matrix,
+
+14:55
+hvis og kun hvis den basis vi betragter den med hensyn til, er en basis, der består af egne vektorer.
+
+15:03
+Så det er den grundlæggende sætning for det, vi snakker om i dag.
+
+15:12
+Kom og lad os lige se et bevis for sætningen.
+
+15:25
+Det vi gør først er, at nu antager vi, at denne her basis den er en egen basis.
+
+15:34
+Og så viser vi, at dens afbildning smal tekst er en diagonal matrix.
+
+15:39
+Altså antag. At det lig med ved et veto to ved tre.
+
+15:54
+For nemheds skyld beviser jeg denne her sætning for n lig med 3.
+
+15:59
+Men jeg kan lige så godt have vist dem forenelig med 17 eller vilkårligt.
+
+16:03
+Men lad os sige vi kigger bare på tilfældet. 3. Vi anså altså den, at de tre lektorer her er en egen basis.
+
+16:18
+Det vil altså sige at de er egnet lektorer, og det vil så sige, at så er billedet af hver er den proportional med vektoren selv.
+
+16:33
+Så vi har altså f vil et er lig med lam, der f.
+
+16:39
+Derfor er det to er lambda 2, v 2 og f a.
+
+16:44
+Vi er tre er lig med lambda 3 gange med v.
+
+16:50
+3. Når jeg så bliver opstillet afvænnings matricen.
+
+17:05
+For med hensyn til bassen, så ved vi jo at.
+
+17:16
+Det er billederne af Basix vektorerne vi skal have fat i.
+
+17:26
+Så det er altså ved koordinaterne for billedet at den første med basis svigter.
+
+17:40
+Koordinaterne for billederne af den anden og billedet af den tredje, så er det altså sådan, at vi kan opstille den her basis med en tekst.
+
+17:54
+Til. Og nu skal vi så se hvad koordinaterne er for billedet.
+
+18:01
+Vi har jo billedet her hende. I.
+
+18:08
+Og se, nu skal vi finde ud af hvad dagens korte natur er i ved basis.
+
+18:13
+Så skriver jeg her + 0 gange med ved to sluser.
+
+18:21
+Nogle gange med ved tre.
+
+18:29
+Og så ved vi jo at. Lamt er et nul og nul.
+
+18:34
+Det er koordinaterne for billedet med hensyn til ved basis.
+
+18:46
+Så den første søjle har vi altså dér. Og her har vi jo så tilsvarende nul med et plus nul ved 3.
+
+18:57
+Og her har vi nul ved to plus nul eller nul ved ét plus nul.
+
+19:07
+Vi er to. Som jo så betyder at koordinaterne nu er for dem.
+
+19:17
+Altså denne her søjle væk så selv er nul lambda 2 0 og den koordinat søjle.
+
+19:25
+Den er nul nul og lambda 3. Så det vi kan konstatere er altså at vi har vist.
+
+19:47
+Altså er v, f, v.
+
+19:53
+En diagonal matrix. Og ydermere.
+
+20:11
+Det er altså at. Og det kan vi så se her at.
+
+20:27
+At vektoren v i den tilhører egen rummet.
+
+20:34
+Der hører til lamper i. Altså den der er en egenværdi, der hører til den første basis svigter den.
+
+20:48
+Det er en egen, den der hører til den anden vases vækst. Og Lambda 3 er en egenværdi, der hører til den tredje basis sektor og omvendt.
+
+21:00
+Så nu har vi altså vist sætningen fra den ene side, og det jeg nu skriver, det er.
+
+21:13
+Altså at den omvendte sætning.
+
+21:22
+Vises på tilsvarende vis. Set.
+
+21:49
+Men ser du? Jamen det vil så sige altså her der startede ud med at vise, at det kan mærkes.
+
+21:58
+Det der står her, er når du står i en sætning og står hvis og kun hvis, så betyder det altså, at det er en sætning, hvor du skal bevise begge veje.
+
+22:07
+Hvad har jeg gjort her?
+
+22:09
+Jeg har startet med at sige, at hvis jeg vælger mig en basis, der består af egen vektorer, så leger afbildningen matricen en diagonal matrix.
+
+22:24
+Det omvendte der gør du det modsatte. Du siger der er givet en basis, og med hensyn til den basis der er, afbilledes matricen en diagonal matrix.
+
+22:37
+Hvis du tager det udgangspunkt, så kan du så bevise, at den basis du har valgt, at det er en basis, der består af egne vektorer.
+
+22:45
+Så er du vist den modsatte vej, og det er altså rigtig vigtigt, at det er begge veje, den gælder.
+
+23:04
+Så sagde jeg også, at nogle gange er man interesseret i tekniske anmeldelser.
+
+23:11
+I at kunne diagonal I seer en matrix uden at man tænker på den som en lineær afbildning,
+
+23:18
+så bliver det sådan en teknisk matrix opgave, man er i gang med nu.
+
+23:22
+Og det er der rigtig meget af i dagens øvelses program. Så nu skal vi altså snakke om realisering af matricer.
+
+23:34
+Og. Hvordan?
+
+23:57
+Og husker jeg så, at når vi snakker om det her problem med lineær afbildninger, så er det altså en lineær afbildninger af et vektorrum en i sig selv.
+
+24:13
+Det er helt ækvivalent med, at når vi snakker om om egenværdier for en matrix,
+
+24:20
+så er det kvadratiske matricer det handler om, og ikke nogen som helst andet.
+
+24:24
+Og de to ting hænger snævert sammen, så det jeg nu snart snakker om.
+
+24:29
+Så antager vi, at alle de matricer, jeg der indgår, nu er indkredset end matricer.
+
+24:34
+Så behøver ikke at skrive det hver gang. Og nu skal vi have en et par definitioner og den første definition.
+
+24:49
+Det er. Handler om similar matricer.
+
+24:55
+Og man siger. A er timelærere.
+
+25:06
+Med. B matricen. Hvis der findes.
+
+25:18
+En regulær matrix gem.
+
+25:27
+Således at.
+
+25:34
+M. Vi mener Svarstad gange med a gange med M er lig med B.
+
+25:56
+Altså B matricen kan fremkomme som et Matrix produkt.
+
+26:04
+Af matricen. Og så en M matrix, der her er indvaderede på venstresiden og så matricen selv her på højresiden.
+
+26:13
+Ja, det betyder ikke andet end det jeg har sagt her.
+
+26:19
+Det er selve definitionen på hvad vil det sige, at den assimilere a når assimilere?
+
+26:26
+Det er jo et eller andet med ja, altså ordet assimilere. Det er jo et eller andet med, at de ligner hinanden.
+
+26:32
+Når du siger noget assimilere, så mener man, de ligner hinanden. Og så i denne her sammenhæng.
+
+26:38
+Hvad vil du så sige, at de ligner hinanden? Ja, det vil altså sige, at de kan fremkomme af hinanden på den måde, at de altså kan finde sådan en m.
+
+26:48
+Hvor dette opfyldt. For det er altså begrebet simulator.
+
+27:02
+Og så kommer næste definition. Det er at A kan de kanaliseres.
+
+27:19
+Ved simulator transformation. Hvis der findes en regulær ved.
+
+27:48
+Således at. Ved.
+
+27:54
+Vi mindes første gange med a gange med hvid er lig med lambda.
+
+28:04
+Hvor Lambda er en diagonal matrix.
+
+28:23
+Så her har vi altså begrebet kan diagonal seeres ved simulatoren Transformation
+
+28:31
+og I kan altså se det hænger meget stærkt sammen med at begrebet simulator.
+
+28:39
+Fordi kort sagt så betyder det. At A er similar er.
+
+28:54
+Med en diagonal matrix. Så det er altså den korte version af det der med at A kan moderniseres ved en similar transformation.
+
+29:20
+Det vil altså sige når vi snakker om bliver kommunalisering på det her lineær algebra kursus, så mener vi simulator og transmission.
+
+29:31
+Der er givetvis nogle herrer, der på de kurser I kommer ud på, vil se at der findes også andre måder, hvorpå man kan kanalisere matricer der.
+
+29:41
+Der findes for eksempel noget der hedder sv b.
+
+29:44
+Metoden som er så er singular valg jo det composition, og det er også en rigtig smart måde at kanalisere matricer på, som også har mange anvendelser.
+
+29:56
+Men vores kursus her. Det drejer sig altså om den form for værdier seeking, som jeg har indført her.
+
+30:16
+Og så kommer så en sætning. Hvor vi siger, at hvis der er givet.
+
+30:36
+En og regulære. Matrix sved som vi så kan jeg skrive som ved et ved to og så videre til ved EM.
+
+30:53
+Og en lambda matrix, som er en diagonal matrix.
+
+31:04
+Og den kan den store mand på den her måde lambda et navn der to.
+
+31:12
+Lambda 1. Så det er utrygt at stå her. Det betyder altså, at matricen er en diagonal matrix og de elementer, der står her.
+
+31:21
+Det er de elementer, der er i diagonalen.
+
+31:30
+Og så er sætningen. Der gælder at V i minus først dag.
+
+31:42
+V er lig med Lambda matricen.
+
+31:47
+Hvis og kun hvis.
+
+31:55
+Lambda i. Jeg er vist for vi kan skrive for de lige med ét til én der gælder.
+
+32:09
+At Lambda I er en egenværdi.
+
+32:18
+Og at V i vektoren ligger i det aymaraer, som tilhører Langdahl I.
+
+32:33
+Og den sætning der står her er matrix versionen af den hovedsætning, som der står det.
+
+32:43
+Og den siger altså at. V kan de kanaliseres, hvis selvom simulator og transport transformation, hvis den vægtere der lyder, vil.
+
+32:59
+Hvis den består af egenvægt, 2'ere og lam, der består af egenværdier.
+
+33:07
+Og det er altså denne her sammenhæng imellem dem, at den i det søjle den egenværdi,
+
+33:14
+der står dér, den svarer til den i det bageste specter eller søjle i ved matricen.
+
+33:27
+Men i den sætning her, da vi fuldstændig frigjort fra at tænke over noget som helst med lineær afbildninger og bages og den slags ting her.
+
+33:38
+Den udtaler kant og rent teknisk om, hvad der skal være opfyldt, for at det her kan lade sig gøre.
+
+33:47
+Og beviset for den sætning her. Det er simpelt hen altså at man bruger resultatet.
+
+34:11
+Altså fra den tilsvarende sætning. Om lineære afbildninger af hovedsætning.
+
+34:47
+Så skal vi lige se hvor langt vi er nået.
+
+34:49
+Vi har nu fået indført hovedsætninger, der udtaler sig om, hvornår en afbildning matrix kan diagonalen i Ceres,
+
+35:00
+og nu har vi altså også set den tilsvarende sætning for matricer.
+
+35:05
+Og hvor vi ikke tænker på dem som afbildninger matricer. Så det er en vigtig sætning.
+
+35:11
+Men nu skal vi være endnu mere præcise, for hvornår kan det her så lade sig gøre?
+
+35:17
+Altså hvornår har vi så rent faktisk en egen basis?
+
+35:23
+Hvornår kan vi finde en egnet basis for en lineær afbildning, og hvornår kan vi finde den for en for en matrix?
+
+35:31
+Så det er det, det handler om nu, og det hænger tæt sammen med begrebet algebraisk multi, boligsitet og geometrisk multiple visiting.
+
+35:41
+Så det skal vi nu snakker. Og det er så selvfølgelig noget af en teoretisk nyser vi er igennem i dag.
+
+36:17
+Og når jeg lige har nævnt de 6 punkter, der er her omkring algebraisk geometri, skulle simplicitet.
+
+36:25
+Så ser vi resten af dagen på eksempler, og hvordan de kan udfolde det, vi nu har har gennemgået her i den første halvleg af forelæsningen.
+
+36:35
+Men nu snakker vi altså om algebraisk. Og geometrisk mål til følge sitet.
+
+36:59
+Og udgangspunktet er så lade larmen da være en egenværdi.
+
+37:11
+For en en kryds en matrix.
+
+37:19
+Skal vi kalde den af. Hvad forstår vi så b.
+
+37:48
+A. M f. Lambda? Er der nogen af jer, der kan huske det fra sidste gang?
+
+37:54
+Hvad siger du til at med taske?
+
+37:59
+Ja, i hvad? Det har jo noget med et bestemt polynomium at gøre i praksis.
+
+38:08
+Præcis Jest. Det er den algebraiske.
+
+38:23
+Mod til boligsitet. I det karakteristiske polynomium.
+
+38:45
+For A.
+
+38:50
+Det begreb blev indført her, altså algebraisk multiple visitter, der hænger snævert sammen med det vi lærte under forløbet omkring komplekse tal.
+
+38:59
+Da snakkede vi nemlig om polynomier. Vi snakkede om deres råd og.
+
+39:06
+Og det der var vigtigt her var, at når vi har fundet alle rødderne for et polynomium, så kan prygle, nå noget aktualiseres.
+
+39:18
+Den er skrevet som en række parenteser, hvor der står x minus en rod ganget med x, minus en rod osv.
+
+39:29
+Men nogle gange så er det den samme rod, der optræder flere gange i denne her Factory.
+
+39:36
+Serien af polynomiet og det antal gange som denne her parantes optræder i Factory serien, som er den algebraiske målt til boligsitet.
+
+39:47
+Det ser vi eksempler på senere i dag.
+
+40:05
+Hvad forstår vi så ved GM, hvem vil give mig et stikordet der? Ja, hvad siger du altså resten af turen til det antal egenvægt 2'er tilhørende lamper?
+
+40:22
+Det er næsten rigtigt. Hvis du med, hvor mange forstår I, hvor mange dimensioner du kan fange dem ind, fordi de skal huske det?
+
+40:36
+Altså når vi har fundet en egnet værdi, så har den ikke kun en egenvægt, for den har nemlig mange, som du antyder her.
+
+40:47
+År. De egne lektorer, der tilhører en bestemt egenværdi.
+
+40:53
+De udgør et underrum i det vektorrum, vi betragter.
+
+40:58
+Og så er vi jo ind på tale om dimensioner og den geometriske multiple sitet.
+
+41:04
+Det er altså dimensionen af det egen vektorrum, som hører til Lambda altså lambda egenværdi 1.
+
+41:12
+Vi har fundet. Den er kommet i et stort rige, som er et underrum og dimensionen af dette rige.
+
+41:22
+Det er altså den geometriske multiple sitet. Så det lamper er dimension.
+
+41:39
+Det underrum. Som det ene holder.
+
+41:51
+Alle dine egne 2'ere. Der hører til lamper.
+
+42:10
+Er. Og det vil så sige at det har jeg sikkert også set skrevet som sådan her.
+
+42:23
+At give EM er lang, der er lig med dimensionerne af egne rummet, der hører til lambda egen rummet.
+
+42:37
+Det er netop det store kongerige, som Lambda hersker over.
+
+42:54
+Når det er sagt, skal jeg lige have 6 punkter skrevet ind på her og den første.
+
+43:02
+Den handler om. Den handler om summen af alle de algebraiske multiple citater.
+
+43:25
+Altså hvis jeg kigger på alle egenværdi hjørner. Jeg tager deres algebraiske multiplex sitet op og lægger dem sammen.
+
+43:35
+Hvad gælder der så om den? Skal vi lige før starte med velgørende drama, har det karakteristiske polynomier.
+
+43:47
+Er det det du savner, så alle de på citater har være ansat dig?
+
+43:55
+Ja, fordi det karakteristiske polynomium for a.
+
+44:01
+På den måde vi regner det ud på. Der.
+
+44:04
+Der kan jo se det må være et integreres polynomium, og nu er vi igen tilbage til de første fire uger af dette kursus,
+
+44:11
+hvor vi snakkede om røde, og der kan vi se den her er lig med.
+
+44:17
+Har jo heller lige laver en Tuborg her. Den er lig med M, hvis det tandlæge tandlægerne vi betragter det er de komplekse tal.
+
+44:34
+I visse sammenhænge, da interesserer man sig for egenværdi problemet alene i en reel sammenhæng, og da må vi så sige, at så kan det være.
+
+44:44
+Den kan i hvert fald ikke være større end den kan muligvis være M,
+
+44:48
+og den kan også muligvis være mindre end en så kort sagt mindre end eller lig med M.
+
+44:56
+Hvis den tal mængde vi betragter det er de reelle tal.
+
+45:07
+Så gælder der følgende sætning for en værre.
+
+45:14
+Egenværdi. Der gælder der at den geometriske multiple sitet er mindre end eller lig med den algebraiske multiple visiting.
+
+45:38
+Og det er altså det altså bare ikke. Det er ikke så nemt at indse.
+
+45:43
+Men vi har ikke tid til at bevise det. Men der gælder så denne her sammenhæng imellem de to motiver visitator.
+
+45:57
+Og her gælder der jo så selvfølgelig at summen af alle de geometriske multiplicere
+
+46:04
+se dig er mindre end eller lig med summen af de algebraiske multiple citater.
+
+46:17
+Og derved mindre end eller lig med en. 4.
+
+46:29
+Hvis sommeren. Altså hvis denne her bidrog med summen af de biometriske mål til visitere.
+
+46:43
+Hvis den er mindre end en. Altså hvis jeg finder alle egenværdi hjørner finder deres biometri biometriske multiple site, der lægger dem sammen.
+
+46:55
+Hvis det er mindre end det m, som er antallet af rækker søjler i matricen.
+
+47:03
+Det kan A ikke diagonal i Ceres.
+
+47:22
+Så her kom der altså virkelig et nyt poynter ind, og det er simpelthen fordi, at vi har denne her sætning.
+
+47:32
+Altså enten i denne her formulering eller i den formulering dør her om, at de har kommunalisering er kun mulig hvis.
+
+47:47
+Hvis alle disse vektorer. De er ayn vektorer, og det klarer vist de geometriske multiplicere der er membran inde.
+
+47:59
+Så kan jeg ikke finde en lineær uafhængig af egne vektorer.
+
+48:04
+Og det er altså det der er betingelsen. Så her har der sig et tydeligt kriterium for, hvornår det ikke kan lade sig gøre.
+
+48:12
+Vi skal se, om vi også kan finde dem for, hvornår det kan lade sig gøre, og her har jeg så min.
+
+48:21
+Min. Min næste sætning. Et sæt af vektorer af lineært uafhængige vektorer.
+
+48:49
+Fra forskellige. Egen rum.
+
+49:02
+Er lineært uafhængigt. Det betyder altså set at noget du ikke kan se.
+
+49:20
+Jeg spørger dig om du skriver, at en af dine uafhængige vektorer kommer fra.
+
+49:26
+Der står et sæt af lineært uafhængige vektorer fra forskellige egne over det sæt.
+
+49:34
+Det alene er uafhængigt. Den er lidt kompliceret, men hvad minstre med det der menes, er altså hvis jeg har en egen værdi.
+
+49:42
+Lambda et og en egen værdi er Lambda 2 og en egen værdi Lambda 3.
+
+49:49
+Hvis jeg tager nogle lineært uafhængige vektorer inden for hvert af de her vektorrum og sætter dem sammen til et nyt sæt,
+
+49:59
+så vil det set være lineært uafhængigt.
+
+50:02
+Det er der et bevis for i en orden, og det er nemlig rigtig vigtigt for, at jeg nu kan komme med den sidste og afgørende sætning, som siger.
+
+50:14
+Hvis. Summen af de geometriske multiple citater.
+
+50:28
+Er lig med en. Så kan A 409 se os.
+
+50:45
+Så det her er altså et kriterium vi kun bruger for hvornår en Matrix A kan realiseres.
+
+50:52
+I første omgang kan vi altså sige, at A kan diagonal i Ceres.
+
+50:58
+Hvis der findes en basis for afgrænsningen, der svarer til den som består af egne vektorer.
+
+51:07
+Der skal altså være en lineært uafhængige egne vektorer.
+
+51:11
+Så kan den derpå realiseres. Det var hovedsætninger. Nu har vi så præcis præciseret til, at hvis summen af de biometriske multiplex sitet om,
+
+51:21
+hvis den er lig med en, så kan den derpå analyseres dårlige spørgsmål herom.
+
+51:25
+Ja, ja det. Og lad os lige her inden pausen se et eksempel på det jeg har sagt hør.
+
+52:20
+Se det første tilfælde her. Det er selvfølgelig ret nemt, fordi det er en 2+2 matrix.
+
+52:28
+Der står ikke, hvad det er for en. Men der står altså bare, at vi har fundet egenværdier.
+
+52:35
+Vi har brugt kommandoen. Egenvægt tager sig af fundet ud af, at der er to egenværdier, den ene, der hedder minus tre og den anden.
+
+52:42
+Den hedder en. Og det kan jeg altså se dem væk, så der står her.
+
+52:50
+Det er en egenvægt, der hører til minus tre.
+
+52:55
+Så det her er selvfølgelig en ja okay herhen.
+
+53:00
+Der har vi så egenværdi 1 1 og det er.
+
+53:04
+Det er en basis for egen rummede den vektor, der står der.
+
+53:09
+Se, nu er det jo meget nemt at se, at de dér to biler er lineært uafhængige.
+
+53:15
+Men det er altså sætning nummer fem jeg kan bruge, fordi det er nemlig klart, hvis jeg hiver dem derud.
+
+53:24
+Og jeg hiver dem derud, så er de per definition lineært uafhængige eller i følge den dér sætning.
+
+53:31
+Så derfor er de to en basis for er to.
+
+53:36
+Så det er altså en konsekvens af det vi har snakket om her. Og I kan altså se biometrisk mose.
+
+53:42
+Boligsitet er minus tre. Den er en biometrisk motel, boligsitet A 1.
+
+53:48
+Den er også en, og lægger vi de geometriske mål til kvalitet og sammen, så bliver det 2, som er det n vi taler om.
+
+54:03
+Og nu har vi altså undersøgt en tre kryds tre matrix. Det viser sig, at den har to egenværdier.
+
+54:13
+Nemlig minus to og minus en.
+
+54:17
+De to vektorer der står dér de tilhører egen, rummede fare for minus to, og vi kan jo tydeligt se, at de to er lineært uafhængige.
+
+54:32
+Og så har vi altså den der som er en basis for min Museen, og det er jeg altså siger er,
+
+54:38
+at når jeg nu hiver de to ud som en basis for det ene en rum, så de ligner du uafhængige.
+
+54:45
+Og jeg tager den lige ud, ser dig dem sammen til et nyt sæt.
+
+54:50
+Så er de lineært uafhængige. Jeg behøver ikke at tage et determinanten ned af Gausel, Amazon eller noget som helst, fremgår sætning nummer fem.
+
+55:00
+Og så har vi altså de tre vektorer, og de udgør så en basis for er og vi ser altså.
+
+55:07
+Så kan vi diagonal i seere, fordi vi har en basis bestående af egen vektorer, og den geometriske simplicitet er minus to.
+
+55:17
+Den er 2, og her da den 1. Og vi kan altså se.
+
+55:20
+Den opfylder også sætning nummer 6. Og så skal vi have en pause.

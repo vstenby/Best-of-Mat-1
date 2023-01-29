@@ -1,0 +1,854 @@
+0:04
+Og velkommen til den sidste forelæsning med nyt teoretisk stof.
+
+0:09
+Du jubler, kan jeg se. Som vi har her i efteråret. Semestret.
+
+0:14
+Og hvilken forelæsning? For det er en rigtig klassiker for ingeniørstuderende.
+
+0:21
+Anden ordens lineære differentialligninger med konstante koefficienter.
+
+0:27
+Vi er også matematikere, så vi skal se hvordan vi kommer til at skulle bruge line afbytning og underrum kompleks eksponentiel funktion hele baduljen.
+
+0:38
+Alt hvad vi har lært i dette efterår stormestre se, det er jo noget af en titel denne her.
+
+0:47
+En anden ordens lineære differentialligninger med konstante koefficienter.
+
+0:51
+Alle dele er vigtige, og vi skal prøve at se, om vi kan finde ud af, hvad det helt betyder.
+
+0:58
+Og dagens pointer. C Vi har definitionen.
+
+1:19
+En anden ordens lineære differentialligningen med konstante koefficienter har formanden ikke stoppet mærke til + af et gængs mærke til + af nul.
+
+1:42
+Ikke tid til at lege med QR af ét og to er reelle konstanter.
+
+2:03
+Queer ting er en kendt funktion.
+
+2:15
+Exciting er ukendt funktion som vi vil finde.
+
+2:26
+Og hvis q rt den er forskellig fra nul, så kalder vi ligningen for enheden morin.
+
+2:41
+Og hvis Que rt er lig med nul, så kalder vi den omvendt for Homo G.
+
+3:00
+Hvorfor den er altså nu få. Nu ved vi så hvorfor at vi kalder den med konstante koefficienter, dersom fordi ét og er nul er reelle konstanter.
+
+3:12
+Vi har jo set, da vi arbejdede med første år, ordenens lineære differentialligninger.
+
+3:17
+Der havde vi eksempler, hvor koefficienterne var funktioner, men det arbejde vi altså ikke med her, og det kunne vi godt.
+
+3:25
+Det er også interessant for anmelderens differentialligninger, men det uden for emnet her spørgsmål skrevet af et par af to af.
+
+3:38
+Skulle vi ikke gøre sådan i stedet for. Se, det er jo nu vi i gang har fået skrevet denne op på tavlen.
+
+3:53
+Så er spørgsmålet selvfølgelig, om den har løsninger og hvor mange løsninger den har.
+
+3:59
+Så det starter vi med at kigge på, og det gør vi ved hjælp af en Mabel demo.
+
+4:07
+Jeg har lavet til lejligheden. For.
+
+4:14
+Lige et øjeblik. Se.
+
+4:29
+Når man kigger på første ordens lineære differentialligninger, der står vi at.
+
+4:37
+Hvis vi har en sådan og der er givet et enkelt punkt, så findes der netop en løsning, som går igennem det punkt,
+
+4:46
+og det betyder, at vi får så nogle smukke grafer, hvis vi tegner en hel masse af dem.
+
+4:52
+De vil aldrig kunne komme til at skade hinanden, for hvis de sparer hinanden i et punkt,
+
+4:58
+så var der jo et punkt, hvor der var to forskellige, der gik igennem.
+
+5:04
+Så det karakteriserer altså de første år af dens lineære differentialligninger. Så hvordan mon det er, når vi nu går i gang med anden ordens?
+
+5:28
+Og her kan I se der har det et eksempel på en.
+
+5:33
+En anden ordens differentialligning af den type, som vi arbejder med i dag.
+
+5:38
+Vi kan se, koefficienten er ét. Den er 2 koefficienten af nul, den er minus tre og funktionen Q og 10.
+
+5:47
+Den er ni ting. Og.
+
+5:54
+Vi løser den straks. Og I kan se her.
+
+6:04
+Der kommer så et udtryk ud, hvor der er et par koefficienter der.
+
+6:10
+Og nu løser vi den med en begyndelse betingelse, nemlig den skal gå igennem punktet 0,2.
+
+6:27
+Og der ser vi. Hvad sker der? Nu er der kun en free konstant tilbage.
+
+6:34
+Denne hedder her og se to. Og så se 2.
+
+6:45
+Den kan vi nu prøve at tegne med nogle forskellige værdier for 2.
+
+6:51
+Vi kan se her, at jeg prøver at lade C2 gå fra minus fem til fem.
+
+6:57
+Det vil sige, at det er ti forskellige værdier. Oppe i plotter.
+
+7:07
+Så ser den sådan ud. Og der kan vi altså se. Der går selvfølgelig for enhver set to, hvad de går der en løsning igennem,
+
+7:15
+så her har vi altså ti forskellige løsninger, der går igennem det her punkt.
+
+7:20
+Og jeg kunne have tegnet mange flere.
+
+7:22
+Der går åbenbart uendelig mange løsninger igennem et enkelt punkt, når det er en anden ordens line og differentialligning.
+
+7:32
+Og vi kunne også have prøvet et andet punkt her 0,1 10.
+
+7:38
+Og der ser vi det samme karakteristiske billede her. Når vi så kigger på de her løsninger der for eksempel der går igennem det punktering,
+
+7:49
+så kan vi selvfølgelig tænke over hvad er det, der karakteriserer hver af disse løsninger?
+
+7:54
+Det er jo, at de går igennem punktet med forskellige handlinger.
+
+8:00
+Så for hver hældning for hver henledte kommissæren da i det punkt, da er der en selvstændig løsning.
+
+8:08
+Så lad os nu prøve her. At indføre en betingelse, nemlig at de Franchell procenten skal være 1, så det indskriver jeg nu i min løsnings procedure.
+
+8:30
+Og så kan I se. Så kommer der en ganske bestemt funktion, som er løsningen på differentialligninger.
+
+8:37
+Og vi tegner den sammen med dens tangent. Og så ser vi.
+
+8:40
+Her ser vi altså det her smukke syn igennem. Et punkt med en given hældning skulle bestemt.
+
+8:48
+Og vi kan også lige prøve det andet punkt. Som vi beder om.
+
+8:56
+Differentialkvotienten minus en halv skriver vin i lusen formen her og her har vi så den partikulære løsning,
+
+9:03
+som går igennem det givne punkt, og der har vi altså det billede, der er her.
+
+9:10
+Så det der åbenbart gælder. Det er det jeg skriver op nu.
+
+9:27
+Hvis vi vælger tre tal.
+
+9:34
+Skal vi kalde dem til en nul x nul og ved.
+
+9:43
+Så findes der netop en løsning.
+
+9:55
+Som opfylder. At løsningen eks et til nul skal være lig med x nul og løsningen differentialkvotienten til nul skal være ved.
+
+10:17
+Og lad os nu sige, at vi her prøver at tegne situationen.
+
+10:23
+Vi har her første afsnit med til anden aksen med ægsortering.
+
+10:29
+Vi havde altså valgt os et til nul.
+
+10:34
+Og vi havde valgt os et x0. Og så havde vi valgt en ganske bestemt Helmigs koefficient.
+
+10:47
+Altså hvis vi her har stykket en. Så skulle vi være vores hemmelige kommercielle og det som eksistens og entydigt.
+
+10:56
+Sætningen siger Det er altså er da er netop en løsning, som går igennem her med den givende hældning.
+
+11:06
+Så derfor har vi altså den særlige løsning der exciting.
+
+11:22
+Men nu skal vi jo i gang med at snakke om løsninger og hvordan vi finder dem.
+
+11:30
+Og vi laver følgende op. En afbytning.
+
+11:40
+F a.
+
+11:44
+De kontinuerte funktioner ind i de kontinuerte funktioner. Er givet ved.
+
+11:57
+At f a en funktion. Det er funktionen dobbelt mærket flux a s.
+
+12:09
+Funktionen mærket + er nul og så funktionen nu selv.
+
+12:23
+Den her. Denne her afbytning. Den er lineær.
+
+12:34
+Fordi den opfylder lige nøjagtigt betingelserne l et og vel to.
+
+12:45
+Jeg bruger ikke tid på at vise det vi har lavet. Flere af den slags opgaver.
+
+12:53
+Men nu vil vi så analysere den homogene ligning.
+
+13:13
+Og den bruger vi altså et stykke tid af forelæsningen på her. Det her hovedpunkt og det vi jo straks kan se, er.
+
+13:25
+At finde kernen for F.
+
+13:32
+Er det samme. Som at løse.
+
+13:43
+Eks dobbelt mærke RT plus et x mærke at the blues.
+
+13:51
+Nul x rt er lig med nul.
+
+13:59
+Hvis vi finder kernen for EF, så har vi løst den homogene differentialligning.
+
+14:05
+Og hvorfor? Det er en pointe. Det vender vi lige tilbage til om lidt.
+
+14:18
+Se, nu vil jeg prøve at løse den ligning her.
+
+14:24
+Og I kan altså se det er noget med, at en funktion da er differentieret to gange plus en konstant gang funktion.
+
+14:32
+De monterede en gang plus en konstant gang fusion, hvor selv skal være lig med nul.
+
+14:37
+De skal altså kun ophæve hinanden her, og vi ved jo at eksponentielt.
+
+14:45
+Funktionen er jo altså glimrende, fordi hvis man differentierer den to gange, så får vi eksponentiel funktion.
+
+14:52
+Hvis de håndterer den engang, så går man differentialkvotienten ud, så differentiel puls atter eksponentielt.
+
+14:58
+Funktionen er sikkert et godt bud på en løsning. Så jeg spørger.
+
+15:15
+Og der er eksponentiel funktion i lambda ting.
+
+15:24
+En løsning.
+
+15:32
+Og når man har et godt bud på en løsning og skal se, om den er en løsning, så er det jo bare om at gøre prøve, indsætte dem og se, om den giver nul.
+
+15:43
+Så nu vil jeg indsætte det her gæt. I differentialligningen her og se hvad der sker.
+
+16:02
+Og vi kan kalde denne her ligning, som vi har opstillet her for stjerne.
+
+16:09
+Vi indsætter når man differentierer den her én gang, så kommer lamper ned foran.
+
+16:17
+Hvis vi differentierer den én gang til, kommer lamperne ned foran indgangen til så det første led, der står her.
+
+16:24
+Det bliver til Lambda i enden, og så har vi eksponentielle funktionen selv.
+
+16:34
+Så har vi her ét, og vi skal differentiere funktionen her.
+
+16:40
+Så får vi altså lambda et og så funktionen selv.
+
+16:52
+Og så får vi nul og så funktionen selv, som vi guider gætter på.
+
+17:01
+Hvis denne her er en løsning, så skal det her være opfyldt.
+
+17:09
+Og her har vi jo mulighed for at de vil DDR lyde væk, passer ind eksponentiel funktioner, for det optræder jo alle steder,
+
+17:19
+og der sker ikke noget ved at dividere den med midten på højresiden som hvad får vi tilbage her?
+
+17:24
+Det er lambda i anden plus. Et lambda plus af nul skal være lig med nul.
+
+17:38
+Så nu er jeg altså nået frem til for at se argumentet er, hvis den dør.
+
+17:45
+Løsning, så er det ensbetydende med at den anden grads ligning den går op.
+
+17:54
+Og en anden grads ligningen den går jo. Så det vil altså sige vi kan finde løsninger her bare ved at løse denne her Amgros ligning.
+
+18:06
+Det her er så en vigtig ligning, som hedder karaktere ligningen.
+
+18:22
+Men der er jo forskellige tilfælde for anden grads ligninger.
+
+18:26
+Det husker vi jo fra forløbet omkring komplekse tal. Skal diskriminationen kan være større end nul?
+
+18:32
+Så har vi reelle løsninger. Den kan være lig med nul. Så har vi en dobbelt rod, eller den fandt negativ.
+
+18:36
+Så har vi to komplekse løsninger, og de er alle sammen og en vante i dag.
+
+18:41
+Så vi er nødt til at kigge på alle de tre tilfælde. Først så kigger vi på på tilfældet.
+
+18:53
+Hvor diskriminationen er større end nul.
+
+19:03
+Så har vi to løsninger. Lambda et og Lambda to.
+
+19:18
+Og så ved vi fra denne her udregning. At få motion ind i Lambda ét et T og E i Lambda to er ting.
+
+19:38
+At de er løsninger. Til den homogene differentialligning.
+
+19:52
+Når deraf også kernen vi er ude efter, da vi havde om kernen for lineære afbildninger.
+
+20:01
+Da vidste vi, at det er et underrum. Så kernen for.
+
+20:09
+Det er et underrum i det her funktionens rum af uendeligt differentiable funktioner.
+
+20:17
+Hvorfor er det interessant? Jo, det får ikke en interessant, fordi så ved jeg, at hvis den er, når den det er en løsning,
+
+20:25
+og den er en løsning, så er også en værre ligner og kombinationer af dem.
+
+20:30
+En løsning for at underrum er jo stabil med hensyn til multiplikation med konstant og addition.
+
+20:42
+Altså fordi kernen for F er et underrum.
+
+20:54
+Vides at c et E i lambda et t plus c2 e i lambda to af t r.
+
+21:09
+Løsning. For alle se et komma set to i de reelle tal.
+
+21:24
+Så nu ved vi altså da er en dobbelt uendelighed af løsninger.
+
+21:29
+Spørgsmålet er, om der er flere. Og nu vil jeg vise, at der kun er dem her.
+
+21:38
+Og for at vise det, da vil jeg udnytte denne her eksistens og entydighed sætning.
+
+21:51
+Så hård lige at se her. Vi siger. Vi siger at.
+
+22:07
+La Sct. Være en vilkårlig.
+
+22:19
+Løsningen til den homo gene differentialligning.
+
+22:29
+Så sætter vi s a nul.
+
+22:37
+Dem kalder vi for x0. Og S mærke er noget den kalder vi for ved.
+
+22:56
+Se, det er jo en vilkårlig løsning defineret for alle de reelle tal.
+
+23:04
+Så må den jo ligge på en eller anden måde her i koordinatsystemet. Og det er så dens skæringspunkt hér, som vi har kaldt for x0.
+
+23:18
+Og det er dens hældning. Som vi har kaldt får vi.
+
+23:30
+Nu vil jeg så vise at denne her løsning at.
+
+23:39
+Den kan vi finde på den form hendes. Så vi kigger på.
+
+23:50
+På en funktion af sorte lig med C et E i lambda et af the clouds set to det i Lambda to af the.
+
+24:06
+Så har vi at X er noget.
+
+24:14
+Den er se et pludselig 2. Fordi hvis t er nul her, så bliver eksponentielt funktionen jo en.
+
+24:26
+Og på samme måde her så ikke så 0. Den må altså være C 1 plus C2.
+
+24:38
+Ex. Mærke i nul. Det der kom ud af det når vi differentieret er, at de bliver lambda er kommet ned foran.
+
+24:49
+Og så bagefter sætter jeg igen nul ind på 10. Plads, så forsvinder eksponentielt pensionerne.
+
+24:55
+Og så har vi altså her lambda 1 se et plus lambda to se 2.
+
+25:07
+Og nu vil jeg altså gerne finde ind på den form her. Som går igennem det samme punkt som den vilkårlige løsning, og som har samme hældning.
+
+25:17
+Det vil sige det. Der skal altså være lig med x0, og dette skal være lig med ved.
+
+25:26
+Så har vi her. To veninder med to ubekendte sidder til 2.
+
+25:37
+Og den har totalt matricen. 1, 1 og x0, og så har den i Lambda 1 lambda 2 og vi.
+
+25:56
+Og at den har. Koefficient matricen, som er en 1 lambda 1 og Lambda 2.
+
+26:11
+Og der ved vi hvis denne her har fuld rang. Så er der netop en løsning.
+
+26:17
+Så nu vil jeg undersøge om den har fuld ret. Og det gør jeg ved at tage determinanten.
+
+26:30
+Determinanten af A Ten er en guide med Lambda 2.
+
+26:37
+Det vil sige Lambda der 2 minus den gange med den det er lambda en.
+
+26:46
+Så determinanten denne er altså lam, da to minus lam dagen.
+
+26:52
+Er nu for det er tilfældet her. Diskriminationen var større end nul.
+
+26:56
+Det betød, at der var to ligninger, der var forskellige eller to løsninger.
+
+27:00
+Vi har to forskellige løsninger. Det vil sige lambda 2 minus slam der.
+
+27:04
+Det må være forskellig fra nul. Og så kan vi altså konstatere, at der netop er en løsning.
+
+27:21
+Af den type her. Det vil sige den funktion som jeg fundet her.
+
+27:32
+Den har går igennem det samme punkt, har den samme har hendes koefficient.
+
+27:38
+Jamen, så må den være lig med østater. Det vil altså sige østater.
+
+27:44
+Kan skrives på den form her, og dermed har vi altså vist, at ikke bare er det her.
+
+27:54
+Af alle dem her løsninger, men det er også samtlige løsninger.
+
+27:58
+Der findes ikke andre end dem her. Så har.
+
+28:35
+Så er vi altså færdige med at undersøge tilfælde nummer et.
+
+28:40
+Hvis det sker, men enten er større end nul, så har den her karakter ligning.
+
+28:46
+To forskellige løsninger sammen, da ét og lam der 2. Og så er den fuldstændige løsning til differentialligningen givet ved det der står her.
+
+29:08
+Så kigger vi på eksempel nummer to. Hvor vi altså har, og vi kigger på at de om natten er negativ.
+
+29:33
+Så har karakterer ligningen. To komplekse løsninger.
+
+29:52
+Den ene kan vi kalde for lamper. Og.
+
+30:01
+Da vi jo altså har at af et og nul det er reelle koefficienter, så ved vi er på rødderne til den komplekse ligning, at de er gearede.
+
+30:15
+Så hvis den ene hedder Lambda, så hedder den anden lambda kondom gearet.
+
+30:30
+Og så på med nøjagtig samme argumenter eller type argumenter, som vi havde før.
+
+30:38
+Så kan vi se at samtlige løsninger. Samtlige komplekse løsninger.
+
+30:55
+Til den homogene ligning. Er givet ved.
+
+31:09
+Ekser T. Leg med C et E i Lambda iter the clouds set to.
+
+31:20
+Og det skal altså kun være lamper, altså i lamper ting plus det i Lambda kondom gearede til.
+
+31:33
+Hvor C et også 2.
+
+31:38
+At vilkårlige komplekse tal. Så altså samme formål som vi havde før.
+
+31:51
+Problemet er jo bare at vi er ingeniører og vi er interesseret i de reelle løsninger.
+
+31:58
+Så nu er vi i samme situation som vi var sidste gang vi havde en masse komplekse løsninger.
+
+32:05
+Hvordan får vi fundet de reelt den reelle delmængde og få dem trukket ud?
+
+32:30
+Og svaret er det samme som sidste gang. Vi bruger bare røg alt kriteriet.
+
+32:39
+For det siger nemlig, at en løsning af den type her.
+
+32:46
+Den er i en. Hvis. Ex t.
+
+32:56
+Er lig med sig selv. Konjugerede.
+
+33:05
+Og hvis vi nu går ned og kigger på den fuldstændige løsnings mængde, der står her, så kan vi nemt vise, at betingelsen for at excited den er reel.
+
+33:20
+Det er, at den anden konstant, der står her, det er at se et konjugerede, og det er simpelthen bare at gøre det.
+
+33:31
+Jeg vil ikke bruge tid på det, men bare sige, at sådan er det.
+
+33:35
+Det minder meget om det, vi lavede sidste gang, og metoden til at vise det er det samme.
+
+33:46
+Så det er såmænd bare det der skal være opfyldt. Så det vil sige, at hvis c, f den er lig med på rektangulær form a plus i B, så skal.
+
+34:07
+Set to være a minus i B på rektangulær form.
+
+34:20
+Kom, lad os prøve at kigge på et eksempel her. Jeg har en humor gylden ligning som siger at x dobbelt mærke er rt minus 6 x mærke er 10.
+
+34:43
++ 13 x RT. Skal være lig med nul, altså en homo, en anden ordens differentialligning.
+
+34:58
+Vi skriver karaktergivning ligningen op. Lambda i anden minus 6 Lambda plus 13 lig med nul har løsningerne.
+
+35:18
+Tre plus og minus to i altså to komplekse løsninger.
+
+35:32
+Så det vil altså sige at. Det.
+
+35:43
+At vi nu prøver at finde de reelle løsninger. Hvilke reelle løsninger har den?
+
+35:52
+Ja, men så vil de jo sige at løn og reelle løsninger. De er så givet ved at X at ting skal være lig med set et.
+
+36:12
+Som vi har kaldt for A pludselig B. Gange med eksponentielle funktionen, og så skal vi altså have Lambda, som er tre plus 2 1 gange med til.
+
+36:35
+Og så skal vi have set 2. Som er at se et kondom gearede.
+
+36:41
+Det vil sige a minor sige b. Og så eksponentielt funktionen i tre minus.
+
+36:53
+To i Athen, altså den anden løsning på karakterer ligningen.
+
+37:04
+Kim. Lad os prøve at regne det her ud.
+
+37:17
+Se denne her. Den omskriver vi er, så det her kan vi jo i første omgang skrive som en i tre ting.
+
+37:26
+Gange med en i to it. Og en i to ting der bruger vi øjnenes formen.
+
+37:38
+Og så får vi cosinus til to ting plus i sinus til to ting.
+
+37:50
+Det var det første led, så kommer det andet videre. Flux A Micro CB.
+
+38:01
+Og så er det sammen E i tre ting, og så skal vi gange med eksponentielle funktionen i minus to it.
+
+38:10
+Det bliver til cosinus, hvis vi bruger Eulers formel formet kostede to to til minus i sinus til to til.
+
+38:31
+Kom og nu skal vi så finde ud af hvor meget at det her er nu, reelt er det, der står her.
+
+38:39
+Set gøre det. Jeg kan lige starte med at sætte denne her ind i tre til uden for en parantes.
+
+38:47
+Den er jo med i begge led. Og så hvad er så reelt?
+
+38:52
+Ja, det er det. Hvis jeg tager den her a og ganger med cosinus til ti.
+
+38:58
+Den kommer faktisk en gang mere til hér og dér.
+
+39:03
+Som denne har vi altså to gange to a cosinus til to ting.
+
+39:13
+Så får vi os reelle tal når vi ganger complex to gange med hinanden, så det bliver en del levet her.
+
+39:22
+Og det var nede. Der har vi hele hjernen. Det giver minus en.
+
+39:28
+Og faktisk så får vi nøjagtig det samme ved her. Der har vi lige nu i gang med minus i.
+
+39:34
+Det giver også minus en. Og det er altså biofaktoren vi har på her, så der får vi altså minus to b sinus til to til.
+
+39:49
+Så dér har vi alle de reelle løsninger. Jeg gider slet ikke og regne de imaginære led ud, for jeg ved, de ophæver hinanden.
+
+39:59
+Jeg har jo brugt reelt kuraterede, så der skal ikke være noget imaginær tilbage, så jeg stopper her, når jeg har fundet de reelle ved de andre.
+
+40:08
+De vil bare forsvinde. De ophæver hinanden. Og hvis de nu sætter K et lig med to A og K 2 lig med minus to ben.
+
+40:39
+A. Vilkårlige konstanter. Dem kan vi bare bytte med k et og gå 2, som også er vilkårlige konstanter.
+
+40:49
+Så ser vi at samtlige løsninger.
+
+41:05
+Er X at te er lig med.
+
+41:11
+K et e i tre t gange med cosinus til to t plus kort to ind i tre t gange med sinus til to t.
+
+41:27
+Hvor K et og CO2. Er vilkårlige dril konstanter.
+
+41:51
+Så vi har altså tygget på det her ikke et konkret eksempel på en homo gylden ligning,
+
+41:58
+og vi har fundet de reelle løsninger ved hjælp af Rinne krateret.
+
+42:03
+Her har vi den fuldstændige løsning på differentialligningen. Hvad er det så der karakteriserer den her?
+
+42:12
+Hvad har den med egne værdierne at gøre her?
+
+42:15
+Der står vi jo i den rene løsning. Da havde vi egne.
+
+42:20
+Værdierne kalder jeg dem, og det er fordi, at det kan vi godt kalde løsningerne for en.
+
+42:27
+For denne her karaktererne Henning egen værdierne.
+
+42:31
+Lamper og lamper. 2. De ryger jeg op her. Da havde vi ejet værdierne tre plus to i og tre minus to.
+
+42:42
+Hvad skete der med dem?
+
+42:45
+Det der skete, det var at real delen af egenværdi 1 den kom op som eksponent for den reelle eksponentielt funktion der står her,
+
+42:56
+mens imaginære delen 2. Den kommer sig ind på.
+
+43:04
+Cosinus funktionen dem bliver ganget på t værdien.
+
+43:09
+Begge steder i Horsens og sinus. Så sådan her ser ligningen altid ud af denne her type.
+
+43:16
+Hvis vi har tilfælde nummer 2, hvor diskriminere enten den er negativ.
+
+43:24
+Så lad os prøve at få det her op på og opnå resultat tavlen, inden vi så tager pausen.
+
+44:05
+Og det drejer sig om den homogene ligning.
+
+44:16
+Og her skal man altså når man skal løse en homogen ligning, så skal man betragte karaktererne i hinanden.
+
+44:27
+Som vi simpelt hen kan opstille ved hjælp af de to konstanter, der indgår i selve ligningen,
+
+44:35
+altså lambda i anden flux af et lambda plus er nul er lig med nul.
+
+44:49
+Og så har vi altså set. Tilfældet et del større end nul.
+
+45:01
+To løsninger. Lam, da et og lam der.
+
+45:11
+Samtlige løsninger.
+
+45:20
+Er så givet ved at ekser ting skal være en vinder og kombination af basis vektorerne en ilderen da et t plus z 2 e de lam og to ting,
+
+45:38
+hvor c et og z 2 er.
+
+45:43
+Reelle tal vilkårlige reelle tal. Og så står vi på det komplekse tilfælde.
+
+45:59
+Med diskriminationen. Der var mindre end nul.
+
+46:06
+Så har vi to komplekse løsninger, som vi kan kalde for alle for plus minus i beta.
+
+46:32
+Og her der kan vi nu opskrive en formel for samtlige løsninger.
+
+46:40
+Hvad griner jeg når så I bare glade?
+
+46:56
+Samtlige løsninger er så givet ved at x a t.
+
+47:06
+Er en vilkårlig reel konstant k et ganget med den reelle eksponentielt funktion opløftet til røg andelen af egne værdien.
+
+47:24
+Og den skal så ganges med cosinus til Beta Tati.
+
+47:36
+Og så lægger vi. Så har vi en anden reel konstant K2.
+
+47:45
+Igen skal vi have. En opløftet til alle fattig også gange med sinus til beta til.
+
+47:59
+Og så er der nogen af jer, der ikke kan se det over. Men der står altså en ved navn kombination af disse to basis vektorer.
+
+48:09
+BM vægtere. Her en alfa 10 gange cosinus til.
+
+48:12
+T. Det er den første basis væk fra Løsnings rummet og E i lambda 10 gange med sinus tapet sig til.
+
+48:20
+Det er den anden basis vægt vektor i løsnings rummet og hele løsnings rummet er så udspændt som Lenau kombinationer af disse to basis vektorer.
+
+48:42
+Så mangler vi lige det sidste eksempel, hvis det skal om natten.
+
+48:46
+Den er nul. Så er der en løsning.
+
+49:00
+Skal vi ikke have dem for Lambda, og her har vi så os samtlige løsninger.
+
+49:20
+Som en vinder og kombination af to basis vektorer, hvor hvoraf den første denne er sådan set nem nok.
+
+49:37
+Den dér må jo nødvendigvis være en løsning. Også når jeg giver den med på en, fordi den tilhører kernen for afbildningen.
+
+49:47
+Men så må I godt lige lægge mærke til den anden basis vektorer, som er mærkelig.
+
+49:54
+Og som ikke rigtig passer. En meget spøjs. Der kommer nemlig en faktor T på her.
+
+50:07
+Og så ind i Lambda the. Og igen på et og CO2.
+
+50:16
+Det er vilkårlige konstanter, og den ene basis svigter DR sig ind i Lampater.
+
+50:24
+Den indgår også i den anden basis vektorer, men da er der ganget et ting på.
+
+50:29
+Det er de tre tilfælde der er, og hermed er vi er færdige med at analysere den homogene ligning.
+
+50:37
+Så skal vi snakke om den inhumane by en ligning efter pausen.

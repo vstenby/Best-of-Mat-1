@@ -1,0 +1,1139 @@
+0:04
+Og i dag er det stort set nok ikke skal regne med brøker og lyd, så lad os se, om vi kan undgå det.
+
+0:13
+Programmet er jo en direkte fortsættelse af det, vi lavede sidst, nemlig planen Skralde, så i dag handler det om fladere integrale flade integraler.
+
+0:23
+Så lad os lige se en gang, hvis vi skriver om, hvad det er, vi vil lave.
+
+0:40
+Så lad os lige minde hinanden om hvad det var der var ideen i plane integralet.
+
+0:52
+Bare lige to ord, så en kortvarig diskussion.
+
+0:59
+Så det nye, det nye, det handler om flaget integral.
+
+1:03
+Vi skal have lidt om, hvordan man parametre seere. Parat med et friserede fladere.
+
+1:16
+Og så skal vi have et integrated. Og det er sådan set det.
+
+1:26
+Der hører selvfølgelig noget Mabel til det her, som I skal kigge på, men det her er sådan set dagens program, og der vil være en masse eksempler.
+
+1:42
+Og jeg vil regne nogle Jacobi funktioner ud for alt som I vil være glade for at have senere, så lad os lige kigge på det plan integrated.
+
+2:05
+Ja, hvad var det nu begge var? Det var noget med at man havde.
+
+2:13
+Et eller andet område som lå i planen, hvor vi havde vores x y koordinater her, og det kunne se ud på en eller anden snedig måde her.
+
+2:27
+Nogle gange kalder vi det PR, men det betyder bare, at det er et plant område og parametre i sikringen af det er er.
+
+2:35
+Så her har jeg et eller andet område, som er beskrevet på en eller anden måde.
+
+2:41
+Det ser formentlig lidt indviklet ud, det vi så gøre, det er, at vi laver en parameter fiksering af det område,
+
+2:46
+hvor vi vælger nogle uger, og nogle bleer, som kan ligge her.
+
+2:53
+Abed så måske lige simpelt nok ud. Der vil sådan være, hvor vi har A og B og C der.
+
+3:04
+Og det er. Og så har vi så en Karami placering som hedder er er udkommet ved.
+
+3:17
+Og. Hvad vil det så sige? Men det betyder så, at parameteren sikringen af området beskriver området på den måde at.
+
+3:27
+Er er udkommet Vi er simpelt hen ved med x koordinaten, som kan være en funktion der udkom med V og Y koordinaten,
+
+3:37
+som kan være en funktion af udkommet V og udkommet hvis de ligger sig herover.
+
+3:41
+Det er det som jeg så tillader mig at skrive på denne her måde.
+
+3:46
+Løver fra A til b krydse med og ved løver så og se til det.
+
+3:55
+Det her er så en parameter frasering, der beskriver sådan et område i planen.
+
+4:01
+Læg mærke til fordi vi er i planen, så er der kun to koordinater, nemlig ikke så ny,
+
+4:07
+og der er nogle områder, der har meget simple parametre sikring af for eksempel.
+
+4:11
+Hvis det er en firkant, ja så er det jo bare den samme. Så behøver man overhovedet ikke parameter.
+
+4:15
+Se at få alle gjort for en trekanter, altså forskellige simplere områder har simple parametre svinger.
+
+4:23
+Men hvad er det så, vi gerne vil gøre noget, så vil vi gerne. Kigge på en eller anden funktion.
+
+4:31
+Sådan tager værdier herfra helt til og sender over på den reelle akse.
+
+4:37
+Det vil altså sige vores funktion går fra. Måske hele er i anden, men i hvert fald fra det parameter passerede området her endelig de reelle tal.
+
+4:49
+Og så kunne vi godt tænke os at integrere den funktion hippien henover området.
+
+4:53
+Det vil sige det, vi vil gøre. Det er det, som rent symbolsk bliver skrevet op her.
+
+5:03
+Vi vil integrere f over området pr. Dette er det nye i det er bare et symbol for det der kommer til at ske her.
+
+5:10
+Det man så i praksis skal gøre. Det er at man skal sørge for at skrive vores sine variable, når vi nu bruger denne parameter serie 1,
+
+5:20
+hvor de så løber ud, løber fra A til B ved løver fra C til D.
+
+5:25
+Så skal vi tage F. På ekstra øy værdierne m.
+
+5:32
+Vi ser sådan her ud, det vil sige at vi skal tage f af, er er udkommet ved, vil vi se.
+
+5:37
+Vi tager det der står dér, og det der står dér og sender ind i vores efte funktion, regner ud hvad det er.
+
+5:43
+Og så kommer så. Det magiske, nemlig denne funktion, som gør at det overhovedet kan lade sig gøre det som hedder Jacobo funktionen.
+
+5:53
+Og så skal vi lave integrationen. Det er sådan vi gøre det.
+
+5:59
+Det der kommer ud af det, når vi gør det her, det er et tal.
+
+6:06
+Så det er altså det som man i gymnasiet kalder et bestemt integral. Hele arealet.
+
+6:16
+Arealet af det plane område pr. Det Fogs fås simpelt hen bare ved at regne ud, hvad der sker, hvis vi sætter konstant funktionen 1 ind på f plads.
+
+6:29
+For det vil sige, hvis der står en hær, så får vi et tal, som så er arealet af området.
+
+6:36
+Og. Sådan er det. Og så var der de der krøller med med.
+
+6:42
+Hvad hedder det? Mase massemøde på nogle ting, hvor man gør noget tilsvarende.
+
+6:46
+Det vil jeg så ikke realisere her. Det, som er vigtigt, det var den der eller det, som også var vigtigt.
+
+6:55
+Det var hvad var Jacobi funktionen så for et plant område?
+
+7:02
+Jeg er. For et plant område.
+
+7:10
+Der er jeg Cope funktionen. Den numeriske værdi af determinanten af det der hedder Jacobi matricen.
+
+7:19
+Og Jacobi matricen den fås ved at tage den afledede af er vægteren med hensyn til u og skrives som første søjle,
+
+7:29
+og den afledede er vægteren med hensyn til ved at skrive som anden søjle.
+
+7:35
+Det giver så i dette tilfælde en to gange to matrix fat determinanten af den og så den numeriske værdi.
+
+7:46
+Det den gør, og som vi snakkede om sidst, det er den fortæller,
+
+7:50
+hvor meget en enhed i det her koordinatsystem laves om til, når man går over i det her koordinatsystem.
+
+7:59
+En arealenhed som kuriositet vil jeg lige nævne, at I faktisk har set det før.
+
+8:11
+Fordi en lille note oppe i det øverste venstre hjørne.
+
+8:18
+Skybar sag. Fordi. Kan I huske når i gymnasiet havde?
+
+8:29
+Et integral typisk et bestemt integral, det vil jeg ikke komme nærmere ind på.
+
+8:36
+Som vi ikke kunne finde ud af og vejen ud. Så kunne man jo lave det der hedder en substitution.
+
+8:43
+Og det vil sige vi satte X til at være lige med et eller andet.
+
+8:50
+Ud. En eller anden funktion er en Pascal Lipetsk på en eller anden funktion af U.
+
+8:57
+Og så differentierede vi det, sagde vi at det ex. Det.
+
+9:02
+Jamen det er jo så giver mærkatet en funktion med os.
+
+9:08
+Og hvis jeg lige lader som om jeg bare kan regne lykkes på det her, så står der at det ikke er nu blevet til værker af u, b, u.
+
+9:17
+Og vi kan så indføre denne her substitution. Oppe i mit integrale her, så står der nu.
+
+9:24
+F. Det er U.
+
+9:29
+Og så står der b x d g mærket ude. Det har faktisk set før.
+
+9:40
+Læg mærke til at dette parameter viser ingen af den der.
+
+9:48
+Det det er Jacobis funktionen. Og så det er et specialtilfælde af det der.
+
+9:59
+Yoga. Og nu kommer det næste tilfælde som dette specialtilfælde af.
+
+10:06
+Og så ved at niveauet stiger. Vi skal kravle op ad trapperne, så.
+
+10:12
+Det vi nu er ude på, er at lave det her, ikke i planen, men på flader.
+
+10:20
+Så hvad er en parameter friseret fladen? Det der kan give op og jeg tænke over.
+
+10:37
+Ligger også der er en dyb hemmelighed i det her, nå. Jamen for pokker da.
+
+10:43
+For det første. Lad os lige prøve at tegne. Hvad kunne det være?
+
+10:49
+Nu nu nu, så det ved jo godt. Mine evner som kunstner er stærkt begrænset, så.
+
+10:59
+Vi skal i allerhøjeste grad bære over med mig, for hvis jeg nu lægger ikke saksen her sætter aksen op af.
+
+11:07
+Så vil jeg i dagens anledning sørge for hele tiden og have Byparken pegende ikke tavlen.
+
+11:14
+Og lige nu tror jeg den skal ligge lidt mere nede, for ellers bliver min tegning urimelig greb.
+
+11:20
+Så. Hvad gør lige?
+
+11:26
+Jeg gør det i sammenhæng, for jeg skal altså forestille, at vi har et koordinatsystem hvor y aksen peger egentlig tavlen,
+
+11:31
+og derfor vil vi gerne have et koordinatsystem, der har en positiv positiv omtale forretning.
+
+11:37
+Og. Hvad er en parallel placeret flaget for noget?
+
+11:41
+Jo, det er en flade. Det er en tredimensionelle figurer, som vi for eksempel.
+
+11:46
+Kunne forestille os så. For et eller andet i denne her stil ud.
+
+11:52
+Det ligner sådan lidt taget på en øde pavillon eller et eller andet eller hvad ved jeg ikke.
+
+11:58
+Den ligger for sejler op i luften. Nu har jeg tegnet de her kanter, som om den er klippet af på en bestemt måde.
+
+12:05
+Det ved vi ikke noget som helst om. Men det er i hvert fald en flade, og vi kalder den F er.
+
+12:14
+Den kan så være beskrevet på en eller anden måde. Det vi gerne vil have, det er, at.
+
+12:24
+Vi har vores U V herovre, og så har vi vores plæne parameter interval igen, som hedder a, b, c.
+
+12:38
+Det så ud ved ligger de steder som de gjorde her op.
+
+12:42
+Den nye er, at vores flade, vores parameter passerede flade er nu givet ved en vægter.
+
+12:52
+Med tre komponenter. Fordi vi er i træ, så vi har en eks at komme ved.
+
+12:59
+Vi har en by, er udkommet V og vi har et sæt af udkom RV og igen.
+
+13:09
+Udkom RV. Hvor ligger den? Den ligger, hvor den hele tiden har ligget, nemlig i det her kryds produkt, som vi kalder det.
+
+13:18
+Det betyder bare uge ligger fra A til B, og hvilket lægger fra til det.
+
+13:22
+Dette er en parameter frasering anslaget. Den eneste forskel er bare.
+
+13:29
+Her at der er kommet en koordinat til hvad f.
+
+13:38
+Nu skal vi jo et øjeblik til at lave flade integralet.
+
+13:43
+Det kommer til at se ud på præcis samme måde.
+
+13:46
+Den eneste forskel er bare, at her var det jo en funktion, som gik fra at noget todimensionelt ind i det reelle salg.
+
+13:55
+Når vi skal have en funktion, der er defineret på en flade, så skal den jo gå fra f r, som er tredimensionelle.
+
+14:01
+Hvis vi skal have tre variable sendt ind i de reelle tal. Det er den eneste forskel.
+
+14:05
+Ellers ville det faktisk se sådan her ud.
+
+14:09
+Det betyder, at når man har en parallel placering her, er man nødt til at overveje, hvordan jeg cope funktionen ud.
+
+14:18
+Så. Jeg pumpefunktion tre variabler.
+
+14:39
+Og der skal vi bare tænke på hvad var det i virkeligheden vi gjorde her?
+
+14:46
+Dem da jeg cope funktion den måde hvor meget en arealenhed blev deformeret,
+
+14:53
+når vi gik fra dette område ind i det, er der planer om året, og nu skal vi så bare have.
+
+15:01
+Her er vores er at komme væk igen.
+
+15:04
+Nu skal vi bare fortælle hvad sker der med en arealenhed, når den nu bliver i stedet for at folde ned på et eller lagt ned på et plan,
+
+15:10
+hvor måger nu bliver smurt ud her på et buet område, som kan være meget mærkeligt.
+
+15:19
+Og der har vi faktisk et begreb. For hvordan er det nu det er?
+
+15:24
+Hvis jeg har i tre. Hvis jeg har en vektor der hedder Victor A.
+
+15:32
+Og jeg har en vektor der hedder vektor BDR. Hvis jeg så tager krydsproduktet og de to vektorer, så får jeg en vektor som står vinkelret på dem.
+
+15:43
+Dvs. Hvis jeg nu har tegnet det. De ligger på en eller anden måde her.
+
+15:47
+For denne vækst, så det kunne være a kryds bag. Hvor lang er den?
+
+15:56
+Jamen mængden af den vægtere. Er præcis arealet af det parallelogram.
+
+16:06
+Så længden af krydsproduktet er to vektorer. Er præcis Længden slår røv.
+
+16:14
+Arealet af det parallelogram de to vektorer udspænder. Og.
+
+16:22
+Denne observation fortæller os hvad jeg cope funktionen er, fordi jeg kube funktionen i tre variable.
+
+16:31
+Bliver så. Længden af krydsproduktet mellem at mærke U og R mærke V.
+
+16:48
+Så hvad skal vi gøre for at finde Jacobi funktionen?
+
+16:53
+Vi skal differentiere den med hensyn til UbuWeb. Så får vi en vægter, så skal vi have den vægtes vægte.
+
+17:02
+Er det i virkeligheden meget forskelligt fra det her? Nej, fordi i det specialtilfælde, hvor bitte vektorer ligger i planen.
+
+17:13
+Der er tredjekøreren mellem nul. Men hvordan?
+
+17:19
+Hvis vi er et sted hvor fedt koordinaten her tredje på natten er nul, så ligger de to vektorer der hedder at mærke u og af mærket V.
+
+17:29
+De ligger jo i planen, ligesom de gør det op. Når man så regner længden af krydsproduktet ud.
+
+17:37
+Så bliver det præcis den der. For det her er bare et specialtilfælde, nemlig specielle tilfælde, hvor tredje vandmanden er nul.
+
+17:47
+Så det plagen et tilfælde kommer, at dette er tilfældet med sætningen nul.
+
+17:53
+Dog kan jeg. Og hvordan den så i øvrigt ser ud.
+
+18:02
+Det afhænger helt af Karami placering, men det er denne her man skal regne ud.
+
+18:07
+Så det vi vil gøre nu, er lige at kigge på nogle tilfælde nogle. Hvad skal man sige?
+
+18:12
+Nogle lidt simple tilfælde så.
+
+18:20
+Hvad kan man have? Vi kan have graf med.
+
+18:32
+Det ligner så noget som jeg har tegnet herovre.
+
+18:37
+Hvad er en graaff flade? Jamen, det er jo i virkeligheden en flade.
+
+18:42
+F er som er givet på den måde at man har sin ex variabel, man har sin gyldig variabel,
+
+18:48
+og så har man en eller anden funktion på at jeg ikke kommer ind.
+
+18:53
+Og vi fortæller så at Z. Altså håb er ikke kommet.
+
+19:00
+Men hvordan? Det er hvis man så får at vide hvor ikke så ligger, beskriver grafen for en funktion hvor definitionsmængden ligger hernede under.
+
+19:11
+Det er sådan det bliver et eller andet landskab og. Så kan det selvfølgelig være parat interesserede på forskellige måder for eksempel.
+
+19:23
+Et eksempel kunne være at R er udkommet V.
+
+19:28
+Det kunne bare hedde Bo Komma V og så på er udkommet ved vovser u come rv now sådan som.
+
+19:41
+Det gjorde før. Krise Det er bare en fuldstændig triviel parameter ved Seraing.
+
+19:52
+Det fortæller bare, at vi er oven over. Vi er oven over et eller andet rektoratet her, som jeg ikke kan tegn.
+
+20:04
+Og. Sådan har i den rektangel hernede i i Irak sygeplejen, og så tager vi grafen her op.
+
+20:15
+Det kunne også godt være, at man havde en en anden parameter rising, nemlig at hvad hedder det?
+
+20:24
+At. Hvad vidste vi, at vores flade den var givet ved ekser, anden Clowes bygget, anden skulle være mindre lim et eller andet.
+
+20:36
+9. Og. Sæt var så lim på 6,9.
+
+20:48
+Så hvad betyder det? Jamen, det betyder så bare, at hernede har vi nu valgt en cirkel.
+
+20:53
+Der er en cirkel hernede. Og så kigger vi på grafen, der ligger op over cirklen, og der vil man jo typisk.
+
+21:00
+Der vil man jo typisk vælge denne parameter Seraing, hvor man ser Okay, hvad er det her for noget?
+
+21:06
+Det er en cirkel. Centrum 0,0 og Radius kvadrater 9 det er tre.
+
+21:14
+Og hvordan ser parameter frisere ingen at dele sig ud? Jamen det vil så være x koordinaten eksport i natten.
+
+21:26
+Den hedder så hvad hedder det tre? 3.
+
+21:32
+Cosinus U og y koordinaten vil hedde 3 sinus.
+
+21:45
+Og hvad har jeg gang i når og så vil? Jeg er ved at lave en cirkel med radius tre og kan det her.
+
+21:57
+Det ville så være H. Og den er nu den vrøvler.
+
+22:05
+Undskyld, undskyld, undskyld. Sådan her. Ukoordineret Sven O.
+
+22:09
+Sinus v. H. U. Horsens V kom u findes v sådan der?
+
+22:18
+Det her er vores parameter frasering, hvor U så skal ligge i intervallet,
+
+22:24
+fordi det der beskriver radio fra nul til tre og V skal vise at vi lever hele vejen rundt for cirklen.
+
+22:32
+Den ligger så fra nul til to ppi. Du kan i hvad vi i dag.
+
+22:39
+For undskyld værdsætter pyrotekniske. Det er en pilot og cool, så nå okay, men det her er det her.
+
+22:52
+Det er standard parametre, sikring af en cirkel skive. Så fortæller vi, at U lever fra nul til tre.
+
+22:59
+Så får vi radio's på plads, ikk? Og ved løver fra nul T.P. Flyver vi hele vejen rundt, og så tager vi funktions værdierne her.
+
+23:07
+Det fortæller hvordan. Hvad hedder det? Hvordan Graf fladen er beregnet i denne parameter viser.
+
+23:16
+Så lad os så lige. Lad os lige prøve en gang i dette tilfælde at finde ud af hvad er jeg cope funktionen i det her tilfælde?
+
+23:30
+For den skal vi alligvel bruges. Nu vil jeg lige springe tilbage. Til denne tavle så jeg ja COBE funktionen for graf.
+
+23:45
+Flader. Og parameter ser ingen ser sådan her ud.
+
+23:53
+Det er rigtig tit man bare kan bruge den parameter seeing CV sige at vi har at mærke uge der skal differentiere med hensyn til OV.
+
+24:04
+Vi har et tal der. Det bliver et noget der, fordi det afhænger ikke af U og her skipper siger vi med hensyn til U.
+
+24:14
+Det vil sige at vi får bogmærke i. Sådan.
+
+24:19
+Jeg vil ikke skrive koordinaterne, men det der er at mærke U. Så vil jeg tage af mærket ved.
+
+24:27
+Den ser næsten lige så der er noget differentieret med hensyn til ved det, der giver nul.
+
+24:34
+Så giver dette et tal. Og her får jeg så hår mærket med hensyn til hvad.
+
+24:44
+Sådan hver. Hvad så skal jeg jo finde krydsproduktet.
+
+24:49
+Og en af grundene til at gøre det her lige for at minde om, at der er faktisk en nem måde at vejene et krydsproduktet ud på.
+
+24:56
+For når man når man skal kigge på første koordinaten, så holder man bare hånden over dem.
+
+25:03
+Og så tager man den determinanten, der er her. Dengang den minus dengang bad, fik jeg minus på mærke ud.
+
+25:11
+Det første koordinaten.
+
+25:13
+Og en anden koordinaten, så holder man hånden over anden koordinaterne, og så gør man præcis det samme, så ser man den gang den minus den gang den.
+
+25:23
+Det giver hår mærket ved. Så skal man desværre bare huske, at der er et minus.
+
+25:29
+Og det er fordi der er en rækkefølge i det her, der hedder plus minus plus.
+
+25:34
+Ligesom med determinanten skal man bare huske, men det er ret godt og kunne det her, som man ikke vil bruge tid på vejen meget hver gang.
+
+25:40
+Godt tredje går jamen, så holder man bare hånden over tredje koordinaterne.
+
+25:44
+Så ser man dengang Dan Minus dengang vandt. Det giver en. Så det her er simpelt hen den krydsproduktet væg, som vi skal bruge.
+
+25:55
+Ja, koge funktionen. For en graf flade er så længden af den der vægt.
+
+26:05
+Det vil sige kvadratroden af den anden. Læg mærke til fortegn.
+
+26:09
+Det betyder ikke klik, for det bliver bare mærke U.
+
+26:14
+Det er anden plus bomærke, vil vi ane.
+
+26:19
+Minutterne forsvinder og så der i anden. Det giver bare plusser i. Og hvad giver det?
+
+26:25
+Det ser meget godt ud fordi. Et tallet kan vi bare skrive det jeg.
+
+26:32
+Det der står dér. Jamen hår mærket o komma hår mærket V.
+
+26:39
+Det er gradient af hår, så det der står herinde, er gradient.
+
+26:45
+Den er hos lægte i anden. Jeg skriver det ledige plus gradient nu af H.
+
+26:53
+C vægte i anden. Det er det her.
+
+27:01
+Fordi gradient den af H. Gradient den af den. Funktion forstå det.
+
+27:06
+Det er jo bogmærke upcoming, hvor mærke V, som er en vektor som har en længde som er 40 sekunder i anden plus koordinator kvadratrod.
+
+27:15
+Og når kameraerne ikke er der, så er længden i ende. Så hvis.
+
+27:21
+Man har. Vindkraft flaget.
+
+27:26
+Der ser sådan her ud for Jacobi funktionen som det.
+
+27:30
+Det er fedt at vide, så bør man ikke regne den ud mere, fordi så skal man bare kende funktionen på.
+
+27:36
+Mega godt, så lad os gå videre til næste gode fif, for nu skal vi til at lave en anden type plader.
+
+27:46
+Måske skulle vi lige tage et et et.
+
+27:53
+Endnu et eksempel. Hvis nu man havde hvis nu man havde en 1 1 niveau kurv.
+
+28:07
+Hvis nu man havde at X+ Clowes sæt skulle være lige med 5.
+
+28:14
+Så ved vi allesammen at det der er en plan. Og så kunne vi godt tænke os at parre med frisere Dan.
+
+28:21
+Hvis vi får at vide af ex. Komma Y. Igen skal lægge fra.
+
+28:27
+Hvad skal vi sige? Hvad skulle skytte på en anden måde?
+
+28:29
+Vi kan sige, at vi nu får mindre at leve af ikke mindre end vi med tre og minus en mindre lige med Y.
+
+28:37
+Mindre end det. Med otte. Lad os nu se at.
+
+28:42
+At det her er den måde vores flade er beskrevet på.
+
+28:47
+Hvordan kan vi så opvarme interesserer dem når i år?
+
+28:51
+Vi kan jo bare sige, at vi kan da bare findes et sæt den måde 5 minutes jacks minus for at isolere bare sæt.
+
+29:01
+Så står der jo her. En glimrende funktion af to variable som vi kan bruge, for så gør vi bare fuldstændig det, som vi gjorde der.
+
+29:16
+Så ser vi bare, at vores flade den er, så Paramore interesserede på den måde, at vi siger, at de har et U og et V.
+
+29:25
+Og så har vi vores funktion som hedder 5 minutes o min news ved.
+
+29:32
+Det er vores parameter seeing og o komma v løber fra.
+
+29:39
+Minus to til tre. Fordi det er det samme som eks og ved I løber fra minus 1 til 8, fordi det er det samme som det.
+
+29:53
+Kiksede det Bentham i 3 serien, som hvis man har nogle.
+
+29:58
+Det kan jo sagtens blive meget mere indviklet ud, men hvis man har nået der, er niveau flader.
+
+30:04
+Så kan man sagtens lave det her nummer, eller man kan i hvert fald ofte lave det her nummer,
+
+30:10
+som man får den et funktion udtryk, og så kan man bruge det her godt. Nu skal se en anden type gode eksempler.
+
+30:18
+Det er omdrejningstallet. Så.
+
+30:39
+Så for lige at forlade dette øjeblik lægge mærke til. Her har en Jacobi funktion for graf flader gjort.
+
+30:48
+Nu håber vi år, og nu laver vi en anden type sladder, nemlig det der hedder omdrejning sladder.
+
+30:52
+Og der vil vi også lave en Jacobi funktion, som skal bringe os sikkert igennem nogle frygtelige udregninger, som vi ellers skal rodede sig ud i.
+
+31:00
+Så lad os lige kigge på, hvad det er for noget. Hvad er tricket?
+
+31:04
+Jo, der er det altså vigtigt, at vi gøre det.
+
+31:10
+For nogle. Lidt grundigt her sænker vi har vores ekser og vi har vores sted her.
+
+31:16
+Og så har jeg min y. Som løver egentlig tavlen, så har det her koordinatsystem igen.
+
+31:24
+For at lave en omdrejning der skal have det der hedder en profil kurve.
+
+31:37
+Det betyder, at lige nu ved at tegne en kurve, der ligger i Excel planen, er en kurve.
+
+31:47
+I x z planen. Og hvad betyder det?
+
+31:54
+Det betyder bare at Y er nul. Nu kan jeg, så lige nu står jeg i virkeligheden i det koordinatsystem, som vi kan se på tavlen.
+
+32:03
+Byparken lever en, men profil kurven går slet ikke ind eller ud i tavlen.
+
+32:08
+Den ligger kun i tavlens plan, og den ser så.
+
+32:14
+Måske sådan her ud. Så er læg mærke til den kurv.
+
+32:23
+Der er ikke noget indeni og yoga og.
+
+32:28
+Det, som vi skal forestille os, er at vi har en eller anden beskrivelse af den kurve.
+
+32:33
+Og hvordan er det nogle kurve er beskrevet. Den er beskrevet ved en variabel, så den vil vi sige hedder er U, og hvordan skal den se ud?
+
+32:43
+Ja. Det er selvfølgelig ekstra åg, og så kommer noget.
+
+32:49
+Og så. Sætter du. Fordi de bygger noget, og lad os nu antage, at vi har fundet ud af, hvad det her er for en funktion.
+
+32:58
+Den plejer vi så at kalde det for noget. Den der funktion skal vi også kende.
+
+33:04
+Plejer vi så at kalde H? Jo. Og dette er så kendt funktion fodfolket.
+
+33:12
+Og i. Og så har vi selvfølgelig også et eller andet sted, hvor u løber.
+
+33:20
+Ved med at undertrykke nu, men du løber selvfølgelig et eller andet sted for at beskrive denne her.
+
+33:25
+Hvad hedder det omdrejning slaget? Vi kan også skrive det. Vi kan bare skrive.
+
+33:30
+Du ligger i intervallet fra A til B. Havde Schumacher det?
+
+33:34
+Beskriver dem der. Godt hvad gør vi så nu?
+
+33:39
+Nu tager vi og svinger denne her profil kurve. 53 grader rundt om z aksen.
+
+33:48
+Okay, det vil sige hvis jeg nu med min stærkt begrænsede tegne evner skal forsøge at tegne.
+
+33:55
+Så det kan kun gå galt. Er det allerede gået galt.
+
+34:18
+Og jeg ved ikke. Ja, hvad er det?
+
+34:26
+Prøv at forestille jer følgende imod. I må bære over med min meget begrænsede tegne evner, og de kommer virkelig til udfordringen.
+
+34:32
+Hvis nu dette var en cirkel lagkage, så det her jeg nu havde tegnet.
+
+34:37
+Det var bedstemors bade, ringe. Klasse.
+
+34:41
+Det er sådan det skal forstås. Så det er simpelthen bare trak forklaringen.
+
+34:46
+Jeg gør også cirklen, der er svinget hele vejen rundt. Hvis det så ikke var en cirkel, så kunne det have alle mulige mærkelige former.
+
+34:54
+Hvis det er en cirkel, så kalder man det i øvrigt en torus. En badri, så bedstemors bedring antoges.
+
+35:02
+Og kan jeg godt. Hvad er parat med et?
+
+35:09
+Ingen. Så er den flade. Så omdrejning faderen er altså dem der kommer ved, at man nu har draget.
+
+35:19
+Det her hele vejen rundt. Der er over overfladen af bedringen.
+
+35:27
+Og hvordan skal vi parre vi forsøger den. Jamen.
+
+35:32
+Hvis I nu kigger på os, så prøv lige at se dette punkt.
+
+35:40
+Det der står hernede. Det er jo den idé jeg kyssede.
+
+35:45
+Det er jo radius i den cirka. Der bliver svinget rundt her.
+
+35:53
+Og hvordan er det nu parameter i sikringen af en cirkel med radius Gea U ser ud.
+
+35:59
+Det kan vi faktisk bare skrive op, så nu kommer parameter i serien.
+
+36:04
+Dette er profil kurven. Den kan vi så kalde på i dag. Nu kommer pyramid frasering af vores flade.
+
+36:11
+Er, men nyere er at U kommer ved. Vi tager det EU som er ikke skåret hinanden, så svinger vi den rundt, det vil sige.
+
+36:24
+Så tager vi Radio Skank Horsens Way, så tager vi radio's på y koordinaten.
+
+36:29
+Det er jo så radio skammens scenes. Hvad sker der noget i højden?
+
+36:34
+Nej, det gør der ikke. Højden bliver liggende, for der bliver alle punkterne på denne kurve bliver liggende.
+
+36:42
+Og det vil sige her sker der ikke en skid. Og ulækker.
+
+36:49
+U ligger hvor den hele tiden lå, nemlig intervallet fra A til B og V ligger så i intervallet fra nul til to PPI.
+
+36:59
+Så har vi ladet parametre sikringen af sådan en omdrejningerne.
+
+37:04
+Et omdrejning slaget. Når vi har profil kurven.
+
+37:10
+I kan også hvis vi skal bruge. Hvad hedder det?
+
+37:14
+Bruge noget vi har lært. Hvis man nu ikke lige kan se, at det vil opføre sig sådan her, så kan man faktisk.
+
+37:23
+Lave noget matrix ligning. For hvad er det for en operation?
+
+37:29
+Hvad er det for en operation, vi udfører her? Vi holder z aksen fast, skal I sætte, og så drejer vi x y koordinatsystemet to pi rundt.
+
+37:42
+Jeg ved hvordan. Hvis jeg nu skriver den matrix op, der drejer en vægter ved grader.
+
+37:52
+Så prøv at læse her. Denne hedder K's indslag kommer Signes ved kommer.
+
+37:59
+0. Det første. Svigter. Det vil sige det er den basis vektor, der ligger her.
+
+38:05
+Brad ved grader. Den kommer til at hedde dette, fordi den ligger jeg ikke syg blandet.
+
+38:11
+Dens sværvægter hedder minus sinus v kommer cosinus ved kommet noget.
+
+38:20
+Her har vi i den grad vækst, og så har den en sværvægter, som også ligger i eksemplerne.
+
+38:25
+Og så gør vi ikke noget som helst sæt koordinaten, så den bliver ved med at hedde 0,1 0,1.
+
+38:31
+Den der matrix der vejer en vægt så.
+
+38:36
+Med koordinaterne ekskong med økomad z v grader rundt.
+
+38:42
+Så hvis jeg nu tog den der vægt dér. Og gerne ville dreje ved grader.
+
+38:51
+Så lad os prøve at se hvad der sker. Grader må aldershvile ved radianer.
+
+39:06
+Og i positive om løbsradioen, det gider jeg ikke skrive hjem, så kan jeg bare skrive min Matrix Q.
+
+39:15
+Gange med min vægt som hed agerer komma nul komma er jo.
+
+39:23
+Og hvis de prøver at gøre det. Så kommer der et præcist resultat frem som står her, nemlig det jeg u gang Gronkowski.
+
+39:37
+Det er jo garant sinus ved. På Road.
+
+39:45
+Og hvis man så gerne vil signalere, at man skal dreje ikke bare ved,
+
+39:50
+men hele vejen rundt, jamen så får vi alle vinklerne med for gennemløber den, der vægter.
+
+39:58
+Hele fladen. Så tænk lige på den, hvis I nu glemmer hvordan man skulle parameter Riisager for dem.
+
+40:06
+Hvis I har regnet kurven.
+
+40:09
+Det kan også hvis vi har denne her og ikke kan huske den der, så kan man måske huske den der matrix, som man så bare ganger på.
+
+40:22
+Så får man drab. Det er i øvrigt enormt nyttigt at kunne lave disse operationer med matricer, fordi de flytter ting rundt i træ på fine måder.
+
+40:32
+Og opgaven. Godt. Spørgsmålet er så Hvordan ser Jacobi funktionen hørende til den parameter ved Seraing ud?
+
+40:46
+Den skal vi have regnet ud, og så holder vi pause hvert, så det jo.
+
+40:51
+Så nu kommer det store dyr. Den store grandprixerne så.
+
+41:04
+Folk jeg tror jeg starter her op J.
+
+41:08
+Er. For general. Omdrejningstallet.
+
+41:23
+Og det er så travlt sex. Vi ved jo hvad vi skal gøre.
+
+41:28
+Vi skal differentiere parametre sikkert og der skal finde krydsproduktet og så skal finde længden, så der er en tretrinsraket flere af.
+
+41:38
+Så jeg starter med lige med at finde R mærke U. Det vil sige første koordinaten differentieret med hensyn til up.
+
+41:47
+Det bliver bare g mærke U. Grandkusine fik.
+
+41:53
+Anden koordinaten med hensyn til det er jo bare at give mærke u gang sinus tv og den sidste differentierede med hensyn til hår mærket U,
+
+42:05
+så det var at mærke U. Godt, så vil vi godt gøre det.
+
+42:13
+Fuldstændig det samme, bare med hensyn til ved. Ağca Gero så bare en konstant og så korsene svag differentieret.
+
+42:20
+Det må give minus sinus ved, for det giver minus. Det er U Garand Signe Freezer første koordinat den næste.
+
+42:31
+Det er jo en konstant scene osv. Differentieret.
+
+42:34
+Det giver korsene sved, så her får jeg flere u kobbersneppe og den sidste differentieret med hensyn til V.
+
+42:45
+Det må være noget. Okay, så skal vi have krydsproduktet.
+
+42:54
+Så vi har er Merkel er Merkel krydset med af Merkel ved Mehmet?
+
+43:02
+Og det bliver jo det kan være med det samme se bliver noget snavset, ikke? Men altså lad os nu gøre det første.
+
+43:08
+Han skal holde hånden over det her. Så skal jeg sige den gang valgte heldigvis 0.
+
+43:13
+Og så skal jeg se den gang den. Det bliver. Det er jo garne på mærket Grand Cosinus TV, og det var først koordinaten.
+
+43:27
+Så skal jeg holde hånden over denne her for at finde anden koordinaten, der skal se denne gang band det giver noget minus denne gang band.
+
+43:37
+Det giver plus gr. U bogmærke gang scenes ve.
+
+43:41
+Men så skal jeg huske, at der er et minus i denne EP på 40 sekunder.
+
+43:46
+Det skal der jo ikke, fordi rækkefølgen når man laver et krydsproduktet, hedder plus minus plus.
+
+43:53
+Så man ja, undskyld.
+
+43:57
+Men det kan ikke trække tæppet væk. Jamen, for kiggede I tager den?
+
+44:02
+Jeg forsøgte dengang den minus dengang. Og undskyld. Ja, undskyld.
+
+44:09
+Jeg tror, at jeg sagde, det gjorde jeg. Jeg håber, at når hånden over det dengang Dan Venus dengang,
+
+44:16
+da det giver minus dette også komma hånden over den dengang, da minus dengang den og så med et minus på begge.
+
+44:25
+Så minus gik jeg på mærke U og så sinus.
+
+44:34
+Sinus sved. Sådan komma.
+
+44:41
+Ja, det trivielle minus faktisk er ikke fordi det er.
+
+44:47
+Dengang den minus dengang den og med minus på, fordi den determine regner ud hvor der er i virkeligheden en helt masse minutter.
+
+44:56
+Der var spørgsmål her om dette spørgsmål her, og det kan vi lige få det.
+
+45:05
+Kan man integrere? En matrix eller en vægter, ja, det kan man faktisk godt.
+
+45:13
+Man skal bare lige definere det så.
+
+45:17
+Så det er ikke noget, jeg har tænkt mig at gøre. Jeg har engang tænkt mig at regne med brøker så godt.
+
+45:26
+Lad os lige få lad os lige få gjort dette færdigt, for nu kommer det sidste møde, hvor jeg skal holde hånden over den der.
+
+45:33
+Det vil sige for jeg den der gang den. Det giver.
+
+45:39
+Gr. G mærke U Garang Cos News.
+
+45:44
+I anden tv. Minus denne gang bande.
+
+45:49
+Det vil sige plus. Gr.
+
+45:54
+Mærke U. Og så sinus i anden tv.
+
+45:59
+Sådan. Der har vi den, det er krydsproduktet vægteren, og hvis I lige har tålmodighed et minut endnu, så tager vi længden af den.
+
+46:13
+For så kan vi simpelthen kløvet den op her. Vi flytter lige det her så højt op her.
+
+46:19
+Så skriver jeg kåbe funktionen for generel omdrejning.
+
+46:26
+Omdrejning flader. Det er så længden af den der vægt.
+
+46:31
+Det vil sige det kvadratroden af. Den anden plus den anden klods.
+
+46:42
+Den anden. Lad os lige.
+
+46:46
+Lad os lige kigge på det her. Hvad står der i virkeligheden her? Den anden plus den anden.
+
+46:54
+Der kommer jo bare til at stå dem, da anden gang venter Jane og cosinus hjernen plus sinus hjernen som er en.
+
+47:02
+Kvaliteter så bidraget fra de to led.
+
+47:08
+Flere. G i anden er U.
+
+47:14
+H. Mærke i anden er U.
+
+47:20
+Brev med hvordan cosinus i anden plus sinus hjerne er en der kommer den sidste her.
+
+47:28
+Hvad står der i virkeligheden her? Hvis vi kigger på det hernede, jamen der kan jo sætte gedder ud.
+
+47:36
+Gero Garn give mærke U kan jeg sat uden for en parantes, hvor der står kokosnød til anden plus sinus i anden inden i parentesen.
+
+47:47
+Det står allerede her. For når jeg så tager dette her, jamen så får jeg g.
+
+47:52
+Anden gang, bemærkede Jane. Det vil sige plus G i anden uge gange g mærke ja, anden er jo.
+
+48:06
+Dér står jeg lukke funktionen, læg mærke til at der kan vi gøre noget smart, fordi der tragedie andet.
+
+48:13
+Begge steder det vil sige, at jeg kan tage. Kvadratroden af G Jane og så den uden for.
+
+48:22
+Men husk lige at kvadratroden af G. Jane er numerisk færdig og G.
+
+48:28
+For her står der den numeriske værdi af gæster udenfor, og så står der kvadratroden er bomærke.
+
+48:36
+U. Det er anden Clouds. Det mærke du vi er inde, er du fik fat i et andet sted, men.
+
+48:45
+Det er simpelthen jeg kode funktionen afhænger kun selvfølgelig af regne kurven.
+
+48:55
+Og. Så kan man så sige Hvad er hvad med denne væmmelige numerisk værdi?
+
+49:00
+Hvad kan vi slippe uden om den? Jamen, prøv lige at se. Du skal nok lade være med at skrive med jer, men hvis vi kigger på min tegning.
+
+49:11
+Så så længe, så længe min range kur ikke går ind og krydser denne akse, så går jeg jo hele tiden positivt.
+
+49:22
+Kan jeg se det? Så hvis mine parametre i serien er sådan at ramme kurven her ligger til højre for ikke aksen.
+
+49:30
+Her. Så det der står her x værdien jo positiv.
+
+49:36
+Og så kan man bare smide numeriske væk. Klasse.
+
+49:43
+Men. Den skal jo stå der fordi den hører hjemme i udregningen.
+
+49:47
+Det er fuldstændig generel. Efter pausen, så tager vi fat i nogle nogle simple omdrejninger flader og af.

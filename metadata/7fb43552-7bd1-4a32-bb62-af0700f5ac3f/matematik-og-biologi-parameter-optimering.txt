@@ -1,0 +1,398 @@
+0:04
+Så jeg er her lige som en gæsteoptræden et kvarters tid for at snakke om det.
+
+0:08
+Vi bruger matematik til i vores forskning, og vi bruger det til mange ting,
+
+0:11
+man ikke bruger dem meget, meget intens til at optimere forskellige systemer med mange parametre.
+
+0:17
+Vi har det, der hedder Günter Nielsens metoder, og det vil jeg forsøge at komme lidt rundt omkring det næste kvarters tid meget hurtigt.
+
+0:26
+En ting i biologi.
+
+0:27
+Det det, man kalder på højere og højere ordens korrelationer, hvor man kan fortolke ting ud fra en given kontekst på forskellige måder.
+
+0:35
+Helle er meget fin i simpel fart. Pres fra sproget er virkelig.
+
+0:39
+Vi ved godt med vores baggrund i at læse, at dette bogstav og bogstav og ikke det samme, fordi der står hund, kat.
+
+0:47
+Det kan vi alle sammen finde ud af, og vi ved, at når der står et et cover it om bogstaver her, var det et A, og der står i starten for en uge.
+
+0:55
+Så er det nok fordi dit hår. Vi kan tolke bogstaver i konteksten, og det gør vi udfra med bruger vores neurale netværk og vi hjernen.
+
+1:05
+Her er vi det billede, som vand skal mættes, kan ses sådan her.
+
+1:08
+Vi har nogle neuroner her mis med se, som modtager noget input fra de omgivende neuroner oppe i vores hjerne, og det er de input.
+
+1:17
+Så vil der blive sendt noget signal videre til de omkringliggende neuroner. De her forbindelse som sådan hedder synapser og bliver vores hjerne.
+
+1:25
+Det er at beskrive rent matematisk i en kunstig neuron, hvor vi har noget input ideer i et til en, som går ind til en neuron.
+
+1:35
+Ikke alt input er lige vigtigt. Der er nogle vægte, som siger noget input.
+
+1:39
+Skal man lægge meget vægt på noget lidt ligegyldigt? Det er vigtigt, w et til 1 4 var vigtigt.
+
+1:44
+Inputtet er og afhængigt af om summen af de vigtige gange inputtet er større end et givent threshold ting,
+
+1:52
+så vil nogle Ronen her sende et signal videre til de omgivende neuroner, som man har bundet med Ronen her.
+
+1:59
+Funktionen her Sigtuna bliver normalt modulerede som en sten.
+
+2:03
+Stik mod funktion, så hvis ex. Denne her er meget positiv for summen af input med vægtene er meget større end ting som man herude på denne akse.
+
+2:13
+Værdien af får ud fra neuroner er tæt på at være en. Hvis værdien her er negativ, det vil sige at vægten af gange inputtet er meget mindre end det tv,
+
+2:23
+er man herude i det nye regime så tæt på nul, og neuroner vil ikke sendes videre til omgivelserne.
+
+2:30
+Det er grundlaget for hjernens funktion, meget skematisk set og for det, man bruger i vores modeller, som laver kunstige neurale netværk.
+
+2:39
+Og vi må vise, at det der med at lave høje ordenens relationer. Det er ikke ligetil at modellere det matematisk.
+
+2:46
+Den kan funktionen høje, ordenens kollisioner endda ikke over funktion, som er en, hvis enten den ene eller den anden input værdi er en.
+
+2:57
+Hvis begge er nul eller begge er 1, så har den værdien nul.
+
+3:01
+Den er meget svær at modellere matematisk. Når du laver en lineær funktion og finder nogle vægte ved ét og V2, som skal give det afbud op.
+
+3:11
+Det kan man ikke, hvis man bor, viser det italienske malisk på et plan. Vi har de sorte punkter.
+
+3:17
+Det er dem, som svarer til en værdi på nul i afkode rummet og de hvide punkter.
+
+3:21
+Dem, der har værdien ét som afbud funktion, kan man lave en lineær funktion, som kan adskille de sorte fra de hvide punkter.
+
+3:29
+Det kan man selvfølgelig ikke. Alle rette linjer vil maksimalt kunne kunne klassificere et eller to af de rigtige punkter.
+
+3:37
+Altid en forkert forudsigelse på den forkerte side af linjen.
+
+3:42
+Man kan ligge i vilkårlig linje og alle sammen vil have mindst ét punkt fejlfri af civiliseret,
+
+3:48
+så der er altid en fejl på, at ét ud af fire punkter bliver sagt til at være forkert.
+
+3:52
+Her har man i om hjørnet ser på den linje, som går herind.
+
+3:57
+Der vil man forudsige tredjebehandlingen til at være et og et til at være nul.
+
+4:01
+Der er fejl på det sidste punkt, men har endnu fire er forkerte, så man kan på sigt kan lave en metode,
+
+4:08
+som optimerer mine vægte ved et veto, men hvor jeg får mindst mulig fejl mellem mine forsagte værdier og det, jeg prøver at lære.
+
+4:17
+Og det kan man aldrig lære. Fejlene altid en ud af fire her, så en del.
+
+4:22
+En højere ordens korrelation kan ikke beskrives som en lineær funktion i noget
+
+4:26
+højere ordens tese for at beskrive det og det højere orden her bor i vores verden.
+
+4:30
+Det der hedder neurale netværk, som er den eneste ting her og nu,
+
+4:34
+har ikke bare at input værdierne går direkte ned til dem og på værdien, men nu har de et hit en vej imellem,
+
+4:40
+sådan at man får at inputtet først går ned til denne her neuron herovre og så afhængig af hvad inputtet er i forhold til en given værdi,
+
+4:48
+så vil den sende et signal ud, som er ét eller nul, og så kan vi hermed i sidste ende få et afbud, vil det gøre.
+
+4:54
+De fire eksemplarer igennem DR Netværk vil opdage, at den rent faktisk virker.
+
+4:59
+Netværkene giver de rigtige værdier. De giver nul bidrag input på 0,0, og de giver et et tal som op og ned i bunden.
+
+5:07
+Hvis du har input på et nul, nul ét og det også nul, hvis du har internet som input, så netværk her kan beskrive de højere ordens korrelationer,
+
+5:16
+og det er det kun fordi I har denne her højere ordens ikke lineære funktion mellem input og output.
+
+5:22
+Og at I har et helt nyt lag til at beskrive den funktion for hele den her, det handler om.
+
+5:26
+I vores verden. Find ud af kære givet os dit netværk. Her kan jeg finde de rigtige vægte.
+
+5:31
+Minus ni og ni og de rigtige tærske værdier. Ting folk udsendte i signal ud fra mine data.
+
+5:38
+Kære lærer min netværk.
+
+5:40
+Disse værdier ikke kan bruges til at forudsige ting fra biologiens verden, som jeg ikke kender svaret på, og det jeg gør, det bor vi en del sendt.
+
+5:48
+Vi har nogle data, og vi kender svaret. Så prøver vi at bruge dem til at ændre vores vægte.
+
+5:55
+Vi har en funktion, som siger Hvor langt er vores værdier, vi får fra vores netværk i forhold til vores ønskede værdi?
+
+6:02
+Vi skal have ind, og vi svarer noget. Fejlen er ind i anden, og så får vi den fejl til ændre vores vægte.
+
+6:09
+Jeg bruge den formet, som er formen på enheden, sendt til at ændre vores vægte,
+
+6:14
+og så gør det en masse cykler og ender op med at have et netværk, som vi har lært at forudsige de rigtige værdier i forhold til vores takket.
+
+6:23
+Hurtigt får de igen og frisk i hukommelsen, hvis de ikke hører det nu, at denne metode vil den.
+
+6:30
+Det kommer nemlig magisk fra, at hvis man tager den afledede af en funktion og ændrer på en variabel i den modsatte retning at aflede,
+
+6:38
+vil man ende med at være tættere på funktionens minimum.
+
+6:44
+De finder her i mentee parabol funktion ikke sige andet om vi har en værdi derude.
+
+6:49
+A. Her er 2, så er f, a 9 med fire vi gerne vil enten ned i mini med hvilken vej skal vi ændre a til højre eller til venstre?
+
+7:00
+Vi kan tage den afledet af f her. Det var to gange exit og den portion her på 1X i værdien af det 4.
+
+7:08
+Så kan vi ændre vores a sådan her. Vi går i den minus den afledede.
+
+7:13
+Her trækker vi et lille skævt.
+
+7:17
+Epson lukker mig en del gange i minus fire 1,6 liter og herover af med at gå ned i bunden af dalen og ender med at finde minimum.
+
+7:26
+Gøre det her mange gange, at vi nu bevæger os væk fra granitten.
+
+7:31
+Det kan man så gøre her, man kan bevæge sig rundt, og man skal passe på ikke at ende i lokale mini med døren ned i bunden,
+
+7:37
+men i dag er den afledede noget, og du sidder fast. Kommer aldrig videre.
+
+7:42
+Det kan man tage højde for ved at have epsilon værdien her.
+
+7:46
+Man bruger, som hedder størrelsen ikke bliver for lille detalje,
+
+7:51
+så hvis man skal gøre det her og skal nu bor, og vi har vores funktion som er vores fejl.
+
+7:57
+Funktion er funktionen, som er en minoritet i anden. Vores værdier vi får som output på dette simple netværk her uden et skjult lag.
+
+8:07
+Det er bare summen af input på din gamle vægtene lagt sammen, så der er ro.
+
+8:13
+Summen af vægtning gang inputtet, så kan vi bruge denne funktion til at finde ud af skal venter vægtene i en retning, som er modsat gradient.
+
+8:20
+Den er fotonen med respekt til vægtning. Skal vi bruge Kedelhallen før vi kan differentiere på eurozonen?
+
+8:27
+Her afhænger af o, men o afhænger af V. Så vi kan tage den afledede af offshore.
+
+8:33
+Men medvind til W. Jeg bruger kæderygende og det afgjorde det liberaliserede med o og o liberaliserede med 7 til W.
+
+8:42
+Og ja. Denne kan vi afledede er meget nem. Det var minus minoritet og dette år, men de giver ro her.
+
+8:51
+Hvad synes et W. På en bar i bund?
+
+8:55
+Så har vi fået den aflivet, og så er det bare at gå i gang. Vi kører og ændrer vægtene i denne størrelse.
+
+9:02
+Jeg så op med at få en optimal funktion. Som jeg spurgte, beskriver vores vores Multidata.
+
+9:09
+Det er meget simpelt, så hvis man gør det for et neurale netværk, for det er lidt mere kompliceret,
+
+9:14
+men har et et skjult lag herinde, når man har flere forskellige vægte.
+
+9:17
+Men i princippet er det det samme, man kan bruge kæderygende til at lave den afledede af af med hensyn til de enkelte vægte.
+
+9:26
+Og bruger man så denne her funktion til at have, at hver input til den uro går igennem den der lille og ex funktion og bliver til en op og kessing,
+
+9:38
+så kan man en genvej gennem matematikken og regne en massiv kommer tilbage.
+
+9:41
+Lidt ligegyldig da når kæderygende involverede, som vi skal gennemgå, fik jeg ved i næste uge,
+
+9:46
+men altså op med og have en funktion, som pegede nogle netværks parametre.
+
+9:51
+Nogle input værdier giver jer de den afledede af funktionen og det samme med ændringen af disse vægte for input lavet til de skjulte lag,
+
+10:02
+der i masse i matematik og nogle fungerer.
+
+10:04
+Og det ser grimt ud, men i den sidste ende op med at have en meget, meget simpel funktion, som siger, at man skal ændre.
+
+10:11
+Hvis vi ændrer, er funktionen med respekt til disse vægte mellem det guiden og input lavet og hiver den op ad store W.
+
+10:21
+Kan man bruge noget af den ligning om ændring af vægtene mellem input laget og her den dag kan man bruge den næste linje Herring.
+
+10:28
+Ja, som der kan udregnes gide netværket EBU værdierne.
+
+10:32
+Man kan ændre vægtene, givet impro værdierne og de enkelte TARGIT værdier.
+
+10:37
+Skal man bare starte med at integrere, og så kan man så forhåbentlig ende op med et netværk, som bedre beskriver de data, man har trænet på.
+
+10:45
+Men det kan de vise jer med et eksempel. Tror jeg der kan.
+
+10:57
+Hvor leder. Det.
+
+11:03
+Her har vi nogle eksempler, men der. Skal der her.
+
+11:08
+For eksempel har man hentet. Græs.
+
+11:28
+Skal være. Og giver her nogle data er ex overfor tvungen input værdier noget noget skal have en vig som er noget som afbud.
+
+11:43
+Et nul nul, et skov værdig. En som overbudt og et skov værdien 0 som op mod det vi kalder det mønster i Abbath neurale netværk.
+
+11:55
+Hør her hvor Sia i netværk her skal have en hit året rundt.
+
+11:59
+Nu har jeg en Lina funktion uden skjulte nåle.
+
+12:03
+Nu går jeg ikke kunne lære det her. Og så ser jeg løn der sker nu da jeg har mit netværk her inde på værdierne står herude til venstre.
+
+12:13
+Herude er min værdi. Herinde har jeg min.
+
+12:17
+Min. Min. Min. Min kæreste værdig. Nu må jeg igennem og se.
+
+12:21
+Jeg får en R5, og så får jeg ud af hver fejl. Jeg finder, hvad fejlen er.
+
+12:25
+Så ændre i min vægt i forhold til at minimere fejlen med mine kæder.
+
+12:31
+Kæde regler til at finde de afledede min funktion fuga.
+
+12:36
+Det kan være en ad gangen, og så kan jeg prøve at se. Har jeg lært det her?
+
+12:41
+Hvis jeg kører længe nok.
+
+12:57
+Så går jeg ud af hvad fejlen mindre og mindre og mindre, men ender med at køre fast i det ikke blive bedre end det her, fordi jeg har ikke en mine.
+
+13:06
+Mit ben er hätten nyu. Jeg har en lille funktion. Så lader jeg mit min ekstra version.
+
+13:11
+Det kan ikke læres med en lineær funktion. Den er vist i starten, så den ændrer mine netværk til nu at have at have to i den neuron.
+
+13:21
+Man kan så den på lære, det vil jeg påstå. Det gør noget af.
+
+13:35
+Og igen skulle vi snart lige her. Vupti så du lære det.
+
+13:40
+Og hvad skal jeg så gøre det? Hvad er den du får ud af? Her har masser af inputtet nu er 0,0.
+
+14:03
+Hvad er din jeg får, når jeg får det her 0,0 ind.
+
+14:08
+Det skulle være. Hvis jeg viser 0 kommer ind.
+
+14:12
+Så får jeg 0,8 tæt på 1. Hvis jeg var så 1,0, så egentlig over 0,8 2 og endelig viser informant netværket, så giver den på nul.
+
+14:24
+Nu har jeg lært næsten det præcist, at de fire eksempler skal give det rigtige afbud.
+
+14:29
+Det kan kun læres vildt, hvad de giver hinanden. Så.
+
+14:37
+Lige hurtige runde af. Så er vi lige hurtigt har set, er grundlaget for 140 menneskers arbejde over for CBS,
+
+14:50
+at man kan bruge netværk til at lære de høje ordens reaktioner på en meget nem måde.
+
+14:55
+Der går en intens metoder, og de kan bruges til at beskrive et helt spektrum af forskellige systemer i biologi.
+
+15:02
+Vi arbejder meget med muslimsk fortid og i vores gruppe,
+
+15:05
+men også på de strukturer og vaccine og development kan beskrives med neurale netværk og her også en liste over de metoder udviklet og CBS,
+
+15:14
+som allesammen lever af neurale netværk. Så jeg.
+
+15:31
+Ja, jeg håber.

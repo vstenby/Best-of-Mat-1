@@ -1,0 +1,794 @@
+0:01
+Mandag morgen. Via tilbage i teorien omkring funktioner af flere variable, specielt to variable, og det er jo det emne vi arbejdede med før jul.
+
+0:21
+Og vi har lige displayet her. Nogle af de ting, vi selv taler om gradient, fik faktorer.
+
+0:28
+Det er noget med at de partielle afledede og ud fra de partielt afledte, der kunne blive opstillet af frugt, charmerende første grads polynomium.
+
+0:43
+Og vi sover så at grafen for det er Panucci mere første grads polynomium.
+
+0:49
+Det var lig med tangent planen i det pågældende punkt.
+
+0:55
+Og så så vi også at en når man væk så til tangent planen i et bestemt punkt x0.
+
+1:04
+Karmøy nul komma f.ex. 0,1 i nul har så første koordinaten som er minus.
+
+1:12
+Den partielt afledes med hensyn til x og minus den partielt afledede Mallory.
+
+1:18
+Og så et et tal som set koordinat, og de ting får vi brug for i dag.
+
+1:28
+Og der var også nogle af de ting, vi arbejdede med til sidst, som vi også får brug for.
+
+1:33
+Specielt par med trisser ringere af kobber, der ligger i asyltallene.
+
+1:40
+Det arbejde i så sent som jeg tror det var den ottende december i opgave fire ved to timers graven,
+
+1:48
+hvor der var noget med Far med trisser Zähringer af nogle kurver, som lå på en tegning.
+
+1:54
+Det kommer vi altså tilbage til i dag, og emnet er en.
+
+2:00
+Meget typisk ingeniør opgave, ja eller en opgave inden for alle andre for samfundsvidenskaber alle vegne,
+
+2:08
+nemlig at kunne finde den optimale værdi af en funktion inden for et givet område.
+
+2:18
+Og den optimale værdi. Ja, det kan jo være en største værdi.
+
+2:23
+Eller det kan være den mindste værdi. Og størst værdi.
+
+2:27
+Her kalder vi altså for globalt maksimum. Og mindst værdien kalder vi for global.
+
+2:35
+Minimum. Og det er selvfølgelig fordi vi også kan tale om lokale Maxima og lokale Mini-Mag.
+
+2:45
+Og det skal vi også snakke rigtig meget om de kommende gange. Men i dag handler det altså om global maksimum og globalt minimum.
+
+2:56
+Og det rejser selvfølgelig spørgsmålet om der overhovedet findes et globalt maksimum og et globalt minimum.
+
+3:06
+Og det vi arbejder med i dag, det er kontinuerte funktioner.
+
+3:11
+Og hvis det er det, vi undersøger funktionen på, hvis det er en afsluttet og begrænset mængde.
+
+3:17
+Jamen, så er der et globalt maksimum og globalt minimum.
+
+3:22
+Og så drejer opgaven sig altså bare om at finde. Hvad er så det globale maksimum eller minimum, og hvor på den mængde vi betragter det de.
+
+3:33
+Så det er kort sagt problemstillingen for i dag og lad os med det samme få skrevet den metode op, som vi bruger.
+
+3:44
+Altså. Hvis f er kontinuert.
+
+3:55
+På en begrænset. Og afsluttet.
+
+4:06
+Mængder. M.
+
+4:15
+Så for f. Et globalt maksimum og globalt minimum.
+
+4:35
+Og det globale maksimum.
+
+4:42
+Og globalt minimum.
+
+4:51
+Det er så spørgsmålet bor på mængden er det, at vi har de her globale værdier?
+
+4:57
+Og da er der så tre muligheder som vi skal tage i betragtning.
+
+5:04
+Altså de kan antages i undtagelse at spunk.
+
+5:17
+Og det er hvor f. Ikke er differentiabel.
+
+5:33
+Eller det kan være i stationære punkter.
+
+5:46
+Og det vender vi tilbage til. Og så kan det være i rang punkter.
+
+5:59
+Da vi har sagt at mængden er afsluttet, så betyder det jo, at mængdens rand er med,
+
+6:06
+og da er der også mulighed for at et globalt maksimum eller minimum fem antages i de ramte punkter for at finde ud af,
+
+6:15
+hvilket dyr brændpunkter der kunne være tale om. Så er vi nødt til at lave en særlig Rando undersøgelse.
+
+6:38
+Hør godt. Og så finder vi funktionens værdien.
+
+7:03
+Vi finder funktionens værdi i de punkter, altså undtagelsen punkter,
+
+7:08
+stationære punkter og særlige ramme punkter, som vi finder ved Rando undersøgelser.
+
+7:14
+Og så er det globale maksimum. Det er simpelthen den største. Og et tilsvarende globalt minimum.
+
+7:35
+Den mindste. Se, nu har vi talt om brændpunkter, det vil sige vi laver en særlig undersøgelse af, hvordan funktionen opfører sig på randen.
+
+7:54
+Når vi undersøger undtagelsen punkter og stationære punkter, så er det.
+
+8:04
+I det indre er mængden.
+
+8:12
+Og der har vi jo et særligt symbol for det indre af mængden.
+
+8:17
+Det indre er mængden. Det er jo EM. Når man ser bort fra den trend.
+
+8:23
+Der bliver altså sige undtagelser, punkterne og de stationære punkter.
+
+8:28
+Dem vil vi finde inden i det indre af mængden, og så laver vi altså bagefter.
+
+8:33
+Denne Rando søges af, hvordan F er at få selve rammen.
+
+8:39
+Det er dagens opskrift, og så skal vi bare lære teknikken i, hvordan vi får lavet de her undersøgelser.
+
+8:46
+Det er det, det drejer sig om. Og. Lad os nu starte med et eksempel med en variabel eller jeg laver faktisk to eksempler.
+
+9:14
+Hun se funktionen er givet ved f.
+
+9:22
+Eks. Den er ex. Plus en. Når X er mindre end lige med én og den er tre minus x 40 x større end en.
+
+9:40
+Så hermed har vi altså angivet den funktion vi bør undersøge.
+
+9:45
+Og den mængde vi undersøger dem på. Det er en mængde M, som er givet ved 0.
+
+9:56
+Til 3. Altså det afsluttede interval fra nul til tre.
+
+10:02
+I kan se den. Den er begrænset og den er afsluttet.
+
+10:07
+Rammen i dette tilfælde det er punkterne nul og 3.
+
+10:16
+Lad os prøve at tegne grafen for denne her funktion. Først var det jo altså her fra nul til en.
+
+10:37
+Der tegner vi første del af grafen og så tre Milosevics.
+
+10:46
+Der tegner vi altså anden halvdel af grafen. Og det er jo altså et meget, meget nemt eksempel, men forhåbentlig også illustrativt.
+
+10:57
+Fordi nu skal vi så byde vores opskrifter op. Vi konstaterer.
+
+11:07
+Der er et punkt. Nemlig.
+
+11:21
+Her har vi tallet ét vi kan se. Der er et knæk på grafen her.
+
+11:28
+Den er ikke differentiabel, så det er altså en undtagelse sport, vi har fundet her.
+
+11:37
+Og det producerede så en mulig kandidat for største værdi eller mindst værdi, så den skriver jeg nu op.
+
+11:44
+F 1. Den er altså så 2.
+
+11:55
+Andet punkt stationære punkter. Altså for stationære punkter.
+
+12:13
+Er hvor. Differentialkvotienten er nul.
+
+12:28
+Og dem er der ingen af her tydeligvis. Vi har jo ikke vanrøgt tangent nogen steder.
+
+12:36
+Så vi har altså stadigvæk kun en kandidat. Og så skal vi laves om på tre Rando undersøgelsen, som vil give os de sidste kandidater og uranen.
+
+12:57
+Det er som sagt. Punktet 0 og punktet 3.
+
+13:05
+Og så skal vi altså have f nul. Den er en.
+
+13:14
+Og Fr 3 den er nul. Så nu har jeg fundet alle de punkter, der er nødvendige i min undersøgelse.
+
+13:27
+Da havde vi en kandidat. Det havde vi en kandidat, og det havde vi en kandidat.
+
+13:35
+Og så er den det globale maksimum. Det er altså den største af disse, og vi kan altså skrive.
+
+13:45
+Globalt maksimum. Den er så 2.
+
+13:52
+Og den antages i X lige med 1.
+
+13:57
+Og så har vi globalt minimum lig med nul, og den antages i x 9 med 3.
+
+14:16
+Og vi havde altså en situation, hvor altså den ene værdi vi ude efter den fandtes i et undtage tidspunkt, og den anden værdi fandtes i et Rahn punkt.
+
+14:32
+Se det vi så nu lige skal afklare. Det er spørgsmålet om.
+
+14:39
+Er der globalt maksimum og minimum? Ja, det var der her. Og det ville der som sagt altid være, når mængden den er afsluttet og begrænset.
+
+14:53
+Se hvis situationen nu i stedet for havde været den.
+
+15:00
+At intervallet havde været åbent. Såvel dette punkt ikke være med i vores regnestykke.
+
+15:13
+Og så har vi ikke haft nogen mindste værdi. Fordi denne funktion aldrig antager værdien nul.
+
+15:22
+Men den kommer lige så tæt på nul, som man kan forestille sig.
+
+15:27
+Så der vil altså ikke være et særligt sted, hvor den er mindst. Det vi kan sige med sikkerhed er altså, at hvis mængden er begrænset afsluttet,
+
+15:38
+jamen så er der med sikkerhed et globalt maksimum og et globalt minimum.
+
+15:44
+Så det var lige for at slå den ting fast. Se værdimængden.
+
+15:56
+For en funktion. Det er jo alle de tænkelige funktionens værdier, der findes, når vi gennemløber hele den mængde EM, hvor får vi betragter mængden.
+
+16:10
+Så nu har vi indtil videre kun sagt. At den betragtede mængde den er begrænset og at den er afsluttet.
+
+16:21
+Hvis vi nu indfører en tredje karakteristika.
+
+16:26
+Hvis vi siger F. Hvis F også er sammenhængende.
+
+16:46
+Så er værdimængden for EF lig med en som det afsluttede interval fra g minimum.
+
+17:01
+Til det maksimum. Sludder, hvis M.
+
+17:13
+Altså vi har en begrænset og afsluttet mængde M, hvis M også er sammenhængende.
+
+17:23
+Den er sammenhængende fordi. Vi kan altid tegne en linje i mellem to vilkårlige punkter i en så den mængde.
+
+17:36
+Den er altså sammenhængende, og så har vi altså her at værdimængden.
+
+17:48
+For f. Den sig at være intervallet fra nul og til 2.
+
+17:55
+Sådan. Har.
+
+18:15
+Vi kigger på eksempel to. Igen en funktion af en variabel X i fjerde minus 4 x i enden.
+
+18:29
+Plus 16 x. Og mængden M.
+
+18:39
+Den er så fra minus to til tre. Og vi vil bestemme.
+
+18:53
+G er max g giver minimum og.
+
+19:01
+Værdimængden for en. Og vi kører frem efter vores program.
+
+19:14
+Og skal altså spørge os Kan denne her funktion differentieres over alt i det indre af denne mængde?
+
+19:22
+Ja, det er katten. Så den har altså ikke nogen undtagelse punkter.
+
+19:42
+Og så skal vi finde de stationære punkter for funktionen.
+
+19:49
+Og vi differentierer. 4 x i tredje minus 8 x plus 16.
+
+20:02
+Den er lig med nul når X er lig med minus 1.
+
+20:12
+Eller ikke er lig med to. Og.
+
+20:20
+Der var altså to stationære punkter vi har brug for EHF's værdi i de to punkter.
+
+20:29
+Og den giver 11 hvis vi regner den ud og er Fatos.
+
+20:33
+Den giver 16. Og så på tre Rando undersøgelsen.
+
+20:49
+F a minus to. Den er 16 år f.
+
+20:57
+Tre. Den er 21.
+
+21:07
+Vi er igennem hele programmet, og vi har så fundet kandidaterne.
+
+21:17
+11 16 16. Eller minus.
+
+21:22
+Det skal være minus 11 her. Og så var det 21.
+
+21:34
+Og så har vi altså. Globalt minimum. I minus 11.
+
+21:45
+Som antages i ex lige med minus 1 og vi har globalt maksimum vi med.
+
+21:56
+21. Antages i.
+
+22:03
+Den. Exit med tre. Og da mængden også er sammenhængende, så kan vi så skrive at vi m f vi så være intervallet fra minus 11 til 21.
+
+22:31
+Så på den måde kan vi ved at følge dette program, så kan vi altså finde lokalt minimum og maksimum for.
+
+22:42
+Maj globalt maksimum og minimum for funktionen. Og okay, lad os lige kort kigge på.
+
+22:52
+Kør altså på grafen for funktionen.
+
+23:04
+Bemærk. Vi havde to stationære punkter, nemlig et sted hvor der var vandvej, det var der, hvor vi har vandrør tangent dér og dér.
+
+23:19
+Og det var altså her vi fandt vores globale minimum.
+
+23:26
+Her har vi ikke en gang lokalt maksimum eller minimum, fordi det er en vinde tanken.
+
+23:31
+Vi har her. Så det er jo vigtigt, at vi lægger mærke til at stationære punkter.
+
+23:37
+I stationer er punkter kan der være globalt maksimum niveau, men på ingen måde sikkert.
+
+23:43
+Og så havde vi altså her en maksimal værdi i et Rahn punkt i dette tilfælde.
+
+24:04
+Se, nu skal vi så tale om funktioner af to variable.
+
+24:28
+En. Og her er situationen er altså den samme.
+
+24:38
+Vi altså skal finde et globalt maksimum og globalt minimum.
+
+24:44
+Og. Et stationært punkt for en funktion af flere variable.
+
+24:53
+Minder om det her med at differentialkvotienten skulle være noget.
+
+25:00
+Men det kan så tilføjes, at. Her er det altså gratis, enten der skal være 0,0.
+
+25:10
+Det vil altså sige den partielt aflede det der skal være nul og den partielt afledte efter et y.
+
+25:16
+Den skal være lig med nul. Så har vi et stationært punkt. Og hvorfor nu det?
+
+25:26
+Hvad har? Hvad har de partielle afledede med dette at gøre?
+
+25:30
+Og her har jeg lige medbragt. Min globus.
+
+25:35
+Jeg kan ikke huske om vi har set den før her. Men lad os nu sige, at det øverste af denne her kugle, altså den øverste halvkugle.
+
+25:46
+Lad os sige det er grafen for en funktion af to variabel kan vi sagtens dele den op.
+
+25:54
+Og så skal vi finde største værdien. Hvor kan vi have den?
+
+26:01
+Det må være her. Her har vi den største sæt værdi. Og så lad os kigge på.
+
+26:10
+Tangent planen i det her punkt. Så vi lægger ned, og så er den selvfølgelig vanrøgt.
+
+26:19
+Så dér hvor vi har globalt maksimum. Der har vi så vanrøgt.
+
+26:26
+Tangent flag. Og så kigger vi på normale vægteren i det her punkt.
+
+26:34
+Så den må stå sådan her. Dvs. Normalt vægteren den er lodret.
+
+26:41
+Dér hvor vi har et globalt maksimum. Vugge.
+
+26:48
+Så lad os lige gå tilbage til vores første pause her.
+
+26:55
+Kom og så ser vi. Det var jo den form for normal vægteren til en tangent plan, som vi fandt dér før jul, og nu ser vi altså,
+
+27:06
+at hvis der er et globalt maksimum, og det samme gælder selvfølgelig, hvis vi tog to bundt punktet der hen.
+
+27:14
+Jamen så skal den være lodret. Det vil altså sige vi har altså kun set koordinaten lige med én.
+
+27:22
+Og så skal der stå nul på denne her plads og nul på denne plads.
+
+27:27
+Med andre ord ret i, at enten skal være 0,0, derfor det stationære punkt for en funktion af to eller flere variable.
+
+27:38
+Det er altså et punkt, hvor fra de enten er nul. Det er dog kun et nødvendigt undskyld.
+
+27:46
+Det er ikke et tilstrækkeligt kriterium, for vi kan godt have steder, hvor funktionen den er,
+
+27:56
+eller hvor vold hvor vi har gradient den lim mad 0,0, uden at der er for eksempel et låg, et lokalt maksimum eller minimum derinde.
+
+28:05
+Der kan være et særligt punkt. Det er også noget, vi vender tilbage til. Se, vi kigger nu på et eksempel med funktioner af to variable.
+
+28:40
+En. Vi betragter en funktion F.
+
+28:53
+Som er givet ved Excite anden Kluges Y i anden plus ex.
+
+29:03
+Og den mængde, hvorpå vi betragter dem. Det er punkt mængden af x komma y.
+
+29:13
+Hvor vigtig anden bluesy i anden er mindre end eller lig med fire.
+
+29:23
+Og vi vil gerne finde globalt maksimum og globalt minimum.
+
+29:29
+Lad os lige prøve at betragte hvad det er for en mængde vi taler om her.
+
+29:46
+Ja, det er jo en mængde i sygeplejen nu.
+
+30:00
+Nemlig den cirkel skibe som har centrum i 0,0 og som har radio står.
+
+30:08
+Og som I kan se. Den er jo. Begrænset.
+
+30:15
+Den er afsluttet. Og den er i øvrigt også sammenhængende, så vi har.
+
+30:21
+Vi har alle betingelser for at finde de ønskede punkter og værdier.
+
+30:39
+Og her har vi ingen undtagelse punkter, fordi F er differentiabel overalt.
+
+30:58
+Og så skal vi finde. Vi finde de stationære punkter.
+
+31:16
+Og det er altså dér hvor vi har at gradient den af F.
+
+31:27
+Er lig med 0,0. Så vi udregner gradient inden.
+
+31:45
+Og det vil sige at vi skal differentiere den partiel efter x og Y, altså blot en konstant.
+
+31:54
+Og så får vi altså 2 x plus 1 som første koordinat.
+
+32:02
+Og et to y som enden koordinat. Og lad os se hvornår er den lig med nul komma nul?
+
+32:26
+Og det er den når. I.
+
+32:39
+Jeg tror jeg ved af taktiske grunde ændrer. Regne for overskriften her en lille smule.
+
+32:49
+For at gøre den lidt mere pædagogisk, så får vi det nok her. Ex er lig med en halv og.
+
+33:02
+En have og og har man. Kunne lige så godt have været.
+
+33:10
+Jeg kunne vældig godt, lige så godt det taget i metroen, men vi har altså fundet et stationært punkt, og der var kun et.
+
+33:19
+Altså det stationære punkt der ligger dér og vi finder.
+
+33:28
+F er en halv købmand nul. Og den bliver så en fjerdedel og så er minus en halv.
+
+33:44
+Og den giver så minus en fjerdedel. Så er det.
+
+34:00
+Så nu har vi altså en kandidat til global maksimum minimum.
+
+34:04
+Men nu skal vi så lave Rando undersøgelsen, og nu bliver det jo lidt vanskeligere,
+
+34:10
+fordi nu er der nemlig tale om, at vi skal undersøge EHF's opførsel på farten, hvor den cirkel.
+
+34:25
+Altså vi skal undersøge. Restriktionerne.
+
+34:37
+Af F til retten. Og.
+
+34:57
+Og læg mærke til her. På randen har vi. Ja, hvad er renten her?
+
+35:07
+Hvordan kan vi karakterisere den? Selvfølgelig. Jeg må sige, at du nok ret.
+
+35:16
+Men hvis jeg nu bare ved at jeg kan se, hvad det ville være den helt oplagte metode.
+
+35:23
+Det er jo standard metoden, når vi skal undersøge EFS opførsel på restriktion til randen.
+
+35:32
+Så laver man standard parameter fremstillingen, som det blev sagt her i det her tilfælde.
+
+35:39
+Det første tilfælde jeg laver her, bruger jeg altså lige et trick.
+
+35:43
+Sådan så jeg kan undgå det du siger det. Men I har altså i senere eksempler, der viser sig set.
+
+35:50
+Der kører vi frem efter standard metoden, hvor vi alle parametre sikrer rammen.
+
+35:55
+Så er. Det jeg bemærker her, er renten.
+
+36:01
+Det er jo selve den cirkel, der ligger her, og der har vi så ikke ICSI anden pussy i anden er mindre end eller lig med fire.
+
+36:12
+Men vi har ikke set anden plus by i anden Lima.
+
+36:19
+4. Og det jeg undersøger er altså hvordan opfører EFS sig på randen?
+
+36:36
+Og det er kun i dette her særlige eksempel ligger også, hvor jeg kan sige Jeg vil ikke sige andet bluesy i hjernen.
+
+36:44
+Når jeg kun kigger F på randen, så er den jo fire.
+
+36:49
+Så det vil jeg kalde sig se. Se her at den er 4 minus ex.
+
+37:01
+Og det bliver interesserede i når vi undersøger EHF på randen.
+
+37:05
+Det er at få den på en form, hvor den bliver som en funktion af en variabel en variabel.
+
+37:12
+Det er jo metoder, som vi behandlede i de første to tilfælde her.
+
+37:17
+Og når vi så får gjort EHF til en funktion af en variabel, så har vi altså en metode til, hvordan vi kan gennemføre RANDO undersøgelsen.
+
+37:29
+Så det her er så en funktion af en variabel.
+
+37:36
+Og den kan vi for eksempel kalde for at give eks vild med.
+
+37:41
+F. Eks. Kommer Y Ali med fire minus ex.
+
+37:48
+For ex. Liggende i intervallet fra minus to og til 2.
+
+37:59
+Så her fra minus to og til 2. Kong.
+
+38:11
+Rønn undersøgelse funktion er en variabel. Nu skal vi begynde forfra.
+
+38:16
+Når vi nu kigger på det funktionens udtryk her ser så nu hellere at få tre et.
+
+38:25
+Den funktion her. Har ingen bud på om der.
+
+38:36
+Den har ingen stationære punkter. Så nu mangler vi bare at undersøge den på bankens front.
+
+38:55
+Hvor gammel sejren er. Minus to og det er to.
+
+39:01
+Så vi har altså give. Er minus to.
+
+39:08
+Den giver 6. Det er 2.
+
+39:15
+Den 4. 2. Så.
+
+39:24
+Der har vi altså nogle nye kandidater her. Så vi havde i det stationære punkt.
+
+39:32
+Der havde vi en kandidat. Og her har vi så to andre kandidater.
+
+39:40
+To og seks, og vi kan nu opskrive konklusionen.
+
+39:49
+Det minimum. Er lig med minus en fjerdedel.
+
+40:01
+Som antages i minus en halv komma en halv.
+
+40:08
+Og så har vi givet maksimum. Som nr.
+
+40:12
+6 den antages vi.
+
+40:19
+C. Der har vi så minus to, og det er ikke saksen.
+
+40:24
+Så vil jeg sige, det er i minus to par med nul.
+
+40:29
+Og så har vi værdimængden for EHF er så fordi mængden af sammenhængende.
+
+40:42
+Lige meget hvilke to punkter jeg tager. Det er altså en sammenhæng mængde, og vi har så at værdimængden er så fra minus en fjerdedel og til 6 sådan.
+
+40:59
+Så fik vi klarede den første opgave med funktioner af to variable inden vinterpausen.
+
+41:07
+Så har vi nogle hære som vil give jer en lille peptalk.
+
+41:21
+Få måneder om.
+
+41:25
+Da vi kommer fra må for at lære at værdsætte opstøve i starten, og vi kommer fordi, at vi til sommer får besøg af lidt over 500 mennesker.
+
+41:39
+Jeg har nation som højst sandsynlig arbejde på rustur, og det giver det sig selv,
+
+41:44
+at vi ikke kan tage af sted med 500 mennesker på kun 22 personer, som sidder i kraft lige nu.
+
+41:52
+Så derfor komme for opfordre alle til at overveje at gå med som glemsomme.
+
+41:59
+Jeg ved nok allesammen, hvad digteren har siddet i, når han sidder lige nu.
+
+42:05
+Jeg er kræft, og svin hygger sig ikke over min egen røv.
+
+42:14
+Svin har fælles design. Hvad hvis I er i tvivl om et eller andet?
+
+42:25
+Så det er i orden på et oplyst offentligt oplæg. Bliv klædt, så drop det på.
+
+42:30
+Jeg kan også fortælle mig, at jeg i kan læse mere om dem, der sidder i Kars.
+
+42:36
+Hvad det betyder, er nætterne, der kræver strøm forvandlet til et støvet sving, så det ikke kom til infomøde.
+
+42:44
+Det foregår i læsesalen præget af Suttung ideer på torsdag, livet klokken 12 og så helt pauver eller tirsdag den 14.
+
+42:53
+Hvor 17 15 er, så giver fornemmelsen af et værk noget kage, eller hvad der er sket.
+
+43:02
+Og der bliver masser af tid til at stille spørgsmål, som det har været. Tilfældet har været nogen selvfølge.
+
+43:07
+Ellers bliver værkstedet omtalt, og vinderen får et tilbud fra torsdag om 13 dage på en skærm,
+
+43:15
+og herefter vil vi holde samtaler med mentorer der Meltzer og udvælge vores hold.
+
+43:20
+Men vi opfordrer alle til at melde sig. Da vi gerne vil lave det næste stykke stof for den nye generation af relativt.
+
+43:31
+Ja, og hvis I tilfældigvis er i tredje spor efter ud af, så så mig og nikker rundt i alle fredagsbarer to gange.
+
+43:40
+Hvor er velkomne til at stille spørgsmålet eller tage fat i os? Se hvordan vi er med til at fange portugiserne, som vi har vist nok har sat os ind i.
+
+43:47
+Festen er opdraget til at spille for at have noget som helst afbræk for alvor.
+
+43:55
+Der er nogle spørgsmål til os i vejen eller sammen længere.
+
+44:00
+Ellers har jeg en lille tilføjelse. Hvis I malerier som vektorer, ja, så skal vi kræve at blive godt igen begge to år.
+
+44:09
+Så kan. Jeg kan heller ikke være at der går.

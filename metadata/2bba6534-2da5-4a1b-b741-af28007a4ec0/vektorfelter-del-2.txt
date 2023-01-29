@@ -1,0 +1,665 @@
+0:00
+Vi skal jo snakke om flower og specielt flow over i første grads fik felter og flowerpower.
+
+0:12
+Det er der en anden type af oprindelse end stamme funktioner, de er, og det vender jeg tilbage til.
+
+0:20
+Men husk, det er to forskellige former for oprindelser. Det ene var det at finde en funktion, sådan at gradient funktion var lig med vektor feltet.
+
+0:28
+Nu skal vi tale om integral over forhastede felter.
+
+0:33
+Men først skal vi lige have indført første ordens væg, så finder.
+
+0:44
+Altså et første ordens felt. Og jeg giver simpelthen et eksempel.
+
+0:56
+Altså har jeg et væk så fælt ved at eksformand y kommercielt,
+
+1:03
+som er givet ved 3 x minus y plus z plus en 2 x plus y loose set just 2 og x minus y plus 3 cm minus 1.
+
+1:21
+Så er det et første grads felt. Og I kan se det består udelukkende af nogle.
+
+1:31
+Første grads udtryk i X, Y og Z. Og så er der lagt en konstant til.
+
+1:36
+Det kunne også være nul. Men altså dette her er den type X og Y og Z med nogle reelle koefficienter og så lagt en konstant til.
+
+1:46
+Det er først når den felt. Og alle forstår dens felter.
+
+1:51
+De kan skrives på matrix form.
+
+2:04
+Altså sådan at væg feltet. Det er en Matrix A.
+
+2:13
+Gange vektoren bestående af de ubekendte.
+
+2:19
+Og så plus en konstant vægter. Og altså i eksemplet.
+
+2:28
+Der har vi så v x, y z selvfølgelig lig med tre.
+
+2:37
+Minus 1 1 2 1, 1 1.
+
+2:43
+Vi er nu 1 3 og så ganget med ubekendte vektoren og plus en konstant vektor, som hedder 1 2 og minus 1.
+
+2:57
+I det eksempel jeg har valgt her. Det siger jeg bare sådan lige en passant.
+
+3:05
+Det får vi brug for senere. Så punkt 2 i det jeg vil sige.
+
+3:13
+Hvad har vi jo set før, hvordan vi kommer? Fra en parameter kurve.
+
+3:28
+Til hastigheds vektorer. Det har vi haft anledning til at snakke om flere gange.
+
+3:45
+Vi har altså ikke syv sæt koordinatsystemet. Og så har vi altså en parameter kurve givet her.
+
+3:59
+Og så har vi jo set, at hvis vi da kan se en bestemt sted væk, så er alting.
+
+4:10
+Hvis vi ud fra den. Afsætter differentialkvotienten af, er i IT og afsætter den her.
+
+4:22
+Så ville vi få en tang gemt væk, så. Og dermed får vi vist hastigheden ensretning i punktet R-rating.
+
+4:36
+Og ikke nok med det vi har også set, at længden af den her.
+
+4:41
+Lige præcis angiver farten i dette punkt.
+
+4:46
+Så alt i alt, så kalder vi dette for en hastighed svigter.
+
+4:52
+Den viser både have bevægelsens retning og fart dens størrelse.
+
+5:00
+Så på den måde når jeg har en parameter kurve.
+
+5:06
+Så har jeg altså så at sige altså defineret en masse hastigheds vektorer ud fra den kurve jeg har givet her.
+
+5:24
+Og hermed kommer vi så frem til følgende centrale problemstilling.
+
+5:37
+Nu gælder der nemlig det omvendte kamp.
+
+5:43
+Givet et første år den svigtede fælt vil.
+
+5:49
+Og pung død. X0 kommer ind i 0,60.
+
+6:02
+Så er spørgsmålet Kan vi bestemme?
+
+6:10
+Det parameter kurve. Er Athen.
+
+6:22
+Som opfylder. At R er 0, den er det givende punkt.
+
+6:37
+År. At i ethvert punkt.
+
+6:46
+For Cohen da angiver vægt topfeltet hastighed vektoren.
+
+6:53
+Det vil altså sige at hastigheds vektoren i et hvert punkt er defineret som vægter feltets værdi.
+
+7:04
+I det givne punkt. Altså sådan at hvis vi nu for eksempel går hen og kigger på den situation her, så skulle der altså være givet et vægtet felt ved.
+
+7:23
+Altså i det her rum med en hel masse vektorer, hvordan de nu ser ud.
+
+7:29
+Men altså sådan, at hvis vi tegner den lige præcis i dette punkt, der hedder, er Athen, så skal vi altså få at hastigheds vektoren.
+
+7:40
+Den er givet ved vægtere feltets værdi i dette punkt, så det er den problemstilling, vi er ude på at opsøge nu.
+
+7:56
+Og. Lad os lige lavet lidt animation her.
+
+8:19
+I kan se. Det her er en lille geometri animation, hvor der i et gritt altså er tegnet det vægtede felt, som er angivet dér oppe i venstre hjørne.
+
+8:36
+Vi kan altså se, det er et første ordens vægtede felt i vækstplanen.
+
+8:43
+Og væk fra feltet. De er bestemt af. At de punkter som.
+
+8:50
+Så her bed center. På nogle af de punkter der så ændrer væg topfeltet sig, så jeg kan altså ændre det der ikke tilfældigt, som jeg vil.
+
+9:04
+Og. Så er der altså inden jeg kan gå i gang.
+
+9:10
+Så viser det sig at det er en egenværdi problemstilling i forhold til det system matrix der står op, som jeg skal have på plads.
+
+9:19
+Vi lavede lidt øvelser på gio meter dér i efteråret med egenværdier, egen vektorer, og det er jo et eller andet med at.
+
+9:27
+Vi finder egenværdi ind ved at den oprindelige vægter skal være parallel med billede vægteren.
+
+9:36
+Så vil jeg sige, at her har jeg så mine ved ét væk, så den skal være matricen gange, eller den skal være parallelt med den væk.
+
+9:44
+Så det er dér. Så dér har jeg løst en egenværdi problemstilling, og så skal vi også lige have den anden parallel med billedet lektoren.
+
+9:58
+Det har jeg opnået nu. Eller det havde jeg.
+
+10:08
+Den er lidt bilede tung. Her kan man. Så. Og så har jeg et eller andet startpunkt, da jeg her.
+
+10:18
+Se. Sådan. Og så er jeg altså problemstilling.
+
+10:25
+Vi har det vigtige felt hvide overalt i planen der, og vi lægger altså et punkt ind i dette vigtige felt.
+
+10:34
+Og så vil vi altså have en cure, en bane court, sådan at når partiklen går igennem startpunktet dér,
+
+10:42
+så skal vi altså have det til tiden tillige med nul.
+
+10:46
+Og så skal det altså være sådan, at de dér vektorer der de hele tiden viser bevægelsens retning og dens hastighed.
+
+10:55
+Og der kan vi se tids parameteren. Den har vi hernede. Så nu lader vi tiden gå.
+
+11:03
+Nu er den nål så vi i startpunktet. Og så kan I se sig pryd for bryllup ned langsmed, langs med feltet dér.
+
+11:14
+Eller hvis vi nu. To startfelt en.
+
+11:20
+Trækker tiden tilbage. Se, så kommer den op og går igennem startpunktet dér.
+
+11:29
+Så vi har altså ved at løse en egenværdi. Problemstilling har vi fundet ud af.
+
+11:34
+Til hvert punkt, hvordan vi kan bestemme parameter kurven, der går igennem dér, og som altså har den rigtige hastighed og rigtige retning.
+
+11:44
+Så det er det vi nu skal kigge lidt nærmere på og.
+
+11:59
+Og vi starter med. Se vi starter med et eksempel fra rummet.
+
+12:18
+Altså. De øvrige vægter feltet eksformand Y kommercielt som f eks.
+
+12:29
+2. Y og tre sæt. Og så har vi givet punktet en kommer, en kommer i.
+
+12:44
+Og så skal vi altså finde er. Således at vægteren feltet her, og det er hastigheds vektorerne for alvor, og den skal gå igennem det punkt.
+
+13:01
+Så er det vi skal, det er fint. Er.
+
+13:07
+Så er mærke at se er lig med V er, R er rt og R er nul.
+
+13:18
+Denne information kommer i. Og så er mærke at se det er jo det samme som at vi differentierer hver koordinat vektor fra sig.
+
+13:38
+Så den skal altså være lig med. Ved et taget i.
+
+13:50
+Jeg er lige i gang. Hvad var det vi sagde, at den skulle være lig med?
+
+13:57
+Ekstra til. Og to byer to og tre byer til.
+
+14:09
+Så det er simpelt hen denne her problemstilling, at vi skal have løst. Og som jeg ser det, er tre differentialligninger, der er opstået her.
+
+14:20
+Ja, rigtigt. Så den der.
+
+14:26
+Så den var væk så feltet altså gide. Og nu har vi altså parameter friseret de tre koordinater i X, fordi det er jo præcis det, vi skal gøre.
+
+14:39
+Og så kan I jo altså se løsningen.
+
+14:47
+Vi tager først den fuldstændige løsning til til et differentialligning systemet, som jo er meget nemt, fordi de her ligninger de ikke er, koblede.
+
+14:58
+Vi kan jo bare tage dem hver for sig, så vi får altså er ting.
+
+15:08
+Bygger T sætter t. Og det skal jo så som I ved hver en konstant.
+
+15:22
+Gange. Se. En gang it.
+
+15:27
+En anden konstant set 2 i 1, 2 og 10.
+
+15:32
+Hvor to tallet så kommer her fra konstanten og til sidst set tre.
+
+15:39
+I de tre ting. Og der er er nul, da den så er lig med at se et.
+
+15:57
+Altså indsætter vi noget her. Så bliver alle eksponentielle funktionerne her de bliver til en.
+
+16:06
+Så er nul den er simpelt hen. Se et c2 c3.
+
+16:16
+Og den havde vi jo sagt at den skulle være. Ind kommer en kommer ind og hermed.
+
+16:25
+Løsningen. Med begyndelse betingelsen.
+
+16:35
+Der har vi så at den er så er at er inde til komma i to ting komma ét i tre ting.
+
+16:47
+Så hermed har jeg altså fundet den romkugler. Sammen går igennem dette punkt.
+
+16:56
+Og som i ethvert punkt har sin sin hastede, svigter vi med det givne vigtigere felt, så det er altså en anden form for oprindelser her.
+
+17:07
+Det er en anden form for stamfar Utzons bestemmelse, som jeg har lavet her, end den vi snakkede om altså før pausen.
+
+17:13
+Så bemærk lige det. C.
+
+17:25
+Vi skal have nogle flere eksemplarer. Og jeg har et par eksempler fra planen.
+
+17:46
+Nemlig dette vigtige felt her, som vi allerede har været inde på, da vi tegnede det her.
+
+17:56
+Så den problemstilling vi altså nu stiller os, er, at.
+
+18:03
+I et givet punkt, da vil vi altså gerne finde den indtil gravet kurve, hedder det.
+
+18:10
+Eller flow kurve som går igennem det punkt, og som altså har den type af hastighed sektorer, som vi har tegnet dér på tavlen.
+
+18:22
+Så. Vi har altså så at hastigheds vektoren.
+
+18:33
+Så skal være lig med. Som vi gør som vi kalder for ex mærke er over by, mærker jeg ting.
+
+18:45
+Den skal så være lig med minus y rt t over x er ting.
+
+18:57
+Så hermed er der opstået igen et differentialligning system, men forskellen.
+
+19:06
+Fra det første jeg kiggede på her. Det var, at her opstod da et differentialligning system som bare up koblet.
+
+19:16
+Men i det tilfælde som vi er nået frem til her, så er det jo et system af to koblede ligninger,
+
+19:25
+fordi vi har så ex mærke til, at tingene skal være aminosyrer. Også lagt mærke til.
+
+19:30
+Skal vi lege med exciting så? Så her er problemstillingen lidt mere kompliceret, og lad os lige på og kigge her igen.
+
+20:10
+Og vi skal lige have jer med. Har.
+
+20:18
+Så det differentialligning system som det her vægtere felt altså gav anledning til.
+
+20:25
+Det er de to differentialligninger, jeg har opskrevet her og da jeg står med det samme prøve at løse dette system.
+
+20:36
+Ved hjælp af Mabels disse. Og I kan altså se det jeg fik ud her.
+
+20:56
+Det var så det, vi kalder den fuldstændige løsning på differentialligning systemet, der betyder, at vi har to frie parametre i løsningen.
+
+21:11
+Og hvis vi. Nu siger jeg, men så det jeg var interesseret i, det var altså netop den løsning for.
+
+21:23
+Lad os sige at R er noget.
+
+21:30
+Den skal være 1,1. Så kan jeg jo bare her med de solgte.
+
+21:37
+Der kan jeg jo bare gå ind, og så kan jeg altså her skrive, at eks.
+
+21:43
+Der er nul. Skal være lig med en.
+
+21:50
+Og at by 0.
+
+21:56
+Også er valgt til at være lig med en.
+
+22:03
+Og så får vi altså den ganske bestemte løsning, som står dér, mener Signe set på skolens til det første koordinaten for bane kurven.
+
+22:15
+Og så kostede sten på, siger Juste. Det er den anden.
+
+22:19
+For ved banegården. Men nu kunne jeg da godt tænke mig, at vi lige prøver og gå et skridt videre.
+
+22:30
+Så nu ved jeg altså noget om at ingen kom ind, altså den kode der går igennem det punkt dér.
+
+22:37
+Det er den, jeg har fundet. Den, der går igennem en kur, der for eksempel har den, der hastede, svigter, men et vilkårligt punkt x 0,70.
+
+22:51
+Og så kan jeg jo bare gå her op, og så kan jeg skrive her i stedet for en.
+
+22:57
+Der er betingelsen at holde sig til tiden. X x.
+
+23:04
+Altså til tiden 1. Der får vi altså x0.
+
+23:11
+Og her siden Y 0. Og så får jeg det udtryk der står her.
+
+23:28
+Så kan jeg måske lige se. Så det vil altså sige at vi har altså løsningen.
+
+23:38
+For ikke så til at få Yr til, og nu prøver vi så lige at sige eks t i anden plus y t i anden.
+
+23:53
+Så får vi i nordlige anden flod sinus hjernen.
+
+23:58
+X0 i anden PlusCON slås, og så får vi minus to i nul 6 0 og så her, for så får vi også sliddet i nul hjerne,
+
+24:09
+cosinus hjerne, en snorlige anden, gåsen og den her plus det dobbelte produkt og det, der kommer ud.
+
+24:16
+Det er simpelt hen ex. Noget i anden Grand cosinus TT og.
+
+24:26
+Plus byen nul plus en snorlige anden sinus i anden til ting.
+
+24:34
+Og så får vi by 0 i anden FoxNews, ja TT og plus y nul i anden til sinus i anden TT når vi altså regner dette ud og det giver så lige præcis x0.
+
+24:54
+I anden plus 9 0 i anden. Og.
+
+25:00
+Så for et for denne her bane kurve, da gælder der så at det vil sige tak for drabet på den.
+
+25:08
+Så får vi hele tiden det udtryk der står her, og kort sagt, så betyder det, at den bane kurve der går igennem her.
+
+25:17
+Ikke overraskende er en cirkel her, som har radius.
+
+25:23
+Fra af x0 i anden pussy nul i anden.
+
+25:27
+Og det er selvfølgelig et roterende felt. Og altså banegården.
+
+25:32
+Det må være en cirkel. Det kunne vi næsten have set geometrisk før.
+
+25:36
+Men lad os nu kigge på et lidt mere kompliceret eksempel, hvor vi.
+
+25:49
+Hvor vi nu kigger på eksemplet ved hvor vi har et vægttab, følte F ved at eksformand by.
+
+26:00
+Den er 7 x minus 10 Y og 5 x minus 8 y.
+
+26:22
+Og nu vil vi altså igen gerne finde banegårdene, og det vil altså sige,
+
+26:28
+at vi får så et differentialligning system der hedder ex mærke RT og y mærke, at T.
+
+26:43
+De skal altså være lig med. Og nu skriver vi den så op på matrix form.
+
+26:53
+7 minus 10, 5 og minus 8.
+
+27:03
+Og så funktionerne Ekstra T og Øyer til. Så for at løse det her bane kunne bruge dette parameter kurve et problem,
+
+27:14
+så har vi altså det her differentialligning system i den lineære første ordens differentialligning system med konstante koefficienter,
+
+27:23
+som vi arbejdede med i uge 9 i efteråret. Og da kan I måske huske, at da kaldte vi den matrix, der står her.
+
+27:35
+Den kaldte vi for system matricen. Og det drejede sig om det var så at finde.
+
+27:44
+Egne værdierne og egne vektorerne for den matrix vi har stående her.
+
+27:52
+Og. Der har jeg så a hard to reelle egenværdier.
+
+28:07
+Nemlig 2 og minus tre. Og egne rummet der hørte til den første.
+
+28:23
+Til den svarer da en egenvægt der hedder 2,1. Og egne rummet der hører til egenværdi 1.
+
+28:33
+Minus 3. Den er udspændt af vægteren, der hedder en command.
+
+28:46
+Og så kan den fuldstændige løsning. Dengang så opskrives ved, og nu har vi altså her.
+
+29:05
+Vi er ude efter parameter fremstillingen for min bane.
+
+29:11
+Kurver er rt. Og den er så en vilkårlig konstant.
+
+29:18
+Eksponentielle funktionen opløftet til den første egenværdi. Og så gange med den første egenvægt så.
+
+29:29
+Pludselig en anden vilkårlig konstant. Som er i minus tre ting, nemlig den anden egenværdi ganget med 10.
+
+29:40
+Og sammen med den tilhørende egenvægt, så her en komma.
+
+30:00
+Og nu vil jeg gerne finde den løsning der svarer til at tælle tiden nogle.
+
+30:19
+Der løser vi dem altså helt generelt.
+
+30:25
+Ud fra at vi gerne vil. Altså kunne udtrykke parameter fremstillingen for denne her for et værre begyndelse.
+
+30:35
+Punkt x0 kommer i nul, altså to konstanter er det jeg har skrevet op her, så nu kan I så huske, at så skal jeg.
+
+30:46
+Så skal jeg nu indsætte nul. I dette udtryk, og så får vi altså set et.
+
+31:07
+Og så får vi i noget. Den giver jo bare ét, og så får vi altså to ind.
+
+31:15
+Hør også om plus at se to og så én komme af en.
+
+31:22
+Det er det jeg skal altså være lig med x nå et x nul komma ny nul.
+
+31:32
+De ubekendte er så at sige ét og c2, så jeg får altså her en total matrix på 2 1 1 1.
+
+31:46
+Og så højresiden her ved 0 6 x0 og y 0.
+
+31:52
+Så nu skal jeg have løst det, altså denne her.
+
+31:57
+Det her lineære ligninger system for at finde begyndelsen, betingelsen for at sætte dem ind på ét og to slags, så det gør vi os lige på midten.
+
+32:07
+Her. Så nu kan I se.
+
+32:30
+Det var så den der skulle have været en tur der skulle der sådan set stå i total matrix.
+
+32:36
+Det er det, jeg mener. Og det har jeg altså løst. Det vil altså sige mit se et.
+
+32:42
+Altså det der skal stå op i min løsning her. Det er tal, der står dér.
+
+32:46
+Det er nu givet ud for at begynde tidspunktet på den måde, der står dér og dér har jeg mit set 2.
+
+32:54
+Så nu gør jeg bare det, at jeg har min ex the funktion og min by the funktion,
+
+33:01
+og hvor jeg bare sætter de at se ét og se to en, som jeg har fundet her.
+
+33:06
+Så får jeg altså her parameter fremstilling for bane kurven givet for et værre x0 company nul, som vi har valgt som begyndelse sport.
+
+33:21
+Den. Så dér har vi altså løsningen.
+
+33:26
+Det er banegården. Skal vi se her.
+
+33:45
+Ja, det var sådan set da lige en sidste pointe jeg skal.
+
+33:50
+Jeg skal fortælle jer her. Jeg har for et hvert x0 company, noget der har jeg så fundet ud af.
+
+34:06
+Den bane kurv, der går igennem punktet her. Lad os sige at jeg her har mit x nul komma y nul.
+
+34:16
+Det vil altså sige at jeg kan finde ud af hvordan er flow kurven for det her punkt, der ligger her?
+
+34:24
+Men i og med at jeg altså både har en parameter det hedder eks nul og y nul.
+
+34:33
+Så er jeg ude efter blot ikke kun en bane kurve.
+
+34:38
+Men hvis jeg nu skriver her, at.
+
+34:43
+By 0. Skal være lig med 6 0 i anden, hvis jeg indskriver det her i min parameter kurve.
+
+34:52
+Her, så vil jeg så sige, at nu betragter jeg f.eks.
+
+34:56
+Fra x0 leg med min nu scenen til en.
+
+35:03
+Så betragter jeg simpelt hen den parabel der ligger her.
+
+35:10
+Og så siger jeg Cave parabel. Respektere det givne vægtere felt her.
+
+35:17
+Og nu skal hvert eneste punkt hér flyde med vækster feltet, sådan at det passer med vægter feltets hastighed scorer.
+
+35:27
+Så vil denne her altså begynder at flyde med vægt og feltet.
+
+35:32
+Og det vil jeg nu gøre som I kan se dér hvor kyshånd den står der,
+
+35:40
+siger jeg går op og substituere byen noget lige med x0 i anden i parameter fremstillings, første kort mad og bagefter det samme i anden koordinaten.
+
+35:57
+Og så kigger vi lige på. Hvor er den så hende til tillige med nul?
+
+36:05
+Ja, til tillige med noget der har den jo ikke flyttet sig. Der er ikke gået noget nogen tid, men så kan vi jo prøve og lade tiden gå.
+
+36:20
+Vi prøver lidt forsigtigt. Altså nu er der gået en hundrededel sekund.
+
+36:27
+Og så gør det. Nu begynder der at ske noget. Den har flyttet sig.
+
+36:36
+Vi kører længere op. Så ligger den der.
+
+36:46
+Vi kan gå op til en tiendedel sekund. Så ligger den der.
+
+36:55
+Så der sker altså åbenbart en formering her i punktet, noget der ligger den fast.
+
+37:03
+Da er hastigheds vektoren, den er nul, men resten er kuren.
+
+37:07
+Den begynder at vride sig med det givne værktøj, felt og flyder, som er feltet.
+
+37:14
+Og det er det jeg vil anbefale jer i dag. Flyet med feltet igennem alle opgaverne til øvelserne.
+
+37:20
+Tak for det.

@@ -1,0 +1,1148 @@
+0:05
+Skal ansigtet nedad sig selv, når det regner, så jeg går morgen og velkommen tilbage fra efterårsferien.
+
+0:14
+Jeg håber I har slappet rigtigt godt af og er kommet tidligt i seng i aftes, fordi nu begynder det for alvor.
+
+0:24
+I dag starter vi på lineær algebra, og vi skal snakke om generelle vektorrum.
+
+0:31
+Det er en abstrakt teori. Heldigvis har vi øvet os inden ferien, hvor vi har snakket om vektorer i planen og rummet,
+
+0:41
+og derfor tror jeg ikke, at det vil være så svært for jer at følge med i det overordnede.
+
+0:47
+Men der er selvfølgelig en masse teknik, som vi skal have på plads.
+
+0:52
+Nye ideer. Også i dag, så vi må hellere komme i gang.
+
+0:57
+Så vi skal lige se på, hvad et vektorrum er. Og så sige lad os starte sådan her.
+
+1:04
+Lavet vil være en mængde og med addition og multiplikation med tal og tal.
+
+1:28
+Det kalder vi også sommetider for skalar. Så kalder vi A et vektor eller V kalder vi V i et vektorrum.
+
+1:48
+Hvis V er stabile og opfylder.
+
+2:01
+Og nu skal jeg så lige have skrevet otte regler. Den første.
+
+2:07
+Den kommutativ regel at A plus B er lig med B plus aa.
+
+2:15
+Den associative regel der siger at A og plus b plus C er lig med A og plus B plus c tre.
+
+2:33
+At A og plus nul er lig med a fire at at A plus minus AA er lig med nul vektoren.
+
+2:49
+Så jeg fyrer dem lige a. Så snakker vi om den om lidt. Det var det.
+
+2:53
+Det var de første fire. Og så tager vi Fehmarn.
+
+2:58
+Det er på et par gange med kort, to gange en vektor a den er lig med K et gange.
+
+3:08
+Couto f. Og vi har at K et plus på 2 er a er lig med K i et f, a plus k to af.
+
+3:23
+Og så har vi at en konstant gange med en sum af to vektorer er lig med konstanten er den ene plus konstanten da den anden,
+
+3:36
+og så endelig at 1 gange med a er lig med A, og det var 6, 7 og 8.
+
+3:48
+Så er det. Så nu tager vi det lidt langsommere.
+
+3:56
+Går også. Vi skal altså have noget der hedder addition, og vi skal have multiplikation med tal, og hvis den skal være stabil.
+
+4:05
+Det vender vi tilbage til, og så skal den opfylde de her første fire regler, som vi har skrevet her.
+
+4:12
+I har set dem før. Og så skal den opfylde de sidste fire regler her.
+
+4:19
+C. Hvad kan vi specielt læg mærke til? Lad os lige kigge på treeren her.
+
+4:25
+I kan se der står A Kluges nul vektoren er lig med A, og det skal vi læse på den måde,
+
+4:31
+at der findes altså en vektor eller skal findes en vektor, som er neutral med hensyn til multiplikation.
+
+4:40
+Og så har de altså noget der hedder den modsatte væg, så vi sparer en vægt,
+
+4:45
+så så skal vi også have en modsat vector, hvor summen giver nul vektoren og de første tre.
+
+4:52
+Her er ikke så vigtige, men altså her lige den ottende.
+
+4:57
+Her er tallet et er neutralt med hensyn til multiplikation med tal.
+
+5:05
+Så hvad mangler vi nu? Nu mangler lige at forklare. Hvad mener vi egentlig med stabile?
+
+5:12
+Så den tager vi lige nu. Vi siger, vi kigger på to vektorer u og vi, som ligger i vægt til rummet og et tal K.
+
+5:33
+Og så V er stabilt pris.
+
+5:40
+Dvs. At summen af ur vi dem også tilhører ved og en konstant ganget med U eller den konstant vi har valgt ganget med u den også tilhører vi.
+
+6:04
+Og det er altså stabil vi her har fået indført, og læg lige mærke til, hvad det her egentlig betyder.
+
+6:11
+Det betyder, at hvis vi tager to fyre fra dette vektorrum, ligger dem sammen.
+
+6:18
+Så får vi. Altså et nyt objekt af samme type, som også er en vægtere, og den ligger i V og lærerstand.
+
+6:28
+Altså hvis vi tager en konstant og ganger med ud, så får vi igen en vektor og den vægt, så den ligger i V.
+
+6:37
+Så det er derfor, det hedder stabilt. Det gør ikke noget, at I bruger de to operationer, der er tilladt her.
+
+6:44
+Når I bruger dem, så får I stadigvæk noget, der ligger i væg til rummet.
+
+6:48
+Og det er derfor, man kalder det for stabilt. Se, nu kan vi indføre flere definitioner.
+
+6:59
+Vi kan bevise sætninger, vi kan udvikle en kæmpe teori, og det sjove ved det her er,
+
+7:07
+at vi kaldes udvikle en teori, uden at vi ved noget som helst andet om den mængde.
+
+7:14
+Her stopper det i mængder, så vi er så ulige, som vi udvikler en teori omkring en mængde, vi ikke ved noget om.
+
+7:22
+Hvis man så bagefter kan påvise, at man rent faktisk kender nogle faktiske mængder, som opfylder de to,
+
+7:33
+altså af de ting, vi har skrevet op her, så betyder det, at de sætninger, vi har bevist, gælder for den mængde.
+
+7:41
+Og hvis der er mange mængder. Så man kan sige om de opfylder faktisk de ting her.
+
+7:48
+Så har vi bevist de sætninger for alle de forskellige mængder. Og det er det, der bliver kaldt for en aktion med etisk teori.
+
+7:55
+Det her er aksiomerne, og så kan vi altså udvikle teorien på baggrund af det.
+
+8:01
+Og bagefter så spørger vi så hvem? Altså hvad gælder det egentlig for?
+
+8:06
+Og så har vi bevist en gang for alle en masse sætninger, der handler om underrum, lineært uafhængighed, basis, korte nadver osv.
+
+8:18
+Så det er det, der er den store idé i dag og.
+
+8:22
+Men. Jeg syntes ikke at vi skal strække spændingen for for længe.
+
+8:29
+Så nu vil jeg allerede med du sammen giver nogle eksempler på noget, som er vektorrum og.
+
+8:52
+Og ja, så er mit første eksempel er vektorer i planen, der skulle liedecke.
+
+9:08
+Har vi lært at lægge vektorer sammen. Parallelogram metoden.
+
+9:12
+For eksempel har vi lært at gange dem med en tal. Den skulle bare være længere gal.
+
+9:19
+De otte regler her? Ja, det gjorde det.
+
+9:24
+18 stabile. Hvis vi lægger to plan vektorer sammen, får vi så igen en ny ja, hvis tilgangen får vi så nyt værktøj i bane?
+
+9:32
+Ja, så det her er altså et vægttab?
+
+9:37
+Heldigvis. Det samme med vektorer i rummet.
+
+9:47
+Punkt tre tallet rummene. Som vi også kommer til at snakke meget om, og det her er bare sådan lige i dag.
+
+10:00
+En første omgang ikke være tilråbene. Ja, da starter vi med det reelle tal.
+
+10:07
+Så har vi det der hedder er to. Det betyder mængden af tal et par.
+
+10:18
+R 3. Det betyder at mængden af sæt er tal, der indeholder tre elementer.
+
+10:26
+3 reelle tælling. Er 4.
+
+10:32
+Det er mængden af tal der indeholder fire elementer. Dem kan man også lægge sammen, og hvis man lægger dem sammen, passer koordinat bedst.
+
+10:42
+Så kan vi meget nemt vise, at de opfylder alle de regler, der står her.
+
+10:47
+Så der er også typer elementære typer af vektorrum.
+
+10:52
+4. Matrix rum.
+
+11:05
+Og I kan huske dem, plejer vi at skrive sådan her. Kryds en.
+
+11:14
+Og kan I huske havde vi, kunne vi lægge to matricer sammen?
+
+11:19
+Ja, hvis bare de var af samme type som f.eks. Er 2 rækker og tre søjler.
+
+11:26
+De udgør et vektorrum. High end overjeg eller PM er det at polynomier.
+
+11:43
+Af grad højst en. Det kommer vi til at snakke mere om nu nævner jeg det bare lige her grænser den op igen, dvs.
+
+12:00
+Mængden af anden grads polynomier. Vi kan også sige, at mængden af polynomier, hvis grad er højest.
+
+12:06
+2. Det er et vektorrum. Tager 6eren.
+
+12:18
+At tøjet skal herover. 6 om dette.
+
+12:28
+Det betyder mængden af alle reelle polynomier. Det er også vektorrum.
+
+12:47
+Det her er så mængden af alle komplekse polynomier er også et vektorrum.
+
+12:57
+Hvis vi lægger 2. Angrebsspillet mere sammen med komplekse koefficienter, så får I igen et nyt.
+
+13:07
+Et nyt angrebsspil, linoleum, og hvis vi ganger det med en konstant,
+
+13:11
+så er det igen et nyt angrebsspil, og det vil opfylde de otte regler der hende og vi går lige videre.
+
+13:19
+Mængden af kontinuerte funktioner. Som man skriver sådan her.
+
+13:27
+Det der betyder alle kontinuerte funktioner. 9.
+
+13:40
+C. 1. Er det her?
+
+13:44
+Det er alle de France chebbah reelle funktioner. 10.
+
+13:57
+C. Uendelig er det er alle glatte funktioner.
+
+14:12
+Og altså de er glatte, det vil bare sige, at de kan differentieres uendeligt mange gange.
+
+14:20
+Så nu har jeg allerede givet jer ti eksempler på meget forskellige mængder, som viser sig, hvis vi studerer dem nærmere.
+
+14:31
+At de opfylder de otte regler her, og at de er stabile med hensyn til addition og til multiplikation med tal, så.
+
+14:47
+Så er det bare en lille forskel imellem de første fem og de sidste fem.
+
+14:54
+Se at dem jeg har skrevet her til venstre.
+
+14:59
+De er endeligt dimensionale. Det.
+
+15:13
+Mens dem jeg har skrevet her. De er uendeligt dimensionale.
+
+15:30
+Og det giver altså en vis forskel på den måde de kommer til at behandle den type af mængder på.
+
+15:38
+Og den type af medier på det her.
+
+15:42
+Dem og dem kan vi behandle med Matrix' metoder, og der kommer en masse eksempler på, at vi bruger matricer på at arbejde med den type af vektorrum.
+
+15:50
+Her. Det er også meget, meget interessante mængder.
+
+15:56
+Vi kan bare ikke bruge Matrix metoder, så må vi gøre noget andet, og det bliver ikke i dag, altså i dag.
+
+16:02
+Da skulle vi gerne. Kom til at snakke om de fem mængder her, og derfor vil jeg sidde i forelæsningen, da vi se, at jeg vælger hen ad vejen.
+
+16:16
+Forskellige typer får I lige som kan se, at vi sætter alle dem her i spil.
+
+16:22
+Disse typer af vektorrum med de eksempler, vi arbejder med.
+
+16:28
+Nu har jeg set en AK somatisk teori, og nu har jeg allerede fået eksempler på, hvilke mængder som omfattes af den teori, vi er i gang med at udvikle.
+
+16:39
+Vi behøver kun at udvikle teorien en gang, så gælder det for alle de.
+
+16:44
+Altså hvis den med matrix metoder. Alle disse fem rum og mange flere end dem så nu vil i gang.
+
+16:53
+Og noget som vi kommer til at arbejde meget med.
+
+17:00
+Det er så det, der hedder underrum, så det er mit næste input.
+
+17:09
+Og når vi snakker om et underrum, så forudsætter vi, at vi i forvejen kigger på et vektorrum, så vi kan se en delmængde ud af et væg til rum ved.
+
+17:39
+Kaldes et underrum i Eve, hvis uuuh i sig selv er et vektorrum, så det var definitionen på et underrum så.
+
+18:14
+Så vi er altså hør her. Vi har et vektorrum V, og vi betragter en delmængde af de vektorer der i lige eng, og så spørger vi os selv.
+
+18:29
+18 stabile. Det vil sige hvis vi laver et eller andet med vektorer i det underrum bliver ord vi så i det underrum.
+
+18:37
+Og så skal den opfylde disse otte egenskaber. Hvis den gør det, så er det et vektorrum.
+
+18:45
+Men hov. Køn er de otte egenskaber.
+
+18:49
+Har underrum ned jo i forvejen. Så prøv lige at lægge mærke til, når vi arbejder med underrum.
+
+18:56
+Så kan vi godt forudsætte, at disse otte regneregler gælder.
+
+19:00
+For vi er jo et vektorrum i forvejen. De bliver nedarvede tårnrummet, så det eneste, vi sådan set skal beskæftige os med, er, om det er stabilt.
+
+19:16
+Så vi skriver at det er nok at undersøge stabiliteten og.
+
+19:34
+Og så lige for og få den anden med.
+
+19:37
+Altså de over det ene skib. De otte egenskaber de nedarves.
+
+19:47
+AS. Fra fravige.
+
+19:54
+Så er det. Godt, og nu skal vi så se på nogle eksempler på underrum.
+
+20:08
+Og. Og mit første eksempel.
+
+20:20
+Det er nul vektoren.
+
+20:28
+Se nulvækst, som er et vigtigt underrum i et værre vektorrum.
+
+20:36
+Så er det lige meget hvilket hvilket vektorrum I betragter, så er nulvækst som er et UIGEA.
+
+20:48
+I alle vektorrum.
+
+20:54
+Og vi tjekker lige stabiliteten, hvis vi tager en nulvækst tørn og lægger nul vektoren til nulvæksten er stabilt med hensyn til addition.
+
+21:04
+Så nul +0 det nul vektoren. Så vil sige Når jeg lægger nul vektoren med sig selv, så får jeg igen nul vektoren.
+
+21:10
+Den er stabil med hensyn til addition. Hvis jeg tager et tal og ganger med nul vektoren, så får jeg igen nul vektoren.
+
+21:19
+Det vil sige den er altså stabil med hensyn til addition og multiplikation med tal.
+
+21:27
+Og nulvækst er det eneste underrum, hvor der kun er et endeligt antal elementer i underrum.
+
+21:37
+Alle andre underrum huske har uendeligt mange eller mindre.
+
+21:42
+Så det er lidt af et særtilfælde vi har startet med her.
+
+21:48
+Og det var mit første eksempel. Og så siger vi ikke syge planen.
+
+22:03
+Er et underrum. I x y z rummet.
+
+22:21
+Og så. Det er jeg sådan set mener med æg syge planen.
+
+22:28
+Det er punkterne forstået som deres sted vektorer.
+
+22:32
+Så hvis jeg skulle have skrevet en meget lang sætning, så ville der være, at mængden af sted vektorer i Irak syv planen.
+
+22:40
+Det er et underrum i mængden af sted vektorer i rummet. Og ja.
+
+22:48
+Skal vi prøve om vi kan hitte ud af det, så håber jeg I forstår den tegning jeg laver her.
+
+22:55
+At kalde på se, her har jeg tegnet. Ex.
+
+23:01
+Pilen og y og y pilen her og.
+
+23:10
+Prøv at se så z aksen den peger ud mod jer selv og prøv at se.
+
+23:16
+Hvis jeg nu ser en lille prik her. Og sådan her, så betyder det altså en pil, der er på vej ud af adding.
+
+23:27
+Så I har altså ikke saksen bye aksen og så z aksen.
+
+23:32
+Og jeg påstår altså, at hvis jeg tager to vektorer a.
+
+23:40
+Og B. Hvis jeg lægger dem sammen, så skal vi undersøge om den er stabil, og der er to ting den skal,
+
+23:51
+der skal gælde, også hvis vi lægger den sammen efter den regel, vi har lavet.
+
+23:54
+Nu kan vi bruge parallelogram metoden, som vi laver på parallelogram med her, og så tegner vi her A plus B væk.
+
+24:05
+Sådan ligger det så. For det første jeg lagde to vektorer sammen.
+
+24:11
+Jeg har igen fået en vægter. Det er den ene ting.
+
+24:16
+Nu er så det spændende. Den vægtere ligger stadigvæk i planen eller en der peger udad i en eller anden retning mod ja nage,
+
+24:27
+den drejer ud fra den definition vi har lavet addition. Der bliver ikke byplanen.
+
+24:31
+Den kaldte den hopper ikke uden for.
+
+24:33
+Den bliver inden for sit underrum, og det er derfor, at den er stabil med hensyn til addition Torjäger nu adair og ganger den med et tal.
+
+24:45
+Det kunne for eksempel være 2. Bum, så har jeg her vektoren to a.
+
+24:51
+Jeg har jeg så gange den med en konstant. I kan se, jeg har igen fået en vektor, der ligger i planen.
+
+24:58
+Den peger ikke udad. Den bliver inden i underrum. Her så x y.
+
+25:03
+Planen er altså et underrum i hele rummet. Se nu tager vi et eksempel fra tal rummet er 4 C og jeg skriver sådan her.
+
+25:25
+Vi kan skrive her. Mængden af tal der har denne form x et komma x2 komma nul komma x3.
+
+25:39
+Det er altså et sæt med fire elementer over hvor x et og X2 og x tre er alle sammen bare vilkårlige reelle tal,
+
+25:52
+og det jeg påstår det er altså at den mængde her er et underrum.
+
+26:01
+I er fire de. Og hvis jeg skal argumentere for det, så skal jo vise at den er stabil med hensyn til addition.
+
+26:19
+Så vil jeg sige, hvis jeg tager sådan et tal her. Jeg tager et andet tal, der hedder Y et y 2.
+
+26:27
+Og for at tilhøre underrum, så skal du have nålen på tredje koordinaten, og her står der Y 3.
+
+26:35
+Og hvis jeg så lægger sammen, så står der jo ex et plus y et X2 plus 2 0 +0.
+
+26:43
+Det giver nul. Og så står der ekstreme pludselig 3.
+
+26:47
+Det vil sige når jeg lægger to tal sammen, så får jeg stadigvæk. Det er nul.
+
+26:53
+Og det er jo det eneste krav dertil den mængde det er nålen må ikke forandres.
+
+26:58
+Selvom jeg lægger to af den type sammen, så den er stabil med hensyn til addition, og I kan se det samme.
+
+27:06
+Selvfølgelig hvis jeg ganger det med et tal fem except 5 x 2.
+
+27:13
+0 5 x 3 0 bliver der.
+
+27:18
+Mængden er stabil med hensyn til multiplikation med tal, og det var de to stabilitets krav.
+
+27:25
+Derfor er det her et undergrund. I er 4.
+
+27:37
+Så her, så siger vi selv.
+
+27:43
+Vi spørger Nu er mængden af den type matricer, jeg nu skriver, som ser sådan her ud.
+
+27:55
+Den hedder den hedder A. Den hedder B.
+
+28:01
+Den hedder nålen, og så hedder den minusset.
+
+28:08
+Vi se, det er en 2+2 matrix, hvor a komma B.
+
+28:12
+Det er vilkårlige reelle tal. Jeg spørger Er den delmængde?
+
+28:18
+Her er den et urværk i mængden af 2+2 matricer.
+
+28:38
+Det må bare komme an på en prøve.
+
+28:41
+Så nu prøver vi at lægge to af denne type sammen, og så har vi lige pludselig den første hedder A et b ét, og vi skal et nul her.
+
+28:56
+Og så hedder den minus af et, så den er klart med i familien.
+
+29:03
+De to tal skal være hinandens modsatte dér. Det kan være et vilkårligt tal, men vi skal have nul der.
+
+29:09
+Vi tager så et tal af samme type. Den Cursed A 2.
+
+29:15
+B 2. Nul og minusser i to og også med i familien.
+
+29:25
+Og hvad er det addition betyder i det her vektorrum? Der har vi jo sagt, at det betyder plads ved sammenlægning, så den skal ligge sammen med den.
+
+29:34
+Den med den, den med den og den med den. Så lad os prøve.
+
+29:41
+Så hedder den altså et blues af to.
+
+29:47
+B et plus det 2 0 +0 giver nul, og så står der minus A.
+
+29:57
+Et minus er to, som jeg vælger at skrives som minus af ét plus er 2.
+
+30:06
+Så er det nu har vi lagt dem sammen, og så skal vi så se.
+
+30:10
+Har vi fået en ny 2+2 matrix? Selvfølgelig har vi det.
+
+30:15
+Opfylder det, den er medlem, skabes betingelser som står.
+
+30:20
+Her har vi et nul dér. Ja, det har vi det tal, der står her.
+
+30:26
+Er det det modsatte af det tal, der står dér? Ja, det er det.
+
+30:31
+Og dér står der bare et et tredje tal det jo ikke, så den er altså stabil.
+
+30:38
+Med hensyn til plus. For så den anden betingelse vi skal have.
+
+30:46
+Vi skal have undersøgt. Det er så hvis vi ganger sådan en matrix med en konstant frygt.
+
+30:59
+Hvordan var det nu, at multiplikation med et tal er definerede for matricer?
+
+31:06
+Denne er defineret ved, at konstanten skal gang i. På alle de fire steder.
+
+31:12
+Og så får vi k, a, k, b, k ganget med nul, giver nul og K gange i minus.
+
+31:22
+A Den kan vi godt tillade os og skrives som minus K ganget med A.
+
+31:34
+Og så det tal her. Det er det modsatte af det tal.
+
+31:38
+Og her har vi nåle. Det var de vigtige betingelser så stabil med hensyn til grand metal.
+
+31:52
+Og konklusionen er så ja.
+
+31:57
+Det er et underrum. Og så lige mit sidste eksempel Vi er i gang med eksempler på underrum, og vi tager et eksempel mere herfra.
+
+32:17
+Matrix rummet er 2+2. Og vi spørger.
+
+32:25
+Og nu kigger vi på en matrix af den type her hvor vi har A.
+
+32:32
+Vi har B, og så har vi A Garang B på tredjepladsen og så et nul på fjerdepladsen og igen hvor
+
+32:43
+A og B D er vilkårlige reelle tal og er den mængde et underrum i er to krydsord.
+
+33:07
+Og den er sådan lidt mere kringlet, så jeg tror jeg starter med bare og i stedet for her er vist godt generelt.
+
+33:16
+Nu tror jeg bare jeg starter hermed. Et eksempel på at lægge to sammen af den type her på denne en nul, nul og nul.
+
+33:28
+Og så skal lige opfylder den medlems betingelsen set det særlige er jo den skal have nul dér.
+
+33:34
+Det har dem og de tal, der står her. Det skal være produktet af de to tal der.
+
+33:39
+Vi siger en gange med nul, der skal være nul. Og så tager vi en anden, og den kunne hedde 1, 1, 1 og nul.
+
+33:52
+Vi skal have et nul. Det er det tal, der står dér.
+
+33:56
+Det skal være produktet af de to tandlæger. Begge to er medlemmer i klubben, og nu ser vi så, hvad er så summen af dem?
+
+34:07
+Så får vi en plus en. Det giver to nul plus en.
+
+34:14
+De giver en nul plus en. Giver én og så nul +0.
+
+34:19
+Den giver nul. Så har vi så dem, og så skal vi lige undersøge at medlem af klubben.
+
+34:29
+Den har været for nåle dér, og så skal vi prøve at sige to gange med en.
+
+34:39
+Det giver jo to mænd der står et der. Så vil sige at denne er ikke stabil med hensyn til det første kriterium, nemlig addition.
+
+34:53
+Så vi kan altså her sige er ikke stabil. Med hensyn til +, og derfor kan det ikke være et underrum.
+
+35:09
+Konklusionen er ikke et uderum.
+
+35:20
+I mængden af 2+2 matricer.
+
+35:30
+Så det var en masse eksempler på underrum og ikke underrum.
+
+35:38
+Og nu skal lige se, hvor langt vi er nået i vores disposition, så jeg tror,
+
+35:47
+at jeg vil bede jer om at snakke lidt med hinanden om vektorrum og den slags, mens jeg lige sletter mindetavler.
+
+38:21
+Vej, jeg og. OK.
+
+38:27
+Så er vi i gang. Nu har vi fået indført generelle vægge til rum, og vi har kigget på nogle underrum,
+
+38:32
+og så skal vi jo have noget, vi kender fra de geometriske vektorer, og det er lineære uafhængige vektorer.
+
+38:56
+Og i går direkte i gang med denne definition, som erfaringsmæssigt er noget af det allersværeste at forstå.
+
+39:10
+Så men vi prøver. Vi prøver om vi kan forstå den lidt i dag.
+
+39:16
+Jeg tror, vi har en lille chance. Så vi ser et i et væg sæt.
+
+39:28
+Vi kan kalde det får vi, som består af vektorerne ved et veto.
+
+39:36
+Og så hele vejen op til. Skal vi sige vil p. Der er vel to p vektorer i sættet.
+
+39:43
+Det kaldes lineært uafhængigt. Hvis.
+
+39:58
+Og nu opskriver jeg en dinara kombination at de her p vektorer hvis k et v, et plus K, 2 V, 2 plus og så videre op til k p gange med v p.
+
+40:21
+Hvis jeg skriver det som nul vektoren, så kan det kun lade sig gøre.
+
+40:30
+Altså det er kun muligt hvis alle de koefficienter.
+
+40:39
+K et CO2 op til k p.
+
+40:46
+Hvis de alle sammen er lig med nul, altså med tallet nul.
+
+40:55
+Så det er definitionen på lineært uafhængige vektorer.
+
+40:59
+Hvad skal man gøre? Man opskriver en nøjere kombination af alle de vektorer, og så sætter man det lig med nul vektoren.
+
+41:11
+Og hvis det kun kan lade sig gøre ved at vi slår ale ned i hjel ved at de koefficienter der bliver sat til tallet nul,
+
+41:22
+hvis det er den eneste mulighed for,
+
+41:25
+at de kan opnå nulvækst, som hvis det er den eneste mulighed at slå hver enkelt af dem vi alle, så er det lineært uafhængige.
+
+41:37
+De stritter rigtig, rigtig meget væk fra hinanden. De vektorer.
+
+41:43
+For lige at forbinde det med noget vi har snakket om før, så opstår jeg dér.
+
+41:48
+Det er vores definition. Fra nu af og så opskrive jeg en sætning, som er ækvivalent med det her.
+
+41:55
+Så sætningen, der lyder sådan her sætning ved et V-2 op til VP er lineært afhængigt hvis og
+
+42:19
+kun hvis mindst én af dem kan skrives som en ved en kombination af de andre.
+
+42:43
+Kan skrives som en linear kombination.
+
+42:56
+Ja, så hvis det kan lade sig gøre, så er det altså det samme som at sige, at dette over det ikke er tilfældet.
+
+43:06
+Og det er lidt tricky. Vi kan ikke vide på forhånd, hvad det er for en af dem, der eventuelt kan opskrives som en Lenau kombination af de andre.
+
+43:15
+Det må altså komme an på en prøve. Men nu skriver jeg jo bare for eksempel lægge mærke til.
+
+43:21
+Det er ikke sikkert det denne. Men det kunne være den, hvis jeg nu.
+
+43:25
+Misforstå mig ikke. Men jeg skriver her for eksempel.
+
+43:34
+Hvis det kunne være den første ved et alien' med K 2, V 2 plus kort, tre ville, tre plus og så videre.
+
+43:54
+K, p. V. P. Så i dette tilfælde var det altså den første af dem, der kunne skrives som en lenau kombination af de øvrige.
+
+44:06
+Og hvis det kan lade sig gøre, så er de altså lineært afhængige.
+
+44:12
+Det modsatte af det her. Vi snakker om herover, for det var lineært uafhængige,
+
+44:19
+når vi prøvede lige at lave et par eksempler for at forhåbentlig at give lidt afklaring på det her.
+
+44:26
+Så nu tager jeg et eksempel. Jeg så eksempel med geometriske vektorer.
+
+44:45
+Og jeg tegner nu her en en vægtere af.
+
+44:58
+Og her har jeg en væg B. Så jeg vil gerne undersøge om de to vektorer om de er lineært uafhængige.
+
+45:08
+Det ved jeg jo godt at de ikke er.
+
+45:10
+I ved og I ved at de er lineært uafhængige, fordi de er ikke parallelle, og at parallelogram her har et areal, der er større nul.
+
+45:19
+Så vi ved godt i forvejen, at de er lineært uafhængige, men er grunden til, at jeg tager det op her?
+
+45:26
+Det er jo, at vi skal prøve vores nye definition derhen, som er det, vi skal prøve at spørge.
+
+45:33
+Se her. Vi skal jo spørge om K et gange med a vektoren plus en anden konstant gange med b vektoren.
+
+45:46
+Kan vi få nul vektoren? Så vi skal prøve at rocke og gange.
+
+45:55
+Den ene med et tal og den anden med et tal. Og de må ikke begge to være nul, så det kunne for eksempel være, at den kommer derhen ikke og bede.
+
+46:08
+Den kommer måske her til. Der skal vi lægge dem sammen.
+
+46:12
+Så summen er en vektor, der ligger her, kan vi godt se.
+
+46:16
+Det er ikke muligt at få dette regnestykke til at gå ned i nul.
+
+46:22
+Vi kan ikke vente to tal her, der ikke begge to er nul, og så opnår nulvæksten.
+
+46:29
+Så vi kan altså skrive kun muligt. Når begge konstanter når de er lig med nul.
+
+46:45
+Og så håbe de her ser. Her havde vi a vægteren.
+
+46:52
+Nu tager vi en anden væg, så det kunne være se vektoren, den har vi her.
+
+47:03
+Til de starter her og nu prøver jeg så at skrive, er det muligt at sige K et gange med A Kluges kort,
+
+47:16
+to gange med se og så få nul vektoren kan vi gøre det uden at de to kofi center de begge to skal være nul.
+
+47:28
+Hvad siger I til dem? Du ser. Kan du give et forslag?
+
+47:42
+Minus 2 A. Og så får vi de her følelser, som jeg tror hellere vil jeg.
+
+47:53
+Jeg foreslår, at vi foreslår ikke et minus, men 2 ikke også er og så pludselig er lig med nul.
+
+48:02
+Så og at det er muligt du går sikkert i gang med at finde en anden lim Lennart kombination.
+
+48:09
+Men nu. Nu tager vi denne her ikke også. Det vil jeg sige.
+
+48:11
+Vi har fundet et K et der var 2 og et K undskyld et et der var 2 og et CO2 der var 1, så vi kan bare vælge.
+
+48:27
+Sætte på ét. Det var den vi satte med 2.
+
+48:32
+Og CO2 sætter vi lige noget ind.
+
+48:38
+Vi behøver ikke at slå dem begge to ihjel. Vi har vine og kombinationer, og vi kan endda skrive for eksempel.
+
+48:49
+Vi kan skrive se lektoren som en linear kombination af vektoren.
+
+48:57
+Så her og der kan vi altså ud fra definitionen sige, at de har to.
+
+49:02
+De er ikke lineært afhængig og undskyld engang til de er lineært afhængig.
+
+49:12
+Og det er ud fra definitionen og det dér. Det svarer til den sætning, som vi har skrevet herinde.
+
+49:19
+Den ene. Se, det er en kombination af den anden. Så begge dele passer i dette tilfælde.
+
+49:34
+Så lad os prøve at tage et eksempel fra se tre ting der sker lige i.
+
+49:49
+Det var. Sådan og vi skriver Her er vektorerne vil et lig med den er 1 komma 0,2 og vi 2.
+
+50:15
+Den er minus 1, komma 1,2 og vel tre er lig med tre komma minus en kommando.
+
+50:30
+Vi spørger, at de tre vektorer lineært uafhængigt.
+
+50:49
+Så tak. Lad os prøve at opskrive dette ud fra definitionen.
+
+50:58
+Hvis de tre vektorer skulle være lineært afhængige, så skal vi kigge på følgende.
+
+51:05
+Nemlig ikke K. Et grand vil et plus CO2 ganget med 2 plus kort tre gange.
+
+51:16
+Med de tre og den lenau kombination skal vi sætte lig med nul vektoren i tre.
+
+51:25
+Forklarer.
+
+51:28
+Så det er sådan at vi går frem når vi skal undersøge spørgsmål om din uafhængighed som helt fra starten, at jeg ikke og jeg får set det her.
+
+51:37
+Det kan jeg skrive dette. Det er så ingen betydende med at K et.
+
+51:43
+Og nu skriver vi denne her oppe på søjle foran 1 0.
+
+51:48
+2 plus kort tre.
+
+51:55
+Undskyld CO2 ganget med to vægteren.
+
+51:59
+Det var minus 1 1 2 plus kort tre gange med den sidste.
+
+52:10
+Den er tre minus en to, og det har vi sat lige med nul vektoren i tre.
+
+52:18
+Det er den vektor, som har nul og nul og nul.
+
+52:23
+Så nu er der altså denne her vægtere ligning, vi skal kigge på.
+
+52:29
+Fru Have Hvad kan vi gøre ved den? Ja, vi kunne jo prøve at regne det sammen, altså gange K et in på den her gange CO2 ind på den der omgående gang.
+
+52:44
+3 1 på den, der først ganger jeg konstant ånder ind for vektorerne og så bagefter, så lægger vi dem sammen på det.
+
+52:58
+Og så får vi her at se, så har jeg sagt, så får vi for oven der får vi K et minus CO2, og så får vi tre K3.
+
+53:16
+Og så går vi til anden linje. Der får vi bare nålen.
+
+53:21
+Og så får vi K 2. Og hvad har vi til sidst?
+
+53:28
+Og så minus på tre. Og så i den tredje min ligning får vi så 2 k ét.
+
+53:38
+Og så får vi to CO2. Og til sidst får vi to på tre.
+
+53:50
+Så har vi lagt venstresiden sammen, og det er igen det, vi sætter lig med nul.
+
+53:59
+Og så kan jeg set ensbetydende tegnet på igen. Så det er altså nu det her, vi undersøger.
+
+54:10
+Og kan ikke se. Nu har vi jo fået et lineære glidning system, der består af tre ligninger med tre ubekendte.
+
+54:23
+Nul på højresiden. Så det her er jo bare et homogent vinafdeling system.
+
+54:29
+Så igen. Det hele handler om line alene i systemer.
+
+54:33
+Selv en dag første dag mandag efter efterårsferien, hvor vi kører med abstrakte vægge til rum.
+
+54:42
+Nu er vi tilbage i noget, vi elsker, nemlig line og lignende systemer og totalt matricer i os.
+
+54:51
+Endelig lidt har oplevelse. Det skal vi også have i dag.
+
+54:57
+Så får vi et 2 minus 1 og 3. Vi får nul, og så får vi en.
+
+55:04
+Og så får vi minus 1. Og så får vi 2, 2 2 og indsætter højere siden 3 0, og her holder vi vores første hjørne.
+
+55:18
+Nu er det skal et taljer. Så kan vi se hvor var det egentlig vi startede inde.
+
+55:32
+Så vi startede med de tre vektorer, da vi spurgte om de var lineært afhængige.
+
+55:37
+Nu er der opstået en total matrix, og jeg laver en masse beregninger.
+
+55:42
+Men når I har prøvet det af en helt masse gange, så kan jeg godt se, hvordan den totale matrix, hvordan den er opstået.
+
+55:51
+Jamen, vi har jo bare taget ved et vægteren og stillet på højkant her med to vægteren.
+
+55:58
+Den står der ved tre væk, så den står det.
+
+56:03
+Og så bare nogle nuller. Så det er bare sådan, at vi skal gå frem.
+
+56:14
+Og så skal vi have fat i Trapp t.
+
+56:21
+Som ser sådan her ud. 1 0 0. 0 1, 0 2, minus 1 0, 0 0 og 0.
+
+56:42
+Jeg har lige sprunget de der. Jeg gider ikke at lave Gausel med solen i dag.
+
+56:45
+Det har vi lavet så meget af, så det tror jeg ikke, vi kommer til at se ret meget mere af.
+
+56:51
+Der var trappe matricen, og det, der er vigtigt nu, er, at de, der konstant er i et cottoncoat træ.
+
+56:56
+Hvad er det for nogle, skal vi lige først bemærke har været rammen af rangen til Bum.
+
+57:07
+To ledende et tæller lige med. Rangen er A.
+
+57:13
+Den er 2. Antallet af ubekendte.
+
+57:19
+Den var tre, så der har jeg altså. Der skal være en fri parameter.
+
+57:32
+Og så kan jeg jo allerede sige her Hvis der er en fri parameter, så er der uendeligt mange løsninger på det.
+
+57:44
+På den ligning jeg skrev her, der kan give nul, så er jeg så ikke kunne nå løsningen.
+
+57:51
+Det er ikke kun dér, hvor jeg slår hver enkelt af dem ihjel.
+
+57:54
+Der er uendelig mange sæt K, et CO2, K3 ikke at indsætte, og så får nu lektoren, så vi kan allerede se nu.
+
+58:05
+At der er mange løsninger, og vi kan også godt lige skrive dem op, altså ét på to kort tre bliver enige med,
+
+58:17
+og så bliver det minus 2, 1 og 1 og så gange med den frie parameter.
+
+58:29
+Altså uendeligt mange løsninger. Og de er lineært afhængige.
+
+58:56
+Se når man har kigget på den slags matricer og reducerede matricer, så opdager man hvor righoldige de er på information.
+
+59:08
+Fordi hvis I kigger på den reducerede matrix jeg har her, er.
+
+59:15
+Så er vi allerede her kun aflæser hvordan vi er tre kan skrives som en linere kombination, er vi et op i to.
+
+59:24
+For det står da tattoo ved et. Minus ved 2.
+
+59:31
+Den giver lige mad vi tre. Så altså vi tre ja, hvad var det jeg sagde?
+
+59:41
+2 ved et minus ved 2 skal være lige mad ved 3.
+
+59:48
+Og med andre ord har vi her opskrevet den tredje vægtere som en vinder en kombination af de første to.
+
+1:00:00
+Dagens. Så hvordan passer hvordan søren kan det her egentlig passe, at jeg bare kan sige det på den måde her?
+
+1:00:10
+Jo. Hør her, hvis det nu ikke var den dér, hvis det var ikke den dag, jeg har spurgt om.
+
+1:00:17
+Men hvis jeg i stedet for havde spurgt fartøj en lineær kombination af de første to vektorer, skal jeg bruge for at få den tredje.
+
+1:00:35
+Hvis vi står. Det spørgsmål jeg har stillet. Så havde jeg fået en total matrix vold.
+
+1:00:44
+Det her var vor, hvor det her var højresiden. For jeg er jo B.
+
+1:00:48
+Det er jo tredje vektoren ikke? Så her spørger jeg om de ubekendte er kun et og CO2.
+
+1:00:55
+Og dér har vi højresiden, så derfor ville I altså have fået følgende total matrix 1, 0 2.
+
+1:01:04
+Og så har vi minus 1 1 2.
+
+1:01:10
+Og så har vi tre minus 1 og 2. Og hvis jeg havde reduceret den, så havde jeg jo fået trappe matricen uden hullerne dér.
+
+1:01:27
+Så ville det have været en 0 2, 0 1, minus 1 og så 0 0 og nul.
+
+1:01:41
+Og de reducerede ligninger vil jo så har sagt jamen så k et.
+
+1:01:46
+Den skal være. Den skal være 2. Og CO2.
+
+1:01:53
+Den skal være minus 1. Så nu har jeg altså brugt. Den Gauss reduktion her til to forskellige ting.
+
+1:02:03
+For det første at vise, at det de har set, det var altså lineært afhængigt.
+
+1:02:08
+Men jeg har også brugt det til faktisk at finde ud af, hvordan vi træ kan skrives som en narkoman.
+
+1:02:14
+En af de første to. Smart ik ferie siger godt, og så er det pause.
+
+1:02:31
+Så ringer til.

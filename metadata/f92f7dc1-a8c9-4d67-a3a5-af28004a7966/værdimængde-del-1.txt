@@ -1,0 +1,1121 @@
+0:04
+Takt. God morgen.
+
+0:11
+For to uger siden, da jeg arbejdede i Vild med ekstrem og det vil sige lokaler,
+
+0:22
+maksimum og minimum fem kunne der være mange af, og i den forbindelse havde vi brug for helse matricen.
+
+0:32
+Vi så, at helse med egenværdier kunne fortælle os en hel masse om, hvorvidt der var lokalt maksimum og lokalt minimum i stationære punkter.
+
+0:48
+I dag skal vi arbejde med et globalt maksimum og globalt minimum.
+
+0:55
+I en ganske særlig situation, nemlig den hvor funktionen vi betragter det, er på en mængde som er afsluttet, begrænset og sammenhængende.
+
+1:08
+Der opstår nemlig en særlig problemstilling, og det er faktisk en typisk ingeniør problemstilling,
+
+1:14
+at man har en eller anden problemstilling, der afhænger af mange variabler.
+
+1:21
+Og man får at vide det skal være inden for de områder her. Du skal undersøge den.
+
+1:28
+Så er det jo rart at vide, at der rent faktisk findes et globalt maksimum og minimum, sådan som man kan optimere den opgave, man er i gang med.
+
+1:38
+Så det er altså en klassiker vi skal i gang med i dag. Og så introducerer jeg 3 metoden, som vi skal bruge gennem hele dagen.
+
+1:52
+Og for. At tydeliggøre disse begreber, så kigger vi på situationen, for funktioner er en variabel.
+
+2:02
+Det er meget nemme eksempler, men forhåbentlig kan de bruges til at udfolde begreberne med.
+
+2:08
+Og så ser vi på de mere hardcore eksempler med to variabler.
+
+2:15
+Der er en hel masse teknik. Hvordan får man lavet en funktion af to variabler om til en funktion af en variabel?
+
+2:22
+Når vi betragter den på randen osv. Vi har været lidt inde på det tidligere.
+
+2:29
+Når vi har betragtet en højde funktion over en bestemt kurve i eksil planen, så det minder os om noget vi har lavet før.
+
+2:38
+Og vi skal snakke om parameter, fremstillinger og den slags ting. Men lad os nu tage den sætning som det hele det bygger på.
+
+2:49
+Altså det er sådan set den sætning vi bruger hele dagen. Sætningen.
+
+2:59
+Hvis f. Er kontinuert.
+
+3:08
+På en afsluttede. Og begrænset mængde.
+
+3:25
+Lad os kalde den for EM. Så har F.
+
+3:32
+Et globalt maksimum. Og minimum.
+
+3:43
+På den betragtede mængde M. Og det vil jeg så argumentere for senere, at vi kommer ikke til at lave store matematisk beviser.
+
+3:56
+Men vi kan forhåbentlig få en intuitiv fornemmelse af, hvorfor det her må være rigtigt.
+
+4:04
+Det kan godt være, at selv om den ikke er kontinuert, så kan der også godt være, at den har et globalt maksimum eller minimum det her.
+
+4:10
+Sådan som det her skal forstås, er, at hvis vi ved, at den er kontinuert, og vi ved, at mængden er afsluttet og begrænset,
+
+4:19
+så kan vi være 100 procent sikker på, at den har et globalt maksimum og et globalt minder.
+
+4:24
+Det er sådan, den skal forstås på den.
+
+4:31
+Godt det er en global. Max.
+
+4:38
+Og minimum antages i.
+
+4:50
+Undtagelsen punkter. Og hvad forstår rød vi er det.
+
+5:01
+Derfor forstår vi hvor F. Ikke er differentiabel.
+
+5:17
+Eller to. Stationære punkter.
+
+5:34
+Eller. På randen punkter.
+
+5:54
+Og her skal jeg lige præcisere, at når vi taler om undtagen tidspunkter, så taler vi om det indre i det indre af mængden.
+
+6:09
+Så det tilføjer, at vi her i det indre.
+
+6:16
+A m ligesådan er stationære punkter i det indre af M.
+
+6:29
+Så det kommer altså her. Så det er altså de tre muligheder for hvor det her globale maksimum og minimum kan antages.
+
+6:47
+Og 3 punkts eller tretrins metoden består så i følgende.
+
+7:11
+Fem. Funktionens.
+
+7:20
+Hver diger. En undtagelse tidspunkter.
+
+7:27
+Ville kalde dem for up punkter. Og stationære punkter.
+
+7:45
+Og undersøge. Funktionens opførsel.
+
+8:08
+På randen. Kun.
+
+8:14
+Så er punkt ét. Find ud af er dog undtaget tidspunkter, hvis det er det.
+
+8:20
+Kom så find f værdier i undtaget tidspunkterne undersøge om der er stationære punkter.
+
+8:26
+Punkt 2. 5 f's værdier i de stationære punkter og punkt 3.
+
+8:33
+Så skal vi undersøge, hvordan F udfolder sig og opføre sig på randen.
+
+8:40
+Og da vil I se at her i dette punkt tre, når vi undersøger den på randen, så kan vi blive nødt til at gentage hele tretrins proceduren.
+
+8:53
+Så for funktionen for funktioner er 2 variabel, skal vi faktisk køre tre trins programmet to gange.
+
+9:01
+At en funktion af tre variable skal vi faktisk køre den tre gange osv.
+
+9:07
+Så den er sådan lidt hvad skal vi sige? Ligesom en fraktal.
+
+9:12
+Det er kun i én variabel, at det er relativt nemt. Se, nu har vi snakket om afsluttede og begrænsede ud fra.
+
+9:29
+Og så kommer den tredje ting ind her, nemlig sammenhængende.
+
+9:35
+Og her kan vi så skrive hvis. F er sammenhængende.
+
+9:54
+Så er f. A.
+
+9:58
+EM lig med intervallet fra globalt minimum.
+
+10:12
+Til. Globalt maksimum.
+
+10:22
+Så det vil altså sige hvis f er afsluttet og begrænset.
+
+10:27
+Og desuden er sammenhængende. Så er hvad skal vi sige den mængde som er angivet ved f.
+
+10:40
+Funktions værdier på hele EM. Det er et lukket interval fra globalt minimum til globalt maksimum.
+
+10:51
+Og her vil jeg så også lige skrive med rødt.
+
+10:56
+Desuden bør der stå her. Og så har vi fået alle de tre begreber ind, som vi karakteriserer mængder med.
+
+11:18
+Og nu får vi den oppe og helt oppe at svæve. Her har.
+
+11:33
+Og nu kigger vi op på eksempler af funktioner er en variabel.
+
+11:48
+Og da er gide en funktion f.
+
+11:58
+Eks. Er lig med x +1 for x større end lig med 1 og 3 minus x.
+
+12:14
+For. Ex.
+
+12:21
+Maj her. Det skal være mindre lige med én og derfor større end én.
+
+12:28
+Så det er altså en funktion givet ved en gaffel forskrift.
+
+12:35
+Og så er der givet funktionen eller mængden M, som er det lukkede interval fra nul og til 3.
+
+12:49
+Hun. Og lad os prøve at tegne grafen for funktionen.
+
+13:08
+C Vi har først en egne forskrift her X+ plus en.
+
+13:23
+Så den går over her. Og så har vi en regni forårsløb, der hedder tre Minos en.
+
+13:34
+Så dér har jeg så denne her. Stykkevis lineær funktion skulle have været og vi skal altså se på her.
+
+13:56
+Vi skal se på hvad er stationære punkter. Det er jo dér hvor hvor vi har banneret tangent.
+
+14:23
+Og hvad er renten? Det er intervallet.
+
+14:32
+Endepunkter. Så vi har altså mængden M liggende her.
+
+14:40
+Selvfølgelig. Og rendte ind i det her tilfælde er de to endepunkter i.
+
+14:53
+Så vi kører nu tre træningsprogrammet. Først skal vi finde undtagelsen punkterne.
+
+15:03
+Ja da. Allerførst. Vi ser først at FDN er kontinuert.
+
+15:16
+Det er jo meget populært sagt fordi, at jeg her på intervallet kan tegne grafen uden at løfte krybet fra tavlen.
+
+15:25
+Det er den populære version af kontinuitet. Og EM er afsluttet.
+
+15:40
+Og hvorfor er den det? Det er fordi at den har sin rem med at M.
+
+15:47
+Indeholder Xinran. Det er de to endepunkter. Det hænger sammen med, at det er et lukket interval.
+
+15:54
+Kaj. Og at den er begrænset.
+
+16:04
+Det betyder at jeg kan fange hele mængden én med en cirkel kan vi godt sige.
+
+16:14
+Hvis jeg, hvis jeg tager en cirkel, der er stor nok radius for eksempel fire, så har jeg hele M fanget ind, så den er altså begrænset.
+
+16:28
+Og sammenhængende. Og hvorfor er den det?
+
+16:38
+Man kalder mængden for sammenhængende. Hvis det er sådan at vilkårlige to punkter i mængden, de kan forbindes med en ret linje, som er i mængden.
+
+16:51
+Og sådan er den her jo selvfølgelig. Så det vil sige ja.
+
+16:55
+Alle betingelserne for sætningen er opfyldt. Og vi konstaterer, at der i denne her med funktion på den her mængde da er præcis ét undtagelse et punkt,
+
+17:26
+hvor funktionen ikke er differentiabel, hvor den ikke har en vandrette tangent.
+
+17:33
+Og det er for ikke slimet i så det vil jeg sige.
+
+17:39
+Jeg skal altså finde ud af hvilken værdi antager F i det her?
+
+17:47
+I det her undtages tidspunkt, og da antager den værdien 2.
+
+17:59
+Og så skal vi finde ud af hvad der er af stationære punkter for denne funktion.
+
+18:16
+Stemmen knækker under. Jamen så skal du.
+
+18:21
+Så skal du undersøge om den er differentiabel i Excel lige med en.
+
+18:28
+Det vil sige, at du skal se på grænseby værdien af delta F divideret med delta x, når ex får imod et fra højresiden.
+
+18:42
+Det. Og der vil den blive minus en. Og når år.
+
+18:52
+Ex går imod en fra minussiden. Og den vil være +1.
+
+19:00
+Da de 2. Hvad skal vi sige?
+
+19:04
+Grænseværdier for højre og venstre, da de er forskellige, så har den ikke nogen grænseværdi i punktet, og derfor er den ikke differentiabel.
+
+19:25
+Og så til sidst. Så skal vi undersøge hvordan F.
+
+19:31
+Opfører sig på randen og rammen i dette meget enkelt telt på tilfælde, det vil sige i endepunkter, så der finder vi altså f.
+
+19:41
+01. Den er in og f a tre er lig med nul.
+
+19:54
+Jeg. Og hermed er rander undersøgelsen forbi.
+
+20:00
+Tre punkts programmet er forbi. Vi har fundet alle de mulige kandidater for globalt, minimum og globalt maksimum.
+
+20:10
+Det vil altså sige, så sammenligner man simpelt hen tallene her.
+
+20:18
+Tre kandidater vi. Så det globale marques det er den er 2 antages i eksil med et.
+
+20:47
+Globalt minimum som er nul, antages i ikke slimede tre.
+
+20:59
+Og vi kan se at. Altså mængden af punkter, altså den punkt mængde der fremkommer når vi bruger F i alle punkter på M.
+
+21:15
+Den vil så være intervallet fra det globale minimum til det globale maksimum.
+
+21:32
+Nu vil jeg bruge det her eksempel til lige at trække nogle ting op, nemlig.
+
+21:40
+Hvorfor er det afgørende i min sætning, som står op, at mængden den er afsluttet?
+
+21:50
+Lad os nu sige at EM. Alternativt.
+
+22:07
+Havde set sådan herud. Hvor det altså ikke havde været en afsluttet mængde i og med at.
+
+22:20
+Det punkt der ligger her ikke tilhører grunde mængden. I det tilfælde her ville funktionen ikke har haft et globalt minimum.
+
+22:33
+Fordi uanset hvor tæt jeg går på et træ.
+
+22:38
+Så ville jeg kunne finde et en funktion, så der ligger endnu tættere på nul.
+
+22:44
+Så i det her tilfælde fordi den ikke er afsluttet, har vi altså ikke noget globalt minimum.
+
+22:51
+Okay, der er globalt maksimum, men der er ikke noget min mor. Den var begrænset, men ikke afsluttet.
+
+23:02
+Vi kan også på at tage et eksempel med en funktion som er.
+
+23:26
+Hvis jeg her betragter funktionen vrøvl f ex lige med X.
+
+23:36
+Så vil den mængde den vil være afsluttet. Men den er ikke begrænset.
+
+24:12
+Og altså i dette tilfælde der kan vi selv har ikke noget lokalt maksimum, fordi den går jo i al uendelighed.
+
+24:21
+Bliver den større og større? Så der er altså ikke nogen globalt maksimum værdi.
+
+24:28
+Lige et øjeblik. Ja, hvorfor den er opstået fordi den har kun ét brændpunkt.
+
+24:46
+Dette er dens ramme punkt. Og det er indeholdt i mængden.
+
+24:56
+Så derfor kan vi altså se at betingelserne begrænsede er altså nødvendigt at have med,
+
+25:01
+hvis du kommer slæbende med salt til noget om aftenen og mangler ikke.
+
+25:09
+Vi kan ikke. Den har ingen globalt minimum. Du kan godt sige, at værdien bliver aldrig nul.
+
+25:18
+Det kan du godt sige. Men den har ikke det, vi kalder for et globalt minimum, for det skal være en værdi, du kan skrive op, og det har den ikke.
+
+25:26
+Uanset om du skrev nul komma nul nul altså 100 millioner gange, så kunne du finde et tal der var endnu mindre.
+
+25:54
+Nu tegner jeg et nyt eksempel. Her. Se her har vi.
+
+26:18
+M liggende her for en funktion. Ud.
+
+26:25
+EM er afsluttet. Og begrænsede.
+
+26:37
+Så begge de to betingelser for mængden M er altså opfyldt.
+
+26:54
+Men. F har ikke et globalt maksimum.
+
+27:05
+Og hvad er problemet? Selvfølgelig her. I det her sætter op.
+
+27:10
+Mig. Der blev sagt. F er ikke kontinuert, og det er jo fuldstændig rigtigt.
+
+27:15
+Jeg kan jo ikke tegne uden at dumpe lidt i Gerster.
+
+27:20
+Så skal jeg tage en meget lang tid, før vi kommer der op igen. Så det er altså et eksempel på hvorfor at f.
+
+27:27
+Hvorfor betingelsen at f er kontinuert. Den også er vigtig i de eksempler vi regner på i dag.
+
+27:36
+Og lad os så tage et sidste eksempel. Vi betragter nu funktionen f.
+
+28:12
+Eks. Ali Mad X og vi betragter mængden nul til én og.
+
+28:21
+To til tre. Og her gælder da EM er afsluttet.
+
+28:34
+Og begrænsede. Men den er ikke sammenhængende, og så skal vi lige tilføje.
+
+29:00
+Derimod er f kontinuert. Så her da er f.
+
+29:11
+Så en kontinuert funktion. Den består jo af de to graaff stykker der ligger dér.
+
+29:22
+Og det er jo rigtigt nok. Jeg kan ikke tegne grafen uden at løfte på papiret, men det kan ændre på den mængde, hvor på jeg betragter den.
+
+29:33
+Fordi nu skal jeg sige kan jeg på det første stykke tegne uden at løfte, det kan jeg, og det kan jeg også på det andet stykke.
+
+29:41
+Så derfor er F. Altså en kontinuert funktion på M.
+
+29:51
+Og altså vi kan se her. Det er pointen i den opgave.
+
+29:56
+Her er altså i det tilfælde gælder der ikke det her at f, a m.
+
+30:04
+Tager jeg min pointe er at billede mængden.
+
+30:12
+Er forskellig fra. Det globale minimum som er nul.
+
+30:19
+Og til tre bliver det. Så der gælder altså den sidste del af sætningen ikke.
+
+30:28
+Og det er altså fordi mængden ikke er sammenhængende. Så undskyld det meget banale eksempel her.
+
+30:34
+Men I kan se der alligevel lidt at tænke over,
+
+30:37
+når vi skal forstå hvordan skal vi kombinere disse begreber med begrænsede, afsluttet, sammenhængende konsumeret?
+
+30:42
+Hvilke forskellige muligheder er der? Hvad er det, vi kan være sikker på?
+
+30:46
+Hvad kan vi ikke være sikker på? Det er for, at I skal tænke over det, at jeg har tilladt mig og og går hermed et meget banalt eksempel.
+
+31:01
+Kom og så et også banalt eksempel, men ikke lige så banalt,
+
+31:10
+fordi nu er jeg jo slet ikke stødt mig til nogen som helst grafiske overvejelser, men bare simpelt hen tag en funktion af en variabel.
+
+31:24
+Som hedder. Derfor har vi funktionens regni forskrift og.
+
+31:43
+EM er intervallet fra minus to til tre.
+
+31:51
+Det vil sige afsluttede begrænsede.
+
+31:59
+Og sammenhængende. Så jeg kan altså være sikker på at denne funktion har globalt maksimum og minimum,
+
+32:09
+og at billede mængden er intervallet fra det globale minimum til det globale maksimum.
+
+32:22
+Jeg bruger tretrins modellen. Ingen undtagelse punkter.
+
+32:41
+I det indre af EM. Punkt 2 viser kig efter de stationære punkter, og derfor differentierer vi.
+
+32:59
+Og det bliver 4 6 i tredje minus 12.
+
+33:06
+Skal lige se her. Der skulle stå 16 ekser, og så får vi minus 12 x plus 16.
+
+33:16
+Den er lig med nul, og det har regnet ud, at altså at det er tilfældet netop når X den er minus 1 og 2.
+
+33:33
+Og så siger mit tretrins program jo, at nu skal jeg finde funktionens værdien i de stationære tandlæger,
+
+33:42
+så jeg udregner F af min nu sind, og jeg udregner derfor 2.
+
+33:50
+For det vil nemlig være kandidater til maksimum og.
+
+33:58
+Minimum og vi får her 11 og 16. Og så endelig punkt tre.
+
+34:06
+Rando undersøgelsen og renten er jo minus to.
+
+34:15
+Den giver 16 og så har vi f tre.
+
+34:23
+Som er 21. Og så kan vi altså se her.
+
+34:31
+Hvor vi også skal sammenligne de kandidater vi har opskrevet på, når vi skal finde den mindste og den største, og vi kan se globalt maps.
+
+34:47
+Den er 21. Og den antages i ikke slimet.
+
+34:56
+3. Og vi har globalt minimum.
+
+35:05
+Og dette skulle have været minus 11, så det vil altså sige, at vi har globalt minimum minus 11, og den antages i x lig med minus 1.
+
+35:26
+Ydermere kan vi så sige at et billede med en kniv f.
+
+35:30
+M. Den er så det lukkede interval fra minus 11 og til 21.
+
+35:44
+Så det vil altså sige, at i kraft af min sætning har jeg altså kun afgør de her spørgsmål alene ved algebra.
+
+35:53
+Altså ved algebraiske udregninger uden at gøre med nogen som helst overvejelser over hvordan ser grafen egentlig ud?
+
+35:59
+Men lad os for en ordens skyld se, hvordan den ser ud.
+
+36:14
+Og vi kan altså se at der var to stationære punkter.
+
+36:20
+Og det ene sted i det ene stationært punkt. Der havde vi et lokalt minimum, som så samtidigt viste sig at være et globalt minimum.
+
+36:31
+Men vi havde også et stationært punkt dér. Der var ikke noget lokalt maksimum eller minimum.
+
+36:39
+Da havde vi nemlig en ven tangent. Og endelig så står vi altså at maksimum værdien.
+
+36:46
+Den blev antaget i et ramt punkt. Men det er om der nu i de stationære punkter, om der er.
+
+36:56
+Et lokalt extreme. Det kan vi altså se den del af undersøgelsen med heste som matricen og så videre behøver vi ikke at foretage os i dag,
+
+37:05
+fordi vi har vores sætning, der garanterer os for, hvordan vi skal gå frem for at finde globalt maksimum og minimum.
+
+37:44
+Når er vi kan li prøv at se. Fordi nu skal vi nemlig snakke om funktioner er to variable.
+
+37:54
+Og vi er jo ude efter igen er der undtagelser.
+
+37:58
+Boder er der stationære punkter. Det er de første to programpunkter vi skal igennem.
+
+38:05
+Og her ved jo, at hvis vi har et stationært punkt, så betyder det, at vi har en vanry.
+
+38:12
+Tangent plan. Og så er der mulighed for et lokalt ekstremer, men det er jo ikke sikkert, at vi har det.
+
+38:21
+Og det kan I sikkert huske fra sidste gang.
+
+38:29
+Hvis vi kiggede på den slags tilfælde som vi ser her.
+
+38:37
+Så kan I se der har vi øverst oppe.
+
+38:43
+Der har vi et lokalt minimum. Og straffen det er en elliptisk Pablo vide.
+
+38:56
+Så vi har altså her en vandvej tangent plan. Og det er et lokalt minimum, og det er også et globalt minimum for den funktion, der er her.
+
+39:07
+Og så kigger vi på den hyperbolske pap leder, som vi kan se, der har et stationært punkt.
+
+39:16
+Hør! Og hvis vi tegner tangent planen i det her punkt, så vil den være vanrøgt.
+
+39:24
+Men der er ikke ekstremer her der hverken lokalt maksimum eller lokalt minimum.
+
+39:32
+Så det er altså det der svarede til det eksempel Jeg vidste jeg før med Globals har prøvet lokalt.
+
+39:38
+En ventet tangent, hvor vi havde et stationært punkt for en funktion af en variabel.
+
+39:44
+Så det skal vi lige huske, når vi går i gang med de stationære punkter er jo sådan set foreligger de to muligheder,
+
+39:50
+der er nu, og så lad os komme i gang. Hermed et langt eksempel.
+
+39:53
+Og så efter det lange eksempel, så tager vi en pause, og så kommer der et eksempel mere.
+
+40:23
+Godt en dyb indånding, og så går vi i gang med et eksempel med en funktion af to variabler, og funktionen ser ud som følger.
+
+40:36
+F. Eks kommer Yay, den er tre loose ex.
+
+40:41
+Minus ex i anden. Minus Y i anden.
+
+40:48
+Den er kontinuert og den er endda differentiabel.
+
+40:56
+Men lad os kigge på mængden M. Det er mængden af punkter x kommer.
+
+41:05
+Y hvor om der gælder at nålen er mindre end lig med X, som er mindre end lig med 2.
+
+41:14
+Og om Y gælder der at minus 1 er mindre end lig med Y, som er mindre end eller lig med en minus ex.
+
+41:33
+Lad os lige prøve at tegne den mængde, som jeg har antydet her.
+
+41:42
+De i planen er det jo. Se eksterne ligger mellem vi kan så godt tage en lidt større.
+
+42:03
+Ex ligger altså mellem 1 og 2 og y den ligger over minus 1.
+
+42:20
+Og staten opadtil begrænset af den linje der hedder 1 minus ex.
+
+42:25
+Var ikke set noget som. Jo, har jeg gjort den, så vil jeg bare ikke når den ligger, men den ligger mellem vuggestue, sagde forkert.
+
+42:39
+Altså den ligger i mellem nul og to.
+
+42:41
+Det den mængde her, og vi skal nu tegne den linje, der ligger her, og det vil sige, det er den linje, som jeg tegner her.
+
+42:57
+Y lig med 1 minus 6. Så her har vi altså den mængde M, som der er tale om.
+
+43:14
+Det er den her trekant. F er klart en kontinuert funktion M er afsluttet.
+
+43:38
+Fordi at den har jo hele sin rang med, som består af de tre trekants sider, er har.
+
+43:50
+Og den er begrænsede. Fordi jeg kan fange dem en nemt smag, en cirkel der er stor nok.
+
+44:04
+Og den er også sammenhængende. Vi er det, at uanset hvilket to punkter jeg vælger mig,
+
+44:15
+så kan jeg forbinder de to punkter med en ret linje eller altså eller bare en linje en kurve som ligger inde i mængden.
+
+44:24
+Så kalder man den for sammenhængende. Og jeg vil nu gå i gang med min undersøgelse tre trins programmet.
+
+44:42
+Den her er jo klart differentiabel overalt. Så vi har ingen undtagelse punkter.
+
+45:02
+Så vil vi finde de stationære punkter. Og det vil sige vi skal have fat i de partielt afledede.
+
+45:16
+Og vi ser her at differentiere vi udtrykket med hensyn til æg.
+
+45:20
+Så får vi en minus to af Ken Ecce, som er lig med nul.
+
+45:27
+Netop når X er en halv. Og vi har.
+
+45:40
+F differentierede efter y. Alle de tre første lyde går i nul.
+
+45:50
+Sådan partielle afledede. Den er så nul, og det er ensbetydende med, at byer lige med nul.
+
+46:02
+Og det vil altså sige et bud på et stationært punkt. Det er altså en halv Comet nul.
+
+46:12
+Og det vil altså sige. Det ligger her, og det bør bestå testen, at den ligger i det indre af mængden.
+
+46:30
+Altså en hal med nul er et stationært punkt.
+
+46:40
+I det indre af en. Og så udregner jeg f af en halv.
+
+46:57
+Komma nul paa, så indsætter de to værdier fk's henholdsvis Y i regne, Forskriften og få.
+
+47:11
+3. En fjerdedel eller hvis I vil. 13 over fire, og hermed har vi altså en kandidat til et globalt maksimum eller et globalt minimum.
+
+47:28
+Og der er ikke andre stationære punkter. Så nu skal vi i gang med RAND undersøgelsen.
+
+47:35
+Vi skal i gang med punkt nummer tre. Vi skal have så.
+
+47:47
+Vi skal altså nu finde ud af, hvordan F.
+
+47:50
+Opfører sig på randen af den her mængde, og vi kan se randen.
+
+47:57
+Det er altså som sagt de tre trekants sider, og dem vil jeg dele op hver for sig og betragte hver for sig.
+
+48:06
+Så det første stykke her. Det vil jeg kalde for er et.
+
+48:19
+Og det andet stykke her for er to. Og det tredje stykke for er 3.
+
+48:45
+Og vi kan altså skrive. H er et.
+
+48:52
+Er X lig med nul, så X er konstant lig med nul.
+
+48:59
+Så når vi undersøger funktionens værdier, så afhænger funktionen kun af y.
+
+49:21
+Og på den baggrund kan vi sige, at når vi betragter Brexit reaktionen af EF til et, så er det en funktion af en variabel.
+
+49:34
+Så nu definerer jeg en funktion som hedder det a ét af y.
+
+49:43
+Som er lig med F er nul komma y.
+
+49:50
+Og så får vi jo her hende fra de to ældste værdier bliver 0.
+
+49:55
+Og så får vi en funktion af en variabel, som hedder 3 minus byg.
+
+50:02
+I anden. Og hvad er det?
+
+50:11
+Hvad er grunden mængden for den? Det er jo y værdierne fra minus 1 til en.
+
+50:27
+Så at undersøge hvordan F. Opfører sig er altså det samme som at undersøge, hvordan det undersøger sig.
+
+50:38
+Og nu skal vi i gang med 3,3 punkts programmet for for at give.
+
+50:45
+Vi skal altså lave en end en undersøgelse af denne her.
+
+50:49
+Så skal vi kalde det for. Punkt.
+
+50:57
+Tre en. Ingen u punkter.
+
+51:08
+For at give et. Altså på i det indre af den mængde der.
+
+51:19
+Vi skal så finde ud af stationære punkter for at give. G mærke a y.
+
+51:31
+Den er minus to y, som er lig med nul når Y er lig med nul.
+
+51:48
+Og lad os identificere dette punkt som vi har fundet.
+
+51:58
+Det er det punkt der ligger her. Vi har udregnet.
+
+52:04
+Jeg så det i det stationære punkt. Det er nul.
+
+52:09
+Den giver så tre. Så der har vi altså en ny kandidat.
+
+52:25
+Og så skal vi jo undersøge det på dens rand.
+
+52:29
+Nu er vi altså ude på rentens rand. Og vi har at.
+
+52:41
+Det vil altså sige at vi skal have værdierne del af minus 1 komma.
+
+52:48
+Nej, give minus én og den bliver 2.
+
+52:57
+Ny kandidat og vi får selvfølgelig at give af det andet ramte punkt er også to.
+
+53:09
+Så der har vi den det tredje mulige globale maksimum.
+
+53:19
+Og så kigger vi på Arto. Og det er dér hvor y den er konstant lig med minus en.
+
+53:41
+Og her der afhænger. F.
+
+53:47
+Kunne eks. Så vi da selv laver nu en ny funktion, som vi kalder for de 2.
+
+54:01
+A x, som altså er f. Eks.
+
+54:09
+Og vor by er konstant. Minus en. Også her altså I regner udtrykket her sagde det y lig med minus en.
+
+54:24
+Og så kan I se. Så får vi, at den her funktion den er to plus x minus.
+
+54:34
+Ex. Er det ikke i banen. S.
+
+54:39
+Sådan her. Og det er for ex der ligger i intervallet fra nul og til 2.
+
+54:54
+Og så skal vi altså køre programmet engang til. Og det er klart at de to ikke har nogle punkter ud.
+
+55:14
+Så skal vi finde stationære punkter for de to. Og den afledede af de 2 er 1 minus 2 x, som er lig med nul.
+
+55:37
+Hvilket er ensbetydende med at x den er en halv.
+
+55:47
+Og vi har altså fundet et nyt interessant punkt. Vi har faktisk også.
+
+55:55
+Nu har vi undersøgt de to punkter der ligger der, og nu er vi altså nede i det punkt, som som ligger dér.
+
+56:07
+Og vi udregner de to funktionens værdi i det punkt.
+
+56:17
+Det er to af en halv. Bliver to en fjerdedel eller om I vil ni over fire, hvilket så er en endnu en ny kandidat.
+
+56:43
+Og vi er igen ude på randen trend.
+
+56:47
+Vi skal have gear af nøglen, og vi skal have det.
+
+56:52
+2 af 2 er så indsætter nul i regne forskriften her op og få 2.
+
+57:02
+Og så har vi det 2. Hvor vi får. 2 4 0.
+
+57:12
+Sådan. Og så er vi nu på vej.
+
+57:26
+Hvor vi også. Nu har vi også undersøgt det punkt, der ligger dér.
+
+57:30
+Og nu mangler jeg kun er tre. Og på er tre der gælder der jo at y den er lig med en minus ex.
+
+58:00
+Dvs. F kan omskrives til noget der har med ekstra gøre, og derfor plejer Nutt at definere en funktion der hedder G3.
+
+58:14
+A dex, som altså er f.
+
+58:19
+Eks. Og så i stedet for ex, der skriver jeg altså en minus 6.
+
+58:33
+Og det vil altså sige at i min vejne forskrift hedder hende der sætter jeg simpelt hen lig med en minusvækst.
+
+58:42
+Ja altså ja, så får vi minus 1 minus 6 i anden, og udregner jeg dette udtryk, så har vi altså 3 x minus Excel anden minus 1 minus X i anden.
+
+59:00
+Og det giver så 2 plus 3 x minus 2 x.
+
+59:09
+I anden sals. Hvad var.
+
+59:14
+Ja 3 tre. Hvis I ikke.
+
+59:21
+Ja, det her det var så. Forhåbentlig rigtig nok.
+
+59:26
+2 plus 3 x minus, og så må det give ikke sige anden.
+
+59:36
+Og det er for eks liggende i intervallet nul til 2 for sidste gang.
+
+59:45
+I dette eksempel skal vi i gang med tre trins raketten. Ingen up humper.
+
+59:58
+3 2. Vi skal have stationære punkter. G tre mærke f.
+
+1:00:05
+Eks. Hvor vi får tre minus 4 x.
+
+1:00:17
+Som er lig med nul nætter, når X er lig med tre fjerdedele, bliver det.
+
+1:00:31
+Ex Lima trefjerdedele. Det vil så sige x fjerdedel.
+
+1:00:39
+Her. Så er det nye interessante sted.
+
+1:00:43
+Jeg har fundet det altså dér, hvor der er en kandidat til et globalt maksimum eller minimum.
+
+1:00:51
+Og det finder jeg så ved at sige at et træ er tre fjerdedele udregner ved hjælp af min egne forskrift.
+
+1:01:03
+Her får jeg så til tre en ottendedel.
+
+1:01:14
+Og så. Skal vi have det tre af dens to endepunkter.
+
+1:01:31
+Og udregner de to tal og det bliver to og nul.
+
+1:01:42
+Her har vi altså nye kandidater. I virkeligheden har vi udregnet dem her i forvejen, så den er det eneste nye, der nu tilkommer der denne her.
+
+1:01:52
+Så nu skal vi altså afgøre, hvad der er globalt minimum af maksimum. Hvad blandt alle disse kandidater?
+
+1:02:01
+Og det er jo simpelt hen bare at kigge på. Hvad er størst, og hvad er mindst?
+
+1:02:11
+Og vi kigger på alle de dage havde vi den første.
+
+1:02:15
+Det var det stationære punkt, og så har vi alle de her.
+
+1:02:21
+Og det viser sig, at det er. Nul.
+
+1:02:29
+Da det mindste. Det globale globale minimum er nul.
+
+1:02:44
+Som antages i. Og lad os se, hvis vi kigger for eksempel på ghetto grafen, så de to pragtfulde det var.
+
+1:02:57
+Det var to ikke også, så det må jeg altså være. Det må være det her punkt, er vi enige.
+
+1:03:03
+To par med minus i. Og DF har globalt max.
+
+1:03:20
+Og så skal vi se hvor maksimum værdien af hende. Men hvad havde vi af kandidater?
+
+1:03:26
+Vi havde nul, to, tre, en ottendedel. Ni fjerdedele, det lidt over 2 og 2, 0, 2, 2 og 3.
+
+1:03:39
+Og så havde vi den der, som er den største. Og det antages i det stationære punkt som var.
+
+1:04:00
+En halv kumpanerne. Og så endelig til sidst.
+
+1:04:07
+Så kan vi angive hele værdimængden for denne funktion, for i og med at mængden den er sammenhængende,
+
+1:04:15
+så kan jeg altså med sikkerhed sige, at det er så forskellen mellem det globale minimun og det globale maksimum.
+
+1:04:29
+Og lad os lige se situationen. Og Grafen på Mabel.
+
+1:05:23
+For. Her er funktionerne som vi har undersøgt efter tre trins modellen.
+
+1:05:36
+Er. Og så var det så den grund mængden EM, som vi definerede.
+
+1:05:54
+Og her og da betragter vi altså. Sammen med højt ordene.
+
+1:06:01
+For funktionen f. Og de interessante ting det er jo dér hvor.
+
+1:06:12
+Randen. Altså hvor vi dels kan se at vi har et interessant punkt i 0,5.
+
+1:06:21
+Det ligner unægteligt et alt efter farven om et globalt maksimum eller minimum.
+
+1:06:26
+Og de andre interessante steder på renten, når vi laver rammerne og servicen.
+
+1:06:33
+Er der nogen der kan udtrykke det i ord? Hvad er det geometrisk for nogle interessante punkter vi har fundet?
+
+1:06:44
+Sammenligner ramte rangordner og niveau kunder. Hvis altså I sammenligner.
+
+1:07:01
+Ved jeg ikke om jeg nu kan vi ikke se den tegning jeg har set.
+
+1:07:08
+Men kan I se at dette er interessant?
+
+1:07:13
+Det er jo dér, hvor Ranko jorden var den tyngde og en niveau kurve,
+
+1:07:18
+fordi en niveau kurver denne er karakteriserede ved at der er højden den samme når.
+
+1:07:24
+Her havde jeg den her kan jeg gå efter den passerer.
+
+1:07:28
+Dér fandt vi jo et stationært punkt netop hvor trekant siden den tangerer en niveau kurve.
+
+1:07:37
+Går jeg her? Jamen så er situationen vanrøgt her, så det passer fint lige sådan her og her,
+
+1:07:49
+der fandt vi nogle lokale maksimum for de Augé funktioner, vi havde defineret.
+
+1:07:59
+Og her hvordan vi finder de stationære punkter. Det er mindre interessant vil blot.
+
+1:08:06
+Vise jer til sidst. Hvordan så selve grafen den faktisk ser ud?
+
+1:08:23
+Det vil den ikke. Der kampen.
+
+1:08:35
+Så dér der har vi altså funktionen tegnet, og hvor vi altså har fundet det globale,
+
+1:08:42
+det Dugin globale maksimum, som lå et stationært punkt, og det globale minimum, som lå i rentens gram.
+
+1:08:53
+Og hvis vi lige trækker. Kikkerten for oven.
+
+1:08:58
+Så kan jeg altså igen se det smukke syn her af,
+
+1:09:02
+hvordan vi faktisk uden at vide noget som helst om giraffen havde fundet frem til de lokale maksimum ved hjælp af vores tre trins metode.
+
+1:09:10
+Fem minutters pause.

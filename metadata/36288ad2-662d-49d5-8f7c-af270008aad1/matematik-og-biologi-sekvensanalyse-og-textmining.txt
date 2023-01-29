@@ -1,0 +1,557 @@
+0:04
+Jeg arbejder jo på systembiologi med det der hedder bioinformatik, og jeg skal prøve at give en lille smule vinkel på,
+
+0:14
+hvad vi laver, og hvordan vi bruger matematik, og hvorfor det er vigtigt.
+
+0:19
+Man kan sige, at i bioteknologien, hvis vi spoler tilbage måske 30 40 år i virkeligheden,
+
+0:25
+så var der ikke meget brug for matematik i i inden for områder for som regler.
+
+0:32
+Man målte noget, og så var der noget med, at man havde måske fire punkter på en kurve og kunne nemt trække en linje sådan hen i nærheden af dem osv.
+
+0:40
+Der var i virkelighed ikke så mange data inden for biologien og bio teknologien, men det er det, der har ændret sig,
+
+0:47
+og vi får sådan en plus med at data hen over os inden for biologien i i de kommende år,
+
+0:55
+hvor vi får brug for matematiske metoder til at analysere data.
+
+0:59
+Det er det mine Slitz, de handler lidt om. Hvorfor har det ændret sig?
+
+1:05
+Det er bare lige for at misse et par slides også omkring det.
+
+1:09
+I 60'erne og 70'erne osv. Der brugte man rigtig store dele af statsbudgetterne på forsvar, på atommissiler osv.
+
+1:20
+Men dengang Gorbatjov og Reagan blev enige om at slutte den kolde krig.
+
+1:24
+Det var i 86 på Island.
+
+1:27
+Der fik man faktisk frigjort en masse midler i statsbudgetterne rundt omkring og mange af de midler, de gik over i sundhed, i biologi osv.
+
+1:37
+Lige pludselig var det ikke længere kun fysikerne, som kunne lave store projekter med acceleratorer, som vi kender dem nede fra CERN.
+
+1:44
+Man kunne også kaste sig over store projekter i biologien,
+
+1:48
+som for eksempel at segmentering det humane genom segmenter alle DNA bogstaverne i i vores kromosomer.
+
+1:56
+Det kostede faktisk i omegnen af 20 milliarder kroner at gøre det.
+
+2:01
+Der blev færdig for cirka ti år siden. Tre milliarder bogstaver og selvfølgelig en masse data, der er kommet ud af det.
+
+2:09
+Så er noget frygteligt råd, som man har brug for en masse matematik til at få skik på, fordi dataene.
+
+2:15
+De ser jo sådan herude, når vi kigger på dem i computeren.
+
+2:18
+Det er kun sekvenser, og hvis ikke vi bruger computer, metoder og matematiske modeller til at analysere dem, så får vi ikke ret meget ud af dem.
+
+2:26
+Man får ikke meget ud af at kigge på tre milliarder bogstaver i en sekvens en manual på på skærmbilleder.
+
+2:33
+Man skal huske på, at de tre milliarder bogstaver dækkede os.
+
+2:38
+Hvad skal vi kalde det for et gennemsnitsmenneske?
+
+2:41
+Hver af jer, der sidder her, har i virkeligheden jeres egne sekvenser, og meget af det, der vil komme til at ske i de næste 20 år,
+
+2:48
+er, at vi ved, vi går individuelt til værks på DNA sekvenser, når den første sekvens kostede cirka 20 milliarder kroner.
+
+2:56
+Men i dag kan man måske lave det samme arbejde for en ven.
+
+3:00
+4 5.000 kroner er noget i den stil. Så den information vælter ind i databaserne.
+
+3:08
+Her ses en statistik over tid. Hvor mange basepar, hvor mange bogstaver der er i.
+
+3:14
+I hvad hedder det i databasen, og I kan se jer ved en logaritmisk akset siden eksponentiel vækst i i foretagendet,
+
+3:22
+og i øjeblikket er der så fordobling i tiden, for disse DNA data er cirka 10 måneder,
+
+3:29
+og det betyder altså, at i de næste 10 måneder producerer man lige så meget den information,
+
+3:34
+som man har produceret de sidste 50 år, og siden fortsætter bare igen og igen.
+
+3:38
+Så der er altså godt med jobmulighed, kan man sige inden for få år for den her del af biologien og bioteknologien.
+
+3:47
+Og som jeg sagde, så spurgte man sig, da den humane sekvens kom ud i 2001.
+
+3:53
+Hvad betyder alt det her? Men i dag er vi interesserede i virkelig at finde ud af, hvordan lænker sekvensen til individet,
+
+4:01
+hvem får hvilke bivirkninger og af hvilke behandlinger så?
+
+4:04
+Vi kender alle de her i historier om en eller anden 95 årig mand, som har røget 30 Cecil.
+
+4:11
+Hvad hedder det? Om dagen og har det fantastisk hold osv.
+
+4:16
+Vi kender alt til alt, alt muligt til de her historier om, at visse folk kan tåle det utrolige.
+
+4:22
+Hvad er det i deres DNA sekvenser, der gør, at de ikke bliver syge, når de udsætter sig selv for den slags?
+
+4:28
+Det er noget af det, vi er interesserede i at finde ud af også før i tiden.
+
+4:32
+Der klikkede man meget på en del af gangen, og det, som vi virkede interesseret i at finde ud af, hvordan tingene hænger sammen.
+
+4:40
+Hvordan arbejder I generne sammen? I virkeligheden er det ikke bare et gen, der er noget galt med, når man får diabetes.
+
+4:46
+Måske 4 500 gener. Så dette udtryk systembiologi er noget med at holde mange bolde i luften og forstå,
+
+4:53
+hvordan mange gener på sådan en netværks facon kan bidrage til en sygdom for eksempel.
+
+4:59
+Alt dette her med.
+
+5:02
+Hvordan sammenhængen er mellem vores gener og og hvordan vi egentlig ved for sygdom og hvad vi ellers kan, det er jo noget, der går langt tilbage.
+
+5:12
+Når man diskuterede i i mange år. Hvis vi kigger i Njals saga, så var der en af mine islandske Pione studerende, der fandt denne her.
+
+5:19
+At der sådan set står, at 25 procent af vores egenskaber kommer fra faren, 25 fra moren og 25 fra hendes opvækst og 25 procent fra navnet.
+
+5:30
+Og det er klart, at du skal bruge noget matematik for at komme lidt tættere på disse procenter,
+
+5:36
+for vi ved faktisk ikke rigtig, hvor meget der kommer fra omgivelserne og og så videre.
+
+5:41
+Der er masser af vores egenskaber, som ikke bare er styret af generne, men også er styret af omgivelserne.
+
+5:48
+Vi kan bare tage sådan en ting som sædkvalitet, som for 40 50 år siden var glimrende i Danmark.
+
+5:56
+Siden er det gået ned ad bakke siden, så vi nærmer os en situation, hvor 10 procent af de børn, der bliver født, ikke er hjemmelavet.
+
+6:05
+Der er sådan set være nogen ende, og i 11. Og det er jo altså ikke så, at det var mig.
+
+6:12
+Har ændret sig i den periode. Det er det kemiske univers, som vi lever i, der har ændret og ændrer sig.
+
+6:18
+Det er klart, det påvirker ikke alle lige meget, men det vælter ind med kanoner,
+
+6:23
+det da der er projekter, der prøver ligesom at finde ud af de her sammenhænge.
+
+6:27
+Her er et website, som I kan klikke ind på, hvis I vil se en masse individuelle humane genomer.
+
+6:34
+Så noget af det vi bruger matematikken til, er jo altså at analysere data, men også er sådan noget som at sammenligne sygdommen, fordi det er klart.
+
+6:44
+Når man for eksempel kigger på mennesker, så har man jo ikke bare en sygdom.
+
+6:47
+Man har ikke bare diabetes, man har også lunge panser, og man har masser af andre sygdomme.
+
+6:52
+Vi vil gerne prøve en lidt kvantitativ og sætte noget matematik på, hvordan sygdommen for eksempel er er ens,
+
+7:00
+fordi en af de ting, man fandt ud af med det humane genom, var, at vi sådan set ikke har ret mange gener.
+
+7:09
+Altså, mennesket har kun cirka 25.000 gener, og man havde sat næsen op efter,
+
+7:14
+at vi måske havde hundreder til halvandet hundrede tusind gener, fordi man har fundet ud af, at en lille ord om en millimeter lang.
+
+7:21
+Den har cirka 19.000 damer, så det var virkelig et stort, tynde år, kan man sige og finde ud af, at mennesket har ganske få gener.
+
+7:30
+Det viser sig altså, at mange af de gener, vi har, de laver ikke kun én ting.
+
+7:35
+De laver flere ting og et enkelt. Den kan være involveret i mange sygdomme, så det der med et gen en egenskab.
+
+7:41
+Den må vi opgive. Vi må over netværks forståelse af, at det er der, der foregår.
+
+7:47
+Så alt det her med, hvordan proteinerne vekselvirker. Sådan noget er vi interesseret i.
+
+7:51
+Vi kan også finde data i databasen for, hvordan proteinerne, men væksten virker.
+
+7:58
+Her ser I en anden statistik, der viser, hvordan det foregår.
+
+8:03
+Men rent faktisk kan vi bruge text mining metoder på sådan nogle sygdoms beskrivelser.
+
+8:09
+Vi kan prøve at karakterisere dem ved hjælp af ord her sygdoms beskrivelser,
+
+8:15
+hvor der så står en hel masse tekst, som forskellige klinikker har skrevet.
+
+8:19
+Vi kan så pille ord ud med tekst meiningen metoder og bestemme deres ord frekvenser.
+
+8:25
+Her har vi for eksempel brystkasse, så der er en masse ord, der karakteriserer brystcancer.
+
+8:30
+Her har skizofreni nogle andre ord og så videre. Så kan vi lave nogle lange Rubæk 2'ere, som sammenligner sygdommen.
+
+8:37
+Man skulle ikke tro, at man kunne kvantificere overlappede mellem skizofreni og brystcancer for eksempel.
+
+8:43
+Men hvis man tager sådan et kontrol kontrolleret vokabularium på cirka 20.000 ord,
+
+8:48
+så kan man faktisk godt lave nogle ord vektorer, der ligesom kan beregne afstanden med store matricer over over.
+
+8:56
+Hvad skal man sige sin liiige se den mellem forskellige sygdomme. Og så måler man bare vinklen mellem mellem vektorerne, og så finder vi ud af,
+
+9:03
+hvordan de forskellige sygdomme sådan rent klinisk ligner, ligner hinanden, og så kan man for eksempel tage en sygdom.
+
+9:11
+Her er der sådan en sygdom. Der hedder vi 20 syndrom, og måske i nogle af jer kender den.
+
+9:16
+Det er jo ikke alle sygdomme. Hvad hedder det frygtelige, frygtelige dødelige?
+
+9:21
+Det her er sådan en lidt morsom sygdom sammen. Hvad hedder det af den sygdom, der går ud på, at man begynder at Mysen, når man bliver udsat for lys?
+
+9:30
+Der er ret mange, der hedder, det i virkeligheden lider af den. Man skulle tro det ord som sygdommen, som ikke lige lignede andre sygdomme.
+
+9:37
+Men når vi sætter lidt matematik på denne her og går igennem databasen over sygdommen, så var den tætteste sygdom, vi kunne finde på.
+
+9:44
+På denne her er 20 syndromet. Det var faktisk noget, der hed gastric icing, hvor hvor folk begynder at nysen,
+
+9:51
+når de får mad ned i maven, og den har faktisk en rente på 0,2 44 til til den anden.
+
+9:58
+Og som man kan se her i beskrivelsen, så er den også arvelig.
+
+10:01
+Sidedommer sker der i virkeligheden nogle gener, der bliver delt mellem disse to forskellige sygdomme,
+
+10:06
+så alt det her med at sætte tal på, hvordan sygdomme ligner hinanden.
+
+10:13
+Jeg kan ikke forstå alle detaljerne her, men når vi skal lede efter de gener på kromosom, der relaterer til en bestemt sygdom, så kan vi bruge den.
+
+10:21
+Her kan 10 placeringer af F overlappede mellem sygdomme selv og finde et sygdoms gen meget hurtigere.
+
+10:28
+Det kan så være starten på at lave et nyt lægemiddel eller måske bare og blive berømt.
+
+10:34
+Hvis man finder et et sygdoms gen, der som mange har ledt efter, så kan det selvfølgelig også være et et mål i sig selv.
+
+10:43
+Men der kan en masse matematik, der ligger bag alt det her, med at score similar i teten af forskellige sygdomme.
+
+10:50
+Og så sige det er det nummer nummer 97. En liste, der i virkeligheden med høj sandsynlighed linker til denne her bestemte sygdom.
+
+10:59
+Så lad mig bare til sidst sige, at dette her med data analyse er ikke bare noget,
+
+11:05
+der går på de molekylære data med generne og dermed proteinerne, og hvordan de vekselvirker så videre.
+
+11:11
+Men vi er også gået i gang med at kigge på de data, som man har i på på om på hospitalerne.
+
+11:18
+Jeg tror, jeg dropper hen over denne her. Men det er noget af det sidste, som vi er gået i gang med at gøre.
+
+11:22
+At man kan sammenligne sygdomme ved hjælp af disse ordvalg.
+
+11:27
+To ord, men det samme kan man faktisk gøre med patienter, og vi patientjournaler frem fra hospitalerne.
+
+11:33
+Så er der en masse tekst i dem. Og her er et af de områder, som vi arbejder med, nemlig dårlig sædkvalitet.
+
+11:42
+Hvis vi kigger på nogle patientjournaler fra mænd, som har dårlig sædkvalitet,
+
+11:49
+så er det ikke så overraskende, at ordet mand optræder ret hyppigt, som man kan se her.
+
+11:54
+Men det betyder så også, at hvis man for eksempel gerne vil kende forskel på hvad, hedder det.
+
+12:00
+De patienter, der er i denne her gruppe, så kan man ikke bruge det ord til ret meget, fordi de har ikke nogen stor diskriminere ATIV værdi.
+
+12:07
+Ikke også her. Kvinde står der som sådan en lille grønt ord.
+
+12:11
+Men det er bare ord frekvenserne og på samme måde som vi laver ord med to ord for sygdommen.
+
+12:17
+Så kan vi også gøre det frem for for patienterne på hospitalet, og man kan bruge en masse ord,
+
+12:22
+der kommer fra sådan nogle international klassifikationssystemer for sygdommen.
+
+12:26
+Der er noget, der hedder Ice-T i ti år. Det vil jeg ikke gå i detaljer med, men der findes en masse under opdelinger og hierarkier og over ord,
+
+12:35
+som relaterer til til sygdommen, som jeg bare bladrer ned igennem. Men det, vi altså her kan gøre, det er, at vi kan tage sådan en patientjournal her.
+
+12:42
+Så kan vi genkende alle de her ord, som står i de her kontroller, kontrolleret vokabular er,
+
+12:48
+og så kan vi så lave det samme nummer, som vi laver med sygdommen, at vi kan lave en vægtere for hver patient.
+
+12:52
+Og så kan vi så begynde at sammenligne patienterne og putte dem i grupper.
+
+12:56
+Og så er idéen selvfølgelig også, at man så måske vil vælge den samme behandling for nogle,
+
+13:01
+der ligger tæt på hinanden i forhold til, hvad der står i deres patientjournaler, for det er et stort problem på hospitalerne.
+
+13:07
+I dag er der faktisk ikke er nogen, der læser patientjournaler mere.
+
+13:12
+Den er simpelt hen ikke tid til.
+
+13:14
+Og hvis I selv eller nogen andre har i jeres familie har været indlagt, så har jeg måske også lagt mærke til det der med,
+
+13:21
+at de starter forfra hele tiden på hospitalerne, fordi de har ikke tid til at læse, hvad der står.
+
+13:25
+Så bare det der med at skaffe et overblik over, hvad der faktisk stod i denne persons patientjournaler.
+
+13:30
+Faktisk er det interessant område så de koder, som lægerne sætter ind i sådan nogle patientjournaler her.
+
+13:40
+De er faktisk siden meget skæve, fordi de kan rigtig godt lide at sætte de koder ind, som hospitalsafdeling bliver betalt for at lave analyser på.
+
+13:51
+Så meget af det, der står i registrene i Danmark, er i virkeligheden meget upræcise.
+
+13:56
+Når man bruger tekst mining, så kan man altså finde en masse koder, som sådan set burde have stået i i registrene,
+
+14:03
+så vi kunne få en mere præcis beskrivelse af patienterne, og der er en masse statistik herfra om, hvordan de her forskellige koder.
+
+14:11
+De ligger i de forskellige afdelinger eller kapitler af dette klassifikationssystem.
+
+14:16
+Det kan vi bare droppe med noget, man kan bruge den slags data til.
+
+14:20
+Det er for eksempel at finde ud af, hvilke sygdomme der optræder samtidigt.
+
+14:25
+I en patient kunne HD se en hel masse. Hvad hedder det patienter for fra Sankt Hans her?
+
+14:31
+Vi har gjort, at vi har taget cirka 10.000 patientjournaler fra Sankt Hans, og så har vi ladet ordvalg to ord for patienterne.
+
+14:38
+Og så må vi så prøve at kigge efter, hvilke sygdomme, hvilke hundreder sygdomme kunne variere mest med andre sygdomme.
+
+14:46
+Og så er der selvfølgelig nogle grupper ikke se her, for eksempel HPV. Det kunne variere med stofmisbrug og så videre.
+
+14:55
+Der er en masse ting, som man forventer i nogle korrelationer, men det kan selvfølgelig også kigger efter det, for eksempel bivirkninger.
+
+15:01
+Der er en sygdom som kommer fra et kapitel.
+
+15:05
+Det er fra årene der står herude som ko varierer med en anden sygdom, som måske kommer fra et helt andet område.
+
+15:12
+Det her sygdoms univers, som man kan bruge denne form for analyse til at opdage nye bivirkninger af,
+
+15:19
+er medicin, men man kan også bruge den selv og opdage sygdommen,
+
+15:24
+som sådan set optræder samtidigt, og som måske optræder samtidigt, fordi de deler et gen, der ligger nedenunder.
+
+15:32
+Så vi er ikke så meget tid her, men jeg kan lige vise en enkelt opdagelse,
+
+15:35
+som vi lavede, og det varer, at når vi nåede anden, sidder alle de patientjournal data,
+
+15:42
+og så kan vi se, at der var to sygdomme, som altid optrådte samtidigt, og den ene sygdom frygtelige sygdom var kolera og ja, og faktisk 22.
+
+15:53
+Tilfældet på Sankt Hans. Hvor når en patient havde kolera, så havde den samme patient også pest.
+
+16:01
+Og nu er pest jo ikke så almindeligt i Danmark mere.
+
+16:06
+Men det er klart de her termer pest og kolera. De står jo i dette vokabularium over sygdom, og det er jo altså fordi, at det også er en talemåde.
+
+16:15
+Her ser I patientjournal, at der bliver beskrevet, at patienten følte, at det var som at vælge mellem pest og kolera.
+
+16:24
+Man kan sige, det var sådan en slags positiv kontrol på, at systemet virker.
+
+16:29
+Det skal vi selvfølgelig sortere, men ikke igennem den slags til, fordi det er trivielt.
+
+16:33
+Men vi kan finde den slags korrelationer mellem mellem sygdommen, og det er det det.
+
+16:39
+Det virker. Men vi kan gå ind og finde generne.
+
+16:42
+For eksempel har vi fundet nogle, der kalder skaldethed og migræne og så videre, som lige pludselig er ret forskellige sygdomme.
+
+16:50
+De har jo selvfølgelig noget med hovedet at gøre begge to, men lige pludselig viser sig måske,
+
+16:53
+at der var et gen her, som blev bedt af skaldethed, skemaerne og og migræne, generne og så videre.
+
+17:00
+Man kan bruge den slags data til at lave denne her form for for analyse.
+
+17:05
+Så lad mig bare gå videre her til til til denne her.
+
+17:13
+Det vi vil gøre med disse data, er det, vi bruger matematikken til.
+
+17:18
+Det er i virkeligheden at prøve at finde noget data uden at vide på forhånd, hvad vi leder efter.
+
+17:23
+Man kalder det også for ikke en hypotese drevet forskning normalt i gamle dage.
+
+17:28
+Så havde man jo en eller anden hypotese inden for videnskaben. Så satte man et eksperiment op.
+
+17:33
+Så fandt man ud af, om det var forkert eller rigtigt. Altså for eksempel falder blødt kuglen eller om hurtigst ned på på på jorden.
+
+17:41
+Ikke dette eksperiment, man kan lave.
+
+17:43
+Men når vi snakker om ikke hypotese, drev forskningen, så starter vi sådan set med al data med alt det, der er blevet målt.
+
+17:50
+Og så bruger vi matematikken og computeren til at på at finde ud af, om der er nogen sammenhæng i det data,
+
+17:56
+som det er en baglæns måde at lave videnskab på, som man kan se matematikken og computer metoderne i virkeligheden muliggøre.
+
+18:07
+I stedet for at starte mod hypotesen, så bruger vi data til at generic en hypotese,
+
+18:12
+og så kan man så gå ud i nogle nye patienter, for eksempel at finde ud af, om det er rigtigt læsning.
+
+18:16
+Twente, som er kommet frem inden for bioteknologien Generic data, har først og spørger bagefter,
+
+18:23
+hvad vi egentlig kun kan kan bruge den til, og det var der mange, der ikke kunne lide i begyndelsen.
+
+18:29
+Men nu hvor hvor for eksempel de her udgifter til segmenteret, humane genom er kommet ned på nogle få tusinde kroner,
+
+18:40
+så kan man altså overkomme det økonomisk og den rare data først.
+
+18:44
+Og så kan man så bagefter bruge bruge matematikken til at analysere dem.
+
+18:50
+Det er noget af det, vi laver inden for forud for bioinformatik. Der er brug for matematik som aldrig før og helt vildt meget mere,
+
+18:58
+end hvis man sammenligner med for 30 40 år siden, hvor at det bare var de her få punkter på en en kurve.
+
+19:05
+Nu er vi oversvømmet af data, terabyte og data har vi.
+
+19:11
+Vi køber måske 100 terabyte disk mere om året over i vores centre i bygningen 200 otte for at få plads til alle de her data.
+
+19:21
+Så det var et lille indblik i, hvad vi laver. Vi laver også mange andre ting, der måske er mere sådan en industriel bioteknologi og mange ting.
+
+19:29
+Men det her var altså nogle af de lidt mere eksotiske ting fra fra den medicinske informatik og bilen for Matthew.
+
+19:36
+Ja, faktisk.

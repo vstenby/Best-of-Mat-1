@@ -1,0 +1,863 @@
+0:06
+Så velkommen. Velkommen tilbage til matematik el. I dag skal vi let fortsætte, hvor vi slap inden ferien, fordi emnet i dag hedder Vækstforum.
+
+0:23
+Så lad os se hvordan. Hvad?
+
+0:38
+Så vi skal kigge på hvad det er for noget, og vi skal opdage ret hurtigt,
+
+0:45
+at det er i virkeligheden bare noget, som vi godt kender formuleret på en smart måde.
+
+0:54
+Undervejs skal vi reducere de begreber, vi har for almindelig vægttræning, nemlig der er noget, der hedder den ene afhængighed.
+
+1:12
+Af afhængighed af lineær uafhængighed. Så er der noget der hedder en udspaltning.
+
+1:21
+Ordet er sparringen. Og så er der noget der hedder en basis.
+
+1:32
+Og så er der noget der hedder dimension. Og så er der noget der hedder koordinat skifte, og det hænger sammen med det som hedder bageste.
+
+1:45
+Basis skift. Og undervejs kommer der selvfølgelig en masse eksempler på hvad.
+
+2:00
+Hvad det nu er vi kigger på, så. Lad os se en gang.
+
+2:08
+Hvad er et vægtere rum for noget?
+
+2:19
+Jamen, der skal I bare tænke på hvad jeg ved fra det massive, og hvad vi lavede sidst i virkeligheden, fordi I kender de geometriske vektorer.
+
+2:40
+Og det vil sige pile vi kan tegne i planen eller i rummet, og dem har vi jo lynhurtigt.
+
+2:47
+Dem har vi jo lynhurtigt givet koordinater, så det er to for eksempel.
+
+2:55
+Det er planen. Er det er rummet.
+
+3:02
+Og hvad kan vi lave her? Ja, der kan vi lave.
+
+3:06
+Mere generelt. Så kunne vi lave nogle vilkårlige lange vægge.
+
+3:12
+Tore så for eksempel, hvis jeg nu havde en vektor x vi. Du ser dig væk fra stregen nedenunder i dag.
+
+3:19
+Hvad betyder det? Jamen, det betyder så bare, at vores vægge tager. Eksterne har så nogle koordinater.
+
+3:25
+Vi kunne for eksempel skrive den som en koordinat søjle. Den hedder så x at stå op til eksamen, så det et eller andet objekt med en koordinater.
+
+3:38
+Underforstået at når man skriver den på denne her måde, så har man selvfølgelig valgt en basis.
+
+3:46
+Forstået på denne måde er det tal der står over det. Jeg refererer til en eller anden valgt første akse i et eller andet koordinatsystem.
+
+3:53
+Og når man bare skriver det sådan her, så er det sådan lidt underforstået, at det er det,
+
+3:57
+der hedder den sædvanlige basis, som for eksempel her er to, så vil den jo være.
+
+4:06
+Hvem der ser sådan her ud.
+
+4:08
+Det kommer vi tilbage til og kan i disse rum hvor buh kalder man den, og det eneste der er virkelighed er et rigtig rum bliver det.
+
+4:19
+Men altså det man kalder det rum. Og hvad kan man dér?
+
+4:24
+Der kan man lave alle de her vægtere operationer, som man kender. Vi har alle væk fra operationer.
+
+4:39
+Og. Hvad er det egentlig for noget I kan? Jamen altså man kan tage to vektorer, og så kan man lægge den sammen.
+
+4:48
+Man kan trække dem fra hinanden. Så er der noget med parrene se sig.
+
+4:58
+Man kan se et par se sig i nogle summer, og der er nogle regler for, hvordan man hæver parenteserne.
+
+5:04
+Så kan vi garne, det vil sige, vi garne en vektor.
+
+5:10
+Hvis vi har en vektor der, så kan vi gange med 27 billeder og gange med en skalar.
+
+5:20
+Og skalaer er jo bare et et tal. Hvad kan man mere sige om om de her vektorer, som jeg kender fra gymnasiet, når jo der er en 1.
+
+5:33
+En bestemt vektor, som hedder noget vægteren.
+
+5:38
+Og hvorfor er den vigtig?
+
+5:40
+Jamen, den er vigtig fordi at det er en vektor, som opfører sig helt specielt, når man plusser og minusser, fordi den er det, der hedder neutral.
+
+5:51
+Den ændrer ikke, hvis man lægger den, se eller trækker den fra ude.
+
+5:56
+Og så kan jeg fortsætte med at lave alle de ting, som vi nu engang kan gøre med vektorer i planen eller i rummet.
+
+6:04
+Eller mere generelt. Ja, alt efter. Hvad er så et vektorrum?
+
+6:09
+Jamen, en vektor rum er en generalisering af det her.
+
+6:14
+Så er det et vektorrum.
+
+6:23
+Et rum er en mængde. Af objekter.
+
+6:38
+Og objekter. Det betyder at der er sådan set ret frit slaw.
+
+6:43
+Men det der er vigtigt, er, at man skal have de samme vajende operationer, som vi kender.
+
+6:52
+Og. Med samme regne operationer som.
+
+7:08
+Og når jeg nu skriver rigtige vektorer, så er det altså med reference til det der foregår her og hvis.
+
+7:16
+Så. Hvis nu for eksempel alle skriver vektorer i for eksempel, er to altså vektorer i planen.
+
+7:30
+Og så kan man så overveje hvad hvad det er for noget rod kan det for eksempel være te kopperne hjemme i skuffen?
+
+7:40
+En. Hvis jeg tager en sikker og ligger sammen med en anden sikker, så får jeg ikke en sikker op, da jeg ved hvordan.
+
+7:49
+Så I har ikke indregnet operation, der hedder plus i mængden af kopper?
+
+7:53
+Så I kan ikke organisere mængden af TK reserve ved ekstra rum for udenad?
+
+8:00
+Er der noget andet, der går over? Ja, for eksempel. Prøv at tænk på tænk på mængden af kontinuerte funktioner, de kontinuerte funktioner.
+
+8:19
+De kontinuerte funktioner. På et interval.
+
+8:30
+Og intervallet sigtbarhed i. Og den mængde har faktisk et navn der hedder noget offer i nåle.
+
+8:41
+Det bliver forklaret senere i kurset. Hvorfor er det et vektor ro?
+
+8:49
+Ja, fordi postet her. Hvis vi nu tager to kontinuerte funktioner.
+
+9:00
+Så kan jeg jo gange en af dem med et tal fra får igen Kongsøre funktion.
+
+9:06
+I kan lægge dem sammen, så får igen kontinuert funktion. I kan guide dem med tal og lægge den sammen.
+
+9:14
+De kan i det hele taget tage en hel stribe af konserverede funktioner garneret med tal og lægge sammen.
+
+9:19
+Så får en konsumeret funktion så alle de vejne operationer man har for de almindelige vektorer.
+
+9:29
+Den høje fart for konserverede funktioner. Er der nulvækst, så ja er det nul funktionen?
+
+9:36
+Klicheerne. Så I har den præcis samme struktur.
+
+9:43
+Så selv om denne her mængde konserverede funktioner som udgangspunkt overhovedet ikke består af objekter, man kan tegne som pile.
+
+9:53
+Så kan man tænke på den som vektorer, fordi med hensyn til vore egne regler,
+
+9:59
+der opfører de sig på præcis samme måde en anden mængde, som er en delmængde af dem her.
+
+10:12
+Det kunne så bare være på hele den reelle akse. Der kunne man se mængden af polynomier.
+
+10:22
+Mængden af polynomier. Grad.
+
+10:33
+Er et eller andet end at lægge mærke, der står højest inde.
+
+10:38
+Jeg har ikke skrevet af grejet end jeg har skrevet, og grejet højst end den mængde har et navn.
+
+10:44
+Den der plejer man at skrive p, n, og så skriver man er her og R står bare for, at det er polynomiet på den reelle akse.
+
+10:54
+Og når man så mængden af reelle polynomier.
+
+10:59
+Hvis hvis jeg havde ville have de komplekse polynomier med, så havde skrevet komplekset her op, så kan man bare skrive under på denne her måde.
+
+11:05
+Så vil man skrive det sådan her, så er det mængden af reelle polynomier. Hvordan ser så nogen ud?
+
+11:13
+Ja, et polynomium af høj grad, end hvis jeg tager et af dem nu kan kalde denne her for Peter Ex.
+
+11:21
+Hvordan ser et polynomium ud, når der er konstant blevet? Det plejer at kødet hed af nul, og så er der i første grad blevet.
+
+11:29
+Det hedder a eb gang x1 farer. Det falder måske også Landgraf.
+
+11:34
+Det hedder to gange et AMU plus, og så ved jeg, at jeg må ikke gå højere op end en begravet, og det vil sige det nemt det sidste.
+
+11:43
+Det må hedde et eller andet a engang Excel, Jante og det er noget af et a 2.
+
+11:49
+Det er bare reelle tal. Til en af de.
+
+11:58
+Reelle koefficienter for dette er et polynomium er højst én grad.
+
+12:04
+Hvad nu hvis jeg tager et andet af den slags? Jeg kunne så tage efter hed P2 X, og det ser ud på samme måde.
+
+12:14
+Der står typisk bare nogle andre koefficienter her, så det hedder nok bag noget Blues B et gang exit 40 plus B to gange ekser, anden blues osv.
+
+12:26
+Op til et eller andet. B n gange excellente og b noget og blive ét af for videre op til B.
+
+12:35
+M er også bare reelle. Tal ligger også.
+
+12:41
+Basser op. Kan man så lave disse vejne operationer som vi har op med det her polynomier.
+
+12:49
+Men jeg kan jo prøve at gøre det. Jeg kan jo prøve at tage en eller anden constant, der hedder K ét.
+
+12:56
+Jeg kan bare jeg kunne få dem bare kaldt en K. Og så jeg gange med Peter f.
+
+12:59
+Eks. Og så kunne jeg tage et eller andet h. Og gange med to er jeg ikke.
+
+13:06
+Og så vil jeg se. Hvad kommer der ud af det? Jamen kog gange blev et af ekstraskatter gange hele den, der med kog hernede skærer sig gange.
+
+13:21
+Hele den er med H. Og så skal jeg så lægge den sammen.
+
+13:26
+Hvordan kommer det til at se ud? Jamen, det må hedde cover af noget clouds h.
+
+13:34
+B noget. Det må være den første, der kommer til at skrive Weng Blues.
+
+13:39
+Hvad kommer der så til at stå på første grads møde? Ja, den bliver ganget med H.
+
+13:46
+Undskyld. Den der bliver garnet med krog og den der bliver garnet med H.
+
+13:50
+Så der kommer til at stå. K Garnene Ed Clouds, H, Gard B, F og for eksil først uden for en parantes også listen.
+
+14:02
+Turen jeg får lagt det sammen med, så fortsætter jeg bare det her og samler medierne.
+
+14:08
+Hvordan ser det sidste ud med den? Der bliver gange med kog, og den bliver ganget med hår, og så bliver det lagt sammen.
+
+14:15
+Det vil sige efter k a kløves h.
+
+14:20
+B Jamen, der er en except. Hvad er det, der står her nordover?
+
+14:29
+Jamen, det her er jo tale den konstant på.
+
+14:34
+Det der står her, er også bare tage sten eller andet. Constand gang eks.
+
+14:40
+Og så videre. Det er det jo også bare en eller anden konstant gang ekspedient, så det her ser jo præcis sådan her ud.
+
+14:48
+Vi kunne for eksempel skrive det, som sagde noget klogest. Se Edgard fyres Fyresdal klogeste set to gange ikke ser anden klodes.
+
+14:58
+Se engang Alex i FB, hvor seerne her bare se noget serie op til serien.
+
+15:08
+Det er bare reelle tal, når der står her, hvordan vi har regnet den ud, når vi har de to.
+
+15:14
+Så summen eller en Leynar kombination, som vi kalder det her.
+
+15:22
+Line og kombinationen. Så en vinder og kombinationen af polynomier af grad højest ende er igen et polynomium af grad.
+
+15:36
+Højst en. Det vil sige at vi kan lave de her Vejle operationer, som vi også kan med almindelig vektorer.
+
+15:46
+Det kan vi gøre med polynomier. Nemt.
+
+15:51
+Vi går ud fra at håret af forvirring er forskelsbehandling.
+
+15:56
+Vi skal bare. Det skal ikke være sikker på, vi vinder igen op mod 30 min til.
+
+16:05
+Det er derfor du ser dem der blev spurgt, er jeg ikke noget til at forudse.
+
+16:11
+Et af ænderne her er forskellig fra nul regn.
+
+16:16
+Fordi jeg kigger på polynomiet grad højest én, og det vil sige, at hvis nu den der var 0 1.
+
+16:21
+Så er det bare et 1 minus 1 grad polynomium og er af høj grad en dem.
+
+16:28
+Og prøv lige at lægge mærke til, hvorfor det er vigtigt, at der står højest dér,
+
+16:36
+fordi hvis der ikke står højest dér, så ville det ikke være et vektorrum.
+
+16:44
+Hvorfor jeg ikke indefrosset her prøvede forestillende er der nu står mængden af polynomier af grad n arrogant.
+
+16:54
+Så kunne det her jo godt gå hen og blive en nul. Det er sådan.
+
+17:00
+Hvis den og den, der havde hinanden, og jeg lavede det her ageres, så ville resultatet jo ikke være et integreret sprog.
+
+17:08
+Nå, men et grad paulino er grad lavere end en.
+
+17:12
+Og så er det ikke et vægteren, for så har jeg taget et paulino med grejet og lagt sammen med et Panopto grejet ind og fået noget,
+
+17:18
+der ikke er at putte nogen med grejet ind. Men hvordan det er derfor der skal stå kravet højest en.
+
+17:27
+Okay, så det er vigtigt og prøv at se her.
+
+17:32
+Når man kan lave det her for vilkårlige K og H i de reelle tal.
+
+17:39
+Når man kan lave sådan nogle kombinationer, så kan jeg jo vælge Cover H til at være nul.
+
+17:45
+Så har jeg vist, at så ligger nulvæksten der også. Det vil sige, når man katte her.
+
+17:50
+Når man kan det her, så er man typisk i denne situation.
+
+17:54
+Det er typisk nok, og kik på det her.
+
+17:56
+Så har man faktisk vist et vektorrum, men altså en, der er en hel del betingelser, der skal være opfyldt for at regne.
+
+18:02
+Operationer går godt. Der skal være. Man skal også kunne se et parti sørge for at vinde, men eftersom når man regner med polynomier,
+
+18:12
+så er det jo reelt bare nogle reelle tal, man lægger sammen. Så det her.
+
+18:18
+Mængden af polynomier af grad højest ende. Det er også et værktøj, hvor det også vægter rub og stub.
+
+18:28
+Et andet eksempel vi gerne tredje eksempel. Hvis man nu tager ud matricer af samme form.
+
+18:45
+Men så nu så engang enden materialiserer. Og så for at vi skal kunne tegne det.
+
+18:54
+Så lad os nu tage et eller andet, der kunne være to gange tre. For eksempel så vil jeg nu for en eller anden Matrix Matrix A, der ser.
+
+19:09
+Sådan her ud. Og så kan vi tage en anden matrix B af samme type.
+
+19:16
+Den vil jo se ud på samme måde. Der står nogle tal der indikerer også, men så læg mærke til læg mærke til at jeg kan sangens vejen det her ud.
+
+19:33
+For hvis jeg ganger den med et tal, så bliver alt herinde ganget med et tal tilsvarende.
+
+19:37
+Her var man ung, og så kan jeg lægge dem sammen. Resultatet bliver igen en matrix af samme type.
+
+19:54
+Hvad er nulvækst i det? Det her er vigtige rum vi virkelig er fattige.
+
+19:59
+Men det er bare den matrix, der har nul alle steder,
+
+20:02
+så mængden af gennemgange ende matricer med almindelig vægtere, sum og vægt og difference er også et vektorrum.
+
+20:13
+Det får sit eget navn. Det hedder R m krølles n.
+
+20:20
+Det er væg til rummet af revet med m gange blænde matricer, så det også vækster år.
+
+20:29
+Og selv om det ikke er. Selv om det ikke er almindelige vektorer i planen,
+
+20:35
+så opfører de sig fuldstændig som vektorerne i planen kan ganget med tal og man kan lægge dem sammen.
+
+20:41
+Og man får så noget nær det, som vi skal frem til.
+
+20:49
+Det er, at en af de mest hensigtsmæssige ting i forbindelse med vektorerne, som vi kender dem, det er, at vi kan give dem koordinater.
+
+20:58
+Det er jo ufattelig meget nemmere og vejene med vektorer koordinater end at skulle tegne sig frem til et resultat.
+
+21:07
+Det fede ved det er at. For de fleste vægter rum, som vi kommer til at møde her.
+
+21:14
+Der vil vi kunne give vektorerne koordinater på en meget naturlig måde, og det skal vi i gang med.
+
+21:19
+Men først skal vi lige finde ud af, hvad det egentlig vil sige at have koordinater,
+
+21:23
+så nu forlader vi lige eksemplerne her, og nu gør vi tilbage til det helt abstrakte vækstlag rum, V så sådan.
+
+21:38
+Nu lader vi ved at være væk til vor. Hvad vil være en væg for rum og.
+
+21:52
+La vege. V tog op til et eller andet ved K.
+
+21:59
+Jeg sætter vægtere streger nedenunder. Det er bare for på en eller anden måde at skille dem ad fra de geometriske vektorer.
+
+22:07
+De kan bare gøre hvad I vil. I bogen er det jo eller. I noterne er det jo bålfest.
+
+22:12
+Altså, der kan man jo lave Fedele. Det kan jeg ikke.
+
+22:15
+Så lad nu det her være et sæt. Sagde.
+
+22:22
+Er vektorer. Fra V og læg mærke til.
+
+22:33
+At det jeg taler om det kan være engang inden matricer.
+
+22:38
+Det kan være polynomiet, men det kan være konstruerede funktioner på et interval.
+
+22:42
+Det behøver ikke bekymre jer om. I skal bare tænke på, at jeg er et sted, hvor jeg kan regne.
+
+22:49
+Ligesom vi kætterne med de almindelige vektorer yoga.
+
+22:54
+Så nu vil vi så også definere helt abstrakt, hvad alle dine kombinationer er.
+
+23:01
+Så. Men vidende og.
+
+23:10
+Kombination. Er det eller ja, en Linak kombination af disse vektorer er et udtryk.
+
+23:23
+At formen. Ja, der skal jeg så tage nogle tal og gange dem her med, som vi kan.
+
+23:33
+Vi kan for eksempel sige, at en gartner ved et Clowes a to gange begge to flås a k ganget med to og de da af
+
+23:47
+og det er a et a to a k optage k det koefficienterne eliteaktier kombinationen.
+
+23:59
+Det er det, der svarer til mit K og mit h her for eksempel.
+
+24:04
+De skal ligge der. Hvor skal de ligge? Det afhænger i virkeligheden af, hvad det er for en slags vektorrum.
+
+24:09
+Vi er ikke fordi. Enten kan de være reelle, så er det reelt væg til rum.
+
+24:15
+Ser man, eller også kan de være komplekse. Så kalder vi det et komplekst vektorrum.
+
+24:22
+Så helt almindelig har vi jo indføre den betegnelse, der hedder L.
+
+24:26
+For er at se så en Dinart kombination. Det er et udtryk af denne her form, hvor man altså tager et sæt af vektorer og garnerer med skalaer og kan i.
+
+24:43
+Bentley narkoman er sjovt. Hvad vil det så sige, at vi har noget der hedder line afhængighed og uafhængighed?
+
+24:52
+Så lad os lige få defineret hvad der. Hendes reaktion.
+
+25:07
+Der er spørgsmålet oppe på tavlen kan Kellys trylle, befamle og.
+
+25:16
+Han. Jeg har hørt om euklidiske og Hilbertrum er det specielle vektorrum.
+
+25:22
+Ja. Jamen, det er fuldstændig rigtigt, og de skitserede ikke form så.
+
+25:29
+Og dem vender vi folket tilbage til. Så sættet ved et vektorrum op til VK siges at være.
+
+25:51
+Line er et uafhængigt. Hvis meningen.
+
+26:05
+Og så laver vi en ligning, hvor vi tager sådan en leynaud kombinationen hælder en ved en klods,
+
+26:15
+to ved et tog og klods op til a k ved K lig med nul vægteren.
+
+26:24
+Vi sætter det da lige ved nulvæksten. Vi laver et homo gamblingen system, men ser vi, at sættet alene er et uafhængigt?
+
+26:30
+Hvis det her kun har en løsning? Kortet har.
+
+26:41
+Og den eneste løsning jamen det er jo sådan vi kan se er der for alle af.
+
+26:46
+Her er noget. Står der, at nulvækst er lig med nulvækst? Men hvis det er den eneste.
+
+26:52
+Så er vi der. Så hvor er et af ligene af to lig med vine med A?
+
+26:59
+K Leg med tallet 0, så nulløsningen er den eneste løsning til betalingssystem.
+
+27:09
+Husk, at det er algerne, der er de variable og kan.
+
+27:16
+Så hvis det er et ingen system kun har nulløsningen, så ser vi det lineært uafhængigt.
+
+27:23
+I modsat fald siger vi, det er lineært afhængigt. I modsat fald.
+
+27:40
+Kan alt det ligne at afhængig.
+
+27:50
+Og det betyder som vi sår faktisk sidste gang med de helt almindelige vektorer hvis der er lineær afhængighed,
+
+28:02
+så er det fordi en af vektorerne i dette sæt kan skrives som en lineart kombination af de andre.
+
+28:10
+Så kan den mindesten. En af vektorerne.
+
+28:24
+V 1. V tog op til VK skrives som en Linak kombination af de andre.
+
+28:39
+Mut til line. Kombinationen. De andre.
+
+28:55
+Lad os lige prøve hver gang og. Lad os lige prøve en gang at lave et lille eksempel på det.
+
+29:11
+Lad os kigge på polynomier af grad højt to.
+
+29:19
+For de to er så lad os lave nogle lad os lave nogle polynomier af grad højst to.
+
+29:29
+Så ved jeg noget, siger P 0. Det kan være det konstante på linoleum.
+
+29:36
+En så kan Peter Alex.
+
+29:40
+Det kan bare være exit for resten. Og så kan Keto f.
+
+29:46
+Eks. Hvad kan det være? Det kunne så være, at det kunne så bare være ikke serien.
+
+29:55
+Sige Nu har jeg lavet nogle meget, meget simple polynomier, en x og ikke andet.
+
+30:00
+De allesammen er gravet højst to. Om det så tager et tredje polynomiet.
+
+30:11
+Og det tredje på nogenlunde skal være på nummeret grad. Højst to og hver Aquavit tager vi kunne tage fire Clowes 7 x minus 3 ikke serien.
+
+30:26
+Så spørger jeg Er det sat lineært, afhængigt eller uafhængigt?
+
+30:38
+Er satte på noget pænere end pik to og pik tre lineært, afhængigt eller uafhængigt.
+
+30:56
+Det er jo meget reguleres for. Jamen så kigger jeg lige på definitionen hvad skal jeg gøre og kan?
+
+31:02
+Jeg skal sige ja, jeg skal skrive den ligning.
+
+31:09
+Der står jeg op, og det vil sige, jeg skal gange dem med konstanter, og så skal jeg få.
+
+31:16
+Hvad hedder det? Jeg får nulvæksten. Så hvis jeg nu skriver OK, så kunne jeg se en K 0 p 0 nul loose k en gang female blues cow to Ugarte.
+
+31:32
+Kreditorernes kloge korvet tredje p 3 x skal være lig med nulvæksten.
+
+31:42
+Nulvækst. I denne sæson. Det er jo nul funktionen.
+
+31:49
+Pas på det, ikke tallet noget. Det er funktionen.
+
+31:54
+Nul nul funktionen. Hvem der sender alle ikke så over i nul.
+
+31:58
+Jamen, lad os lige kigge på hvordan ligningen her ser ud. Kun udgangen 1 0 plus K en gang 4 x.
+
+32:06
+Det er jo gang eks. Dette er. Det er kåret to gange, to to gange ikke siger anden flods kåret tre.
+
+32:17
+Denne her er så kommet tre i gang. Fire kloge korvet, tre garvede, syv kløves.
+
+32:29
+Ja minus kåret tre gange 3h.
+
+32:33
+Der skulle stå sige andet. Sådan lige med noget.
+
+32:43
+Jeg ved hvordan vores ligning jeg har garnet den sidste med, kunne trække sig selv sådan ud.
+
+32:52
+Hvordan ser løsningerne til sådanne ligninger ud? Jamen altså. Herover står der nul funktionen, så skal du også stå nul funktionen her.
+
+33:00
+Hvordan? Og det vil sige, at hvis jeg nu kigger på hvad er konstant blevet konstant ladet i den funktion, der står for Venstre, ser sådan ud derude.
+
+33:11
+Det vil sige her står der er kommet noget flådes fire k.
+
+33:18
+Tre skal åbenbart være nul, for det er konstant blevet herovre. Hvad står der så ellers?
+
+33:25
+Hvad er første grads leder? Det står bedre og bedre.
+
+33:30
+Det vil sige, der står K indlede kloge 7 gange k tre.
+
+33:39
+Det koefficienten til første grad sled på venstre hånd. Det skal så være koefficienten til første grad blevet på højre hånd.
+
+33:45
+Jamen, det er nul. Kan i tv. Jeg kigger på hvad koefficienterne til konstant glæde første græsslette og nu også angrebslysten.
+
+33:55
+Så her står der Andras med ideer og angrebslegende dér.
+
+34:01
+Det hedder, at K 2 minus tre K tre skal være nul.
+
+34:13
+Er I med hvordan?
+
+34:19
+Kan vi, kan vi løse denne her ligning system vi ved at nulløsningen er der, så vidt alle kunder er nået, så er det selvfølgelig rigtigt.
+
+34:28
+Men hvis nu hvis nu K 0 er hvad hedder det?
+
+34:40
+Hvis nu kun 0 er. 1 og kort tre er minus inden for eksempel, så kunne vi godt få det til at gå op.
+
+34:52
+Der i det hele taget. I det hele taget kunne vi jo bare prøve at løse ligningen.
+
+35:01
+For hvordan? Hvordan løser vi sådan en ligning jer? Det er jo bare en ganske almindelig linje.
+
+35:08
+Alene de ubekendte plejer bare at hedde ikke sig så.
+
+35:15
+Det plejer vi at løse ved at putte det i en total matrix. Hvad hedder de ubetalte?
+
+35:20
+De hedder kun 0 K, et Q2 og Q3.
+
+35:25
+Så hvad har er af koefficienter til kun 0?
+
+35:30
+Der har jeg et der, og så har jeg et nul vejr, og så har et nul.
+
+35:33
+Det er det, jeg en.
+
+35:39
+Hvad har jeg af koefficienter til K. Et. Det er den anden ledning.
+
+35:46
+Den siger at indgangen K, S og Nådegaver K tog indgangen på et nul gram CO2 på syv gange fået tre skal være lig med nul.
+
+36:01
+Vi kan godt skrive den første ligning engang på nul plus fire gange på tre.
+
+36:08
+Skal være lige ud. Og det er min højre side.
+
+36:12
+Hvad står der her, når der står noget, så står der indgangen. Cocteau og minus har jeg ikke skrev et eller andet forkert.
+
+36:21
+Mangler jo på tove, og CO2 skal stå her. Så er der andet.
+
+36:26
+Og så skal der stå mine tre bøger. Er det ikke det? Ja, jeg ved hvordan så den.
+
+36:34
+Den dybt komplicerede manøvre, som hedder at lave matricen, lave ligasystemet om til en Mattrick, har vi nu udført.
+
+36:43
+Næsten har vi nu udført Ocaña og kig lige på den.
+
+36:53
+Kan vi løse dette ligning festdagen er vore mange løsninger er der.
+
+37:04
+Uendelig mange. Hvorfor? Jeg har prøvet at sidde her Vangen Amatrice er tre.
+
+37:15
+Og hvor mange ubekendte har. Fire ubekendte ligger også.
+
+37:20
+Jamen så er der uendelig mange løsninger, kan I sætte og det vil sige I har ikke kun 0 løsning.
+
+37:30
+I har ikke kun løsningen. I har uendelig mange løsninger, og det betyder det betyder, at dette her sæt af polynomier er lineært afhængigt.
+
+37:43
+Så lad os lige skrive en konklusion på tavle 6eren. Uendeligt mange løsninger.
+
+37:58
+Løsninger. Det kan vi se og lægge mærke til.
+
+38:03
+Det kan også lægge mærke til, hvor nemt det er at stille det her op.
+
+38:07
+Læg mærke til i det øjeblik, at vi stiller matricen og op.
+
+38:12
+Så der er ikke nogen af os, der overhovedet tænker på, at det polynomier,
+
+38:16
+vi har med at gøre Ketsana, så er vi tilbage til den situation, vi er trygge ved.
+
+38:20
+Nemlig nu regner vi helt almindeligt med vektorer. Vi regner med tal her, vi gør, ligesom vi plejer, men det er polynomier.
+
+38:30
+Det er en ret ukendt dulle. Lidt frækt at sige dybt komplicerede ligning, for det er det altså ikke.
+
+38:35
+Men det er ikke en helt almindelig ligning, vi er ved at løse.
+
+38:39
+Det, vi har fundet ud af ved at kigge på det, er, at der er uendelig mange løsninger for denne her ligning.
+
+38:44
+Det betyder, at sættet er ikke lineært uafhængige.
+
+38:48
+Det ligner, at afhængigt for sættet er lineært afhængigt.
+
+39:03
+Og så er der straks en af jer der ser aber fra helvede Mikael ikk?
+
+39:08
+Altså bruge lige den store dele af yveret for at prøve at kigge her.
+
+39:14
+Det er da fuldstændig oplagt, at den dag jeg er fire gange den plus 7 gange den mindst tre gange en dag.
+
+39:24
+Klasse, da. Den kan skrives som en leynaud kombination af de andre, og så er sættet lineært afhængige.
+
+39:33
+Så hvis jeg nu lige løfter lidt op her, ikke?
+
+39:38
+Vi skriver oplagt idé i stedet for at gå i gang med den store undersøgelse.
+
+39:46
+Så lige præcis i det her tilfælde, hvor eksempel er så simpel, som det er, så kan jeg se,
+
+39:51
+at fire gange p nummer 6 plus 7 Plus 7 gør p et x minus tredje gang blev 2 x.
+
+40:11
+Er lig med. Det er 3x, så den siges det er en dinara kombination af de forreste og sådan et eksempel selvfølgelig lavt.
+
+40:22
+Men det passer fint. Det passer fint. Sættet er lineært afhængigt, og så kan en af vektorerne skrives, som ligner en kombination af de andre.
+
+40:32
+Så. Af afhængighed og ligene af uafhængighed og lig narko kombinationer hænger fuldstændig uløseligt sammen og.
+
+40:44
+Jeg tror bare vi holder pauser timers pause, folkens.

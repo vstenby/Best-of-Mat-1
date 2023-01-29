@@ -1,0 +1,1265 @@
+0:01
+Jeg kunne morgen. Jeg håber I er kommet tidligt i seng i går, sådan at I er friske til at begynde på et helt nyt kapitel.
+
+0:11
+Jeg tror ikke, der er mange af jer, der har haft det om lineær algebra før, så det er også en chance for alle til at stå på igen.
+
+0:21
+Hvis man ikke var kommet helt op på hesten på de komplekse tal,
+
+0:24
+så har jeg altså chancen nu for, at vi begynder helt fra bunden og et godt sted at begynde.
+
+0:31
+Lineær algebra. Man kan vælge at starte på forskellige steder dér, hvor vi vælger.
+
+0:35
+Det ligner alien systemer, fordi det er en rigtig god ting til at forstå.
+
+0:40
+Hvordan er det i disse matricer, de opstår? Og det handler altså programmet om i dag, hvor vi også lige skal snakke lidt om Mabel,
+
+0:51
+som jo altså fra i dag a kører igennem hele kurset for fuglesang.
+
+0:56
+Og da kan jeg bare lige indledningsvist citere, at når man bruger Mabel, så skal man være klar over, at der altid er mange metoder i Mabel.
+
+1:06
+Så når man skal løse en opgave, så skal man lidt. Så skal man tænke over, hvad er det for nogle kommandoer, jeg skal bruge?
+
+1:12
+Hvordan skal jeg bruge Nebel? Sådan så jeg får min opgave bedst muligt.
+
+1:16
+Og I kan for eksempel se i jeres hjemmeopgaver. Der står der i en række læringsmål, som man skal dokumentere, at man har forstået.
+
+1:25
+Altså disse begreber og de her metoder osv. Og hvis man så lige bruger den Neble kommando, der giver mig resultatet med det samme.
+
+1:34
+Det kalder man for Black Box, når man så får man ikke ret meget for det, så det gælder om at bruge Mabel på en måde,
+
+1:41
+sådan som man ser i de steder, hvor man skal forklare tingene fra bunden.
+
+1:45
+Der gør man det, og andre gange, hvor det bare gælder om at komme videre, så bruger man de hurtige kommandoer.
+
+1:52
+Så I skal ligesom lære at bruge dette værktøj, sådan at den styrker jeg mest muligt.
+
+2:00
+Men vi skal i gang med de glidende og lignende systemer, og ja, vi starter lige med et lille nemt eksempel.
+
+2:10
+Her har jeg en ligning der hedder ex. Et minus to x2.
+
+2:16
+Plus fem x3. Den er lige mig fire.
+
+2:26
+Og den dér ligning. Ja, altså nu skal vi starte i det nye sprog.
+
+2:31
+Ikke er en linningen, siger vi med tre ubekendte.
+
+2:45
+Og hvad mere kan vi sige om den? Den her ligning. Den er lineær.
+
+2:54
+Og ligner. Det er et begreb der vil følge os resten af kurset og ligeværd.
+
+3:01
+Det vil sige, at vi nu siger det på en måde, så vi kommer til at snakke meget mere grundigt om det her.
+
+3:06
+Men det betyder for eksempel, at de ubekendte de ikke ganget med hinanden. De ubekendte er ikke sat i anden.
+
+3:12
+Der er ikke taget eller en af de ubekendte, men de står fint og pænt.
+
+3:17
+Bare gange med en kommerciel og så lagt sammen. Den anden ting jeg lige vil sige det er, at denne her ligning.
+
+3:26
+Den har jeg ordnet, og med det mener jeg, at de ubekendte er her.
+
+3:32
+De optræder på venstresiden og de rene tal.
+
+3:36
+Altså de kendte tal. De optræder på højresiden. Man kan selvfølgelig godt komme ud for en ligning, hvor det ikke er sådan,
+
+3:42
+men hvis I vil bruge metoderne, så skal jeg altså sørge for, at de ubekendte hen på venstresiden med.
+
+3:46
+Ja. Og det har jeg altså sørget for i forvejen. Og så er den sidste ting er, at det her, det er en en homogen ligning.
+
+4:01
+Og det er det fordi at den højere side her den ikke er nul.
+
+4:06
+Den er altså fire, og vi stikker så den. Højresiden er forskellig fra nul.
+
+4:11
+Så kalder man den for en enorm owen, og hvis der lig med nul, så er det en homo gen ligning.
+
+4:16
+Godt. Se hvis hvis vi nu spørger selv undersøg.
+
+4:30
+Om x et komma x2 komma x tre lig med tre komma to komma in.
+
+4:45
+Om det er en løsning. Hvis det var sådan en opgave vi fik her jernmand.
+
+4:56
+Så det her handler sådan set bare om man har forstået hvad vil det sige, at man har en løsning og en løsning?
+
+5:01
+Det vil selvfølgelig sige, at hvis man indsætter disse tal i ligningen, så skal ligningen være sand.
+
+5:07
+Så lad os prøve det, så vi siger altså var exit.
+
+5:12
+Det betyder tre minus to gange med exo den 2.
+
+5:18
+Og så har vi plus 1. Vi regner det ud.
+
+5:22
+Det giver tre minus fire. 5.
+
+5:30
+Her til sidst, ja, fordi vi har. Vi har en vi har fem.
+
+5:38
+Altså en gang telling exit den vej 3 og så mine to gange 2 og så +1 gange i.
+
+5:49
+Ja, sådan læring og vi regne ud. Det giver så tre minus 1 det gummi det giver minus 1 og så +5.
+
+5:58
+Det giver fire. Og så yes, det er altså en løsning.
+
+6:08
+Det har vi altså det vi gjorde her. Det er altså noget vi kalder for at at gøre prøve siger man tit sådan lidt lidt gammeldags.
+
+6:21
+Altså vi undersøger, om det er en løsning. Ved at gøre prøve vil jeg indsættes i ligningen.
+
+6:26
+Godt godtnok. Så det er altså en løsning.
+
+6:31
+Men da der manglede flere løsninger, så nåede der meget centralt.
+
+6:36
+Det er så altså to spørgsmål, der gælder med alle de ledninger, vi skal snakke om, ikke hvor mange løsninger der.
+
+6:49
+Og så hvordan skal vi formulere dem? Og så vil I se den teknik vi så vil bruge, både når det er en ligning og når det er mange ligninger,
+
+7:13
+så går vi op, og så isolerer vi den første ubekendte, der står her.
+
+7:21
+Så det vil altså sige at jeg laver lige ligningen om så kommer der i stedet for.
+
+7:24
+Hertil står at ex et er lig med fire plus to x2 minus fem ekstra.
+
+7:42
+Og det vi gerne vil fremhæve her er så.
+
+7:47
+At. Hver gang jeg vælger et bestemt X2.
+
+7:54
+Jeg vand og jeg vælger et andet X3. Se de to kan jeg vælge fuldstændig frit.
+
+8:00
+Men når jeg har valgt et X2, og når jeg har valgt den X3, så ligger ex et fast.
+
+8:07
+Så nu er der en forskel på de to ubekendte, der er på højresiden, og den er på venstresiden.
+
+8:12
+De er frie. Men den er fast. Og det siger vi altså ved at X2 og X3 det er frie parametre.
+
+8:29
+Og. Og I kan altså se at de har lige som nu fået sådan en slags maskine, der kan producere løsninger.
+
+8:46
+For jeg kan bare sige, at jeg har et ex. Skal vi sige, at hvis vi har X2 er lig med 1 x 3 er lig med nul, så kan jeg regne er ikke set ud.
+
+8:58
+Så er exit lig med, så har vi fire plus to.
+
+9:03
+Det giver 6. Og så har jeg altså fundet en løsning her, der hedder 1 komma 0,6, og hele tiden kan jeg så variere de 2.
+
+9:13
+Og så hvor er nyt der godt. Frie parametre.
+
+9:20
+De får så et nyt navn. For ligesom at understrege det frie parameter.
+
+9:26
+Og så kan jeg for eksempel X2 den proces.
+
+9:29
+Nu giver jeg dem nye navne. Og vi kan sige at x2.
+
+9:37
+Bendt kalder jer for S. Og X3.
+
+9:44
+Den kalder jeg for the.
+
+9:49
+Så i stedet for at skrive min løsnings maskine på denne her måde, så ville jeg gerne have skrevet den op på det vi kalder for standard parameter form.
+
+10:16
+Og når vi skal skrive den på standard parameter form, så vil jeg altså gerne have det sådan, at jeg kan aflæse hvad er mine ubekendte?
+
+10:26
+Hvilken løsning er der for dem? Og så kan vi se at vi havde et altså exit.
+
+10:39
+Den indeholder det her firetal. Og så skriver jeg sådan her.
+
+10:48
+Og så vil jeg gerne have en søjle ellers her. Og ti gange.
+
+10:56
+En anden søjle som står her. Og det er altså de frie parametre X2 og X3, som vi altså skal aflægge i serien.
+
+11:06
+Og så kan vi se hvad er exit? Vi havde et 4 tal.
+
+11:10
+Og så var der to X2 2.
+
+11:14
+Det er jo ellers sådan sige, der skal stå to dér. Og så skal vi have et tal her og et nul der.
+
+11:25
+Fordi nu passer den anden linje. Hvad er det eneste der står i en linje der X2 er lig med nul plus plus nul.
+
+11:34
+Når i gang med teen, så giver det jo nul. Så her står der bare X2 er lig med S.
+
+11:39
+Så det er jo sådan set bare den. Det står bare for den navngivning, vi har givet her.
+
+11:45
+Og når vi har gang i den pointe, så kan vi også lige godt ordne dens sidste linjer her.
+
+11:51
+Ikke fordi X3 skal jo være lige med ti.
+
+11:56
+Det vil sige at her skal vi have et nul, og der skal vi have et ettal.
+
+12:01
+Nu mangler jeg så bare denne her til sidst. Except var 4 plus 2 x 2 minus 5 x 3.
+
+12:10
+Så nu skal der altså stå her minus 5. Og så har vi.
+
+12:17
+Og så skal vi lige understrege at S t. S kommer til.
+
+12:22
+Det er to frie parametre.
+
+12:28
+Og nu har jeg så skrevet denne her på standard parameter form. Nu har jeg en maskine, som kan producere løsninger.
+
+12:37
+Jeg kan bare hele tiden vælge et S og T. Så får jeg en ny løsning.
+
+12:41
+For hvad skal ex et X2 og X3 være? Så vi er altså kommet fra en ligning med tre ubekendte.
+
+12:55
+Som faktisk fremstiller en plan i rummet.
+
+12:59
+Der er nok nogle af jer, der har hørt om ligningen for en plan.
+
+13:04
+Og denne her løsningsmodel vi har skrevet om det er en parameter fremstilling for en plan,
+
+13:11
+hvor dette er et begyndende synspunkt og det der er to retnings vektorer.
+
+13:20
+Så hvis I ligesom hvis I vil forestille jer dette er sådan lidt geometrisk, så kan jeg sige, at vi har et begyndelsen punkt.
+
+13:30
+Og så har vi to retnings vektorer. Og de tilsammen de udspænder en plan i rummet.
+
+13:42
+Vi kan bare. Nu ser vi bare det dér parallelogram. Og I skal forestille jer et uendeligt rum af løsninger.
+
+13:52
+Og den plan af løsninger her. Det er det samme som er beskrevet i den ligning I har herover, så 2 forskellige måder at kigge på en plan i rummet på.
+
+14:09
+Og i og med at der er to frie parametre, så kan vi så sige, at der er en dobbelt uendelighed af løsninger.
+
+14:22
+Og vi vender det vi vender tilbage til. Hvorfor er der? Altså to frie parametre.
+
+14:28
+Det kan vi prøve at sige lidt mere systematisk om senere. Så er vi i gang.
+
+14:35
+Og nu skal vi lige prøve at kigge på et eksempel på to ligninger to ligninger med to ubekendte.
+
+14:58
+Og den lyder sådan her Minus 2 x minus Y er lig med 5.
+
+15:08
+Og så har jeg x plus 2. Y er lig med 2.
+
+15:23
+Se den vil jeg nu løse ved noget der hedder Gausel i MS Elimination.
+
+15:29
+Sådan i bred almindelighed. Og prøv at høre hvad ideen er i den.
+
+15:35
+Altså ideen i den er. Nu vil jeg lave nogle manipulationer med disse to ligninger, så det ender med, at her oppe i den øverst tid til venstre,
+
+15:46
+der har jeg kun ét tilbage, og her i den anledning har jeg kunnet give tilbage, fordi så kan jeg jo direkte aflæse løsningen.
+
+15:58
+Så det er det jeg gerne vil. Og altså ved hjælp af nogle manipulationer.
+
+16:07
+Og så dem der står her for oven.
+
+16:13
+Altså den. Ja, jeg kalder den øverste ligning og siger den står i række ét, og det vil jeg skrive, som er et.
+
+16:23
+Og den står så i række 2, og den mere så kaldes for er 2.
+
+16:34
+Så det allerførste jeg så vil gøre det, så jeg ser Okan, det står der minus to ikke.
+
+16:42
+Jeg vil kun have, at der skal stå ex. I den Nulstil linje er jeg ikke, og jeg kunne selvfølgelig godt gange med minus en halv hive op,
+
+16:52
+men det var meget nemmere lige at bygge de to ligninger om. Så det første jeg gør det jeg siger.
+
+17:02
+Jeg bytter simpelthen de 2 rækker. Er et byttes med frække 2.
+
+17:09
+Og så har jeg i stedet for X+ to by er lege med to, og så har jeg minus to x min nu sy lige med fem.
+
+17:25
+Så har jeg opnået mit første mål, at jeg har et x repræsenteret forhold.
+
+17:33
+Og jeg vil ikke have nogen eks i ligningen forneden, så de dér minus to ikke.
+
+17:39
+Dem vil jeg nu have væk. Og det kan jeg jo gøre ved at jeg bare ganger den øverste række med 2.
+
+17:49
+Og lægger til den nederste. Den måde jeg vil skrive det på, det har vi siger.
+
+17:55
+Er to bliver pudset med to gange med er et.
+
+18:04
+Og så skal vi lige linen systemet op igen. Og hvad har vi så? Først står der bare ex +2 y lige med 2, ligesom far også skal.
+
+18:14
+Vi har set to eks, der blev lagt til forneden. Det giver bare nul, og så skal vi se to gange med to y.
+
+18:21
+Det giver fire Y skal lægge til fra neden, så har vi bare tre y tilbage.
+
+18:30
+Og vi ganger stadigvæk første række med 2, så den skal ganges med to.
+
+18:36
+Det giver fire at lægge til fra neden. De giver 9. Det går da meget godt.
+
+18:46
+Nu vi får fjernet som forleden. Nu vil jeg bare have her forneden, at der kun er ét y.
+
+18:52
+Altså lige som jeg kun har et ekser, så vil jeg kun have et y. Og hvad kan jeg gøre her?
+
+18:59
+Jeg kan jo bare gange række 2 med en tredjedel på begge sider, så det skriver vi så her er to gange med en tredjedel.
+
+19:13
+Og så har vi stadigvæk to. Nej, vi har så X+ 2.
+
+19:21
+Y er lig med 2, og så har vi at Y er lig med 3.
+
+19:30
+Og nu er jeg næsten færdig, fordi i min manipulation, da vil jeg sørge for, at der kun er et ekstra rum.
+
+19:37
+Alle hylderne skal være væk. Så nu skal jeg fjernede de to ideer.
+
+19:43
+Ja, hvordan kan vi gøre det? Hvorfor en operation skal vi lave?
+
+19:49
+Hvad siger du? Og læg til den øverste jas vi ganger det nederste med 2, og det vil sige hvordan kan vi formulere det?
+
+20:00
+Jamen så skal vi bare er et minus.
+
+20:05
+2 er 2. Og så kan vi alle se her.
+
+20:11
+Så får vi altså ganger den med minus to. Så forsvinder det herfra.
+
+20:18
+Den bliver til min nu. 6 skal vi lægge til plus to bliver til minus 44 år.
+
+20:26
+Og så har vi altså her. X er lig med minus fire, og Brøndby er lig med 3.
+
+20:40
+Så det påstår jo så at dette er en løsning og altså er ok.
+
+20:45
+Skal vi lige tjekke CVS extender minus fire, så står der 8 her minus tre.
+
+20:52
+Det kan fem birdies, og så prøver vi også den anden.
+
+20:56
+Der har vi minus fire plus 6 er lige med to.
+
+21:02
+Ja, vores tjek. Gælder, og det vil altså sige de manipulationer vi lavede her.
+
+21:09
+De giver mig den rigtige løsning. Ja, og hvordan?
+
+21:15
+Altså hvis vi skal skrive dem lidt mere tjekket, så kan vi jo skrive hvad skal vi sige?
+
+21:22
+Jamen, der er to måder og ligesom at få det skrevet ordentligt til sidst på ikke er så ex en komma ned ex comme y er lig med minus 4,3.
+
+21:37
+Eller ækvivalent, så kan vi skrive her at x y som en vægter er lig med minus 4 over 3.
+
+21:49
+Sådan her. Det gik jo godt, det var lidt af et kommandoraid.
+
+22:05
+Lad os lige overveje, hvad var det egentlig, vi gjorde? For at nå frem til dette, så altså ideen i denne her.
+
+22:14
+Det her har I et lignende system. Der var et nyt dreaming system.
+
+22:21
+Der var et tredje line system, der var et hjerte inde i system, og derfor er der et femte learning system.
+
+22:28
+Som var tilstrækkelig simpel til at vi kunne bruge det. Fem forskellige lignende systemer, men de har alle fem den samme løsning.
+
+22:38
+Så jeg har altså jeg har altså lavet nogle manipulationer, der bevarer løsnings mængden.
+
+22:46
+Og hvad var det for nogle manipulationer jeg lavede, så det først var, at jeg byttede de to.
+
+22:53
+Ej, det behøver jeg ikke at argumentere for. Løsnings. Ingen kan ikke ændres ved at vi ændrer rækkefølge.
+
+22:58
+Ingen er enig i det. Det var, så bør vi kan diskutere det mere.
+
+23:03
+Så er denne her måske lidt vanskeligere, ikke? Så det jeg siger her, har jeg en.
+
+23:11
+Her har jeg en ligning, som er sand. Lidt populært sagt da ligevægt.
+
+23:19
+Da dette skal veje lige så meget som vi har her på højresiden. Her skal vi også have ligevægt.
+
+23:27
+Det vil sige det der er dér, det vejer lige så meget som da der.
+
+23:31
+Hvis jeg så ganger den her ligevægt med to og lægger til fra neden, jamen så er det jo en ligevægt, der bliver lagt på en ligevægt.
+
+23:41
+Og så kan det ikke ændre løsnings mængden. Så var der lige den her, hvor jeg ret, hvor jeg fangede en række med det med det samme tal fra begge sider.
+
+23:55
+Og det er jo klart tre y. Lima 9 har den har den samme løsning sminket som Y og limet 3.
+
+24:03
+Så det var tre ting jeg gjorde, og det jeg gjorde her.
+
+24:08
+Det er de tre tilladte række operationer. Og så i den første.
+
+24:37
+Jeg må bytte to rækker. Det var altså det allerførste der gjorde lægge et multiplum.
+
+24:53
+Altså det vil i dette tilfælde to gange med en række til en anden række.
+
+25:02
+Lægge et multiplum. Af en række.
+
+25:15
+Til en anden række. Og så er det sidste jeg gjorde, det var, at jeg ganget med en tredjedel.
+
+25:32
+På begge sider af lighedstegnet i denne Irak, Irak 2.
+
+25:36
+Og det må jeg. Gange en række med et tal der forskellig fra nul.
+
+25:56
+Hvis man løser. Et lignende system ved hjælp af de tre række operationer er,
+
+26:05
+så har man løst den ved hjælp af Gauss med reaktion, og det er også første eksempel på det her.
+
+26:18
+Så vi går nu. Lidt op og har her.
+
+26:25
+Vores eksempel 3. Som er tre ligninger med tre ubekendte.
+
+26:33
+Denne hedder minus X2. Plus X3 er lig med to.
+
+26:43
+Og så har vi 2 x et plus 4 x 2 minus to x tre er lig med 2.
+
+26:56
+Og så til sidst der har vi et tre x et. Kluges 4 x 2.
+
+27:04
+Kluges X3. At Imani.
+
+27:17
+Ja. Tre ligninger med 2 3 ubekendte.
+
+27:25
+Denne her vil jeg så løse.
+
+27:28
+Med en særudgave af Gauss Jordan Elimination, der er Gausel Amazon og hedder Gauss Jordan eliminationen, så den forstår I lige om lidt.
+
+27:39
+Men allerførst. Så er der lige noget vi skal snakke om her.
+
+27:45
+For nu bliver det lidt mere kompliceret. Mine første eksempler.
+
+27:49
+Vi skal jo til at løse fem ligninger med syv ubekendte og alt muligt.
+
+27:55
+Så skulle vi ikke starte med at fjerne overflødig information fra dette og ligning system.
+
+28:04
+Og tænke over hvad er det der er rigtig vigtigt der? Og det første der slår mig er det kan i hvert fald ikke være, hvad vi har kaldt de ubekendte.
+
+28:16
+Om de hedder exit x 2 x 3 eller y et y 2 i 3 eller x, y, z eller a b, c.
+
+28:23
+Alfa, beta, gamma. Det kan jo ikke ændre folk pop på lydsiden smagen som Beechey.
+
+28:29
+Hvis jeg gjorde ligesom før, så skriver jeg en masse overflødig information i hver eneste gang jeg har omformet dette lignende system.
+
+28:37
+Lad os fjerne navnene på de dér ubekendte. Se hvor mange til et 2 3, 4 5 6 7 8 tegn kan blive fri for.
+
+28:48
+Og så kommer ideen. Hvordan gør jeg det? Det gør jeg ved hjælp af matricer.
+
+28:54
+Og hvor jeg først kigger på venstresiden her og nu, opsluger jeg, kunne matricen.
+
+29:11
+Og den kan vi kalde for A. Så når jeg, når jeg sætter en streg under dér, så svarer det til i en orden, at a den er skrevet med fed.
+
+29:25
+Altså når vi har matricer og vektorer, så skriver vi dem med fed.
+
+29:29
+Og sådan som jeg gør her i håndskrift og sætter jeres egen streg under. Det betyder bare set A.
+
+29:35
+Og nu skulle jeg så kunne få sendt matricen op, for det er det, der er vigtigt. Hvad det var for nogle koefficienter, har vi.
+
+29:41
+Og nu skal vi passe på, at vi ikke blander dem sammen, så derfor så eksterne.
+
+29:47
+De skal selvfølgelig stå her i den første søjle, som jeg nu laver, så der kommer altså til at stå nul.
+
+29:55
+Og så får vi minus en. Og så får vi en.
+
+30:00
+Og så får vi to. Og så får vi fire.
+
+30:07
+Og så får vi mine to. Og så endelig får jeg tre.
+
+30:13
+4 og en sådan er, så har jeg fået samlet al den information, der er alt den vigtige information er i venstresiden.
+
+30:28
+Og den kalder vi altså koefficient matricen, for den består jo af.
+
+30:35
+Koefficienterne i line systemet og så højresiden.
+
+30:40
+Det bliver bare en vægter. Og det vil sige den er.
+
+30:53
+2. 2. Og 9. Så det var det andet begreb også det tredje begreb.
+
+31:03
+Det er så totalt matricen. Som vi kan kalde for store ting.
+
+31:22
+Og det er sig en matrix, hvor vi først har indskrevet koefficient matricen.
+
+31:30
+Og så har vi bagefter bedt. Sådan her.
+
+31:41
+Og det vil så sige at hvis nu faktisk opskriver totalt matricen.
+
+31:47
+Så vil den så hedde noget minus 1 1.
+
+31:52
+Og så får vi 2 med. Og så bliver den 2 fire.
+
+32:00
+Minus to og to, og til sidst bliver den 3.
+
+32:05
+4. 1. Og 9. Så her har jeg altså samlet hele den vigtige information, som er i det her lige system.
+
+32:24
+Og nu vil jeg så til at lave altså løse denne her, hvor jeg bruger de tre.
+
+32:33
+Tilat række operationer. Så kan I huske det vi sagde, det var det allerførste.
+
+32:43
+Jeg vil gerne have, at der står exit her op. Det svarer til, at nu ville jeg gerne have, at der står et tal her.
+
+32:51
+Første række her står jo for exit. Anden række står for X2.
+
+32:56
+Tredje række står for X3, så jeg skal altså have et tal til at stå der.
+
+33:02
+Og her er der faktisk kun en række operationerne jeg kan bruge.
+
+33:06
+Jeg er nødt til at bytte to rækker. For der er ikke noget tal, jeg kan bruge.
+
+33:11
+Det er lige mig, om jeg ganger, eller hvad jeg gør. Så da jeg kun at bytte.
+
+33:17
+Og hvorfor ikke bare bytte de første to? Så jeg vil altså bytte er et og er to.
+
+33:31
+Så får jeg et to tal for oven. Men jeg vil kun have et et tal.
+
+33:41
+For der skal bare være et exit, så derfor når jeg nu har fået flyttet dem op fra oven, så via gangen.
+
+33:48
+Række ét med en halv. Så se hvordan det ser ud.
+
+33:59
+Så kommer den der altså for oven, og dem bliver ganget med en halv. Så har jeg en 2 minus 1 og en.
+
+34:10
+Og den har jeg byttet ned på andenpladsen. For står der nul minus 1, 1 og 2.
+
+34:17
+Og så har vi uændrede tre, fire, et og ni.
+
+34:31
+Så vi er i gang i godt. Det er som Gauss Jordan elimination vil sige er, at når jeg nu har skaffet mig et ét tal på det rigtige sted her.
+
+34:43
+Så skal jeg så sørge for, at der ikke er nogen i de andre ligninger, hvor exit den optræder, så jeg har et nul her i forvejen.
+
+34:52
+Der var jeg lidt heldig. Men jeg skal have fjernet det tre tal, som står her.
+
+34:57
+Så der kommer til at stå nul her. Sådan at et tallet bliver konge i sin søjle.
+
+35:08
+Ja, hvad gør vi for at få fjernet det totale? Jeg vil sige nu.
+
+35:15
+Hvis du mangler et men træk i.
+
+35:21
+Tak for det. Der bliver sagt vi tager.
+
+35:26
+Vi tar er 3. Og så siger vi minus tre er et, så prøver det.
+
+35:37
+Og så vil jeg forudser. Og i de første 2 rækker de uændret 1 2 minus 1 1 0, minus 1, 1 og 2.
+
+35:53
+Og så ganger med minus én og lægger til nul.
+
+35:58
+Altså undskyld jeg saa minus en gang mellem minus tre og lægger til ganger med minus tre, så bliver det minus 6 plus fire.
+
+36:06
+Det giver to. Ganger den det op med minus tre.
+
+36:13
+Det giver plus tre og lægge 1 til det giver fire. En.
+
+36:28
+Her eller også når to tal Hvad var det vi sagde undskyld?
+
+36:32
+Ja, det var det skulle være mine to, jeg ikke fortalte, var rigtigt. Og så skal vi så sige gang den jeg ved minus tre og lægge til.
+
+36:41
+Her får vi 6. Sådan da. Flot.
+
+36:50
+Så er vi ligesom nået et første. Resultat.
+
+36:54
+Der står et et tal på det rigtige sted og nul og alle de andre.
+
+37:00
+Og så vil vi gerne have her i anden række på det dette sted skal der stå et ettal, for det repræsenterer jo X2.
+
+37:09
+Der må kun være et X2. I anden række. Så det skal vi altså lige have sørget for.
+
+37:15
+Og det er jo nemt. Vi siger simpelthen bare er to gange med minus én.
+
+37:23
+Så har vi en 2 minus 1 1, så er vi 0 1.
+
+37:29
+Mere nu seen. Minus to. Og så har vi nul minus to.
+
+37:35
+Og så har vi fire og seks. A.
+
+37:47
+Vi fik det et tal. Det var det vi ønskede. Men så siger det et tal.
+
+37:52
+Jeg vil være alene i min søjler. Jeg ville fjerne de to andre.
+
+37:59
+Og det kan jeg jo gøre, hvis jeg siger. Vi skal have fjernet dette totalt.
+
+38:05
+Det gør vi ved at vi siger er et minus to er to.
+
+38:11
+Og dér har jeg minus to der skal fjernes, det vil sige nu skærer gangene den med plus to og lægger til her i den nederste gerster.
+
+38:20
+Det vil sige er tre. Plus to er to og.
+
+38:32
+Og så lad os se hvad vi får ud af det. Og vi har.
+
+38:43
+Vi har så altså gange med minus to og lægger til DR.
+
+38:46
+Så har vi en nul. Ganger med minus 2.
+
+38:52
+Det giver plus to til minus 1. Det giver plus en.
+
+38:59
+Gange og med minus to. Det giver plus to.
+
+39:04
+Og lægger til hende de kan fem. Og så enrække det den jeg bruger i øjeblikket.
+
+39:15
+Dem beholder vi bare en 9 nu, scenen og mine to.
+
+39:22
+Og så skal vi gange den her. Med plus to og læg til forneden.
+
+39:27
+Og så får vi nul. Og så får vi gang i den med to ting her det nul.
+
+39:36
+Ganger den med +2. Det giver minus to lægger til.
+
+39:40
+Her får vi +2. Ganger den med min.
+
+39:47
+Så der bliver da. Ja, den ganger vi med 2. Og så får vi minus fire og lægger til 6.
+
+39:54
+Så giver det plus to. Og så fik vi altså dette flotte syn, som Gaucho Jordan så gerne vil have et ettal på det rigtige sted når eller på de andre.
+
+40:10
+Et ettal på det rigtige sted. Nåle og på de andre også, siger de.
+
+40:13
+Så nu vil vi have et et tal her. Og bagefter skal vi have fjernet den på de to steder.
+
+40:21
+Lad os lige starte med at få det ønskede et tal, og det gør vi jo bare.
+
+40:26
+Hvis I er tre gange med en halv.
+
+40:33
+Og så får vi. Så får vi en noget.
+
+40:40
+1 og 5. Det var nemt, og så får vi nul.
+
+40:46
+1, minus 1 og minus to, og så får jeg nul.
+
+40:51
+0, 1 og 1. Vi fik det ønskede en ton, og nu vil det være alene i sin søjle.
+
+41:07
+Det vil sige, at vi skal have fjernet. Vi skal have noget dér, og vi skal handle der.
+
+41:12
+Og det kan jeg sagtens se. Hvordan gør vi det? Vi siger. Er et minus er tre.
+
+41:22
+Og så siger vi. Er to plus tre.
+
+41:30
+Og så ser vi lige hvad får vi så? Det var denne her i går også, som vi skal trække fra fra oven.
+
+41:39
+Så har vi 1, 0, 1 og 4.
+
+41:48
+Altså den minus den giver nul den minus nød den giver. Den giver jo ikke, og så får vi anden række.
+
+41:54
+Denne hedder sådan noget et. Og så skal vi lægge tingene her, og så får vi et nul her.
+
+42:02
+Og lægger ind til her, så får vi minus en. Og forneden der har vi altså en nul, nul, ét og et sådan.
+
+42:20
+Så er vi færdige.
+
+42:24
+Nu har vi gjort det vi ønskede et et tal der et et tal dér, et et tal, der i diagonalen og nulre alle de andre steder, og vi kan ikke komme videre.
+
+42:33
+Der er ikke nogen fjerde række, så gaucho sådan er slut.
+
+42:38
+Og det vi så siger her er, at nu har den opnået trappet form, når den ser sådan her ud, ikke.
+
+42:46
+Det her er et tals trappe. Så vi startede med.
+
+42:53
+10. Og vi er endt med tabte ting.
+
+43:04
+Det er når vi er færdige med eliminationen, så har vi opnået top 10.
+
+43:11
+Og hvis vi nu oversætter til ligninger igen, så læg mærke til være det der står her.
+
+43:17
+Der står et ex et plus nul X2 plus nul.
+
+43:24
+X3 er lig med fire funktioner. Ikke set er lig med 4 0 exit plus X2 plus nul.
+
+43:34
+X3 er lig med minus 1 2 minus 1 og på samme måde.
+
+43:39
+Her har vi altså kan vi direkte aflæse løsningen. Exit komma X2 komma X3 er lig med.
+
+43:51
+Fire komma minus 1 komma en, så er det.
+
+44:05
+Fuck jer altså se. Der var netop en løsning.
+
+44:11
+Og I kan bare vi sige det Hvis I gider os, må I selv gerne tjekke at det passer, når indsætter tallene i det ligning.
+
+44:18
+Vi startede med, så kommer det ind i systemet altså til passet, og det er altså den eneste løsning, der findes i det her system.
+
+44:26
+Så det vi nu skal snakke om er. Hvorfor?
+
+44:35
+Netop. En løsning.
+
+44:51
+Det kan man selvfølgelig sige meget om, men nu føler jeg fyrer jeg lige nogle begreber af,
+
+44:57
+fordi nu skal vi have indført det begreb, der hedder rang af en matrix.
+
+45:03
+Og drengen er en matrix. Det er simpelt hen noget så fornemt som antallet af ledende ettaller, når jeg er færdig med at lave dagsture.
+
+45:17
+Hvordan Elimination? Det vil sige antallet af lyde.
+
+45:21
+Et tæller i Trap TT og ikke. Det formulerer vi lige her.
+
+45:30
+Altså ved. Rangen er en matrix EM.
+
+45:44
+Før forstås. Antallet af ledende ettaller.
+
+45:58
+I Trap M. Og det skrives altså sådan her, at en af.
+
+46:18
+Altså enten kan man skrive operaen M eller tit, og i noterne der skal vi i ro.
+
+46:26
+Brug altså et symbol forrang. Og nu kommer så.
+
+46:41
+En sætning om hvor mange løsninger et ligner et lignende system det har.
+
+46:45
+For det kan vi nemlig definere ud fra begrebet. Så som vi siger her.
+
+46:53
+Vi ser her. Hvis. Hvis rangen.
+
+47:06
+Er koefficient matricen. Er lig med rangen er totalt med matricen.
+
+47:15
+Hvis vi siger, at de to har samme rang. Altså at de er lig med K.
+
+47:22
+Og antallet af ubekendte. Hvis de kalder det, hvis vi kalder det for en.
+
+47:40
+Så er antallet. Af frie parametre.
+
+47:56
+1 minus på.
+
+48:06
+Og lad os lige hurtigt kigge på denne sætning, som giver endnu mere mening, når når vi en gang efter pausen skal have et meget større eksempel.
+
+48:16
+Men lad os lige se, hvordan vi allerede kan bruge den på dette tidspunkt.
+
+48:21
+For betingelsen er altså, at rangen er kommercielt.
+
+48:27
+Matricen skal være lig med randen er totalt matricen.
+
+48:31
+Hvis I nu kigger på det system, vi har arbejdet med her, så skal vi altså først kigge på den matrix, der ligger her.
+
+48:40
+1 3 Kryds tre matrix. Vi skal kigge på antallet af ledende ettaller.
+
+48:47
+En, to, tre. Så bagefter skal vi kigge på antallet af ledende ettaller i hele totalt matricen, så nu kigger vi altså på hele det system.
+
+48:59
+Her. Og det giver samme resultat. 1 1 1 der er.
+
+49:06
+Så vi har altså her rangen af er lig med rangen.
+
+49:10
+RT er lig med 3. Og hvad var nu antallet af ubekendte?
+
+49:19
+Jamen, det er jo tre. Så skal antallet af frie parameter skal være tre minus 3.
+
+49:29
+Det giver nul, og det passer præcis med det, vi har fundet.
+
+49:34
+For vi har kun fundet en løsning. Der var ikke nogen uendeligheder i dette eksempel, så der har vi altså et første eksempel på på det her.
+
+49:45
+Og skal vi lige gå tilbage til vores? Allerførste eksempel.
+
+49:56
+Prøv at se. Hvis vi havde skrevet dette ud som en som en total matrix.
+
+50:01
+Denne ser selvfølgelig lidt speciel ud. Så nu tillader jeg mig lige at.
+
+50:07
+Laver her også te. Den vil så være en minus 2.
+
+50:15
+5. Og 4. Og fordi der kun er en ligning og vi har et et tal her, så er vi allerede færdig med eliminationen.
+
+50:28
+Og I kan se hvad er rangen. At kunne få sendt matricen er.
+
+50:34
+Hvad er randen af totalt matricen? Den er også en bærbar.
+
+50:38
+Antallet af ubekendte var tre, og derfor fik vi to frie parameter for nu at se som to Excel et nemme eksempel på dette.
+
+50:48
+Denne her sætning omkring antallet af løsninger. Godt, så lad os lige et øjeblik kigge på Mikkel.
+
+51:16
+Se, vi kigger lige på dagens program. Og så kan vi se.
+
+51:23
+Fra nu af. Der vil da næsten hver gang være nogen.
+
+51:31
+Officielle Mabel demoer til stede her og da nogle af dem der hedder BASIC og den hedder BC,
+
+51:39
+er nogle som I alle sammen bør kende og kende på den dag, hvor det er på programmet at varmest er.
+
+51:49
+Det kan godt være, der er en vare, der er vigtige næste uge eller et eller andet.
+
+51:53
+Men den kan man godt slappe lidt af med. Det er altså de dér begge sider, der indeholder de kommandoer, I skal kende imellem.
+
+52:02
+Så skal vi lige prøve at kigge på. Denne dag hedder.
+
+52:12
+Denne hedder ligning systemer BASIC. Og så kan især hvis når vi skal lave lineær algebra, så skal vi lige hælde lineær algebra pakken.
+
+52:34
+Og her har I så det lille system jeg lige har arbejdet med på tavlen her.
+
+52:39
+Det er det, der illustrerede her i mediebilledet i morgen. Og så skriver vi altså.
+
+52:49
+Koefficient matricen på den måde som I ser her.
+
+52:56
+Så der er sikkert nogle herrer, der fra gymnasiet har brugt det der hedder et dokument mod og to det input det som I vil se i vores Mabel demoer.
+
+53:07
+Det er det man kalder et strenget code tekst code.
+
+53:11
+Det er det I kan se med røde bogstaver her. Det er det, vi mener. Her er det mest videnskabelige måde at arbejde med midten på, så man kan præcist se,
+
+53:20
+hvad er det for en tekst, som er inputtet, og som kernen i Mabel arbejder med?
+
+53:28
+Og den bør i kende, fordi det er det format, som bliver brugt i ugens test.
+
+53:34
+Så altså hvis man vil undgå at lave formatering fejl altså at glemme et garnene tegn eller set komme, hvad det skulle være.
+
+53:42
+Simpelt Koller, den semikolon. Den slags single er, så er det rigtigt godt at kende denne her tekst Skolen i midten.
+
+53:51
+Og heldigvis er det sådan, at det er meget nemt at opskrive matricer i Mikkel.
+
+54:03
+Det er en man kan godt hive en palette ind,
+
+54:06
+og det vil man gøre nogle gange har så puttet tal ind i sådan en masse i sådan en skabelon med et traktere.
+
+54:13
+Men se hvor nemt det er. Se der er skrevet her ni tal.
+
+54:20
+Er skrevet op her. Og så er der altså lavet et semikolon der.
+
+54:27
+Og et semikolon der. Og det betyder at nu deler Mabel den op på denne her måde,
+
+54:33
+at der hen til første semikolon det bliver til en række i matricen hen til den næste semikolon.
+
+54:40
+Det bliver den næste række i matricen, og så får vi så resten dér.
+
+54:44
+Til sidst så alle tallene op. Semikolon adskiller altså rækkerne der i matricen.
+
+54:55
+Så I skal kende sine kolon. Det er den ene ting. Sæt.
+
+55:05
+Undskyld. Og sådan noget nu leger lige med den.
+
+55:14
+Vi ser nu sat lodret streg i stedet for der. Nå ja, det var lige nu sjovt her i den nye mere end vi skal bruge.
+
+55:24
+Den der. Så er der altså en lodret streg i stedet for de to semikolon.
+
+55:33
+Som der. Så er det vi trykker på præmatur se hvad har vi lavet forkert her?
+
+55:47
+Det burde ikke betyde noget. Se.
+
+56:03
+Der var altså denne her kommando linje, der var bare det mig, jeg er gået død.
+
+56:07
+Så nu satte jeg den bare ned i en ny kommando. Line kan se, hvad der er sket her.
+
+56:15
+Hvis man i stedet for at se mikrolån bruger lodret streg, så bliver de en matrix opbygget,
+
+56:21
+så en avis i stedet for altså de tre tal dør hen til den første lodret streg.
+
+56:26
+Det bliver til en lodret linje der. Så altså forskellen er om man kan sige.
+
+56:35
+Ah! Det er den transponerede matrix. Det er også et begreb, vi skal kende i dag.
+
+56:41
+Altså hvis man har en matrix det der er rækker.
+
+56:47
+Det laver man i stedet en form til søjler, så har man transponerede matricen, og det var faktisk det, jeg havde gjort her.
+
+56:55
+Så det er sådan lidt lidt forkert at skrive a leg med, fordi det er ikke korrekt,
+
+56:59
+når se hvor nemt det er at lave matricer, og det var jeg så denne op, som jeg havde gang i.
+
+57:04
+Det var det. Og så dér havde jeg, så opstår min højreside.
+
+57:14
+Og se. Hvis jeg nu. Bruger den Mægbæk kommando bedre linjer, så så står der 4 minus 1 1.
+
+57:23
+Så har jeg med det samme løsningen. Den fortæller bid om, hvordan det her lille system blev løst.
+
+57:31
+Men det giver mig det rigtige svar. Vi tog i 2.
+
+57:38
+Vi danner totalt matricen. Og så bruger vi den kommando bedre reviews et til nogen form, som er dog sjovere den elimination.
+
+57:51
+Og så fik jeg den med tekst der står her. Det der så kommer ud, er resultatet af eliminationen, og nu skal jeg så selv aflæse løsningen.
+
+58:02
+Den fortæller lidt mere end den første. Og så er der altså her.
+
+58:10
+Hvor man ligesom jeg har gjort. Trin for trin kan bede Mabel om at udføre disse el eliminationen.
+
+58:19
+Så kan jeg lave simulerede hånd regning ved at bruge den kommando, der hedder row operation.
+
+58:28
+Den var lige delt den op i nogle små kapitler her. Men sådan opnår vi altså det samme resultat her.
+
+58:35
+Så det var sådan set den på det, jeg lige vil understrege, føjer Tænk over, hvad det er for en metode, I bruger.
+
+58:43
+Hvis vi nu går ind på dagsordnen, så oversigten. Så vi kunne se.
+
+58:50
+Nu skal I arbejde igen. I troede vi havde fået fred i nat, altså i aftes stormen 23 55.
+
+58:59
+Men nu er vi her igen. Der er et nyt sæt. Og dér står der.
+
+59:05
+Alle de læringsmål som DR for det næste hjemmeopgaver ser, de er listet op.
+
+59:09
+Kig dem grundigt igennem og sørg for at I har forstået, hvad der ligger i de begreber.
+
+59:15
+Det er det, I skal overbevise dem, der skal rette jeres opgaver om, at de har forstået det her.
+
+59:21
+Hvor I vil gøre det i opgaven? Det bestemmer I selv. I skal bare dokumentere det.
+
+59:25
+Så hvis I i hjemmeopgaver. 2. Bruger linjer solgt på det hele.
+
+59:32
+Så får vi ikke ret mange point. Men det kan være hjem opgave set tre, da kender vi alt det her og der er i brug for linjer solgt.
+
+59:42
+For da er det nogle andre læringsmål for det derfor det næste sæt. Men det er sådan noget vi skal tænke over, når I laver jeres hjemmeopgaver.
+
+59:48
+Brug Mabel på en måde, der gør, at de kommer til at forstå matematikken bedre.
+
+59:55
+Pause.

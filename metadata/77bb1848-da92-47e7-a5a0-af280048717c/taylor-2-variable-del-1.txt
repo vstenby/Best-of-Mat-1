@@ -1,0 +1,776 @@
+0:04
+God morgen. Jeg håber I har hygget jer med det hjemmeopgaver sæt, som vi skal aflevere i dag.
+
+0:12
+For det er jo trailere, formularer for funktioner af en variabel og nogle af hovedpunkterne står på den slid, jeg har hængt op.
+
+0:25
+Det er hende. I dag. Hvad skal vi snakke om approksimation og opstiller for funktioner af to variable?
+
+0:37
+Og da jeg så to forskelle, som jeg gerne vil bede om at bide mærke i.
+
+0:44
+I taler for en variabel. Da kunne vi godt finde på at gå højt op i approksimation graden, som vi har.
+
+0:54
+Jeg kan huske at lave øvelser med, hvor vi har kigget på op til grejet, ni sykehus osv.
+
+1:01
+I dag, da nøjes vi med at gå op til anden grad. Vi har også arbejdet med den problemstilling med en variabel,
+
+1:11
+at hvis vi har lavet en approksimation, så kan vi også lave en vurdering på den fejl, vi har lavet.
+
+1:20
+Det kunne vi også godt gøre i funktioner af to variable.
+
+1:26
+Vi har valgt ikke at gøre det, fordi det tekniske, det bliver endnu vanskeligere.
+
+1:32
+Så derfor kigger vi altså kun på approksimation og ned og laver ikke fejlvurderinger.
+
+1:38
+Men det er jo en ingeniørmæssige betragtning. En vigtig ting at kunnen og et eksempel for jer.
+
+1:44
+Det har jeg været fejlvurderinger, når vi har funktioner er en variabel.
+
+1:51
+Men dagsorden er så den, at vi skal se på approksimant Erna første og anden grads polynomier.
+
+2:02
+Og så skal vi have trailers grænse formet til anden orden.
+
+2:10
+Det dækker sådan set første halvdel af forelæsningen. Derefter skal vi så snakke om lokale ekstremer, for funktioner er to variable.
+
+2:20
+Altså noget med lokalt maksimum og lokalt minimum og foregå i gang med det.
+
+2:26
+Så laver vi altså et lille boks op med lokale ekstremer for funktioner af en variabel.
+
+2:34
+Det er noget, jeg har lavet meget af i gymnasiet, men det jeg vil bede jer bemærke i dag, det er noget vi kalder for f dobbelt mærke.
+
+2:43
+Kriteriet for funktioner er en variabel, når vi undersøger det her spørgsmål.
+
+2:48
+Det hænger nemlig sammen med en matrix, vi skal se på i dag.
+
+2:52
+Nu er vi tilbage til lineær algebra, og det er en opvarmning til store dage i næste uge,
+
+2:58
+hvor vi skal arbejde med symmetriske matricer og den matrix, der bliver indført i dag.
+
+3:05
+Den hedder sig hæslig matricen, og vi skal se, hvad heste, matricen, egenværdier og hvad betyder i denne her sammenhæng.
+
+3:14
+De har nemlig en sammenhæng med det, vi kalder f dobbelt mærket kritiseret for funktioner af en variabel.
+
+3:21
+Så får vi altså også et kriterium for lokale ekstremer for funktioner er to variable og flere variable for den sags skyld.
+
+3:31
+Og da er det altså egenværdier, vi skal kigge på. Og det bliver først rigtig forklaret næste gang,
+
+3:37
+men vi tager lidt opvarmning på det i dag og prøver at så lidt intuitivt og kigge på det her spørgsmål.
+
+3:48
+Men vi går i gang med funktioner af ture eller.
+
+3:56
+Og vi har altså F, men er to variable ind i de reelle tal.
+
+4:08
+Og lad os sige det er en glat funktion.
+
+4:12
+Vi kan altså differentiere dem lige så mange gange det vi nu ønsker. Og lad den nul komma nul vejret give et punkt.
+
+4:33
+Det er altså det faste punkt i arbejdet med udviklings punktet, så vi har altså situationen her i tyve planen.
+
+4:51
+At der er valgt et fast punkt udviklings punktet X 0,70, og det skal vi altså bruge til approksimation ord,
+
+5:01
+når vi vil finde ud af hvad er f værdi i et eller andet andet sted, som ligger tæt på udviklings punktet.
+
+5:14
+Vi har brug for to hjælpe funktioner. Kom bare den første.
+
+5:38
+Det er epsilon funktioner. Epsilon funktioner er to variabler.
+
+5:58
+Og det eneste vi er interesserede i, det er, at sådan en funktion som vi kalder en epsilon funktion, da skal der gælde at f.
+
+6:08
+Eks. Minus ex. Nul komma by mener sy nul.
+
+6:17
+Den skal gå i mod noget. Når x komma y går imod punktet x nul komma y nul.
+
+6:32
+15. Så kigger vi på epsilon funktionens værdi.
+
+6:42
+Så gælder der altså, at hvis vi nærmer os det faste punkt, ja så bliver den, at vi skal.
+
+6:49
+Jeg skal lige have skrevet her 0,0. Så går epsilon funktionen imod 0,0.
+
+6:57
+Den bliver altså bare meget lille. Det er det, der betyder det.
+
+7:01
+Må den ene funktion, den anden funktion. Jeg vil indføre det afstands funktionen.
+
+7:09
+Som jeg kalder for ro. Og så i en moderne.
+
+7:22
+Der skrives den lidt mere omstændeligt, fordi der hedder den en der hedder den ro kind, og så skriver man x 0,9 nul som et indeks.
+
+7:37
+Og så skriver man Ex kommer jo. Altså ro er kort sagt afstemmes funktionen.
+
+7:58
+Den måler afstanden fra et givet på og så her hen til.
+
+8:07
+I en variabel der kan i se, der har vi sådan set os en afstands funktion her, fordi her er x minus 6 0.
+
+8:16
+Det er jo afstanden imellem X'et og udviklingsprojektet x0, så den størrelse her og brug hænger sammen på den måde.
+
+8:33
+Og nu er jeg klar til at opskrive det af proklamerede første grads polynomium.
+
+8:50
+Men. Passer det at bokse mere under den første grads polynomium.
+
+9:10
+Altså med udviklings punkt.
+
+9:21
+X nul komma nul. Det skriver vi som P et da company.
+
+9:31
+Køn er lig med F's værdi i det faste punkt plus f differentieret efter ex.
+
+9:45
+Taget i det første eller i det faste punkt og så gange med x minus x0 plus en f.
+
+9:58
+Mærket efter ny i engelsk nul komma i nul ganget med y minus indhold.
+
+10:10
+Og det slog i allerede Lille da i sidste uge for Isao os, at det her det kan vi skrive kort på.
+
+10:23
+Bad skal lawn produkt. Nemlig gradient den af f.
+
+10:30
+Sæde i punktet x0 komma y nul ganget med den vektor, hvis første koordinat er x minus x0 og dens anden koordinat, er y minus i nul.
+
+10:46
+Så er den korte måde at skrive første grads polynomiet på.
+
+10:54
+Og så en vigtig pointe. Selvfølgelig.
+
+11:00
+At grafen for p et er tangent planen.
+
+11:15
+For grafen. For f.
+
+11:23
+I Røddings punktet. Som har de tre koordinater x0 komma nul, komma f a ex nul komma y nul.
+
+11:45
+Så vi har altså vi har en part. Det er en flade, vi kigger på et røddings punkt.
+
+11:51
+Det er eksporten af dem. Det er bykortet natten.
+
+11:55
+Det er set koordinaten. Forrykkes punktet. Godt til.
+
+12:10
+Se, nu snakker jeg lige om en ting fra gymnasie formen samlingen.
+
+12:17
+Det som jeg er sikker på I godt kan huske en.
+
+12:26
+En plan i rummet. Som går igennem.
+
+12:41
+Pung. Død. X nul komma i nul komma ser noget og som har normal vægteren.
+
+12:58
+Skal vi kalde den for store m lig med a komma b komma.
+
+13:04
+Se. At den plan.
+
+13:09
+Den har følgende ligning. Ja.
+
+13:20
+Hvilket ligning. Vi har et punkt den går igennem.
+
+13:29
+Vi har dens normale, så hvad er så ligningen? Det er noget med tre parenteser, hvor A, B og C indgår.
+
+13:41
+Ser jeg en finger eller nogle der sidder og bladrer i gymnasie sammen.
+
+13:46
+Jeg ved ikke, om man kan finde dem på nettet amok. Det er også tidligt på dagen.
+
+13:51
+Jeg skriver den, og jeg er helt sikker på, jeg genkender den. Nemlig a gange med x minus x0 plus b gange y minus nul plus c gange z minus et nul.
+
+14:11
+At det er det er lig med nul. Har I set den før?
+
+14:17
+Godt. Prøv at se jer.
+
+14:30
+Nu kalder jeg denne sag den formlen for.
+
+14:38
+For det er fucking charmerende. Første kranspulsåren bekender jeg nu for stjerne.
+
+14:43
+Og nu skriver jeg lidt om på den. Altså formlen for funktionærerne første grads polynomium er ensbetydende med.
+
+15:09
+Og det er altså noget med at jeg tager disse to led og flytter over på venstresiden.
+
+15:20
+Så har jeg minus f mærket efter eks i x nul komma nul gange med x minus x0 og minus f mærket efter yay i ex nul komma nul gange med by minus nul.
+
+15:47
+Og så har vi så på venstresiden her.
+
+15:54
+Det her er jo set værdien.
+
+15:57
+Det er jo en funktion af to variabler, så det her er højden over eks planen, så det her er z værdien, og at denne her værdi er set nul.
+
+16:07
+Den flytter jeg over på den anden side, så vil altså sige, vi får.
+
+16:15
+Plus en. Og så har vi altså.
+
+16:21
+Så har vi p. Et af ex komma y minus f a x nul komma by nul, og så har vi bare omskrevet ligningen til det her.
+
+16:40
+Og ja, det her, det er den variable set værdi.
+
+16:49
+Og dem der står her, det jeg er jo en konstant, så er min sæt nul, hvad de.
+
+16:59
+Så prøv lige at sammenligne det med gymnasie formen her, fordi nu kan opskrive en normalvægt, så for tangent planen.
+
+17:17
+Tangent planen har normalt vektoren.
+
+17:28
+M er lig med og så ikke i LCC første koordinaten.
+
+17:32
+Den står her minus mærket efter dæks i ex nul komma nul komma minus den partielt afledet efter y komma.
+
+17:50
+Og så står der et fast ét tal på tredje koordinaten.
+
+18:05
+Og det her er jo en fantastisk ny geometrisk fortolkning af gradient den.
+
+18:12
+Folk kan se på de første to pladser i normalvægt hånd for tangent planen.
+
+18:17
+Der står der minus radio enten for F.
+
+18:24
+Og her kan vi altså udlede, at hvis grad hjemby for f i x0 jeg skriver her.
+
+18:36
+Det var godt nok det jeg har skrevet. Ud af.
+
+18:49
+Altså hvis gradient den er lige med 0,0, så står der altså her nul komma nul komma in.
+
+19:03
+Og det vil altså sige når mellemvægteren er nul komma nul komma in.
+
+19:10
+Det vil sige lodret. Og det vi så kan sige er hvis gradient inden for f i x0 komma nul er lig med nul komma nul, så er tang planen vandgran.
+
+19:50
+Og så kaldes det x nul komma y noget for et stationært punkt.
+
+20:21
+Og hvorfor det er vigtigt. Det kommer vi ind på i anden halvdel af forelæsningen, når vi skal snakke om lokale ekstremer.
+
+20:55
+Og jeg skal lige her tilføje at. På.
+
+21:16
+At vi så i lighed med Tellers grænsebomme her for for en variabel nu kan opskrive Grænseforeningen for to variable og I kan se det der står her.
+
+21:36
+Det første der står her, er jo som I ved fra hjemmeopgaver ordene det approksimant af første grad spolen.
+
+21:44
+Så ideen er altså, at min funktion er to variabler.
+
+21:52
+Den kaos skrive ved hjælp af det er Panucci Mesrine første grads polynomium, og så får vi plus en afstands funktion.
+
+22:13
+Svarende til. Afstanden der står her.
+
+22:22
+Og så gange med epsilon funktionen epsilon ex minus i nul.
+
+22:30
+Nej x minus 6 0 og y minus nul.
+
+22:36
+Så det er altså Tellers grænsebomme. Nu skal vi så op i anden grad.
+
+22:58
+Der er brugt mere end anden gastronomi, og som sagt kommer vi ikke højere op i dag.
+
+23:02
+Men det er også højt nok. Og vi skriver så har.
+
+23:10
+Fordi her havde vi. Derfor aktionerende første grads polynomium og vi kigger nu på.
+
+23:21
+Det proklamerede. Anden grads polynomium.
+
+23:32
+For med udviklingens punkt.
+
+23:43
+X nul komma nul. Og det kalder vi selvfølgelig for P 2 af X kommer y.
+
+23:59
+Og hvor vi har det selvfølgelig først og fremmest polynomiet indskrevet.
+
+24:14
+Og derefter så kommer der nogle nye led. Altså hvor vi får nogle hvor vi skal differentiere to gange igen, altså se her P2.
+
+24:29
+Den er et og så pludseligt anden grad slid.
+
+24:34
+Og her får vi også anbragt lidt, men vi får tre af dem.
+
+24:40
+Vi skal nemlig lige foran seer to gange efter eks.
+
+24:46
+Dividere den med 2 tage dens værdi i udviklings punktet ganget med x minus x 0.
+
+24:54
+I anden. Plus, så skal vi differentiere to gange efter Y.
+
+25:05
+Sagde værdien i x 0,10 divideret med to gange med y minus nul i anden, og så endelig får vi f jobbet mærket efter X.
+
+25:22
+Derefter mærket efter lyd taget i udviklings punktet og så gange med x minus x0 og y minus y nul.
+
+25:40
+Så det er formlen for at bokse medierne anden grads polynomium.
+
+25:56
+Spørgsmålet er så. Hvorfor er det at P2 er god til at proklamere funktionen F.
+
+26:05
+Når vi er i nærheden af x0. Hvad er hemmeligheden? Det snakkede vi om, der viste det, da vi talte om de approksimant.
+
+26:16
+Det første efter at proklamerede polynomier for funktioner af en variabel.
+
+26:20
+Det er, at de har samlet de Franchell patienter i udviklings punktet.
+
+26:27
+Altså hvis de tager den funktion, der står her.
+
+26:30
+Hvis de tager den og finder alle dens partielt afledet efter første og anden orden, som var for en værdi, får de x 0,40.
+
+26:42
+Så er de partielt afledet nøjagtig de samme værdier som funktionen f.
+
+26:48
+Og det er altså den der sammenhæng imellem de partielt afledede, der gør at den er brugt til messer så godt som den gør.
+
+26:57
+Og går vi op i grejet til tredjegrads polynomier fjerde grads polynomiet femte grads fodnoter, så betyder bare,
+
+27:04
+at der endnu flere partier download, der er ens for det proklamerede polynomium og funktionen selv.
+
+27:12
+Det er hemmeligheden bag approksimation. 1.
+
+27:33
+Kunne. Jeg havde jo en. Hvor var det vi havde den henad kortform for?
+
+27:44
+Det er bronzevinderne første Kongrespolen.
+
+27:46
+Den havde jeg hende en om end en omskrivning stormen, og nu skal I vise en omskrivning af stormen for denne her.
+
+27:58
+Tag lige en god indånding inden jeg begynder at skrive at.
+
+28:22
+Adskillige okay, det første.
+
+28:26
+Det var nemt nok, men nu kommer den anden lyd.
+
+28:29
+Der kommer kun ét led med mere, så det består bare to led.
+
+28:36
+Jeg skriver en halv. Og så skriver jeg en vanrøgt vægter første koordinaten x minus x0, anden koordinaten DR by mener synåle.
+
+28:54
+Og så skal der altså lidt mere pondus, smiler han. Matrix. F dobbelt mærke efter eks.
+
+29:05
+Taget i x0 komma nul. Et dobbelt mærke er Y taget i en x 0,50.
+
+29:21
+Og så får vi her f mærke efter eks f.
+
+29:27
+Mærke efter Y i X 0,70. Og her får vi at mærke af Y.
+
+29:37
+Altså differentieret efter ex. Differentieret efter y i æg nul komma nul.
+
+29:48
+Det har vi altså den dobbelte differentierede efter eks. Dér har vi den dobbelt differentierede efter Y.
+
+29:56
+Her har vi først differentieret efter ex og så efter Y, og det er det omvendt.
+
+30:01
+Men de to dér de er ens. Når man regne mod, så kan jeg se at det er en sætning,
+
+30:09
+der simpelt hen siger de er altså ikke i alle sædvanlige tilfælde ens, og så har vi altså denne her matrix.
+
+30:17
+Og så skal vi lige have gange det med en søjle vektor. Sådan da.
+
+30:36
+Det var det andet led, så det første møde.
+
+30:42
+Det var altså bare det er proklamerede første grads polynomium. Det andet led.
+
+30:47
+Det var et matrix produkt, der består af en vanden, hvor et vægter med disse to koordinater og så en matrix, der består af de dobbelte dog leder.
+
+31:01
+Og så en søjle vektor som er den samme vægt som den der bare på højkant.
+
+31:11
+Og vi kan jo simpelt hen se det.
+
+31:13
+Hvis I regner det ud, hvis de ganger det her matrix produkt ud og reducerer det, så får vi lige præcis det, der står op.
+
+31:22
+Så det er sådan set, det ser lidt mærkeligt ud.
+
+31:25
+Men det er en simpel omskrivning. Og den her matrix vil vise sig at være vigtig, så derfor giver vi dem selvfølgelig et navn.
+
+31:42
+Lad os kalde den for H. Og den kaldes efter en tysk matematiker for helse matricen.
+
+32:03
+For hans navn var altså heste. Det var fornavnet.
+
+32:08
+Efternavnet var matricen efter. Den der matrix vender vi tilbage til også efter pausen.
+
+32:27
+Men nu skal vi altså lige se på et eksempel på, hvordan vi udregner sådan et proklamerede angrebsspil.
+
+32:39
+Inden jeg gør det, så vil jeg dog lige sige, at.
+
+32:48
+Skal I se? Jeg tager lige denne her op et øjeblik, og så kan vi vi kalde den.
+
+32:58
+Trailers grænse, former. Af ordenen 2.
+
+33:10
+Underforstået med udviklings bumpet ex nul komma nul, så den kan vi nu skrive op.
+
+33:21
+Det er nemlig at funktionen selv. Devalueret i et punkt der ligger ved siden af x0, kan opskrives ud fra anden grads polynomiet.
+
+33:41
+Og så plus skal vi lige kigge på en parallel, og den har vi her.
+
+33:52
+Afstanden i hjernen er. Afstands funktionen i enden og så en epsilon funktion af to variable x minus x nul komma y minus i nul, så det.
+
+34:15
+Vi kigger på et eksempel. Lad os tage funktionen l m.
+
+34:30
+Y plus x i anden. Det er jo netop sådan en funktion, hvor vi måske kan være heldige at finde dens præcise værdi i nogle enkelte punkter,
+
+34:50
+men alle andre steder vil være ufattelig svært at regne ud.
+
+34:54
+Så det er altså sådan en, vi gerne vil proklamere. Skal vi lige først se på dens definitionsmængde for at det her udtryk, det giver nogen mening.
+
+35:14
+Så skal indmaden her. Den skal være større end nul.
+
+35:22
+Og det er ensbetydende med at U skal være større end minus ex i anden.
+
+35:35
+Så tegner vi her. Jeg er syg.
+
+35:39
+Planen. Så kan vi altså tegne grafen for minus X i anden.
+
+35:59
+Kør og et definitionsmængden er så alt det der ligger over den stiplede linje.
+
+36:05
+Her. Kilden.
+
+36:19
+Her er den ikke defineret. Den har ingen mening, men det har den altså.
+
+36:23
+I det andet område. Så hvis jeg gerne ville lave en approksimant funktion ud fra denne her, så skal jeg jo vælge mig et komfortabelt punkt.
+
+36:34
+Det er jo det, der er ideen i dette faste punkt x 0,7 nul.
+
+36:39
+Det er et behageligt punkt, fordi vi kan nemt udregne den vanskelige funktions værdier netop i det punkt, og der har vi jo et punkt her.
+
+36:50
+Som hedder x nul komma nul er lig med 1,0.
+
+37:03
+Så det er altså mit. Det er det jeg vælger som mit udviklings punkt.
+
+37:31
+Og nu har jeg så brug for en række værdier for at kunne opskrive af proklamerede anden grads polynomium og den første værdi.
+
+37:43
+Jeg har brug for. Det er jo funktionens værdi i 1,0.
+
+37:56
+By Denne er altså noget, og her får vi en.
+
+38:01
+Og så står der 1 1. Det vil altså sige, den er nul.
+
+38:08
+Og så skal jeg have en, to, tre, fire, fem differentiel procenter for at kunne udregne den nemlig.
+
+38:21
+Fra denne her har vi de første år overlevet, og så skal vi have udregnet den dag og det.
+
+38:32
+Så jeg har altså. Mærket efter eks skriver er der lidt kort her.
+
+38:43
+Og så skal vi altså have differentierede denne her efter ex l.
+
+38:47
+M. Når vi differentiere dem. Det er jo en over indmaden.
+
+38:59
+Og så skal vi differentiere den indre funktion. Der får vi nul, og vi får to ex.
+
+39:04
+Så her har vi altså to eks. Og det medfører så at mærke efter eks i tallet 1,0.
+
+39:20
+Selv synes er det rigtigt. By.
+
+39:24
+Den er nul, extender 1 og så får vi altså værdien 2.
+
+39:34
+Så får vi. Så får vi f dobbelt mærket.
+
+39:43
+Nu skal jeg så differentiere den efter eks. Jeg skal sætte nævneren i anden.
+
+39:54
+Differentiere tælleren gange med nævneren uberørt.
+
+40:02
+Og så er minus tælleren. Det er to dæks.
+
+40:09
+Gange med differentialkvotienten af nævneren, det er også to ex.
+
+40:17
+Og så skal vi have evalueret. I en med nul.
+
+40:28
+Og den er den er nul, så står der 2. Så står der minus fire.
+
+40:34
+Det er minus to, og vi får bare én fra en fra nævneren.
+
+40:40
+Så det bliver altså minus to. Så differentierer vi.
+
+40:56
+Så differentierer vi funktionen efter by eleven igen ind over indmaden.
+
+41:08
+Og så skal vi gange med differentialkvotienten af den indre funktion.
+
+41:12
+Ex bliver differentierede board, den er konstant, og så får vi en.
+
+41:16
+Så her har vi altså resultatet. Dette det medfører at f dobbelt mærke efter y taget i en er nul.
+
+41:29
+Den giver os så en. Og så skal vi have pæne F dobbelt mærket, og det vil altså sige den størrelse, der står her.
+
+41:51
+Den skal differentieres efter Y, og det bliver minus 1 over nævneren i anden.
+
+42:07
+Og skal de skal så ganges med en, fordi vi også differentierer den indre funktion og ganger den på to,
+
+42:17
+og så har vi den næste værdi, nemlig at doble mærket efter Y.
+
+42:23
+I en kom 0. At den giver vi har en hær vi har nået, og vi har en dér, og alt i alt giver den så mere nu, se.
+
+42:45
+Og så skal vi altså have dem, hvor vi først differentiere efter den nye variabel og så efter den anden variabel.
+
+42:51
+Jeg kunne også differentieret efter ex først.
+
+42:53
+Den er lidt vanskeligere her, så nu beholder jeg så den værdi, der står her, og den differentierede jeg så efter X.
+
+43:07
+Og der bliver så også nævneren i anden.
+
+43:13
+Og så skal vi differentiere med hensyn til den indre funktion. Det bliver så to ex.
+
+43:19
+Og det medfører så at den dobbelt differentierede her efter 1,0.
+
+43:28
+Den giver os, så her har vi nul. Dér har vi en.
+
+43:32
+Det har vi en. Så det hele giver altså minus to.
+
+43:40
+Det er de fem konstanter vi har brug for, når vi skal opskrive ankomst, polynomiet hvilket jeg gør nu.
+
+43:56
+Først skal vi have. Selve funktionens værdien den var noget.
+
+44:09
+Og så skal vi have den. Så skal vi have den dér, hvor vi har differentieret en gang efter Extinction.
+
+44:17
+To gange med x minus nul.
+
+44:26
+Og så skal vi have den stoppet. Den første differentierede efter Y den vej ind i.
+
+44:35
+Jo. Og så får vi plus en og så gange med y minus nul.
+
+44:46
+Og så skal vi have den dobbelte differentieret efter ex.
+
+44:50
+Den var 2. Den skal divideres med 2 stort.
+
+45:01
+Da vi har lært det. Og så har vi altså x minus x0, som er en anden.
+
+45:13
+Og så skal vi have den dobbelt differentierede efter y.
+
+45:17
+Den var minus 1 skal også.
+
+45:22
+Skal også deles med 2. Og der får vi altså by minus nul i anden.
+
+45:33
+Og så skal vi have den. Hvor vi differentierede efter begge variabler.
+
+45:40
+Den var minus 2 og sagt gange med x minus 1 og gange med y minus nul.
+
+45:53
+Og så kan vi lige pynte lidt på det. Så får vi to x.
+
+46:02
+Minus to og så får vi et plus Y, og så får vi minus x minus.
+
+46:12
+I anden. Og så får vi minus en halv byld i anden, og så får vi nye NOS 2 x minus 1 og Y, og så har vi altså udregnet det,
+
+46:31
+proklamerede Anders polynomium med udviklings punktet 1,0 og så nu nemt udregner værdier, som ligger i nærheden af dette punkt.
+
+46:45
+Hvis. Det er bare at bruge de fire redningsfartøj, så kan vi altså finde proklamerede værdier godt.
+
+46:59
+Pause.

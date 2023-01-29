@@ -1,0 +1,932 @@
+0:06
+Og venter altid til. Jeg hører jo lige har haft en lille vinterferie på en lille uges tid, så jeg håber I er friske til et spændende forår som efter.
+
+0:23
+Hvor vi hele foråret skal arbejdet med funktioner af flere variable differentiere, integrere osv.
+
+0:33
+På nær i dag, så handler det om funktioner af en variabel.
+
+0:37
+Så er det også slut allerede på Lilledal. Der skal vi snak om trailers formler for flere variable.
+
+0:45
+Det er et rigtig klassisk emne vi skal have gang i. Og jeg har lige lavet sådan en lille appetizer.
+
+0:52
+Her kan I kan sidde her foroven her i højre side.
+
+0:58
+Der har vi nogle forskellige polynomier og polynomier.
+
+1:03
+De er altså rigtig, rigtig rare have, for de er meget nemme at arbejde med.
+
+1:09
+Skal vi udregne en funktionens værdi for eksempel her funktions værdien af 32, jamen så kommer der bare et regnestykke vi kan lave,
+
+1:22
+hvor vi kun bruger plus minus gange og måske dividere består af en brøk foran.
+
+1:28
+Så det er altså nemt. Og matematik vil være meget, meget nemmere, hvis der i denne verden kun fandtes polynomier.
+
+1:38
+Men det ved vi jo, at det er ikke tilfældet. Vi har jo funktioner som cosinus, kvadratrod, ln, 1 x osv.
+
+1:50
+De funktioner, som har nogle dejlige egenskaber, og vi kender måske deres værdi i enkelte punkter.
+
+1:58
+For eksempel ved vi, at cosinus til pi den er minus 1, så nogle enkelte steder kender vi dem.
+
+2:07
+Men hvis vi vil have udregnet dem i et vilkårligt tal, så kan det være helt umuligt.
+
+2:15
+Og det var noget af det, som tele og han tænkte over.
+
+2:19
+Og så fandt han ud af, at hvis det er glatte funktioner, det vil sige, de kan differentieres lige så mange gange, man vil.
+
+2:28
+Jamen, så kan man approksimant dem lige så tæt man vil med polynomier.
+
+2:35
+Så nu skal I bare se. Her kom omkring nul.
+
+2:39
+Da erstatter det her polynomium cosinus. Og omkring en da er erstatter polynomiet her kvadratroden.
+
+2:50
+Og her har vi en erstatning for l. M. Omkring punktet en.
+
+2:56
+Og dér har vi en tilnærmelse til eksponentielt informationen omkring nul.
+
+3:03
+Så det er altså approksimation, når vi ser til højre. Og dem kan vi så bruge, når vi skal udregne nogle værdier, og det er det, det handler om i dag.
+
+3:11
+Programmet. Og der kommer jo sådan nogle vigtige begreber, nemlig udviklings punkt.
+
+3:18
+Det er det punkt, hvor vi gerne vil have nogle tilnærmede værdier udregnet fra.
+
+3:24
+Og så er der spørgsmålet Hvilken grad skal polynomiet have her?
+
+3:28
+Der har jeg bare taget nogle tilfældige grader for de forskellige polynomiet vi kan se, der er første kranspulsårer, men der er fjergræs osv.
+
+3:37
+Og så er det dér. Ja, men hvis de bruger en approksimation.
+
+3:42
+Hvor stor er fejlen så, og her er det meget vigtigt at forstå, at vi kan ikke vide, hvor stor fejlen præcis er.
+
+3:50
+Det vi kan gøre os et håb om det at sige at fejlen er i hvert fald ikke større end det her.
+
+3:56
+Så når jeg bygger min bro, og jeg bruger approksimation ord, så ved jeg altså, at de tal jeg bruger fejlene, i hvert fald ikke større end det her.
+
+4:06
+Så jeg garanterer altså for, at broen ikke falder sammen. Så derfor er der tre vigtige pointer i dag.
+
+4:13
+Hvordan laver vi approksimation? Hvordan vurderer vi fejlen her bør ske?
+
+4:20
+I vælger til? Hvad betyder ordet vurdere? Det betyder altså at finde en overgrænse for fejlen, og så endelig skal vi snakke lidt om grænseværdier.
+
+4:32
+Og jeg vil bestræbe mig på i dag ikke at blive altså blive færdig til tiden og helst for lidt før.
+
+4:39
+Jeg har nemlig et fly, jeg skal nå her lidt over et så, men mit gennemgående eksempel er altså, at vi skal prøve at udregne den naturlige logaritme.
+
+4:56
+Er tallet fem fjerdedele. Altså jeg vil have L.
+
+5:04
+N af fem fjerdedele, og nu har jeg så været så fræk,
+
+5:11
+at jeg rent faktisk allerede har slået den op på lommeregneren, og det er lige præcis det, der er forbudt i dag.
+
+5:27
+Så det har vi altså en en lommeregner tilnærmelse.
+
+5:32
+Nu sætter jeg en parentes om det. Det er bare for, at vi altså har en eller anden idé om, hvor det er vores problem med lommeregneren.
+
+5:43
+Det er jo os. De bruger altid approksimation og hvor stor deres fejl.
+
+5:48
+Det kan vi ikke lige se, hvis vi ikke kender de programmer, der ligger i maskinen.
+
+5:52
+Men det vi kan gøre i dag, er, at alene med håndevending, da kan vi sige, vi kan få en så tæt tilnærmelse,
+
+6:01
+som vi overhovedet ønsker, og garantere, at fejlen ikke er større end den, som er tilladt.
+
+6:08
+Så her kan vi altså blive mere præcise, måske en lommeregner, hvis bare vi har tid til at regne ud med militære regninger når.
+
+6:16
+Ideen er altså ingen hjælpemidler. Vi har kun papir og blyant.
+
+6:20
+Det er det, vi regner med nu, og der skal vi altså har fundet den en værdig for en tilfældig fjerdedel.
+
+6:28
+Og hvad er det egentlig for en funktion? Hvad ved vi om den?
+
+6:33
+Den er defineret som den omvendte funktion til eksponentielt funktionen.
+
+6:38
+Og hvad ved? Hvad ved vi mere? Ja, vi ved at l n er en.
+
+6:43
+Den er lig med nul. Den er nul. Så det er i hvert fald et sted, vi kender den.
+
+6:50
+Og så ved vi, at l. N mærke f. Eks. Denne er en over eks.
+
+6:58
+Og dermed så ved vi altså også a l n mærke a 1 den er 1.
+
+7:10
+Så med de to oplysninger kan jeg godt sådan forsøgsvis prøve at lave en tegning af grafen for l en.
+
+7:23
+Den skal altså gå igennem tallet et. Og den har altså Hennings vorbis1.
+
+7:29
+Den 1. I ét. Og så kører den altså på den her måde.
+
+7:34
+Det er en. Og den værdi vi er ude efter, det er altså værdien i fem fjerdedele.
+
+7:46
+Svarende til den højde som ligger dér.
+
+7:55
+Og så min første idé til approksimation. Det er lige præcis at bruge tangenten i stedet for.
+
+8:06
+Så i stedet for den rigtige værdi, så finder jeg i stedet for den værdi der ligger ovenover på tangenten og tangent dens ligning.
+
+8:19
+Den har vi jo. F mærke x0 plus ændringen.
+
+8:26
+F a x0 plus et mærke af x0 gange med x minus x0.
+
+8:35
+Herudfra Hvad laver jeg? Det proklamerede polynomium af første grad.
+
+9:00
+Og det skriver jeg sådan her. P.
+
+9:04
+Et a ex. Denne her så f.
+
+9:09
+A x0 plus f. Mærke x0 ganget med x minus x0.
+
+9:19
+Så det er altså formlen for den approksimant Erna fulde nummer af første grad.
+
+9:25
+Og det er et tallet der står her. Det er altså graden jeg angiver.
+
+9:31
+Og i et af proklamerede polynomiet hørte altid til et udviklingsforum, altså til et bestemt x0.
+
+9:39
+Så nu skal jeg altså bruge denne her formel på en.
+
+9:50
+Og det vil altså sige at i dette aktuelle tilfælde der har, vil jeg altså bruge x0 lig med en som mit udviklings punkt.
+
+10:01
+Og så har jeg et proklamerede første grads polynomium, der hedder L 1.
+
+10:08
+En plus l m mærke er en ganget med x minus 1.
+
+10:23
+Og øllene er en den ved vi jo. Den er nul eller en mærket af en.
+
+10:30
+Den er en. Og så står der her altså x minus 1.
+
+10:40
+Og nu har jeg allerede min foxe mindreværdig mm til fem fjerdedele er altså næsten det samme som p ét af fem fjerdedele.
+
+10:56
+Ja, vi kan lige skrive det her helt ud. Den er så ekstrem i New.
+
+11:02
+Så det vil altså sige i det her tilfælde fem fjerdedele min egen.
+
+11:07
+Den er en fjerdedel eller også skrevet som nul komma to, fem, nul to.
+
+11:21
+Så det var altså det som lommeregneren gav mig. Det her er den værdi jeg får af det proklamerede første grads polynomium.
+
+11:41
+Og den er og den er ikke særlig approksimation, den er ikke særlig god, så det må vi kun gøre bedre.
+
+11:51
+Og så tager vi selvfølgelig approksimant erne polynomium af grad 2.
+
+11:56
+Og nu skal vi se, hvordan det ser ud. Her har vi formlen for det p.
+
+12:03
+2. F. Eks. Denne er f.
+
+12:08
+A x0 plus f. Mærket A.
+
+12:12
+X0 Kluges f. Dobbelt mærke i x nul divideret med 2 fakultet og sagt gange med x minus x0.
+
+12:27
+I anden søndag. Og vi skal lige her.
+
+12:36
+Jeg skal lige her have en pause, for undskyld, jeg skal lige have tjekket den her F.A.
+
+12:42
+X0 plus et mærke af x0 gange med x minus x0.
+
+12:49
+Også her kommer så den sidste ned på her. Og da kan I se Panopto består, så faktisk er p.
+
+12:59
+Et a ex. For det var jo et billede der står dér.
+
+13:07
+Og så kommer der altså i et nyt led. Hvor F skal differentieres to gange.
+
+13:15
+Og så har vi den her stående hær. Det er formlen for at det er charmerende, andet kraftfuldt.
+
+13:32
+Se I kender godt symbolet før politiet trøjer.
+
+13:39
+Hvis f.eks. Vi har fem fakultet, så betyder det en gang med to gange, tre gange, fire gange fem.
+
+13:47
+Her står der to fakultet, det vil altid sige b indgangen.
+
+13:51
+2. Det er det samme som 2. Hvorfor skriver jeg så to fakultet?
+
+13:58
+Det vil fremgå, når vi kommer op i højere grader. Jeg kunne altså sådan set godt bare skrevet et to tal i nævneren.
+
+14:06
+Men for generalisering skyld har jeg allerede her skrevet en fakultet på Resino.
+
+14:19
+Kan du se hvordan jeg tror den formelle er ren.
+
+14:28
+De vildeste eksperimenter havde den spanske seksualitet.
+
+14:36
+Når det er kommet på rette sted, tror jeg, det vil ske udfra kvalitet, og så er det det, der bliver sagt.
+
+14:44
+Det er vist flere på vej, at der skal stå tre fakulteter.
+
+14:50
+Så skal det jo være en divideret med tre på den tid.
+
+14:57
+Men det ville jeg jo bare lige. Du bør få, at du kan få talt du formentlig med, og det kan vi de godt senere kopi.
+
+15:05
+Du skal jo også regne med at skulle på budget, men ud over det også.
+
+15:11
+Så jeg tror egentlig, det er rigtigt. Men jeg kan godt se det.
+
+15:18
+Men vi er nu i gang med et eller andet til fem fjerdedele, og nu skal vi så se,
+
+15:23
+hvilken værdi vi får, når vi nu bruger det af funktionærerne andenkører og spolet i stedet for.
+
+15:30
+Så nu vil jeg altså skrive P2 af X op for det eksempel vi har.
+
+15:40
+Og der kan jeg altså bruge P et af ex som et udgangspunkt.
+
+15:46
+Og det vil altså sige det var det vi regnet ud her. Hende så bliver hendes far, der får vi så x minus en.
+
+15:55
+Plus. Og nu skal vi altså have differentieret.
+
+16:02
+To gange. Og så L en dobbelt mærket i et X.
+
+16:13
+Det er jo så ind over eks mærket, og den er minus en divideret med ægte hjerne.
+
+16:25
+Så vi får altså her. Og det at det medfører så at L.
+
+16:34
+N dobbelt mærke i en. Den giver så minus en.
+
+16:42
+Men lige for en ordens skyld så vi lige formen ud her, fordi det er så ældet end dobbelt mærke i udviklings punktet x0, som stadigvæk er en.
+
+16:54
+Den skal så divideres med 2. Og så har vi altså x minus 1 i anden.
+
+17:06
+Og det giver så x minus 1, og så får vi her fra minus en halv.
+
+17:15
+Og så får vi x minus 1 i anden. Det må da proklamerede ankomst polynomium fra l m med udvekslings punktet x0 lige med i.
+
+17:30
+Og nu kan vi så få en tilnærmet værdi l m, c5 fjerdedel er næsten det samme som et to af fem fjerdedele.
+
+17:45
+Som så er en fjerdedel, og så er minus en halv gange med en fjerdedel i anden.
+
+17:56
+Det er så den 16. Andel. Og så får vi her som fællesnævner.
+
+18:03
+32, og så får vi otte farver skal trække i en fart.
+
+18:07
+Det vil sige, at det giver 7. 32 dele, og hvis man så dividere 7 med 32, så får man så noget som nul komma to.
+
+18:24
+En otte. Så det er altså vores nye værdi.
+
+18:33
+Så I kan se vores største værdi den var 0,25 nul.
+
+18:38
+Den anden den er 0,2 i 1 8. Og den her ligger jo ganske rigtigt meget tættere på den værdi, der ligger her.
+
+18:51
+Hvis man ikke er tilfreds med det, ja så får vi selvfølgelig bare op i grejet på vores proklamerede polynomium.
+
+19:00
+Og skal vi lige kigge på formen og få dem? Det er brugt charmerende tredjegrads polynomium.
+
+19:16
+Det er det approksimant anden grads polynomium, altså det vi regnede ud hér.
+
+19:24
+Og så plus et nyt led som er F.
+
+19:28
+De France sejrede tre gange i x0 divideret med tre fakultet og så x Venus x 0 i tredje.
+
+19:47
+Og det kan vi så generalisere, så vi kan sige.
+
+19:54
+Det er proklamerede en begravelse polynomium. Det er altså det at vokse myrerne polynomium er en grad mindre.
+
+20:06
+Det vil sige 1.000.000 seen. Plus et nyt led, som fremkommer ved at vi differentiere funktionen inden gange tager værdien i x nul.
+
+20:23
+De vil dermed n fakultet også og ganger med parentesen x minus x0 i ante,
+
+20:34
+så det er den generelle form for det approksimant gerne integreres polynomium.
+
+20:43
+Og det vil altså sige hvis jeg ønskede bedre værdier her, jamen så var det bare om at regne videre på det her, og lad os lige prøve at kigge på maven.
+
+20:58
+Efter. Py og I kan altid se det er netop.
+
+21:32
+Her det første eksempel. Det er netop et emne, som vi arbejder med.
+
+21:49
+Og der har vi altså grafen, som jeg også tegnede på tavlen før.
+
+21:54
+For med Mabel er det meget nemt at udregne de proklamerede polynomier for kommandoen M.
+
+22:01
+Tiller. Og argumenterne er altså Udviklingsforum det har vi brugt x0 lig med en.
+
+22:12
+Og hvis det er første grads polynomium, så skal man af en eller anden grund skrive to bøger.
+
+22:17
+Og hvis det er tredjegrads polynomium, så skal man skrive tre, for det tal skal være én over det.
+
+22:23
+Den grad man ønsker at polynomiet. Nu skal der så et.
+
+22:32
+Så får du en en konstant funktion. Så skal du ud.
+
+22:37
+Så vil vi gerne lige prøve. Er vi vendt, så vi den sammen lige bagefter.
+
+22:44
+Men du gør altså det du skal gøre er, at du får. En vendere funktion som approksimation af protein.
+
+22:53
+Men altså her har vi altså tangent den i i en som approksimation til funktionen,
+
+23:01
+når I kan se den, ligger jo dejlig tæt på funktionen omkring udviklings punktet.
+
+23:11
+Pointen er nu. At vi så kan få en gravet op.
+
+23:20
+Og så er det ikke en ret linje vi bruger til approksimation.
+
+23:24
+Men I kan se det er en anden koldeste ting her, så det er en parabel, vi nu proklamerer med.
+
+23:37
+Og så kan jeg se at nu kom overensstemmelsen er så meget større ude til siderne inde omkring en, der kan man slet ikke se forskel på dem.
+
+23:50
+Og så er der skåret op i et tredjegrads polynomiet. Og så blotter vi dem.
+
+23:59
+Og nu kan vi se. Altså nu er det endnu længere til hver side, som den er proklameret.
+
+24:05
+Så der er altså noget mirakuløst simpelt hen ved disse er proklamerede polynomier.
+
+24:12
+Det bliver også lidt tydeligere når. Vi også kan prøve og bare tage funktionen Cosinus IX.
+
+24:24
+Jeg skal lige se dit spørgsmål derfra før med.
+
+24:29
+Med den her Ellen. Altså hvis du havde skrevet nul, så havde du bare fået ikke saksen som en approksimation.
+
+24:36
+Så har du altså haft en anden, der går op igennem her. Og så har approksimation simpelthen været forskel.
+
+24:42
+Forskellen til til exactly. Men lad os nu se på cosinus.
+
+24:50
+Og at proklamere omkring nul. Og her der bliver første gratis polynomiet.
+
+24:56
+Det bliver også en ret linje,
+
+24:58
+nemlig den der ligger dér og vi kan altså og her herinde omkring og så se hvis vi går op i anden grads polynomiet altså parablen som approksimation.
+
+25:13
+Så kan jeg altid se hvor hvor fint den glider ind her.
+
+25:18
+Men så bliver forskellen jo større og større, når vi går, når vi går længere ud.
+
+25:23
+Så herude, da duer det nok ikke rigtigt med at bruge dette udviklings punkter skulle man skulle måske bruge Pi i stedet for eller blive halve,
+
+25:31
+hvor vi kender cosinus. Men vi kan også bare gå op i grejet.
+
+25:37
+Nu går vi op i. Oppe i fjerde grads polynomiet.
+
+25:44
+Og kigger på hvordan det ser ud. Og så kan jeg altså se her.
+
+25:51
+Nu har nu har vi ikke alene en approksimation herinde omkring.
+
+25:57
+Men nu begynder polynomiet også at være klar over, at vi skal have også til at dreje igen.
+
+26:05
+Så er det ikke mirakuløst at den ved det. Og det er da også en øvelse som I kan maurere lidt med.
+
+26:13
+Det er det faktisk den første i øvelses programmet i dag. Så der er sådan set rigtig meget at tænke over her, fordi.
+
+26:25
+Se her. Seeberg, hvorfor de er altså hvorfor.
+
+26:36
+Polynomier? Hvorfor? Hvorfor jeg tillader mig.
+
+26:40
+De har jo flere grader man går op. Hvorfor bliver approksimation har været så gode?
+
+26:46
+Og det kan man gøre en lang historie ud af.
+
+26:50
+Men lad mig lige her kort skitsere, hvordan man kan betragte det.
+
+27:02
+Bussen. Nok ville den ikke med.
+
+27:10
+Skal vi. Så. Jo serie vi prøver nu igen at skrive, det er charmerende.
+
+27:22
+Prologen er gravet to op. Det havde jo den formet der.
+
+27:27
+Hvis jeg differentierer en, gør dette. Jeg er jo en konstant.
+
+27:31
+Den forsvinder. Det er også en konstant. Den er ganget med eks.
+
+27:38
+Og så får jeg et billede der står.
+
+27:44
+Der også hvad får vi her set dem bliver nul, den differentierede bliver til det her.
+
+27:51
+Når jeg differentierer her, så kommer det her to tal ned. Og så får vi det ledige som står her.
+
+28:01
+Differentieret, så en gang til, så er den der konstant.
+
+28:07
+Og så er den konstant, der står der er den eneste, der er tilbage, så nu har vi altså funktionen selv i x0.
+
+28:15
+Vi har dens første afledede de x0, og vi har dens anden afledede i x0.
+
+28:22
+Og der kan jeg altså se to af x0 er selvfølgelig det samme som f.ex.
+
+28:26
+0. Men der gælder altså os er den første afledet af polynomiet er den samme som den første afledet af funktionen selv,
+
+28:35
+så de har altså i den tyske første overlevede de x0, og indsætter jeg x0 hér, så kan jeg altså se der gælder os.
+
+28:48
+At den anden overlevede i x0 er det samme som den anden overlevede for funktionen selv, og det kan vi generalisere for et vilkårligt grad.
+
+29:00
+Det proklamerede polynomium og funktionen selv de har i den tyske differentialkvotienten.
+
+29:07
+I alle disse grader. Og det er hemmeligheden ved magien, der ligger i at proklamere polynomier på nogen måde, og funktionen selv har feltets afledede.
+
+29:32
+Godt det var det var første punkt, og nu kommer jo som sagt det andet punkt.
+
+29:40
+Det er med vurdering, hvor stor er den fejl, vi har lavet?
+
+29:46
+Kan vores resultater kan bruges? Og som sagt så kan vi ikke vide hvor store fejl nær.
+
+29:58
+Men vi kan forsøge at fange denne ind, så vi kan sige til, når vi kommer ud.
+
+30:02
+Vi har lavet vores projekt. Vi kommer ud til direktionen, så kan jeg se, der ligger en lille fejl i min beregning her.
+
+30:09
+Men jeg garanterer for, at den ikke er større end det, som jeg siger her.
+
+30:14
+Og så siger direktøren. Fint. Vi bygger broen.
+
+30:25
+Det lyder. Læg mærke til at overskriften i dag.
+
+30:33
+Det er trailers, form eller. Og det hænger sammen med at der er to fødeemner i dag, som I skal lære, da er den bedre.
+
+30:44
+Vi kalder trailers, får møllen og så er der til os grænsede formel.
+
+30:51
+Det er to varianter af samme sag, når vi skulle vurdere fejlene.
+
+30:57
+Så har vi brug for at tjeners formel.
+
+31:00
+Over for at give jeg en ide om hvordan vi når dem, så skal vi lige snakke om den vigtige sætning som hedder middelværdi.
+
+31:10
+Sætningen. Og så jeg ikke tror at nogen har hørt om dem.
+
+31:17
+Vi er nogle, der får den gennemgået i et tema i gymnasiet, eller også noget af det synes ikke at være tilfældet.
+
+31:27
+Men hvem er den ferske og illustrativ, så derfor vil jeg gerne have den med her, og nu står jeg den altså om.
+
+31:54
+Altså middel værdisætningen. Den siger. Der findes et tal ci mellem x0 og ex.
+
+32:21
+Og vi fortsætter her op således. Abort er differentieret i dette.
+
+32:35
+Er lig med f. Eks minus f a known divideret med et minus nul.
+
+32:53
+Og det vil jeg lige illustrere. Lad os sige at vi har en funktion F her.
+
+33:15
+Og en. Lad os sige at jeg har valgt mit.
+
+33:23
+Det kan være at jeg har mit x0 her. Det er min udviklingsfond.
+
+33:33
+Og så kigger jeg på et eller andet ex. Hvor jeg kunne være interesseret i at finde ud af bedre funktions værdien derhjemme.
+
+33:44
+Jeg kender den her interesserede i at vide, hvor den er her, og kan ikke se det, der står her.
+
+33:51
+På højresiden image de sætningen. Det er jo Hemmings producenten enten for den linje, der går igennem de to punkter.
+
+34:00
+Så det vil jeg sige hvis jeg tegner.
+
+34:03
+Linjen i igennem de to punkter, så har den den her hældning sko patient, fordi den jo er gået igennem de to punkter.
+
+34:14
+Så det kan der ikke være tvivl om. Så det er som middel værdisætningen siger, er altså imellem mit x0 og det valgte ex.
+
+34:26
+Der findes altså et se, hvor tangent hældningen er den samme som hældningen fra den linje, der ligger dér.
+
+34:36
+Så vil jeg sige, at jeg skal finde et eller andet sted her. Hvor tangent tangenten er parallelt med den givne linje, og det kan jeg altså se det gci.
+
+34:49
+Det kan være at der er flere. Middelværdien siger, at der i hvert fald er et.
+
+34:56
+Og det er det der, for der kan jeg jo se at tangenten.
+
+35:03
+Den er parallel med den givne linje, så det er det geometriske indhold i middelværdi sætning.
+
+35:13
+Den siger altså bare at der findes et eller andet psi. Nu kunne jeg gætte mig til det, fordi jeg havde en graf for det.
+
+35:19
+Hvis jeg ikke havde haft en graf, så det ene cd. Det det var, så har jeg bare vidste, at der var som at se.
+
+35:27
+C er altid afhængig af det ex der er valgt for.
+
+35:30
+Lad os nu sige at en x havde været vant til den anden side.
+
+35:41
+Lad os sige det var det dér x jeg havde valgt, siger Middelværdi.
+
+35:45
+Sætningen er altså, at der findes et si imellem de to tal her, hvor tangent handlingen er den samme som hældningen for den linje der går her.
+
+36:01
+Og der kan jeg jo se hvor har vi en succes.
+
+36:05
+Det kunne være dér. Så jeg kan ikke se det.
+
+36:09
+Der har jeg en tangent. Som er parallel med den givne linje der.
+
+36:18
+Så middelværdi sætningen er altså sådan en slags existence sætning for at der findes en exil og det der er vigtigt er.
+
+36:27
+Den ligger imellem udviklingens punktet, og det valgte ex.
+
+36:31
+Da X'et slår til højere. Da Lugosi her da X'et lå til venstre, så lå 10.
+
+36:39
+C er afhængig af det x, hvor man ønsker at udregne værdien.
+
+36:49
+Og nu er jeg meget tæt på Tellers formen grad nul.
+
+36:56
+For nu skal jeg bare lige flyttet lidt om på de størrelser hér. Dette er ensbetydende med C.
+
+37:05
+Jeg ganger det her over på den side hér. Og flytter fr x0 over på venstresiden, og så bytter jeg højre side og venstre side, og så får jeg at f.
+
+37:17
+Eks. Er lig med. Så bliver det derfor er x0.
+
+37:28
+Og så bliver det f. Mærke i 10 gange med x minus x0.
+
+37:44
+Dette. Er taler formen.
+
+37:55
+A. Grad nul. Og det er altså den vi har illustreret ved hjælp af middelværdi i sætningen her.
+
+38:14
+Og nu fyrer vi også lige de andre, altså i højere grad her.
+
+38:22
+Så lad os prøve med trailers formet af grad et.
+
+38:36
+Som siger at f. Eks. Er lig med F.A.
+
+38:45
+En knogle Lous f. Mærke i x0, gange med x minus x0 plus f jobbet i mærket i et sci divideret med 2 fakultet og så gange med x minus x0.
+
+39:08
+Hvor C ligger et eller andet sted.
+
+39:15
+Mellem x0 og det valgte eks.
+
+39:27
+Og I kan se det her. Det er jo PET. Det er det første grads polynomiet som står her.
+
+39:34
+Altså det samme som vi fandt heroppe. Så i stedet for det her.
+
+39:40
+Der kunne jeg sådan set har skrevet p et. Og det siger jeg, fordi nu skriver jeg nemlig til os Formen er gravet en op.
+
+39:55
+Og så er der nu vil jeg se om nogle af jer kan se hvor. Selvom formel.
+
+40:04
+Af kravet en. Og den siger at f.ex.
+
+40:16
+Er lig med Integra spurgte. Plus er de fra France siger M Plus en gang i et si divideret med m plus 1 fakultet og så gange med x minus x0 i.
+
+40:43
+Opløftet til 1+1 hjem.
+
+40:50
+Så det er så den generelle form for taler.
+
+40:57
+Talerstolen. Så er det gravet.
+
+41:04
+Så skal vi altså først og skal opskrevet integreres polynomiet. Det var det, vi havde her.
+
+41:11
+Og så kommer der så et nyt ledigt på bare det kan se, det indgår.
+
+41:16
+Og jeg skal altså lige her skrive igen, hvor KSI ligger mellem x0 og ex.
+
+41:29
+Det hører med fra fuldstændighed skyld. Hvad siger du? Det du skrev under? Man kan se.
+
+41:35
+Skal sikre sit endelige værk. Nej, de gør det fordi det er dér det er første græsstrå.
+
+41:44
+Det er altså det, vi har herfra. Som KSI kommer kun ind i det sidste led.
+
+41:55
+Der kommer jeg så der kommer et endt grads polynomium, og så kommer der et nyt møde på boksen.
+
+42:02
+Det indgår, og det er det eneste sted, 10 indgår. Og du kan alt du vil altså se her også.
+
+42:16
+Jeg tror det er her du kigger her op. Også når du stiller de spørgsmål. Og da kan du netop se ti indgår i det sidste led.
+
+42:25
+Og her har du bare en nul sikrest polynomiet. Og så er det sidste led, der gør.
+
+42:29
+Det er dér CSI. Det indgår kun et sted i taler sproget. Ja.
+
+42:36
+Det være tilladt. Til at finde fejl igen med Vi er gamle Panopto på dagsordenen, laver en vurdering af fejlen,
+
+42:51
+og for at finde fejlen størrelser, så indfører vi nu et begreb, der hedder rest funktionen.
+
+43:19
+Han. Vi har nemlig en rest funktion som hedder grad et som hører til første Kongrespolen.
+
+43:31
+Så vi kan skrive. Den rigtige funktionens værdi.
+
+43:41
+Den er så første grads polynomium.
+
+43:46
+Det er altså det vi kalder for. Så her får jeg altså rejst funktionen er et af ex.
+
+43:59
+Denne er simpelthen forskellen mellem den rigtige værdi og så den er brugt charmerede værdien.
+
+44:14
+Så resten er bare forskellen. Først skriver vi funktionen selv op og dens approksimation.
+
+44:20
+Hvor stor er forskellen? Der er at sige, hvis vi lige vender tilbage til den tegning, de har lavet herinde.
+
+44:32
+Så havde vi her den rigtige værdi. Dér har vi den approksimant værdi.
+
+44:38
+Den forskel der ligger dér, den svarer til frokost funktionen i fem fjerdedele.
+
+44:49
+Så det er sådan set udtryk for fejl mellem størrelse. Og se hvad her så forskellen på.
+
+45:03
+Da det her jo er p et par, så er forskellen lige præcist billede, hvor vi har PCI med.
+
+45:13
+Så det vil altså sige at race funktionen. Den er ef i krig divideret med 2 pkt.
+
+45:24
+Og sagt gange med x minus x0 i anden.
+
+45:34
+Og tilsvarende for rest funktionen. Af grad N.
+
+45:54
+Der har vi altså på samme måde. Resten er altså fejlen.
+
+46:02
+Det er den fejl, som er imellem den rigtige funktionens værdi og så den chimera værdi.
+
+46:12
+Ved polynomiet er orden en.
+
+46:19
+Og den er selvfølgelig også lige præcis det sidste led, der står her i talerstolen, så rest funktionen i det her tilfælde denne er altså ca.
+
+46:31
+F. Differentieret m +1 gange.
+
+46:37
+I dette mærkelige tal si. Divideret med n plus 1 fakultet og så gange med x minus x0 i ante.
+
+46:53
+Hvis ja ja. Hvis det ender med jul, er det ikke eksamineres x0 anprisninger, der endda passer på pakken.
+
+47:10
+Her skal være 1+1 og. Så nu skal vi altså prøve at se.
+
+47:28
+Nu har jeg jo. Jeg har givet et bud. Jeg gav først et bud på denne her, og bagefter gav jeg et bud på den størrelse.
+
+47:40
+Her. Nu vil jeg finde ud af. Og indkom.
+
+47:46
+Den fejl så jeg siger, at hvis jeg bruger den størrelse her,
+
+47:50
+så fejlen kan den ikke være større end en bestemt værdi, som jeg nu udregner lige om lidt.
+
+47:56
+Og ligesådan med denne her. Vi skal se, hvordan vi kan få afgrænsede fejlen, når vi bruger den.
+
+48:04
+Det. Og jeg tror simpelthen at nu kan I lige gumle lidt på de formler her.
+
+48:15
+Så er det det, vi starter med efter pausen. Det er så udregnet fejlen i forhold til de to vurderinger, vi lavede her.

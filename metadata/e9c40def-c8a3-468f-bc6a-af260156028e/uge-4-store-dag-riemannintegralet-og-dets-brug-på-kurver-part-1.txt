@@ -1,0 +1,977 @@
+0:02
+Go morgen folkens. Den er måske lige højt, og hvad jeg vil godt høre om at opleve.
+
+0:08
+Fedt, så fortsætter vi derude. Vi er færdig med differentiation.
+
+0:16
+Forstået på den måde noget vi prøve at undersøge funktioner af flere variable og se forskellen på.
+
+0:21
+Altså hvad er det, der sker, når man der forsvandt fuldstændig? Skriv højere end.
+
+0:31
+Hallo, hallo, hallo.
+
+0:35
+Vi kan ikke høre noget gennem højtalerne. Og hallo.
+
+0:43
+Der var lige hvad jeg skal i højttalerne. Hvad så nu?
+
+0:50
+I dag starter vi på integralregning, og det vil sige nu skal vi til at integrere funktioner af flere variable,
+
+0:59
+og hvor vurderer differentierer det en lidt lige til?
+
+1:05
+Altså forstået på den måde var der skete jo egentlig ikke så meget nyt, fordi man når man differentierede.
+
+1:10
+Så det fatter man jo egentlig bare ved at holde alle de andre variable konstant.
+
+1:15
+Der er noget teknik i forbindelse med at finde lokale ekstra. Det er en anden sag.
+
+1:21
+Men når man skal til at integrere funktioner af flere variable.
+
+1:26
+Så lige pludselig opstår der flere forskellige typer integraler, og det er faktisk det, vi skal beskæftige os med resten af året.
+
+1:36
+Så jeg kan godt se, at der er, for der er lidt at kigge på.
+
+1:42
+Der kommer selvfølgelig også det store 3. Projekt i april måned, men alligevel er alle emnerne fra nu af handler om integralregning.
+
+1:51
+Så vi starter bare på i dag, og der kommer ikke til at ske noget i dag, som så nok ville være særlig overraskende.
+
+1:58
+Og det vil heller ikke være særlig svært. Det har jeg sagt før, men jeg ved ikke, at jeg så skal se.
+
+2:07
+I dag er det nok rigtigt? Altså. Men det er vel nok meget naturligt, at vi skal gøre.
+
+2:13
+Så lad os få skrevet op, hvad vi skal lave, og så repeterer nyheds bogen, så så sikrer vi det, vi skal snakke om i dag.
+
+2:26
+Det er det, der hedder rigmand Integral. Og det er bare det integral som vi kender fra gymnasiet.
+
+2:39
+Grunden til at jeg skriver rigmand foran er fordi der findes faktisk andre integral begreber.
+
+2:45
+Og dem skal vi ikke kigge på i det her kursus. Men så skal vi kigge dobbelt integrator.
+
+2:55
+Og vi skal også kigge på det der hedder trippel integraler. Og hvad så?
+
+3:08
+Ja så skal vi kigge på kurve integral. Og det begreb der hedder kurve længde.
+
+3:25
+Og jeg vil skyde på at det bliver sådan et eller andet med, at vi holder holder en pause her.
+
+3:30
+Og som sædvanlig. Som sædvanlig er der jo nogle æbler, der passer passer til det her, og der er nogle,
+
+3:36
+der er magiske kommandoer, så lad os lige prøve at få kridtet banen op her.
+
+3:45
+Så hvad er det, vi vil kigge på? Altså når vi nu skal snakke integralregning.
+
+3:51
+Hvad er det? Vi kigger på? Funktioner af en, to eller tre variable.
+
+3:55
+Det plejer jeg at skrive sådan her en, to eller tre, og det er selvfølgelig groft misbrug af notation.
+
+4:03
+Det betyder bare, at de funktioner, vi kigger på, har det her antal variable, og så afbilder hele det reelle tal.
+
+4:11
+Og så vil vi alle de kontinuerte. Det at vi hele tiden, for så er der ikke nogen problemer med vores integraler overhovedet.
+
+4:23
+Og hvad ved vi i forvejen? Ja, men okay, det vil jeg lige skal være opmærksom på.
+
+4:29
+Det er, at det vi snakker om her, er bestemte integraler. Det.
+
+4:42
+Og hvad er det nu det er? Altså hvis I lige husker husker det jeg ikke har.
+
+4:47
+Hvad har man så også har været sakse? Og så har man her grafen for en eller anden funktion f.
+
+4:56
+Og så har man et A. Og så har man et B. Og så er man ude på at finde ud af, hvad dette areal er.
+
+5:05
+Og det som er det magiske, er, at det her har et.
+
+5:14
+Så vi vil betegne. Med dette symbol der skal man så lige huske det her med og derved også vinde ialt fortegn.
+
+5:26
+Forstået på den måde, at hvis noget af dette ligger under eksakt, så tæller det negativt og sådan noget.
+
+5:32
+Før dette blev det helt sædvanlig,
+
+5:34
+men lad os ihjel med fortegn er den størrelse det som hedder det bestemte integral og den sætning der hedder integralregning hovedsætning.
+
+5:58
+Integralregning hovedsætning det er det lighedstegn der står her, som fortæller at dette tal.
+
+6:06
+Det kan regnes ud på denne her måde. Hvor Store F er s down funktion til Lille F?
+
+6:15
+Og det har de allerfleste nok set et bevis på.
+
+6:19
+Et eller andet tidspunkt i gymnasiet det meget almindeligt, at man kender den, og følgelig kender man sætningen.
+
+6:26
+Det skal man, men man har muligvis også set beviset.
+
+6:30
+Beviset plejer at køre med, at man laver det, der hedder areal funktion, og så viser man, at det er en stram fusion, og det er ganske udmærket.
+
+6:39
+Vi ved, vi vil gøre det på en lidt anden måde, fordi den måde, som vi vil gøre det på, skal kunne bruges og også til funktioner af flere variable.
+
+6:55
+Så det vi gør, jeg kommer til at bruge lidt mere plads, og derfor kan vi godt skifte tavlen her, fordi det, som jeg nu vil lave.
+
+7:06
+Ja, det hedder approksimation. Bevæget Venstre sover.
+
+7:23
+Og hvad gør det ud på? Altså hvis vi nu prøver at forestille os, vi har den situation, som vi havde dér.
+
+7:32
+Og vi har vores hær og vores base stående hernede.
+
+7:37
+Er det vores eksakte? Og så er jeg ude på at beregne beregne dette areal.
+
+7:45
+Hvordan kan jeg gøre det? Jamen, jeg kan lave et approksimation til arealet.
+
+7:51
+Og hvordan gøre det? Jamen, det gør jeg ved at lave det, der hedder en venstre zone, og det ser sådan her ud.
+
+7:59
+Hvad skriver I, fordi det er et integral? Jeg prøver at proklamere, at vores funktion hedder så f.
+
+8:10
+Skriver man sig her, og så vælger man et eller andet naturligt tal end som står for finhed af den opdeling af intervallet.
+
+8:21
+Jeg vil lave om et øjeblik.
+
+8:22
+Jeg kan lige skrive det her, fordi det at gøre, da jeg laver en inddeling af intervallet fra A til B, tror jeg tager intervaltræning.
+
+8:33
+Og så deler jeg dem med dette ene. Som man kan se i virkeligheden, er det jo den, der er finhed.
+
+8:40
+Det betyder så, at jo større enlige, jo større finhed, jo finere laver man inddelingen.
+
+8:48
+Så det passer godt med den måde, man siger det på. Så hvis anden nu er fire, ikke, så deler jeg dette i fire lige store stykker.
+
+8:59
+Det er det, der er meningen med det. Og når den finhed er valgt, så skal man også skrive, hvad det er for et interval, man er på.
+
+9:06
+Det så intervallet fra A til B. Og spørgsmålet er så hvad er det for et tal, jeg regner ud på denne her måde?
+
+9:14
+Jamen, det er at gøre det, jeg gøre. Det er, at jeg inddeler nu, ser okay.
+
+9:21
+Jeg starter med at tage funktionen færdig i dag, og så går jeg stykke.
+
+9:27
+Altså ex. Det vil sige, at jeg går hen til den. Og det må så være PLO's deltage i ex.
+
+9:35
+Så går jeg op her, og så kigger jeg på det her. Så tager jeg arealet af den der.
+
+9:44
+Hvad arealet af det her, højden den må være. Og grundlinjen deltager ikke sådan.
+
+9:59
+Så får jeg den på glasset hopper jeg videre til den næste. Så hopper jeg her.
+
+10:07
+Der vil så stå + 2. Den 6.
+
+10:12
+Denne strid op og så gøre sådan er der så selv at være den, der er ekspedient forlystelse ex.
+
+10:20
+Så højden. Her vender f af Clowes sig.
+
+10:27
+Et grundlinjen er stadigvæk Elsa ex.
+
+10:34
+Okay, og så fortsætter jeg ellers den der indtil jeg står her.
+
+10:39
+Og hvad så? Hvad er så det der står her?
+
+10:44
+Jamen, det må være Clouds. Og hvis jeg har lavet en inddeling på ende, så må det være en minus 1.
+
+10:52
+Er af Ex der strager. Det vil sige hvis du knuser her, så grisestald med DCF.
+
+11:04
+Altså og minus én gang ekstra, så er det højden og så Grand grundlinjen.
+
+11:10
+Det ser sådan derude.
+
+11:12
+Det tal kan regne ud, at grunden til at man kalder det en venstresnoet, er selvfølgelig, at jeg starter for Venstre, når jeg laver denne inddeling.
+
+11:29
+Jeg kunne ligeså godt have en højere får. Jeg kunne også lave det, der hedder et punkt, hvor jeg tog i midten og tog højden.
+
+11:37
+Det spiller ikke nogen rolle, når det er kontinuerte funktioner.
+
+11:39
+Men nu har vi valgt at gøre dette, og spørgsmålet er, hvis man nu skal skrive det her cover.
+
+11:46
+Hvordan ville man så skrive det? Vi har i landet Subversion Cinterex, som er et eller andet kobber, som løber fra ens.
+
+12:02
+L og hvad står der så her? Her står der så F.
+
+12:09
+Clowes, og så står der i virkeligheden. Minus en gang, altså ex.
+
+12:16
+Gang. Dette fag stiller også det der står. Lad os prøve at se om det passer.
+
+12:21
+Dér hvor jeg starter, var K alligevel en der stod der 0.
+
+12:24
+Jeg er der vel, sagde ekspert. Så sætter jeg kåret til at være 2.
+
+12:31
+Hvor står det altså for et billede? Det sidste led jeg, for det er, hvad der kommer til at være en så står der, mener sagen.
+
+12:38
+Og det passer med, at det er den sidste. Så der står sådan, som ville skrives ind venstre venstresving.
+
+12:46
+Kort? Hvad er?
+
+12:49
+Hvad er så ideen her? Jamen, det er, at hvis vi nu vælger denne finhed større og større, svarer det til,
+
+12:58
+at vi gør inddelingen finere og finere, fordi det bliver mindre og mindre.
+
+13:03
+Så er gode resultatet, at dette nærmer sig simpelthen integrated fra A tilbage af f.
+
+13:15
+Eks. Når på gangen.
+
+13:22
+Det hedder en venstre sums approksimation. Og hvad er hensigtsmæssigt ved det?
+
+13:31
+Jamen, en af de mange fiduser ved at gøre dette her er jo, at vi ved allesammen,
+
+13:36
+at der er funktioner, hvor det er rigtig svært at fællesnavn funktionen.
+
+13:39
+Der er også funktioner, hvor man ikke kan udtrykke fusionen ved kjente funktion,
+
+13:43
+så man hvis man har funktionen, så er det en smal sag at regne alle dette tal ud.
+
+13:50
+Det vil sige denne, så kan man sagtens lave hvis man har en lommeregner. Eller endnu bedre en computer.
+
+13:55
+Så computere kan meget, meget nemt gøre det. Og det man skal se en af mange begrundelser for at lave denne her.
+
+14:02
+Det er sjovt, men lad os prøve at lave et eksempel på dette.
+
+14:07
+Så måske skulle vi måske skulle bakke herover.
+
+14:16
+Og lave et eksempel, hvor vi nu tager funktionen af fr ikke det meget simpel to ex.
+
+14:24
+Og så kunne jeg rigtig godt tænke mig at beregne integrale for eksempel fra 0 til 4 af 2 x ex.
+
+14:34
+Det kan man jo bede en blind høne om at gøre det jeg gør. Men nu vil jeg prøve at gøre det på den måde.
+
+14:39
+Og hvad så? VAS Hvad o.
+
+14:46
+Hvad er det, jeg skal gøre? Jeg vil være sikker, hvis vi laver en lille tegning også.
+
+14:52
+Så har jeg grafen to excellence. Sådan starter 1 0, og slutter han fire.
+
+15:00
+Så skal jeg vælge en eller anden inddeling. Javel, ja.
+
+15:06
+Vi starter sådan hver dag, og så skal jeg lave min venstre sommer og så regnet med det, at jeg ved, hvordan det kører bare ved at tage den der.
+
+15:19
+Og vi vil gerne regntøj ud på det her interval.
+
+15:22
+Så lad os prøve at sænke til af vores funktion F, som er den funktion 2x vores EM og intervallet fra nul til fire.
+
+15:37
+Hvis jeg skal regne det ud ok hvad seerne så, så skal jeg da fr.
+
+15:45
+0. Og så skal jeg guide det med. Jamen, hvad er det så ex scoringer skal nedskrive her?
+
+15:54
+Dels af AK's. Det er jo 4 minus 0 med EM og det er jo bare 4 11 dele.
+
+16:04
+Så det efter 0 garnet 4 11 dele plus.
+
+16:09
+Og så skal jeg tage fr. 0 Clowes indgange, 4 hente dale gange.
+
+16:17
+4 ante dale plus der skal dække to gange.
+
+16:20
+Jeg skriver det bare, så jeg kan se systemet. Lås og slå den seneste, men her så F 0 klogest og så end minus en gang.
+
+16:39
+4. Alt vel gerne fire af spillerne.
+
+16:45
+Sådan må summen se ud var indsætter de ting, som vi nu engang har, og så prøv at regne ud, hvad det er.
+
+16:55
+Lad os se gang efter 0 0, så det første led. Det er noget plus.
+
+17:02
+Her står der så F Fire ved det hele. Det må være to gange.
+
+17:08
+Det siger en del vel fordi to ex.
+
+17:12
+Og så skal jeg gange med det siger en del sig, står der og slås.
+
+17:21
+Hvad står der så her? Der står to gange fire ved det, der skiller sig to garne to gange.
+
+17:28
+4. Det vil måske bare sætte X ved det.
+
+17:34
+Vi så gerne vil se systemet, og så gang 4 og 11 dage vil de tage den næste.
+
+17:44
+Den hedder så to garde, og den næste må så have tre gange fire, for det gør alle fire.
+
+17:52
+Det ved jeg ikke har skrevet her, og så er det sidste lade være.
+
+17:57
+Hvad giver det? Det må give to overgange minus en.
+
+18:04
+Gerne fire femtedele gange fire. En del.
+
+18:12
+Det ligger ikke. Ja, det er det.
+
+18:16
+Og er der noget jakkesæt uden for en prinsesse? Lad os se engang.
+
+18:21
+Her står der fire dele i. Og her står der fire indtil David.
+
+18:27
+Og det står der hele vejen ned. Så 4 11 dele i anden kassette uden for en France's.
+
+18:32
+Der står også totalt alle steder, så hvis jeg nu prøver at sætte to gange fire, endte det hele i anden uden for en parantes.
+
+18:45
+Så lad os se, hvad der er tilbage. Så er der et etablere og et total.
+
+18:54
+Det tredje er da også ofte en vindersag.
+
+19:02
+Det må være det der er Seebachs. Så dette er hvad det er en af vores sår.
+
+19:10
+Og så ser man dog kan I for at kunne regne det ud, så er nødt til at kunne regne ud hvad det er der er det man skal undgå i dag,
+
+19:19
+så bare for at prøve at kigge på, hvad man kunne finde på at gøre ved sådan noget, der ser.
+
+19:24
+Ja, jeg kunne godt tænke mig at finde ud af, hvad dette er.
+
+19:30
+Så den sum kunne jeg for eksempel kalde S, for det includes to Clowes, tre Clowes og så op til ende minus en af.
+
+19:43
+Og så kunne jeg skrive nok baglæns. Så det er bare det vi har skrevet om.
+
+19:58
+Og så kan jeg få den geniale idé at lægge det sammen til Jespers stemmer ved det dobbelte.
+
+20:05
+Det må være to S nu, og så ser en plus end minus 1 1, 2 plus minus to det 1.
+
+20:14
+Og så fortsætter den sidste dans er sammenvævede. Og hvor mange er der?
+
+20:22
+Hvor mange eller har jeg rapper? Der må være en nu af dem, så summen da jer to gange.
+
+20:33
+S Det må åbenbart være en minus en. Gang 1.
+
+20:39
+Det vil sige, så har vi været værre. Det må være det halve af det der.
+
+20:50
+Jeg skulle have smart, som jeg plejer at sige, når jeg laver det jeg laver, og her er den detalje.
+
+20:57
+Dette gjorde gavn for flere år. Det synes jeg var godt klar, så nu har vi.
+
+21:07
+Nu har vi et resultat her to 12, 16 og en anden gange ved dette.
+
+21:17
+Så hellere end gerne endevende og se. Er det ikke.
+
+21:28
+Og jeg glemte den halve hér. Sådan. Jeg tager bare det resultat der.
+
+21:37
+Så lad os kigge på det totalt ved at køre ud med totalt i andenkører, ud og tilbage, står der.
+
+21:48
+Tilbage står der 16. Gear møder end ved sengen over en.
+
+21:58
+Og hvad sker der med det, når engområde endelig. Vi skal prøve at undersøge sådan en størrelse, bliver dette det der hedder.
+
+22:07
+Det hedder en talfølge forstået på den måde, at hver gang vi har et held, så har dette jo bare en eller anden værdi.
+
+22:14
+Når vi skal finde ud af, hvad der sker når engområde.
+
+22:17
+Så er det altså smart, at man har sådan noget og så prøve at forkorte med højest af ordenes levetid, end hvis jeg forkorter hvad end tæller og nævner.
+
+22:26
+Så endda mere end en pæn del med den interval og den debat med all in.
+
+22:34
+Og så er det meget nemt at se, at når engområde endelig, så nærmer det sig 1.
+
+22:41
+Det vil sige, at det her dette tal, det gør mod 16, for angående nåede du endelig.
+
+22:53
+Så nu har vi faktisk regnet dette integral ud ved at lave venstre summer.
+
+23:00
+Og hvis vi nu lige tjekker Integral fra nul til fire af to vækst ex.
+
+23:07
+Jamen vi ved jo at vi har integralregning udsving, så jeg skal bare tage vores down funktion, som hedder Excel anden og så sande under 4 4.
+
+23:18
+Jamen det 16. Det andet noget for det 16.
+
+23:25
+Så lige præcis her kan man så blive glade for, at man har integralregning forudsætning. Det er jo lidt smartere.
+
+23:31
+Det må vi nok erkende. Men læg mærke til læg mærke til, at hvis man nu er en computer, så det jeg har gjort her, er umådelig simpelt.
+
+23:44
+Det kræver ikke andet end almindelig regning, for der hvor mod dette her, springet derfra og dertil.
+
+23:50
+Det kræver noget viden reserve, for det har den som intellektuel proces at dette hop meget større end det jeg har gjort det,
+
+23:58
+selv om teknikken i dette løber ud af hvem dette er.
+
+24:04
+Hvad skal man sige i den måde, som vi vil definere rigmændene integrated på?
+
+24:09
+Det er simpelthen grænsende grænseværdien for N8 mod uendelig, at disse venstre summer, når man kigger på på Integral.
+
+24:19
+Så det er jo vældig smart, så.
+
+24:26
+Jamen hvad så? Skal jeg se om jeg har et eller andet eksempel, som jeg ikke vil lave, eller om jeg skal lave et eksempel nu.
+
+24:36
+Jeg tror, at vi hopper direkte videre. Så hvad nu?
+
+24:45
+Hvad nu hvis vi har to variable? Jamen, hvad så?
+
+24:58
+Hvordan er jamen så vil vi kigge på. Det så altså en konsolideret funktion F som går fra er hjernen ind i jer, og den er som nævnt kontinuert.
+
+25:15
+Og hvad forestiller vi os så? Altså har vi et eller andet eksakt.
+
+25:20
+Og vi har en eller anden nuance. Og hvad gør vi så?
+
+25:25
+Jamen, så fortsætter også. Forestiller vi os, at vi har en inddeling på eksakt.
+
+25:30
+Og vi har en eller anden inddeling i A til B. Se til B og kage.
+
+25:38
+Hvad giver det? Det giver sådan et område et rektangulært område i planen.
+
+25:51
+Hvordan ser grafen for F. Ud? I skal så forestille jer, at I har sætter aksen stikkende op her.
+
+25:59
+Og så ligger grafen for F på en eller anden måde her op. Og hvad er det så vi er interesserede i?
+
+26:06
+Så er vi simpelthen interesserede i at regne volumen ned af den klods, der ligger over planen her og ofte.
+
+26:15
+Grafen. Hvis I forestiller jer, at dette er planen, så har vi her klar.
+
+26:22
+Også funktionen lægger her op, så det her er grafen for funktionen, der ligger heroppe yderst, så det volumen er den klare.
+
+26:28
+Jeg er interesserede i at regne ud, at det er oplagt og oplagt to variable udvidelser af det, vi har herhjemme.
+
+26:39
+Og hvordan? Hvordan gør man det? Jamen altså.
+
+26:43
+For det første vil man skrive det op sådan her.
+
+26:45
+Man skriver det som et dobbelt integral vil integrere fra alle tilbage, og vi integrere fra sag til dag og vores funktion.
+
+26:54
+Det så f. Eks. Komme øget og da for så laver grafen det her og så tilbage.
+
+27:02
+Det er der eks løber for der integrerer med hensyn til X og y løve.
+
+27:06
+Hvorfor se tilbage for det skriver vi så sådan her.
+
+27:11
+Det hedder dobbelt integral, og spørgsmålet er så hvordan regner man det ud?
+
+27:18
+Jamen, det regner man også ud som en grænse for summer.
+
+27:25
+Så der har vi jo gerne vores venstre summer. Der har jo også funktion F.
+
+27:31
+Nu skal man bare have valgt to finrødder alle.
+
+27:35
+Og M svarer det til en inddeling dér og en inddeling der også er vores pointe her end den hedder i virkeligheden fra A til B.
+
+27:48
+Kysset fra sag til død. Det er den måde, man skriver et rektangulært område på.
+
+27:57
+Og hovedresultater er så, at når eller Emmen går mod endelig.
+
+28:04
+Før der N og M kom ud. Endelig så nærmer det sig dette.
+
+28:12
+Og hvis du bare gøre det kort, så kan vi kalde den for stjerne. Men spørgsmålet er så hvad er det så for en størrelse vi har fat i?
+
+28:23
+Er vel okay. Vi er nødt til at have vores deltage.
+
+28:27
+Ex. Hvad er det? B minus DF.
+
+28:31
+Men så skal vi have et delta a. Og det må være det minus se.
+
+28:42
+Det med hjem. Okay. Og hvordan regner altså det her ud?
+
+28:49
+Jamen, der vil jeg skrive det på en lidt anden måde, for jeg vil da ikke løbe fra en til ende.
+
+28:58
+Og jeg vil lade øjet røve for en til EM, og her vil jeg sådan lidt forblommet skrive f.
+
+29:05
+Eks. I og så J. Og så vil jeg skrive dels at X dels i.
+
+29:16
+Og så vil jeg prøve at forklare hvad jeg gør,
+
+29:19
+så jeg først laver vi vores inddeling hernede med de der dels af ekser svarer det til, at så får vi vores egen deling her op.
+
+29:31
+Så det var altså ikke så, der lavede denne inddeling. Så det er jo vores ører her.
+
+29:37
+Og det giver sig en inddeling på denne her lede herinde. Så bagkæde.
+
+29:44
+Det jeg så gerne vil regne ud her. Hvad er så det?
+
+29:48
+Jamen, det er det jeg gøre, da jeg starter i det på.
+
+29:55
+Okay, så jeg starter med at holde, holde en inddelingen eller hold holde mig i det punkt på for yacc,
+
+30:09
+hvor jeg starter, og så løber jeg heller ikke saksen.
+
+30:13
+Det vil sige hva så? Jeg tager så den funktionens værdi, der passer til det hjørne på den ligger her.
+
+30:20
+Okay, så gavner jeg den med dens AK's og dannelse.
+
+30:26
+Hvad giver så det? Jamen altså dannelser eksternt. Altså er det areal der.
+
+30:33
+Og når jeg så ganger det.
+
+30:35
+Ved funktions vurdering her føjer volumenet af den legoklodser, der lige præcis står over dette hjørne, kan sætte det så det første led i suppen.
+
+30:46
+Så hopper jeg videre på eksakte, så hopper derhen, hvor jeg holder fast, hopper jeg han svarende til,
+
+30:57
+at det er ikke sådan, at jeg ændrer på og holder yd fast at besejre pensionsordningen svarende til Dante.
+
+31:05
+Jeg ganger meddelelse af eksistens. Den tager ikke skandalesag i det igen.
+
+31:09
+Bare det her areal. Garnet funktion værdien i det på.
+
+31:13
+Jamen, det giver volumenet af den legoklodser, der står over det her. Og så fortsætter jeg hen til den næste.
+
+31:24
+Ligesom jeg gjorde her. Og for at gøre præcis det samme her en funktion for dengang blev det areal tilføjet det, og så går jeg tilbage.
+
+31:35
+Så hopper jeg nu op på yacc og tager den der.
+
+31:40
+Også at gøre det samme igen, der løber af dette ganger med den, så har jeg det, at det var nogle, der lever jeg hende her.
+
+31:50
+Kasser, det behøver den vare hele tiden. Indtil det sidste punkt.
+
+31:53
+Jeg så det der. Det er derfor vi kalder det en venstre sår.
+
+32:00
+En højere sum ville starte her, og så ville den anden vej, og det giver præcis det samme resultat.
+
+32:08
+Men det er sådan man gør det. Og det er selvfølgelig langt mere kompliceret at gøre det.
+
+32:16
+Det kan man jo ikke gøre i endelig tid på travet. Så lad os prøve at lave et lille eksempel, så jeg kan se, hvor simpelt det er at gøre.
+
+32:30
+Så jeg har jeg har lavet, så jeg kan regne ud uden at få alt for grimme taget, så denne her er.
+
+32:44
+Jeg vil gerne beregne det her fra 0 til 1 og fra to til tre.
+
+32:50
+Og så har vi en funktion, der hedder så Excel. Hver gang a plus to ex.
+
+32:56
+Det er min funktion, og så står der x den.
+
+33:05
+Så hvordan gør man det?
+
+33:10
+Jamen kære venner, der skal bare til. Der står en usynlig carranza her.
+
+33:22
+Og hvis jeg bare kigger på det inderste integral her, så den variable ex.
+
+33:28
+Det betyder at Y nu bare er en konstant så regner eller bare det inderste integral ud.
+
+33:35
+Så hvad gør jeg? Jeg ser fra to til tre, og så var er det inderste integral ud, der giver et eller andet må jeg så får samme funktion.
+
+33:46
+Det er eksterne variable og så hvad står der her?
+
+33:50
+Støttefunktion er den tredjedel ægte tredje. Gange den nye værdi sig bare en konstant lås, så Excel Staunings Overopheder Exchange.
+
+34:03
+Så her står Stavgangsforeningen til det, der står med hensyn til sex og grænserne.
+
+34:10
+Det hedder Nulre 1. Der skal man altså passe på, når man har tobak.
+
+34:14
+Så er det altså en god ide at skrive det ekstra 0 til Excel, og så står der ellers det tilbage igen i døren.
+
+34:27
+Og dette er jo ikke specielt ubehageligt, fordi hvad står der der står for to tre,
+
+34:36
+og så skal vi for at regne ud, hvad der står, når vi sætter ekstra være en.
+
+34:42
+Som er øvre grænse, så står der en tredjedel ikke. Knuse.
+
+34:48
+1. Du kan. Og som minus og nedre grænse kan jeg når ikke så noget.
+
+34:58
+Så er det hele 0. Så i dette tilfælde, så bliver det bare noget.
+
+35:02
+Så det er det, som jeg får, når jeg regner det derud og så stopper integreret med hensyn til.
+
+35:12
+Og hvis vi skriver det her plan, så står jeg altså integrated fra to til tre af forstå dig en tredjedel plus en ny.
+
+35:28
+Det er jo et helt almindeligt integral også øger den variable skal bare integrere og straffeaktioner.
+
+35:36
+Her øges stamm funktion. Det hedder en halv mia.
+
+35:41
+Og så gange en tredjedel. Det må være en sjettedel bygget.
+
+35:45
+Jamen, det er der pludselig, og nu er det så øy, der skal sættes ind for tog det fra nu der ikke bløder vafler, for du gider, gider jeg ikke skrive.
+
+35:59
+Og så sætter jeg bare grænserne. Så hvad er det for noget?
+
+36:05
+Det er ikke andet end i sig selv.
+
+36:10
+Det må være ned i det hele og så + 3 og så minus, at han tog i alt fire, så fire sale det klogeste tog.
+
+36:29
+Så lad os se, hvad giver det? Det giver Nis del minus fire.
+
+36:34
+Det må være fem CL dele og så 3 minus to eller være en.
+
+36:41
+Så fem sjettedele plus en 6 11 Serie B hold.
+
+36:49
+Hvis jeg har regnet rigtigt. Så er værdien og hvad er det jeg har regnet ud?
+
+37:00
+Jamen altså igen. Det er et volumen, og det firkantede område går altså fra nul til 1.
+
+37:09
+Og for to til 3. Og den funktion vi kigger på, hvis Graf ligger ovenover det her område, blev så denne her.
+
+37:16
+I dette tilfælde, så er det vist det rigtige volumen, men også fordi det der står herinde,
+
+37:22
+er jo ikke negativt nogle af de steder, hvor vi integrere for SF.
+
+37:27
+Men det kunne godt være, det kan godt være sådan Integral gav nul, og det betyder jo bare, at der er noget af grafen, der ligger negativt.
+
+37:35
+For det er igennem et volumen nu bare med fortegn. Ja, godt spørgsmål.
+
+37:43
+Der sker heldigvis ikke noget. Ja, men det er altså bare du siger det.
+
+37:52
+Det sker, hvis du gør det i mailen. Ja, så er det så er det fordi, der er noget i vejen med din funktion.
+
+37:58
+Altså altså forstår operatøren. Altså hvis funktionen er konstrueret ovenover det her område, så giver det det samme.
+
+38:08
+Det er det, man kan sige. Hvad sker der, hvis man bytter rundt på på rækkefølgen?
+
+38:13
+Det svarer til, at man løber i nyere aksens retning først.
+
+38:18
+Her løber den første eksakte ensretning og så hop op på yacc, og så kunne jeg løbe på Lysak og så hoppende saksen.
+
+38:24
+Det giver det samme. Forudsat at funktionen er kontinuert.
+
+38:28
+Altså hvis funktioner ikke er kontinuert over hele det område, man kigger på, så kan der ske alle mulige forfærdelig grimme og væmmelige ting.
+
+38:36
+Ağca så for lige at bruge en del af.
+
+38:44
+Så kunne man jo også kigge på triple integraler. Og hvordan ser sådan noget så ud?
+
+39:02
+Hvad vil man så af det? Hvad vil jeg tilbage til det?
+
+39:08
+Og fra E til F. Og så skal man så have en funktion.
+
+39:13
+Nu er tredje vej. Og så vil der stå det X, Y og Z.
+
+39:24
+Og hvad er det så? Hvad er det så vi forsøger at regne ud?
+
+39:28
+For det første det område, vi integrerer over. Til B og C til dag.
+
+39:39
+Sidder med ét F. Hvad er det?
+
+39:43
+Det er en fase. Skotøjsæske i.
+
+39:50
+At træne som man har er i ses i dag SF, så har man en kasse.
+
+39:59
+Og hvad har man så?
+
+40:02
+Jamen, så har man en eller anden funktion F, som går fra tre variable ind i det reelle tal.
+
+40:13
+Og lige nu har vi ikke rigtig mulighed for at forestille os, hvordan grafen ser ud.
+
+40:19
+Klasse. For så skal vi have 4 dimensioner, og det har vi ikke. Men altså funktionen funktionen af ansvar og værdier for denne her case.
+
+40:32
+Pladsen lægger et eller andet sted 3, og så har vi vores funktion, så F.
+
+40:40
+Sender værdierne over i de reelle tal. Hvad kunne det være?
+
+40:45
+Det kunne for eksempel være, at man havde det, der hedder en masse tæthed. Nu kan jeg så vil have en masse tæthed af denne klasse.
+
+40:55
+Den varede et eller andet gram per kubikcentimeter, og F var funktionen der fortalte hvad masse tætheden var.
+
+41:02
+Det ville være den ikke var, at det ikke var ens i alle retninger.
+
+41:06
+Hvis man så var interesserede i at finde ud af, hvor meget helleflynder også en vejede ind, så skulle man integrere, mase tæthed op over hele kassen.
+
+41:14
+Så ville man få den samlede vase. Det er sådan noget, man tænker på.
+
+41:19
+Det kan også være en eller anden og ladede ting, hvor F udtrykker lader længst tæthed på og integrere, hvad så får den samlede ladning af en skuffe?
+
+41:33
+Det er sådan nogle ting, man kigger på og igen, og det vil jeg så engang forsøge at tegne.
+
+41:39
+Man proklamerede det igennem ved, at Venstre så mig, men altså, jeg kan godt forestille sig, hvor forfærdeligt det bliver at følge denne case.
+
+41:46
+Først fylde denne kasse ud med små små kasser, og så er værdierne forværret.
+
+41:52
+Og så lægge dem sammen. Det er helt forfærdeligt, men det kan lade sig gøre, og det gode ved det er,
+
+41:59
+at den måde, man regner sådan noget, som det her ud på, er fuldstændig magen til.
+
+42:07
+Det vi gjorde her, vi skal bare fortsætte. Der jo også er en variabel, og så vil der stod SF, og så skulle man gøre det her engang til gættet det der.
+
+42:17
+Der er ingen forskel. Så er det ganske simpelt.
+
+42:22
+Og det er selvfølgelig endnu simplere, fordi Mabel katte er forfra og bagfra, så sådan noget overlader vi til Vejle og AGF.
+
+42:34
+Så det var de. Hvad skal man sige?
+
+42:38
+Det er helt oplagt måde at lave integraler af funktioner af 32 variable bare længe ud fra, hvad vi gør en variabel.
+
+42:49
+Nu holder en pause, og så efter pausen går vi i gang med den her kurve.
+
+42:53
+Integrator, som bygger videre på det her. Så lad os holde pause.

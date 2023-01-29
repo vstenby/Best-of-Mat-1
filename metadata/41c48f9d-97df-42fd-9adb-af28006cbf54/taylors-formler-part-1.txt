@@ -1,0 +1,1175 @@
+0:05
+Jeg Go Morgen Danmark, nej, vi er i uge 2, og vi er i uge to med funktioner af flere variable.
+
+0:14
+Og så er det på høje tid at få indført Tellers formler, for dem har vi rigtig meget brug for.
+
+0:20
+Og i dag bliver så en dag, hvor vi både får lejlighed til at kigge bagud og fremad.
+
+0:28
+Hvis man kan sige siger sådan set bagud, skal vi tilbage til gymnasiet.
+
+0:33
+Hvor hvor en af de store ting jeg tror jer i på B-niveau.
+
+0:37
+Altså hvor man finder maksimum og minimum, altså optimering af funktioner en variabel.
+
+0:44
+Og det er et stort emne for os, fordi det skal vi finde ud af.
+
+0:50
+Vi laver nogle værktøjer i dag, og så er det dermed maksimum og minimum.
+
+0:56
+Det laver vi en endelig behandling af i næste uge.
+
+1:00
+Men I skal allerede i dag få en forsmag på det og på Lilledal.
+
+1:08
+Der skal vi også bruge noget af den teknik, som vi indfører i dag.
+
+1:13
+Da skal vi nemlig kigge på anden grads ligninger i to variable.
+
+1:17
+Og så skal vi se, hvad er det for nogle geometriske figurer, som de repræsenterer?
+
+1:23
+Så det bliver et meget fint afsluttet emne, som vi har prøvet på lille dag,
+
+1:29
+og der får vi brug for det sidste punkt med reduktion af angrebets ligninger.
+
+1:37
+I kan se, når vi snakker om angrebets ligninger. Så er der noget, man kalder for blandede led dér.
+
+1:45
+For eksempel hvis man har Dex gange med Y. Så kalder man det for et blandet led.
+
+1:50
+Det er et andet kravets led. Man er et blandet led, og det er sådan lidt drilsk.
+
+1:54
+Reduktion betyder simpelthen at få fjernet. Det er blandede led og jernmand.
+
+2:00
+Så er vi nødt til igen at gå tilbage i værktøjskassen,
+
+2:03
+og der skal vi nemlig tilbage til symmetriske matricer og ortogonale substitution og den slags ting for at få reduceret de ting basisk skift osv.
+
+2:13
+Så jeg kan se, når vi snakker om optimeringer og den slags ting er flere variable, så kræver det lidt flere værktøjer, end I brugte i gymnasiet.
+
+2:23
+Så prøv at hænge på i dag, så er I godt forberedt til lille dag og til næste uge for at starte lidt forsigtigt ud.
+
+2:32
+Så laver vi lige en intro med en variabel.
+
+2:48
+Og lad os sige, at vi har en funktion f. Og den har måske en kraft som seere vil sige den ser sådan ud.
+
+3:00
+Og så kigger vi på et x0. Og så har vi et en funktions.
+
+3:10
+Her F.A x0, og her kan vi jo godt bruge Excel planen til at anskueliggøre kaffen, fordi det kun er en variabel.
+
+3:21
+Så har vi noget der hedder at tale os grænsebomme af.
+
+3:27
+I første grad, så lad os sige til os grænser former af parret en som den siger så at hvis f er differentiabel i x0, jamen så kan f.ex.
+
+3:49
+Det vil altså sige funktions værdien, som ligger lidt væk fra det faste punkt.
+
+3:55
+Det kan skrives ved hjælp af funktions værdien i det faste punkt Kluges F.
+
+4:02
+Mærke i x0 gange med x minus x0.
+
+4:09
+Og så har vi en epsilon funktion x minus x0, og den skal så gange med afstanden mellem x og x0.
+
+4:22
+Så det er sådan en. Ja, og det der ligger i det, er altså det man siger.
+
+4:28
+Hvis F er differentiabel i x0, så kan så findes der en epsilon funktion, for det er sådan set det eneste der ubekendte her.
+
+4:37
+Sådan så f. Eks. Hele tiden kan skrives på den måde, som står det.
+
+4:43
+Dagen går trillede dette lød det konstant.
+
+4:48
+Det lød det år fra sørme. Så er det her.
+
+4:55
+Det har en faktor, som går imod noget, så det forsvinder.
+
+5:00
+Men det har to faktorer, som går imod nul, så det forsvinder meget hurtigt.
+
+5:06
+Derfor vælger man sommetider så at se væk fra dette.
+
+5:11
+Og så siger vi så, at det, der ligger her. Det er det proklamerede første grads polynomium med udviklings punktet x0.
+
+5:23
+Og så har vi noget, vi bare kalder for en rest funktion her.
+
+5:30
+Og den kalder vi så for er et af eks det grafen for frugt charmerende første kraftfulde polynomium.
+
+5:41
+Det er selvfølgelig tangenter i dette røddings punkt, så dér har jeg altså grafen for p et ga ex.
+
+5:59
+Men nu skal jeg se om jeg kan få plads til det herovre.
+
+6:07
+Så går vi videre til taler tilladte grænse.
+
+6:11
+Formel for to variable.
+
+6:17
+Nej, nej, Schnoor er Grade 2 altså anden grad.
+
+6:28
+Og den taler også om at f. Eks. Den kan skrives ved hjælp af udviklings punktet Kluges f.
+
+6:37
+Mærke i x0 gange med x minus x nul.
+
+6:44
+Men så kommer der et nyt led på en halv f dobbelt mærke i x0, gange med x minus x0 i anden.
+
+6:55
+Og så har vi plus en epsilon funktion g x minus x0 og så x minus x0 i anden.
+
+7:09
+Så nu er der altså kommet et nyt leed på.
+
+7:13
+Nemlig dette led og især at nu er der et ledigt, hvor der er tre faktorer, som går imod nul, og hvor dette er en faktor.
+
+7:23
+Der er kun to faktorer, der går imod nul. Så det vil sige, at så ser man sommetider bort fra dette.
+
+7:31
+Og så har vi altså det. Den del af det der ligger her.
+
+7:36
+Det kalder vi så, for det er proklamerede anden grads polynomium med udviklings punktet i x0 og dette.
+
+7:46
+Det er vores rareste funktion er at et.
+
+7:58
+Ja, og endda f eks. Endda. Det er så læg mærke til her.
+
+8:05
+Det er altså, at det er et anden grads polynomium, for der har vi jo I kan se det.
+
+8:11
+Det variablen x. Den vil komme i anden. Så det er så et andet grads polynomium, og så ved vi, at dens kraft er en parabel.
+
+8:22
+Så kan vi sige, at nu har vi noget, der normalt ville være en bedre approksimation end den tangent, vi har tegnet for.
+
+8:30
+Nu er det en proklamerede parabel, så den ser måske sådan her ud.
+
+8:41
+Og der har i grafen for P2 da ex. Og C.
+
+8:59
+Hvorfor ser det proklamerede angrebsspil, når VM ud på den måde?
+
+9:03
+Hvorfor har det den formen her? Det har en hemmelighed, og da altså vi kunne godt prøve at lave nogle andre.
+
+9:13
+Vi kunne næsten lave nogle, altså parabener, der næsten ligner den der.
+
+9:17
+Men dette er den aller bedste. Og hvad er dens hemmelighed?
+
+9:24
+Det er at pisse værdi i x0.
+
+9:34
+Det er den samme som den oprindelige funktion, som vi behandler og Piratos afledte i x0.
+
+9:45
+Jamen, det er lig med den oprindelige funktions afledede i x0.
+
+9:53
+Og hvis I afleder p dobbelt i x0, jamen så er det lig med f dobbelt mærke i x0.
+
+10:05
+Så det vil altså sige alle Franchell på centrene, for det er charmerende før at anden grads polynomium er identisk med F.
+
+10:15
+Og det er derfor den er så god til at efterligne. Og at proklamere.
+
+10:24
+Ja. Så skal vi se på et vigtigt.
+
+10:31
+Særtilfælde. Se hvis det nu er sådan at de Franchell procent den x0 den er lig med nul.
+
+11:00
+Så kalder vi x0 et stationært punkt. Og så vil vi i x0, da vil vi have vandet har tangent.
+
+11:34
+Og så ved vi fra gymnasiet, at det er de punkter, hvor vi har mulighed for at finde ekstremer.
+
+11:42
+Det er det eneste sted, hvor der kan være ekstremer folk differentiabel funktion. Det er i de stationære punkter.
+
+11:58
+Og dér vil der være nogle typiske situationer.
+
+12:02
+Prøv at se her. Altså nu tegner jeg to af de typiske situationer.
+
+12:13
+Altså hvis vi siger at vi har x0 her.
+
+12:18
+Og så har vi f.ex 0. For tilsvarende så her og her.
+
+12:33
+Og så har vi altså nu fundet ud af eller vi siger at x0 er et stationært punkt, så skal der være en vandrør tangent.
+
+12:46
+Og så to oplagte muligheder. Det vil så være, at F ser sådan herude.
+
+12:58
+Eller den ser måske sådan ud.
+
+13:08
+I det tilfælde vold, som vi har her til venstre, taler vi så om, at dette er et egentligt lokalt minimum.
+
+13:26
+Og så for tilsvarende hende der har vi så et inderligt lokalt maksimum.
+
+13:42
+Nu vil vi lige prøve at se hvad er det egentlig der karakteriserer sådan et egentligt lokalt minimum?
+
+13:51
+Det er, at hvis vi går bare en lille smule væk fra x0, vil sige en lille omvejen her.
+
+13:59
+Der vil f. Eks. Være større end f.ex.
+
+14:03
+0. Altså minimums punktet er f.ex.
+
+14:07
+0 så sige både til højre og til venstre for x0, der gælder.
+
+14:13
+Der er så at f. Eks. Er større end f.
+
+14:16
+A x0. Og I kan se omvendte her hvor vi har et lokalt maksimum.
+
+14:28
+Der gælder at funktions værdierne for F, at de er mindre end f.ex.
+
+14:34
+0. Så her kan vi altså skrive, at i denne her situation har vi f.
+
+14:38
+Eks. Er mindre end f.ex. Nul. Men hvordan kan vi så afgøre om det er dette der er tilfældet, eller det her der er tilfældet?
+
+14:57
+Eller måske noget helt tredje, som er tilfældet. Når jo, der har vi talt os grænsebomme og dette er så er sagen.
+
+15:13
+Det er så, at vi har et stationært punkt, så det vil jeg så sige, at det andet led op i tallets anden grads formel.
+
+15:26
+Der har vi altså et mærke den nul, og det betyder så, at vi kan skrive f.
+
+15:31
+Eks. Vi flytter f.ex.
+
+15:34
+0 over på venstre side. Og det skal så være lige med, og der har vi en faktor på de sidste to led, der hedder X minus 6 0 anden.
+
+15:49
+Så der får vi altså en halv f dobbelt mærke i x0.
+
+15:59
+Ganget med x minus x0 i anden.
+
+16:08
+Bare vi skal lige have at vi skal lige have epsilon funktionen på.
+
+16:12
+Det var den der hedder plus epsilon x minus x0, og så har vi altså x minus x nul i anden.
+
+16:24
+Prøv at se, hvis det er den situation her. Så er F altså større end den der.
+
+16:33
+Det vil sige venstresiden er positiv. Det er den lige præcis.
+
+16:40
+Hvis højresiden også er positiv, de skal selvfølgelig give. De skal selvfølgelig have samme fortegn.
+
+16:49
+Det skal vi have to tallet, og det betyder den, at den er i anden.
+
+16:53
+Det vil sige, den er altid positiv. Så er det eneste der er afgørende her.
+
+16:58
+Det er så. Om det første led.
+
+17:03
+Om det er positivt, og nu skal jeg altså tænke på, at vi går jo tæt på x0, det vil sige det lede.
+
+17:10
+Det forsvinder, så det er den her, der er det afgørende.
+
+17:15
+Med andre ord er F dobbelt med og giv x0, da er det afgørende.
+
+17:21
+Og det jeg altså kan se, er hvis f dobbelt mærke i x0.
+
+17:30
+Hvis den er større end nul, så er hele højresiden positiv.
+
+17:35
+Og så den er positiv. Og så er det den her situation, der er opfyldt.
+
+17:40
+Det vil sige, at så så. Har.
+
+17:46
+F. En lidt lokalt minimum i x0.
+
+18:03
+Og så selvfølgelig fuldstændig omvendt. Altså vist den dobbelte afledede.
+
+18:11
+Hvis den er mindre end nul, så har F 1 til et lokalt maksimum i x0.
+
+18:24
+Kort sagt hvis x0 det at et stationært punkt, så har vi et kriterium et fortegn kriterium for et dobbelt mærke.
+
+18:35
+Hvis den er positiv, så er der et lokalt minimum, og hvis den er negativt, så er der et lokalt maksimum og.
+
+18:51
+Nej, jeg tror ja, den må I købe. Det kan være vi lige kan nå at se senere et eksempel her på midten, for nu vil jeg gerne videre til det næste emne,
+
+19:04
+fordi som sagt er det her, vi gerne vil have generaliserede til funktioner af to variable.
+
+19:12
+Og ja, endda 3 og 100 variable.
+
+19:16
+Den metode sådan et kriterium, som vi har sat op her med et dobbelt mærke.
+
+19:26
+Så nu skal vi i snak om to variabler, og vi kigger på Tellers grænser former for to variabler.
+
+19:43
+Og vi tager sig for grad en.
+
+19:52
+Ja, alle vi altså er overskrift, det taler til deres grænsebommen for to variable.
+
+19:57
+Og så kigger vi altså først på situationen en grad grad en.
+
+20:05
+Og den siger så hvis F.
+
+20:17
+Hvis denne funktion stænders differentiabel i ex 0,70. Så kan f af.
+
+20:28
+Den kan skrives med udgangspunkt i Epps værdi i det variable punkt.
+
+20:35
+Og skal vi lige kigge nu, ser de frem. Nu ser definitionsmængden ud på denne måde.
+
+20:40
+Vi kigger på ICTY planen, og de har så her et x komma y.
+
+20:50
+Men nuller på, så er det vores udviklings punkt, og så kigger vi altså på et variabelt punkt, der ligger i nærheden.
+
+21:00
+Afstanden imellem de to punkter er en funktion af to variable, den kalder vi for ro,
+
+21:08
+og den vender vi lige tilbage til om lidt, for den får vi brug for nu.
+
+21:13
+Se. Vi skal nu skrive F. Dobbelt.
+
+21:17
+Nej. Det er x0 gange med x minus x0 plus.
+
+21:29
+Se det er den partielt afledet i x nul komma øy nul gange med x minus x0 plus den partielt afledet efter ny taget i ex 0,70.
+
+21:45
+Gange med y minus nul, og så får vi pludselig en epsilon funktion af x minus x nul komma by minus nul og så gange med den der afstands funktion.
+
+22:08
+Så vi har her 1 2, 3 4 led.
+
+22:12
+Altså det snakker vi om til sidst denne her. Den har jo tre faktorer.
+
+22:17
+Der er to faktorer, som går imod nul og de to led.
+
+22:20
+De har kun. De har kun én faktor, der går imod nul, og det er jo så baggrunden for, at det der står her.
+
+22:30
+Det er det, vi kalder det approksimant første grads polynomium. P ét af extremely, og det snakker vi om sidste gang, og det er rest funktionen.
+
+22:52
+Og dette er så en første grads pro approksimation, og lad os nu sige at grafen for f.
+
+23:07
+Hvad siger vi har en eller anden grad for EF.
+
+23:13
+Og her har vi så. Et punkt x0 komma by nul komma f.
+
+23:22
+X nul komma by nul. Det er set koordinaten. Den sidste dør så er grafen for Proxima erne.
+
+23:31
+Første grads polynomium er så en tangent plan. Som lige præcis rører i dette punkt.
+
+23:42
+Her har jeg så grafen for et. Og så kigger vi på på grejet.
+
+23:56
+2. Og der får vi at f gx kommer noget.
+
+24:11
+Den kan skrives som f, a ex nul komma y nul plus den partielt afledet efter eks.
+
+24:20
+Taget i x 0,7 nul gange med x minus x0 og plus den partielt afledet efter y i x0, komma y nul og så y minus nul.
+
+24:39
+Så det var simpelt hen proklamerede første grads polynomium.
+
+24:43
+Vi har skrevet op her, hvor vi har brugt det partielle afledede efter første orden, og nu ved vi,
+
+24:51
+at vi har jo fire partielt afledet efter anden orden, og dem får vi brug for, ligesom vi havde en halv.
+
+25:03
+Altså her, hvor vi snakkede om en om en variabel.
+
+25:07
+Vi havde en hal dér, hvor vi har dobbelt mærke. Så får vi da også nu her, så vi får her en hal.
+
+25:16
+F dobbelt mærket i x nul komma nul.
+
+25:22
+Og gange med x minus x nul i anden. Og så får vi et plus.
+
+25:30
+Og det er så eks. Vi har ledt efter to gange.
+
+25:35
+Og så får vi også en halv f. Hvor vi afleder to gange efter y farten.
+
+25:43
+Ex. Nul komma nul. Og gange med Y, mener sytråd.
+
+25:50
+I anden og så får vi Kluges.
+
+25:57
+Et dobbelt mærke først efter X og så efter Y og så de x0 komma y nul gange med x minus 6 nul komma y minus nul.
+
+26:12
+Der. Så der får vi selvfølgelig et.
+
+26:24
+Læg meg, læg lige mærke til.
+
+26:27
+Jeg sagde jeg ville skrive fire led med de dobbelte afledet, men jeg skrev faktisk kun den, og der var en halv foran den, som var en halv foran.
+
+26:39
+Og her har jeg ikke skrevet en halv. Og det er jo fordi, at de to ledere, hvor vi først de France siger efter eks.
+
+26:48
+Derefter efter Y, er det samme, som vi ser, differentierer først efter Y og så bagefter efter.
+
+26:56
+Så de to led har jeg altså slået sammen til ét led. Og så ser Donaldson da ud.
+
+27:04
+Og så får vi selvfølgelig her plus en epsilon funktion x minus ex x0, komma by minus nul og så gange med afstands funktionen i anden.
+
+27:29
+Ingen faktorer der går imod nul en faktor én faktor.
+
+27:37
+To faktorer to faktorer, to faktorer og tre faktorer hernede vil altså sige det er derfor vi kalder denne at det sidste led.
+
+27:49
+Det kalder vi altså for rest funktionen af tryk, og det er så det som står her.
+
+27:58
+Hele den smøre, som står her i første linje.
+
+28:03
+Den del af det det er, det er proklamerede anden grads polynomium, og den skriver vi altså pi 2 i x komma.
+
+28:25
+Hemmeligheden Hvorfor er den god? Hvorfor er det?
+
+28:28
+Hvorfor kan vokse mere end angrebsspillet kun ser ud på den måde her?
+
+28:34
+Det er fordi. Den oprindelige funktion og det polynomium der står her.
+
+28:44
+De har en bestemt ting til fælles de er 1, 6 0, har jeg den samme funktions værdi og alle deres partier dog afledede.
+
+28:54
+De er ens i x 0,1 nul. Det er derfor den er så god til at ville ligne den oprindelige funktion.
+
+29:03
+Og det kan I kan ses på. Hvis I gider, så prøv at teste efter.
+
+29:08
+Det er bare simpelhen gået i gang med at de fronter det her udtryk og så indsætte x0 på excess pas.
+
+29:16
+Hvis I ikke gider det. Det er selvfølgelig en lidt triviel opgave. Så har jeg kun alternativ og tro på, at det er det, jeg siger.
+
+29:26
+Det andet anbefales selvfølgelig ikke. Skal vi lige prøve at se.
+
+29:37
+Ja, hvad siger du? Og vi er.
+
+29:44
+Nej. Er der flere fejl.
+
+29:55
+Vi skal lige se et eksempel på, hvordan vi kan få opskrevet det proklamerede angrebsspil fra en funktion, så vi har en funktion der hedder f.
+
+30:08
+Eks. Kommer Y er lig med E i x gange med y og XY.
+
+30:25
+Og mit mål er at finde proklamerede anden grads polynomium.
+
+30:33
+Hvor vi har udviklings punktet x nul komma nul.
+
+30:38
+Det er lig med 0,0. Det først vi har brug for.
+
+30:45
+Det er så værdien i udviklingspulje, og hvis vi indsætter X er lig med nul og yderlige med nul, så bliver hele eksponenten.
+
+30:59
+Den bliver nul, og så er vi en nul, og den er i. Så skal vi have den partielt afledet efter x.
+
+31:14
+Og det vil altså sige at vi skal differentiere eksponentielt funktionen. Den er jo altid sig selv.
+
+31:23
+Men så skal vi gange med differentialkvotienten at den indre funktion.
+
+31:28
+Det vil sige differentialkvotienten eksponent, for eksempel variabler.
+
+31:35
+Y er en konstant, så det bliver bare ex. Nej, det bliver y.
+
+31:43
+Og den skal vi så have taget. I udviklings punktet 0,0 og fordi at y den er nul, så bliver det hele nul.
+
+31:58
+Og så tager vi f. Mærke efter Y. Og igen vi skal jo bare have den dér eksponentielt funktion op en gang til.
+
+32:12
+Og nu skal vi differentiere den indre funktion. Eksponenten. Og I kan se.
+
+32:19
+Først bliver den ex og så bliver den endnu sen. Og det medfører så at f.
+
+32:31
+Mærke efter Y i 0,0. Den bliver en x 4 0.
+
+32:37
+Så har vi et minus 1, og så får vi altså en faktor her på minus 1.
+
+32:44
+Så skal vi have den dobbelte afledet efter eks.
+
+32:50
+Taget i ekskong med Y. Og ja, altså den har vi sådan set differentierede en gang.
+
+33:01
+Så det eneste der kommer på det bare Y, kommer ned en gang til, så vi får Y i.
+
+33:07
+Så denne er altså ind i x garnede by min nu syg og så ganget med by.
+
+33:15
+I anden. Og det betyder så at den dobbelte afledet efter exit udviklings punktet.
+
+33:24
+Den er også nul. Så skal vi have den dobbelte afledet efter Y.
+
+33:35
+I Ex Company. Og det vil sige at vi skal op og differentiere denne her.
+
+33:43
+Den har vi også differentierede i en gang. Det eneste vi altså fik eksponentiel funktion ned, den skulle ganges med parentesen eksmænd Museen.
+
+33:51
+Det gør vi en gang til. Så får vi parentesen ex Minos ind i anden.
+
+33:57
+Så her har vi altså e i x gange y miner syg og sagt ganget med x minus 1 i anden.
+
+34:07
+Og så får vi så den dobbelte afledet efter Y i 0,0 og ikke så Y er nul.
+
+34:17
+Den giver en eksmænd og giver minus 1, men den sker i enden, så det bliver +1.
+
+34:26
+Og så mangler vi kun én, nemlig.
+
+34:32
+Hvor vi først ser differentieret efter ex. Og så skal vi differentiere efter.
+
+34:40
+Og det er det her, den som vi har stående her, og hvor vi altså har by som en variabel.
+
+34:54
+Så vil sige at vi er nødt til at bruge produkt reglen her, fordi først skal vi differentiere den og beholde den.
+
+35:06
+Det ved vi jo. Det giver E i x ganget y minus y.
+
+35:14
+Og at vi skulle beholde. Bygget.
+
+35:21
+Og så plus det omvendte. Beholde den.
+
+35:27
+Og differentiere den der og det bliver så plus e i x y, mener Sy.
+
+35:34
+Simpelt hen. Og så skal vi have den dobbelte differentierede efter x y i nul komma nul og ikke set det,
+
+35:46
+har vi et nul det første led, det giver nul, men den anden den giver.
+
+35:49
+1. Så er vi færdige til at kunne nedskrive det.
+
+35:56
+Det er proklamerede angrebsspil. Vium Vi skal altså have B2 der ex company.
+
+36:11
+Og vi skal starte med S, altså med selve funktions værdien.
+
+36:18
+Det var det et tal der står der. Og så skulle vi bruge den partielt afledet efter x.
+
+36:29
+Så er plus nogle gange med x minus nul.
+
+36:35
+Plus, så skal vi have den partielt aflede efter Y.
+
+36:40
+Den er min nu se. Og den skal ganges med eks.
+
+36:49
+Minus nul. Plus.
+
+36:55
+Så skal vi have den dobbelte en halv gange den dobbelte savlede efter eks.
+
+37:03
+Den gav nul. Gange med ex mener snorlige anden.
+
+37:13
+Og så skal vi have en hal og så den dobbelthed afledet efter Y.
+
+37:20
+Den fik vi til en. Og så gange med.
+
+37:26
+By minus 0 i anden. Og så til sidst den blandede.
+
+37:34
+Den var en. Og så gange med ex.
+
+37:42
+Minus nul og så gange med y minus nul.
+
+37:47
+Og vi prøver at forkorte alt det som står her. Så står der en.
+
+37:52
+Den giver nul. Og det skal der, så skulle der have stået y.
+
+37:58
+Læg mærke til at jeg har skrevet ekstra og det skal selvfølgelig være ü. Sådan hedder mine Ozzy.
+
+38:04
+Dette ledte det går i nul. Dér får vi plus en halv by i anden.
+
+38:15
+Og så får vi her hende fra ex gange med. Så det var det approksimant Amgros polynomium for f.
+
+38:29
+Udviklings punktet 0,0. Det er jo set I havde et blandet led.
+
+38:37
+Altså hvor vi både har ikke sorry, og det kommer fra den der dobbelte afledede.
+
+38:43
+Det er den der, der sørger for, at vi fik det, der blandede livet med.
+
+38:52
+Og så kan man jo bruge den til approksimation. Er den der.
+
+38:59
+Og der er en del af et par opgaver i dag i jeres øvelses program,
+
+39:02
+der bare træner jer i det der med at bruge det proklamerede polynomium til at lave konkrete approksimation og til nogle værdier.
+
+39:12
+Jeg tror, at USA's opgave 2 og 3, der handler om det der sker, har udviklet polynomium og sprutte.
+
+39:20
+Men jeg synes, at vi skal se på en grafisk en grafisk udgave.
+
+39:42
+Men om. Ja tak eller rigtig godt, hej.
+
+40:02
+Vi prøver at kigge på den funktion vi har studerede her.
+
+40:10
+Lad os lige se funktionerne dens grader, hvordan den ser ud, og hvor vi også har tegnet det pågældende røddings punkt 1.
+
+40:20
+Så I kan altså se, det er den flade her, vi arbejder med. Den vil vi gerne have proklameret.
+
+40:29
+Hvis vi først laver det charmerende 40 sikkerhedspulje, men det gør vi altså her i den linje, der står her, og så bruger vi M!
+
+40:37
+Taler. Vi skriver udvekslings punktet ind, hvor ikke så lige med noget og Y er lig med nul, og så er jeg Mabel gener.
+
+40:47
+Så genial, at hvis vi vil have det første første kranspulsåren, skal vi altså skrive 2 som det sidste argument.
+
+40:55
+Så det er så nemt at huske. Men okay, lad os få flot det, og det kan jeg altså set, der har vi plottet.
+
+41:06
+Grafen sammen med dens tangent plan i dette røddings punkt.
+
+41:16
+Se nu i den linje I lige vist nok lige kan se, det er jo ikke, at der har vi så skrevet argumentet tre, og det vil sige,
+
+41:24
+så får vi brugt charmerende Anders på linoleum, og det er det, vi også lige har regnet ud på tavlen her.
+
+41:32
+Lad os se hvordan grafen ser ud sammen med dette er Panucci Mirna.
+
+41:38
+Angrebsspillet kan I se. Altså dér proklamerede angrebsspillet om det er det deres graverede.
+
+41:44
+Det er deres ternede flade, og I kan se, den ser pæn sejr i Rødding.
+
+41:57
+Men hvis vi vil da selvfølgelig noget er større, selvfølgelig også højere ordens af et par polynomier.
+
+42:06
+Nu vi bare taget angrebsspillere med, og vi kommer.
+
+42:09
+Vi kommer ikke herfra med det til at gå op i højere ordener, men lad os dog lige for sjovs skyld sige hvad hvis nu vi gik op i det tiende?
+
+42:18
+Så skal vi skrive elleve, så det har jeg altså lige altså polynomiet ikke sandt.
+
+42:28
+Og så kigger vi på Kaisa.
+
+42:33
+Er det ikke smukt? Ham taler. Han var ikke helt dum til at lave design, vel?
+
+42:38
+Fordi han kan simpelthen genskabe altså fladerne ved hjælp af polynomier.
+
+42:46
+Som selv om der er mange led, så er de i princippet meget nemme at regne med for høj og eksponentiel funktion.
+
+42:53
+Det vil sige, at det er en vanskelig funktion. Så det er sgu da skide flot.
+
+43:00
+Ja, men vi. Kiggede i forbindelser med med med funktion af en variabel.
+
+43:09
+Da kiggede vi på et interessant undtagelsestilfælde eller særtilfælde, og det skal vi også her.
+
+43:32
+A. C hvis nu at den partielt afledet efter ex i x nul komma nul er lig med den partielt afledede efter you.
+
+43:51
+Lad os sige de begge to er nul. Så kaldes.
+
+44:03
+Ex nul komma by 0. For et stationært punkt.
+
+44:13
+Det synes du lød meget stationeres oplever selv stationære overgreb.
+
+44:20
+Forståeligt nok, men ikke når du først hører, hvad pointen er med det her.
+
+44:27
+Ikke også fordi I igennem, så har vi jo.
+
+44:31
+Det betyder, at vi har en Vanunu godt tænkt den plan.
+
+44:36
+Kan I huske at normalvægt ham? Kan I huske, hvis vi skriver den op, så den gjorde minus den partielt afledet efter ex.
+
+44:46
+Vi er nu den partielt afledet efter y og så en.
+
+44:51
+Og hvis de første to koordinater de er nul, så har vi jo at normalvægt som dens ex komponenter er nul.
+
+45:00
+Dens komponenter er nul. Dens dessertkok koordinat er 1.
+
+45:04
+Og så kan I godt se, hvis vi har en lodret normalvægt, så så har vi selvfølgelig Banhart tangent plan.
+
+45:28
+Og så kan vi også på at se jamen, hvad kommer det til at betyde for grafen?
+
+45:33
+Vi laver ikke en fuldstændig hvad skal vi sige?
+
+45:37
+En fuldstændig analyse i dag, men vi tager bare nogle typiske situationer, og det er den her, hvor jeg altså ser, at vi har.
+
+45:53
+Altså vi har den den vanrøgtet tangent plan her, og så ser grafen for EF.
+
+46:00
+Den ser måske sådan her ud. Og det er der har vi så x nul komma y nul komma.
+
+46:12
+F x0. Karmøy nul. Det vil altså sige at z koordinaten f af ex.
+
+46:21
+0,70, så det der karakteriserer den grafer med dette her udsæd udseende.
+
+46:28
+Det er altså for det første de kalder det for et egentligt lokalt minimum,
+
+46:38
+og det gør vi fordi at f af ex komma y er større end f af x nul komma by nul.
+
+46:48
+Altså hvis bare vores. Vores variable punkt ligger altså Hjetland omregne her.
+
+46:54
+Så kan I se. For at komme op på fladen for at komme op i til F.
+
+46:59
+I det variable punkt, så er det større end f's værdi i udgangspunktet.
+
+47:09
+Og den anden situation. Det er jo så at fladen kommer her.
+
+47:25
+Sådan her, og hvor den hele tiden ligger nedenunder, rører Kings punkter og den værdi der er jo f.
+
+47:36
+Ex. 0,70 så dette. Det kalder vi for et egentligt.
+
+47:43
+Lokalt maksimum. Og her ser jeg så at f.
+
+47:50
+Eks kommer. Y er mindre end Epps værdi i udviklings punktet, så det er to typiske muligheder.
+
+48:01
+Jeg har ikke sagt dem allesammen, men det er to meget karakteristiske muligheder,
+
+48:05
+meget typiske muligheder, og det er selvfølgelig noget af det, vi er interesserede i at få.
+
+48:10
+Rendyrket så igen.
+
+48:15
+Hvordan kan vi afgøre det her? Om det er den situation eller den situation?
+
+48:20
+Eller måske noget helt tredje. Da vi er nødt til at lave en ny antagelse.
+
+48:38
+Altså ud over at det er et stationært punkt, så antager vi at det blandede led.
+
+48:50
+Jeg så var den første der afledte efter den ene afledte efter den anden.
+
+48:55
+Hvis vi antager, at den er lig med nul. Så går jeg her hen og kigger på den situation vi har her.
+
+49:09
+Hvad betyder det? Ja, det betyder så, at det er det at lede det.
+
+49:15
+Forsvinder dette lede forsvinder. Og det tredje led Helle Det forsvinder.
+
+49:24
+Se den dér ro i anden halvleg, så Pythagoras formel siger jo, at den er, at den er x minus x nul i anden plus y minus B 0 i anden.
+
+49:43
+Og hvis vi sætter ro i hjernen, så får vi jo x minus x 0 i anden plus y minus i nul i anden.
+
+49:53
+Så det er så det, der ligger i det dernede. Og det betyder, nu kan vi Factory seere igen.
+
+50:00
+Vi er opskriver igen. F. Eks. Minus f.ex.
+
+50:05
+Nul også skal se hvem af dem er størst.
+
+50:10
+Hvis det er den, der er størst, så skal højresiden være positiv, og hvis det er den, der er mindst, jamen så skal højresiden være negativ.
+
+50:23
+Og den kan vi så Factory se og det billede der er tilbage.
+
+50:30
+Det er så en halv. Et dobbelt mærke.
+
+50:38
+Efter eks taget i x0 kommer det ikke noget.
+
+50:44
+Og så plus epsilon funktionen.
+
+50:54
+Og det skal så gange smed ex minusvækst x0 i anden.
+
+50:59
+Og det kan lade sig gøre fordi at både den der og den dér har en faktor på den.
+
+51:07
+Det var jo det samme som første led i ro, og nu får vi så endelig ydet plus en halv f.
+
+51:14
+Dobbelt mærke efter ex. 0,70. Og så plus epsilon funktionen f eks minus 6 0 gange med Y mener 7 0.
+
+51:29
+I anden. Så.
+
+51:40
+Nu skal vi se på tegnet. Se.
+
+51:46
+Den er altid positiv. Den er altid positiv.
+
+51:55
+Så hvis du F er dobbelt mærke extend der går jeg bare mod nul, kan vi sådan set godt se bort fra det, der er afgørende.
+
+52:03
+Det er så fortegnet for F. Dobbelt mærket efter ex bestemmer positiv, så det er lidt positivt og bestemt også positiv, så det lyder også positivt.
+
+52:15
+Så nu kommer der altså to betingelser, hvor vi kan sige ja, hvis f.
+
+52:22
+Dobbelt mærke efter eks. I X0 komma y nul.
+
+52:30
+Er større nået. Og.
+
+52:37
+Også den anden dobbelte afledet nu efter Y bestemt også er.
+
+52:44
+Større end nul. Så er vi altså i den første situation her.
+
+52:50
+Så har vi et kriterium for et egentligt lokalt minde, hvor hvis den dobbelte afmærket efter eks.
+
+52:59
+Er større end nul, samtidig med at den dobbelte afledede efter Y også er større end nul,
+
+53:05
+så ved vi med sikkerhed, at så må der være et egentlig lokalt minimum.
+
+53:19
+Og så selvfølgelig. Hvis de i stedet for begge to er negative.
+
+53:27
+Så er et egentligt lokalt maksimum. Så er det så er det i situationen.
+
+53:32
+2 hvor vi er havnet. Og hvad så, hvis de har forskelligt fortegn?
+
+53:50
+Vi kigger lige på et hurtigt Mabel eksempel. Hvis vi betragter funktion ln af exil hjernen pussy hjernen på SE.
+
+54:24
+Dette er de første afledet vi har fundet. De har begge to nåle, så det vil sige det er et stationært punkt.
+
+54:38
+Og så har vi fundet de to andenholdet, og jeg burde sådan set også her.
+
+54:49
+Sit. Altså den skulle vi jo sådan set haft med kontrol ved.
+
+55:00
+Da. Vi skal jo lige se om.
+
+55:07
+Hvis vi først differentiere efter eks og efter vi bagefter.
+
+55:11
+Den skulle jo gerne være nul for at vores vores anden betingelser er opfyldt,
+
+55:16
+så I kan alle se den dobbelte afledet efter x og den doktor afledede efter Y.
+
+55:22
+De har begge to positive og den blandede.
+
+55:26
+Den er nul. Så derfor burde det være den situation. Lad os lige prøve at plotte gras'en.
+
+55:33
+Der har i grafen øjekast sig se ja, men den har tilsyneladende et.
+
+55:40
+Lokalt minimum der. Betegner vi det, og der tegner vi den så sammen med.
+
+55:51
+Der tegner vi den sammen med dens proklamerede anden grads polynomium, som er en pap Pablo lider.
+
+56:01
+Så det var så et eksempel på, at de begge to var positive.
+
+56:06
+Det var den første situation, vi har skrevet op af hende. Lad os lige prøve at lave lidt om i forskriften.
+
+56:16
+Selv hvis jeg nu er her i stedet for det dér plus. Da skruer jeg lige et minut i stedet for.
+
+56:30
+Det kan se igen. Det er et stationært punkt. Og vi finder det dobbelt savlede.
+
+56:41
+Den ene er positiv, den anden er negativ. Lad os prøve at se hvad grafen ser ud.
+
+56:51
+Det er grafen for Effie serie set, den har den egenskab at de indretning.
+
+56:58
+Altså i den retning der ser ud til at den har et maksimum.
+
+57:03
+Men i den anden retning har den et minimum. Så det vil sige.
+
+57:09
+Der gælder hverken at F er ikke så større netværks nul eller det modsatte.
+
+57:13
+Den har ikke nået ekstremer, og sådan gælder det altså, hvis en funktion ved dens dobbelte savlede har forskellige fortegn.
+
+57:20
+Så er der ikke noget ekstremer. Når.
+
+57:33
+Kan I se nu være nået ret langt i vores lille analyse her.
+
+57:38
+Men nu var der jo den dér anden forudsætningen, som jeg havde taget med, nemlig at det blandede led er nul.
+
+57:49
+Så nu kommer det spørgsmål, som vi skal arbejde med efter pausen.
+
+57:54
+Ja, men hvad så hvis at tale os grænser, fordomme, hvis den indeholder et blandet led?
+
+58:03
+Hvad gør vi så? Altså hvis.
+
+58:22
+Hvis den fyr der er forskellig fra nul, så har vi nemlig sådan et led af den type her.
+
+58:30
+Hvor vi både har ikke så Y, og så har vi slet ikke den lækre situation, for vi kunne lave de uligheder, det er op.
+
+58:39
+Så analysen bryder sammen. Hvordan kan vi reparere på det?
+
+58:46
+Derhjemme i dag. Det er emnet på Lille dag, og det kommer igen i næste uge.
+
+58:51
+Lav et basis skifte. Hvis man laver et rigtigt basis skifte, så kan man nemlig få Anders Polynomiet eller Tellers grænsebomme.
+
+59:06
+Uden et blandet led, så husk det vi skal bruge Lina algebra til at fjerne det blandede led.
+
+59:14
+Det arbejder vi med efter pausen skal.

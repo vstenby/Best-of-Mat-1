@@ -1,0 +1,1163 @@
+0:01
+Og hvad er der gerne? Der har været, lød det, men ja.
+
+0:11
+Så er programmet i dag er består af delvis nye ting, men i høj grad også en repetition af hele lineær algebra delen.
+
+0:24
+Så hvordan har været lidt tilbagetrukken i sidste børnehave?
+
+0:29
+Så kommer nu igen for fuld styrke, og det gør den, fordi vi skal bruge den på torsdag og på næste mandag.
+
+0:36
+Og så er vi ved at være færdig med den, for så kommer der en hel et helt andet emne resten af tiden, der hedder integration.
+
+0:42
+For hvad skal lære at integrere alle disse funktioner af flere variable?
+
+0:46
+Så vi skal lige have repeterede lineær algebra, og jeg vil prøve at gøre det på den måde, at jeg snakker de emner igennem,
+
+0:55
+og så tager nogle ganske små beviser med bare lige for at illustrere en linje af uafhængighed og ting, man kunne have glemt.
+
+1:02
+Så det første, vi skal lave i dag, er at tale lidt om kan selvfølgelig lidt noget nyt, men noget som min nok kender skalaer på lugt.
+
+1:17
+Så kommer noget om overtog normalt basis.
+
+1:26
+Alt det vi skal tilbage og huske på at være nu, lige en basist. Er der noget om ortogonale matricer?
+
+1:41
+Og så kommer der noget om symmetriske matricer. Så er der noget kvadratiske former.
+
+2:00
+Og til sidst er Mabel. Så det er programmet.
+
+2:12
+Sådan ser det ud, når man kan se, der er en del matricer i dag og basis os noget soldæk, begreber.
+
+2:18
+Jeg har set før, men lidt i en anden sammenhæng nu alvorligere funktion.
+
+2:27
+Godt, lad os bare komme i gang. Det første vi skal tale om, nemlig skal på lortet.
+
+2:34
+Det er jo noget som I kender for vektorer i 2.
+
+2:38
+Og 3. Med 2 og 3. Koordinater altså vektorer i 2 i 3.
+
+2:45
+At kalde os prikproduktet. Men vi definerer det generelt her.
+
+2:54
+Nemlig hvis vi har henvendt sig af som ligger i er N og en vægt har B, som også ligger i 1.
+
+3:06
+Og vi siger, at vækster af koordinater med hensyn til standard basen er et af et tog op til
+
+3:16
+Rn og væk bedes koordinater med hensyn til standard basen er Beat 2 op til BN.
+
+3:27
+Ja altså definerer vi prikproduktet eller skalaer.
+
+3:30
+Produktet her som vektor af prikket med vægttabet er lig med A et første koordinat af gangen, første koordinaten i B plus anden kundalini af gangen.
+
+3:44
+Anden anden vej. Blues blues endte koordinaten, ja gange end ved Kundalini Bay.
+
+3:51
+Altså på en sædvanlig vis, som vi også gjorde for. Tori er 2. Og 3.
+
+3:56
+Bare man tager første koordinaterne og ganger sammen og derefter tager anden gang, tager man lægger det sammen.
+
+4:04
+Vi ønsker at vænne os lidt til denne notation. FN kommer tilbage flere gange.
+
+4:07
+I dag skriver vi det op med et et sundt tegn.
+
+4:11
+Det er jo et sundt tegn. Da skal vi skrive en eller anden index. Vi er kaldt ind A og B i A i gange B, og så skal I løbe fra ét og til én.
+
+4:23
+Så har vi lavet den sum, der står der. Det ved vi måske lige småt nok til dem på bagerste række.
+
+4:28
+A i Guide B. Sådan ser det ud.
+
+4:38
+Så det er altså noget jeg har gjort mange gange før, udregnet sådan lidt frisk på lå før I kom her.
+
+4:46
+For det er jo en er jo en stor del af pensum for vektorer i en plan.
+
+4:54
+Nu er vi kommet i gang med matricer her, så det kunne jo være,
+
+4:58
+at man på opskrive de her Panopto lå ved hjælp af matricer, og det får vi brug for et par gange i dag.
+
+5:03
+Derfor gør vi det lige, så vi har altså en anden måde at skrive.
+
+5:07
+Den der summen her på er i stedet for at opfatte a og B som vektorer, som her regner, for så kunne vi jo opfatte dem som matricer.
+
+5:14
+Og jeg ville gøre det, hvis de igen af har den form, som den har der og bærer den form, som den er her.
+
+5:21
+Nu opfatter vi som matricer. Det kan vi jo understrege ved i hvert fald også sådan nogle her.
+
+5:33
+Van der. Ja, så kan vi ikke bare skrive.
+
+5:47
+Et tog sejren gjorde i visse tidsbilledet matricer tog farven, så kan jeg ikke skrive sådan her.
+
+5:53
+Det går galt, fordi jeg jo ikke gange sag.
+
+5:58
+Den har jo en række og enden søjler. Det har den det også.
+
+6:02
+Det vil sige en gang inden matrix end en masser af type 1 en gang igen.
+
+6:07
+Og det er denne også. Vi skal prøve at gange sammen. Sådan noget galt kan ikke lade sig gøre.
+
+6:12
+De passer ikke sammen med skam. Men hvis vi nu kunne få vendt den væk, så bl.a.
+
+6:18
+Således, at det bliver en søjle væk, så går vi i gang sammen. Men det er jo nemt, for det er jo bare tage og transpondere bil.
+
+6:24
+Så hvis jeg gør det og ganger dem sammen, så står der Her er et af to optrin.
+
+6:32
+Og nu har jeg så vendt bede om jeg er transponerede, altså byttet om på søjler og rækker.
+
+6:35
+Jeg bestiller i stedet for at have en søjle, og nu hvor den nu end rækker.
+
+6:42
+Og ganger jeg dem sammen, så det dengang i den plus dengang i den forstand Gerland og så videre af et b et los a to b to lidt a b.
+
+6:53
+Altså nøjagtig samme sum altså som her.
+
+6:56
+Jo, så er en anden måde rent prikproduktet på. Så har man dem skrevet op som matricer i Maybelline for eksempel.
+
+7:02
+Og så kan man ad søvejen prøve ved at tage den ene og så lige transformerer den anden, hvis vel at mærke de summer som række vektorer.
+
+7:09
+Her havde man givet begge to som søjle vektorer. Kunne man gjort noget af det samme, så var det bare den anden, der skulle være transponeret.
+
+7:15
+Af Stanfords der. Så det var et lille lilla lyn, der talte om, hvordan vi ganget matricen sammen skal passe sammen.
+
+7:27
+Men lad os komme videre med det andet vi var i gang med, fordi. Her gemmer vi lige.
+
+7:35
+Det var sådan lige en detalje, som egentlig ikke har noget med forståelsen at gøre,
+
+7:39
+men som en røget tekst må ud på, som vi også får brug for lige lidt i dag.
+
+7:45
+Selvom længden af en vektor. Ja, længen er en veksel, definerer vi også her i en Samsam.
+
+8:04
+Hvis vi tager vikariater af Solér, Jan vi kalder det sted i længden. Man kan så sige, hvad manden biometriske forståelse af.
+
+8:10
+Det kan vi jo ikke sige. For hvis vi kom ud over ende af større end 3, så har vi ikke.
+
+8:15
+Kan vi ikke direkte geometrisk tolke på det mere, vil vi kalde det stadigvæk længden for,
+
+8:20
+og det definerer vi sådan, at hvis A er denne vægtere fra før er et af to optagne.
+
+8:30
+Ja, så siger vi længden af den definerer vi som a prikket med.
+
+8:38
+Og det er jo så længden i anden, som vi siger, at længden af vegetarian er Aprica.
+
+8:42
+Man kan også sige længden er vigtig af, at kvadratroden af private ja er fuldstændig ens.
+
+8:49
+Så allerede derude, ja så ser det jo så summen af som a et i anden bus a to er den første kun anden gang første
+
+8:56
+Canadian anden anden gang anden Kurland og så de jo så indtil videre tilfælde af en i.
+
+9:03
+Hvis man tager kvadratroden, er det her på begge sider, så man ser det svarer til den sædvanlige definition af længden af en veksel i 2.
+
+9:09
+Og 3. Nu er der bare kommet nogle flere koordinater på. Så alt ser ud som det plejer.
+
+9:18
+Igen i forhold til hvordan det så ud i to af tre.
+
+9:25
+Vi taler også om vinklen mellem to vektorer og vinklen mellem to vektorer kan findes ved følgende formel.
+
+9:48
+Ja, og hvad er egentlig egentlige vektorer? Skriver jeg her.
+
+9:52
+Egentlige vektorer. Det vil sige at de vektorer som ikke har længde nul.
+
+10:04
+Skive nye. Vi har brugt ordet før.
+
+10:25
+Det det jo en anden måde at sige det på, fordi det jo plejede at sige en egentlig en væg, der ikke er nul vægteren.
+
+10:29
+Men det er kun nulvækst. Han lærling er nul, så man kan lige så godt sige det samme bare det er en vækst, der ikke har længde nul.
+
+10:34
+Det må igen, der er frit valg. Det er simpelthen bare ikke nulvækst vektoren.
+
+10:40
+Vinklen mellem to vektorer definerer vi som det samme cosinus til den vinkel, der er mellem de to vektorer er lig med a.
+
+10:47
+Prikket med b divideret med længden er der ikke sat gang i længden af vektoren B, og det var let.
+
+10:54
+Her er det jo vigtigt, at de var egentlige, fordi at så bliver den nævneren, slår han ned.
+
+10:58
+I hvert fald ikke nul. Så vi kan godt tale om vinklen mellem to egentlige vektorer i herhjemme.
+
+11:07
+Selv om vi ikke kan, hvad skal sige. Vi kan i hvert fald ikke biometrisk forestille os, hvordan to vektorer er fire.
+
+11:14
+De lægger hvad vi kan godt udregne et tal for mængden af sige vinklen er faktisk pi tredjedel radianer mellem dem ud fra det her.
+
+11:21
+Det giver bare det reelle tal. Lad os lige se lidt på den for det, hvis den vinkel nu var 90 grader.
+
+11:36
+Så er cosinus til ved jo nul og hvornår bliver det her nul?
+
+11:41
+Disse tog giver jo i hvert fald ikke noget. Det er også lige meget. Det gør de Aprica bedre nul.
+
+11:47
+Det er det samme som at sige, at a tricket med B er lig nul.
+
+11:54
+Sådan er vinklen mellem de to vektorer a og b er 90 grader.
+
+11:59
+Så er prikproduktet nul, og hvis prikproduktet er nul som bliver cortenstål, så bliver vinklen 90 grader, så den gælder begge veje.
+
+12:08
+Og så kommer til den sidste tid. To vektorer.
+
+12:18
+Er ortogonale. Hvis.
+
+12:27
+Er udskrevet igen to vektorer, der skulle have stået to egentlige vektorer.
+
+12:34
+Lige står der to egentlige vektorer er ortogonale hvis du spørger deres.
+
+12:44
+Prikproduktet. Er lig med nul.
+
+12:57
+Vi skriver sådan her A er ortogonale på B, altså de vinkler på en anden.
+
+13:03
+Hvis det er det samme som at sige, at AaB prikket med B er lig nul.
+
+13:12
+Underforstået Her er LA og beder egentlig. For hvis en af dem er målvogteren, behøver jeg ikke at forholde sig til.
+
+13:20
+Hvis en af nulvæksten definerer vi slet ikke den vinkel. Men hvad?
+
+13:39
+Ja. Så det der gerne skulle have vist indtil videre er, at alt hvad I har kender til og er som det plejer.
+
+13:50
+Er altså ikke lavet om på noget, der bare indførte et par flere koordinater på alting. Ellers ligner man fuldstændig de formet i vante.
+
+14:00
+Godt, så skal vi lige se på. Lad os få taget tal.
+
+14:05
+Eksempel et eksempel her. Vi kunne se hvordan vægterne hedder minus 1 0 1 og så se på det.
+
+14:16
+Så af hensyn til standard basen og vi må se Brünn vægttabet.
+
+14:21
+Og det kunne vi såkaldte. Kvadratrod 2 1 og kvadratrod 2.
+
+14:31
+Spørgsmålet er at de to vektorer der står der og ortogonale.
+
+14:39
+Er A og B. Otto Ronander.
+
+14:49
+Spørgsmålstegn, der kun må undersøge hvor vi kan få brikkerne sammen vægge tage af prikket med vægt bag.
+
+14:57
+Ja, hvad er det de er så minus en gang før 2.
+
+15:05
+Plus nul gange med ét plus en guide med 40 modtog.
+
+15:13
+Og det giver nul. Der står minus fra to plus fra 2 +0. Det giver nul.
+
+15:17
+Jeg så af og bede er ortogonale. Svaret er ja.
+
+15:22
+De er af. Blot deres spørgsmål her.
+
+15:29
+Ja. Kanden kan i dag spørger min 1.
+
+15:34
+1 Hvad hedder det? En vægter have negative længde, og svaret er kun en vægt og have negativ længde, så det må vi undersøge.
+
+15:43
+Kan den kan holde længden af at være negativt her?
+
+15:46
+Svaret er, at sådan som vi konstruerer det, da vælger vi kun at tage den positive del af den ligning her.
+
+15:54
+Så vi smider så den negative løsning væk.
+
+15:57
+Så det var et godt spørgsmål, fordi det er jo rigtigt, hvis vi bare tager det som løsningen til denne ligning, så er det jo plus minus, der er sig.
+
+16:04
+Altså længden takket være plus minus fem for eksempel. Men det er kun positivt inventar, så det var et godt spørgsmål.
+
+16:10
+Ja. Andre der sad og gad se om.
+
+16:22
+Og lækkert hår endelig kommer man til gammel vane at.
+
+16:29
+Godt det næste der skal ske.
+
+16:38
+Det næste der skal ske, er. Hvis vi har ortogonale vektorer en samling reelle vektorer, så er det en linje uafhængig.
+
+16:54
+Altså hvis. Vi har en samling her, hvis vi har ved et.
+
+17:04
+Op til VM, som er indbyrdes. Ortogonale.
+
+17:16
+Så er de leveret uafhængig.
+
+17:34
+C Hvad var en nu linje, at uafhængighed betød? Og for det første hvad er det indbyrdes ortogonale betyder?
+
+17:40
+Det betyder, at de parvis altså denne Auto-Tune alt for dem og den ofte går galt på den og danner grundlag for dem.
+
+17:45
+Denne aftale gør, at de alle sammen to og to er ortogonale. Disse folk er allesammen vinger eller.
+
+17:52
+Hvis vi har sådan et helt sæt af vektorer, som allesammen står vinkelret på hinanden,
+
+17:57
+så kan man tænke over, hvor mange der er plads til i de forskellige rum. Men da det kom med debat lige om lidt.
+
+18:02
+Hvis man har det, så er sættet også automatisk. Liniger er du afhængig?
+
+18:07
+Og hvordan var det, at man fandt ud af, at noget var linje? Er du afhængig? Jo, man tog en Lennard kombination af dem alle sammen.
+
+18:12
+Vi kan godt kalde det bevidst det ikke rigtigt. Det er et rigtigt bevis, men det er så kort, at Glenfinnan ved at ske bevidst.
+
+18:18
+Vi tager en Linak kombination af vores vektorer. Selv om vi med nulvæksten og siger Hvis vi kan finde på et eller andet sæt af kobber,
+
+18:35
+som ikke allesammen er nul, så er sættet Lehnert afhængigt så den linje.
+
+18:40
+Hvis vi derimod kun kan finde nul sættet på en skal være nul.
+
+18:45
+CO2 skal være nul på tre minutter op til den skal være nul. Hvis vi kun kan finde det ene sæt, så er sættet lineært uafhængigt.
+
+18:55
+Og spørgsmålet er Nu er det her linje at afhente eller uafhængigt.
+
+18:59
+Det vi kan gøre, det er, at vi kan tage en eller anden væk uden at lægge os fast på forhånd ind i vores sæt.
+
+19:05
+Hobby kan bare kalde den ved I, hvor I kan være hvilke som helst lette og prikke på den her ligning, der står her.
+
+19:11
+Det tager sig ved en. Og I kan være et tal mellem 1.
+
+19:15
+Og 1. Og prikker ind på hele almindelig narkomaner. Schønherr A.
+
+19:30
+Og det er stadigvæk lig med nul, fordi vi så tager og prikker ved 1 0 her på begge sider og skrive det i første omgang.
+
+19:37
+Ja, så får jeg simpelthen bare nul. Alt fra nulvækst giver nul.
+
+19:42
+Så nu står det også lige værd at bemærke, at V i nulvæksten giver nul, men det er ikke nulvækst.
+
+19:48
+Fordi når vi laver et loft, så er vi ikke noget, vi vægter mere. Så er det blevet til en skalar.
+
+19:52
+Hvad med det her, der står her? Og hvad sker med prikker vi i en hær? Ja, når jeg prikker.
+
+19:56
+Hvis nu i denne i hvert fald ikke er et ja. Jeg prikker ved med en hvilken som helst vækst herinde på v et.
+
+20:03
+Så sker der det at det bliver noget. Fordi at ved at overtale Ronald på alle de andre pånær sig selv.
+
+20:12
+Jeg så gerne en konstant foran med det ligegyldigt, for hvis jeg ganger en vægt,
+
+20:15
+så man konstant, så forlænger jeg bare dens og dens a kasse, hedder det.
+
+20:19
+Længden af vektoren jeg bevarer retningen.
+
+20:21
+Hvis nu en konstant eventuelle var negativ, tør jeg godt være venner retningen om, men der er stadig ortogonale på.
+
+20:28
+Så hvis jeg får at vide er det eneste bidrag jeg får for hele den lange sum her, er det der hedder kog en gang i længden eller ganget hvide prik ved.
+
+20:42
+Og det er så lig med nul ved visse ofre. Men hvad er vi i fræk video i længden af vi?
+
+20:53
+I anden skal være nul. Nu ved vi, at alle de her vores vektorer er ortogonale, det vil sige det er ikke nulvæksten.
+
+21:00
+Nogle af dem alle tager vi i den heldige situation, at vi kan konkludere, at Cowi.
+
+21:07
+Og der ikke er lagt fast, som betyder at det altså skal både kunne være nul CO2 vandhullet kunne være noget for fjerde gang.
+
+21:14
+Når vi bruger argumentet herinde gange og ser, at alle vores kunder simpelthen må være nul,
+
+21:18
+og derfor er det den eneste mulige løsning, der er til det her. Altså er sættet ligner du halvt så?
+
+21:24
+Så det medfører, at ved et bord med to kopper til vand er linie, er du afhængig?
+
+21:44
+Så. Og hvis vi lige tænker ganske kort over det geometrisk, er det ikke nogen stor overraskelse, at ortogonale vektorer er lineært uafhængige.
+
+21:54
+Man kan ikke skrive den ene som en konstant gang i den anden. Vi kender mange eksempler på sådan nogle.
+
+22:01
+Og måske et spørgsmål igen. Så må lege.
+
+22:07
+Er det vigtigt? Det primære jeg har glemt at tænde mine computere, vil godt tage spørgsmålet.
+
+22:15
+Ja altså spørge må have flere end to vektorer Hvad indløser du, Ronaldo?
+
+22:20
+Hvis alle har forskellige retninger? Vil hvad du skal regne siddepladser? Jo klart.
+
+22:24
+Der kan ikke være plads til mere end to Ronaldo vektorer i planen.
+
+22:28
+I rummet er der plads til 3. I er 4 af plads til fire.
+
+22:31
+I fem er plads til fem, så det var egentlig udmærket, hvis vi vil høre det, fordi det er det, det handler om nu, nemlig.
+
+22:37
+Hvordan ser sådan nogen en basis ud, der består af ortogonale faktorer?
+
+22:45
+Et håndskrevet værk.
+
+23:03
+Okay, hvis nu nogen de sidder her inde i salen og stiller spørgsmål og ikke tænker hvad er det alle dem der hjalp, ligger hjemme på sengen?
+
+23:11
+Det ved jeg ikke. Hvis det er det, må jeg gerne bare stadigvæk række hånden op. Altså ikke at køre igennem skærmen.
+
+23:16
+Hvis man vil, og hvad? Vi er kommet til.
+
+23:24
+Vi har nu bygget det sådan op, at vi har taget en lille ortogonale vektorer, og vi har talt om, at ortogonale vektorer er lige ved at hænge.
+
+23:31
+Så det næste ting, der ligesom ville være naturligt at sige, kan vi lave en basis af ortogonale vektorer.
+
+23:36
+Og vi vil ikke lave en Basa automat med tunge Jolanta endnu finere. Vi vil tale om en Orton normal basis.
+
+23:50
+Ja, en normal basis er en basis bestående er med et op til af er enhver 2'er, ligesom en hvilken som helst anden.
+
+24:04
+Må være en basis for er intet værd. I en.
+
+24:09
+Så der skal gælde noget specielt om dem. For det første skal vektorerne være indbyrdes ortogonale gælder to ting.
+
+24:19
+Hvis de formelt vektorerne skal være indbyrdes.
+
+24:29
+Overtog Ronaldo. Og det er vel altid at der står ortogonale, og her står Orton normalt.
+
+24:36
+2. Reaktorerne. Skal alle have længden.
+
+24:49
+En. Det normale betyder at er sammensat af ordet ortogonale og normal.
+
+24:56
+Normalt betyder ting har længde en. Så samtidig må jeg sige, at det er en autonom en basis, det vil sige vi skal foreskrev et offentligt symbol.
+
+25:04
+Så gælder det, at vi der tager ved i og prædiker den med ved J.
+
+25:10
+Så er det her lige med ét. Når I er ligeret og ved I prædikede mad ved J er lig nul.
+
+25:21
+Når. I er forskelligt fra J.
+
+25:29
+Ja hvorfor en i dag? Fordi de har jo længe er et. Og nej.
+
+25:33
+I og J. Er det samme bogstav. Her er det den samme vægt som ved et prik midt i alt og længden af den er et lys i længde er vigtige.
+
+25:41
+Antenner er også et anliggende af medierne, der står samtidig ved, at hvis de forskellige, så skal vi ortogonale.
+
+25:49
+Så det er simpelthen betingelsen for at noget af en normal basis.
+
+25:56
+Lad os se på to eksempler på sådan nogle. En overtog Norman.
+
+26:05
+Basis for 3. Det er et nemt eksempel på sådan en.
+
+26:15
+Det er denne her, det er den, vi allesammen kender standard basen.
+
+26:27
+Det er simpelthen de tre standard Pacific Tour de allesammen længde en.
+
+26:32
+Og de er indbyrdes ortogonale vi prøve den er den samme som for en nål i den i den bestemte er vendt betinger.
+
+26:38
+Den giver nul. Og sådan kunne man undersøge hele vejen igennem.
+
+26:41
+Den ved vi også godt, at det er jo deres standard Basilic tur i J. Og kog ikke en ud af 16 J ud y aksen og k op og z aksen.
+
+26:49
+Så har vi et eksempel på tre ortogonale vektorer i A3.
+
+26:52
+Og vi ved jo også at A3 er tredimensionelle, så en basis der indeholder tre basis vektorer og så det færdige udspænder.
+
+27:02
+Så er der ikke plads til flere. 3. Vi vil også lave en anden ind, som også var en udmærket basis, som bestod af 1 0, 0 0, 0 1 og 0 1 0.
+
+27:20
+Altså den hvor vi bare har byttet to af dem rundt. Det er også en bane 1 1 en basis af nogenlunde normal basis for A3.
+
+27:28
+Den er bare ikke standard basen mere, for så skal de vinde på den måde.
+
+27:32
+Det vil sige, at det vi i virkeligheden gjort, er at bygge og sætte koordinaten, har byttet plads for sådan en vektor i den.
+
+27:38
+Vi vil også have et minus foran en af dem, hvis vi har lyst til det. Det er stadigvæk en 8'er normalt basis.
+
+27:44
+Vi er bare vent lige som med rundt.
+
+27:45
+Så nu i stedet for at vi hedder x y z, så partifæller Agersnap og SF Venners der Ax så parret aksen ned af sådan en koordinatsystemet også udemærket.
+
+27:53
+Det har bare den egenskab vi hedder det i venstredrejet. Det vil sige, at formen er lidt anderledes ud for krydsproduktet, siger.
+
+28:00
+Vi vil også have en helt anden end den lidt mere villa, en der for eksempel hed.
+
+28:08
+Hvad hedder det? En ung kvadratrod 2 0 1 år fra både 2.
+
+28:16
+Komma nul en nul komma minus 1 år både 2 0 og 1 år Cardozo.
+
+28:27
+Denne er også en normal basis, da lige lidt med at tænke over om man kan vi tænke os.
+
+28:32
+Vi prikker den midterste. Sammen med nogle af de to andre er det klart, at det bliver nul. Fritzl bliver det kun nul gange på et eller andet.
+
+28:37
+Hvis jeg ganger denne, prikker denne med denne her. Så får jeg den, der ganger den med et minus.
+
+28:42
+Så får jeg denne gang med et plus. Tilsammen giver det os nul, så de er ortogonale.
+
+28:46
+Har de længder ind? Jeg er jo så spørgsmålet er den der i anden blev der i anden af I.
+
+28:51
+Hvad er det egentlig? Jeg er jo en halv plus en halv d et. Og så 40 det det sted efter.
+
+28:56
+De har længe været en anden. Normalt basis. Dette er i virkeligheden er dette.
+
+29:01
+Det er en, hvor vi har bevaret nuancen, som den er. Men i eksemplerne har vi drejet koordinatsystemet 45 grader.
+
+29:09
+I forhold til det oprindelig alt det der med hvordan vi drejer koordinatsystemer, og hvad det egentlig betyder, det er emnet for på torsdag.
+
+29:16
+Så i dag har vi bare lige bemærket, at her er nogle eksempler på, at normal er basis for forandring.
+
+29:29
+Ja, så godt så har vi. Så kom vi så langt.
+
+29:37
+Så skal vi til næste punkt på programmet.
+
+29:40
+Det er en procedure til at skaffe os en normal basis, hvis vi har en basis, der i forvejen ligger som normalt.
+
+30:05
+S vi jeg i en situation nu. Det næste der kommer, hedder Graeme Smith.
+
+30:20
+Carlo Smith proceduren. Det er sjældent at navnene på sætningerne gang imellem er der kommer nogle træner.
+
+30:30
+Her er det vigtige nok i denne sætning, at Skram var dansker, så det er sikkert derfor, at der skal navn på landene.
+
+30:40
+Men det er ikke. Der er ikke vanvittig mange. Engang imellem er der jo en. Så der var ingen.
+
+30:44
+Og ideen er egentlig ganske enkelt, fordi det vi forestiller os, er, at vi på en dag må have fået givet fundet sin basis for et eller andet.
+
+30:52
+For er 3 for eksempel eller fire eller fem. Hvordan kan vi så ud fra denne basis skaffe os en overtog en normal basis.
+
+31:01
+Det er bare en anden basis, der kan vække Thorning godt, da der er de vinkelret på hinanden.
+
+31:05
+Eller de har længde. 1. Hvordan skaffer vi os ud fra dem ud fra det givet?
+
+31:08
+Sæt endog som normalt basis en procedure til altid at kunne gøre det, og det er det, de har lavet.
+
+31:15
+Og metoden er såre simpel i virkeligheden, fordi det vi gør derved, siger Lad os forestille os, at vi har en basis, og så er 3.
+
+31:27
+Og den hedder Wet. U2, U3.
+
+31:34
+Den er ikke. Den kan være over normal. Vi ved ikke, om den er.
+
+31:38
+Det må vi sikre os, at vi kan, i hvert fald ud fra dem skaffe os en.
+
+31:44
+Vi vil nu. Konstruere.
+
+31:55
+En over to normale. Basis for A3 og den.
+
+32:08
+Kalder vi ved et veto med tre kugler.
+
+32:15
+Så det er altså ideen er der, at vi siger vi har en basis for A3 som hedder Ueno 2 3,
+
+32:21
+og så holdt vi igennem en hel masse regninger, og der kommer også en W.A. En noget, så vil vi ud af det.
+
+32:25
+Er målet at finde ved et veto? B3 som man altså normalt basis for A3 og så sidder sikkert nogle af.
+
+32:32
+Jeg tænker, at det ikke er fuldstændig åndssvagt at bruge tid på det,
+
+32:35
+fordi hvis man vil have et år som normalt basis for alle tre, så kan vi da bare tage den ned.
+
+32:40
+1 0 0, 0, 1 0 0, 0 1 er ikke. Så har vi en.
+
+32:43
+Hvorfor skal vi til at konstruere en igen? Ideen er, at det er sådan, at nogle gange vil man gerne bevare en vektor.
+
+32:51
+Denne retning skal være med i mellem basis, og så må vi så placere de andre.
+
+32:55
+De bliver også normalt fuldendt. Det skal vi bruge næste gang, når vi skal, og vi skal ikke veje nogle keglesnit i rummet og sådan noget.
+
+33:03
+Så ideen ideer er, at hvis man bare skal bruge noget som normalt basis for A3, så har vi masser til rød står nogle,
+
+33:09
+der kan tage med, hvis man vil have at for eksempel at ét skal indgå i den her.
+
+33:15
+Så er man nødt til at gå igennem denne her procedure her, og det er også en procedure, det kommer til at bruge nogle gange.
+
+33:20
+Og jeg skal nok forklare nærmere, hvad det går ud på. Som hvad gør man?
+
+33:27
+Ja, det første man gør ved at sige, det er at skaffe os ved et. Og hvordan kunne vi skaffe os en Orton normal end en vækst i vores normale basis?
+
+33:36
+Jamen, når vi har et, så kan vi jo bare tage den. Det eneste problem med ét er, at den eventuelt ikke har længde ind, men det er da nemt at skaffe os.
+
+33:44
+Det ville det jo bare ud med sin egen længde. Så får jeg en veksel, der har samme retning, men længde.
+
+33:50
+Så har jeg skaffe mig min første basix vektor i denne her basis.
+
+33:57
+Det var nemt at finde et. Trin 2.
+
+34:04
+Hvad gør jeg så? Jeg se, nu har jeg det problem, at jeg har allerede skaffet mig en vægteren ved et jeg laver en figur herover.
+
+34:14
+Er det værd at køre? Afsætter lige denne del af tavlen til at tegne nogle figurer maa jeg.
+
+34:23
+Jeg har allerede lavet en virksomhed ved et dennne, der ligger her. Så tager jeg min vægt og U2.
+
+34:32
+Opsat opsat. Den ligger måske her. Hvad er problemet i at den ligger her?
+
+34:40
+Jamen, det store problem er jo, at den er ikke vinkelrette.
+
+34:44
+Vi kan ikke bare dividere U2 med sin længde og så håbe, det går godt. Det gør det ikke.
+
+34:48
+Det jeg gør i stedet for at sige, hvor stort er det stykke, der ligger hernede på ved et.
+
+34:53
+Altså den vægtere ligger her, og hvor stort det stykke.
+
+34:59
+At gå op af denne sag, hvis nu jeg kunne tage U2 og dele op, meddelte U2, at vi tog Kommersant og summen af den plus den.
+
+35:09
+De giver lige præcis U2. Hvis jeg nu bare to og fjernede det stykke her i stedet for at tage U2 så fjerne det stykke,
+
+35:17
+der var langs ved et aksen og beholdt bare det her, så havde jeg en kandidat til at være min.
+
+35:22
+Veto vægteren. Den har bare ikke længde. En er nødt til at normeret den bagefter, altså give den længde.
+
+35:28
+Lad os kalde den vækst, der står uden for W. 2. Så hvad?
+
+35:35
+Hvor langt er den væk? Eller ligger hernede nu vi os lige starte med at se på den vækst der ligger her?
+
+35:40
+Ja, det kan vi godt se det jo U2's produktion ned på ved et.
+
+35:45
+Hvis man er god til at huske sådan noget i hovedet, så er det jo som production formler. Det er noget med, at man tager ved ét og prikker med U2.
+
+35:57
+Og så ganger man det med ved et, altså den retning vi vil have det og dividere det med længden af ved et hjørne.
+
+36:08
+Jeg håber jeg husker at se nogle formler. Produktion af værktøj på værktøj.
+
+36:15
+Det er i hvert fald pensum. Burde det være så? Denne længden er ved et hjørne.
+
+36:24
+Ved et er jo en enhed, svigtet er konstrueret, så længden er vigtig anden.
+
+36:28
+Det er et 1 tal.
+
+36:29
+Det er ligegyldigt, så størrelsen af den vægt, der ligger her nede nu ved vi er ved et prikket med U2, som er et tal ganget med vektoren ved et.
+
+36:45
+Så vi prikker altså de to første huer og så Gauss gang på at lave ægte ved at tilføje præcis den vægt han ligger her.
+
+36:51
+Nu er jeg kun en W 2, jeg egentlig bare vil have, fordi der W 2 skal være min kandidat til det næste her.
+
+36:57
+Så hvordan kan jeg lave dobbelt WTO, et WTO?
+
+37:02
+Det må jo så være U2. Altså hele vægteren U2. Minus den del af U2 der lægger ned dels komme herned, som er ved et prikket med u et guide med ved at.
+
+37:21
+Og bemærk nu kan jeg regne WTO ud, for det er altsammen noget jeg kender.
+
+37:24
+Jeg har lige konstruerede været ud fra urene, og så U2 er også en af de ting, der er kendt gjort den basis, vi fik.
+
+37:30
+Så nu har jeg tænkt grønt direkte ud og så finde ud af, hvad der WTO når, så jeg har.
+
+37:34
+WTO er klar til at finde V-2. For hvad er V2?
+
+37:39
+Jeg vedtog det i længden af W 2. De vil have det dobbelte WTO.
+
+37:44
+Det vil være med længden, at Double WTO forlig sig sørge for at min veto bliver en enhed svigter.
+
+37:51
+Ja, ja. Det år højere, men hvad så bagefter står der skrevet USA klart.
+
+38:02
+Godt, du er vågen. Det er selvfølgelig U2. Blot godt.
+
+38:07
+Der vil ikke være fejl i VM formen er væk, så jeg spørger nu også Er det nu der, det er det jeg gør nu.
+
+38:17
+Hvor længe skal det ikke være lænken i anden valgrunde? Så får jeg dem med for meget længde.
+
+38:22
+Men det er tidsplaner vi regner længden ud, bliver bare længden i anden i stedet for at skrive kvadratroden er a drikke a.
+
+38:28
+Godt. Vi må videre. Det bliver kun værre, fordi nu skal vi så have U3 eller med tre konstrueret.
+
+38:40
+Det må jo hverken være vinkelrette, eller den skal jo være vinkelret på både ved et og ved to.
+
+38:46
+Så det vil sige, at det er sådan en procedure vil få flere og flere lede med.
+
+39:06
+Det bruger jeg lige at tage den næste her sag. Nu skal vi have trin 3.
+
+39:14
+Nu konstruerer jeg en W 3 watt W 3.
+
+39:19
+Ja, det er den kom på. Sandt er U. 3 som hvad hedder.
+
+39:25
+Det er vinkelret på både ved et og ved 2. Altså det der svarer til det er jo at bruge 3 eller downloade tre svare til W.
+
+39:34
+2. Well 2 lever den kom an som hvor vi har taget U2 og trukket det bidrag fra, som lå parallelt med ved et.
+
+39:44
+Nu skal vi så tage. U 3. Og skal vi trække det bidrag fra, der ligger parallelt med ved et.
+
+39:53
+Det må være bedst. Af symmetrier årsager må det jo se ud.
+
+39:59
+Men jeg skal også trække det bidrag af U3 fra, der ligger parallelt med vi er 2.
+
+40:05
+Det ser sådan her ud. Sådan.
+
+40:14
+Nu er jeg skaffede mig en vækster, som er vinkelret på både ved ét og beton, og som.
+
+40:26
+Germaniae har længde ind, men det er let at sørge for den, for jeg kan bare lave min vægt.
+
+40:30
+3. Nu vil jeg sige det er så w. 3. De vil blive vist længste double 3G dybde med længden af.
+
+40:39
+Der blev med tre altså en enhed svigter i den rigtige retning. Så kan vi godt se hvis nu i stedet for at det var en vægtere i 7.
+
+40:47
+Eller en basis for er 7 så scoret, så kan vi tage vokset kolossalt, ligge højere.
+
+40:52
+Der kommer rigtig mange med til sidst, så det er en procedure, der er lidt regne tung, måske.
+
+40:59
+Men man kan nemt lave fejl, for I kan se, hvor hurtigt allerede en fejl.
+
+41:03
+Jeg skal have, at jeg kom til at skrive og det uændrede at komme til at skrive fra, så man skal virkelig være forsigtig, når man bruger den.
+
+41:13
+Vi prøver at lave et eksempel på den. Hvordan kører det her?
+
+41:38
+At se jeg plejer at bytte tavlerne rundt, men jeg tror, at sådan en overskuelighed som jeg,
+
+41:42
+så lader vi lige stå uden at trække den ned, så vi tager en, vi tager ind.
+
+41:48
+Vi har et underrum. Udspandt.
+
+41:58
+Af. 1 0 1 1, 1 1 Minos 1 0 1 se ideen er, at jeg skriver underrum med udspændt af de tre.
+
+42:15
+Der er godt nok tre vektorer i 3, men jeg kan ikke lige overskud om det skulle være linje at afhængig af linjer du har.
+
+42:21
+Hvis det viser sig, at nogle af dem er lineært afhængige, så vil det bare udmærket udmønte sig ved at nogle af disse.
+
+42:28
+Nogle af disse W. Her bliver nul. Så bliver der måske kun et tårn, eurozonens underrum er 3, men det ser vi om det gør.
+
+42:35
+Det gør det ikke her. Jeg har bare valgt en, hvor de alle tre er bitre, men eventuelt vil slå de will bliver noget.
+
+42:40
+Det betyder bare, at de ikke skal tages med en basisfødevare af dimensioner. Rummet bliver en laver, så vi prøve at gå i gang.
+
+42:47
+Hvad skal vi gøre? Ja, vi skal jo leve vores ugebasis. Så er det jo et det U2 og U3.
+
+42:54
+Vi kan meget nemt konstruere vi et til først for ét. Den er et sten med længden af uit, og det vil sige den hedder så.
+
+43:04
+1 0 1 divideret med længden er et det tryk vi kan se, er denne anden Justinian egen vare mod det kvabset 2.
+
+43:13
+Så den er lige med 1 år på 2 0.
+
+43:18
+1 år. Kvadratrod 2. Den lader til at have med at gøre.
+
+43:24
+Så skal vi lave den næste. Og for at lave den næste er vi lige nødt til at lave en dobbelt veto først.
+
+43:30
+Hvad vi en W 2 står jo heroppe. Vi tager bare U2, som hedder ind i en.
+
+43:38
+Og hvordan trækker vi ved et prik U2 ved et stå her og den prikker jeg på U2.
+
+43:48
+Det vil sige, at det er den der gang i den. Skrive det. 41 mod 2 0 41 mod 2.
+
+44:00
+Prikket med ind i en. Ganget med 1 år for mod 2.
+
+44:09
+Nul indhopper har nemlig ved et. Læg mærke til Hersholt gange.
+
+44:15
+Og her står et prik. Man kan ikke udført i en anden rækkefølge. Jeg vil ikke gå særlig godt.
+
+44:21
+Fordi det bliver til et tal om det vand faderen så en en en ven.
+
+44:26
+Det bliver en opgraderet 2 plus nul plus 1,2. Det er to år kvartalet 2.
+
+44:35
+Ganget minus står der her. Det blev prikproduktet og så ganger man de sidste vægte hedder 41 mod 2 0 1 opknappet 2.
+
+44:49
+Og det bliver vi til ganget med to over par, to herrer og foren 1 1.
+
+44:55
+Minut. 2 er kommet to gange. Enock holdet. 2. Det må jo være 2 2.
+
+44:59
+Det et 0 et.
+
+45:04
+Og så får vi nul en nul. Altså et ja, så bliver det og V2 er det jo så bare lige med W.
+
+45:17
+2. Del med længden af W 2 og den hedder så her nul nul divideret med et som bare bliver nul et nul, fordi den har en længde 1.
+
+45:30
+Ikke 0 1 0 0 i anden +1 i anden halvleg.
+
+45:34
+Det giver et kvarter og nette et næste skridt.
+
+45:43
+Jeg ved der er lidt mange regninger her, men det er altså bare et spørgsmål om at lave en masse prikproduktet her og er lige ved at tro.
+
+45:51
+Evan synes, at det er nemmere at gøre det i hånden uden at sidde tastet ind i e-mail. Alle de prikproduktet, fordi det går noget hurtigere hånd.
+
+45:59
+Og så skal alle selvfølgelig også sige, at jeg har sagt det her,
+
+46:02
+så har jeg sikkert også en eller anden smart commander, der kan gøre det hele i ét hug.
+
+46:07
+Ja, det ved, at man gerne vil, så længe der er nogen en nål, kun en nål og hvad vi laver lige den sidste W.
+
+46:19
+3. Og 3.
+
+46:23
+Der tager vi jo så U3, som står deroppe, der hedder minus 1 0 en fra hver.
+
+46:29
+Trækker vi, så skal vi tage ved et prikket med U3, og ved ét står der at vække.
+
+46:37
+Det vil sige den hedder. En over par både 2 0 1 år mod 2 og prikker den med minus 1 0 1.
+
+46:49
+Sonder og ganger den med. Ved et som hedder 1 2, 0 1 opknappet 2 søndag godt.
+
+47:02
+Og så kommer minus. Så skal vi så tage næste lede vandet. Det ved 2 prikke ud tre gang.
+
+47:07
+2. Sådan ved tavlen står der og prikker igen med U3, som hedder Nul.
+
+47:13
+Nul prikker med U3. Og ned og minus 1 0 1.
+
+47:20
+Og så høj jeg prikket med 11 gange. Med nul 1 0.
+
+47:28
+Og hvad sker der her er sjovt at se det her produkt, hvad bliver det?
+
+47:34
+Det bliver. Nul. Det her produkt der står hér det bliver nul.
+
+47:42
+Der står med det samme, men med et minus og et plus. Det vil sige alt i alt, hvad form er.
+
+47:48
+W 3. Den hedder Metro.se 01. Den bliver det samme som U3.
+
+47:54
+Det vil sige at den lå allerede ret i forvejen på ved et og V2.
+
+48:03
+Så er vi klar til at finde vel tre. Den er W.
+
+48:08
+3 divideret med længden af W 3, og den er så fuldtegnet tålte fuldstændig fuldstændig tilsvarende måde, som vi havde meteren op, så altså minus 1 0 1.
+
+48:21
+Og de har samme længde. Det der med knapper. 2. Sådan bliver Milos. Ind over kvartalet 2 0 1 over pappet 2.
+
+48:31
+Så har jeg skaffet mig en overtog en normal basis, så lad os lige skrevet den op med et veto med tre.
+
+48:41
+Han havde så en ordre på 2 0 41 mod 2.
+
+48:52
+Komma nul en nul komma minus Inderpartiet 2 0 1 opgravet 2.
+
+49:05
+Søndag endda lige hvordan de enkle regninger kører. Det skal man selv gøre, hvis man skal er helt færdig.
+
+49:12
+Men er proceduren i det her, og det kan ikke se, at den virker uanset hvad.
+
+49:16
+Det er hårdt og langt slæb, men man kan membranen forkert. Men det virker, og man kan jo så til sidst tjekke det.
+
+49:23
+Vi er man nu i tvivl, fik jeg regnet rigtigt. Gik det galt på noget tidspunkt, så skal de jo altså have lænket en og vel op til Ronald.
+
+49:28
+Og det er ret hurtigt at se omsorgen, vektorer og Ronald sammen, og selv om det giver noget af.
+
+49:34
+Godt vejr på torvet kan bruges til at finde plads til opskrive basis i undergrunden.
+
+49:42
+Jamen altså er et venterum også et underrum? Ja, altså af sig selv.
+
+49:48
+Altså, det betyder bare alt. Typisk siger vi det et underrum, fordi vi har givet et eller andet, sætter turbo,
+
+49:52
+er udspænder de egentlig de udspænder, de udspænder, og så finder vi en basis for det her?
+
+49:58
+Ja, for det er jo også mig, undrer man sig selv. Det kunne du godt? Ja, timers pause.

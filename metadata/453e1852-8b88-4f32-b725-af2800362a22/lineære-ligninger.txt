@@ -1,0 +1,701 @@
+0:07
+Jeg er en af de ting, som vi skal bruge dagen til, det er at studere, hvor mange løsninger et living system det har.
+
+0:18
+Og nu har vi at se på allerede fra nogle forskellige eksempler.
+
+0:23
+Det allerførste jeg lavede mit hoved eksempel, var der præcis en løsning.
+
+0:28
+4 kommer minus 1,9, og så hjælper dig.
+
+0:33
+Så fik vi kigget på et lignende system, hvor der kun var én ledning.
+
+0:37
+Hvis det var lig med nul. Ja, hvis det ikke var lig med nul, så var der uendelig mange.
+
+0:45
+Der var en tredobbelt uendelighed af løsninger x, y og z skulle vendes fuldstændig frit.
+
+0:53
+Så var der også et andet eksempel, hvor der overhovedet ingen løsninger var. Løsning var tom.
+
+0:57
+Det var ved steg var forskellig fra nul, og så står vi også her til sidst i en pausen.
+
+1:03
+Hvor Løsnings mængden.
+
+1:05
+Det var en plan i rummet, altså i en plan der ligger parallelt med kommuneplanen, så det ville være en dobbelt uendelighed af løsninger.
+
+1:16
+Frit valg i to dimensioner X og Y kunne vælges frit, mens derimod set lå fast.
+
+1:23
+Den skulle ligge oppe i det. Så det der med Løsnings mængder er noget af det, som vi skal kigge på.
+
+1:32
+Og se om vi på et tidspunkt kan formulere nogle regler for, hvor mange løsninger et dining system har.
+
+1:37
+Og her har jeg et nyt eksempel. Jeg oplyse jer om, at dette er totalt matricen for et lineært lignende system,
+
+1:47
+og mit spørgsmål er, hvor mange ligninger er der og hvor mange ubekendte?
+
+1:57
+Hvad siger du? Når der nu bliver fire ligninger med fem ubekendte?
+
+2:02
+Ja, det er jo godt nok seks tal, men den sidste højere søjle det er jo.
+
+2:09
+Det er en systemets højreside, så fem ubekendte ja. Og nu prøver vi at køre igennem igen.
+
+2:16
+Repeterer. Hvad er det Gauss? Jordan algoritmen? Hvad er det for en præcis måde?
+
+2:22
+Den algoritme kræver, at vi bruger de tre Haygood operationer på det allerførste.
+
+2:29
+Det var, vi skulle have et et tal oppe i venstre hjørne.
+
+2:34
+Det har vi i forvejen. Så denne gang har vi fået foræret det første trin.
+
+2:39
+Men når det så er sagt, så må der ikke være andre ettaller i den første af venstre søjler.
+
+2:48
+Det vil altså sige, at nu skal jeg have fjernet.
+
+2:57
+To, tre og fire danskere står nuller.
+
+3:00
+Der må kun være et tal i den søjle der.
+
+3:05
+Og så siger vi selvfølgelig en række 2 minus to gange række, et række tre gange minus tre gange er og er fire minus.
+
+3:18
+Fire gange er ét. Og her har vi altså de række operationer, som Gauss Jordan algoritmen kræver.
+
+3:27
+Og så er vi nået så vidt. Her. Nu.
+
+3:37
+Kræver et 1 tal her i diagonalen. Jeg vil have et stående her.
+
+3:44
+Jeg har ikke nogen ettaller her i forvejen, men så kan jeg jo bare bytte de to om.
+
+3:51
+Også er gange den med minus 1. Så her er de operationer jeg ønsker at udføre.
+
+4:05
+Jeg skal lige se. Altså hvis der er nogen der er interesserede i det her eksempel. Jeg tror også, det er i orden.
+
+4:10
+Men denne her slagter ligger altså på fildeling for skind og ben, så vi behøver ikke at stå nede, hvis I vil kigge på den nærmere bagefter sig.
+
+4:18
+Jeg byttede altså om på Ditte og 2, og så garnede jeg den nye række med EP.
+
+4:23
+Og så fik jeg som ønsket her et et tal.
+
+4:29
+Og nu vil Dan Ettal være konge i sin egen række, og den vil fjerne alle mulige andre naboer mod mod nord og naboer mod syd.
+
+4:41
+Så derfor gør vi nu det vi siger række et minus tre og ikke to, og vi siger række 4 minus to gange er 2.
+
+4:58
+Sådan. Og så udfører vi det, var det ikke rigtigt.
+
+5:09
+Her og nu skal jeg sige hvad.
+
+5:20
+Se, nu kommer vi så til en situation her.
+
+5:26
+Først radikale og lige så smuk som den kan flyve, er en række lige så smukt, som den kan flyve.
+
+5:32
+Nu vil jeg have et et tal her. Der er vi, så har vi problemet kan se jeg altså ville sige, at hvis jeg nu valgte at sige Okay,
+
+5:46
+jeg Schweiz, sidder de to dér, fordi så får jeg jo et 2 tal ned her og så ganget med en halv bagefter.
+
+5:51
+Men hov, så smutter jo det dér. Så det går ikke. Jeg kan ikke få et tal der hvor jeg gerne ville have haft det.
+
+6:04
+Og det vil så sige Jeg kan aldrig få et et telt dér og det.
+
+6:08
+Jeg kan ikke få fjernet det totalt. Der står det op, så det bliver altså stående.
+
+6:13
+Men når jeg ikke kan få et et tal dér, så går jeg videre herhen.
+
+6:19
+Mod højre side, og så skrev jeg mig et et tal her i stedet for.
+
+6:24
+Ikke det optimale, men bedre end ingenting. Til.
+
+6:30
+Hvad siger du undskyld? Jeg ganger er tre med minus fem.
+
+6:40
+Så får jeg det resultat der står her. Og så fik vi et et tal.
+
+6:47
+Og nu kan vi renser ud, så vi får en smuk fjerde søjle.
+
+6:53
+Selvfølgelig vidste så at sige er et plus 11 gange, er tre, er 2 minus 5 ganget, er tre og er 4 plus 16 gange med tre.
+
+7:07
+Og så når jeg til denne situation. Her kan den.
+
+7:14
+Fedt, så skulle jeg egentlig gå herned og sige Jeg vil gerne have et ettal her.
+
+7:20
+Det er ikke muligt. Jeg kan heller ikke få et tal herude. Så nu er Georg Jordan eliminationen slut.
+
+7:27
+Jeg har fundet trappe formen er ligning systemets totale matrix.
+
+7:37
+Så den er jo ikke nær så smuk som den vi havde før pausen, men alligevel kan godt se trappen her bestående af ettaller.
+
+7:47
+Hop, hop! Og så er vi færdige.
+
+7:57
+C. Vi har nu et interessant fænomen.
+
+8:03
+Det er at der er en. Altså en række række 4.
+
+8:09
+Her består udelukkende af nuller, så da har vi altså en.
+
+8:14
+Et eksempel. Af samme type som det jeg vidste før var der står nul except plus nulvækst to plus nulvækst tre plus nulvækst via plus nulvækst.
+
+8:23
+Dem er lig med nul. Sådan en kalder man en triviel ligning, fordi alle løsninger passer.
+
+8:31
+Der er ingen indskrænkninger, og derfor er den uinteressant. Det system jeg startede med var et lignende system, der bestod af fire ligninger.
+
+8:43
+De fire ligninger. De kan reduceres til tre ligninger.
+
+8:48
+Som indeholder den samme information som de fire ligninger de gjorde, så i en vis forstand fartøj en overflødig ligning i det første Linings system,
+
+8:58
+som jeg altså ikke skrev op, men som jeg tror I sagtens kunne reproducere. Så der er sådan set kun tre ægte ligninger tilknyttet det her fine system.
+
+9:10
+Og så siger man at ligne systemet har Farhan tre år mere præcist defineret.
+
+9:19
+Så siger vi, at en matrix den har ramt en tre.
+
+9:25
+Hvis man når Gauss Jordan eliminationen er slut. Kun har tre rækker som ikke er nul rækker.
+
+9:35
+Man kan godt forestille sig andre situationer, hvor der er mange flere om nulre rækker.
+
+9:39
+Her havde jeg altså kun en strejke, så det vil altså sige. Antallet af rækker som ikke er nået rækker.
+
+9:46
+Det er tre. Derfor har ligning systemet sopranen tre.
+
+9:57
+Men skal vi lige prøve at se hvad er det egentlig vi er nået frem til dér hen?
+
+10:04
+Hvad er det der står i den sidste matrix? Nu oversætter vi tilbage til Lenin systemet og de tre ligninger, som jeg talte om lige før.
+
+10:16
+For det vil jeg endte op med efter afsluttet sorterne sorterne.
+
+10:21
+Det er altså ikke se. Plus 2 x 3.
+
+10:29
+Minus 11 x X5 er lig med 24 og så har vi altså x 2.
+
+10:43
+Plus 4 x 5. Er lige mad 7.
+
+10:52
+Og så har jeg hvad bliver det? Det bliver ikke siger. Plus X5.
+
+11:03
+Det er lige meget træ, så det er altså den foreløbige konklusion på eliminationen.
+
+11:13
+Jeg har reduceret line systemet lige så meget, som jeg kan, og her kan jeg se.
+
+11:19
+Her er vi noget mere på Herrens mark når vi snakker om.
+
+11:23
+Jamen, hvad er så den løsnings mængde vi fundet frem til? Det hænger sammen med, at det her er et system, hvor der er flere løsninger.
+
+11:33
+Og nu skal vi se på, hvordan vi kan få skrevet det her. Denne her løsningsmodel op på en fornuftig form.
+
+11:39
+CD'er. Nu gør. Det er at jeg isolerer den første ubekendte i hver af de tre ligninger her.
+
+11:54
+Så har jeg så ex et er lig med minus fire tyve minus 2 x 3.
+
+12:04
+Plus 11 X5. Og i det andet den anledning de har sagt til X2.
+
+12:16
+Er lig med 7 minus 4 x 5.
+
+12:22
+Og endelig så er X4 lig med tre minus X5.
+
+12:38
+Så hermed har jeg så fundet en form, hvor jeg i hvert fald kan finde frem til nogle løsninger.
+
+12:47
+Fordi jeg kan sige jeg kan se nu har jeg her på højresiden fået to ubekendte.
+
+12:55
+De ubekendte X3 og X5. Og det der egentlig står her er hver gang jeg vælger mig en værdig for ex.
+
+13:06
+Tre og en værdi for X5. Så har jeg fastlagt en værdi for except, X2 og X4.
+
+13:20
+Skal vi prøve? Vi skal ikke gøre det sværere end det er.
+
+13:35
+Skal vi se, hvis X3, hvis den er en X5, den er nul.
+
+13:41
+Så prøver vi lige at udregne ikke så lidt.
+
+13:44
+Så får vi minus fire typer, og så får vi minus to.
+
+13:51
+Det er minus 26. Og så håbe det var exit der var lige med det.
+
+14:03
+Og så har vi altså X2. Den bliver så bare lige massiv. Og så har vi ikke, siger Premier League med tre.
+
+14:22
+Så det vil altså sige at x lig med minus 26 komma syv komma in komma tre komma nul.
+
+14:45
+Det er en løsning til det her ligner jo lignende system.
+
+14:49
+Hvis jeg satte disse ubekendte en elev i det første Linnés system, så ville det passe.
+
+14:55
+Og det der er pointen, er så det var nu valgte jeg jo bare nogle tilfældige værdier for X3 og X5,
+
+15:02
+men jeg kunne have valgt helt andre værdier af X3 og X5.
+
+15:07
+Pointen er Havde jeg gjort det, så havde jeg fastlagt betydning for de tre andre.
+
+15:14
+Så vi kan altså betragte X3 og X5 som to tal, der producerer løsninger.
+
+15:21
+Og det er det vi skal udnytte, når vi nu prøver at skrive løsnings mængden op.
+
+15:31
+Selv. Vi kommer herfra. Og det vil jeg kan bruge tavlerne kan.
+
+16:08
+Altså minus 24 minus 2 x 3 plus 11 X5.
+
+16:16
+Og den dér. Den er bare X2 og. Med bind er 7 minus 4 x 5.
+
+16:34
+X 3. Det var en af dem som jeg valgte at jeg kunne bare vælge frit, så den er bare lige ved sig selv.
+
+16:41
+Og så har vi x 4. Der er tre minusser X5.
+
+16:53
+Så det kan vi så skrive det op foreløbigt løsnings mængden.
+
+17:04
+Det vælger jeg nu at skrue op på en anden måde, idet jeg først tager en søjle væk, så der holdt der, der indeholder de rene tal.
+
+17:14
+Og hvad har jeg af rene tal? Minus 24, 7 og tre.
+
+17:31
+Og så vælger jeg at sætte altså lave en søjle vektor, der kun handler om X3.
+
+17:40
+Så lad os lige se hvor mange af dem er der tilbudt eksem? Dem er der minus to af her.
+
+17:51
+Til X2 er der knyttet nul. Til X3 er der knyttet en.
+
+18:01
+Til X4 er der knyttede nåle. Og til X5 er der knyttet nul.
+
+18:12
+Og så var der det andet frie tal jeg kunne vælge fra den måde, som vi snakker om før.
+
+18:19
+X5 da er der 11 tilknyttet Except. Og da er minus fire tilknyttet toeren.
+
+18:31
+Ingen her på treeren. Lige nu Steen på fire og en på 15.
+
+18:42
+Så nu har jeg næsten opskrevet løsningen på standard parameter form.
+
+18:49
+Det eneste jeg nu gør for at understrege, at X3 og X5 har altså en særlig situation i denne opslidende form.
+
+18:58
+De kan nemlig vælges frit. Vi kalder dem for frie parametre.
+
+19:04
+Så vælger jeg at give dem nogle nye navne. For eksempel skal vi kalde dem for et til et.
+
+19:14
+Op til 2. Så er jeg så bare en navne ændring jeg foretager mig hér, og så skriver jeg hvor til et.
+
+19:32
+Og til 2. Altså er med i det legeme vi betragter.
+
+19:37
+Det kan for eksempel være de reelle tal. Hvis det var, hvis det var de regler og løsninger, vi var ude efter.
+
+19:45
+Sådan har vi nu ud fra det trappe matricen.
+
+19:51
+Det resultat, som Gauss Jordan eliminationen gav mig, har jeg nu fundet en opskrivning form,
+
+19:59
+som klart fortæller mig, hvordan den her løsning er struktureret.
+
+20:05
+Den består af en væg, så med de rene tal, altså de tal, der svarer til højresiden derovre, og så af to vektorer, der er knyttet til én parameter.
+
+20:19
+Denne her kommer egentlig fra X3. Den kommer egentlig fra X5, og det betyder altså,
+
+20:25
+at alle løsningerne på ligning systemet får og ved at skifte værdier herfor til ét og til to lige så meget.
+
+20:37
+Jeg vil da er en dobbelt due i en dobbelt hvad det hedder uendelighed af løsninger.
+
+20:46
+Så det her, det er en hyper plan I har fem.
+
+20:53
+Der består af et begyndende synspunkt. Også to retninger.
+
+21:00
+Det her er den ene retning svigter. Det er den anden retning svigter i L5.
+
+21:08
+Det her system. Det havde jeg, så det havde så.
+
+21:12
+En dobbelt uendelighed af løsninger og hvorfor mon det?
+
+21:17
+C. Det er det, vi skal prøve at tænke over i dag. Hvad er egentlig sammenhængen?
+
+21:24
+Imellem rang. Antallet af ubekendte. Og så det antal frie parameter som vi når frem til når vi skriver oplysningspligten op.
+
+21:33
+Jeg vil ikke afsløre det nu, men det kan jo pile videre med i dag, og så konkluderer vi på, det får på fredag.
+
+21:43
+Til sidst så efter. Det her lille show, så skal jeg jo citere, at det er også en særlig dag i dag, fordi at det er en dag.
+
+21:59
+Hvor I måske har set på hjemmesiden, at vi kører med fuldt indlærings program.
+
+22:05
+Nu er der masser af faciliteter på hjemmesiden, der intro videoer.
+
+22:10
+Der er små, pæne karst, der forklarer forskellige opgaver af forskellige typer.
+
+22:16
+Og da er Mabel stedmor Mads, så vinker fase til opgaverne osv.
+
+22:22
+Så brug al den hjælp med omtanke, og nu viser jeg her til sidst, hvordan en Mabel demo ser ud,
+
+22:31
+hvis ellers den her fungerer, og det varer lige et øjeblik, inden den varmer op.
+
+22:53
+På andet WAGS vugge.
+
+23:02
+Så skal man da. Retter der efter.
+
+23:16
+Mange af de. Nu skal jeg have lov til at snakke med ham om hvem er du?
+
+23:35
+Jeg går fra Socialudvalget heroppe, og vi er i gang med den store studiemiljøer undersøgelse, og så vil jeg lige have dem til at udfylde.
+
+23:41
+Det er I. Men alt i alt er det i orden, når jeg lige er færdigmad.
+
+23:45
+Da jeg vender mig. Når han ved hvad han gerne så.
+
+23:56
+Så du får lige så god som den skal er, og så kan du slippe ud i din lomme her til aften, står der Kommer Donald Trump?
+
+24:06
+Jeg hedder Martin Thygesen, og jeg kommer fra socialudvalget i PF lige i øjeblikket.
+
+24:11
+Vi har gang i den store studiemiljøer undersøgelse, som alt i alt går ud på at sørge for,
+
+24:15
+at Ishøj studerende får nogle bedre muligheder for at studere inden på campus.
+
+24:21
+I øjeblikket over meddelelserne op i højre side er en fin lilla banner. Det ligner lidt en T-shirt.
+
+24:26
+Der er et link til en dejlig undersøgelse, som vi alle sammen gerne må svare på.
+
+24:30
+Det tager fem minutter, og så gør vi alt, hvad vi kan for at få lov til at leve bedre herude.
+
+24:35
+Så længe jeg gør det. Jeg forstår, at vi, når vi ser jo flere spørgsmål på land.
+
+24:46
+Så fik jeg den. Et.
+
+25:08
+Denne mail blev mod den kan i downloades fra hjemmesiden.
+
+25:13
+I dagens program der indgår en introduktionsydelse til Mabel.
+
+25:19
+Og når I har lavet den, så kan vi så også åbne disse Mabel demoer.
+
+25:22
+De vil kunne se der er to slags Mabel demoer der dem der hedder Basic, og det er dem,
+
+25:28
+som vi anbefaler, at alle kan for at sætte sig ind i det dér, hvor vi ligesom får at se.
+
+25:33
+Hvad er det mindst mulige antal møbel og kommandoer, vi har brug for i undervisningen, og dem, der ikke interesserer jer særlig meget for det?
+
+25:42
+I kan så vælge at køre på Mabel demo Basic.
+
+25:49
+Den anden type dom kalder vi for Mikkel Demo at varens og at varens.
+
+25:54
+Det kan selvfølgelig både betyde, at selve det faglige emne er lidt op arrangeret, men det kan også betyde,
+
+26:00
+at der er nogle særlige Mabel fiduser metoder også nået til dem af jer,
+
+26:06
+der interesserer jer for programmering, og for hvad skal vi sige mere ekstern til matematik?
+
+26:12
+Det er så en lille form for en fri parameter der.
+
+26:18
+Se det her. Mabel det mig her, som jeg lige vil præsentere ganske kort, føjer.
+
+26:28
+Jeg har startet her med lige at rense hukommelsen, og her hvor vi arbejder med lineær algebra, har vi så brug for den pakke, der hedder line algebra.
+
+26:38
+Den kalder jeg simpelthen med hud. Og I kan se det er Leiningen system sammen, som er her i Melbourne.
+
+26:46
+I morgen. Det er det samme som det vi lyster før pausen og.
+
+26:54
+Nu kan I se hvor det er rigtig vigtigt, at I forstår det her med programmet med jubel.
+
+26:59
+Det der er vigtigt, er, at der findes altid mange forskellige måder i Mabel, som man kan løse problemer på.
+
+27:07
+Lørdag er ofte nogle, hvor man bare får direkte vejen til løsningen, uden at man overhovedet forstår noget som helst om.
+
+27:14
+Hvad var det, Melbourne gjorde dér? Man er bare glade for, at der kommer en løsning ud af det.
+
+27:19
+Så er der sådan en mellem kategori. Det er det jeres. Det første er det det, man kalder for Black Box.
+
+27:25
+Og så er der en mellem kategori, hvor man kan sige, at man opnår nogle matematiske resultater, som man skal fortolke videre på.
+
+27:33
+Og så er der endelig en tredje metode, som vi også kalder for simulerede håndsrækning.
+
+27:38
+Det vil sige, hvor man kun bruger de grundlæggende kommandoer i Nebel og så langsomt gå fremad selv og bestemmer linje for linje.
+
+27:47
+Hvad er det, der sker? Her tre metoder, de har virkelig fordel af hver for sig.
+
+27:54
+Men det er klart, når I skal aflevere hjemmeopgaver første gang,
+
+27:59
+efter vi har introduceret med dem her og der står I skal dokumentere, hvad der arrangerer den.
+
+28:05
+Eliminationen går ud på, at så I bare bruger den korte version.
+
+28:10
+Så får ikke mange point for det, for det er jo meningen. I skal dokumentere BlackRock.
+
+28:15
+Claus Jordan Invasionen får så bare for at sige det teer med æbler.
+
+28:20
+Et fantastisk univers af muligheder. Brug det med omtanke.
+
+28:24
+Tænk over hvad er det jeg vil dokumentere her? Hvad er det, der er i fokus fra det, vi laver i øjeblikket?
+
+28:32
+Så lad os lige se jer. Hurtigt opskrivning af koefficient matricen.
+
+28:43
+Højresiden har jeg så tage afsted her som en søjle vektor.
+
+28:50
+Bruger jeg så black box kommandoen Lena og solgt.
+
+28:56
+Så værsgo, der er så løsningen. Men der står ikke noget om, hvordan jeg fandt den.
+
+29:02
+Om fire uger, når vi skal have løst en lille eller lille system.
+
+29:06
+Hvem gider så tænke på Caution Dan, så er det bare om at få løsningen med det samme.
+
+29:10
+Så denne ordre er genial. Men her hvor vi skal lære og forstå hvordan er det metoden er?
+
+29:16
+Hvad betyder begrebet Carracci sorterne innovation? Så er den intet værd.
+
+29:23
+Så kan man jo måske bedre gå frem på den måde, at vi nu danner totalt matricen.
+
+29:33
+Og så bruger jeg den elegante Comando, der hedder Red Dust Row indtil nogen form.
+
+29:40
+Det er den der giver mig trappe formen af matricen. Så her har vi, så kunne vi selv totalt mathisens trappe foran.
+
+29:50
+Og her nu er var det her eksempel, det var jo meget nemt, men havde vi nu taget dette eksempel i stedet for,
+
+29:58
+så havde der været noget arbejde at lave for at få en løsning. Løsnings mængden på på standard parameter for.
+
+30:07
+Metode tre. Det er det er det der kalder.
+
+30:19
+Der hedder Rowe Operation. Hvor man skridt for skridt kan lave Gauss Jordan eliminationen selv.
+
+30:27
+Det eneste vi overlader til Melbourne er at lave det der er plus minus.
+
+30:31
+I vil opdage når I kom ud i klassen, at det dermed og Gauss Jordan.
+
+30:35
+Det er en ny irriterende øvelse i at kunne lave noget med parentesen.
+
+30:39
+Minus er også noget næsten umuligt ikke at komme til at lave regntøj.
+
+30:42
+Så hvis jeg bruger Makeba her som kontrol, så er vi sikker på, at det er altså det, man foretager.
+
+30:49
+Det skulle være i orden, så den første del af det betyder.
+
+30:54
+Det betyder, at det er første række operation, bytte, række to og række en om.
+
+31:01
+Det gør vi så med den første. Og den anden kommando, og den betyder at vi tager den set.
+
+31:12
+10 til et år siden. Ja, vi tager teten og tager den.
+
+31:19
+Første række gange med en hal. Den er så ikke ude i display her, som vi ser dem, altså først efter vi har renset den første søjle.
+
+31:28
+Så jeg går så valgt her. Hvis man i stedet for. Det er det du skal se om jeg kan finde det her på den engelske maskiner, hvor jeg har.
+
+31:39
+Det må være den der. Det var derfor jeres vittigheder række.
+
+31:49
+Og det er det var. Derfor har jeg gange den første med en halv.
+
+31:56
+Og dette var den tredje, altså hvor jeg lavede række operationen nummer tre.
+
+32:01
+Så her har jeg altså set ganske kort, hvordan vi kan lave de her tre række operationer.
+
+32:07
+Hvad med dem? Hermed slut tak for i dag. God fornøjelse med se hvordan.
+
+32:18
+Det.

@@ -1,0 +1,986 @@
+0:07
+På morgen i dag skal vi snakke om fladere og flade integraler, og flader er jo noget, vi kender en hel masse til i forvejen.
+
+0:20
+Vi har arbejdet meget med fladere allerede, men der er også meget nyt at lære,
+
+0:26
+så lad os lige prøve at lave en kort oversigt over, hvad kender vi egentlig til flader i rummet og det mest enkle.
+
+0:37
+Det er selvfølgelig Planner i rummet. Og det kender jeg allerede fra gymnasiet, fordi der kender i ligningen for en plan A.
+
+0:53
+Gange med x minus x0 plus b gange y minus 0 og plus c gange Z minus Z.
+
+1:03
+Nul er lig med nul og hvor x nul by 0 og z nul.
+
+1:13
+Det er et punkt der ligger i planen. Og A B, C, D er en normalvægt så til planen.
+
+1:25
+Så det kender jeg fra gymnasiet, og det har vi allerede snakket om ved tidligere forelæsninger.
+
+1:32
+Andre kugler eller afprøvet flader i hænder er kugler.
+
+1:39
+Og dem kender I også en ligning på.
+
+1:46
+X minus x 0 i anden plus y minus y 0 i anden plus Z minus Z nul i anden er lig med R i anden.
+
+2:03
+Og her gælder der selvfølgelig, at punktet x0 by nul set nul.
+
+2:10
+Det er centrum for kuglen og er det af radios.
+
+2:18
+Men så for nogle gange siden da kiggede vi på nye og flade typer, som jeg ikke tror I havde tænkt ret meget over før, nemlig punkt mængder.
+
+2:39
+Beskrevet ved anden grads ligninger.
+
+2:52
+I X, Y og Z.
+
+3:00
+Og der kan vi sige at der er sådan set allerede givet her et eksempel på sådan en pumpning.
+
+3:06
+Nemlig kuglen. Men det vi så med Andrejs ligninger i x, y og Z.
+
+3:14
+Det var jo de såkaldte keglesnit slaget. Da havde vi jo ellipsoide, og vi havde hyldebær.
+
+3:20
+Bo lider dem, der havde to næb. Dem der havde et net vi havde, parret blev ydere osv.
+
+3:28
+Så det vil jeg så sige. Det er også sådan en stor familie af standard flade typer, som vi allerede har været inden for.
+
+3:38
+Og nogle nye flader, som vi skal arbejde med i dag.
+
+3:43
+Det er. Altså disse specielle flader.
+
+3:53
+Som er kravet for. Som er ombejlet en sladder.
+
+4:08
+Og cylinder flader. Det er nogle forskellige typer, som de skal lære at forstå i dag.
+
+4:24
+Hvordan fremkommer de, og hvordan kan vi arbejde med dem?
+
+4:30
+Og det er altså flader som er givet sammen. Hvad skal vi sige her på geometrisk form?
+
+4:37
+Men. Det som gælder, skal man lave en seriøs undersøgelse af de forskellige flade typer.
+
+4:47
+Så skal vi selvfølgelig have dem på parameter form. Så et noget samlende for dem allesammen.
+
+4:54
+Det er. At vi i dag skal kigge på parameter kurver.
+
+5:09
+Og det jeg kort kan sige nu er at det dermed et parameter kurver.
+
+5:15
+Det har sådan set to sider. Den ene side er, at kendte typer er flade, og dem kan vi lave en parameter fremstilling for.
+
+5:28
+Så vi kan altså ved hjælp af parameter fremstillinger beskriver nogle flader, som vi har givet på en anden måde.
+
+5:37
+Men når jeg personligt synes, at flader og deres parameter fremstilling er noget af det mest spændende og kreative, man kan komme ud for,
+
+5:46
+så er det selvfølgelig, at man jo så, når man har lært lidt om hvordan virker egentlig sådan nogle parameter fremstillinger?
+
+5:55
+Jamen, så kan man jo begynde at lave sine egne flader.
+
+5:58
+Altså nogle der ikke hører ind under en eller anden kategori, fordi så kan man jo selv designe sine apply bygninger.
+
+6:08
+Er man en arkitekt, der skal tegne et nyt hus, ja så kan man måske bruge en lidt af de værktøjer her ændre lidt på dem.
+
+6:19
+Tag et firkantet højhus, briten ligesom torsoen i Malmø osv.
+
+6:25
+Så det at kunne arbejde med et parameter fremstillinger giver os et helt nyt.
+
+6:31
+Helt ny viden om, hvordan vi kan designe nye ting.
+
+6:42
+Se. Vi skal jo så også snakke om fladerne, altså hvordan fladerne i sig selv beskrives.
+
+6:53
+Men så skal vi jo også tale om flade integraler. Altså har vi givet en anden flade, og vi skal integrere hen over fladen.
+
+7:02
+Vi har en eller anden form for belastning, og det er, som alle integralregning handler om.
+
+7:09
+Det her har vi en eller anden belastning, som vi kender lokalt på et eller andet område.
+
+7:16
+Hvordan supplerer vi det så op, sådan som vi får at vide?
+
+7:20
+Jamen, hvilken virkning har det så på det samlede objekt? Og det er det som fladet integralet her handler om.
+
+7:28
+Og nu tager vi altså et break med selve teorien for flade integralet og den form vi skal bruge, når vi laver flade integraler.
+
+7:43
+Og der får jeg brug for hér i i denne her teori.
+
+7:49
+Så lige tre tekniske pointer. Det er alt sammen noget vi har snakket om før.
+
+7:56
+Se det her handler om har vi i rummet givet et parallelogram, som er udspændt af to vektorer a og b.
+
+8:06
+Jamen så er en formel for arealet. Det er længden af krydsproduktet af de to.
+
+8:14
+Det vil sige længden af den normale vektor, som er A cruys b.
+
+8:20
+Det er en form, vi kender fra gymnasiet. Det jeg har brug for lige om lidt.
+
+8:27
+Det er nu hvad hvis en af de vægge Tore er ganget med en konstant for eksempel A, er ganget med konstanten.
+
+8:35
+To. Sådan er parallelle, parallelle rammede altså er udspændt af dem begge to, og den vægter,
+
+8:43
+ja så bliver Rial selvfølgelig dobbelt så stort normalvægt, så den bliver dobbelt så lang, så det vil jeg altså sige.
+
+8:51
+Har jeg sådan en konstant, som jeg har ganget den ene væg med, så kan den altså bare sættes uden for længden af a kryds B.
+
+9:04
+Og så får vi det her herlige resultat. Hvor er det nemt at integrere, når vi har et akser, parallelle referencer, område eller integrationsområdet.
+
+9:15
+For os er det simpelt hen bare at skrive belastning funktionelt her og så lave to integration henholdsvis over u og over vi.
+
+9:24
+Og så er den tredje ting jeg har brug for nu, kan håbe, at jeg ikke i er ved at være træt af at høre om det, men så det handler om kurve integralet.
+
+9:33
+Her har jeg en parameter kurve. Dér er vi til tiden ud.
+
+9:38
+Der går et lille tidspunkt delta u. Vi bevæger os det stykke her på kurven.
+
+9:45
+Hvor lang er det her cool stykke? Ja, det har den samme længde som sammen med et tangent Beckton ganget med den lille tid, der er gået.
+
+9:57
+Så altså det buede kurvede stykke.
+
+10:01
+Jeg har næsten den samme længde som tangent vægteren gange med Delta U.
+
+10:10
+Og lad os så gå i gang med at kigge på flade integralet.
+
+10:34
+Og. En fladere F er givet ved parameter, fremstillingen er af u kar mave.
+
+10:58
+Samt betyder tre. Koordinat, funktioner, ekser, uger ved byer, uger vi.
+
+11:09
+Og sæt af uger vi. Vi har altså en parameter fremstilling, som består af tre coordinator funktioner, som hver for sig er en funktion af to variable.
+
+11:27
+Vi kalder de funktioner ikke styre set, så er det nemt at huske at det står altså for koordinaterne.
+
+11:36
+Og hvor U kommer, vil tilhøre et reference område eller et definitionen samråd, som jeg kalder for B.
+
+11:51
+Og. Endvidere er der givet. En belastning funktion Lucas kalder jagten for masse tæthed funktion som metaforer.
+
+12:13
+Lad os kalde den f eks. Komma Y kommercielt.
+
+12:25
+Og når det nu er en hvis vi kalder det en masse teltets funktion på en flade, så kunne det for eksempel være i enheden gram per kvadratcentimeter.
+
+12:38
+Og den opgave vi stiller os er bestemt flade integralet i dette tilfælde Madsen,
+
+12:48
+som har symbolet integralet overfladen af masse til tagets funktionen.
+
+12:56
+Bemærk. Lad os prøve at kigge på situationen.
+
+13:08
+Vi er så i x y z rummet. Her er der givet en parameter flade af.
+
+13:36
+Og den parameter flade. Er altså en formering af et rektangulært område i Uwe planen.
+
+13:47
+Jeg har altså os en u v plan. Med en akse parallelt område som jeg har kaldt forbi.
+
+14:04
+Og det er måske bestemt ved intervallerne. A til B og C til D.
+
+14:15
+Og vi har altså at. Vi har denne her parameter fremstilling givet se hvad er det den gør?
+
+14:26
+Parameter fremstilling griber fat i det her reaktoren ged i u v planen flyver det ud.
+
+14:34
+Det informerede det til den flade, der ligger hende sådan, at der til hvert punkt her i Up.
+
+14:41
+I planen svarer et punkt her hende i på selve fladen, så er er så en.
+
+14:47
+Det er formering af et smukt område her til måske et fantastisk flot område her, for eksempel torsoen i Malmø.
+
+15:01
+Og så prøve at følge med her. Vi deler B i lige store rektangler.
+
+15:22
+Og nu skal jeg forestille mig. Forestil jer, at jeg laver en hel masse bitte små rektangler herovre for at gøre det overskueligt.
+
+15:32
+Så laver jeg kun fire. Men der burde altså været 16 eller 62 eller 64 eller et eller andet stort tal, men for nu gør jeg så bare på denne her måde.
+
+15:46
+Se når jeg nu laver en opdeling af den her plan.
+
+15:53
+Men dette rektangel som medfører det, er jo en opdeling af f fladen f.
+
+16:09
+Det. Og får nu at se hvordan den opdeling den foregår, set den vanrøgt linje der ligger her.
+
+16:23
+Den svarer til at en bestemt ved hvad de så.
+
+16:28
+Forestil jer nu, at jeg lader ville være konstant og kun bare i pungen.
+
+16:35
+Så bliver denne her parameter fremstilling til en parameter fremstilling for en rund kurve.
+
+16:42
+Så er det jo kun u der varierer. Så den smukke rette linje der ligger her når U passerer igennem alle de punkter.
+
+16:55
+Jamen så vil vi her over på fladen gå igennem en bestemt kurve.
+
+17:01
+Som ligger i fladen f. På samme måde.
+
+17:07
+Hvis jeg nu holder ud konstant. Og så kun gå lodret.
+
+17:13
+Så er det jo en smuk ret linje. Som bliver afbilledet her hen på en rund kurve, og den kunne for eksempel se sådan her ud.
+
+17:27
+Så der har vi altså to rum guder givet ud fra dette, og det jeg siger er altså at denne her opdeling medfører altså en opdeling af fladen f.
+
+17:42
+Hvis jeg nu kalder det punkt der ligger her, kalder jeg det her for ud, kommer vi.
+
+17:49
+Så vil det punkt, der ligger som skæringspunktet mellem disse to rundkirker.
+
+17:56
+Det vil selvfølgelig være R er U. Kommer vi?
+
+18:03
+En. Og kan I se for den første kurve?
+
+18:08
+Her ved hvor jeg har tidens parameteren ud u.
+
+18:13
+Kan se her. Goddag en uges tid. Lad os prøve at kalde den for Delta U.
+
+18:22
+Når jeg lader tiden her fra U, og så er den tid her hen til ende punktet går, så svarer det til at punktet her.
+
+18:33
+Gennemløber hele. Denne runde koges ned til det her punkt som hedder r, u flux delta u.
+
+18:42
+Kommer vi? Og hvis jeg tilsvarende kalder det stykke her deltager ved.
+
+18:52
+Det har sat deltage ved tiden, når deltage ved tiden går så min, men mit punkt her.
+
+19:01
+Det havner så op i dette punkt, som jeg vil kalde for er.
+
+19:07
+Af U Carma V + deltager vil.
+
+19:23
+Nå, men vi skal jo have vajede denne her flade og se hvordan jeg nu gør det.
+
+19:30
+Se det. Stykke der ligger her.
+
+19:36
+Det vil jeg kalde for deltagers store es. Det betyder både det her stykke og dets areal.
+
+19:46
+Og at. Det lille rektangel der ligger her.
+
+19:51
+Det ville jeg kalde for deltageres store ting. Og nu spørger jeg altså om bidragede fra det her stykke.
+
+20:06
+Altså bidraget fra at deltage yderst til den samlede masse.
+
+20:16
+Det forrige og så ved at tage masse tæthed funktionen i test bombet, der ligger nede i det venstre hjørne her og så gange med hele arealet.
+
+20:26
+Denne her er jo børn per kvadratcentimeter. Ganger jeg det så med antallet af centimeter, så får jeg så noget ud i Gram.
+
+20:35
+Så bidraget fra det stykke her er så test funktionen taget i punktet er er udkommet ved.
+
+20:45
+Og så ganget med arealet af det buede stykke, der ligger her.
+
+20:53
+Og nu ser jeg budet, fordi det er lige præcis det, der er mit problem. Hvor stort er Janet er et boost af et bulet stykke.
+
+21:00
+Det er ikke sådan lige til at sige børn, så det jeg ønsker mig nu, er bare, jeg dog kunne flytte den her integration eller den vejningen her.
+
+21:12
+Bare jeg dog kunne flytte den her over i stedet for. Sådan ser det, jeg vejede.
+
+21:17
+Det var det her stykke i stedet for. Den idé er ikke helt dum, fordi at selve det der står her.
+
+21:27
+Det er EHF's værdi. I er af uger, vi. Men der kunne jeg jo lige så godt måle den sammensatte funktion, så f a er i uge er vi.
+
+21:42
+Så altså om jeg vejer her ved F. Men det punkt eller ved den sammensatte funktion i ur.
+
+21:51
+Vi er nøjagtig det samme tal. Som en foreløbig idé er så at sige.
+
+21:59
+Er det der? Det gør jeg da bare sådan her. Jeg tager dig bare den sammensatte funktion i test punktet her garner med det areal der ligger dér.
+
+22:14
+Men hov, det er jo snyd. For de to arealer er de jo ikke lige store.
+
+22:21
+Så jeg har lavet en fejl. Skulle vi ikke tage at kalde den fejl for jeg Kobe?
+
+22:36
+Så kommer stykket jo til at passe. Så nu består opgaven altså i at finde ud af hvad er Jacobi?
+
+22:48
+Og så kan I se jer Kubel. Den må jo så være lige med det her areal divideret med det areal, der ligger her hen.
+
+23:13
+Langt mere end det er jo desværre et buet stykke jeg har lavet mig her.
+
+23:22
+Så. Den går altså ikke helt fordi jeg kan ikke rigtig måle det her.
+
+23:30
+Men hov, nu får jeg en ide. Det her var jo noget med en rund kurve, og det var også noget med en rund kurve,
+
+23:39
+og der var et eller andet med nogle approksimation, og man kunne lave herinde.
+
+23:44
+Med tangent vektorerne, så lad os prøve at se om vi kan udnytte det.
+
+23:51
+Det betyder jo så. At det stykke der ligger her.
+
+23:58
+Altså hvor vi gennemløber den tid her. Det er et stykke.
+
+24:02
+Her har næsten den samme længde som den vektor der her.
+
+24:08
+Og som er tangent Beckton, og nu skal jeg jo så differentiere med hensyn til ud for at få tangent vektoren hastigheds vektoren med hensyn til nutiden.
+
+24:21
+Så denne er altså tangent vektoren er mærket R U i U kommer vi.
+
+24:28
+Gange med den tid der er gået. Som vi har det heroppe.
+
+24:38
+Og så på samme måde kan vi så sige, at her.
+
+24:47
+Der tager vi så tangent vektoren med hensyn til v tiden og den tangent væk, så det er denne her der og så er mærke.
+
+24:57
+Efter V i O kommer vi. Og så ganget med det vi.
+
+25:11
+Og det jeg så siger er når u tiden der er gået og V tiden er gået, er meget lille.
+
+25:19
+Som ved det rektangel, der ligger her. Dette rygterne vil næsten være det samme som arealet af det A-stykket.
+
+25:38
+Så derfor skriver jeg nu. At det er næsten det samme som arealet af det parallelogram og arealet af et parallelogram udspændt af to vektorer.
+
+25:55
+Det har vi jord fra gymnasie formen. Sammenhængen er op.
+
+26:00
+Det er nemlig længden af vægge, som er mærket efter uge kunne skriver det kort ganget det U også har krydset med,
+
+26:13
+er mærket efter Veyhe gange med tiden.
+
+26:17
+Det vil. Så har vi den der.
+
+26:31
+Og det skal vi så dele med arealet af deltager til dels at se, har vi her den, er det u gange det ved.
+
+26:46
+Den. Og så tilbage til min første pointe her op.
+
+26:53
+Hvis jeg har garnet en af disse to vektorer med en konstant, så kan jeg sætte konstanten ud foran det u, og det ved de jo begge to konstanter.
+
+27:07
+Det betyder jo bare en længden af en tid, der er gået henholdsvis i udretning og v retning, så dem kan jeg nu sætte ud uden foran.
+
+27:17
+Og så har jeg altså er mærket efter U cruisede med æren mærket efter ved.
+
+27:26
+Og så uden for dette u. Gange med deltage ved.
+
+27:32
+Det hele er så divideret med deltager u gange med deltage ved OL, så siger jeg altså at de to størrelser optræder både i tælleren og nævneren.
+
+27:47
+De går altså ud, så jeg kopi. Funktionen er altså simpelt hen længe.
+
+27:53
+Den er krydsproduktet af de to tangent vektorer.
+
+27:58
+Så er det. Og så passer mit regnestykke her.
+
+28:03
+Nu kan jeg flytte hele integrationen fra e-Types ser brummede over til et ganske almindeligt akse parallel integration, som der står opført her.
+
+28:16
+Prisen er bare, at jeg skal gange Jacobi funktionen på.
+
+28:20
+Så konklusionen på alle vores anstrengelser. Er følgerne.
+
+28:40
+Hvis. Lille M f.
+
+28:47
+Er det er defineret som er mærket efter ud gange er mærket efter gruppens.
+
+28:58
+Så er jeg copy. Af jer skal vi indføre, altså dem som jeg ikke har givet dem, skriver hun.
+
+29:12
+Skriver man her? Det er så længden af normalvægt som i uge, kommer vi.
+
+29:21
+Som er givet ved krydsproduktet af de to dér. Og lad os se, hvad det så vil sige på tegningen.
+
+29:28
+Det vil altså sige, hvis jeg tager æren mærket af u gyngerne er mærket efter ved krydsproduktet,
+
+29:35
+så har vi altså her en normalvægt, så som vi kalder for m, f.
+
+29:42
+Og som så står vinkelret. På den.
+
+29:51
+Og så gælder det så at nu kan jeg bruge det akse parallel integration.
+
+29:57
+Den samlede masse. Af F.
+
+30:05
+Asser, som har dette symbol, er så et dobbelt Ginter gravet.
+
+30:13
+A til B, F er R er U Car Movie.
+
+30:20
+Og så gange med. Normalvægt som i UK Company og så det U.
+
+30:33
+Også er det vi. Og det er så formlen for at flade integralet.
+
+30:42
+Ja, man læser jo. Tak.
+
+30:51
+Og det er altså så lige præcis Jacobi funktionen vi altså har gange på her.
+
+30:57
+Så vi har altså flyttet integrationen herfra og så hen.
+
+31:05
+Og det vi så kan sige, er, at det vi egentlig gør her, er så, at vi bruger en hel mile vægt funktion, som hedder.
+
+31:14
+Væk funktionen f ganget med Jacobis funktionen, og så kan vi bruge dette akse parallel plan integral.
+
+31:22
+Og så bruger vi den her formen her hen. Hvis det kun er et areal, vi er interesserede i.
+
+31:34
+Så gør vi det. Jeg vil, siger du. Grænser?
+
+31:39
+Ja, det gør dig, og det er grænserne fra.
+
+31:42
+Se til det. Sådan. Arealet forbliver som sædvanlig ved at sætte masse tid til tæthed funktionen lig med 1.
+
+31:54
+For så er det at veje. Og det at måle arealet.
+
+31:59
+Det samme så arealet af en flade.
+
+32:02
+Det får vi simpelt hen ved dobbelt integralet set til det integralet fra A til B og så 1 gange med længden af normalt vægteren.
+
+32:15
+I U kommer vi altså den normalvægt, der er defineret ud fra parameter fremstillingen.
+
+32:38
+Og lader sprog og at kigge på et eksempel.
+
+32:59
+Og nu vil jeg så arbejde lidt med en graf flade.
+
+33:06
+Og hvor I skal forstå hvad en graf, flaget, hvad det er for noget. Altså det er når fløden er en graf.
+
+33:27
+For en funktion af to variabler. Vi kunne for eksempel kalde den for H.
+
+33:42
+Ex Company. Og så er nogle grafer har vi jo kigget på adskillige gange, så lad os lige se hvordan sådan en graf kunne se ud i x y z planen.
+
+34:22
+Det kunne være at dér har vi grafen.
+
+34:36
+For H funktionen.
+
+34:43
+Og sådan som jeg har tegnet den her, så kunne det jo se ud som om, at den grundlæggende dør i den sygeplejen, jeg betragter her, har vi altså.
+
+34:57
+Det er en tilsvarende grundlæggende mængder. I eksemplerne og I kan jo se den måde, som grafen kom fremkommer på.
+
+35:13
+Det er jo, at hvis jeg tager. Et vilkårligt punkt her i A7 planen.
+
+35:23
+Og så går lodret op. Så svarer det så til, at jeg har et punkt på Drau floden, som har koordinaterne x komma y komma h f ex komma.
+
+35:43
+Fordi Z koordinaten er jo den z højde som vi går op her.
+
+35:58
+Og så en. Og nu er det jo altså at vi skal have den over på et parameter form.
+
+36:14
+Og nu skriver jeg den her opnår en nem form, måske i fornem.
+
+36:29
+R er u kommer ved. Ja, man får først koordinaten, den er jo u.
+
+36:38
+Anden koordinaten er army og et tredje koordinaten er H.
+
+36:45
+U kommer vi. Og hvor U og V altså ligger i det område.
+
+37:04
+Så det her var en meget hurtig. Parameter fremstilling jeg har skrevet op her, og den kan bruges nogle gange.
+
+37:13
+Men det kritiske spørgsmål er her Hvordan ser denne her reference altså dette domæne ud?
+
+37:20
+Det er det, vi skal kigge på i det efterfølgende eksempel. Og nu kommer så selve eksempler.
+
+37:50
+Og her har vi gide funktionen.
+
+37:59
+H. Af ex kommaet y er lig med en halv ikke Jane.
+
+38:08
+Plus y plus to. Og.
+
+38:19
+Og opgaven den er. Bestem arealet.
+
+38:28
+Er grafen. For H.
+
+38:46
+Og nu kommer jeg sammen med to forskellige områder til den samme opgave her, så først.
+
+38:58
+Så antager jeg. At en.
+
+39:08
+Det er punkt mængden ex company, hvor.
+
+39:14
+Nul er mindre end lig med X er mindre end lig med en og y ned over nul.
+
+39:22
+Mindre end lig med Y. Mindre end lig med en. Og det vil altså sige at.
+
+39:38
+At det tilsvarende område i U V planen.
+
+39:47
+Er kvadratet. Det eneste kvadrat som jeg har tegnet her, altså hvor jeg bare har skrevet.
+
+40:00
+Ur ved i stedet for Eksjö. Og så indfører jeg parameter for omstillingen for fladen.
+
+40:28
+Og den er jo den jo så nemt er U kommet V er u carma v Parma.
+
+40:39
+Hvad var det vi sagde en halv uge i anden plus v plus to.
+
+40:51
+Og og hvor U ligger fra nul til en og det samme.
+
+40:56
+Det gør vi. Så skal jeg jo have fat i krydsproduktet af tangent vektorerne, og den regner jeg lige ud hér.
+
+41:19
+Er mærket efter Ud cruisede med er at mærke efter ved.
+
+41:26
+Vi krydser de her tre funktioner eller differentierer med hensyn til U.
+
+41:32
+Og så får jeg en. Og så får jeg nul.
+
+41:38
+Og her hende får jeg sagt differentierede to går ned foran, og her får jeg så bare U.
+
+41:46
+Så nu har jeg så differentierede de tre funktioner med hensyn til uld.
+
+41:55
+Og så krydser jeg ellers differentiere jeg med hensyn til ved den giver nul.
+
+42:01
+Og så får jeg herfra en køn over for tredje kone.
+
+42:06
+Der får jeg også en. Og så krydser vi den.
+
+42:14
+Det vil sige nul gange 1 minus u gange 1.
+
+42:21
+Det giver så en første koordinat på minus ud.
+
+42:27
+Og så siger vi U ganget med nul minus 1 gange med 1.
+
+42:33
+Det er minus 1, og til sidst så siger vi så 1 gange med en minus nul gange med nul.
+
+42:40
+Det giver en. Og så har vi altså Jacoby.
+
+42:55
+E u karme v. Byen er så lig med længden af denne her kryds svigter.
+
+43:09
+Om vi bruger Pythagoras. Det er jo kvadrat summen af koordinaterne o i anden plus ene hjørne plus en i anden.
+
+43:21
+Det giver os så to. Og så har jeg så Janet.
+
+43:33
+Pladsen som et dobbelt integral over.
+
+43:40
+Dette fordrejer de områder. Og det er altså simpelt hen bare Jacobi funktionen, som jeg skal have integreret.
+
+43:53
+Først med hensyn til. Og så med hensyn til ved.
+
+44:03
+Og den har jeg taget på. På Mabel far, der har boet tre halve plus L inden til.
+
+44:20
+Kvadratrod 2 plus kvadratrod 6 og minus l n til 2.
+
+44:30
+Så det er altså. Det er altså arealet af den grav for Hoves, som ligger over dette område i eksil.
+
+44:40
+Planen. Men det var jo et meget nemt grundlag område, som jeg havde her i det tilfælde eksempel at regne ud.
+
+45:14
+Nu var det jo et aktivt parallelt område i sygeplejen, og så kunne jeg bruge den dér meget nemme parameter fremstilling.
+
+45:23
+Men hvad nu hvis en ser anderledes ud? Og nu får vi altså her.
+
+45:36
+Nu antager vi i stedet for at området en.
+
+45:42
+Det er mængden af punkter i A Syd planen.
+
+45:48
+Hvor X ligger imellem 0 og 2 1 og.
+
+46:02
+Og Y ligger imellem minus 2 x og nul.
+
+46:08
+Og lad os lige prøve at tegne. Dette område i Annecy planen.
+
+46:30
+Så X. Æg slår altså fra 0 til 2, som der står her.
+
+46:40
+Og så har vi altså en funktion her, der hedder minus to x.
+
+46:45
+Den tegner jo lige den de rette linjer. Så nu er jeg altså det område, som da er tale om.
+
+47:13
+Altså det område vi skal integrere over her. Det er altså den trekant, som ligger her, og lad os prøve at se, hvordan vi kan par med 3C og dem.
+
+47:32
+Vælger jeg et vilkårligt punkt på min eksakte, som jeg kalder fra for U og 01.
+
+47:42
+Og så kigger jeg på den vægt, så. Som bor sydpå her og havner nede i u karme, og så bliver det minus to U.
+
+48:03
+Og det er altså de redskaber jeg vil bruge til at lave mine parametre i serien.
+
+48:09
+Hvad med? Og parameter fremstillingen som jeg vil bruge her den såkaldte.
+
+48:29
+For S, r, u kommer v. Og den er jo så.
+
+48:39
+Begynde tidspunktet som hedder U, kommer noget. Plus en part meter vi ganget med vektoren.
+
+48:51
+Jeg har benyttet. Og den vægtere jeg har benyttet her.
+
+48:56
+Den har koordinaterne nul komma minus to u.
+
+49:10
+Og det så bare ud ligger imellem mellem og 2 og V ligger imellem nul og en pind.
+
+49:23
+Så hermed har jeg altså givet en parameter fremstilling af den slags som i arbejdet med sidste gang.
+
+49:32
+Men det er jo en mere interesseret i. Det er jo en parameter fremstilling for grafen.
+
+49:56
+Hjem ved at benytte et nærliggende stort nul.
+
+50:01
+Hvilken en har du det med det? Altså, jeg vil gerne høre fra dig nogle af jer, før jeg så dem der mente fra nul og til en.
+
+50:13
+Er med på den. Det svarer altså det svarer til at vi løber hele den her vektor igennem.
+
+50:20
+Altså til til hvilken de var nul, og vi hører også til ved en handel.
+
+50:24
+Da vi her og nu den er en op der noget i spidsen. Du har altså gennemløbet hele pumpning den.
+
+50:33
+Så nu skal vi jo have hele parameter fremstilling denne er så x y, z.
+
+50:44
+Koordinaterne er nu givet ved en ny parameter fremstilling, som jeg også kender er uenig.
+
+50:51
+Og så lad os prøve at se hvad hedder så egentlig koordinaterne?
+
+50:59
+C. U koordinaten. Det er faktisk den vi tager udgangspunkt i.
+
+51:05
+Det var den, jeg brugte hende, så vi har altså samme U.
+
+51:11
+I kan se her hvis jeg udregner her.
+
+51:20
+Altså lige lægger sammen her, så får vi jo guld for oven, og så får vi minus to I ved V forneden.
+
+51:32
+Og det er jo det der svarer til mine x og y koordinater.
+
+51:38
+Her i en tyk planen, og det vil altså sige første koordinaten X oversætter vi med u anden koordinaten y.
+
+51:48
+Den oversætter vi med minus to.
+
+51:51
+U. V. Og så er tredje koordinaten.
+
+51:57
+Der skal vi jo kigge på den givne funktion en halv time i anden plus y plus to, og det er jo så tredje koordinaten for grafen.
+
+52:10
+Så vi får altså en hal ud i anden, og så får vi minus.
+
+52:21
+Så får vi derfra. Så får vi plus by, det vil sige det er minus to u v.
+
+52:29
+Og så har vi endelig. Så har vi plus to. Så det her, det var det vanskelige ved det.
+
+52:41
+Det var at finde parameter for omstillingen for grafen for den funktion, når den ligger over i sådan et område her.
+
+52:51
+Udregningen af Jacoby fungerede jo så på nøjagtig samme måde.
+
+52:56
+Vi får bare et når en 1.
+
+53:00
+Nogle andre integrations områder og indtil grandeur, og det kan vi lige kigge på her på Mabel, hvordan det så ser ud.
+
+53:56
+Så vi kigger altså lige her på. Han funktionen som vi har arbejdet med.
+
+54:07
+Og så kigger vi på. Trekanten.
+
+54:21
+Som er illustreret her. Og.
+
+54:29
+Her har vi så parameter fremstillingen. Vi arbejdede med.
+
+54:38
+Og så får vi altså for trekanten. Og så får vi selve parameter fremstilling for hele den gram flade.
+
+54:46
+Den har vi her. Og så er det jo herligt, fordi den her parameter fremstilling kan vi jo så både bruge til at illustrere Gravesen med.
+
+54:56
+Altså Mabel kan fladen ud fra denne her parameter fremstilling, så vi kan se hvordan den ser ud.
+
+55:02
+Ønsker vi at lave den om, så kan vi jo bare pille lidt ved parametrene.
+
+55:06
+Er ikke tilfredse med den bro og ved at designe,
+
+55:09
+jamen så så gang med en tredjedel på ujævne i stedet for en hæl og så se, hvordan den kommer til at se ud.
+
+55:17
+Så det kan parameter fremstilling.
+
+55:18
+Den kan altså bruges til at designe med, men den kan jo også bruges til at udregne integralet med, så vi finder vægten af den.
+
+55:27
+Men lad os først her kigge på selve fladen. De kan altså se her her i et plot.
+
+55:37
+Da er det altså simpelt hen den parameter fremstilling, som vi har designet, som vi bruger til at tegne fladen med.
+
+55:49
+Og hov, der har vi fidusen. Men lige bortset.
+
+55:57
+Og I kan se det er netop den del af fladen for hog, som ligger oven lodret over trekanten.
+
+56:05
+Så det er altså det her det her stykke vi skal bruge til et eller andet. Når vi skal regne videre på det, så har vi jo brug for at differentiere at.
+
+56:20
+Og bemærk her når vi differentierer en vægtere, så bruger vi altså Childe.
+
+56:26
+Altså den der vægt som var indført i normalbilledet Mabel demoer er overflødig, fordi vi kan bare gøre det sådan her.
+
+56:34
+Og nu er de altså et differentieret krydsproduktet. Jacoby er så længden.
+
+56:43
+Af den der vægter prikket mønstre sig selv. Det er en anden form at skrive Pythagoras på.
+
+56:51
+Og sammen med Mabel godt kan li. Giver så rimelig pæne udregninger.
+
+56:58
+Og så var vi altså til det her. Også integrationen er ikke så nemt igen.
+
+57:10
+Men I kan altså se det areal, altså den der flaget.
+
+57:15
+Den er arealet af det, der lå over firkanten. Det var altså dette er arealet af det, der kun ligger over trekanten.
+
+57:22
+Det er det resultat, som er kommet ud det godt pause.

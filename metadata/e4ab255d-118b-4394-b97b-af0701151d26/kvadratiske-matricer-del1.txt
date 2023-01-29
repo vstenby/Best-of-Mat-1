@@ -1,0 +1,653 @@
+0:04
+Åndedrætsøvelser, fordi sandet sidder nu.
+
+0:08
+Nu går det lidt stærkt. Jeg kan ikke nå at gennemgå alle de emner, der findes i.
+
+0:16
+Bare de skal laves til i dag, så jeg har plukket nogle ting ud.
+
+0:21
+Men den helt store overskrift denne er kvadratiske matricer.
+
+0:37
+Man har engang forsøgt sig med begrebet kvadrat formet matricer, men det mere internationale sammenlignelige navn er nok kvadratiske matricer,
+
+0:49
+der skulle være med i Tuses, hedder det på engelsk, og det går bare ud på, at det er matricer, hvor der lige mange rækker og søjler.
+
+0:56
+Det er med andre ord indgange end matricer for sådan nogle matricer.
+
+1:00
+Der kan man pludselig introducere to nye begreber, som kun giver mening for at bevare de matricer.
+
+1:07
+Det ene er, at begrebet enhvers matrix. Og tæt knyttet hertil er begrebet blevet terminalt.
+
+1:24
+Og vi snakker om en ordre nummer 4 og 5 kan blive ved 4 5.
+
+1:35
+Som er heftig læsning. Man kunne sagtens bruge en 3 4 5 6 uger på de to begreber.
+
+1:44
+Det gør vi ikke i det her kursus. Derfor mangler der beviser, og nogle af de sætninger, som jeg vil fremføre, er derfor uden bevis,
+
+1:55
+og det er altid lidt sværere at absorbere noget, hvor man ikke har været igennem beviset og set tingene arbejde.
+
+2:02
+Men i skader fraregnet opgaver, hvor I afprøver teknikkerne.
+
+2:08
+Så det håber vi hjælper. Sidste gang, da gennemgik jeg matrixmultiplikation da huske dagen.
+
+2:23
+Hvis man har et system af ligninger. Og lineære ligninger.
+
+2:36
+Men reelle eller komplekse tal, så Armand m ligninger under hinanden og en ubekendt med nogle koefficienter på evig exit blues osv.
+
+2:52
+Hentede en anden x end ved den første ligning, og nedenunder den der er de, kommer de andre ligninger så til den sidste ligning.
+
+3:04
+Man skriver op. Den hedder m. F. Hvor den ubekendte er tæt låst og hen til at lige a m n og x1 9 med bn.
+
+3:20
+Det kan godt være at nogle af de her herrer er 0'er, men det system kan man jo opfatte kan skrives.
+
+3:34
+Som en matrix ligning. Hedder at store Matrix' af.
+
+3:53
+Dannede en matrix med en enkelt søjle, der består af de ubekendte og så en enkel søjle, som består af højresiden.
+
+4:06
+Nu har jeg tegnet det hele omtrentlige, kvadratisk, men bredden er bare at denne søjle den er m høj,
+
+4:15
+mens højresiden er jo m høj, så man kunne sagtens lave forskellige varianter af den.
+
+4:22
+Hvor hvor de ikke ser helt ens ud, men det er sådan set ikke er hovedpointen her.
+
+4:29
+Vurderingen er, at vi kan hele skrive det hele meget kort.
+
+4:39
+Som overgang af ogs vine med band.
+
+4:45
+Man skal altid passe på med at lade så fortryllet af notation.
+
+4:50
+Man kan jo pakke alting ind i en ultrakort notation, og det er ikke sikkert, at den rummer meget viden.
+
+4:58
+Men her vil jeg faktisk sige, der er en vis dybde i at lave denne her notation, for det vil klart de m ligninger med en ubekendt.
+
+5:09
+Det kan godt blive lidt uoverskueligt. Det kan blive svært at skrive ned, hvis der er 10.000 ligninger med 10.000 ubekendte.
+
+5:19
+Men selv om der er, så har vi alligevel bare den struktur. Hvis der er en koefficient matrix, som ganget med den ubekendte bliver en højreside matrix,
+
+5:29
+så bliver det hele meget kompakt og fortæller om den matematiske struktur i.
+
+5:34
+Det er i virkeligheden et matrix end en opgave i Matrix drengene.
+
+5:43
+Vi har jo set noget af det før i dimensionen.
+
+5:52
+En der ser det her jo bare ud som et tal a gange en ubekendt x lige med et tal B.
+
+6:05
+Og det problem. Det ved vi godt, hvordan man løser.
+
+6:10
+Vil tallet af forskellig fra nul, og det er det jo nok, hvis man har en ligning overhovedet.
+
+6:19
+Så ja, formelt så formelt, så ganger vi med egentlig vildledende eller med ikke enhvers på begge sider af ligningen.
+
+6:31
+Så kommer vi med omvendt af reciprokke værdi og ganger på.
+
+6:42
+Fordi i en ligning der må man godt gange på begge sider af lighedstegnet med den samme størrelse a enhvers.
+
+6:52
+Og så har enhver jo den egenskab. Det er jo simpelhen definitionen på af enhvers, at jeg ikke en gang det bliver til et tal, og så står der.
+
+7:04
+Løsningen. Her.
+
+7:10
+Jeg har gjort pinligt meget ud af det, som I bare sagt når man dividerer varer med, men af hjertet rigtig formelt og god.
+
+7:21
+Teoretisk så ganger man på begge sider af ligningen med a enhvers, og det er jo faktisk det, vi har lyst til at gøre heroppe.
+
+7:30
+Som I kan forestille jer, så er det ikke så simpelt.
+
+7:33
+Men det er den proces som en proces hernede, som vi nu skal løfte op til et Matrix' niveau og foretage os,
+
+7:41
+hvad der i og for sig er det samme, nemlig at isolere eks ved på en anden måde og og dividere med med matricen af.
+
+7:55
+Så det er spørgsmål vi vil besvare. Det er kan vi gøre tilsvarende.
+
+8:10
+For en matrix lignende. Og jeg skal give svaret ja, hvis nogle betingelser er opfyldt.
+
+8:42
+Og der er to betingelser der skal være opfyldt for at man kan lykkes at sy vine i Tyskland på den super elegante måde med,
+
+8:50
+at man bare ganger en matrix på, og så er det hele overstået.
+
+8:57
+Nemlig at A skal være kvadratisk.
+
+9:14
+Hvis I har ivrigt fulgt med i det foregående, så vil det ikke chokere jeg, at jeg skal være kvadratisk,
+
+9:20
+fordi det er netop når A er kvadratisk, at man er sikker på, at der er en løsning.
+
+9:27
+Det er netop mig af at pavarottis at man er sikker på, at der er en løsning. Det er netop mig.
+
+9:33
+Jeg kan bare ja at se hvor der indlysende og derfor hvis man skal.
+
+9:38
+Hvis man gør den her proces, så får man jo netop bare det, som vi drømmer om.
+
+9:42
+Det er, at man går direkte over, siger altså er x lige mad?
+
+9:46
+Der er jo kun én løsning ud af det, så det er selvfølgelig en nødvendig betingelse.
+
+9:53
+Men den er ikke tilstrækkeligt. Jeg skal også kunne noget andet. Jeg skal.
+
+10:01
+Vi skal forstå, men vi skal passe på. Division med nul. Det er trivielt her, fordi hvis Vest Lille var nul, så havde vi jo slet ikke nogen ligningen.
+
+10:13
+Så det var irrelevant, og hvis vi havde en ligningen og b ikke var nul, så var det inkonsistent og så videre.
+
+10:21
+Men man får matricer.
+
+10:23
+Så er det en mere kompliceret regel og det som man den generelle station, som jeg er ude efter denne her, er simpelthen, at jeg skal være regulære.
+
+10:40
+Det vil sige nu forklarer jeg ordet regulære med en anden ting, som jeg ikke har forklaret endnu.
+
+10:45
+Nemlig at determinanten af alle skal være forskellig fra nul.
+
+10:52
+Og den den betingelse at den kommer vi til.
+
+11:03
+Men for nu vil jeg bare have jeg acceptere, at der kan være betingelser.
+
+11:07
+Der er en måde man kan teste sine Matrix' for, om den kan, og man kan danne en værdsat.
+
+11:13
+Der er sådan en enhver summen, hvor man kan stikke ned i den med og se om om den, om den er til det.
+
+11:21
+Dette enhver etablerer faktisk terminalt betingelsen, som jeg vil snakke mere om.
+
+11:26
+Men hvis de to betingelser er opfyldt. Så kan man danne.
+
+11:52
+Den matrix som hedder A enhvers og betegnes netop med den notation.
+
+12:02
+Definition. Dagen inverse.
+
+12:10
+Matrix. Age Minus varsler tillige en drastisk 1+1 Matrix A.
+
+12:29
+Har egenskaben. Det er præcis den egenskab vi.
+
+12:39
+Vi efterlyser, at hvis man ganger a enhvers matrixmultiplikation på A.
+
+12:53
+Så vil man få matrix et tallet og dette matrix et tal,
+
+12:59
+det kalder vi for i det her man selvfølgelig også får, hvis man ganger venteværelse på for højere.
+
+13:16
+Så nu bliver jeg nødt til at fortælle hvad I er.
+
+13:23
+En nogle gange. Kan eller betegnede.
+
+13:36
+Med et sådan et super et tal. Men nu er det dette ved at inuitternes notation.
+
+13:43
+Så vil jeg bruge ordet but i undskyld da han gjorde.
+
+13:52
+Ren gift. Kært barn har mange navne. Ikke for enighed i for identitet, et tal for et eller andet.
+
+14:07
+Så må jeg hellere tilføje denne her som den alternative.
+
+14:11
+Okay, så slår vi en. Så ret mig, hvis jeg kommer til at glemme det i forbifarten.
+
+14:18
+Er engang en matricen.
+
+14:24
+Der består af et thaler med diagonalen. Det vil sige at der står et taler.
+
+14:32
+I diagonalen og noget alle mulige andre steder. Kun ét taler i virginal.
+
+14:44
+Og den engang en. Og man kan trivielt tjekke for enhver.
+
+14:57
+Engang i en. Matrix A, der gælder, at hvis man ganger E på A, så sker der ingenting.
+
+15:14
+Og det havde man også for ud over Garang. Fra højre med lige så den den er enighed.
+
+15:25
+Det er simpelt hen et tallet i den verden, der består af engang en matricer og mus.
+
+15:31
+Multiplikation, der sker som ingenting, når man ganger på ligesom 1 tallet vip gangene.
+
+15:38
+Taber vi os alligevel, så bliver eneste matricen dig.
+
+15:40
+På matriklen bliver baren teksten selv, og det er den, man måler sig op imod, når man danner enhvers.
+
+15:47
+Så hvis man bare den omvendte matrix bunden på en matrix, så kommer man til inden matricen.
+
+16:08
+Så med hvad jeg minus, varsler der at vi løser matrix ligninger og gange ubekendte søjle lige med højerslev søjle.
+
+16:27
+Og nu er alting indgange i ind og. N gange 1.
+
+16:32
+Dvs. Højsæsonen også engang en matrix.
+
+16:39
+Den ligning er det løser vi ved at gange på begge sider med enhvers.
+
+16:57
+Og så fordi det er og bliver til eneste matricen.
+
+17:04
+Og så skal man lige selvfølgelig sikre sig, at eneste matricen gang sådan en søjle her.
+
+17:10
+Det kunne jeg også tilføje her. Opad og enheds matricen Garang.
+
+17:19
+En søjle af data bliver bare til en søjle med.
+
+17:24
+Den er helt. Den er helt gearet til ikke at gøre noget ved de matricer, der ganger på det.
+
+17:36
+Så får vi her i ganget vækst, så er de med Rex, og så bliver det minus første bind.
+
+17:47
+Så det er et vidunderligt redskab, som vi har fået her til at løse vores ligning.
+
+17:55
+Her står. Dagen entydige løsning.
+
+18:14
+Hvis det nu er nemt, så havde vi fået en gratis frokoster, fordi i sidste uge,
+
+18:20
+hvor vi jo har løst det her udligningssystem ved at Gouda, Gauss og Gauss så Gauss Gausel dagsorden så dog søgt afsat afskaffes.
+
+18:27
+Indtil jeg var færdig hér, så siger jeg, at når man, når man ganger der, varer med den Værløse matrix, og så er man færdig.
+
+18:36
+En ligning. Men selvfølgelig er der fodnoter.
+
+18:40
+Der er altid en slange i paradiset. Den ene er, at der står jo selvfølgelig masser af ledninger.
+
+18:49
+Her var ting, der skal bankes ud, men det var måske ikke så slemt for mig, da bare barnet.
+
+18:55
+Denne her søjle venter på den her kvadratisk matrix, men humlen ligger i at finde bag mine første, og det viser sig så at være.
+
+19:07
+Cirka jeg vil næsten sige præcis lige så besværligt som at daglig.
+
+19:13
+Så der er ikke noget. Der er ikke nogen gratis frokoster. Man kan godt tackle det.
+
+19:19
+Jeg må hellere giver et eksempel. Hvis man har en matrix som ser ud som indover over to år ind over kvadratrod 2 minus 1 over, bevarer du tog.
+
+19:58
+Det ene år bevarer du tog med en kendt og elsket matrix, som har mange andre gode egenskaber end dem vi skal bruge her.
+
+20:09
+Men fordi jeg har taget matematik pænt før, så kan jeg fortælle, at anvendes første.
+
+20:18
+Denne hedder indeholder forvarede to minutter senere bevarer noget tåge ind over på vej mod to, en opdrætter og to.
+
+20:30
+Og i løbet af i dag, så vil I også kunne gøre mig kunststykket efter, selvom der ikke stod en overbelagt to dér.
+
+20:40
+Når dagen er slut, så kan I finde inverse matricer til to gange to matricer.
+
+20:48
+Måske kan I finde det i hovedet, hvis dygtige har smurt jeres hjerner i løbet af den første uge.
+
+20:54
+Men. Man kan jo tjekke skal tjekke at det går godt gaa i gang to gange to matricer ud i Hovedet, så hvis vi nu bruger den idiotiske skovhuggere, red.
+
+21:08
+Så tager vi den hedder søjler og løfter ud af det.
+
+21:15
+Og hver gang ved jeg. Og så ganger en opera eller to på en op fra bliver en halv og minus en opvartet 2 grader for mine venner.
+
+21:25
+Det blev yderligere en halv. Så får vi et taget i øverste højre hjørne.
+
+21:30
+Hvis vi så spørger, hvad der kommer neden under et tallet, så tager vi den sammen.
+
+21:34
+På det første, men så ganger mine på i etagen nedenunder, og så går det ud, fordi man får plus og minus, og så udrydder vi hinanden,
+
+21:43
+for så får vi et med et nåle nedenunder, og den samme proces sker, hvis vi tager denne her søjle, brygger ud og ganger på her.
+
+21:53
+Så går det også ud. Så kommer der et nul, men i etagen nedenunder.
+
+21:58
+Der får vi netop en halv til en halv og et tal, så man kan tjekke næsten i hovedet, at a gange minus første gear to gange er to ens matricen.
+
+22:09
+Jeg fortalte jeg overhovedet ikke hvordan jeg fandt den her.
+
+22:13
+Den kom bare for flyvende. Men mændene jeg så jeg lover, at jeg vil fortælle, hvordan jeg gjorde.
+
+22:21
+Briten advarer Nu har jeg set, at det ikke er et tomt begreb, jeg har defineret her.
+
+22:27
+Norge matricer. Har en enhvers.
+
+22:38
+Men. Matricen B.I.G. Så mere som ser lysere uskyldige ud, hvor man siger inde over kvadratrod tove og minus en mindesten over kvadratrod 2 1.
+
+22:57
+Den har ingen med os.
+
+23:09
+Da han havde seks venner og en enhvers den må sidde udenfor i regnvejret og græde, den har ingen plads, og så kan man spørge Hvad er problemet?
+
+23:19
+De var begge to. To gange to matricer med lave elementer i diagonalen.
+
+23:26
+Men så er vi fremme ved, at de opfylder den første regel.
+
+23:30
+Men der er forskel på denne her regel. Så nu kommer vi til at skulle snakke om om det terminalt.
+
+23:55
+Via. Så der er noget der bestemmer om en kvadratisk matrix har lov til at erklære, at den har en erhvers.
+
+24:13
+At den er invertibel. Og den den der bestemmer det eller det den indikator som bestemmer.
+
+24:37
+Ved terminalen. Det ligger næsten i ordet.
+
+25:03
+Givet Matrix A. Så kan man tage spørge om dens determination, og det bliver altså bare et enkelt tal, snarere en kæmpestor matrix.
+
+25:15
+Så kan manden selv finde det terminalt indicator i den, og det er et vigtigt tal, der kommer ud, så det er ikke noget.
+
+25:23
+Det er ikke noget, der tilsyneladende rummer meget information, men det er helt, helt afgørende er et tal.
+
+25:36
+Blandt de reelle tal eller hvis man arbejder med komplekse tal, så bliver determinanten selvfølgelig et komplekst tal,
+
+25:44
+så jeg gentager lige, hvor det nu skal stå på en tavle et eller andet sted.
+
+25:50
+Hvis determinanten er forskellig fra nul, så har en enhvers.
+
+26:10
+Hvis determinanten er lig med 0, har ikke nogen enhvers.
+
+26:31
+Der er lidt fodnoter til det, for man kan godt forestille sig en proces,
+
+26:38
+hvor vi indbygge en parameter i vores matrix og så scorer på den parameter og ser determinanten nærme sig nul.
+
+26:47
+Mere og mere. Hvad sker der så med løsningerne til ligningerne og sådan noget?
+
+26:53
+Det kan jeg komme ind på til sidst, men lad os bare holde fast.
+
+27:00
+Indtil videre er det da meget dogmatiske udsagn.
+
+27:05
+Hvis det er Tiananmen, skal jo noget sammen med os, hvis det er Dinant nu er lig med noget, så er der ikke nogen egentlig en enhvers.
+
+27:14
+Så kommer selvfølgelig spørgsmålet Hvordan mor?
+
+27:21
+Det regner man. Determinanten.
+
+27:44
+Og jeg kunne godt giver en superform igen, for hvordan man bare ved, regner man med.
+
+27:50
+Denne super formel er lidt heftig, så derfor så bruger vi en lidt mere gennemtyggede udgave af det som.
+
+28:04
+Er en det bedre end en rekursive proces, så vi kan starte med at fortælle jer foran indgangen af egen matrikel, hvordan man gør.
+
+28:17
+Så er matricen jo bare et enkelt tal a.
+
+28:21
+Det var ligesom på en forgangen tavle. Og så var betingelsen jo bare, for den kender jo betingelsen, at hvis hvis a a.
+
+28:33
+Har jeg med i nordjyde, så nej. Så så er det selvfølgelig bare tallet, jeg sælger ved mig.
+
+28:40
+Det er jo ikke så informativt, vel? Så det bliver faktisk først interessant, hvis jeg fortæller jeg om, hvordan man gør for en Toronto Matrix.
+
+28:50
+Determinanten er en 2,2 matrix, hvor der her står 1, 1, 2, 2 1 og 2 2.
+
+28:59
+Den er det tal man får, hvis man siger af 1 1 gange 2 2 minus 2 1 gang 1 2.
+
+29:15
+Hvorfor er det? Det er det bare. Er det stadium eller man, så er det bare det.
+
+29:24
+Og der findes også. Jeg tror stadig i noterne en mere nej nej formet for en tre gange tre Dagsson ni tal i en tre gange 1 3 med tricks.
+
+29:37
+Og det bliver så normen i nogle kombinationer med plusser og minusser. Hvor hvor hver led i udtrykket har tre elementer ganget på hinanden,
+
+29:47
+og så kører man rundt og ganger på kryds og tværs i matricen, så vil jeg hellere sige for.
+
+29:56
+For enden større end 2. Så kan determinanten matricen bestemmes.
+
+30:12
+Ved at reducere problemet til udregning.
+
+30:31
+Af. Det er Terminator. Af mindre grad.
+
+30:45
+Det vil sige for en fem gange fem tricks, så kan man reducere det tal og udregne det der fire gange fire matricer.
+
+30:54
+Så det spørger ind Hvordan overvejer man så hvordan bare det reducerer manden til udregning af tre gange tre matricer?
+
+31:01
+Men hvad gør man med dem? Og det reducerer manden til udregning af to gange to matricer, og det står her, hvordan man gør.
+
+31:07
+Man kan simpelthen lave sådan en skade, hvor man hele tiden siger Jamen, så bliver det lidt mindre, og så skal man vide.
+
+31:13
+Og så bliver det lidt. Men og til sidst bliver det en fest. To gange 2 matricer.
+
+31:18
+Meget stort udtryk og og så bruger man den formelle, der står her.
+
+31:25
+Så det er strategien, men jeg har ikke givet af formuen endnu. For at kunne sætte det i system der skal vi havde indført et begreb.
+
+32:17
+Som hedder Snit matricen. Den.
+
+32:33
+Den går på følgende vis er en genganger i en matrix med elementer i øjet og består af en hel masse i øjet.
+
+32:52
+Vores første indlæg i taler ved den række vi befinder os i, og andet end da Kill J fortæller, hvilken søjle vi befinder os i en.
+
+33:04
+Er snik matricen. Der findes mange af dem.
+
+33:10
+Der findes faktisk inde i anden snit matricer for en given matrix eller at skrive er en af dem.
+
+33:19
+1. Snit Matrix. Med notation han, fordi den stammer fra den originale matrix af mænd, der får en lille hat på for at vise,
+
+33:37
+at det er ikke den originale, og vi sætter også et index på i øjet for at fortælle hvor snittet er lagt en snit eller E6.
+
+33:48
+Som sådan er. Den lidt mindre altså endelig Noreen, der er mere end minus en matrix.
+
+34:04
+Der fremkommer. Ved at slæbe.
+
+34:17
+En hel række. Og JD søjle.
+
+34:34
+Hvordan skal og her?
+
+34:42
+Jeg kan lige så godt sige. Første gang jeg så det.
+
+34:46
+Det var langt tilbage i 70'erne, hvor vi allesammen havde spraglet vest og mikrofonholdere og overskæg og sådan noget.
+
+34:55
+Name. Først gang jeg så det, så tænkte jeg Det er løgn.
+
+35:01
+Ej, det bliver ej. Hvem har fundet på det? Hvem har fundet på det?
+
+35:06
+Men det er faktisk rigtige sted. Vi har så D'Angelo og andre folk fundet på.
+
+35:12
+Vi er et eksempel på, hvordan man gør. Her er en uskyldig i tre gange tre matrix tog noget tre.
+
+35:25
+Vi har en. Lige nu står 7 minus 1 5.
+
+35:38
+Så lad os prøve at danne Snipe med 3 x 2 2.
+
+35:47
+Det går så ud på, at hvis vi zoomer ind på det 2 2 2.
+
+35:51
+Element dvs. Centrale elementer, og så forestiller man sig, at man har snuppet hele dagen søjlen som befinder sig i.
+
+36:01
+Over hele den række, som indimellem befinder sig i det vil sige mentalt,
+
+36:05
+så skal man kunne lægge en pind i en overligger og en pind over her, og så se hvad bliver der så tilbage?
+
+36:14
+Lyst. Og det bliver selvfølgelig en mindre en mindre sag, fordi man fjerner en hel række om fjerner en helt søjle.
+
+36:20
+Hvad bliver der så tilbage? Der bliver 2 og 3 og 7 og 5 til hvad?
+
+36:38
+Og vi kan prøve noget andet. Vi kan tage en sådan er lidt mere skæve snit med tricks.
+
+36:46
+Den bliver siddende 2,3, så vi rykker en del med ind her, så den slidte matrix, som har hjemsted på på den her plads.
+
+36:56
+Den går ud på, at vi fjerner hele den søjle. Væk er der en solid og også Veltman en række her.
+
+37:04
+Og hvad bliver der så tilbage? Der bliver 2 noget.
+
+37:11
+7. Og minus en.
+
+37:22
+Og du kan godt strikke alvor en brandalarm og endelig at sætte et blow ovre i kommer igennem dørene på folk et meget godt tidspunkt og holde pause på.
+
+37:30
+Så mens vi har det her på bane, så vi holder lille pause pauserne.

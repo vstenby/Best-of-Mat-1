@@ -1,0 +1,992 @@
+0:04
+Ja, Go morgen vi har to forelæsninger tilbage på med dit, og den ene er i dag og den næste er på næste mandag lille dag.
+
+0:16
+I denne uge har vi en tema øvelser om skovbrand,
+
+0:20
+og hvor man skal bruge Gauss sætning i planen til at studere skovbrande med eller større problem er programmet på denne måde,
+
+0:29
+at vi mangler på nuværende tidspunkt kun én ting i vores pensum, og det er Stokes sætning.
+
+0:36
+Og næste gang næste mandag skal vi gå en hel masse i dybden og prøve at forstå, hvad Stokes sætning i virkeligheden handler om.
+
+0:45
+Men i dag starter vi med at give en kort introduktion til Stokes.
+
+0:50
+Sådan så, at I er klædt på til at regne den opgave, der er til sidst i øvelses programmet.
+
+0:56
+I dag sørger programmet for jer i dag.
+
+1:00
+Det er så, at i øvelses programmet, der starter med nogle opgaver med Gauss, som vi ikke blev helt færdig med.
+
+1:08
+Dem må I diskutere grundigt med jeres klasselærer, og derefter så er der repetition, og det er nogle eksamensopgaver.
+
+1:17
+Der er tre styks, som I skal prøve at regne, og programmet for mig er som sagt at introducere jer til jokes,
+
+1:26
+sådan at I er klar til i dag, og derefter regner det meste af eksamens sættet fra sidste år.
+
+1:34
+Så nu kan I godt begynde at få lidt eksamens feber, og vi skal prøve at skaffe os lidt overblik over alt det,
+
+1:43
+vi har været igennem, og det gør vi også på næste gang. Næste gang dybt nede i Stoke sætning og så lidt overblik over det, vi har haft med så felter.
+
+1:51
+Men altså først så skal vi have den sidste store sætning.
+
+1:55
+Det er jokes. Den skal vi have på plads. Så når vi siger, at der er givet et væk, så fælt.
+
+2:11
+Altså et væg, så v og en flade af.
+
+2:21
+Og så stocks altså Stokes sætning. Den handler om fladen.
+
+2:33
+Og om fladen ramte kurve. Og det er jo den vi plejer at bruge et blødt det så smukt.
+
+2:48
+Det er en åben, skal vi lige understrege her.
+
+2:52
+I modsætning til Gauss, der handlede Gauss, så sætningen handler jo om lukkede flader, så her taler vi altså i dag om åbne flader.
+
+3:02
+Og lad os lige prøve at tegne, hvordan sådan en måske kunne se ud. Selvom vi prøver at tegne her.
+
+3:17
+Så I kan godt se at vi har sådan en åben flade her som sådan ligner måske lidt en hat.
+
+3:24
+Eller hvad? Hvad ved jeg. Og så har vi altså en rank kurve af den Ranko, der afslutter denne åben flade.
+
+3:33
+Den kan jo se ud på mange forskellige måder, men med det eksempel, jeg har tegnet her, har jeg altså her Frank Coren f.
+
+3:43
+Så det er som Stokes sætning så siger det er, at hvis I er ude efter cirkulationen langs strandkål.
+
+3:59
+Og det har vi så skrevet op her ikke? Og I kan godt huske sådan en en circulation.
+
+4:09
+Det er jo et tangent, selv cover integral, og det har det symbol, som står her.
+
+4:16
+Og det er storke siger er, at dens cirkulation af den kan udregnes som en flux.
+
+4:25
+Nemlig at rotationen er ved at hamre.
+
+4:33
+Som man råber i skoven, får man svar. Det håber jeg også, jeg får til eksamen fra.
+
+4:38
+Ja, så er det her sætningen.
+
+4:44
+Og det er der. Sådan er pudsigt ved den. Det er jo altså her har I et cover integral og det jeg har i et flade integral.
+
+4:53
+Eller sagt på en anden måde. Dette er en cirkulation, og det er en flux, så storkors er sagen.
+
+5:00
+Sætning der bygger bro altså ligesom vi så at Gausel sætning var en sætning der byggede bro, nemlig mellem et rum integral og så et flade integral.
+
+5:12
+Eller sagt på en anden måde det indre af et massivt område og dens overflade.
+
+5:18
+Så har jeg altså samme fænomen i dag. Altså et forhold imellem en flade og dens rand kurver, et kurve integral og et flade integral.
+
+5:30
+Så det er det, vi skal dyrke. Se i dette da indgår der d.
+
+5:42
+E. Og E. Det er jo et symbol for tangent enheds vektoren på kurven.
+
+5:52
+Og så indgår der et EM og EM. Det er en enheds normalvægt, så overfladen er altså en enheds tangent, lægter og en enheds normalt vektor.
+
+6:03
+Det er de to eneste vektorer, der optræder her i integralet. Når man skal bruges Stokes sætning, så skal der være en konvention der er opfyldt.
+
+6:15
+Denne hedder højere konventionen, så det skriver vi lige her.
+
+6:22
+Altså højere. Konventionen skal være opfyldt.
+
+6:38
+Og så skal vi lige prøve at forstå hvad menes der med højere konventionen, og næste gang da går vi dybere ned i det her, og nu må jeg undskylde i dag.
+
+6:47
+Der bliver jeg så lidt poppet, og det er bare fordi jeg vil gerne have en indledende fornemmelse.
+
+6:54
+Intuition a mad høje konventionen går ud på at en flade.
+
+7:00
+Den har altid en orientering. Altså hvis I har en flade her også, betyder denne her vej ud?
+
+7:06
+Eller betyder denne her vej ud og det så indledes normalt vektoren.
+
+7:11
+Altså det valgte eneste normale mennesker fælt. Det er det, der bestemmer, hvad vi regner for en positiv gennemløb.
+
+7:19
+Retningen for at få fladen. Og lad os nu sige, at det tegner jeg min normale enheds specter i det punkt.
+
+7:30
+Så kan jeg godt se, at det der er positivt, er, at strømmen går nedefra og op igennem den flade.
+
+7:38
+Det vil sige, at ved vi også godt, hvordan alle de andre enheds normalt vektorer, og hvordan de skal vinde.
+
+7:45
+F.eks. Tegner jeg den her. Så er vi her.
+
+7:52
+Og ja, den peger ud mod jer herinde, der har vi den, så i hvert punkt har vi altså sådan en ind.
+
+8:02
+En enhed står med et vector, skal vi kalde den for enedes normalvægt om manden.
+
+8:08
+Det kan også. Så nu skal I se det. Hvis kan vi sælge?
+
+8:12
+Her har vi enheder som F. Normalvægt som manden der står her.
+
+8:16
+Intet står med et vægterne går nu en tur ned over fladen og ned til randen og så stå hernede på randen.
+
+8:25
+Der står eneste normalt vektoren på den måde her.
+
+8:28
+Og når det er står med et vektoren kigger ned på randen, så skal strømmen gå mod venstre, som kan se, at han står og kigger ikke.
+
+8:38
+Og så skal det altså være til Venstre. Det vil sige, strømmen går den vej her.
+
+8:43
+Fluks går op igennem strømmen, går denne vej, og det vil sige, hvis vi skal tegneres enheds normalvægt, så så ligger den dér i.
+
+8:54
+Og hvis altså vi så vores ven gik ned og kiggede her, jamen så så enheds tangent vektoren ligger jeg så her og her.
+
+9:03
+Der ligger altså her. Og så ligger den altså her.
+
+9:08
+Og så har vi altså her en både en orientering af fladen nedefra og ud,
+
+9:15
+og så har vi en orientering af den der Ranko åen, og den har givet det høje konventionen meget logisk.
+
+9:25
+IK Højer konventionen. Du skal kigge til venstre. Hvad sker der, hvis man får lavet fejl med orienteringen?
+
+9:38
+For dette betyder jo, at man skal sørge for at parameter,
+
+9:41
+fremstilling af rand kurven og parameter fremstillingen af fladen er i overensstemmelse med hinanden.
+
+9:47
+Kommer man til at lave en fejl? Det der sker, er bare, at det endelig en foretager en fejl.
+
+9:53
+I stedet for at MINUSTAH har man pludselig omvendt i sit resultat. Men det er selvfølgelig også vigtigt så meget om det.
+
+10:01
+Nu giver vi så et eksempel på Stokes sætning. Og lad os sige at vi har givet væk, så feltet ved er øy kommercielle.
+
+10:24
+Den er den er y x og den er by.
+
+10:30
+Og så er den ikke, siger Anden. Og så har vi givet en lukket kurve.
+
+10:48
+Og den kunne vi lokalt for eksempel kalde for kog og den koge den viser jer.
+
+10:55
+Den viser jeg på en tegning i eksil planen.
+
+10:59
+Nu skal jeg sidde her. Her har vi x og y og z aksen.
+
+11:11
+Kære tegne ring. Så hvis I altså I kan godt se at vi kigger xtra z aksen og ned i exit planen, så sådan en vinder.
+
+11:20
+Vores koordinatsystemet er i dag. Og så kigger jeg her på.
+
+11:26
+På 1, 2 og 3.
+
+11:32
+Både på ikke saksen og på y aksen.
+
+11:40
+Og så den. Koder jeg vil betragte, det er altså den kurve I ser her, som består af 4 stykker.
+
+11:57
+Dem kan vi kalde for et CO2 kort, tre og fire.
+
+12:06
+Og opgaven den består i at vi skal bestemme.
+
+12:14
+Cirkulationen langs kog er ved gange e det mel.
+
+12:24
+Så det er altså en cirkulation, et genialt code integral langsmed en lukket kode.
+
+12:33
+Så metode et. Den består i at vi laver fire.
+
+12:51
+4 cure integraler og lægger dem sammen. Og det kan jeg så antyde ved at prøve at regne det første ud.
+
+13:11
+Så vi betragter altså nu, at det er den del af kuren, som jeg har kaldt for ét.
+
+13:19
+Og så ved jeg godt, når vi skal lave et code integral hjemmesejre. Skal vi har lavet en parameter fremstilling, så skal vi starte med det.
+
+13:28
+Altså på fremstillingen, for kog et. Og den skal vi kalde den for er af U lige med.
+
+13:44
+Og så skal vi jo huske hvordan vi laver parameter, fremstillinger for rette linjer.
+
+13:50
+Det er jo noget med, at der skal være et begyndelsen punkt, og så skal der være en retning svigter.
+
+13:55
+Så lad os sige, at her. Da kan vi betragte det dette begyndelse tidspunkt, og så er jeg så sige, at nu vælger vi vores.
+
+14:07
+Orientering, så vi går den vej her. Så vil jeg sige begyndelsen punkter, det må så hedde Extender en by.
+
+14:13
+Den er en z. Den er nul. Plus EU.
+
+14:22
+Jamen så kan vi jo bare bruge hele denne her vægtere, som går herfra og her til og ikke har set den, har en første koordinat på 2.
+
+14:31
+En anden koordinat på nul og en tredje koordinat på nul komma.
+
+14:40
+Og så lægger vi det lige sammen her, og så får vi 1+2 ud.
+
+14:49
+Og så får vi en den der giver bare nul, der har nul og nul.
+
+14:55
+Så dér har vi parameter fremstillingen. Og så får vi også brug for dens.
+
+15:05
+Er dens dens retning stik så ikke. Denne hedder så er mærket.
+
+15:12
+Den får vi brug for. Og vi skal altså differentiere efter EU og den giver så 2.
+
+15:22
+Og den giver nul og den giver nul. Så nu kan vi beregne.
+
+15:33
+Det er tanken Shell Co integral er ved gange en Demy.
+
+15:43
+Og vi skal lige huske her. Det uge vi har skrevet her, det løber jo fra nul til en.
+
+15:52
+Fordi vi løber lige præcis den vægtere igennem, som vi har tegnet dér, og så siger formlen for et cool integral.
+
+16:02
+Det siger jo, at så skal vi have grænserne for parameter fremstilling på.
+
+16:06
+Og det var altså 1 0 til én. Og så skal vi have væk topfeltet, som er taget på vores kurve.
+
+16:16
+Dér har vi kurven. Dér har vi ikke så feltet. Så er jeg førstkommende anden by gange med ex.
+
+16:26
+Og det er altså en, der skal ganges med 1+2. Det giver som alle to er vores første koordinat, så der har jeg altså en søjle med en + 2.
+
+16:38
+O. Så har vi vækster feltets anden koordinat som var ü.
+
+16:49
+Og så skal vi kigge på anden koordinaten for parameter fremstillingen. Den er bare en.
+
+16:57
+Og så endelig så var tredje koordinaten.
+
+17:01
+Det var så eks i anden, og så er vi tilbage til første koordinaten.
+
+17:07
+Den er så en plusord i anden eller 1+2 plus to anden sådan dér,
+
+17:16
+og den skal så prikkes med tangent vektoren hastigheds vektoren, som bare var 2 0 og nul.
+
+17:28
+Og så er det jul. Og så skal vi altså have prikket.
+
+17:33
+Og da kan I se. Det er kun øverste etage, som giver noget, der er forskellig fra nul, altså fra nul til én.
+
+17:40
+Og så får vi altså 2 plus 4 o.
+
+17:45
+Det er jo. Finder en stamme funktion.
+
+17:54
+Og så har vi 2 U plus 2.
+
+17:58
+O i anden mellem nul og ét og det giver fire.
+
+18:04
+Sådan. Og så sig på samme måde.
+
+18:16
+Med kort, to kort, tre og fire.
+
+18:29
+Og det gider vi så bare ikke.
+
+18:33
+Fordi nu har vi fået nok. Vi har vidst det et eksempel. Og så skal vi gerne se hvorfor at det er smart nu med Stokes sætning.
+
+18:42
+For altså vi havde jo her. Vi havde jo altså her de syge planen.
+
+19:02
+Den kode tegnede på den måde her og I kan altså se.
+
+19:09
+Vi vil lave parameter fremstillingen sådan at vi altså har denne omvendte retning.
+
+19:13
+Der har vi allerede startet med at. De sidste år er der skåret, så han ved hvad kalder man mode modtryk?
+
+19:33
+Vi må hellere lave det. Sådan er det ikke. Se, nu kan vi kigge på det kræftramte, der bliver omkranset af den af alt den dér firkant.
+
+19:44
+Så nu går jeg faktisk ind i stedet for og kigger på den flade, der ligger her.
+
+19:56
+Og der kan jeg så se F. Kaare K som ren kurver.
+
+20:08
+Og det må jo så betyde, at vi kan få gang i Stokes sætning her.
+
+20:16
+Men så skal vi først have en parameter fremstilling for F og sådan et kvadrat er meget nemt at give en parameter fremstilling, for så lad os få den.
+
+20:29
+Altså en p fremstilling. For den F-4 har tegnet dér vi kan også.
+
+20:42
+Vi kan kalde den for er o.k. Mave. Og den er så nemt som følgerne U.
+
+20:50
+V og nul. Og hvor hun bare skal løbe fra en til tre, og det samme skal vi fra et til tre.
+
+21:02
+Det er så nemt som man skulle tro at det var løgn. Der har vi den.
+
+21:08
+Og nu skal vi så se, hvordan kan vi så få bragt staus på plads i år?
+
+21:14
+Nu skal vi have kigget på den normale effekter, som svarer til den parameter fremstilling her,
+
+21:23
+så nu finder vi altså en normal vektoren den, der hedder store 1.
+
+21:32
+Kan jeg huske hvordan man finder dem? Man siger det.
+
+21:44
+Det har i parameter fremstillingen for en flade, og nu skal vi have den normalt digter.
+
+21:50
+Ja tak. Krydsproduktet mellem de to afledte bliver der sagt. Altså er mærket efter uge.
+
+21:57
+Krydset med er mærket efter vi. Og dér har jeg jo den parameter fremstilling som vi skal bruge nu.
+
+22:08
+Altså hvis vi differentierer den efter brug, så får vi jo en nul og nul.
+
+22:20
+Og så skal vi lige have differentieret efter V. Så giver den nul.
+
+22:25
+Den giver en. Den giver nul. Og så regne den ud den gange med den er nul også nul.
+
+22:43
+Den ganget med den minus den ganget med nul. Også 0.
+
+22:49
+Og så har vi en gang i 1. Minus 0 gange 0 1.
+
+22:55
+Så det var altså en konstant normalvægt, så som vi har det givet på korund.
+
+23:02
+Og nu kommer det spændende måned. Den normalvægt trøje er i overensstemmelse med højere konventionen, så nu skal vi altså lige se.
+
+23:11
+Hvordan ser vores normalvægt manden ud? Vi kan sætte denne ind i begyndelsen, gå ned, og så kigger han ned på kurven.
+
+23:21
+Der løber strømmen til venstre. Læs Hele vejen rundt går det her hen og kigger hele vejen rundt.
+
+23:30
+Strømmen går til venstre og højre konventionen er opfyldt. Så det vi nu kan sige er så at det integrerede vi har gang i på et.
+
+24:00
+Ved gange i det my. Kan nu findes som rotations slusen, som er repræsenteret her.
+
+24:21
+Så det vil sige at nu skal vi så lige er fundet rotationen af dette væk så fælt.
+
+24:29
+Så altså er rotationen er V, og den laver jeg jo med det her mærkelige krydsproduktet, det er det ex.
+
+24:41
+Det er det. Og så er det sæt. Så skal krydses med min vægt så fælt som vistnok var y ex.
+
+24:56
+Og så var den y, og så var den ikke sine. Og så skal vi i gang med noget differentiation.
+
+25:10
+Jeg skal differentiere med Y her. Den giver nul. Og som minus de francium set her.
+
+25:17
+Den giver også nul, så vi har nul her for første koordinaten, og så skal vi differentiere med Z.
+
+25:25
+På første sal. Den giver nul, og så skal vi se minus differentiere med X her.
+
+25:31
+Den giver minus to ex. Og så endelig skal vi sige differentiere med X her.
+
+25:40
+Den giver nul og så minus de frenzy siger med Y her.
+
+25:45
+Den giver som min nu 6. Så det var lige en mellemregning jeg brugte for at komme videre med mit integrale her.
+
+26:00
+Det er jo et flade integral, sådan et flux, og derfor er det et dobbelt integral.
+
+26:11
+Og min parameter fremstilling. Den havde jo i begge tilfælde altså både U og V.
+
+26:18
+Den havde jo grænserne 1. Og 3.
+
+26:25
+Og nu skal jeg så have rotationen taget på væg tag feltet, nabohøring, rotationen taget på min parameter fremstilling og det vil sige her.
+
+26:38
+Den bliver selvfølgelig ved med at være nul, og så skal vi have minus 2 ex, og så skal vi kigge på,
+
+26:47
+hvad jeg første koordinaten, altså eksporten af denne parameter sidder med ud, og derfor får jeg så minus to i.
+
+26:57
+Og den nye vægt så fælt. Det har minusvækst på tredje koordinaten, og jeg går igen op og kigger på den øverste.
+
+27:05
+Det vil sige, at den er meningsfuld. Og den skal vi så har ganget med vores store 1, som vi har her.
+
+27:21
+Den er nul, nul og én, og så får vi det ud, da vi.
+
+27:33
+Og det kan vi lige forenkle lidt her. Sådan at der får vi et prik produkt, da de første to led giver nul og så det sidste.
+
+27:43
+Det giver minus u det jo. Minus flytter vi ud foran integrationsegnede.
+
+27:53
+Og så har vi altså en skralde for en til tre. Vi finder en stamme funktionen til U Deer UUS i enden over 2, som skal køre imellem ét og tre.
+
+28:05
+Og så er det jo. Uge Jane den 9.
+
+28:10
+Dan giver sig 9. Halve, og der skal vi så trække en halv fra, det vil sige det, der står her.
+
+28:17
+Det giver 4 og 4 4 integrerede mellem 1 og 3.
+
+28:22
+Så skal vi bare gange med 2. Der er et minus foran, og der har vi altså så cirkulationen langs dette kvadrat.
+
+28:34
+Jeg har tegnet, som jeg nu har regnet ud som en rotations slugt.
+
+28:41
+Og den vej den er så i dette tilfælde negativ. Sådan er det bare.
+
+28:50
+Der vil stå sætning. Hvad siger du så? Hvorfor jeg må forkorte prikproduktet, altså denne gang med den det giver nul rynker og minus to gange med nul,
+
+29:04
+giver nul og så mine to gange med en der giver minder.
+
+29:07
+So at vinde stukket. En cirkulation kan erstattes af en rotations flux, hvis I vil have den i ord.
+
+29:23
+Det var det, og så går jeg lige om lidt. Hvad siger du så? Jeg er sikker på, at det vil gå af.
+
+29:29
+Ja, altså den hoppede jeg lige lidt hen over.
+
+29:33
+Det var fordi den bliver en konstant, og når du så integrerer en konstant imellem grænsen, så skal du bare tage forskellen på grænsen.
+
+29:42
+DR 3 minus 1 eller 2 gange med den der. Altså, jeg forstår godt, hvad du siger.
+
+29:47
+Altså, det er jo altså det, der står så minus 1 til tre, og så står der 4 ved.
+
+29:56
+Det ved jeg ikke. Nej, 4. Skal du stå her?
+
+30:01
+Og det siger jeg. Så finder du en stam funktion. Den er så 4 ved, og du har et minus foran, og så har du et træ, og den giver så 12 minus 8 12 min.
+
+30:13
+Og siger den som endnu sjovere. Så er det må du undskyld?
+
+30:21
+Ja. Er det ved og så minus 8, og så skal da.
+
+30:27
+Her står det. Vi er sådan. Tak! Giver det ikke mine?
+
+30:43
+Ja, det gør den færdig.
+
+30:49
+Så sætter jeg lige lidt tavler og begynder på eksamens sættet.
+
+30:54
+Nej, vi kan godt gå start her. Vi starter nu med eksamensopgave sættet, og det har jeg med her på.
+
+31:11
+Sæt nu. Så her har jeg altså det eksamensopgave set som jeres studenter kolleger fra sidste år sad og svedte over den trettende maj den 13.
+
+31:44
+Maj. I skal op den den 14. Maj. Men inden man går i gang med Sondex eksamen selv, så kan man jo lige læse det,
+
+31:55
+der står op i det, man kalder for præambel, men altså mødet med reglerne.
+
+32:01
+Det er den samme smøre, som der var i december. Så hvis I kender den smørre, så kan jeg måske hurtigt læse den.
+
+32:09
+Men det var noget med det der mellemregninger, og hvad man må og ikke må, og hvor lang tid den bare den.
+
+32:13
+Saksik det så. Den kommer til at se ud på samme måde i år.
+
+32:19
+Så der er ingen ændring. Men det bliver ikke den samme eksamensopgave, som der var sidste år, så den vil vi bruge lidt mere tid på at kigge på.
+
+32:29
+Så her og gav ét en funktion f to reelle variable er, for så står der ekstra menu forskellig fra 0,0.
+
+32:38
+Gide ved det udtryk dér hvor der står y over ikke sit andet forsøg.
+
+32:43
+Jan. Og opgave et vi betragter tre punkter i exit plan, nemlig A, der er 0,1 B, der er 0,1 minus 1 og se da en halv kommer en halv.
+
+32:59
+Og så står der, at netop to af dem ligger på samme niveau. Kur for F.
+
+33:04
+Og vi skal nu se, om vi kan finde ud af, hvad er det for to ud af abbeder set, som ligger på den sammen?
+
+33:11
+Og det passer jo os, hvis man skal svare helt præcis.
+
+33:15
+Så viser man, at to af dem ligger på den samme, og at den tredje ikke gør det, for der står netop 2.
+
+33:22
+Så der er ikke andet for, end at vi må prøve. Vi er altså i gang med at opgave et.
+
+33:33
+Og vi er i gang med spørgsmål nummer et.
+
+33:40
+Niveau Q8 det handler om hvor højt vi er over syv planen, når vi bruger den funktions forskrift, så er vores eneste chance.
+
+33:49
+Det er bare simpelt hen at udregne F i de tre punkter. Og så har vi altså f a punktet A, som var f af nul komma 1, og da har vi så bygge for oven.
+
+34:06
+Det vil sige den er 1, og forneden har vi ex i enden.
+
+34:10
+Det vil sige det nordlige, anden plus en anden. Og så står der 1 divideret med 1.
+
+34:15
+Og så har I Stunde 1 der. Det gik jo godt, og så bor vi med Frb, som jo er f.
+
+34:28
+Af 0,9 nu se og vi skal have by for oven.
+
+34:35
+Det vil sige nu kommer der til at stå Minos egen dør, og så har vi forneden ikke sige andet.
+
+34:43
+Det vil sige nul i anden. Kluges øl hjerne, som er mit nu sind, det vil sige at det er minus 1 i anden.
+
+34:55
+Vi har så minus 1 i tælleren og +1 i nævneren, og så får vi minusser.
+
+35:04
+Nu kan vi i hvert fald se, at det er ikke A og B, som ligger på samme niveau kurver, fordi så skulle de jo haft samme højde over planen i det punkt.
+
+35:16
+Så nu bliver det jo spændende med se om den hører sammen med A eller B.
+
+35:25
+Og der har I så f. Af en halv komma en halv.
+
+35:33
+Y er en hal, så den kommer op i tælleren og så i nævneren.
+
+35:39
+Der skal vi så have X i anden. Det er så en hal i anden og plus nye Jane.
+
+35:46
+Det er også en hal i hjernen, og så får vi altså for oven en hal, og forneden der får vi en fjerdedel en fjerdedel, som giver en hal.
+
+35:55
+Så står der en hal dvd med en hal, og den giver sig i. Og her kan og så kan vi altså skrive som konklusion.
+
+36:08
+Altså vi ser, at A og C ligger.
+
+36:22
+På niveau kurven. Svarende til højden man.
+
+36:36
+Og så skriver vi for at være helt tydeligt, hvilket det ikke gør.
+
+36:47
+Og så har vi fået sparrede helt præcis fra det stillede spørgsmål. Og.
+
+37:04
+Så går vi til spørgsmål 2 i opgaven og står der.
+
+37:10
+Ja, det er hurtigt. Altså vi har givet et en gradient.
+
+37:16
+Kan I se den, skal vi ikke selv regne ud. Har vi bare fået forærende?
+
+37:21
+Men det vi skal, det er, at vi skal redegøre for, at EHF ikke har nogle stationære punkter,
+
+37:31
+og at det vi så kan sige er, er altså for et stationære punkt.
+
+37:45
+Ekskone Mary deler. At gradient den for F.
+
+37:56
+I Ex Company. Er lig med.
+
+38:01
+Nul komma nul. Det er jo sådan et stationært punkt er defineret.
+
+38:09
+De to partielle afledte skal begge to Bali med nul. Det er altså det vi skal prøve at regne på nu.
+
+38:20
+Og altså vi kigger på første koordinaten for at få gradient den er ikke, og der gælder jo altid, at en bryg er lig med nul.
+
+38:31
+Netop når dens tællere er lig med nul. Så dette kan vi altså skrive meget nemt kan også den første betingelse.
+
+38:41
+Det er så, at tælleren, som er det mit punkt dette ikke er mine to Eksjö skal være lig med nul.
+
+38:53
+Og her gælder der jo produkter reglen, at hvis et produkt er lig med nul, så skal en af faktorerne være lig med nul.
+
+39:01
+Så dette er altså ensbetydende med, at enten så skal X være lig med nul.
+
+39:08
+Eller at by skal være lig med nul. Det er de to muligheder der.
+
+39:17
+Så det var et studium af.
+
+39:21
+Første koordinaten for Grete Jensen, og nu kigger vi så på anden koordinaten, og her hedder tælleren jo ikke sige anden mere.
+
+39:29
+Sylvian er lig med nul. Altså ikke sige andet minus Y i anden skal også være lig med nul.
+
+39:43
+Så nu har vi altså fået skrevet det lidt op. Og nu kan vi begynde at studere den betingelse og den betingelse og så sætte den sammen med betingelsen.
+
+39:53
+I nummer 2 og kan vi se, at hvis vi nu bruger X lige manuelle.
+
+40:05
+Se hvis ikke så lige med noget, så kigger vi på den anden betænkes, som også skal være opfyldt.
+
+40:10
+Så har I nul på førstepladsen. Og så står der minus Y i anden skal være lig med nul.
+
+40:18
+Og det er jo ensbetydende med at så skal I være lig med nul.
+
+40:24
+Så her står der altså, at hvis X er lig med nul, så skal Y også være lig med nul.
+
+40:31
+Men hov, der har vi jo et problem.
+
+40:34
+For kan I se, at der var en oplysning i allerøverste linje for denne opgave, hvor der stod X kommer y skal være forskellig fra 0,0.
+
+40:43
+Og hvorfor skatten? Det jo, for ellers kan I se, at så har vi nul i tælleren, for funktionen er jo ikke så hjernen forsøgene.
+
+40:52
+Så det er simpelt hen noget, der handler om dens definitionsmængde. Funktionen er ikke defineret i 0,0.
+
+40:59
+Så når jeg nu har fundet æg skal være nul og yes skal være nul, så kunne det godt se ud som om, at det er et stationært punkt.
+
+41:07
+Men det er det jo ikke, fordi det er slet ikke med i definitionsmængden, så det kan vi nu skrive her.
+
+41:12
+Men. 0,0 tilhører ikke, og det gjorde man sådan her.
+
+41:21
+Definitionsmængden for S. Så det var den første mulighed der nu er studerede færdig, og så studerer vi på den anden mulighed, nemlig yderlige manuel.
+
+41:39
+Og så kigger vi igen på betingelse nummer 2 ved syge den er nul,
+
+41:45
+så skal ikke sige anden være lige mig nul, og det er jo ensbetydende med, at X skal være lig med nul.
+
+41:53
+Så vi er altså havnet i samme situation, at den anden betingelse for os kun opfyldt, hvis ikke sorry de begge to er 0,0.
+
+42:03
+Og så kan vi bare skrive det her. Og hermed set.
+
+42:14
+At der ikke er stationære punkter.
+
+42:24
+Sådan. Og det var spørgsmål 2 i opgaven.
+
+42:34
+Så går vi til spørgsmål nummer 3.
+
+42:41
+Og da en lille indledning til det, fordi der står nemlig, at nu betragter vi den afsluttede og begrænsede pump mængde m.
+
+42:52
+Som er mængden af de punkter, hvor en anden er større lige med én og mindre end eller lig med fire.
+
+43:01
+Opgaven har hjulpet os lidt med at sige, at det er en cirkel ring.
+
+43:08
+Og så kan vi jo lige prøve at tegne den, og I kan altså se uligheden til venstre.
+
+43:18
+Står jo for Radio's lige med én, mens uligheden til højere firetal står for Radio Slimet.
+
+43:24
+2. Så den situation vi har den mængde inden vi kigger på, den får vi altså, hvis vi tegner en cirkel med radio cm.
+
+43:37
+Den har ideer og så tegner vi en cirkel med.
+
+43:44
+Radio 2. Den har vi så her. Og det der hedder EM er ringen der.
+
+44:05
+Og vi skal altså bestemme det globale minimum og det globale maksimum er EPT på EM, og det vil I,
+
+44:12
+så hvis de har rigtig god tid, så bør vi skrive følgende, da F er kontinuert og EM er afsluttet og begrænset.
+
+44:39
+Så har F. Globalt.
+
+44:47
+Marks og min km. Og det er en sætning som står i en orden.
+
+44:58
+Og det er altså basis for, at vi kan sige, at jazz skal være et globalt maksimum, og der skal være et globalt minimum.
+
+45:08
+Og så kan vi også sige, at da F ikke har stationære punkter.
+
+45:22
+Så må det globale maksimum og minimum.
+
+45:34
+Findes på randen. Og i dette tilfælde med denne unge cirkelrund.
+
+45:48
+Eller er undskyld cirkel ren. Den har jo 2.
+
+45:53
+Arme. Det kan også. Den har den indre rand, og den har den ydre, så vores globale maksimum og minimum enten på den indre cirkel,
+
+46:03
+eller også må det ligge på den ydre cirkel. Så nu skal vi se, hvordan vi kan.
+
+46:10
+Nemmest muligt får undersøgt dette, og vi kan jo prøve først, men den indre cirkel.
+
+46:20
+På den indre cirkel gælder. Og vi kigger på.
+
+46:32
+Vi kigger på forskriften for EHF og det der jo er tricket her.
+
+46:39
+Det er jo at nævneren denne hedder jo ikke sige andet blev syg i anden, og det er jo bare juice.
+
+46:48
+Så det vil sige, at nævneren fra funktions forskriften, den giver en hele vejen rundt her, så det vil altså sige vi kan sige f.
+
+46:58
+Eks. Company den er så y divideret med radius, som er en.
+
+47:13
+Og kan I se, hvis du nu studerer, hvor har F så maksimum og minimum på den indre rand?
+
+47:20
+Altså bagefter skal vi kigge på den ydre, men nu kigger vi på den indre rand først, og det sige hvornår er Y størst?
+
+47:27
+Kødet var en rund bom. Det er den der. Og det er mindst.
+
+47:35
+Så nemt er det. Altså indre rand ellers her og nu er vi altså i gang med at studere den indre cirkel ligger os, og der kan vi altså sige har Marx.
+
+47:54
+Lige med ind i punktet. Og det var jo det punkt der ligger her i punktet 0,1.
+
+48:10
+Og det var jo det som opgaven havde kaldt for A. Og jo altså på samme måde.
+
+48:18
+Her har I regnet forskriften folly alder for EF. Det er jo bare y ikke også.
+
+48:24
+Og hvor hvornår den mindst. Hvornår er y mindst muligt på denne?
+
+48:27
+Det er den her. Hvor Y er min nu se. Så vi kan skrive og minimum.
+
+48:40
+Den er lige med min muse, og det er så i punktet.
+
+48:48
+Nul komma minus 1. Og ja, det var så det der blev kaldt for B af sig i opgaven.
+
+49:02
+Nu kigger vi så. På den ydre rand eller på den ydre cirkel.
+
+49:15
+Og der gælder da. Igen vi ser om vi kan forenkle den regne forskrift som vi skal have studeret og.
+
+49:27
+Vi har så. By divideret med Asian bluesy and og det røde New Zealand.
+
+49:38
+Hvis jeg og 4. Så nu kigger vi så på hvor hvor den har Marx.
+
+49:58
+Så nu skal vi køre en tur på den yderste cirkel, og der kommer vi som op i 2.
+
+50:06
+For dér der y så af. Men hov, den skulle jo altså divideres med de fire der kommer herfra.
+
+50:22
+Og det er altså i punktet 0,2. Det kan også og den har minimum.
+
+50:35
+Leg med og vi kører hele vejen rundt. Og så har vi altså den lavest mulige værdi.
+
+50:43
+Den er som minus 2. Og den skal sørme også divideres med fire, så derfor bliver konklusionen altså her, at den er minus en halv.
+
+50:58
+Og så skal vi bare lige have afsluttet opgaven. Så vi har altså et globalt maks.
+
+51:12
+Så det var jo kun en halv. Så det bliver altså for den indre cirkel dér hvor vi har maksimalt en.
+
+51:20
+Og det er i punktet 0,1. Og så har vi et globalt minimum.
+
+51:34
+Og den var minus 1 i punktet.
+
+51:42
+Nul komma minus en. Så altså tredje ged i denne opgave.
+
+51:52
+Det varer altså, at man kunne indse, at den der kan regne forskel.
+
+51:57
+Den bliver særlig nemt på randen. Hvis den ikke havde været det, så havde jeg været nødt til at lave en parameter fremstilling,
+
+52:06
+for randen er altså en parameter fremstilling for den indbundne parameter, fremstilling for nødder og så differentiere.
+
+52:13
+Og det er jo ikke. Men altså her gik det lidt nemmere og pause.

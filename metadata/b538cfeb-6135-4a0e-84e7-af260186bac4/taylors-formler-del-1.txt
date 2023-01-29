@@ -1,0 +1,1079 @@
+0:05
+Og velkommen til Go Morgen, folkens. Så er det første gang, at Mabel bliver rullet ud i dette kursus for alvor.
+
+0:16
+Særligt med komplekse tal.
+
+0:18
+Og i dag skal vi have noget som er temmelig temmelig interessant og vigtigt, nemlig approksimation med polynomier, trailers, former.
+
+0:29
+Og det er faktisk ret sjovt. Og det er heldigvis ikke spor svært.
+
+0:34
+Så jeg håber, jeg håber, I vil synes det er sjovt, at denne forelæsning plejer at sige,
+
+0:40
+at hvis man brugte Makeba lak, som ligger under dagsordenen i dag, så tager denne forelæsning under fem minutter.
+
+0:50
+Altså alt det jeg kommer til at gøre at sige, kan man åbne.
+
+0:55
+Men Mabel på fem minutter. Sådan er det.
+
+0:59
+Men jeg er nødt til at fortælle jer, hvad det er, der foregår, så vi er nødt til at gøre noget af noget.
+
+1:04
+Når jeg så gøre noget, er det i hånden, så jeg kan se, hvad det er, der gør, og hvad det er, mig vil gøre.
+
+1:09
+Og så til allersidst håbe, at der er tid til, at vi lige kan kigge lidt sammen på det med.
+
+1:13
+Tak fordi der er nogle kommandoer. De, der kender mig i forvejen, kender sikkert alle de her kommando.
+
+1:20
+Det kan godt være der. Nogle af dem, der er nye for jer, fordi alder ikke har set Mabel før.
+
+1:25
+Start er jo smart at sætte sig ind i hvordan, hvordan det her fungerer og med disse Makeba lagt.
+
+1:30
+Det vil bliver oploadet løbende.
+
+1:35
+Der vil være et hav af smarte kommandoer og plot kommandoer, og noget som I kan bruge fremadrettet, skal simpelhen bare stjæle med arme og ben.
+
+1:44
+For dem er Black altså det det er meningen med, og det er kogebog, kogebog, værktøj.
+
+1:52
+I på fredag lille dag på fredag er der et tema øvelse.
+
+1:57
+Jeres første tema øvelse. Og den bliver oplevet alt alt om.
+
+2:02
+Det står selvfølgelig under dagsordenen, så I skal bare gå ind og kigge,
+
+2:08
+og jeg tror, at tema øvelsen bliver oploadet på et eller andet tidspunkt i aften.
+
+2:13
+Så jeg kan kigge på den, og meningen er så, at I skal arbejde.
+
+2:17
+Der er ikke forelæsninger på fredag.
+
+2:19
+Så I skal sørge for at skaffe nogle grupper 5 6 stykker sammen, så I kan arbejde sammen til videre tema øvelser, og der er reglerne lidt anderledes.
+
+2:29
+Så må man altså godt bruge mad. Meningen er, at man skal bruge mail til at besvare den tages, der er på fredag og altså læse, hvad der står.
+
+2:41
+Det er nok det nemmeste. Så det er sådan.
+
+2:46
+For de første fire ord, der så er færdige på denne her måde, og vi ruller,
+
+2:51
+ruller kurset videre på tirsdag, hvor vi skal til at kigge på det, der hedder line og lignende systemer.
+
+2:58
+På tirsdag kan jeg ikke være her, så der kommer en af mine kolleger, som vil underholde og synger, da Anden tilføjer.
+
+3:06
+Jeg vender frygteligt tilbage på på næste fredag.
+
+3:10
+Jeg kommer naturligvis til at savne jer meget, og jeg ved, at det er ganske særligt, når folk spørger.
+
+3:18
+Man savner altid folk fredag morgen, det ved jeg, når okay folkens.
+
+3:23
+Hov, vi skal lede. Kan udvides at en transmission.
+
+3:43
+Ja, Allan Kramer Schütt prøver at blive Behrami, men.
+
+4:02
+Og ja, hvis så dagens tekst approksimation ud med polynomier.
+
+4:23
+Og det handler om taler foruden. Og der er Talas formelle og taler polynomiet skulle man nok kalde det.
+
+4:50
+Og der er to udgaver af det der hedder trailers formen. Og så skal vi kigge lidt på.
+
+4:56
+Ja, hvad skal vi kigge lidt på? Vi skal kigge lidt på grænseværdien. Og så håber jeg meget at vi lige kan nå at kigge lidt på det der med lak.
+
+5:09
+Så det er sådan set det, som det kommer til at handle om.
+
+5:16
+Så indledningsvis hvad er det, vi skal kigge på? Altså, vi kigger på nogle funktioner F, som er defineret på et eller andet interval.
+
+5:34
+Det kan jo være hele den hele, hele den reelle akse, men et eller andet typisk åbent interval.
+
+5:39
+Og så afbilder de over i de reelle tal så helt almindelige reelle funktioner.
+
+5:50
+Og så skal de være differentiable, og det skal være uendeligt mange gange differentiable.
+
+6:03
+Måske skulle vi bare skrige uendelig differentiable. Og hvad mener man egentlig med det?
+
+6:14
+Der mener man bare at funktionerne kan man blive ved med at differentiere på, og alle de afledede bliver ved med at være differentiable funktioner.
+
+6:22
+Og vi kalder sådan nogle funktioner for zero endelig funktioner defineret på på sådan et interval og i praksis altså.
+
+6:34
+I praksis er det nok, at de skal sige, at de fra en sable nok gangen til, at vi kan lave det, vi skal nu engang skal lave.
+
+6:43
+Så det behøver ikke være egentlig var engang differentiable. Men sagen er, at alle de funktioner, vi kender.
+
+6:54
+Se Nus covers, polynomier, kokosnød og hyperbolsk, altså alle de funktioner.
+
+7:06
+De er så nogle af de er uendelig mange gange differentiable. Man må bare ikke.
+
+7:13
+Man må bare ikke gå ud i livet og tro, at alle funktioner her i verden er differentiable eller uendeligt mange gange differentiable.
+
+7:21
+Altså fordi der for eksempel sådan en sjover som numeriske ex, som man plejer at tage.
+
+7:25
+Som eksempel ligger også den skraber ser sådan her ud, og denne er ikke differentiabel her i nul.
+
+7:34
+Og det? Ja, hvad skulle tangent hældningen være?
+
+7:38
+Hvis jeg nærmer mig fra denne side, så hældningen en, og hvis han jeg nærmer fra den, der sidder,
+
+7:42
+så hældningen minus ind, og sådan nogle funktioner er jeg simpelthen ikke differentiable.
+
+7:51
+Og så kunne man jo, hvis man ville have nogen.
+
+7:54
+Hvis man havde lyst til at lave nogen, der kun var en gang differentiabel, så kunne man jo tage integralet.
+
+8:00
+Sådan en her kan det finde en stamme funktion til dagen.
+
+8:05
+Det er jo sådan set nemt nok. Og så kunne man se. Den kan jo differentiere en gang, og den afledede være denne her.
+
+8:12
+Og den er kontinuert. Jamen så funktion engang differentiabel, men den er ikke differentiable en gang til osv.
+
+8:19
+Men det er også nogle petitesser, og det behøver vi ikke interessere særlig meget for.
+
+8:23
+Det er bare for, at de skal være klar over, at der er masser af funktioner, der ikke er det fra en sable.
+
+8:29
+Og man kan jo mærke det på dem, også hvis man står i en funktion.
+
+8:34
+Jeg kan også, så kan man jo mærke, hvor den er differentiable, for det er dér, den er blød og lækker.
+
+8:38
+Det var den ikke differentiabel, det dér Maslow fingerne Ağca.
+
+8:44
+Jamen, hvad er det så for en leg? Vi vil lege approksimation med polynomier.
+
+8:51
+Man kan også kalde det løve jagt. Og det er den mest primitive form for løve i jagt, som man kan lave.
+
+9:05
+Man kan lave mere avancerede former for løve i Arktis. Det kommer vi til at gøre i senere matematik kurser, men dette er jagt dele ét,
+
+9:14
+og det handler simpelthen om, at man skal vide, hvordan man fanger en vild løve.
+
+9:21
+Det ved vi allesammen godt. Nu kan jeg ej.
+
+9:26
+Det er en joke. Overraskende nok nej fangere.
+
+9:32
+Man ser hvordan man fanger en hvid løve med endetarmen, løve, løver og asociale væsener, så der nu må fange en løve.
+
+9:41
+Så napper man den tamme løve og har den i snor og binder den til et træ.
+
+9:45
+Og så må et eller andet tidspunkt, så kommer den vilde løve hen til den samme løve.
+
+9:48
+Og når den kommer tæt nok på, kaster man nettet over den, og så er den fanget.
+
+9:51
+Det er princippet for løve jagt, men fanger vilde løver med tamme løver.
+
+9:56
+Se, fidusen er, at vores vilde løver.
+
+10:01
+Det er disse funktioner, vores tamme løver.
+
+10:06
+Det fulgte nogenlunde, så det vi forsøger at gøre, er at sige jamen altså,
+
+10:11
+hvis jeg har en eller anden funktion, som jeg ved et eller andet om, kan jeg så fange dem?
+
+10:17
+Altså forstå mig ret at erstatte den med et polynomium på en fornuftig måde.
+
+10:23
+Og hvorfor kunne det være smart? Jo, for eksempel hvis man nu gerne vil beregne et eller andet.
+
+10:29
+Jeg plejer at sige sinus til en hale, for det er helt umuligt at beregne.
+
+10:34
+Hvis jeg gerne vil beregne sinus til en hat, så har jeg jo ikke en jordisk chance for at gøre det,
+
+10:40
+medmindre jeg finderen samler et polynomium, som jeg kan putte en halv ind i, som spytter noget ud.
+
+10:46
+Der er meget tæt på senest en halv kassette.
+
+10:51
+Og det er sådan set det, som vi skal prøve at lege. For hvad er det for nogle samme løver?
+
+10:55
+Hvordan skal det se ud? Og det er selvfølgelig forskellige de tamme løver afhængig af, hvad det er for nogle vilde løver, vi har.
+
+11:01
+Så hvordan gør man det? Jamen, I har i virkeligheden set det, fordi hvis nu I spoler tiden tilbage til jeres gymnasium.
+
+11:15
+Så ved I, at hvis I nu har en eller anden funktion f. Her, og hvis vi så har et punkt x nul der er her, så ligger F.
+
+11:28
+Er jeg ikke snorlige? Jo, hér så kender jeg jo forskriften for tangenten igennem det punkt dæks nul komma F.A.
+
+11:38
+X0, hvis f er en differentiabel funktion. Og den form, som i givet vis har brugt det er at Y skal være lig med f x0, + f mærke Taddei ex.
+
+11:53
+0 og så gerne et x minus x0.
+
+11:58
+Den har muligvis stået på den anden side af lighedstegnet. Det er det der hedder at proxy medierne polynomium af grad 1.
+
+12:10
+Og det punkt 21 vil lige nu komme til at hedde P ét af X.
+
+12:21
+Og for det første, så afhænger dette jo af hvad for et punkt man har valgt at stille sig i fordelt.
+
+12:30
+Det vi gerne vil gøre, det vil vi vil gerne se mere funktionen omkring dette punkt.
+
+12:36
+Jeg er ligeglad med, hvad der sker her hen, og hvad der sker her hen. Men jeg er lidt interesserede i, hvad der sker her.
+
+12:42
+Og så ser jeg okay. Hvis nu funktionen er kompliceret, så kunne det jo være meget rart, at jeg bare kunne erstatte den med den lineære funktion.
+
+12:51
+Og hvad gør man så nået i praksis?
+
+12:55
+Ja, det gør man jo, fordi hvis jeg nu står i dag og kender værdien af et eller andet.
+
+13:04
+Det kunne for eksempel være et eller andet. Jeg plejer at sige arbejdsløses tal.
+
+13:08
+Det ved ikke, om man gør op hver dag. Men lad os så se, at man gør det. Og så ved jeg, hvor mange der var arbejdsløse i går.
+
+13:15
+Og det er okay. Så kan jeg lynhurtigt beregne ændringen, og så ser jeg, hvor mange arbejdsløse i morgen, hvis jeg skal lave en prognose.
+
+13:25
+Så den naturligt vil sige jamen okay, når vi kigger på så små tidsrum, det vil sige, at vi stiller os så forholdsvis tæt på i dag,
+
+13:33
+så vil udviklingen være jævn forstået på den måde, at den vil vokse på samme måde til i morgen, som den gjorde fra i går til i dag.
+
+13:42
+Det er lige præcis at sige, at der er en tangent, og handlingen er sådan set den, vi har fundet.
+
+13:51
+pCt. Og så kan jeg bare se. Jamen, jeg ved, hvad den er i dag.
+
+13:55
+Så lægger jeg den tilvækst til, så ved jeg, hvad den skulle være i morgen. Det er min prognose baseret på det her.
+
+14:01
+Det er sådan, det fungerer, og det polynomium.
+
+14:07
+Det hedder også taler. Polynomiet taler polynomiet grad.
+
+14:20
+Sten eller det approksimant gerne polynomium af grad højst 1.
+
+14:28
+Og prøv lige at se hvad for nogle egenskaber det har for det første.
+
+14:35
+Hvis jeg tager dette polynomium, hvis jeg tager dets værdi i x0.
+
+14:44
+Jamen så bliver der 6 0. Så bliver det der 1 0.
+
+14:47
+Så bliver der lavet noget, så står der er x0, så det gør igennem det punkt på grafen arm.
+
+14:56
+Det er jo det, vi forlanger en tangent. Jeg kan også. Det rammer det punkt på grafen, som vi nu engang er interesseret i.
+
+15:03
+Og hvad ved vi mere? Jamen, hvis jeg nu tager over og differentiere den, da jeg så Jesus differentierer polynomier.
+
+15:13
+Hvad får jeg så? Dette er en konstant. Den forsvinder, den variable står der, og det vil sige, den er jo en konstant gang.
+
+15:26
+Dette er x0, det er bare en konstant, så det bliver nul. Når man seer, så står der et mærke af x0, som er en konstant gang eks.
+
+15:33
+Når de ser det. Så forsvinder Excel, så står der bare mærke af x0, så det bliver bare et mærke af x0 at differentiere det.
+
+15:44
+Og det vil sige hvis jeg tager et i x0, så får jeg selvfølgelig det samme.
+
+15:53
+Så det polynomium står der vores trailer polonium Akvariet Sten opfylder, at det har samme funktion værdi i det punkt vi stiller os i.
+
+16:08
+Og den afledede skal Ester mærke her.
+
+16:12
+Den afledede af polynomiet i det vi står i, er det samme som den afledede af funktionen, så der er på to parametre bestemmer over ens Ağca.
+
+16:24
+Der er lige et navn, der knytter sig til det her, fordi det x0 vi har valgt her, det kalder det Udviklingsforum udviklings punkt.
+
+16:40
+Ağca jamen, hvis nu, hvis nu man skulle lave det her bedre.
+
+16:54
+Det vil sige hvis man nu skulle vælge et polynomium som ramme det f.
+
+16:59
+Endnu bedre, jamen så skulle vi jo bare tage et højere grad kan se det.
+
+17:04
+Hvis jeg nu for eksempel måtte proklamere med et andet gratis fundet det nogenlunde kiksede,
+
+17:09
+så kunne jeg efter jeg ved noget af bogen også måtte sige okay.
+
+17:13
+Tredje grad ramte, så kan vi nok gøre det på et længere stykke osv.
+
+17:19
+Så ideen er at prøve at se F. Med et ændret grads polynomium kan jeg så det?
+
+17:26
+Det vi går efter nu. Det vil jeg prøve at signere.
+
+17:37
+F med et emne grads polynomium.
+
+17:51
+Og så skal vi vælge et eller andet sted at gøre det. Og vi stiller os selvfølgelig i dette udviklingsforum, som vi er interesserede i.
+
+17:59
+Så. Udviklingsforum Du skal altid vælge et eller andet x0.
+
+18:08
+Det kunne være for eksempel i dag, hvis den tid.
+
+18:13
+Så det skal man være opmærksom på, at det skal vælges, for det er jo helt klart, at hvis man skal have bokse mere end funktion med polynomiet,
+
+18:20
+så kan man jo typisk ikke gøre det over det hele, så derfor skal man fortælle, hvor man står.
+
+18:26
+Se det, som vi prøver at gætte på.
+
+18:32
+Det er et polynomium, som kommer til at hedde det endelige tal og få det enorme hjem.
+
+18:38
+Og hvordan skal det være bygget op? Jamen, vi skal sådan set få ideen for den dér, fordi den er der hedder x minus x0, som jeg havde stående der.
+
+18:51
+Det er jo sådan set dem, der sørger for, at det går godt. Kan I se det, at det stemmer overens med funktionen?
+
+18:59
+Så hvis jeg nu skulle udvide det til et integrale, fået nogen, så mit gæt er Vi skal nok have en konstant på.
+
+19:06
+Det har vi nemlig, og det nok er x0. Men mon ikke det er sådan noget her?
+
+19:13
+Der er første grad. Så er der nok noget andet grad.
+
+19:20
+Og så kører vi lykkes. Og så er der op til det EM, der går os.
+
+19:30
+Så vores gæt er, at det skal se sådan derud baseret på at første grads approksimation ser ud som den gjorde.
+
+19:40
+Jamen, hvad er det vi ønsker? Vi forlanger, at vi holdt op med at ønske.
+
+19:49
+Nu forlanger væk. Vi forlanger at pille alle taddei.
+
+19:54
+X0 skal være legeme f taget i x0, og så vil vi gerne have, at end differentieret i x0 skal være leve et mærke.
+
+20:06
+Fadi x0 og pn.
+
+20:10
+De fraserer to gange plakaten. Dobbelt mærke.
+
+20:15
+Fadi x0. Det skal så være efter oplæg værket.
+
+20:20
+Og så har Gade op til PN differentieret indgangen til Ali x0.
+
+20:28
+Det skal være det samme som f differentierede inden gange taget i x0.
+
+20:34
+Læg mærke til at når man differentierer typisk når man kommer over tre,
+
+20:39
+når man skal sætte flere end tre mærker, så skriver man det sådan parenteser, som man skriver end en parantes.
+
+20:45
+Det betyder, at denne funktion differentierer et antal gange, så det er vores krav.
+
+20:54
+Ja, men okay, så lad os prøve at differentiere denne funktion og undersøge, hvad der skal til.
+
+21:02
+Hvad så, hvis vi nu starter med dagen?
+
+21:07
+Det starter med denne betingelser, men ser okay.
+
+21:14
+Hvad er? Indtaget i x0?
+
+21:19
+Jamen, der sørger alle disse parenteser for, at når jeg sætter x0 ind på excess plads, så bliver det nul.
+
+21:25
+Tilbage står der kun er 0. Det vil sige på grund af dette krav, så skal 0 være f.ex.
+
+21:34
+X0, ligesom det er op til at det kommer på denne måde.
+
+21:45
+Okay, så har vi noget med den første afledede. Jamen, så lad os prøve gang og differentiere den.
+
+21:51
+Og det vil sige nu tager jeg det hele mærke af eks.
+
+21:58
+Så det her er en konstant, der forsvinder. Så skal jeg differentiere her.
+
+22:03
+Emma får her. Her står der en gang eks. Og så står der minus et gang x0 af indgangen x0.
+
+22:12
+Det friterede bliver nul af ét gang eks. Det fronter det giver a ét.
+
+22:20
+Og hvad får jeg fra de andre lavet? Jamen, der får jeg to af et tog, og her får jeg så x minus x0, og den der differentierede giver bare et et tal.
+
+22:32
+Lad os lige tage den næste med Clowes, der føjer tre tre.
+
+22:39
+Og så får jeg x minus 6 0 i anden.
+
+22:43
+Det er dem, der står her. Tre gange parentesen i tredje differentieret.
+
+22:50
+Den ændrer differentierede, giver bare et et tal. Hvis jeg skal bruge reglen, og så fortsætter vi flås.
+
+22:58
+Og hvad står der til sidst? Der kommer andet ned, da jeg så står der en gang a ende ganger x minus x0 i N.
+
+23:08
+Vi er nu sendt. Og hvad er magien så i dette?
+
+23:14
+Ja. Fordi når jeg nu tager og putter x0 ind, så bliver advaret, så er der noget.
+
+23:27
+Der og alt det der bliver noget tilbage, står der i et.
+
+23:39
+Er det ikke fantastisk og kan. Jamen, så fortsætter vi.
+
+23:44
+Nu skal jeg finde et tog, altså differentierer vi lige en gang til.
+
+23:51
+Så nu skal det se sådan ud. Dette er en konstant dette differentieret.
+
+23:58
+Det bliver bare to af to gange med ex klodes.
+
+24:04
+Og hvad står der så her, der hopper totalt ned? Og tilbage står der så x minus x 0.
+
+24:13
+De første + kommer alle de mellemliggende lavede.
+
+24:18
+Nu er bare den seneste her. Der hopper den dermed. Så får jeg end minusser en gang af alle gange x minus 6 0 i n minus 2 det.
+
+24:33
+Ja, det kan jeg. Jamen kravet er, at vi skal kigge på den dobbelte afledede taget i x0.
+
+24:45
+Hvad giver det hjem igen? Alle prinsesserne giver noget tilbage, så er der 2 2 og 2 2.
+
+24:59
+Jamen, den dobbelte afledede skal være efter ubemærkede, hvor vi bliver glemt lige her.
+
+25:03
+Denne, der skulle være et mærke af x0, den glemte jeg at skrive, for det var det krav, som står her.
+
+25:11
+For det var det, vi lige fik opfyldt før, og nu kigger jeg på dette krav. Jamen altså 2 2 skal være lig med dobbelt mærket af x0.
+
+25:24
+Jamen, hvad skal to så være? Toget skal åbenbart være en halv dag efter og vel mærke at x0.
+
+25:39
+Og så forudsætter vi nu at I har set systemet der gøres for prøv lige at se hvad der sker, når nu det er fra en seer næste gang.
+
+25:50
+I denne her, så forsvinder den opgave og dette differentieret med hensyn til ex.
+
+25:59
+Det bliver så to gange, tre gange tre. Denne forsvinder og her kommer der minus to ned foran her.
+
+26:10
+Når jeg så sætter ind, jamen så kan jeg se, at den tredje afledede, som jeg så ikke har fået skrevet op herover, skal være lige med det, der står her.
+
+26:23
+Og så har vi forhåbentlig kan se det, for fordi hvis nu vi gør sådan her.
+
+26:31
+Så kan vi simpelthen se formlen, at K er åbenbart lige med.
+
+26:42
+Det er en dvd med en gang et tove og så gange gange gange op til k gange den korte afløbet taget i x0.
+
+26:59
+Det er præcis det jeg gør. Næste gang skal jeg sige en gang to gange tre dvd'er med den tredje afledede for at få tre børn.
+
+27:11
+Der er spørgsmål. Der forsvandt et a n.
+
+27:22
+Her er det du mener jeg også, at du har fuldstændig ret. Jeg glemte at skrive det, der skal stå end går op.
+
+27:33
+Og dette altså, det ser man relativt hurtigt og det tal der står her engang, toggangen osv.
+
+27:43
+Op kog selv. Det hedder Kog udråbstegn eller kog fakultet, og det betyder, at det betyder, at jeg kan skrive dette taler.
+
+27:57
+Polynomiet er grejet højst end ser man, og det vender jeg lige tilbage til.
+
+28:04
+Det kan man skrive sådan her som f.ex. 0 Clowes f.
+
+28:09
+Mærke af x0 divideret med 1 i virkeligheden.
+
+28:15
+Ganger eksaminer. 6 0 flås en halv gang efter dobbelt mærke af x0 gange x minus 6 0 i anden klasse.
+
+28:29
+Nu skriver jeg lige nogle flere led med den næste. Det var den, der to gange tre engang sukker.
+
+28:35
+En tre skriver jeg så her, og så den tredje afledede taget i x0 gange med x minus 6 0 i tredje.
+
+28:48
+Og så fortsætter festen altså pludselig at slås. Og så er den sødeste.
+
+28:53
+Den hedder ind over n fakultet og så f differentieret inden gange.
+
+29:01
+Taget i x0 gange med x minus x0 i 1.
+
+29:09
+Det er faktisk rigtig synd, at så ellers formen bliver skrevet op, så grib så ellers selvopfundet nålen velskrevet op.
+
+29:18
+Så grib så jeg tror altså lige jeg skriver det her lidt pænere. Gentager det herovre?
+
+29:23
+Ja, så. P Anna Ex.
+
+29:29
+Det hedder F.A. Jeg. Clowes mærke at x0 garnede x minus 6 0.
+
+29:41
+Clowes 1. Efter dobbelt mærket af x0 gerne ekstrem 06 0.
+
+29:50
+Det er anden Clowes end Sabadell beskrevet som jeg debuterede med to gange tre.
+
+29:56
+Jeg tror jeg skriver det som tre udråbstegn og så en to, tre gange differentierede i x0 og så x minus x0 i tredje.
+
+30:08
+Og så fortsætter festen, så længe man gider.
+
+30:12
+Og så slutter det med en dvd med en udråbstegn og så den anden afledede taget i x0, garnet med x minus x0 i det.
+
+30:27
+Så sådan ser det ud, og det hedder det.
+
+30:33
+Det taler fundet jo eller taler.
+
+30:41
+Polynomiet taler polynomiet eller proxy medierne polynomier af grad højst end at lægge mærke til det højeste ende.
+
+31:00
+Og hvorfor er man nødt til at sige det? Hvorfor er dette her ikke nødvendigvis et det endte grads polynomium?
+
+31:05
+Fordi Javed jo den variable ex. Den står jo her i ante. Det kunne godt være at der var nul pct.
+
+31:14
+Så ville det ikke være det. Det kan også få nogen.
+
+31:16
+Med et 1 minus 1 grad fulgte nogle, og det kan jo sagtens ske, og det sker faktisk tit, så derfor er man nødt til at tage det forbehold.
+
+31:25
+Og det er sådan det, som jeg lige skal lægge mærke til, det er jo, at jeg er den nulevende taler.
+
+31:32
+Det er sådan set det, der står her. Men hvis jeg nu gør sådan her, så kan I se.
+
+31:38
+Så er det det første, taler vi om, og det er hans, der er det, så det andet taler fulgte nogenlunde osv.
+
+31:52
+Når man så led, så får man det tredje og fjerde osv. Og Udviklingsforum skal man altid have med sig.
+
+32:03
+Så udviklingsforum er x0, og det betyder selvfølgelig, at hvis man nu vælger, hvis man nu kigger på funktioner og vælger at kigge på dem tæt på nul.
+
+32:17
+Så vælger man i udvekslings punktet 1 0, så bliver dette jo meget pænere.
+
+32:21
+Især fordi så bliver det her jo bare til sex og ikke siger anden osv.
+
+32:28
+Og kan i det, som vi så når det naturlige spørgsmål og stille sig.
+
+32:36
+Det er så når nu man kan regne dette på en enorm måde.
+
+32:41
+Relativt simpel i virkeligheden. Hvor stor en fejl laver man så hvis man bruger polynomiet i stedet for funktionen f.
+
+32:51
+Okay, så lad os prøve at kigge på det.
+
+33:00
+Ja, okay, måske skulle jeg lige sige det. Hvis nogen af jer har set det til UVVU's logo, så kan man jo skrive det her ved hjælp af summer.
+
+33:08
+Sjov steg, for det er sjov. Det betyder bare, det her betyder at lægge sammen.
+
+33:15
+Og hvad skal jeg gøre? Jeg skal sige, jeg tager et cover, der lever fra 0 og op til N.
+
+33:23
+Og hvad gør jeg så? Og så ser jeg en dvd med K udråbstegn og garner jeg med den korte afledede af funktionen her taget.
+
+33:35
+Jeg x0 og så ser x minus x0 i korte.
+
+33:43
+Sådan kan man skrive det, der taler med sund mad, sjov sig og som er sjovt.
+
+33:49
+Stegen sidder bare lægge sammen. Starte med nul ind over nul udråbstegn.
+
+33:55
+Det 1. Og så den 03. Afledede af F.
+
+33:59
+Det er bare f selv. Og så det her nul. 1. Så når kul i 0.
+
+34:03
+Så står der efter x0 den næste så sætter er kåret til at være 1.
+
+34:08
+Så står der 1. Og så står der et mærke af x0. Og så står der eksaminer 6 0 i første.
+
+34:15
+Og så kan de selv se. Når jeg så sætter kåret til at være 2. Så får jeg en halv gange den dobbelte afledede.
+
+34:21
+Jeg x0, gang, eksaminer, 6 0 i anden. Så var det dem, der står der.
+
+34:25
+Og så fortsætter jeg ellers til, sætter Cowley med. Så får den der med.
+
+34:31
+Og sådan vil I mange gange støde på trailers formen i litteraturen, så bare tag eller trailer polynomiet i.
+
+34:40
+I litteraturen. Nu har jeg sagt taler formet så mange gange, og nu kommer den, så lad os prøve at kigge på det.
+
+34:49
+Så hvad er fejlen?
+
+34:56
+Man laver? Hvis man erstatter F med p n.
+
+35:16
+Tæt på Udviklingsforum Jeg må skære i vores funktion f.ex.
+
+35:31
+Den vil vi meget gerne erstatte med.
+
+35:35
+Det endte talerstole nogenlunde, og det kan jo selvfølgelig ikke være rigtigt,
+
+35:41
+at der står lighedstegn med mindre at vi har fat i dagen, betaler På lidt under, men der er en fejl og den fejl.
+
+35:49
+Det kalder man for wrestlede. HA ha, ha ha.
+
+35:56
+Og hvorfor skriver x0? Det var forkert. Det skal være taler. På nogle af eks er det jo ikke den variable i det her udtryk.
+
+36:05
+Så den er det. Derfor wrestlede jeg på det udtrykker fejlen.
+
+36:14
+Så fejlen udtrykkes.
+
+36:23
+Ved pressemødet og spørgsmålet er hvad det er.
+
+36:33
+Og der er to modeller for det varslede.
+
+36:43
+Det kan udtrykkes som epsilon af x minus 6 0 gange x minus 6 0.
+
+36:52
+Det endte. Det er en måde at skrive raslede på.
+
+36:59
+Hvis man skriver raslede på den måde, så kalder man den form for trailers grænse formelle kørsel på søndag.
+
+37:06
+Jeg forsøgte her. Stjerne er så trailers.
+
+37:15
+Zatlers grænse får mig. Det man skal være opmærksom på, at det der står her, er virkelig en relativt upræcist, fordi det fortæller os bare,
+
+37:29
+at hvis vi vælger et eks, der er tæt på udviklings punktet, så gør det her mod nul og det her mod nul.
+
+37:36
+Det dette går mod nul. Enormt hurtigt. Så det fortæller os bare, at når ikke sker mod x0, så nærmer fejlen sig nul.
+
+37:44
+Og selvfølgelig hvis man vælger eks til at være x0 igennem, så er fejlen nul.
+
+37:49
+Så dette er upræcist, men det fortæller at fejlen bliver lille, når ikke så tæt på x0.
+
+37:55
+Hvis man er interesseret i den præcise størrelse af fejl, så ser det sjovere ud,
+
+38:03
+fordi så kan man udtrykke den ved at sige Okay, jeg går en højere oppe og laver den, frygter jeg.
+
+38:12
+Og så tager vi en funktion F, og så differentierer jeg den en gang til, og så tager jeg værdien i et eller andet punkt.
+
+38:21
+Og så garnnøgler den med x minus 6 0 i N.
+
+38:26
+Kluges 1. Læg mærke til, at jeg gør en grad op, og dette ser jo meget godt ud.
+
+38:34
+Det er noget lort, det er. Jeg ved ikke, hvad der skal stå her, og lige nu kan jeg heller ikke se, hvad der står med et græsk bogstav, der hedder SI.
+
+38:46
+Så jeg kan skrive, at jeg kan ikke se herover, så jeg skriver det lige her.
+
+38:50
+Det ser cirka sådan her ud. Og det hedder CSI.
+
+38:57
+Der ligger en krølle på baggage, og det eneste, jeg kan sige om dette, jeg kan se, er, at C ligger mellem 6 og x0, og der ligger skarpt imellem.
+
+39:19
+Så så tæt på kan man komme og udtrykke fejlen. Okay, jamen fin nok.
+
+39:27
+Så hvis man bruger den variation. Hvis man bruger dette som Rasted så hedder Stjerne Trailers Formel.
+
+39:41
+Med La Grace Rast led.
+
+39:54
+Og i virkeligheden er det enormt nemt at bevise, at det der er rigtigt, så det vil ikke blive overrasket over, hvis I, hvis vi kigger på beviset.
+
+40:05
+Nu har vi sådan set hele værktøjskassen parat, så lad os prøve en gang lige at lave nogle taler polynomier for nogle kendte funktioner.
+
+40:15
+Så. Hvis vi nu tager første eksempel eksempel ét, så tager vi vores yndlings funktion next.
+
+40:29
+Verdens pæneste funktion. Og Udviklingsforum udvekslings punktet x0.
+
+40:38
+Det vælger vi til at være nul. Lagkage.
+
+40:45
+Jamen, hvad får vi så?
+
+40:50
+Jamen altså, hvis vi tager værdien i nul, så får vi en.
+
+40:55
+Og hvis vi nu differentiere funktionen, så bliver den jo hele tiden ikke X3.
+
+41:01
+Det vil sige ligegyldig hvilken afledede jeg tager den korte afledede taget i nul, så vil jeg hele tiden for et salg.
+
+41:12
+Jamen det betyder så at denne funktion der vil tale af polynomiet er gravet høj i stand med udvekslings punkt x0 lig nul.
+
+41:26
+Det vil simpelthen være en Clowes en halv gang exit.
+
+41:32
+Første Clowes ind over tre udråbstegn.
+
+41:38
+Undskyld! Du vrøvler includes x klods.
+
+41:43
+Den jeg ikke, siger Ane. Fru Lakic f.
+
+41:47
+Er. Det 1. Mærke 1 0 det en gang ex.
+
+41:53
+Det giver den. Den er en halv gang efter dobbelt mærke i 0.
+
+41:59
+Gang jeg ikke, siger Jane. Det giver bare en halv hjerne at have.
+
+42:08
+På den der på skærmen. Hjælper det.
+
+42:19
+Det er vist nok af den næste.
+
+42:23
+Det bliver så en over tre udråbstegn, der er, når jeg ikke selv træder Clowes, og så fortsætter det ofte ind over end udråbstegn.
+
+42:34
+Gang ikke Serie B. Og i fantastisk kulisse.
+
+42:42
+Og hvis I nu er løst. Bare for sjov. Der kan også ske i et eller andet tidspunkt prøve i stedet for X og så sætte i y m.
+
+42:58
+Bare for sjov, og så skal Click for noget, som vi kommer til at lave lige nu.
+
+43:05
+For eksempel tog vi f.
+
+43:12
+Eks. Ved Kokosnød sex og udviklingsforum det x0.
+
+43:20
+Det skal være nul komma. Jamen, så lad os se en gang.
+
+43:30
+F 0 er en gud for kaos nu sikkert også.
+
+43:38
+Og hvad får vi så? Hvad er F.
+
+43:42
+Mærke, da ex Korsørs differentierer det, mener Scene os.
+
+43:49
+Og det vil sige f mærke taget i 0. Det må være 0.
+
+43:56
+Påklage eftermæle, mærke forskel differentierer minus sinus det være minus kokosnød saks papir.
+
+44:07
+Og det vil sige, at efter våbenmærke taget i 0.
+
+44:12
+Det må være minus er en god. Har F.
+
+44:21
+Tredobbelt mærke at X så skal differentiere den.
+
+44:26
+Det bliver Venus Venusinus. Det bliver bare senere, og det vil sige at tredobbelt mærke taget i noget giver noget og så firdobbelte værket.
+
+44:42
+Der plejer man faktisk at skrive fire. I parenteser er taget i Ex Singers differentieret.
+
+44:48
+Det bliver posens og så kommer hjem igen og det vil sige f.
+
+44:54
+Firdobbelt mærke taget i 0. Det 1.
+
+45:01
+Og ja. Jamen det gør så at jeg kan skrive vores polynomier mig op og lad os f.eks.
+
+45:14
+Skrive Lad os skrive P2 op. Det vil sige jeg skal op til og med den anden afledede, men lad os se en gang.
+
+45:28
+Jeg får F 0 det 1. Og så får jeg f mærket af nåede den nul, for den forsvinder bare, og så får jeg efter dobbelt mærke det minus 1.
+
+45:41
+Det vil sige, at jeg får minus en halv gange x minus 0 i anden.
+
+45:55
+Kan I selv at stoppe værket taget ind? Det var sagen garnet med en hale og så ikke serierne.
+
+46:04
+Jamen, så lad os lige frygter at tage p tre taget af.
+
+46:08
+Eks. Det første her har jeg jo. Men det næste lade der er den tredobbelte aflede nul er jo 0, så det tredje lavede jeg off.
+
+46:26
+Det giver nul, og det vil sige det tredje taler på nogle lige med det andet taler for lederevner.
+
+46:34
+Så der kommer ikke noget nyt under solen. Her er er med på 1 0, for det er den tredje afledede nul.
+
+46:41
+Men det betyder selvfølgelig, at hvis vi nougat op til det fjerde.
+
+46:48
+Så får jeg en minus en halv eksamen, og så kommer jeg så til den fjerde afledede her.
+
+46:56
+Den er en død sild, der kommer til at knuse en over fire udråbstegn.
+
+47:03
+Gang eksisterer fjerde, og den næste dag bliver så et minusser ser hende med excesser.
+
+47:13
+Og igen det fjerde og det femte vil være ens, fordi den næste afledede er noget fuga.
+
+47:21
+Og så vil jeg bare for sportens skyld fortælle, at jeg er på præcis samme måde.
+
+47:33
+Hvis vi tager f. Eks. Ved de senere sex og udvekslings punktet x0 lige noget, så vil jeg få.
+
+47:44
+Lad os nu se. Lad os nu tage det tredje. Det tredje taler enorme.
+
+47:53
+Ja, vi kan lige så godt tage aften. Hvad hedder det?
+
+47:59
+Det kommer til at hedde Mine. Inde over 3.
+
+48:03
+Fakultet. Exit tredje og det fjerde taler vi om.
+
+48:12
+Det bliver det samme, for det næste vil være 0. Og det femte taler polynomium.
+
+48:23
+Det vil så hedde X minus 1 over 3.
+
+48:27
+Fakultet Grand Ex. Tredje. En over fem udråbstegn exil femte.
+
+48:37
+Og så vil den fortsætte med fortegn. Skift af plads og.
+
+48:47
+Dette er altså på denne her måde, så Harry taler bare gerne for cosinus og sinus og i tekst,
+
+48:57
+og på helt tilsvarende måde kan man lave dem for alle mulige funktioner, som man nu engang har lyst til.
+
+49:04
+Og den sjove ting i skulle jeg prøve. Det var som sagt på Excess Plads at skrive i og prøve at sætte dagen i den dér og så prøve at se,
+
+49:20
+om der ikke kommer noget frem, der ligner dette, og som handler om den komplekse, ikke spontane funktion.
+
+49:26
+Denne ekstra opgave. Jeg kan også.
+
+49:30
+Vi skal holde pauser nu, så lad os holde et kvarters pause, for så fortsætter jeg efter pausen med dette forsøg der sig.

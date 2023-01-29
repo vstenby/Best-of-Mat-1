@@ -1,0 +1,923 @@
+0:04
+Okay folkens. Kan I høre mig, er der lød på, at der skal nok lidt mere lyd på have.
+
+0:11
+Lundov kan høre mig og rette.
+
+0:15
+Trådene har slået mig, så der kan jeg nok.
+
+0:26
+Hvordan kan I høre mig bagved? Nu er den i hvert fald går under godt og.
+
+0:36
+Og kan folkens. Go Morgen fredagsbøn.
+
+0:45
+Så så fortsætter vi med realisering af matricer og.
+
+0:53
+Hvis vi sidder og undrer dig over hvor spændende er det, at man ved, at man kan flytte rundt på nogle vektorer i planen og bure Bagerstræde inde?
+
+1:02
+Hvor sjovt er det, og hvorfor skal i stedet lege med? Blev det i Brad trække væk?
+
+1:06
+Tog ordet. Så vil vi meget snart finde ud af, at det er overhovedet slet ikke til at handle om.
+
+1:12
+Altså, det er bare for at få en ide om vejen. Vektorer er for noget. Det er som vi skal bruge egenværdier i særdeleshed til.
+
+1:20
+Når vi kommer, kommer i gang med differentialligninger.
+
+1:24
+Det er fortællingens systemer, differentialligninger af højere orden og så funktioner af flere variable,
+
+1:30
+som vi starter med lige efter og lige efter nytår. Der kommer aldrig andet på banen for fulde gardiner, og der er flere.
+
+1:39
+Hvad skal der få i begrundelsen for, hvorfor og hvorfor? Det er smart at. Her er det i hvert fald sådan en hvis udstrækning.
+
+1:47
+Så der kommer ikke så meget nyt, da I så det bliver mest en rapper op af, hvad vi lavede sidste gang, og så rigtig meget sådan nogle tricks.
+
+1:57
+Gode tricks. Så lad os kigge på det.
+
+2:07
+Så. Så igen altså det handler om egne værdier.
+
+2:12
+Problemet. Og hvad skal vi kigge på?
+
+2:26
+Ja, okay, vi skal lige kigge på diagonale lancering. Og så skal vi kigge på det terminalt.
+
+2:43
+Og så er der nogle tricks. Vi skal også kigge på noget, der hedder sprog, og det står der altså ikke noget om i noterne.
+
+2:49
+Men det er faktisk en god femte. Det hører næsten under tricks.
+
+2:58
+Og så skal vi snakke lidt om simili til. Og ind imellem så meget af det kommer kommer som eksempler, så lad os se gang.
+
+3:14
+Hvad var det nu det handlede om? Bare lige ganske kort.
+
+3:18
+Vi kiggede på en lille afveksling fra et vægtet rum inde i sig selv, og det kan være komplekst eller reelt.
+
+3:28
+Og når det er for til rummet egentlig sig selv, så betyder det selvfølgelig, at hvis det endelig dimensionalt,
+
+3:35
+hvad det jo ofte er, så vil den matrix, der repræsenterer vores lineære afbildning, bliver så en kvadratisk matrix.
+
+3:43
+Så i det omfang vi snakker matricer, og det gør vi rigtig meget, så vil det være kvadratiske matricer, så det vil jeg lige notere her.
+
+3:59
+Når dimensionen er endeligt. Og det er jo bare kassen.
+
+4:06
+En sådan okay. Hvad er det så?
+
+4:11
+Jamen, så kigger man på det, som hedder egne med de problemer man ser. Okay.
+
+4:18
+Hvis den ligning, hvis jeg kan finde en vektor V, som ikke er nulvækst, og det skal man huske.
+
+4:26
+Det er virkelig en pointe. Hvis man kan finde en væg til væg og et tal lambda for denne ligning er opfyldt, så er ved egenvægt så.
+
+4:40
+Og Lambda den tilhørende egenværdi.
+
+4:52
+Og man kan jo se, at hvis man hvis man nu ser hjem, hvor hvordan kan det være, at nulvæksten ikke kan være en egenvægt, så prøv at se.
+
+4:59
+Hvis vi sætter nulvækst, så er det her. Så ved vi jo alene at afbilde den vel altid selv.
+
+5:05
+Nulvækst er inde over i nulvækst. Men hvad så?
+
+5:12
+Hvad hedder det? Hvis der står nulvækst sådan her, så kan vi jo skrive hvad som helst på denne plads.
+
+5:17
+For at det giver nul, og det vil sige, så ville lambda kunne bruges som egenværdier.
+
+5:23
+Så der ville det ikke være været særlig interessant. Så egne vektorer er ikke nulvækst som lagkage.
+
+5:32
+Når man så kigger efter sådan nogle, så finder man det som hedder egen rummet.
+
+5:41
+Egen rummet. I Lambda kan skrive det sådan, at det egne ord med hørende til egenværdi en lambda.
+
+5:51
+Jamen, hvad er det for noget? Det er simpelthen de vektorer i v, som opfylder ligningen.
+
+6:06
+Og egen rumme. Det består af alle egne vektorer og nul vægteren, og det vil sige vi vist sidst tæller.
+
+6:16
+Grunden til det hedder egen rummet. Det er fordi det er et et underrum V så.
+
+6:26
+Underrum Er vi Ağca?
+
+6:31
+Ja, men det var så hvad skal man sige? Definitionen af forskellige ting er.
+
+6:35
+Måske skulle vi også lige sige, at der er det, der hedder den biometriske mål til følge sitet.
+
+6:41
+At egenværdi. Det er simpelthen dimensionen af det tilhørende Arjen Robben.
+
+6:50
+Geometrisk multiplayer sitet. Og ja, hvad så?
+
+6:58
+Ja, så spurgte vi hinanden om hvordan man gør det her. Aftog, det udvides og der var fidusen.
+
+7:13
+Der var fidusen, at hvis vi nu kalder afvænnings matricen.
+
+7:19
+For vores lineær afbildning er alt her op.
+
+7:25
+Med hensyn til standard basen for F.
+
+7:30
+Det den hedder altid det her, og så vil vi gerne kalde den. Og det jeg gør nu, er det, der kan lade sig gøre, når dimensionen.
+
+7:41
+Og det er vi alligevel en kamp for, så kan vi finde den matrix, et Fritzbøger og det man så også kunne gøre.
+
+7:53
+Det man så skulle gøre, det var, at man skulle sige okay.
+
+8:00
+Jeg skulle finde determinanten af vores matrix Venus Lambda gang enheds matricen.
+
+8:09
+Det der kommer ud af dage. Det var et polynomium, som selvfølgelig afhænger af vores matrix, hvor lambda er den variable.
+
+8:18
+Og det er det der hedder det karakteristiske polynomium. Og så skal vi sætte det lig nul, så.
+
+8:30
+Løsningerne Lambda til dette karakteristiske polynomier, som er endt grads polynomium, giver invaderende.
+
+8:47
+Og det er altid når man løser den ligning, så får man simpelthen egen værdierne.
+
+8:51
+Og så kan vi også se, at hvis matricen er reel, så vil de komplekse rødder jo komme ud i komplekst konjugerede par,
+
+9:00
+og det skal man selvfølgelig sørge for at være. Vær opmærksom på, at hvis der er en kompleks rod, så vil dens konjugerede også være en rod,
+
+9:10
+og ellers ofte vil det jo bare være et helt reelt almindelig være reelle løsninger og reelle egenværdier.
+
+9:16
+Og det vil altid fremgå af opgaverne, og det så vi formentlig allerede sidst.
+
+9:22
+Så når man så løser den ligning, så finder man også det, der hedder den algebraiske multiplicere.
+
+9:31
+Sitet er vores egenværdier. Og det er bare det, som hedder rude multiplayerdelen.
+
+9:43
+Det er jo så mange gange som den pågældende løsning er rodet i ligningen.
+
+9:48
+Vi kender jo alle sammen til et dobbelt rød og tredobbelt rød også nået og.
+
+9:59
+Og der vil altid dale, det skal man lige være opmærksom på. Der vil altid gælde den biometriske mål til følge.
+
+10:05
+Sitet er en egenværdi, altså selvfølgelig større lige med en.
+
+10:11
+Du vil altid være et egen rum hørende sætter egenværdi, men det vil aldrig nogensinde have en dimension.
+
+10:18
+Det talte. Jeg vil aldrig nogensinde være større end da algebraiske motorer til sitet.
+
+10:23
+Og man kan altså godt komme ud for, at der ikke ekstra lighedstegn her.
+
+10:27
+Ofte vil der gøre det, så se hvis det nu er sådan, at den geometriske motor pct.
+
+10:39
+For alle og invaderende er lig med den algebraiske motorcyklist.
+
+10:45
+Se for alle egenværdi. Det skriver sådan her. C, så er det jo sådan, at fordi det er endt grads polynomium, så summer den algebraiske mod simplicitet.
+
+11:03
+Den summer op til graden af polynomiet.
+
+11:06
+Det vil altså sige, når jeg lægger alle dem her sammen for Alien' værdierne, så får jeg ind, og det vil jeg så også gøre her.
+
+11:13
+Det vil sige, at summen af de geometriske metallicitet vil så være lig med N, som er dimensionen af vores rum.
+
+11:20
+Det vil sige, så er vi i en situation, så har vi en situation, hvor vi kan skaffe os end lineært uafhængige af egen vektorer.
+
+11:29
+Så hvis vores matrix A har N og det er altså i denne situation, ligner det at.
+
+11:42
+Umaru. Hæng i egenvægt til over.
+
+11:52
+Så kan den diagonal se jeres. Og hvordan gør man det?
+
+12:06
+Jo, fidusen er. Fidusen er, at man laver en matrix, som vi plejer at kalde den V.
+
+12:15
+Den skal bare bestå. Den skal bare bestå af egne vektorerne som søjler.
+
+12:30
+Her kan. Og fidusen er, at når de linje er uafhængig i denne matrix regulære.
+
+12:42
+Den regulære matrix, og hvis vi bruger egenvægt sårene, så er der jo en af dem og de lineært uafhængige,
+
+12:49
+så dette er sådan set lige pludselig blevet til en basis.
+
+13:01
+For vores vægt rum. Det er det man plejer at kalde det egen basen, og det vil altså sige hvis man har lidt linje, er du afhængig af egen vektorer er.
+
+13:17
+Så har man en basis bestående af egen vektorer for vores vægt til rum, og så kan man diagonal i se hvad betyder det?
+
+13:27
+Jamen, det betyder simpelthen.
+
+13:30
+Det betyder simpelthen, at hvis man nu tager, hvis man nu tager vores matrix og ganger fra højre med den matrix ved at fra venstre med den inverse,
+
+13:42
+så svarer dette fuldstændig til et basses skift. Det der kommer ud af det.
+
+13:47
+Det bliver en diagonal matrix, som vi plejer at kalde Lambda, og grunden til den hedder Lambda.
+
+13:53
+Det er fordi den består af ejendel, egen værdierne i diagonalen.
+
+14:04
+Og så siger man, så ser man at vores matrix er blevet diagonal i seer, og vi prøvede at lave lave det her sidst.
+
+14:15
+Man kan også. Vi har gange i denne her i dens Matrix identitet.
+
+14:24
+Hvis man ganger fra højre med ved minus første og fra venstre med V, så vil man få isoleret.
+
+14:35
+Og så vil vi have vores lambda matrix stående i midten herover.
+
+14:44
+Og hvad kan vi lære af det? Jamen altså en ting vi kan se er, at.
+
+14:53
+Hvis nu, hvis nogen får at vide hvad egenvægt, turene og de tilhørende egenværdier er for en matrix I kender ikke matricen.
+
+15:01
+Men I kender dens egen vektorer. Og dens egenværdier, så det er nemt at skrive den, er det nemt at skrive den,
+
+15:08
+og den kan vi beregne det, så vi kan beregne dette produkt, så giv beregn matricen og frisætte.
+
+15:15
+Så selvom man ikke kender matricen, hvis man så bare kender egne værdierne og egne vektorerne, så har man det der.
+
+15:27
+Hvad så? Jamen okay, de to.
+
+15:31
+De to identiteter her, de er, at de er gode at have.
+
+15:36
+Sidste gang der så vi et eksempel på, at vi opløftede for eksempel.
+
+15:45
+Vi opløftede vores matrikel i Q8, og så fandt vi ud af, at det der kommer ud af det.
+
+15:51
+Det var sådan set bare at gøre sådan her. Jeg skulle bare eller opløftet diagonal matricen i Q8, og det her er altså umådelig meget nemmere,
+
+15:59
+fordi diagonal matricer er meget, meget nemmere at regne med.
+
+16:04
+OK! Jamen, så lad os lige prøve at kigge en lille smule.
+
+16:16
+På. På determinanten.
+
+16:31
+For det hvis vi nu har.
+
+16:36
+Hvis vi nu har en Matrix A, og vi har diagonal i serien, så har vi jo den der identitet.
+
+16:43
+Så kunne vi jo prøve en gang. Og vejen som Jinan ud og kage.
+
+16:51
+Det må være det samme som at tage determinanten af det, der står her.
+
+17:01
+Og det må være det samme som determinanten RV gange.
+
+17:08
+Determinanten af lambda rosa. Grand determinanten familie minus først.
+
+17:20
+Og determinanten for ved gang determinanten for vedkommendes første.
+
+17:26
+Det kan jo skrives som determinanten for V. Gang vil jeg mindes først hvis jeg bare putter det.
+
+17:33
+Det her er jo bare tal. Og så står der her grand determinanten for lampe.
+
+17:40
+Jeg føler den her hen. Og så bruger jeg, at jeg kan sætte dem sammen her, for det er determinanten, for hver gang vil jeg minus først.
+
+17:47
+Det er det samme som det dominerende, for ved gamle determinanten var ved minus 40°C.
+
+17:51
+Jeg bruger jo bare sætningen den anden vej og det der er enheds matricen.
+
+17:55
+Den er det dominant ind, og det vil sige, at her står der det her,
+
+18:01
+at determinanten for vores matrix A er bare det samme som determinanten for den diagonal matrix.
+
+18:11
+Jamen altså, så ser man jo lige så sig selv. Hvor svært er det lige at tage et determinanten af diagonale matrix?
+
+18:20
+Det vil altså sige at determinanten for. Det er jo determinanten for vores diagonale matrix, og det er jo bare produktet af diagonal elementerne.
+
+18:32
+Så det er bare larm der en gang larm der to gange gang gange om dagen.
+
+18:39
+Mine damer og herrer determinanten for en matrix af produktet.
+
+18:42
+Dens egen egenværdier. Ja.
+
+18:48
+Jamen så prøv lige at se engang. Og hvad betyder det? Det betyder, at hvis det er min antenne nul.
+
+19:00
+Så står der noget herovre. Så må ens egne dirrende være noget.
+
+19:05
+Så ved vi hvornår en matrix af regulære. En matrix er regulært, når den ikke har nået så megen værdi.
+
+19:16
+Kø det kunne man også overveje ud fra dimension sætninger, altså altså nået.
+
+19:20
+Men prøv at lægge mærke til at dette giver. Det giver ret fed information.
+
+19:35
+Der kommer lige en lille femte om et øjeblik. Men hvis man nu hvis vi nu for eksempel laver.
+
+19:44
+Hvis vi nu har et. Et eksempel. Vi har en matrix af.
+
+19:51
+Hørende til en lineær afbildning. Den kan vi kalde F. Og altså sætte er det samme som det.
+
+20:00
+Og så lad os sige, at vi har ejet værdierne egen vektorerne ved et to.
+
+20:06
+Og ved 3. Og vi har invaderende lam der egentlig to lam der tåbelige nåle og lam, der tre lige fire.
+
+20:20
+Og så kan de allerede nu se, at den der med tricks den er ikke regulære.
+
+20:28
+På.
+
+20:29
+Det standser ikke, dens sommerland må være nul, og lad os nu sige, at vi så fik til opgave at finde ud af, hvad billedet rummede for den matrix var.
+
+20:42
+Så vil man jo sige okay billede rummet for en matrix.
+
+20:47
+Det er jo smagen af billederne af Basels vektorerne og dette træ vi siger dimensionen 1 er lig med 3 eller så er der
+
+20:58
+ikke noget ved det her eksempel serveret ved et tredimensionelt væk til rum og så en tredje gang træ med frisk fisk.
+
+21:06
+Jeg sagt. Jamen så billedrør. Det er jo så spand af Basses vektorerne, det ser sådan herude.
+
+21:17
+Sådan er det jo altid. FR-V tre søndage.
+
+21:23
+Og hvad er det for noget? Jamen, det må være det samme som Spa, Frb.
+
+21:29
+Det er jo to ved et. FR-V to 0.
+
+21:36
+Ved to FR-V tre blev fire.
+
+21:43
+Ved et tre. Og hvad er det?
+
+21:49
+Dette tal. De bliver alle ligegyldige, også fordi når man så Spanien, så må man gange med de tal man nu engang har lyst til.
+
+21:56
+Om der står to ved et eller vælge et eller fire ved 3 3. Det er sådan set lige meget, hvad fidusen er.
+
+22:01
+Her står nul ved tog, og det vil sige dem kan jeg bare smide væk.
+
+22:05
+Og det vil sige, at her står der ved et og ved tre. Og det er jo faktisk meget smart.
+
+22:13
+Det kan også, fordi hvis vi kigger på det her, så kan jeg jo se, at når man har de oplysninger her om alene afbetaling.
+
+22:23
+Jeg kan også og skal finde dansk bællede rum som et billede.
+
+22:27
+Rummet ved at udspandt at de egenvægt 2'er der ikke hører til egenværdi nul.
+
+22:37
+Afrika. Så det er jo meget.
+
+22:42
+Det er en lidt fed inden for. Så lad os lige prøve at lave et.
+
+22:50
+Et andet eksempel. Måske skulle vi.
+
+22:58
+Måske skulle vi gøre sådan her. Der har jeg lige der har lige igennem været et eller andet skal de se engang.
+
+23:18
+Jeg har i mine jeg min morgen brandert konstrueret en matrix.
+
+23:29
+Det kan jeg varmt anbefale, at man sidder med sin lunkne morgenbad og skal have noget at lave.
+
+23:34
+Så laver jeg en lille matrix. 3 0, 1 0, 2 0 og 1 0.
+
+23:49
+3. Sådan en matrix føjer opgivet.
+
+23:55
+Og så får jeg at vide. Eller et spørgsmål er vel ét med standard koordinater.
+
+24:02
+Ét kommer nul komma ét ved et tog med standard koordinater, når du køber en køber noget og ved et tre.
+
+24:16
+1. Kopper nul komma mener sagen er at vektorer og egen vektorer.
+
+24:30
+Og været. Er i givet fald egenværdi.
+
+24:43
+Og så er det man sidder og ser underlig, nej, for satan.
+
+24:47
+Nu skal jeg jo lave det, som står på en tavle og regne ud, hvad egenværdier værdierne er og bagefter beregne egen vektorerne.
+
+24:53
+Og så se om disse vektorer ligger i de pågældende egen rum under Yelp.
+
+24:58
+Der må være nemmere metode er selvfølgelig dækker også.
+
+25:01
+For hvis jeg skal tjekke om dette er en egen vægter, så prøv bare at se, hvad der sker, når jeg tager på ved et.
+
+25:09
+Og det gør jeg jo bare ved at sige 3 0, 1 0, 2 0 og 1 0 3.
+
+25:17
+Og så ganger jeg med min retssag med min vægt så skrevet op i en koordinater som koordinat, så det vil sige et 0 ét.
+
+25:26
+Og så griner af ulve. Det er engang tre gange nul plus indgang 1.
+
+25:33
+Det giver fire dengang den du stærkere end dem du dengang vandt 4 0.
+
+25:38
+Dengang vandt begge 1, 0 og 3. Det giver fire, når det er der fire gange den væk til at starte med.
+
+25:48
+Hvad skal der har en egenvægt, der hører ens egen ved en fire? Kan jeg så prøver at tage på vi tog.
+
+26:01
+3 0 1. Det tager længere tid at skrive det op end at gøre det.
+
+26:08
+Og så er min vægt så 0 et 0. Og så er det relativt simpelt at se, at det her bliver 0 2 0 0, 0 0.
+
+26:24
+0 2, 0 2. Og så ellers 0.
+
+26:28
+Det må være to gange 0 0.
+
+26:32
+Ja, man forsøger endda. Det var en egenvægt, der hører ind til egenværdi 1 2, og sådan siges det.
+
+26:41
+Det tager vi lige a på. Vi er tre.
+
+26:47
+3 0 1 0 to 0 1, 0 3.
+
+26:54
+Der er noget i træ som hedder et nul Venus og en. På.
+
+27:04
+Og hvad giver det? Det giver tre lige nu sagen, der giver to og nul og.
+
+27:13
+A 1 minus to sonde eller 1 minus tre liga minus to.
+
+27:21
+Det må være 2. Gang den vi startede med. Jamen okay.
+
+27:31
+Mine damer og herrer. De tre vektorer var egne vektorer.
+
+27:37
+Jeg og. Hvad kan jeg se hvem jeg kan se at den geometriske multiplayer citat.
+
+27:51
+Bør egenværdi 1 4. Den er en for der er en egen vægt, så der hører til den.
+
+27:59
+For kan der være andre? Nej, fordi der er to andre, som er oplagte.
+
+28:03
+De to er oplagte lineært uafhængige, så den geometriske mål til sitet af egenværdi 1 2.
+
+28:11
+Den er to, og det summer op til tre, og det vil sige vores matrix A er diagonal i Cerbère,
+
+28:19
+så vores matrix af den kan skrives som så seje egen vektorerne f.
+
+28:26
+0 1 0. 0 0 vinder sagen.
+
+28:34
+Det er min ved Matrix, og så tager jeg min diagonal matrix, der skal stå i samme rækkefølge.
+
+28:41
+Der skal stå fire tog to og så nul og alle de andre steder.
+
+28:46
+Og så her skal der så stå ved minus først.
+
+28:52
+Den vil jeg ikke skrive, for jeg kan ikke lige regnet den ud. Men den står så her an.
+
+28:58
+Sådan bliver realiseret og læg mærke til det. Det er jo rigtig hurtigt gjort det her gøres en anden ting, en anden ting, som jeg lige vil nævne.
+
+29:16
+Ergo hvad skal vi sige mere om den? Den er så oplagt regulære også for det.
+
+29:22
+Hvad hedder det? Nul er ikke en egenværdi. Det er fedt, der er lige et spørgsmål om.
+
+29:32
+Lige præcis det skal jeg lige sige højt. Man skal sørge for, at når man laver det nummer, der er, og respektere rækkefølgen.
+
+29:39
+Det vil sige, at hvis jeg har valgt at skrive egne vektorerne i den rækkefølge, det jeg så skal egne værdierne komme i den tilsvarende rækkefølge.
+
+29:48
+Jeg kan også, hvis I bytter rundt, så skal jeg også bytte rundt på egen værdierne.
+
+29:53
+Men hvordan ellers går der ged i det afkast? Nu skal jeg se.
+
+30:01
+Når man har en matrix, kvadratisk det sine engang enhver Friggs, som er sådan nogle som vi nu engang har fat i her,
+
+30:13
+så er der noget der hedder sporet af den matrix og sporet er en matrix.
+
+30:22
+Det er summen af diagonal elementerne. Og hvordan ser diagonal madpriserne diagonal elementerne ud?
+
+30:29
+Jamen, det er et et Clowes af to Tove Clowes 3 3 Clowes end 1.
+
+30:39
+Og det er fordi jeg har skrevet matricen og som sådant en matrix ser ud af et et A, et tog osv.
+
+30:48
+To, et, to tove og så videre, og det vil sige nedlægge dem her.
+
+30:55
+Vores fulde matrix er der står diagonal elementerne.
+
+31:00
+Det er dem, der har indsendt. Det ses her også.
+
+31:03
+Så når man har en matrix for eksempel vores matrix op, så bordet tre plus to plus tre, og det må være otte.
+
+31:13
+Nu kan jeg se. Det er sådan det er sådan, at hvis de kigger på det resultat her, så står der,
+
+31:23
+at determinanten for en matrix er uafhængig af, hvad for en basis man har valgt, fordi det er bare produktet og invaderende.
+
+31:34
+Tilsvarende er sporet en anden variant for en matrix, så det er sådan,
+
+31:41
+at sporet af vores matrix er simpelt hen også lige med sporet af vores lambda matrix, som er så megen værdierne.
+
+31:54
+Vel at mærke. Og husk at de skal tælles med. Multiplayer sitet.
+
+31:59
+Og hvis vi littauer i vores eksempel her op.
+
+32:05
+Vores eksempel vores eksempel som vi havde fat i ideer op, så sporet er vores matrix sporet i vores matrix.
+
+32:17
+Det var tre Clowes to klods tre, og det blev vi enige om var otte,
+
+32:24
+og hvis vi nu tager egne værdierne og lægger sammen, så er det fire plus to, og det var en dobbelt egenværdi.
+
+32:34
+Den kommer ud sådan, og det er minsandten det samme.
+
+32:40
+Casella, og det betyder det betyder at nogle gange nogle gange kan man gøre ting meget, meget hurtigt, f.eks.
+
+32:55
+Dyst. Jeg ved ikke om ikke huske det, men der havde vi en Matrix A som.
+
+33:03
+Nu kan jeg sgu dårligt huske hvordan den ser ud aften. Jeg tror den havde trukket havde fem.
+
+33:13
+3. Mine 6 og minus fire.
+
+33:18
+Sådan. Det er vores matrix.
+
+33:23
+Og hvis jeg lige prøve at kigge på Dan, så er det jo hurtigt at sige afklæde verdensdel som i nat.
+
+33:31
+Det er minus 20. Minus.
+
+33:37
+Minus 18 det er minus to og minus 20 Plus er 18.
+
+33:45
+Det vil være minus to at spore. Er vores matrix 5 plus minus 4, det vil sige 5 minus 4 D, E.
+
+33:59
+Og hvis jeg så hurtigt skal finde egenværdi, så siger jeg okay, jeg skal finde to fag,
+
+34:05
+hvor læreren der engang var ham der tog alle i minus tog, og hvor læreren der et klods lambda tog med en.
+
+34:15
+Det lignende system har også kun én løsning. Det er ikke lineære udligningssystem for de gange sammen her.
+
+34:21
+Men prøv at se. Det er fuldstændig oplagt, at der indledes med to lamper to lig minus en løsning.
+
+34:35
+Så hurtigt kan det lade sig gøre. Og finder egne værdierne, så kan man sige at det er nemt.
+
+34:42
+Nej, fordi der er en masse der en masse, for hvis det var en trigger en tre matrix, så er det ikke spor nemt det her.
+
+34:47
+Men så kan man bruge det til check. Kan se det, så kan man bruge til at tjekke, om man har regnet rigtigt.
+
+34:54
+Det ville være dumt. Jo, men det betyder ikke noget om det er 2 eller minus 1 eller minus 1 og 2.
+
+35:01
+Det er lige meget. Det betyder bare, at de tilhørte egen vektorer. De bliver også byttet rundt også så Ağca.
+
+35:09
+Godt nok så det her.
+
+35:12
+Det var sådan lidt let tricker julelege.
+
+35:18
+Det næste, som hvis lige skal runde af det begreb, der hedder simili til et.
+
+35:30
+Og det handler simpelthen om, at hvis vi nu har to matricer A og B kvadratiske matricer.
+
+35:44
+Så siger man at det er Semele. Jeg. Similar er.
+
+35:52
+Hvis der findes en regulær.
+
+36:01
+Matrix. M, så således er den ene Matrix' for eksempel matricen A kan skrives som den anden matrix.
+
+36:20
+Garde. Hvad hedder det?
+
+36:26
+Gange denne her regulære matrix for henholdsvis højre og venstre?
+
+36:31
+Og ser man, at det er civile læger, og hvis vi kigger på det, vi har gjort herover?
+
+36:38
+Ikke også. Der har vi så vidst, at hvis en matrix har en lineært uafhængige egen vektorer, så den civile.
+
+36:48
+Men diagonale matrix. Det er det der står her.
+
+36:57
+Hvis de kigger her her, står der nemlig, at matricen A og diagonal matricen Lambda de civile sager, og dette er så bare vores EM.
+
+37:10
+Så det har været diagonal I ser bare det betyder bare at man er simi lærer.
+
+37:15
+Med en diagonal matrix der er så der er så et resultat.
+
+37:26
+Sådan siger at simulere matricer. Similar matricer.
+
+37:37
+Har. Samme deltager vi i nr.
+
+37:47
+Der skulle stå et determine. Det kan ikke laves, skriver legende.
+
+37:57
+Og hvordan viser man det? Jamen, det er faktisk ikke, det er faktisk ikke så svært.
+
+38:04
+Fordi vi kan vist det terminalt og karakteristiske polynomium kan vi tage med og.
+
+38:17
+Care varer til Ryges disk.
+
+38:23
+Polynomium, og det at gøre det viser det karakteristiske polynomium er ens, fordi så kan jeg ikke se noget smart,
+
+38:33
+fordi vi selv nu det karakteristiske polynomium for vores matrix af, så er det jo determinanten for vores matrix a minus lambda gang enheds matricen.
+
+38:51
+Her skal forenes med. Sådan. Og hvad er det lige med?
+
+38:57
+Når. Hvis jeg bliver Semele, så kunne skrives på denne her måde, det vil sige på a s, kan der stå EM i minus først.
+
+39:08
+B. M. Venus Lambda og så ser Enheds matricen.
+
+39:17
+Denne kan da i hvert fald skrives som m. Det minus første gang.
+
+39:24
+Det må være det samme. Og så lægger mærke til at her kan jeg sætte Emmy minus først ud til venstre.
+
+39:36
+Og så kan jeg se et EM uden for til højre.
+
+39:40
+Og hvad står der så tilbage inde i matricen? Der må stå B tilbage minus lambda.
+
+39:46
+Og når jeg fjerner dem, forstår hver eneste matricen igen.
+
+39:53
+Og så på præcis samme måde som før. Så skriver jeg det her op som determinanten for minut første gang.
+
+40:07
+Da jeg tror at det der sker nu. Er at vi går skråt op, så her kommer til at stå determinanten for Emmy minus første gang.
+
+40:29
+Determinanten for b minus Lambda.
+
+40:36
+A. Gange determinanten for m.
+
+40:41
+Det er det samme trick vi brugte lige før, og så flytter jeg rundt på dem, og det giver bare en så det her.
+
+40:49
+Det bliver determinanten for b minus lambda i.
+
+40:55
+Så det det samme trick, som jeg brugte derovre. Så her står der.
+
+41:00
+Her står der, at de simulerer matricer har samme karakteristisk paulino, men fordi det her det er jo det karakteristiske polynomium for matricen B.
+
+41:13
+Og så lægger man jo lige mærke til, at hvis man tager det karakteristisk på linoleum og sætter nul ind på Lampres plads,
+
+41:24
+så står der bare determinanten for. Og eftersom dette er det samme som når jeg sætter 0 1.
+
+41:36
+Så må det jo også være det samme som determinanten for forbi.
+
+41:45
+Og det fortæller os også en anden ting. Også fordi det er det faktum, det faktum, at når man sætter nul ind i det karakteristiske polynomium.
+
+41:56
+At man så får det, er min anden. Så betyder det jo at det karakteristiske fået noget som vi har.
+
+42:03
+Der må konstant glæde hvad determinanten.
+
+42:10
+Kun fordi vi selv sætter nul end på det nuværende, så fjerner jeg alle Alfelt alle de steder, hvor der står Lambda.
+
+42:17
+For det er kun constantly, der overlever. Jamen så er det determinanten der står til sidst.
+
+42:25
+Det er kunst. Det er konstant blevet i det karakteristiske linoleum, og det vil sige,
+
+42:32
+at hvis de har et karakteristisk polynomiet for en eller anden matrix og konstant led af nul.
+
+42:38
+Så er det jo klart at nul er et rod i ligningen. Jamen det svarer jo også til, at så har matricen determinanten nul, og så er den ikke regulære.
+
+42:46
+Kikser det så alle de der ting? Det passer fantastisk smukt sammen.
+
+42:52
+Så ja, sågar fare så gået.
+
+43:01
+Er der nu noget andet jeg skal se sager. Nej, jeg tror egentlig jeg tror egentlig.
+
+43:09
+Jeg tror egentlig vi makker ret vi makkere igennem. Jeg tror dette.
+
+43:14
+Jeg tror at det her klarer jeg trygt igennem dagens dagens strabadser.
+
+43:19
+Så tak for denne gang, folkens. Held og lykke med opgaverne.
+
+43:24
+Og have en god dag. Tak!

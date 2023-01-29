@@ -1,0 +1,692 @@
+0:06
+God morgen. Vi har et omfattende program i dag.
+
+0:10
+Det handler om symmetriske matricer.
+
+0:12
+Der er rigtig meget at lære både teori, teknik og invitationer noget ved i forvejen fra efterårs semesteret fra gymnasiet.
+
+0:21
+Jeg når ikke at vise Mabel i morgen føjer dem. Må I selv prøve at kigge på?
+
+0:27
+Det handler om symmetriske matricer. Det er der to gode grunde til.
+
+0:32
+Den ene er, at vi i efteråret havde et vist vil sige et kursus i lineær algebra.
+
+0:39
+Nu kommer det sidste kapitel, og det er et smukt kapitel, som giver en afrunding af teorien.
+
+0:48
+Se, det havde vi jo nogle af de vigtige resultater vi brugte, da vi for eksempel skulle løse differentialligninger og differentialligning systemer.
+
+0:57
+Vi snakkede om egenværdier for en matrix. Har vi et tal lambda så a ganget med en vektor V giver lambda gange,
+
+1:08
+så har vi den unikke situation, at vi har en egen værdi lambda og dens tilhørende egenvægt tom.
+
+1:17
+Og så fandt vi ud af, at vi kan har kanaliseret matricen hvis og kun hvis den har en lineært uafhængige egne vektorer.
+
+1:28
+Hvis det var tilfældet, så kunne vi se den inverse matrix tv gange med A Guide.
+
+1:37
+Madvig gav Lambda matricen opad lamper matricen.
+
+1:42
+Det var den matrix der opstår, hvis vi putter egen værdierne i diagonalen og har nulre alle andre steder og den vektor v, der står her.
+
+1:53
+Den består at de tilhørende egne vektorer. Det tror jeg godt, de kan huske.
+
+2:00
+Men jeg tror også godt I kan huske at der var to problemer. Det ene var det problem, at somme tider var der komplekse egenværdier, og det var jo nået.
+
+2:10
+I blev begejstrede for, for det er fysikere og bygnings folk og konstruktivisme, der er begejstrede for.
+
+2:17
+For det er det, der giver os svingningerne. Hvis vi ikke havde komplekse tal, så havde vi ikke svingninger.
+
+2:23
+Og så gav jeg studium ingen mening.
+
+2:27
+Det andet problem er så, at selvom vi regner de komplekse egenværdier med, så var det alligevel ikke sikkert at en matrix kunne diagonal i Ceres.
+
+2:41
+I dag bliver det hele meget enklere, når vi snakker om symmetriske matricer.
+
+2:47
+For de har altid for det første kun ved hjælp af egne værdier.
+
+2:51
+For det andet de kan altid 400 i Ceres, og vi får rigtig meget brug for symmetriske matricer i det emner, vi behandler nu.
+
+3:02
+Når vi snakker om helse matricer, og når vi snakker om ekstremer og osv.
+
+3:08
+Og når vi snakker om keglesnit og flader.
+
+3:11
+Så derfor har vi to gode grunde til at have om symmetriske matricer afrundet lineær algebra og får nyt input til at løse de problemer,
+
+3:20
+vi nu står midt i. Hvor vi skal lave optimeringer og forstå flader i rummet og al den slags ting.
+
+3:28
+En lille intro. Det er så den matrix, som vi kaldte for heste matricen, som vi indførte sidste gang.
+
+3:42
+Og vi kan jo skrive for en glat funktion.
+
+3:51
+Skal vi kalde den for DF definerede på er 1 1 I er.
+
+4:01
+Er heste matricen. Givet ved.
+
+4:13
+Så har vi altså en matrix vi kalder for hul.
+
+4:21
+Og så får jeg her en M hos en matrix, der består af de dobbelt differentierede, hvor vi altså her siger f.
+
+4:31
+Mærke mærke. Exit x2.
+
+4:38
+Det er et dobbelt mærke dæks et nej her var det undskyld DR Exit exit.
+
+4:43
+Og så er det exit X2 og så videre. F dobbelt mærket x et x EM.
+
+4:53
+Og så har vi her et dobbelt mærke med hensyn til exit.
+
+4:59
+Nej til X2 og så ex ep og et dobbelt mærke X2.
+
+5:05
+Det er X2 og et dobbelt mærke X2.
+
+5:10
+Det er X1. For en fortsætter vi med at differentiere til ex inden og exit også så til det dobbelte mærke x n gange x1.
+
+5:38
+Og denne matrix er en symmetrisk matrix.
+
+6:03
+Og lad os bare se på et eksempel på det.
+
+6:10
+Kør. Og vi skal kigge på en kvadratisk form.
+
+6:31
+Som hedder f. A. Komma Y kommercielt er lig med 6 x i anden plus 9 bygget i anden plus 6 sæt i anden plus fire x y plus 8 x z minus fire fly.
+
+6:58
+Sæt. Sejren.
+
+7:10
+Hvorfor hedder det en kvadratisk form?
+
+7:13
+Det gør den fordi at det er et andet grads polynomium i to variable, men hvor alle led har to variable, der er ganget med hinanden.
+
+7:27
+Vi kan altså se, her har vi x ganget med sig selv.
+
+7:31
+Byen ganget med sig selv, z ganget med sig selv. Men her tre led.
+
+7:36
+De betragtes også som anden grads led, fordi der har vi jo to variable, der er ganget sammen med hinanden hele vejen hen.
+
+7:45
+Så i en kvadratisk form i tre variable består altså af led af den type, som alle sammen er indkapslet.
+
+7:56
+Den kamp skal vi prøve at finde helse matricen for den kvadratiske form, der står her.
+
+8:14
+Kun her i diagonalen. Da skal jeg bruge dér, hvor jeg differentierer med hensyn til x 2 gange by to gange set to gange.
+
+8:29
+Så når jeg differentierer hele dette med hensyn til x to gange, så forsvinder alle de sidste led.
+
+8:36
+Vi får kun dette tilbage, og vi får to tallet ned.
+
+8:40
+Så får vi altså 12. Der bliver kun 12 tilbage. Her.
+
+8:46
+På samme måde når vi differentierer to gange med hensyn til Y, så får vi 18 på andenpladsen i diagonalen,
+
+8:54
+og når vi differentierer to gange med hensyn til Z, så får jeg 12 i diagonalen.
+
+9:04
+Nu skal jeg så først på denne plads de France og med hensyn til eks.
+
+9:10
+Og derefter med hensyn til by og gør jeg det, så bliver de alle sammen differentieret i nul.
+
+9:18
+Pånær et billedet der står her. Jeg differentierer først efter eks.
+
+9:25
+Også efter ny bagefter. Så får jeg fire her.
+
+9:31
+Og hvis jeg gør det i den modsatte rækkefølge først efter Y derefter efter X, så får jeg det samme ved her.
+
+9:41
+Der bliver til fire. Og så skal jeg have et billede der skal stå her.
+
+9:49
+Det er når jeg differentiere efter X og efter Z, så forsvinder alle de lukkede døre, og det sidste led forsvinder.
+
+9:57
+Der bliver kun den dér tilbage differentierer både med hensyn til ikke sig selv.
+
+10:01
+Så er der otte tilbage, også hvis jeg gør det i den modsatte rækkefølge.
+
+10:08
+Endelig så skal jeg på dette sted først i francium med hensyn til by og så med hensyn til sæbe bagefter.
+
+10:16
+Alt det her bliver differentierede i nul, og så bliver der altså kun minus fire tilbage.
+
+10:22
+Det gør der de to steder, der står her. Minus fire og minus fire.
+
+10:29
+Hermed har jeg altså fundet helse matricen for den kvadratiske form, som jeg har skrevet op.
+
+10:37
+Og i BBC's bemærke at denne matrix.
+
+10:41
+Den er symmetrisk. Hvad betyder asymmetrisk?
+
+10:46
+Det har både en visuel betydning og en teknisk den visuelle betydning, det er,
+
+10:55
+at den er symmetrisk omkring diagonalen, så hvis jeg folder den omkring diagonalen, så kan I se.
+
+11:05
+Så falder tallene ned i sig selv. Er jeg med på det?
+
+11:12
+Også en anden. Den tekniske.
+
+11:27
+Altså når man sådan skal skrive den fordom blandt de kort som romanen Form, så er det,
+
+11:33
+at den er symmetrisk omkring diagonalen ensbetydende med, at den transponerede er lig med sig selv.
+
+11:41
+Altså byder i eks alle rækkerne rundt med søjlerne, og de er ens, så er den symmetrisk.
+
+11:57
+Ca. Se som en hest med tricks for en kvadratisk form.
+
+12:07
+Den er interessant, fordi. Hvis jeg sætter Matrix A lig med det halve af heste matricen er altså alle elementerne.
+
+12:29
+Gange med en have. Så kan heste matricen eller så kan den kvadratiske form skrives sådan her.
+
+12:43
+En Vandenbroucke vektor hvor der står x y z. Af matricen og en Laura vægtere, hvor der står x y, z.
+
+13:01
+Og var det, så er H matricen ganget med en halv A så i en symmetrisk matrix.
+
+13:27
+Dagens program. Det vi gerne vil finde ud af i dag, er.
+
+13:33
+Vi vil gerne finde en overtog normal basis for A, der består af egne vektorer for a.
+
+13:43
+Altså en ny basis bestående af egne lektorer for a. Sådan at den kvadratiske form, der står her i det nye koordinatsystem, bliver uden blandede led.
+
+13:58
+De blandede led det er de sidste tre.
+
+14:03
+Jeg kan altså lave et koordinat skifte i R3, således at den kvadratiske form skifter udseende kun består af den slags udtryk her.
+
+14:16
+De blandede led, de forsvinder. Det skal vi bruge, når vi skal finde vej, når vi skal finde ekstremer.
+
+14:23
+Og når vi skal bestemme keglesnit, keglesnit, slaget og den slags ting, så er teknikken, vi skal lære i dag.
+
+14:29
+Og det som slutningen på forelæsningen om en time og et kvarter.
+
+14:36
+Så er det det eksempel, som jeg færdiggør.
+
+14:40
+Jeg finder en overtog normalt basis for tre bestående af egne vektorer for a, således at den kvadratiske form bliver uden blandede led.
+
+14:49
+Hver sko. Og spis. Den snak her forudsætter at vi indfører et prikproduktet er en.
+
+15:32
+Ca. En tømrer og en murer ved hvad længder og vinkler betyder.
+
+15:42
+De har nemlig en tommestok, og de har en vinkel måler, hvor de kan måle alt.
+
+15:48
+Nogle af dem ved også, at hvis de tager en trekant, der har siderne tre, fire og fem, så er det en retvinklet trekant.
+
+15:55
+Bruger de den trekant, så kan de få muren vinkelrette. Via matematikere vi har brug for vinkler og længder, I er fire og er fem og er 6 og så videre.
+
+16:06
+Det er ting, som man hverken kan se eller måle med nogen instrumenter. Hvad er vores redskab til at indføre det her?
+
+16:13
+Det er prikproduktet, og det er noget, vi heldigvis kender i forvejen.
+
+16:18
+Vi skal generalisere prikproduktet og herudfra kan vi indføre vinkler og længder i et vilkårligt er en.
+
+16:34
+Altså. Gide en vægtere a.
+
+16:41
+Som har koordinaterne af ét af to op til en.
+
+16:50
+Og vækstform b som med hensyn til standart basen har koordinaterne B et B2 op til B 1.
+
+17:05
+Så indfører vi prikproduktet.
+
+17:15
+Hvor vi siger at a vektoren ganget eller prikket med bevæg ham, og nu gør vi ligesom I har lært det i i planen og i rummet prikproduktet.
+
+17:30
+Det fremkommer jo ved at vi siger første koordinaterne gang i sammen plus anden koordinaterne gange sammen osv.
+
+17:39
+Så prikproduktet det er altså a et b et plus at too big to loose og så videre a n gange b en.
+
+18:01
+Når vi nu har gjort det. Så kan vi også indføre længden af en vektor.
+
+18:18
+Og I ved. Hvis det var i planen vi skulle udregne længden af en vektor af, så bruger vi jo bare Pythagoras særpræg.
+
+18:27
+Det er kvadratroden af ét. I anden plus er to Jane.
+
+18:32
+Det er præcis den form, vi nu udvider, og vi siger altså, at længden af en vektor er definerede ved kvadratroden af a prikkede med sig selv.
+
+18:47
+For det er nemlig kvadratroden af A, idet anden plus af to hjernen plus og så videre a end i anden.
+
+19:01
+Hermed har vi udvidet Pythagoras s. Formen til et vilkårligt talt rum er en.
+
+19:22
+Se I kender os fra gymnasiet.
+
+19:28
+Da kender I formen, og jeg var faktisk inde på det sidste gang.
+
+19:33
+Jeg tror alle lige kan få en lille plads til det her. Den havde vi brug for sidste gang I kender den fra gymnasiet.
+
+19:55
+Et break produkt af A og B. Det er længden af den ene gange længden af den anden ganget med cosinus til deres mellemliggende vinkel.
+
+20:04
+Den kan vi både bruge i planen. Og i rummet.
+
+20:17
+Så det er den form jeg nu vil bruge, når jeg indfører vinkler mellem vektorer i er en.
+
+20:34
+Altså vinklen mellem A og B.
+
+20:44
+Bestemmes så ved at cosinus til vinklen er lig med prikproduktet divideret med længde.
+
+20:58
+Produktet. Så her har jeg altså bare taget cosinus Veyhe flyttede længde produktet over på den anden side af lighedstegnet.
+
+21:12
+Så har jeg altså her en form for bestemmelsen af vinklen imellem de to vektorer.
+
+21:21
+Kamp. Fra gymnasiet.
+
+21:34
+Der ved jeg også at to vektorer er ortogonale, det vil sige vinkelrette, netop hvis deres prikproduktet er lig med nul.
+
+21:47
+Det vil vi nu bruge til også at indføre begrebet vinkelrette vektorer i ind, så det her er så en definition.
+
+22:02
+A og B kaldes ortogonale.
+
+22:14
+Vinkelrette. Hvis deres prikproduktet.
+
+22:26
+Er lig med nul. En.
+
+22:43
+Times. Så nu har vi altså fået indført alle de begreber vi har brug for med hensyn til vinkler og længder.
+
+22:54
+Og også til det næste begreb. Det er nemlig begrebet en over to normal basis.
+
+23:15
+Altså en basis for er en kaldes over to, må man.
+
+23:28
+Altså kort sagt en 8'erne med en basis. Hvis alle basis vektorer med.
+
+23:43
+Har længden en. Og det indbyrdes.
+
+23:56
+Er overtog guldnælde. Og det vil jeg nu give et eksempel på.
+
+24:31
+En og eksempel. Det er standard basen i.
+
+24:40
+Er fire år er en over to normal basis.
+
+24:59
+Og det viser vi så den her. Vi ved godt at vi har.
+
+25:09
+Den første basist svigter i standard basen i fire.
+
+25:13
+Det er den, der hedder et. I to.
+
+25:23
+I tre nul komma nul komma en komma nul og i fire år er nul komma nul komma nul komma in.
+
+25:43
+Og så kan jeg jo begynde med at finde længden af et.
+
+25:55
+Der bruger vi Pythagoras S-formand for er fire. Den er så inde i anden klo snorlige.
+
+26:04
+Anden plus nul i anden plus nul i anden. Så den har længden en.
+
+26:16
+Og så videre med de andre tre.
+
+26:25
+Og så skal vi så se om de også er indbyrdes vinkelrette.
+
+26:34
+Og der kan vi jo prøve med et ganget med et 2.
+
+26:42
+Indgangene nul, det er nul, nul gange en nul og nul og nul og nul.
+
+26:57
+Og så videre med alle de andre. Kamp Vi tager for eksempel 2.
+
+27:16
+Og at vi vil bestemme vinklen mellem.
+
+27:24
+Vægteren, der hedder en komma nul komma 1,0 på knappen og vektoren ved 2, som hedder 1, kommer ind, kommer ind kommer en.
+
+27:44
+Vi bestemmer først deres længde. Og vi kan se længden af ved et ud fra Pythagoras.
+
+27:54
+Det bliver selvfølgelig til kvadratrod 2. Og længden af v 2.
+
+28:07
+Her ved hjælp af Pythagoras. Det bliver kvadratroden af fire af.
+
+28:14
+Altså tallet 2. Han.
+
+28:23
+Villy vinklen imellem dem skal så bestemmes ved deres prikproduktet.
+
+28:30
+Kommer nul komma 1,0 ganget med én komma en komma 1,1.
+
+28:41
+For så divideret med deres længde produkt fradraget rod to gange med 2.
+
+28:51
+Og prikproduktet her giver 1 gange 1 det 1.
+
+28:55
+Så får vi nålen, og så får vi en. Og så får vi nul.
+
+28:59
+Det vil sige, vi får to for oven fra dragebåd to gange to.
+
+29:04
+Forneden. Vi forkorter to tallerne væk og så bliver kvadratroden, så bliver det til kvadratrod to halve.
+
+29:19
+Og det kan jeg huske, da jeg var oppe i prøven i komplekse tal, der skulle vi kunne huske udenad.
+
+29:26
+Hvad vinklen så var, hvis cosinus til ved den er kvadratrod to halve, hvad er så vinklen?
+
+29:39
+Jeg var 45 jeg.
+
+29:46
+Det vil jeg kalde for de farver der er i radianer, så det har jeg altså vinklen imellem de to vektorer her i fire.
+
+30:26
+Og så en. Lille sætning, for nu vil vi også indføre produktion af vektorer på andre vektorer.
+
+30:41
+Er vi bruger vi bruger af arcus cosinus, og den har kun ét svar, og det er den vinkel, der ligger imellem nul og vi.
+
+30:58
+Se det seneste eksempel. Det er. Hvis længden af en vektor i denne er en.
+
+31:18
+Så bestemmes. Projektion manden.
+
+31:28
+A en vægtere a h. E.
+
+31:33
+Hvede. At. A.
+
+31:43
+Produceret på inspektøren. Det er deres skalaer et produkt.
+
+31:51
+Eller prikproduktet. Og ganget med en vektoren.
+
+32:05
+Kør. Og det indføres også som en generalisering af noget i også.
+
+32:19
+Har haft en masse masede, nemlig den det her tilfælde fra, hvad enten det kan både hvad er 2.
+
+32:28
+Jeg vidste ikke hvor der i fandt man rummet. Men vi har altså en vektor af.
+
+32:35
+Vi har en enhed. Svigter Cruisere A ned på Ines vektoren.
+
+32:42
+Det er den vektor vi kalder for a produceret på E.
+
+32:48
+Så kan I se så bdm vektor her.
+
+32:52
+Den vil have længde dem som er skalar produktet af de to vektorer.
+
+32:58
+Så det vil altså sige vektoren selv. Det er dens længde og så gange med retningen.
+
+33:27
+Vi har nu indført overtog normale baser. Men hvordan skaffer man sig en overtog normalt basis?
+
+33:37
+Der har man en algoritme som kaldes for Grams Smidts metode.
+
+33:44
+Smith var ikke dansker, men det var Grant.
+
+33:47
+Han var arkivar i Sønderjylland, og han er altså fordi han har været med til at lave denne her lille algoritme.
+
+33:55
+Så står hans navn i en hvilken som helst lærebog i lineær algebra verden over.
+
+34:03
+Og den algoritme den skal i se nu. Jeg skal jo godt nok på tavlen, og så skal I lave den i dag og i det næste hjemmeopgaver sæt.
+
+34:14
+Der skal jo også vise, at I behersker Graeme Smith algoritmen?
+
+34:21
+Det. Kun når fair play antag at U er et helt dimensionalt.
+
+35:10
+Underrum I er en. Og at VÆGT vægter sættet i et U2 op til U.
+
+35:33
+P. Skal vi kalde det underrum for Store U.
+
+35:45
+Så vi anså når. Det havde jeg gjort i forvejen. Og at dette vigtige sæt er en basis.
+
+36:00
+Foruden. Så skaffer vi.
+
+36:13
+En overtog normal basis. På følgende måde.
+
+36:31
+Kilden. Hun.
+
+36:39
+Den første sektor i det overtog normale sæt er nem at få.
+
+36:44
+Den vil jeg kalde for ved et køkken, og den får jeg simpelt hen ved at tage den første vægt.
+
+36:52
+Så i basen her. Og dividerer med dens længde.
+
+37:05
+Sådan så har du nemlig længden en.
+
+37:12
+Den nu indfører jeg en hjælpe så. Pind, som jeg kalder for jobbet.
+
+37:24
+Vi er to. Og den består af vægteren U2 minus.
+
+37:37
+Og så kommer der et prick produkt, nemlig af U2.
+
+37:44
+Det var den anden basis Spector og så gange med den ved ét.
+
+37:49
+Jeg fandt her. Jeg prikker altså de to vektorer.
+
+37:55
+Så får jeg et tal, som jeg så ganget med ved et.
+
+38:04
+Det var en hjælpende vækster, som jeg bare laver på den måde her. Og så vægtede nummer to i mit overtøj normale sæt.
+
+38:13
+Den kalder jeg for Veto. Denne er så hjælpe væk som divideret med hjælpe væk tons længde.
+
+38:37
+Nu skal jeg have en ny hjælper vækster som jeg kalder for dobbelt med tre.
+
+38:55
+Her skal jeg tage udgangspunkt i den tredje af min basis vektorer.
+
+39:00
+Den der hed Gud tre. Og så skal jeg trække to led fra.
+
+39:10
+Der kommer nu et et break produkt, nemlig af U3 over ved et.
+
+39:18
+Altså dem jeg har heroverfor ganget med, hvilket altså er minus et prik rudorff af U3 og RV 2 og ganget med v 2.
+
+39:36
+Så jeg når jeg altså tager dem væk, så dér og trækker disse to vektorer fra.
+
+39:42
+Så har jeg mine hjælpe væk vi tre og så bliver v 3.
+
+39:50
+Den bliver så w tre divideret med jobbet ved et tre længde.
+
+40:03
+Og sådan kører. Algoritmen i gemmen op til UPI.
+
+40:11
+Det vil altså sige Jeg laver nu en ny hjælpe lektor dobbelt ved fire,
+
+40:18
+hvor jeg tager udgangspunkt i uge 4, og så trykker tre skalaer produkter ganget med en vektor fra.
+
+40:27
+Og 5. Skal vi trække fire fra osv. Så det er altså en algoritme her som er indført.
+
+40:37
+Og så videre. En til at vi har bestemte vægteren ved P.
+
+40:58
+Så er vægtet at sættet ved et veto op til VP.
+
+41:09
+En overtoner med en basis. For under rummet u.
+
+41:47
+Og det her vil jeg simpelt hen overlade til os selv.
+
+41:51
+Det skal især sider pusle med.
+
+41:54
+Altså når I får givet sådan et væk, så sæt bestemt den overtoner med en basis, som er en basis for det der vektorrum og så.
+
+42:02
+Og så betragte, hvorfor det bliver, hvorfor de er vinkelrette på hinanden.
+
+42:07
+Det er vigtigt, vi kommer til at forstå det, men tiden tillader ikke, at jeg giver det eksempel nu, fordi nu syntes jeg, at I fortjener en pause.

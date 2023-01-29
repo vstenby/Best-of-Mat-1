@@ -1,0 +1,1244 @@
+0:00
+Jeg går morgen se, vi begynder på et nyt kapitel i dag.
+
+0:07
+De første tre uger. Det handlede om differentialregning og om optimering og den slags ting.
+
+0:12
+Og nu handler. Nu handler det om det modsatte. Det er integralregning, og det er jo heldigvis noget, som I kender en hel masse til fra gymnasiet.
+
+0:23
+Så det er måske lidt provokerende, når jeg nu stiller de her spørgsmål.
+
+0:26
+Hvad betyder dette symbol egentlig? Det ved jeg jo godt.
+
+0:32
+I kan begynde at regne på det og så videre. Men vi skal prøve at se. Kan vi fange en lidt mere oprindelige betydning af det, der står dér?
+
+0:40
+Og så kan I se, at vi starter med at snakke om en funktion af en variabel, og den har jeg altså kaldt for ekser.
+
+0:50
+Men. Jeg kunne også lige så godt have kaldt det for U, så er variabel.
+
+0:57
+Den er så u og integrations var den også. Det er jo noget, vi skal vænne os til.
+
+1:03
+Nu skal I integrere efterhånden i to variable tre variable, og det kan være uge v x y z.
+
+1:10
+Jeg ved ikke hvad, så her skal vi altså rigtig lære at være fleksible.
+
+1:16
+Og det er altså det her, vi starter. Og det er en introduktion til rigmand integralet.
+
+1:23
+Så er det første her, det bliver sådan. Det bliver lidt teoretisk her. Og så kommer der nogle eksempler.
+
+1:29
+Og så har vi lidt mere teori ind imellem, så det er lidt blandet med teori og eksempler.
+
+1:35
+Og nu starter vi altså her. Vi siger. Der er givet en funktion F.
+
+1:45
+Som er kontinuert på et interval fra A til B.
+
+1:56
+Altså en kontinuert funktion af en variabel, og den giver vi straks en fortolkning for at gøre det lidt nemmere.
+
+2:07
+Så siger vi så, at de fortolker F.
+
+2:13
+Det er en masse teaterets funktion, altså som måler.
+
+2:30
+Den lokale masse per længdeenhed. Ove.
+
+2:48
+Og altså det problem vi stiller os nu da er så.
+
+2:57
+Det er så følgerne. Hvad er den samlede masse?
+
+3:10
+Den kan vi kalde for store EM af intervallet fra A til B.
+
+3:25
+Og. Så skulle vi prøve og lege og lave lidt illustration her.
+
+3:34
+Se. Jeg tegner en uagtet deres antal aktier.
+
+3:39
+Hvor variablen er u. Og så har vi altså et A liggende i et eller andet sted.
+
+3:52
+Og så har vi indtil fælles endepunkt. B dér og er når vi fortolker denne her, så kan vi så sige, at herfra a til B.
+
+4:03
+Det er en slags tynd metalstang, og den har den egenskab at vægte den lokale vægt ændres lidt.
+
+4:12
+Her er det måske tungere her. Den her er den mindre tung og så videre, da en glidende overgang.
+
+4:18
+Det er jo en kontinuert masse funktion, som vi betragter, og det problem vi har her, er, når vi har den lokale egenskab af.
+
+4:28
+Så hvor meget vejer den her? Hvor meget vejer den her? Hvordan får vi det lagt sammen?
+
+4:32
+Så vi har en viden om den samlede masse af hele stykket.
+
+4:37
+Altså med teaterets funktionens samlede virkning på intervallet fra A til B.
+
+4:43
+Og det er det, som integralregning handler om. Hvordan kommer vi fra lokal viden og så til at samle det op?
+
+4:51
+Hvad betyder det så som helhed? Og vi skal jo finde på.
+
+4:58
+Vi skal jo finde på et eller andet, og så vi starter sådan her.
+
+5:06
+Så vi deler intervallet. I end lige store stykker som der, og end det kunne være en, der kan være fem, det kan være sytten.
+
+5:31
+Og nu kan vi bare lige antyde, hvordan det ser ud her. Selv.
+
+5:40
+De skulle være lige store. De stykker jeg har lavet her, og så del af punkterne.
+
+5:51
+Dem kan vi kalde for er så u et U2.
+
+5:57
+Og så videre op til ugen. Og så lægger jeg mit o et her.
+
+6:07
+Og så har vi U2. Og så videre og så det sidste dele punkt her.
+
+6:14
+Det kommer til at hedde U End. Sådan det.
+
+6:22
+Seacrest har valgt at kalde denne her for uge et den der får U2 den derfor ud tre, og så vidt havde vi fået un her handel.
+
+6:31
+Men nu har jeg altså valgt at starte her i det venstre interval punkt, og det er derfor det hedder en venstre sund.
+
+6:38
+Hvis jeg har gjort det modsatte, så havde det været en højere sum. Det kunne også er gjort. Men her laver vi altså venstresving mig.
+
+6:46
+Og nu vil jeg altså så gerne finde ud af hvor meget vejer den stang der, og dér gør det ondt kontinuert funktion.
+
+6:53
+Det jeg så gør, det er jo det siger de her uger. Det er min test punkter som nu tester jeg funktionen her.
+
+7:02
+Og så ganger jeg med den længde, der er her og de længder.
+
+7:06
+Dem kalder vi for Delta U. Og da de har da de har samme længde, så hedder de allesammen deltog.
+
+7:21
+Sådan så hvis vi tager en masse tæthed funktionen i test nogle her og gange med længder.
+
+7:29
+Så ville jeg få en app proklamerede værdi af det første stykke her.
+
+7:36
+Så vi laver venstresving. Og den kender vi får vi en.
+
+7:47
+Og den er altså funktionens værdi i test punktet.
+
+7:53
+Og så gange med længden. Deltog.
+
+7:59
+Og pointen er her, at det kan godt være, at den varierer en lille smule herfra her til,
+
+8:05
+så det er jo kun en approksimation, men fordi den er kontinuert, så er det ikke så meget.
+
+8:12
+Den varierer, så derfor, når jeg nu går hen til det her punkt.
+
+8:16
+Så kan jeg lade den repræsentere hele det stykke her. Så er det ikke det halve galt.
+
+8:23
+Og så siger vi altså plus at test værdien i to gange med længden plus og så videre op til det sidste,
+
+8:33
+som så er uegnet som test punkt og gange med den længde, som den repræsenterer.
+
+8:42
+Dette er den venstre som. Og det skriver vi så på.
+
+8:51
+Forkortet sådan her det her. Det er et græsk bogstav.
+
+8:57
+Ja, vi kan også kalde det for et S. Det hedder Sima, og det hedder så vi skal sumererne fra i Lima ét og til en.
+
+9:07
+Af F. I alle disse test punkter. Det hedder sig før UCI, men alle sammen ganget med længden der.
+
+9:21
+Så det er en venstre. Og det er en approksimation til den samlede masse vi har her.
+
+9:30
+Så kom så vi kan altså skrive her ved EM en.
+
+9:36
+Er forrykt værre end. En approksimation.
+
+9:49
+Af den samlede masse. Sådan.
+
+9:54
+Og så skal jeg jo forstå, at ved 1. Det er en tal følger.
+
+10:01
+Altså jeg kan jo starte med et. Altså den venstre, som der hedder ved ét.
+
+10:06
+Den består bare i. Jeg har taget test punktet hér og så ganget med Helenas interval længden.
+
+10:12
+Den er brugt som Mazzon. Den er ikke særlig god. Og så er vi to.
+
+10:18
+Det er så vidt jeg har delt op i to stykker. Bruger dette til test punkt ganget med længden.
+
+10:23
+Her bruger det andet test punkt ganger med den der. Og så har vi en.
+
+10:29
+Når en er tre så inddelt i tre stykker ved 17, så er den del de 17 stykker.
+
+10:36
+Og så. Og det kalder man så for en talfølge. Sådan.
+
+10:50
+Og nu kommer så rig mand ind.
+
+10:56
+Stort matematisk geni fra 1900 tallet, som døde i en ung alder, men alligevel fik lavet en hel masse fede ting og en af de det, vi har brug for i dag.
+
+11:09
+Det er rigmands sætning. Og indholdet i den er, at de venstre summer de konvergerer når N går mod uendelig.
+
+11:38
+Og konvergerer. Det betyder altså bare at de har en grænseværdi. Og grænseværdien.
+
+11:49
+Den har symbolet. Og nu skriver det.
+
+12:03
+Så sådan. Og det var jo det vi startede med at spørge.
+
+12:11
+Hvad betyder dette her egentlig? Og nu ved vi det.
+
+12:15
+Det symbol, der står her. Det er bare et symbol for grænseværdien af en venstre som.
+
+12:25
+Og det fine ved rigmands sætning er da den siger, at der faktisk eksisterer sådan en grænseværdi,
+
+12:32
+så dette at det giver mening, og derfor fortjener det sit eget symbol.
+
+12:37
+Så det er det det betyder. Og kort sagt.
+
+12:49
+Så har vi altså at den samlede masse vi er ude efter.
+
+12:54
+Det var det vi snakkede om hvordan? Hvordan kan vi finde ud af, hvad den vejer?
+
+12:58
+Hvordan kan vi komme fra den lokale til den globale viden? Det er så, at EM.
+
+13:05
+Madsen. Den er lig med grænseværdien. Når enden går imod uendelig.
+
+13:12
+Er venstre summen. Og det er så også det samme som det vi mener med det symbol, der står her.
+
+13:29
+Og så er der lige en pointe her, som jeg gerne vil bede om at lægge mærke til.
+
+13:34
+Se på og sammenlign det symbol I har her dette.
+
+13:38
+Det er et et græsk s. Med det symbol vi har her dette er der også et S.
+
+13:46
+De står også foran så. Og I kan altså se.
+
+13:50
+Her har vi kaldt dem for et Delta U. Som består af nogle små stykker.
+
+13:57
+Og så er det frit for jer om I vil forstå det som uendeligt i småstykker er sådan,
+
+14:04
+når vi har delt dem op i så mange små stykker, at der er uendeligt mange af dem.
+
+14:10
+Så det er sådan et lidt paradoksalt begreb peer ikke også,
+
+14:13
+men vi har altså løst problemet ved at lave almindelig sammenlægning og så tage grænseværdien.
+
+14:20
+Det er sådan, vi når frem til integralet. Her og nu skal vi have et eksempel.
+
+14:33
+Se da gide funktionen f.
+
+14:41
+U. Den er lig med guld i anden.
+
+14:47
+Og intervallet vi betragter det som intervallet fra nul og til en.
+
+14:56
+Og den opgave vi stiller os er. At vi vil gerne finde ud af hvad er integralet fra nul til en.
+
+15:10
+Så det der står her. Og vi skal jo have hele vores apparatur i gang, så vi må hellere lige lave en tegning af den her interval.
+
+15:25
+Altså er den metalstang her, vi gerne vil veje. Så her har vi altså uroksen.
+
+15:34
+Og vi har intervallet fra nålen. Og så til 1.
+
+15:42
+Vi kører nu vores procedure intervallet. Deles i endelige store stykker.
+
+16:01
+Og så længe den er vores deltager ud.
+
+16:05
+Den bliver jo så lige præcis en endt del, fordi vi er så del den der i endestykker.
+
+16:14
+Så nu kan vi så prøve at lave dele punkterne altså igen.
+
+16:19
+Vi har her. Delte den i end lige store stykker.
+
+16:28
+Og her har vi altså u. Et.
+
+16:33
+Det har vi U2. Dér har vi U3.
+
+16:41
+Og så på et eller andet tidspunkt, så når vi så op til punktet o i som sådan et vilkårligt punkt.
+
+16:52
+Og i og med vi starter her, så er det første her. Det er jo nul. Og så U2 den har værdien en endda del.
+
+17:02
+Og så går vi et stykke længere frem. Så har vi to endda dele.
+
+17:09
+Og hvis vi tager uge fire, så bliver det tre ændret dele.
+
+17:14
+Så tællere så lige hele tiden en lavere end indekset så vil sige Når I når frem til punktet o i, så har DR så værdien i minus 1.
+
+17:29
+Divideret med 1. Og så er vi klar til at lave en venstresving.
+
+17:43
+Ved en. Det er så summen fra en leg med et til en.
+
+17:50
+Og hvad var det vi sagde? F. U.
+
+17:54
+I. Og så gange med interval længden.
+
+18:05
+Vi skriver lige i det igen. Og se forskriften fra hvor vores funktion den var jo uruguayaneren.
+
+18:16
+Så nu får vi altså ud i en anden.
+
+18:22
+Og så lad os bare lige skrive det ud igen. Og så arbejder vi lige lidt videre i Lima et til en.
+
+18:35
+Og ud i. Ude i den var jo i minus 1 divideret med 1.
+
+18:43
+Så vi har altså her i minus 1 divideret med 1.
+
+18:50
+Og den skal åbenbart i anden. Og såvel længde var.
+
+18:55
+Det var jo forskellen mellem dele punkterne her. Den var en ændret del.
+
+19:03
+Sådan der. Og så ved vi godt, at hvis vi sætter denne her bryg i anden, så får vi en Minos ind i anden, og de vil dermed en anden.
+
+19:16
+Og så har vi altså et 1 divideret med 1 i anden ganget med 1 divideret med 1 det 1.
+
+19:24
+Divideret med inde i tredje. Og den kan vi faktisk godt tillade os at sætte uden for sommersolen tegnet, fordi den er med hver gang.
+
+19:32
+Så står det altså uden for Some solsejl og der står der så. 1 over 1.
+
+19:37
+3. Og så har vi altså her i lige ind til EM.
+
+19:42
+Og så har vi her i minus 1 i anden.
+
+19:53
+Så nu har vi altså arbejdet med venstre summen, og så er vi nået frem til det resultat her.
+
+20:02
+Og det her er jo en talfølge fordi vi kunne godt prøver og regn er ved nul ud.
+
+20:10
+Nej, ved vi en bliver det. Det er derfor vi kun har Buur et interval.
+
+20:18
+Og hvor de så betyder en, så står der bare nul.
+
+20:23
+Så den første værdi her. Denne er så vidt er lig med nul.
+
+20:29
+Så kan vi prøve med to. Nu er intervallet delt i to stykker.
+
+20:38
+Og vi skal starte med i mad en. Og det bliver så noget første gang.
+
+20:48
+Og så skal vi bruge i klimaet 2. Og så bliver den dertil en der skal divideres med.
+
+20:55
+1. De vil der med to i tredje. Det bliver en ottendedel. Så vi har altså nået en ottendedel.
+
+21:06
+Så regner vi ved tre ud. Vi regner ved fire ud. Vi regner vi fem mod, og så siger rigmanden sætning, at det dér konvergerer.
+
+21:14
+Og det de så, er den samlede masse, at det er af, at det her interval ét stykke.
+
+21:19
+Vi har her, og der har vi heldigvis Mabel til at lege og hjælpe os med at regne den talfølge ud.
+
+21:27
+Så vi kigger lige på Mabel her. Se kan I se den venstre sund som vi har derfra fra Mabel.
+
+22:02
+Det er det samme som det jeg har skrevet her.
+
+22:05
+Altså Mabel har bare valgt at skrive det ind i tredje nedenfor, men det betyder det samme som Mabel er jeg så enig med her.
+
+22:13
+Det her er vores venstresving. Og nu beder vi så lige Mabel om at regne de første ti ud.
+
+22:21
+Vi har lavet her de første to, men nu beder vi lige. Vi laver lige her en lille programmering, hvor vi.
+
+22:31
+Laver ti på én gang. Og der kan I se dem.
+
+22:38
+0 en ottendedel. Det var dem vi fik her, og så kommer der altså en række tal ud her.
+
+22:44
+Og vi kan prøve at tegne dem. Og I kan ses starter hernede i nul og så en ottendedel, og så begynder kurven ligesom.
+
+22:56
+Og løje af og blive lidt mere konstant. Så nu kan det være så interessant ikke at sige ti, men at sige hundreder.
+
+23:09
+Så nu beder vi lige med blommer, regn hundreder venstre summer ud. Og så har vi dem her i en lang stribe, ikke sandt?
+
+23:19
+Og så tegner vi dem. Og kan jeg se nu kommer den op og så er den ligger lidt over 0,3.
+
+23:31
+Og rigmand siger den konvergerer. Så den bliver altså ikke ved med at gå opad.
+
+23:35
+Den skal blev konstant, hvis vi laver en går mod uendelig.
+
+23:41
+Og det kigger vi nu så lige på her. For vi har nemlig.
+
+23:53
+V en. Alle er med, og så havde vi den dér 1 divideret med 1.
+
+24:01
+I tredje. Og såfremt matematik fra talteori.
+
+24:09
+Der ved man godt det her dér kvadrat tallene, kan vi sige det giver nul 1, 4, 9, 16, 25, 36 osv.
+
+24:19
+Og der ved man godt i en formel for, hvad den sum er for et vilkårlig den.
+
+24:24
+Den er nemlig. Denne en minus én og så den to en.
+
+24:35
+Og så ned. Den er en. Og så er den to en Minos en.
+
+24:44
+Divideret med 6, så er formlen for de første indled.
+
+24:50
+Og nu skal vi prøve at kigge på hvad går den imod? Når en går imod uendelig set når indgået mod en, så er der nu scenen bliver ligegyldigt.
+
+25:02
+Og det er lige nu. Det bliver også ligegyldigt, så det der er vigtigt, det er en selv.
+
+25:08
+Så står der en gange med en ganget med to en. Det giver to.
+
+25:14
+Ind i tredje divideret med 6.
+
+25:19
+Og så havde vi uden for en divideret med 1 i tredje.
+
+25:26
+Og kan I se det? Det giver så de da en i tredje gå væk med dem, og så står der to over 6.
+
+25:35
+Og der har vi så at det er en tredjedel, og det vil sige, at integralet fra nul til ét er ud i enden det ud.
+
+25:47
+Det er altså en tredjedel, og så har vi regnet dagen til grad ud.
+
+25:56
+I følge. Så er der nogle nok nogle af jer der tænker det tror jeg sgu da jeg kunne have gjort meget nemmere.
+
+26:12
+Og det kan man også gøre meget nemmere, fordi vi har jo heldigvis differentialregning i.
+
+26:22
+Og integralregning en fundamental sætning og den Ferrigno den siger nemlig, at hvis store F er en stamme funktion.
+
+26:41
+Til Lille F. Så gælder der følgende at integralet fra a til b af f.
+
+26:56
+Eks. Eks. Er lige med, og nu skal vi så bruge stamme funktionen store f.
+
+27:03
+Substituerede imellem A og B og det er F.
+
+27:09
+B minus EPA. Det er denne herlige sætning vi har og vi prøver lige igen.
+
+27:24
+Og så har vi integrale for noget. Teen er O i anden.
+
+27:29
+Det er jo. Vi skal have fat i en stamme funktion.
+
+27:34
+To i enden. Det ved vi godt. Det er en tredjedel u.
+
+27:40
+Et tredje som skal substituere os i mellem nul og en.
+
+27:46
+Det betyder, at vi har en tredjedel og skal sætte en ind et par ugers jazz, så det er egentlig tredje.
+
+27:53
+Det giver en. Og så bagefter skal vi sætte 01, og den giver bare nul.
+
+27:59
+Og så har vi at integralet det er en tredjedel. Så det var den ene metode.
+
+28:08
+Den grundlæggende metode. Og her har vi udnyttet fundamentalt sætningen.
+
+28:18
+Og så vil han nok spørge om. Jamen hvorfor så overhovedet snakke om grænseværdier, når vi har den sætning her?
+
+28:27
+Og det er det som jeg siger, at det med grænseværdien og venstre summer.
+
+28:31
+Det er meget mere oprindeligt, fordi der findes nemlig funktioner, hvor de ikke kan finde en stump funktion.
+
+28:40
+Og hvor man er nået til et niveau som man tror man har det at bruge, bruge den grundlæggende metode at lave venstre summer.
+
+28:47
+Så derfor skal man altså kende den oprindelige betydning, det er den ene grund.
+
+28:51
+Den anden grund er også, at sommetider man arbejder med en problemstilling, så er det først på et tidspunkt, man bliver klar over.
+
+29:00
+Jamen, det her er jo en Venstre, som vi har gang i. Og nu kan jeg bruge rigmands sætning.
+
+29:06
+Så da vi, hvis vi ikke kender det, vil svigte ved det fra starten af, så kan vi ikke bruge fundamentalt sætningen.
+
+29:12
+Så det er der med garanti, fordi det er altså oprindeligt og vigtigt og ligger før det andet.
+
+29:18
+Det er en herlig sætning. Hvis man har læst om funktionen, så kan I se, hvor nemt det går.
+
+29:27
+Når så nu er vi i gang med at snakke om samme funktioner, så lad os lige sige lidt mere om det.
+
+29:49
+Så altså det første er. Vi kan sige, at hvis f er stamfar funktion til en lille altså stambord aktion tillige af,
+
+30:09
+så gælder der, at hvis man differentierer store eff, så får man Lille S.
+
+30:15
+Og det er jo simpelt hen bare definitionen på, hvad en stamme funktion er.
+
+30:19
+For vi differentierer Sampension, så får vi den oprindelige funktion.
+
+30:25
+Og som den anden ting. Da kan vi sige hvis vi igen hvis f er en stamme funktion.
+
+30:42
+Så er alle storm funktioner givet ved Store F.
+
+30:56
+Plus en vilkårlig konstant. Så hvis en funktion har en stump funktion, så har den uendeligt mange.
+
+31:08
+Men de adskiller sig kun fra hinanden ved en konstant. Og så er der lige en ting som I skal være opmærksomme på her, fordi her der siger jeg bare,
+
+31:19
+at når vi har fundamentalt sætningen, så siger jeg så her skal I bredere bruge den samme funktion.
+
+31:27
+Og med det mener jeg de vælger selv hvilken, for det er nemlig lige meget hvad det er for en stamme funktion I vælger.
+
+31:35
+Det giver samme resultat, og det er jo netop fordi, at forskellen på dem er en konstant.
+
+31:42
+Så hvis I ligger en konstant bog her, så her ligger i konstant nogle til.
+
+31:49
+Her trækker I den fra igen soltørrede sten, der konstant betyder ingenting.
+
+31:54
+Så det skal jeg altså læse en vilkårlig stamme funktion, og så tager jeg selvfølgelig bare den nemme sten, der fortsat bliver det samme.
+
+32:04
+Og så kommer der lige her et trick. Prøv at se hvis vi har en funktion vi kan kalde for GX.
+
+32:19
+Ja, altså igen. Hasard, hvis f.
+
+32:28
+Er en stamme funktion. Til F.
+
+32:39
+Så er. Funktionen. Der er en stamme funktion.
+
+32:53
+Til Gearer Ex, som er guide ved F af ex a.
+
+33:01
+Expos B. Så vi har altså givet en lille.
+
+33:07
+Og nu laver vi en ny funktion som hedder G'er IX ved at vi tager F på et lineært udtryk.
+
+33:14
+A ekspres spil. Så den situation her er givet.
+
+33:22
+Så. Er. Stor IX.
+
+33:31
+Som er en del. Gange store f.
+
+33:36
+A. A. Expos B en stamme stamhuset til lille G.
+
+33:53
+Så da en af øvelserne i dag der er der trækker på at denne skal I meget gerne kunne bruge.
+
+34:00
+Det ser lidt uoverskueligt ud og viser lige et eksempel på det om lidt.
+
+34:06
+Altså på hvordan man kan udnytte denne her situation, fordi.
+
+34:12
+Alle de elementære stamm funktioner, dem skal i lære udenad.
+
+34:17
+Der kommer en ugens test to nogle gange hen ad vejen, hvor det foredrag, at alle de elementære funktioner der kender i stamme funktionerne.
+
+34:27
+Så det vil altså sige, at I skal lave et stort mentalt billede inde i jeres hoved af sådan et skema, hvor vi har ligeledes.
+
+34:39
+Og så har vi store et. Og hvis jeg for eksempel siger at her.
+
+34:48
+En ekstra del. Eller jeg siger Exit jer.
+
+34:56
+Det kunne også været mange flere Sinus Kos News ikke siger andendag kvadratrod ex.
+
+35:05
+Altså alle mulige af de ting, som jeg har arbejdet med i gymnasiet. Da er forskellen jo bare.
+
+35:10
+I har ikke en Formel 1 med her. I skal kun dem udenad, så nu kan vi lige starte dem.
+
+35:15
+De giver mig den. Ja tak.
+
+35:22
+Og hvem giver mig den? Ja tak.
+
+35:32
+Bukke. Så prøv at se hvis du nu vil lave integralet fra noget til en.
+
+35:47
+Er den funktion her. En divideret med to eksklusive. Kan vi se det her?
+
+36:02
+Det er det der står nede i nævneren her. Det er et lineært udtryk.
+
+36:07
+Er formen a, x+, b. Og det var altså den situation her hende.
+
+36:15
+Vi betragter altså en funktion. Hvor der på exits plads er indsat et lineært udtryk.
+
+36:23
+Og der ved vi der skal vi have en Aberdeen ned foran. Når vi skal have fat i en stamme funktion og A.
+
+36:31
+Det er i dette tilfælde. Det er to.
+
+36:37
+Og så skal vi have en stump funktion til en overvægt. Og den gav mig jo her.
+
+36:44
+Så det er l n. Men beholde det lineære udtryk.
+
+36:50
+To eksklusive imellem nul og en.
+
+36:59
+Og så er den hjemme. Så DR's to regler jeg udnytter jeg udnytter at den dér kunne jeg i forvejen.
+
+37:08
+Og at jeg ved hvordan man behandler en situation, hvor X er erstattet af et lineært udtryk.
+
+37:16
+Og nu indsætter vi vi har bare så en hal her indsætter sætter på Excess plads, så står der el en tre.
+
+37:24
+Og indsætter nul. Så er det en halv, og så står der el indtil 1.
+
+37:34
+Og den der denne er som bekendt lig med nul. Og så får vi altså, at det hele det bliver l m tre halve, så der så er kun regnet den ud i hovedet.
+
+37:54
+Ja, nu skal jeg høre. Indtil nu, så har det været integration i en variabel.
+
+38:02
+Men vi skal allerede i dag begynde at kigge på integration i flere variabler, og nu vi viser lige et enkelt eksempel.
+
+38:10
+Her. Bortset.
+
+38:15
+Dette hedder et dobbelt integral. Og vi vil gerne udregne integralet fra hvad skal vi sige?
+
+38:32
+0 2. Og integralet 0 til pi sjettedele af v gange med cosinus til U, og så står der det.
+
+38:46
+Og så står der det vi. Det varer ikke længe.
+
+38:50
+Så synes jeg at det ser helt normalt ud. Men der er jo altså to integrations variabler.
+
+38:58
+Og der er to integrale tegn, så vi skal lige hitte ud af, hvad det betyder.
+
+39:04
+Og så i begyndelsen, så vil man måske vælge at starte med at sætte en parentesen, så man lige kan få skildret.
+
+39:13
+Og nu sætter jeg en parentes her. Bum.
+
+39:18
+Og så en parantes. Efter den første.
+
+39:22
+Det er her. Og det er det betyder det er nu skal vi lave integration to gange.
+
+39:31
+For først så holder vi den ene variabel konstant. Og så bagefter holder vi den anden variabel konstant.
+
+39:39
+Det er jo noget I kender fra. Når vi laver partiel differentiation, så er den ene af de variabler lige pludselig konstant.
+
+39:46
+Og så er den anden der konstant. Så det her er det modsatte af pre-party partielle differentiation.
+
+39:54
+Det her er partiel integration, kan vi kalde det. Så da jeg så to trin punkt ét.
+
+40:03
+Vi udregner det indre integral. Nul til blive sjettedele og så står der V, og så står der cosinus til U.
+
+40:14
+Og så står der div. Og det er her det viser hvad der er variabelt.
+
+40:24
+Det u variabel. V. Det er en konstant. Så vi skal integrere med hensyn til U kalder man det, så nu skal vi have en stam funktion.
+
+40:36
+Hvis det er en konstant den skal vi bare beholde. Og så skal vi have en Sampension til cosinus til det sceneshow.
+
+40:47
+Og det var mellem nul og pi sjettedel. Det vil sige først vil indsætte p sjettedel på EU's plads.
+
+40:58
+Det giver en halv, så har vi ved halve. Så skal vi indsætte noget bus.
+
+41:02
+Fæstning giver nul. Det får vi bare nul ud af. Så her har vi altså ved divideret med 2.
+
+41:14
+Så har vi udført det indre integral. Nu tager vi så det ydre integral.
+
+41:21
+Og her sidder den her. Her punkt 2. Så har vi altså integralet fra 0 til 2.
+
+41:28
+Og hvad fik vi ud af det indre her? Det var lige med det halve. Og nu er det V vi skal integrere med hensyn til.
+
+41:45
+Og det vil jeg sige at vi skal have en stram funktion. Altså vi har en hal og så skal vi have en stamme funktion.
+
+41:52
+TV. Det er en hal ved i anden, og det skal være imellem 0 og 2.
+
+42:01
+Og så hvis vi indsætter to på bedst plads, så bliver der fire, vi skal gavne.
+
+42:06
+Med en fjerdedel nul kommer der ikke noget ud af det.
+
+42:10
+Så her med der har vi altså udregnet. Vores første dobbelte integra.
+
+42:19
+B er delt op i to førstehold, den ene konstant og så den anden konstant bagefter.
+
+42:27
+Og vi får selvfølgelig også en takers integration i tre variable, men det tror jeg da er øvelser i øvelses programmet med så det her.
+
+42:39
+Det må stå for et eksempel til jeres orientering.
+
+42:44
+Og I får ikke pause nu. Kun en meget kort, en en host pause, fordi jeg skal lige bruge lidt plads til den sidste pointe inden pausen.
+
+43:00
+Det sig at.
+
+43:16
+Jeg. Hvordan sikrer jeg?
+
+43:25
+September. Derfor vælger man.
+
+44:02
+Den. Dette det. Rygterne eftersøger med sikkerhed.
+
+44:19
+Her Panopto. Jeg kan også.
+
+44:26
+Da. C.
+
+44:37
+Se, nu kommer der igen et lille teori input, men en vigtig teori input, som jeg kommer til at bruge mange gange.
+
+44:46
+Jeg kommer til at bruge det i dag, og jeg kommer også til at bruge nogle af de følgende gang.
+
+44:50
+Det handler om det der med tangent. Pickton, vi har, snakker en lille smule om det før, så hvad er det, vi taler om?
+
+44:57
+Vi siger en knude.
+
+45:05
+Som vi kan kalde for K er. Og vi kigger på exit planen.
+
+45:19
+Den er givet ved. Og nu tager vi det så helt generelt.
+
+45:28
+Vi kan kalde den for er U. Leg med.
+
+45:35
+Og så har vi en først kort funktion, som vi vil kalde for eks.
+
+45:41
+U. Og en anden koordinat funktion som vi vil kalde for y o.
+
+45:48
+Og hvor er så A med U ligger i det interval fra A til B.
+
+45:57
+Så der. For dette er en parameter funktion, men kan også kaldt for en vægtere funktion.
+
+46:06
+Og den består af to almindelige reelle funktioner.
+
+46:11
+To almindeligt differentiable funktioner, hvor den ene hele tiden angiver første koordinaten og den funktion, der angiver anden koordinaten.
+
+46:23
+Så nu er vi allerede igen inden for fortolkninger. Så lad os lige se her.
+
+46:32
+Så vi kigger lige her på fortolkningerne. Og det går jo så på.
+
+46:41
+U. Det er tiden der går.
+
+46:48
+Så vi starter klokken A og slutter klokken B.
+
+46:54
+Og så er U det så stedet i Active planen.
+
+47:08
+Så det vi spørger om er det altså når klokken er slået fem.
+
+47:13
+Hvor er jeg så hende? Hvad er det for et punkt direkte i planen, hvor jeg er hende?
+
+47:19
+Og det vil så sige, at når vi betragter sådan en kurve her, så er det ikke bare sådan et fast billede I skal se.
+
+47:26
+Men så I gør jeg en dynamisk forestilling at kurven?
+
+47:30
+Det er et punkts bevægelse. Kurven er et punkts bevægelse.
+
+47:48
+Og det starter altså. Det starter i punktet er a.
+
+47:52
+A. Og det slutter i punktet er er b.
+
+47:59
+Og gæt og det er spørgsmål, som jeg nu stiller og vil besvare er hvorfor.
+
+48:10
+Er. Hvis det er et differentieret Cohen i et tidspunkt guldnål med den her definition,
+
+48:22
+at eksplosionen skal differentieres i uge nul og y funktionen skal differentieres i nul.
+
+48:30
+Hvorfor er det? En tangent vægter.
+
+48:39
+De punktet er er uden nul.
+
+48:45
+Det skal vi prøve, som vi kan besvare. Og lad os prøve at se på den kurve.
+
+48:55
+Se. Vi er i i planen, og vi betragter her en cup over Korea.
+
+49:07
+Det kan være at går rundt. Det må den gerne. Så endda har vi altså vores kurver.
+
+49:14
+Det er den vi kalder for K er. Og hvor er mænd forære sig til at kurven er givet ved den parameter fremstilling her der bruger er som symbol.
+
+49:30
+Så lad os prøve at se på hvor stedet er til tiden.
+
+49:34
+Uldum. Så her har i stedet.
+
+49:42
+Til tiden ud nul. Og så er ligesom før vi deler tidsinterval op i lige store stykker, som vi kalder for Delta U.
+
+49:56
+Så det vil altså sige, at hvis vi nu laver et lille tidsinterval løbe igen, så det næste punkt jeg har her.
+
+50:04
+Det hedder så er er u nul. Plus den nye tid der er gået, altså i tiden deltog, da vi kommet herfra hertil.
+
+50:20
+Og så kigger vi. På den vektor der ligger der.
+
+50:31
+Det er en tilvækst vektor. Den kan vi kalde for det der er.
+
+50:43
+Og så vil vi gerne se den tilvækst vægt, så der er kommet fra det her punkt til det nye punkt.
+
+50:51
+Hvad er dens koordinater? Processer producerer vi lige disse to punkter ned i på ikke saksen.
+
+51:10
+Og sidder den der, så deltager eks. Det er en tilvækst som jeg har på min første funktion her.
+
+51:21
+Og så kigger vi også på tilvæksten på på Yakin.
+
+51:27
+Her har vi Y og X, og det her er mit.
+
+51:32
+Mit at deltage i. Som det.
+
+51:40
+Så har jeg altså nu følgende. At min tilvækst digter er.
+
+51:52
+Den er så tilvækst i X. Som første nat og tilvækst i funktionen på anden koordinaten.
+
+52:12
+Og nu skal vi til at lave en helt elementær taler approksimation er gravet to.
+
+52:20
+På ser. Det her har Ice-T set mange gange før.
+
+52:31
+Fischer her har et x0. Det her er en almindelig funktion, vi kalder den for F.
+
+52:37
+Så har vi her F.A x0. Vi kigger på et punkt ved siden af.
+
+52:44
+Det hedder eks. Anden koordinaten hedder så f.ex.
+
+52:52
+Dette er så funktions tilvæksten, den kalder vi for delta f.
+
+53:01
+Og det er den vi gerne vil prøve at proklamere. Og det gør vi selvfølgelig ved, at vi kigger på tangenten i dette punkt.
+
+53:09
+Bum. Og så bruger vi den her værdi i stedet for den værdi.
+
+53:15
+Det ser store ud nu, men pointen er jo, at hvis vi går tæt på det, så er de næsten lige med hinanden.
+
+53:24
+Så nu skal vi så se. Hvad er det vi tilmeldt tilnærmer?
+
+53:28
+Det stykke vi har dér. Hvis de kalder det for Delta Exit deltage eksisterer tilfældet, så har her funktionen.
+
+53:38
+Det er Hemmings kommissionen og så gange med det stykke vi er gået fra som at deltage.
+
+53:46
+Det er den approksimation vi nu skal bruge her hen. Dette er lig med.
+
+53:52
+Nu er nu kommer den så til hed hér. Eks.
+
+53:58
+Mærket i det punkt vi taler om. Gange i tidsintervaller.
+
+54:07
+Ligesom her og så er det en mærke I you nul gange med tidsinterval.
+
+54:19
+Og det at deltage i det kan jeg så sætte uden foran. Det er jo den samme størrelse, der står foroven og forneden.
+
+54:25
+Og så har vi altså X mærket i uge 0 over Y mærket nul, der så gange med dette lidet lille tid stykket der.
+
+54:37
+Og bum. Dem der nu står der. Det er jo den her differentieret, så nu får vi altså følgende formel.
+
+54:56
+Og jeg var altså det her selvfølgelig. Her burde jeg lige har lavet et approksimation tegn her.
+
+55:03
+Men hvad har jeg fået ud af det? Det a er.
+
+55:10
+Den vægter er her denne er proklameret af er mærke i unåde.
+
+55:19
+Gange den tid der er gået. Ser lidt uskyldig ud, men nu skal vi drage nogle fede konklusioner ud af det her.
+
+55:32
+Det lover jeg. Så nu skal vi bare se her.
+
+55:41
+Så er vi ude på en spadseretur for langt er vi nået. Set den vej.
+
+55:57
+4. Nåede her den skal vi lige kigge på om lidt.
+
+56:02
+Men det første vi kigger på nu hvor vi skal skrive tre konklusioner på det her konklusioner.
+
+56:10
+Punkt ét. Taizé.
+
+56:16
+Dette er jo bare en konstant. Hvis vi nu lader dette interval blive meget lille, altså det tidsinterval her,
+
+56:23
+så går tilvækst vektoren ikke herfra så godt den er her til car, og så ligger den næsten på tangenten.
+
+56:34
+Og jo tættere vi kommer på tangenten, desto mere vil den være lig med tangenten.
+
+56:40
+Så det vil altså sige at. Når tilvækst faktoren er er.
+
+56:48
+Den størrelse er her gange en konstant summen må og den er være tangent vektoren.
+
+56:56
+Det håber I kan forstå gang til en vægtere af en anden vektor plus en konstant.
+
+57:03
+Så må de være parallelle, og vi kan se den.
+
+57:06
+At det er den kommer til, når den bliver meget lille til at ligge på den, der derfor er er mærket i nul tangent vektoren.
+
+57:14
+Så nu kan jeg tegne den. Så er det min første konklusion er at mærke jo nul, det er tangent vektorer.
+
+57:32
+Og nu har jeg besvaret det første spørgsmål. Men vi går lige lidt videre. Det meget inde i punktet er at uge nul da er differentieret nul.
+
+57:44
+Det er tangent vektoren 2. Kun set den vej jeg har gået her, er næsten den samme, som hvis jeg var gået den vej der.
+
+57:58
+Så vil jeg altså sige at vejen jeg har gået. D.
+
+58:05
+S. Den er så givet ved at jeg tager længden af den her, så vil sige det er er og mærke.
+
+58:16
+I uge nul. Længden af den.
+
+58:21
+Og sagt gange det jo. Meget fin form.
+
+58:30
+Det er vejene har gået. Det u.
+
+58:35
+Det er den tid der er gået, så det her, det kan jeg altså læse vejen.
+
+58:44
+Er lig med, og så må det være farten. Gange med den tid der er gået.
+
+58:54
+Så det er det, vi har fundet ud af. Det ved vi godt allesammen. Hvis vi kørte 60 kilometer i timen og der er gået en time, så vil køre 60 kilometer.
+
+59:09
+Så det er altså det det står for her. Og det vil altså sige et punkt tre, så er tangent vektoren altså også.
+
+59:19
+Hastighed svigter, og det var lige præcis dét, der var overskriften for det kapitel her.
+
+59:25
+Når I laver et tungt den vægteren, så er det også en hastighed svigter i vores dynamiske opfattelse,
+
+59:31
+hvor vi opfatter, hvor vi opfatter det som en bevægelse, og det skal vi lige prøve at se et eksempel på.
+
+59:38
+Så her. Nu skriver vi altså Her er mærke er U er også en hastede, svigter, hestehove svigter og tangent vektor er det samme.
+
+59:53
+Vi kigger lige på Mabel og så slipper I for pauser. Ja, unge nu skal se.
+
+1:00:31
+Her har vi en parameter kurve, som består af en ekstraordinær og ny koordinat, som er funktioner jo.
+
+1:00:41
+Og vi definere dens. Tangent vækster ved at differentiere hver af de to koordinater for sig.
+
+1:00:51
+Og så blotter vi lige situationen. Her kan jeg vælge at opfatte det som en flot spiral.
+
+1:01:15
+Det er den statiske opfattelse, den dynamiske opfattelse, at det er et punkts bevægelse, og den ser vi nu.
+
+1:01:27
+Han ser den køre hurtigere og hurtigere. Bum, så stopper turen ikke.
+
+1:01:35
+Og nu i den næste version. Tog alligevel gøre billedet lidt større.
+
+1:01:47
+Så sætter vi hastede vektoren ind på. Og kan I se det ind i midten?
+
+1:01:58
+Det kan være det denne her lige skal forstå. Kan vi se den starter med en lille hastighed der.
+
+1:02:06
+Og kastedes vektoren skal jo både hele tiden vise punktets retning og dens længde.
+
+1:02:14
+Det er dens fart. Længden af den er farten, så I skal både kig på dens retning og på dens længde, når I vurderer hastighed svigter.
+
+1:02:27
+Og vi kører. Kan vi se at farten går op og op.
+
+1:02:38
+Tangent vægter vi med hastede væk, så så er der pause.
+
+1:02:42
+Så.

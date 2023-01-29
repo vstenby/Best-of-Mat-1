@@ -1,0 +1,1097 @@
+0:06
+Så kører vi løs igen efter programmet i dag.
+
+0:12
+Sådan lidt en en forlængelse af noget, som I godt ved noget om i forvejen.
+
+0:19
+Og selvom det måske ikke ser sådan ud, så det vi i virkeligheden er på vej hen imod,
+
+0:26
+er funktions undersøgelser stadigvæk det der med at finde, hvad de mængder og minimum er maksimum.
+
+0:32
+Men sådan. Sådan vil det faktisk ikke se ud i dag. Måske lidt til allersidst.
+
+0:38
+Men vi skal reporteren om skalaer produktet, det som også bliver kaldt prikproduktet.
+
+0:44
+Og ja, så lad os se, hvad der sker. Så hvis jeg lige skriver et.
+
+0:53
+Et program. Så skal vi kigge på prikproduktet eller skalaer produktet.
+
+1:16
+Og. Det som er mig en meget vigtig ting i forbindelse med det, er det det der hedder ortogonale vektorer.
+
+1:31
+Og så skal vi snakke om hvad et ortogonale og et årti normalt set er.
+
+1:38
+Borger Tove. Knald er måske et knus i ortogonale basis bare.
+
+1:49
+Og. Når vi kommer dertil, så kommer der en lille detalje som hedder Graham Smith.
+
+2:02
+Gram Smith overtog normalisering, som bare er en metode.
+
+2:09
+Og så skal vi kigge lidt på ortogonale matricer. Og så skal vi kigge på symmetriske matricer.
+
+2:35
+Og de symmetriske matricer skal vi formulere en af de helt store sætninger for som hedder spektral sætningen.
+
+2:53
+Og det som vi i virkeligheden skal bruge det til.
+
+2:56
+Jeg tror, jeg kan få det til at stå her. Det er til at kigge på noget, og det er så det, vi slutter med.
+
+3:00
+Kigge på noget, der hedder kvadratiske former. Så.
+
+3:15
+Det er sådan overskrifterne på på det vi skal igennem, og meget af det vil nok nikke genkendende til, at noget af det her har jeg også set før.
+
+3:25
+Vi skal bare lige minde os selv om, vi faktisk nok godt ved i forvejen. Så lad os lige se en gang skalaer produktet.
+
+3:42
+Og det kan man gøre I er en. Og eftersom enden godt kan være tre, så tror jeg at det meste af tiden.
+
+3:55
+Det meste af tiden vil vi nok sætte endelig tre. Fordi så skriver, så ser tingene ikke så så lange ud, men er altså.
+
+4:05
+Helt generelt hvis jeg tager to vektorer. En vektor af.
+
+4:10
+Og en væg fra Bay, som begge to ligger i. For eksempel er tre.
+
+4:18
+Så kan vi skrive deres koordinater, for eksempel vægtere af banen.
+
+4:23
+Nu kan jeg skrive det som en hvad hedder det? Sådan en helt almindelig række her.
+
+4:30
+Så hvis A med hensyn til standard basen har de koordinater og B har koordinaterne B et.
+
+4:40
+De to. Og blive 3. Hvis det havde været i er inden, så havde jeg bare lave de her vektorer længere.
+
+4:48
+Der er ingen forskel på er end og er tre i denne situation, så lad os bare holde os til at 3.
+
+4:55
+Så ved vi nok allesammen hvordan man prikker to vektorer, og det gør man jo bare ved at gange koordinaterne med hinanden.
+
+5:04
+På denne her måde. Det vil sige masser af gang bag et Clowes a to gange b to Clowes, a.
+
+5:12
+3. Gambe. 3. Det er simpelt hen den måde man regner prikproduktet eller skal produktet mellem to vektorer ud igen.
+
+5:22
+Hvis det havde foregået I er i en del generelt, så havde der bare stået flere her.
+
+5:28
+Og gab vegne. Reglerne for dette skal produkt er stort set ligesom vi vi kender for Almindelig Garne.
+
+5:36
+Men I kender det jo virken for gymnasiet, så dig? Der er ikke noget nyt her skal bare vide.
+
+5:41
+Sådan gør man. Så er der forskellige ting, fordi hvad er det nu?
+
+5:46
+Hvad er det nu man man kan bruge dette produkt til, når jo der er det her med ægte.
+
+5:57
+For hvis jeg nu tager en vægter A. Og prikker med sig selv.
+
+6:02
+Så kan jeg jo se. Så får jeg et gang A, B er et anden, og så får jeg to gange to to gange, og så er I tre gange tre af tre hjerne og det der står her.
+
+6:16
+Det ligner at længden af vægge tager af. Der mangler bare en kvadratrod, så det der står her, er længden.
+
+6:23
+At vi ikke tager af i anden, og der bruger jeg lige nu bruger jeg dette symbol for længden af en vektor.
+
+6:30
+Læg mærke til mange gange også i noterne og i moskéerne, litteratur og mange gange også meget på tavlen.
+
+6:36
+Så vil jeg bruge dette symbol for længden af en vektor, fordi det her kunne jo godt være modulus af et komplekst tal.
+
+6:45
+Viser det. For dette symbol ligner meget også numerisk værdi.
+
+6:50
+Dette er derimod det, der er forbeholdt for længder der er væk.
+
+6:54
+To ord så. Hvis nogen skriver det, må jeg ikke blive forvirret.
+
+6:59
+Godt. Så her har jeg altså en måde at.
+
+7:06
+Og hvad hedder det? Længden af en vektor ud på.
+
+7:09
+Det er simpelt bare ved at tage kvadratroden af prik på vektoren prikproduktet med sig selv.
+
+7:15
+Hvis man så har en vægter. Det kan man altså når medierne.
+
+7:22
+Normeringen skulle måske kalde det. Måske måske skulle man også lige lægge mærke til her, at vist viste det her det 0.
+
+7:34
+Altså hvis trække produktet af en vægt som i sig selv er nul.
+
+7:38
+Så må alle de her tal der står her, jo være positive eller slubrede være nul, for der er ikke nogen af dem, der er negative.
+
+7:46
+Så hvis hvis det her giver nul, så må det være nul vektoren, så bare lige inden for.
+
+7:55
+Hvis længden af en vektor er nul, så er det simpelthen ensbetydende med, at den vektor man har fattige er nul vektoren.
+
+8:03
+Det er bare godt at vide. Så okay, hvis jeg nu har en vægtere af.
+
+8:11
+Og jeg gerne vil gøre den til en enhed svigter. Og hvad er den enes vægt, så er det jo bare en vægter, der er indlagt.
+
+8:29
+Så hvis det er en egentlig væg, så er det klart nulvæksten denne her længde nul,
+
+8:33
+så der kan man ikke gøre noget, men en egentlig vektor af den kan gøres.
+
+8:37
+Den eneste vektor V er normeret. Man tager bare vægteren, og så dvd'ere man den.
+
+8:45
+Med dens længde. Så et eksempel på det det kunne være, hvis jeg nu tog vægteren, der havde 1,1.
+
+8:58
+Så er længden af den vægter. Hvis jeg nu skriver dig op på denne måde længden af vægt, så er det 1,1.
+
+9:04
+Hvor lang er den? Den er kvadratrod 2 lang.
+
+9:08
+Og det vil sige, at hvis jeg skal lave dette om til en enheds vægt, så skal jeg divideret med kvadratet to,
+
+9:13
+og det vil sige sig foran vækster, der hedder en dvd'ere med kvadrater to over.
+
+9:19
+Individerne kvadratet so for dette er en enheds vægter. Den peger i præcis samme retning.
+
+9:25
+Den er bare denne vægtere normeret, ser man nu, kan vi ikke lide at have kvadrat rødder hernede, for jeg plejer,
+
+9:33
+eller man plejer, når man har sådan en væg, så det altså forlænget tæller og nævner med kvadrater to.
+
+9:39
+For det bliver kvadratrod to halve komma kvadrater to halve, altså det er den samme vektor.
+
+9:45
+Det er bare en anden måde at skrive det på.
+
+9:47
+Vi kan bedre lide dem her, fordi det pæne brygger så dette eksempel på, at hvis man tager denne vækster og normeret dem.
+
+9:54
+Så får man en vektor som måske bliver grimmere at se på. Men det er en eneste vektor.
+
+9:59
+Sådan noget med, at man nægter at lægge mærke til, at man gøre det ved hjælp af skalaer produktet,
+
+10:04
+fordi det skalaer produktet giver længden af vektoren. Godt og lokalt.
+
+10:11
+Så ved vi at også. Så ved vi også fra gymnasiet, at hvis man tager to vektorer.
+
+10:22
+Og prikker med hinanden. Hvad er det så i virkeligheden man regner ud?
+
+10:27
+Ja, så kan man vise, at det er længden af den ene gavl.
+
+10:32
+Længden af den anden. Gang på snuse til den vinkel der er imellem de to vektorer.
+
+10:41
+Så det tal der kommer ud her, er simpelt hen det her tal og.
+
+10:47
+Det har man brugt mange gange, formentlig til at finde ud af hvad vinklen mellem to vektorer var,
+
+10:52
+for det handler bare om at isolere det, der står her. Så.
+
+10:57
+Man skal sige det er en en meget anvendelig form. Det som vi skal bruge den til her, er, at.
+
+11:05
+Læg mærke til at hvis to vektorer prikker med hinanden, giver tallet nul.
+
+11:12
+Og ingen af vektorerne er nulvækst ord. Så hvis de her begge to er egentlige vektorer, ja så får jeg altså noget her.
+
+11:20
+Og eftersom længderne ikke er nul, når det ikke er nulvækst ord, så må Horsens være nul,
+
+11:25
+og det betyder altså, at vinklen imellem disse vektorer er en ret vinkel.
+
+11:31
+Så det her er en måde at måle på, om to vektorer står vinkelret på hinanden,
+
+11:36
+så det her det simpelthen er ensbetydende med at vægt sig af, står vinkelret på vægttabet.
+
+11:47
+Læg mærke til at det er klart, at hvis en af dem er nul vægteren, så kan man jo sådan set sige, at nulvækst altså vinkelrette på alting.
+
+11:54
+Men altså det er egentlige vektorer, der står her, for disse længder er ikke 0, og så står de rigtige vinkler på hinanden.
+
+12:01
+Man siger. At disse to vektorer a og b er og to gode.
+
+12:12
+Vejle. Så dette ortogonale vektorer.
+
+12:18
+Okay. Så lad os lige se en gang.
+
+12:28
+Hvis jeg nu har to vektorer. Der ikke ortogonale.
+
+12:34
+Det ser nu for eksempel har. Det her det kunne være værktøj af.
+
+12:40
+Så kunne det her være vægttabet. I planen.
+
+12:44
+Så kunne vi se at de to vektorer er står ikke vinkelret på hinanden, men så kan vi lave det, der hedder produktionen af værktøj af på vægttabet.
+
+13:01
+Af vækster a. På. Vægttabet.
+
+13:08
+Og hvordan gør man det? Jo, man forestiller sig, at man tager en en lampe op, og så løser man, og så kigger man på dens skygge.
+
+13:18
+Som den vægter, kaster debatten. Det giver en vægter.
+
+13:24
+Som ligger her. For denne lille lyserøde sag her er avisproduktion på B, og der plejer man at bruge notationen A.
+
+13:41
+Og så lille B. Det er lidt svært at skrive på tavlen.
+
+13:47
+Det hedder avisproduktion på bag, og den er der en måde at regne ud.
+
+13:52
+For det. Hvis I kan huske, så er det fint.
+
+13:56
+Ellers er det lige meget, for hvordan gør man når jo. Det man kan se er.
+
+14:03
+At det er et eller andet tredje gang vægter vægttabet. Så jeg tager åbenbart væk forbi.
+
+14:10
+Og så ganger jeg den med et eller andet tal her. Og spørgsmålet er hvad det tal er for at vi lige præcis rammer den.
+
+14:17
+Det er simpelt hen da prikket med B.
+
+14:21
+Og så sker dvd'er med længden af Vectra B. I anden.
+
+14:30
+Det er den måde man regner en produktion man vægter på en anden ud på.
+
+14:35
+Og det er ganske simpelt. Altså hvis man har, hvis man har vektorer koordinater, så er det simpelt bare vejen herud.
+
+14:41
+Så regner man det her tal ud. Hvad det nu er her, ser det ud som om det cirka en halv og så avisproduktion på B åbenbart en halv gang vegetable.
+
+14:51
+Så har man den. Og så kan man regne koordinaterne ud hver gang det her ud til følge det som man lige skal lægge mærke til.
+
+14:58
+Her er, at hvis nu bag. Hvis.
+
+15:04
+Nu. Vores Vectra B. Som vi har fat i der hvis denne enhed svigter.
+
+15:12
+Det vil sige, at hvis længden af B er en. Så den er formet meget, meget simpel.
+
+15:21
+Fordi så ser. Produktionen er væk, tager af på vægge og bag sådan her ud, for så står der bare en hernede.
+
+15:31
+Det vil sige du slukker af prikkerne B. Gange vægt vægttabet.
+
+15:42
+Og. En ting. Man skal lægge mærke til hvis man kigger på denne tegning, sådan som produktionen, at så denne her vinkel ret.
+
+15:55
+Det vil sige den vækster der ligger her. Står vinkelrette.
+
+16:01
+På den væg tager vi startet med. Okay. Og hvad er det for en vægt, der ligger her?
+
+16:07
+Jamen, det er den der vægter mindesten vægter.
+
+16:11
+Så hvis hun laver en pile ind på den, så er det Vectra a Venus A Sprød, sjovt.
+
+16:17
+På B. B er den vægter. Og.
+
+16:26
+Hvorfor bruger jeg nu Kruspe det her? Jo, fordi det her viser faktisk en måde.
+
+16:33
+Sådan at hvis jeg nu har to vektorer. Som ikke står vinkelret på hinanden.
+
+16:41
+Så kan man skaffe sig ud fra dem. To vektorer der står vinkelret på hinanden ved at sige Okay, jeg starter med at tage den der.
+
+16:51
+Og så tager jeg den der. Den er dømt til at stå ved magt på den der.
+
+16:56
+Den måde til at rette vektorer ud, om jeg så må sige det vender vi tilbage til, når vi kommer til det der hedder Gram Smith.
+
+17:05
+Men husk lige på denne her tegning. Det er noget, som I godt ved fra gymnasiet nu.
+
+17:10
+På bare lige mindede jeg om det. Og så skal vi lige have en definition.
+
+17:18
+Et over to går. Nagel.
+
+17:25
+Set. Hvad er det for noget, og det bør vi formulere I er et.
+
+17:36
+Så. Et. Sæt.
+
+17:41
+Er vektorer. Ved et.
+
+17:48
+V toget og op til et eller andet ved K. De.
+
+17:55
+Er i endt. Er det et og to gode.
+
+18:04
+Magen til sættes. Hvis alle de vektorer der står i sættet er indbyrdes ortogonale.
+
+18:22
+Vektorerne. I. De sagde døden er.
+
+18:30
+En. Byrde og turde går.
+
+18:38
+Med det og hvad betyder det? Jamen, det betyder bare, at vi så tager en af dem.
+
+18:44
+En af de, der viger og prikker med en af de andre.
+
+18:47
+Det må så være en, ved jeg. Så får jeg nul.
+
+18:52
+Hvis I er forskellig fra J. Så et ortogonale sæt.
+
+19:05
+Et ortogonale sæt er bare et sæt, hvor prikproduktet mellem disse vektorer og man prikker med hinanden, så får man nul.
+
+19:15
+Og i. Hvis man har sådan et ortogonale sæt.
+
+19:24
+Så kunne man jo bare tage. Og når medier alle vektorerne, så de blev ene sektorer.
+
+19:32
+Hvis jeg har lyst til det, så vil jeg få et ortogonale sæt. Af enheds vektorer.
+
+19:39
+Det hedder et overtog. Normalt set. Et over for Norge.
+
+19:49
+Mageløst. Er et over Tove går.
+
+20:01
+Nagel sagde. Det vil sige alle vektorerne skal stå indbyrdes vinkelret på hinanden og.
+
+20:13
+Og hvordan sikrer man sig at. Hvad hedder det at det eneste vektorer?
+
+20:19
+Jamen, det gør man ved at sikre sig, at vi i prikket med ved lige at lege med en.
+
+20:30
+Sådan fordi. Vil I prikke med vil I?
+
+20:36
+Det er det jo vektorer skal vi huske på vægtere streger under DR. Sådan.
+
+20:41
+Dette er jo længden af den i det vægter stående der oppe i det, der er taget i anden.
+
+20:47
+Og hvis denne er en, så er den enhed svigter GTD, så overtog normalt et er bare et overtog gun Aalst.
+
+20:57
+Bestående af enes vektorer. For lige at.
+
+21:05
+For lige at lave et Mickey Mouse eksempel I er to. Der er for eksempel.
+
+21:14
+Hvis Jylland var. Hvis jeg nu tager vektorerne ind, kommer ind og indkom med minus en.
+
+21:26
+Så står de vinkelret på hinanden. Klasse, hvis de tager prikproduktet her, vil det stå vinkelret på hinanden, så dette den overtog.
+
+21:35
+Går. Valgt. Set i.
+
+21:41
+I er 2. Det er ikke et overtog normalsider, fordi det er ikke ines vektorer.
+
+21:48
+Jamen de har begge to. Den har længe været Noto, og den har ligget et kvadrat på to.
+
+21:53
+Så hvis vi nu bare nummerere dem, så ville denne blive til kvadratrod to halve over kvadrater to halve.
+
+22:01
+Og. Denne her ville blive til kvadratrod to halve over minus.
+
+22:07
+Kødretter to have. Nu har jeg gjort dem til hendes væg til ord, så det her er et overtog normalt et.
+
+22:23
+Så hvis man har et ortogonale, så er der og kan ikke komme et 8 normalt.
+
+22:27
+Det er for læseren at klø sig i nakken, så lad os lige undersøge, hvad det er, der er så magisk og interessant.
+
+22:35
+Når man har ortogonale set. Fidusen er, at hvis man har et ortogonale sæt, så kan man være stensikker på.
+
+22:52
+At de linjer er et uafhængigt. Prøv lige at forestille jer.
+
+22:58
+Prøv at forestille jer I er tre som vi er i. Så tager jeg et ortogonale.
+
+23:06
+Her har et ortogonale satin. Den står vinkelret på den venstre vinge og Aberdeen og dens dronning ret, hvordan de står vinkelret på hinanden.
+
+23:15
+Og det er jo også klart at denne her vægter kan jeg ikke få som argumentation af de to andre, for den ligger ikke den samme plan.
+
+23:22
+Det har vi sørget for ved at sige, at den skal stå vinkler på den begge to kriseplan.
+
+23:28
+For det er ikke underligt, at det er sådan. Men lad os lige bevist.
+
+23:33
+Så. Et. Var der spørgsmål.
+
+23:41
+Og. Et. Og så går.
+
+23:48
+Nagel. Sæt. K.
+
+23:57
+Væk Tore. Og. Vi er jo nødt til at tage et antal vektorer ud, så der ikke er flere vektorer end der er dimensioner i er ind.
+
+24:14
+Det er jo klart, hvis jeg tager fire vægge til ud lidt over fakultetets set kan man.
+
+24:19
+Kan man gøre det? Nej, det kan man ikke. Men altså hvis man tager. Så mange vektorer ud og det er mindre end dimensionen.
+
+24:28
+Jeg skriver det sådan her. For højst tre vektorer ud i er tre eller højst 27 vektorer ud i er 27.
+
+24:39
+Så kan jeg være sikker på at de lineært uafhængige. Så lad os lige tjekke det op.
+
+24:57
+Så hvis jeg nu siger, at mit sæt deroppe nu vil gerne tjekke, om det er lineært uafhængigt, så skal jeg også sige okay, lad os nu antage, at vi har.
+
+25:06
+Sådan en Dinart kombination. Her.
+
+25:10
+Vi er helt tilbage til første eller anden forelæsning nu folkens nu vi tilbage til fusionen på line afhængighed, er det ikke dejligt.
+
+25:19
+Når AC og AaB så jeg fortsætter her og ser.
+
+25:30
+Denne Lennart kombination siger Jeg skal være nulvækst.
+
+25:38
+Og hvad ved jeg om sættet. Jeg ved det ortogonale født, og det betyder så, at det egentlige vektorer.
+
+25:46
+De har ikke længde. De har ikke længde noget nogen af dem.
+
+25:51
+Og så skriver jeg det her og se, og nu har jeg en DINARA kombination, som giver nul vektoren.
+
+25:56
+Så skal jeg vise, at alle de her lambda er nul.
+
+26:01
+Det er det, jeg går efter. Jamen okay, lad mig starte med at vise, at amter et er lig med nul, og så kan man se metoden.
+
+26:11
+Det jeg gør nu er, at jeg prikker bare fra højre side med ved et.
+
+26:17
+Så nu regner jeg ud. Jeg siger Larm, der vil et prikket med ved et clouds larm, der tog ved i.
+
+26:28
+Prikket med ved et Clowes og den seneste, der hedder Larm der kog.
+
+26:34
+V K prikket med V ét. Det skal så være nulvækst og en prikket med vil et par bare prikket med ved et på begge sider.
+
+26:43
+Og nulvækst og en prikket med varsomhed. Det giver jo bare tallet nul.
+
+26:49
+Læg mærke til heroppe det her den vægtere er lig med nul vægteren. Nu har jeg prædiket på begge sider, så nu det tal der står for dette tal.
+
+26:57
+Der står her at tallet nul. Jamen, lad os lige kigge på det.
+
+27:02
+Hvad ved jeg. Jeg ved at ved et prikket med alle de andre vektorer.
+
+27:08
+Er nul. Så her står der 0. Og alle de andre steder her står der nul for ved ét står vinkelret på alle andre vektorer end lige præcis sig selv.
+
+27:21
+Så den eneste der overlever, det er den der, og her kommer der til at stå larm, der vil et prikkende ved et.
+
+27:28
+Det er jo længden af vektoren, vil vi ane, og det skal åbenbart være nul.
+
+27:37
+Og. Ved et af ikke nulvækst. Jamen så må der står noget der kan dig.
+
+27:45
+Ergo må larme da ethvert nul. Og så for at vise Lambda der tog alligevel noget så prikkerne med ved tog.
+
+27:52
+Og så prikkerne ved tre prikker med ved fire, og til sidst prikker han med VK.
+
+27:58
+Så bliver alle laurbærene lig med nul. Priserne prikker simpelthen bare successivt.
+
+28:07
+Så vi starter bare her med larm, der ét øvrigt viser denne lige med noget, så vil vi gerne vise lam, der to er lig med noget.
+
+28:14
+Så tager jeg det her udtryk her op og prikker med vi to. Så forsvinder alle andre end lige præcis den der, hvor vi to bliver prikkende.
+
+28:21
+Vi to, og så får jeg af lam, der to gange.
+
+28:25
+Længden af to hjerne skal være nul, og så lam der to lig med nul. Så vi fortsætter.
+
+28:30
+Bum, bum bum. Så lam, der bliver lig med lam, der to, som bliver med.
+
+28:37
+Lam der k lig med nul og sættet er lineært uafhængigt.
+
+28:43
+Så vi slutter med at skrive bingo. Det beskrev de gamle grækere altid, når de har bevist noget.
+
+28:54
+Eller hvad? Når det her er jo tavle fire, og det her var tavle tre.
+
+29:05
+OK, jamen hvad har vi så egentlig nu? Hvis jeg har et ortogonale sæt.
+
+29:12
+Det vil sige hvis jeg har et normalt sæt, også kan være sikker på, at det ligner et urværket.
+
+29:18
+Men hvis jeg så for eksempel har. Tre ortogonale vektorer i er tre.
+
+29:25
+Så ved jeg det ligner at hænge, og så er den basis. Sådan så moral.
+
+29:39
+Et og to gode. Nagel.
+
+29:46
+6. Med lille n vægt Tore.
+
+29:53
+Er. En basis.
+
+30:01
+For. Er en. Det kaldes en ortogonale basis.
+
+30:15
+Og overtog kommunale. Basis.
+
+30:24
+Hvis man hvis man sørger for og når med, er det sæt man har det ortogonale man nu engang har, så får man et overtog normalt taget som er en basis.
+
+30:36
+Så kalder man det en over to normal basis. Så.
+
+30:43
+Et over tove. Normalt.
+
+30:53
+Af lille endevæg Tore. Er.
+
+31:02
+N og Tove. Når.
+
+31:07
+Male basis. Kalder man det.
+
+31:13
+For. For er hjemme og.
+
+31:19
+Det har man heldigvis en forkortelse for, fordi man bruger det så tit.
+
+31:23
+Det er en ordning. For det er almindeligt anerkendt.
+
+31:30
+Det kan bare sige de er et slags lager. En ånd er en normal basses, der bliver lagt ord af.
+
+31:39
+Okay, men. Hvad så?
+
+31:44
+Altså er der så en smart metode til, hvis man nu har tre vilkårlige linjer at uafhængige vektorer og så lave det om til en autonom al basis.
+
+31:55
+Lad os lige tjekke. Så hvis jeg nu tager her tavle.
+
+32:03
+5. Så hvad hedder det?
+
+32:08
+Det er noget at fortælle om det er det der hedder Grant Smith. Så.
+
+32:15
+Graeme Smith. Og tog Norge med af V C i ring.
+
+32:34
+Det handler om, at hvis man nu har f.eks. Lad os gøre det i I er tre.
+
+32:41
+Hvis man har tre lineært uafhængige vektorer. Så lad os nu rette dem ud til en over to normalt basis for A3.
+
+32:52
+Så. Lad os vise det som et eksempel.
+
+32:56
+Så. Laget. U et.
+
+33:02
+Over to og tre. Være.
+
+33:09
+Lineært uafhængige. Vektorer.
+
+33:21
+Og. Hvis jeg nu siger det er tre.
+
+33:27
+Som jeg sagde. Så har jeg i virkeligheden sagt, at jeg har en basis for tre stående her.
+
+33:35
+Men så kunne jeg godt tænke mig.
+
+33:37
+Og få en pæn basis og en pæn basis det er det som en orso normalt basis er nemlig eneste sektorer, der står vinkelret på hinanden.
+
+33:46
+Så hvis jeg nu tager sådan en fredag. Så.
+
+33:52
+Så. Findes. Et.
+
+33:59
+Så findes så findes en over to.
+
+34:08
+Når. Ma l. Basis.
+
+34:15
+For. Pæretræ. Ved.
+
+34:23
+Så jeg starter med en skæv basis, kan man sige, at nu vil jeg lave den om til en fin basis.
+
+34:29
+Så hvad skal jeg gøre? Jo.
+
+34:36
+Den første vægter. Jeg skal bruge den første basis svigter.
+
+34:42
+Der tager jeg simpelt hen bare den første vægtere her op.
+
+34:46
+Et. Og så. Når mit hjerte.
+
+34:53
+Så har alene svigter. Nu har jeg en retning og en vægt vægter med længde en.
+
+35:07
+Nu har jeg. En vægter. Her.
+
+35:12
+Med længde 1 serier. Og hvad gør jeg så?
+
+35:17
+Jamen, så tager jeg en vægtere den væk, for jeg vil have regnet ud. Den producerer jeg nede på otte, og så laver jeg den different.
+
+35:25
+Så får jeg noget, som jeg ved der vinkelrette på. Hvordan gør man dette i praksis?
+
+35:31
+Ja, det er jeg lavere end de 11 vil jeg ikke, så. En lille bevæg dig.
+
+35:40
+Denne hedder W i to. Den bliver lavet ved at tage den anden vægt tager i sigte.
+
+35:47
+Det er Boito og så trække. U2 prikkede.
+
+35:55
+Med den fyresdal jeg har her som leder ved f.
+
+35:59
+Gange med vægtere ved et fra. Det her der står her, er.
+
+36:07
+Dem der vægter U2's produktion på den dér.
+
+36:13
+Så det her er produktionen på en enhed svigter.
+
+36:18
+Og så ser U2 minus den. Denne vægter der står her denne vægt, så w.
+
+36:26
+To. Den vil helt sikkert stå vinkelrette på vægteren ved et.
+
+36:34
+Det kan være helt sikker på, for ikke kik på tegningen der over det sådan at lade.
+
+36:39
+Så sådan her laver I vægteren hjælpe vægteren W 2.
+
+36:44
+Og så siger vi, at den anden basis vægter. Den får vi ved at normeret dage.
+
+36:51
+Det vil sige, at jeg tager et W i to og DVD'er med W 2's længde.
+
+36:59
+Så har jeg to vektorer som står vinkelret på hinanden.
+
+37:03
+Det er stensikkert. Nu mangler er den sidste. Så laver endnu en Jelved vægter.
+
+37:10
+Sådan hedder W. Tre. Det er den tredje væg så her.
+
+37:19
+Hvor jeg så. Producerer den. Først tager ud 3 og projiceret ned på v 2.
+
+37:30
+Og så producerer jeg den også ned. På ved et.
+
+37:38
+Og så regner det herud. Nu kan jeg ikke tegne længere. Men moralen er.
+
+37:44
+At I kan være helt sikker på at den der vægter W. Et træ den står vinkelret på både ved et og to.
+
+37:52
+Så hvis vi tager den og normering dem. Så har vi vores tredje.
+
+38:03
+Insekter. Det ser lidt besværligt ud.
+
+38:09
+Det er det faktisk også. For det er faktisk det lidt irriterende at gøre, men metoden er fuldstændig klar,
+
+38:17
+og hvis man nu havde haft højere dimension og havde haft flere vektorer,
+
+38:23
+så skulle man simpelthen bare fortsæt med denne proces hele tiden producerer ned.
+
+38:28
+Og så når mere. Så. Det her er sådan som Grams Smith.
+
+38:36
+Fungerer. Lad os lige. Lad os lige prøve at slutte af her med et eksempel.
+
+38:44
+Bare for at vise hvordan udregningerne kunne se ud. Så hvis jeg nu starter med et sæt af vektorer i I er tre.
+
+38:57
+Så hvis nu siger eksempel er sådan her. Så kunne.
+
+39:06
+Lad os nu vælge nogen. Lad os nu vælge ud. Det kunne være en vægter med koordinaterne.
+
+39:13
+Det kunne have koordinaterne et nul et. Og u tog.
+
+39:18
+Det kunne være et noget 0. Og U tre.
+
+39:25
+Kunne være for eksempel et et et. Det er relativt nemt og overbevist om at disse tre vektorer faktisk er lineært uafhængige.
+
+39:38
+Så nu vil jeg bruge Graeme Smith. Så bro Graeme Smith.
+
+39:48
+Til. At. Lave en overfor normal basis.
+
+39:56
+For. For er tre.
+
+40:01
+Med udgangspunkt i dem her. Okay, så lad os lige se en gang.
+
+40:07
+Hvad skal jeg gøre? Jeg siger, at min første vil jeg ikke ved et.
+
+40:13
+Det skal være et vægteren divideret med længden af et.
+
+40:20
+Længden af denne vægt må være kvadratrod to. Så det vil sige at.
+
+40:27
+Men ved et væk så det at denne her vækster divideret med kvadratrod to.
+
+40:32
+Og det vil sige en DVD med kvadratrod to 0. Og en DVD med kameraet to.
+
+40:39
+Så det er vores værktøj ved et.
+
+40:42
+Og jeg kan ikke lide at have de der kvadratrod stående nede i nævneren til jeg skriver kvadratur to halve nul og kødretter to halve.
+
+40:51
+Så det var vores valg i et. Så lad os lave hvor de 11 vægge W 2.
+
+41:01
+Hvad skal jeg gøre der skal jeg tage U2. Som hedder et 0 0.
+
+41:09
+Og så skal minusset altså skal tage U2.
+
+41:14
+Sådan hedder en 0 0. Og så skal jeg prikke den med ved et, som er den der står her.
+
+41:22
+Det vil sige kvadratrod to havde nul bevaret to halve.
+
+41:27
+Det her prick produkt. Det tal skal stå. En parantes skal så ganges med vægteren ved ét, som er den der står her.
+
+41:37
+Så skriver den bare ikke en. Kvadratrod to halve 0.
+
+41:42
+Kvadratrod to halve. Sådan. Så lad os prøve at regne ud hvad det er.
+
+41:50
+Det her prikproduktet. Det giver jo bare den der gang den. Det giver bare du to halve.
+
+41:56
+Så her kommer der til at stå en væg, der hedder en 0 0.
+
+42:01
+Minus Det her er tallet kvadratrod to halve som skal gange med denne vægtere, som hedder kvadratrod to halve.
+
+42:12
+Bevaret foto havde. Og det regner vi lige ud.
+
+42:19
+Det er noget som virker hernede, så jobbene i to vægteren.
+
+42:25
+Den hedder så et 0 0 minus.
+
+42:30
+Kvadratet to halve gange kvadratrod to have. Det må være to fjerde, det må være en hale for denne her.
+
+42:37
+Det her, der kommer ud af det her, det bliver en halv over en halv. Så her sidder en halv.
+
+42:45
+Over en halv. Og 1 minus en halv.
+
+42:51
+Det bliver en halv 09 point der skal stå nul, da jeg glemte at skrive nul.
+
+42:57
+Nu står der. Og noget mere ellers nåede det heldigvis nul og noget minus.
+
+43:03
+Det giver faktisk. Mener Søren Hald. Så det her er vores dobbelt ved i 2.
+
+43:11
+Og det vil sige at min veto vægter det så dobbelt ved i to dvd'er med længden.
+
+43:24
+At W tog. Og længden af denne.
+
+43:29
+Lad os lige prøve at beregne dagen ud. Længden af denne her vil jeg ikke tage.
+
+43:33
+Det er jo kvadratroden af en halv. I anden Clowes.
+
+43:39
+1. Halvleg, anden en fjerdedel plus en fjerdedel. Den halv kvadratroden af en halv.
+
+43:45
+Det sørger kvadratrod to halve. Er der ikke.
+
+43:51
+Nej. Jeg venlighed 1 1, 4 1.
+
+43:56
+Den 4. Det er en handling. Lov og kørte fra kvadratroden af en hat.
+
+44:03
+Det må være en over kvadratrod tog, og det er da bare to halve år.
+
+44:08
+Jo sådan. Ja, okay, bingo. Og det vil sige at.
+
+44:15
+For at finde denne her vægtere, så skal jeg tage min W i to her.
+
+44:21
+Og dividere med længden. Det vil sige at gange med den omvendte.
+
+44:27
+Det vil sige, at gange med to over kvadratrod to. Fordi vi derhjemme længden også.
+
+44:34
+Og der skal jeg så se en halv nål. Og Mickelson havde her.
+
+44:39
+Og. Hvad giver det?
+
+44:44
+Det giver. Kvadratrod to halve over minus.
+
+44:50
+To halve over nul.
+
+44:52
+Så vidt jeg kan se de to tallerne spiser hinanden, så stopper en af kvadratrod to og det kvadratet to halve, så det passer så børster spørgsmål.
+
+45:04
+Ja, bør du. Uge ét.
+
+45:11
+1 En vægter en vægter kan ikke være overtog normal, men den kan være normaliserede, det vil sige den kalde enke ind.
+
+45:21
+Læg mærke til her denne vægt så. Den har ikke længde ind.
+
+45:28
+Den er ikke normeret som når, mener jeg. Så ser den sådan her ud.
+
+45:34
+Så den normerede vægter, men overtog. Normalt betyder ortogonale, det vil sige at man skal have nogle andre vektorer man kan stå vinkelret på.
+
+45:43
+Så. Og gab.
+
+45:47
+Betror det svarede på det det sidste at jeg nu vil spare jeg for at vi regner ved tre ud, fordi de kan se, at udregningen bliver sjovere og sjovere.
+
+45:54
+Men prøv lige at lægge mærke til, det har opnået noget. Læg mærke til det her.
+
+45:58
+Det var mine ved et den sosserne herude. Det er sådan.
+
+46:03
+Det her er min ved to. Og læg mærke til at de to står vinkelret på hinanden.
+
+46:11
+Den og den står vinkelret på hinanden. Hvis de prikker dem med hinanden, så får i nul og.
+
+46:20
+Det gjorde de vektorer vi startede ud med et U2 ikke.
+
+46:27
+Så det vi har gjort det er at vi har taget denne her vægter, gjort den til en eneste væg.
+
+46:32
+Og så har vi taget denne her og rettet op, så vi får en væg, så der står vinkelrette, hvordan vi startede med.
+
+46:39
+Og det foregår altså på denne her måde. Og det bliver altid lidt bøvlet fordi længder er væk 2'ere er jo noget typisk noget med nogle kvadratrod,
+
+46:47
+og så det bliver noget lidt lidt bøvlet noget. Heldigvis er det noget, som Mabel er ret god til.
+
+46:54
+Så lad os holde pauser.

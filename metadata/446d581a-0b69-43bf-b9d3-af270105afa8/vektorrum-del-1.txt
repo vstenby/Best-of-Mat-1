@@ -1,0 +1,1067 @@
+0:06
+Og af Go Morgen og velkommen til onsdag som en ny bil, som givetvis allerede ved på fredag, er der ikke almindelig forelæsninger.
+
+0:18
+Der møder i jeres klasse timer. Der er tema øvelser det vi allesammen får mere at vide om jeres klasselærer i dag.
+
+0:27
+Det står også på hjemmesiden. De skal bare lige huske, at der er ikke den sædvanlige fredags prædiken.
+
+0:34
+Så. Dette og dagens program.
+
+0:41
+Ja, det hedder vægtere. Så.
+
+0:49
+Det er det vi skal snakke om. Og i den forbindelse skal vi også snakke lidt om noget der hedder underrum.
+
+1:01
+Som jeg ikke har fuldstændig sammen med væksthus begrebet, så er der forskellige forskellige ting kan.
+
+1:12
+Der er nogle begreber der hedder lineære uafhængighed. Og udflagning.
+
+1:33
+Der er et begreb der hedder Spanien. Og så skal vi snakke lidt om bagefter.
+
+1:41
+Det er sådan programmet.
+
+1:43
+Der er ikke noget af det, og det er jeg ret sikker på, at der er slet ikke noget af det de ved, I vil synes er hverken mærkelig eller besværligt.
+
+1:54
+Når man lige har vænnet sig til begreberne, så er der ikke noget i det, der er teknisk besværligt eller på et meget højtravende niveau.
+
+2:02
+Så. Det kan I bare læne sig tilbage og hygge jer med.
+
+2:09
+Hvad handler det om? Jo.
+
+2:12
+Altså begrebet til rum er sådan set grunden til at I har lineær algebra, fordi det vi har set os er, at vi kan regne med vektorer i rummet og planen.
+
+2:26
+Så hvis jeg lige. Kigger på de vektorer vi kender.
+
+2:38
+Vektorerne i planen eller rummet de geometriske vektorer som vi kalder dem.
+
+2:44
+Det er så det vi vil kalde er to eller. Er tre.
+
+2:50
+Hvad er det vi kan med dem? Jamen altså hvis jeg tager, hvis jeg nu tager to vektorer en vektor x og en vægt så y for eksempel i planen.
+
+3:03
+Nu skriver vi det på denne her måde. Hvad kan jeg så med dem? Jamen okay, jeg kan.
+
+3:10
+Læg dem sammen. Jeg kan trække dem fra hinanden.
+
+3:16
+Jeg kan gange dem med et tal. Lambda hvor lambda er.
+
+3:23
+Et eller andet reelt fald. Det kunne såmænd også godt være et komplekst tal, og fordi de er lambda, når man danner vektorer med.
+
+3:34
+De kommer fra fra tallene og tallene både kan være reelle eller komplekse.
+
+3:39
+Så bruger man fællesbetegnelsen L. I noterne for de reelle eller komplekse tal.
+
+3:45
+Det står bare for det, der hedder et tal legeme.
+
+3:48
+For nogle af jer ved hører vi ind i nogle andre fag, så når der står L, er det ikke fordi I skal blive forvirret.
+
+3:54
+Så betyder det bare, at de tal man kigger på, kan både være reelle og komplekse.
+
+3:59
+Så det er der ikke så meget at sige op. Men altså man kan lægge vektorer sammen.
+
+4:05
+Man kan trække fra hinanden. Man kan gange med et tal, man plejer at sammenfatte de ting, man kan gøre.
+
+4:12
+Ja, okay, så er der også alt muligt med, hvordan man sætter parenteser og sådan noget.
+
+4:16
+Vi har forskellige regler for, hvordan man må sætte parenteser, være ganger, egentlig parat,
+
+4:21
+se sig som I udmærket kender, og som da skulle sige bare, at det som vi er vant til, så der er regler.
+
+4:31
+Jeg skal jo parantes regler. Er stenografi på et meget højt niveau, det her man kan?
+
+4:37
+Man kan sammenfatte mange af disse betingelser i og sige, at det det man kan gøre med de geometriske vektorer er, at man kan lave sådan noget.
+
+4:49
+Der ser sådan her ud hvor alfa beta. Så er enten reelle eller komplekse tal, for nu vil jeg bare skrive det ligger i legemet.
+
+5:00
+Så nået her hvor man farer og ligger og ganger vektorer med tal og lægger dem sammen.
+
+5:06
+Det hedder Li Na Li na kombination. Så det der står her er li na og kombination.
+
+5:21
+Og der kan godt være flere jeg godt tage mange flere vektorer at lægge sammen, hvis jeg har lyst, så det stadigvæk er min argumentation.
+
+5:28
+Men det er de operationer, vi kender. Alting er noget, vi kender.
+
+5:34
+Men så er der jo nogle mængder. Som vi også kender, hvor man kan gøre præcis det samme.
+
+5:41
+Og hvis vi for eksempel tænker på det kontinuerte funktioner.
+
+5:45
+Jeg skal nok skrive det op. Men hvis de tænker på. Hvid skjorte skød op her, så som eksempel det der tavle et.
+
+6:03
+Så må det her være tarvelig. Lad os se en gang kontinuerte funktioner, dem skriver vi tit sådan her.
+
+6:11
+Se det står for kontinuert. Og når man så skriver nul der betyder det bare, at det er bare de kontinuerte funktioner nul står for,
+
+6:20
+hvor mange gange funktionerne er differentiable. Og så skal det være på et eller andet interval i.
+
+6:25
+De skal være definerede for et interval.
+
+6:27
+Det kunne godt være hele den reelle akse, men i første omgang hvis man kigger på den mængde kontinuerte funktioner,
+
+6:35
+som er definerede på et interval i kontinuerte funktioner.
+
+6:39
+Og ja, hvad kan man med sådan nogen? Jamen, hvis jeg udtager to af sådan nogle.
+
+6:51
+Så kan jeg jo se, at hvis jeg lægger dem sammen og trækker dem fra hinanden og ganger dem med taget, så får jeg stadigvæk kontinuerte funktioner.
+
+6:57
+Det vil sige, hvis jeg nu tager og ganger med et alfa.
+
+7:02
+Og ganger med et beta og lægger sammen, så får jeg igen noget.
+
+7:09
+Der er en kontinuert funktion og det gælder. Ligegyldigt hvad for nogle alfabets sager jeg vælger om det er.
+
+7:20
+Ja, altså hvis vi tillader dem at have komplekse værdier, så kan vi også gange med komplekse tal.
+
+7:25
+Men altså det gør ikke historien anderledes. Men det vi kan se, er, at vi har præcis de samme lovlige regne regler, som man har med vektorerne.
+
+7:38
+Det har man i denne mængde. Derfor kalder man denne mængde for et vektorrum, altså denne mængde.
+
+7:46
+Med de kompositioner som vi kender, kalder man et vektorrum, og det er sådan set den generelle definition.
+
+7:53
+Så lad os lige få. Lad os lige få den på banen for et vægtere.
+
+7:58
+Hvor? Et rum er en mængde.
+
+8:08
+Af forskellige objekter eller ja forskellige og forskellige, men altså af objekter som.
+
+8:16
+Som for eksempel kranfører eller funktioner. Med.
+
+8:23
+Vejene. Når jeg eller. Som.
+
+8:29
+Dem vi kender. Fra.
+
+8:36
+De geometriske. De gik jo med i et skal.
+
+8:43
+Vægt to ord. Og det her er for eksempel de kontinuerte funktioner er et glimrende eksempel på et vektorrum.
+
+8:55
+Og venterum. Hvis man giver dem navne.
+
+9:01
+Så kunne man for eksempel sige lave. Være et.
+
+9:08
+Vægt til ro. Så vil man skrive sådan her, så betyder det, at den mængde som jeg kigger på den hedder V.
+
+9:17
+Det kunne for eksempel være de konfereret funktioner. Men det vil typisk få navne med store bogstaver.
+
+9:23
+Så kan jeg lige lynhurtigt definere, hvad det vil sige at være et underrum. Fordi et underrum.
+
+9:34
+Et underrum er ved. Er en mængde.
+
+9:44
+U. Hvor god er en delmængde af vi vil sige du ligger inde i ved.
+
+9:55
+Serverer en stor mængde og ud af en mængde, der eventuelt er lidt mindre.
+
+10:00
+Ligger inde i det, og hvor hun selv. Hvor U.
+
+10:08
+Selv. Et væk år.
+
+10:18
+Så det er altså en delmængde af et vektorrum, der selv er et vektorrum.
+
+10:23
+Det lyder måske sådan et lidt lidt abstrakt. Men hvad kunne det være?
+
+10:31
+Jamen. Hvis vi laver nogle.
+
+10:37
+Nogle små eksempler. For eksempel. C 1.
+
+10:49
+Det betyder at de en gang differentiable funktioner med kontinuerte differentialkvotienten.
+
+10:57
+Det er faktisk et underrum. Er et underrum.
+
+11:07
+De kontinuerte funktioner det er det betyder bare at det er de funktioner ikke at differentiere.
+
+11:16
+Det betyder bare at I vil differentiere funktionerne engang. Og når jeg differentierer dem, så får en kontinuert funktion.
+
+11:25
+Det er faktisk et underrum. Hvorfor? Hvordan sikrer man det?
+
+11:29
+For det første er det rigtigt, at enhver differentiabel funktion er en kontinuert funktion.
+
+11:39
+Er det rigtigt, ligger den mængde Eniig den som den skal. Er.
+
+11:44
+Vi kan ikke differentiere noget der ikke er kontrol af. Og gab, så det er okay.
+
+11:52
+Så skal se et selv. Ved at vægte for hvor.
+
+12:02
+Hvordan tjekker man det? Hvad er det for en betegnelse man skal tjekke?
+
+12:07
+Jamen det man så skal have fat i. Det er lige præcis det, der står her.
+
+12:12
+For det. For at vise det, da jeg for at vise, at den delmængde jeg har fat i her den delmængde af de kontrolfunktioner selv er et vægtet råb,
+
+12:24
+så skal jeg tage to funktioner F og G, der er differentiable.
+
+12:30
+Det skriver jeg på denne her måde. Og så skal jeg tjekke vækker alfa gange F Clowes beta gang g ligger den også i den mængde.
+
+12:49
+For alfa og beta, om det så er reelt eller komplekst, det er lige meget.
+
+12:54
+Vi skriver bare tilhørte vores lagene. Læg mærke til læg mærke til denne betingelse.
+
+13:03
+Jeg har en delmængde af mit værktøj, hvor det finere.
+
+13:09
+Så tager to. Elementer fra Ginman den ud og så laver lille kombination.
+
+13:17
+Det er jeg ved helt sikkert er, at denne lille kombination ligger i sen noget.
+
+13:24
+Fordi se nul er et vektorrum. Det er stensikkert.
+
+13:27
+Men for at se et er et underrum, så skal denne lineære kombination ligge i C et, fordi ét skal være et vektorrum.
+
+13:36
+Gør den det? Jeg kunne faker den.
+
+13:38
+Det er ikke fordi hvis man tager og ganger en differentiabel funktion med et tal og lægger den sammen med en anden differentiabel funktion,
+
+13:46
+så får man en differentiabel funktion. Det ved vi, fordi ikke differentiere summer af funktioner.
+
+13:54
+Priserne for dette er der lige spørgsmål. Det der ved at se på sig selv eller sit mærke.
+
+14:01
+Det er et tal. Det er en helt almindelig et tal, og det betyder bare, at der kan stå, der kan slå alle mulige hele tal her.
+
+14:10
+Det betyder bare, at man kan differentiere den så mange gange, som står dér. Og være sikker på stadigvæk at få en funktion, når man har gjort det.
+
+14:19
+Det hedder se et dette differentiable funktioner, sådan som vi kender dem.
+
+14:24
+Det næste eksempel på sin måde noget de partier der kan sige jamen se noget kunne være den der for eksempel.
+
+14:33
+Alt hvad der har haft den koncenteret funktion, der ikke er differentiabel.
+
+14:39
+Dette være den der funktion kan jeg ikke differentiere, fordi vi har medkører.
+
+14:46
+Glittede. Så dem må man altså og kan.
+
+14:54
+Det krav. Det krav hører. Til at noget er et underrum.
+
+14:59
+Det hedder i sådan algebraiske termer, det hedder stabilitet. Og her er det stabilitet overfor lineart kombinationer.
+
+15:13
+Og eftersom. Eftersom at alfa og beta eventuelt godt kan være nul, så står der her,
+
+15:22
+at nulvækst og funktioner som nulvækst og en del nul funktionen, men ethvert underrum skal indeholde nulvæksten.
+
+15:33
+Krise, da ethvert underrum vil indholde nul vægteren eller skal dette ikke være opfyldt?
+
+15:39
+Så kravet til at være et underrum er et væk. Farum er bare, at den mængde man har fat i, er stabile på denne her måde.
+
+15:49
+Så lad os lige lave nogle. Nå måske lidt mere folkelige eksempler.
+
+15:59
+Hvis nu vi er i et andet.
+
+16:07
+Så ved vi jo at en måde at kigge på er i anden båd. Det er bare ved at lave et lille koordinatsystem.
+
+16:13
+Så har vi de geometriske vektorer her, og så har vi.
+
+16:18
+Når vi har valgt et koordinatsystem, så har vi et begyndende tidspunkt her.
+
+16:23
+Hvad kunne være et underrum? Der er i anden.
+
+16:28
+Jeg har kunnet tage nulvæksten. Hvis bare for nulvæksten ud af det, så er det underrum.
+
+16:34
+Det er rigtig nok for alvor gang. Nulvækst er en blodig spids beviser gang nulvækst.
+
+16:39
+Det giver noget vægteren og den ligger i. I Hvad hedder det?
+
+16:46
+Det ligger i den mængde, der består af nulvæksten, så et underrum. Består af nulvæksten hvis vi ser sådan her ud.
+
+16:54
+Det der hedder det trivielle underrum, alle underrum, Alle til og deres underrum indeholder Nulvæksten, Kerte og andre underrum.
+
+17:05
+Er der selvfølgelig mængden selv. At et underrum af sig selv ja, det er det så.
+
+17:13
+Det er de to trivielle underrum, mængden selv og nulvæksten.
+
+17:19
+Sådan vil det altid være. Er der andre? Jamen, jeg sad her.
+
+17:24
+Hvis denne her betingelse skal være opfyldt. Som står her som er stået her med din argumentation for det forsøg.
+
+17:34
+Hvordan ser et underrum sig ud? Det ser sådan her ud. En ret linje der går igennem nul.
+
+17:42
+Fordi hvis I er på en ret linje og tager den væk fra det.
+
+17:48
+Og garner med et tal og tager en anden vægt på den rette linje og ganger med et tal og lægger dem sammen, så vil I blive på den rette linje.
+
+17:57
+Priserne. Og ikke færre. Dette er et andet underrum.
+
+18:03
+Det er jo et dyrt i et andet rum hedder undergrunden. Det hedder U2 så alle linjer igennem begyndelse punktet.
+
+18:11
+Er underrum. Og der er ikke andre.
+
+18:15
+Altså alle underrum er i anden. Så.
+
+18:25
+Så kunne man. Nu vil jeg ikke støtte op ved tavlen, men hvad nu?
+
+18:29
+Hvad nu hvis man er i er tre de geometriske vektorer i rummet?
+
+18:35
+Hvad kan man så forestille sig af underrum? Ja, nulvæksten er tre.
+
+18:43
+Er de trivielle under. Så fuldstændig ligesom jer to, så alle det linjer der går igennem begyndelse punktet vil være under ro på spørgsmål.
+
+18:54
+Så det vil sige at et underrum altid så altid samme dimensioner som Sonderburg.
+
+19:03
+Er det så? Spørger hun, hvad du mener med dimension B har det sådan set ikke.
+
+19:07
+Altså værdi, hvis du, hvis du tænker på. Hvad skal sige hvis du står på en ret linje, så er det jo et endimensionalt objekt.
+
+19:15
+Kan du se det, fordi du kan bevæge dig ind langs en væg, så?
+
+19:20
+Så disse underrum de faktisk endimensionelle underrum af er to af deres.
+
+19:26
+Division under Rom. Ja, lige præcis der er det trivielle.
+
+19:30
+Dette har dimension 0. Ser man ikke dette, har dimension 2.
+
+19:34
+Og så er der dem indimellem, og her er der de endimensionelle alle de rette linjer.
+
+19:40
+Og det kan vi også tage. Altså hvis vi tager i 3. For eksempel ikke. Der er de trivielle, nemlig nulvæksten og er tre.
+
+19:48
+Og så er der være der, så ja, så er der alle de rette linjer gav en begyndelse punktet i rummet.
+
+19:54
+Det ene dimensionelle underrum. Alle sådan nogle er underrum, men så er der også alle planerne.
+
+20:02
+Ketsana hvis vi har en plan, der går igennem begyndelsen pumpet.
+
+20:07
+Hvis de så tager to vektorer i samme plan og lægger sammen, så bliver det jo i planen.
+
+20:13
+Krise da. Det er de todimensionelle underrum af tre planer, der indeholder begyndelse svunget.
+
+20:22
+Sådan ser det ud for de geometriske vektorer, og det er den simpleste situation, vi overhovedet har.
+
+20:28
+Men det er det, vi skal tænke på, når vi nu har defineret begrebet underrum.
+
+20:32
+Dette de denne situation med det differentiable indgang, differentiable funktioner som underrum af de kontinuerte.
+
+20:39
+Det er langt mere raffinerede, at ovenover nogle lidt anderledes vektorrum, skulle jeg hilse at sige.
+
+20:48
+Der er. Andre eksempler på vægtere.
+
+20:54
+Så hvis vi kalder denne tavle. For tre.
+
+21:02
+Så kan vi lave et eksempel med m gange n matricer.
+
+21:14
+Så engang en matrix. Når man skal regne med dem som væg til rum, så kalder man dem er M.
+
+21:25
+Krøyers M. Så skriver man det på denne her måde. Det her betyder engang enden af friserne med reelle tal som elementer.
+
+21:34
+Så hvordan ser sådan nogen ud? Der har man altså hvis vi nu hvis vi nu laver eksemplet med to gange tre.
+
+21:45
+Lad os lave eksemplet med to gange tre, så bliver det ikke så besværligt skriver op.
+
+21:49
+Men hvordan ser en to gange tre med fritid ud? Den sidder sådan derude.
+
+21:57
+Og hvis jeg har en anden to gange tre matrix. Så vil den til sammen herude denne her kunne hedde A.
+
+22:10
+Og denne dag kunne hedde B. Så kan vi jo se.
+
+22:16
+At eller vi ved jo at man kan gange denne med et tal. Og man kan gange denne med et tal, og man kan lægge den sammen, og det bliver igen en matrix så.
+
+22:31
+Det her er igen en matrix, og dem kan vi så skrive på denne måde måde den to gange tre matrix.
+
+22:38
+Fordi vi lægger den jo bare sammen koordinat vi som om vi ville, så de operationer vi har fra vektorerne, har vi også med matricer af samme type.
+
+22:53
+Derfor er det også et vektorrum. Okay, lad os lave et.
+
+23:01
+Tredje vægge og rum, som er blandet nogle flere vægge til rum.
+
+23:11
+Det er en mængde som vi skriver på denne her måde.
+
+23:14
+P. N. Er.
+
+23:20
+Hvad er det? Det er mængden af på linoleum. Mængden af.
+
+23:28
+Polynomier. Reelle polynomier.
+
+23:35
+Er. Grad. Højst en.
+
+23:47
+Og hvordan ser så nået ud til tager et eller andet polynomium.
+
+23:52
+Af eks. Arbejdsgivere eller kalde dp et hvis PET ligger i perioden er.
+
+24:01
+Hvordan ser P et a x så ud? X10 er den variable.
+
+24:07
+Hvordan endte det graders kulde nogen imod? Læg mærke til. Der står et højst dér.
+
+24:15
+Så nu skal jeg skrive et polynomium, der højest har gravet en og gav det har et eller andet konstant.
+
+24:23
+Og så har det et eller andet lede, der gange ikke fyres det klogeste.
+
+24:28
+Og så har vi noget der ganges med exit 1 minus 1 Clowes.
+
+24:33
+Og så har vi det seneste A, inden der ganges med X i alt. Og så når det reelle polynomier, så skal noget a s op til a n.
+
+24:44
+De skal alle sammen være reelle tal. Er I med på at det her er et polynomium af højst en grad?
+
+24:57
+Der er ikke nogen grader højere end exit end det. For det har høj grad.
+
+25:03
+Er ferien det det påstår jeg er at vække til ro.
+
+25:08
+Det vil sige hvis jeg tager sådan en to paulino mere og lægger den sammen, så får jeg igen et polynomium og højst en grad.
+
+25:18
+Er det klart. Det må vist være ret klare vand.
+
+25:22
+Så det er oplagt at vægteren. Men.
+
+25:37
+Hvorfor? Skatter står højest grad end.
+
+25:44
+Ja, for hvis man nu ikke hvis man nu ikke havde det.
+
+25:49
+Så lad os prøve en gang at kigge fortsætte eksempel. Jeg fortsætter bare herovre.
+
+25:54
+Hvis jeg nu for eksempel kigger på. På de reelle anden grads polynomier.
+
+26:02
+Hvordan ser sådan et ud? Det kunne for eksempel være en minus X+ fire.
+
+26:08
+Siger. Er I med på at dette er et polynomium?
+
+26:14
+Af højest grad to Ağca. Jamen så tager jeg et andet polynomium.
+
+26:21
+Af høj grad tog og trækker fra. Det er også polynomiet og høj grad tog.
+
+26:37
+Hvis ja, så trækker de to polynomiet fra hinanden. Hvad får jeg så en mindeoptog?
+
+26:43
+Det må være minus 1 minus x minus fire. Det må være minus 5 x 4.
+
+26:50
+Ikke alle minus er jeg ikke, siger Jan H. Det giver nulvækst i hjernen. Så.
+
+26:56
+Det burde nå er høj grad to mener på linoleum af højst grad to giver faktisk et polynomium.
+
+27:04
+Af grad en. Men når man har gravet ind, har man også højst gravet to.
+
+27:10
+Disse dage. Men hvis jeg nu havde sagt hér, at jeg kun kiggede på mængden af polynomier af grad to.
+
+27:20
+Så var jeg faldet snoren. Jeg kan ikke se det, fordi dette er i høj grad tog og det der i høj grad tog.
+
+27:25
+Jeg trækker dem fra hinanden, så får jeg noget af grejet et. Jeg får ikke noget af grejet to.
+
+27:31
+Så derfor er højst vigtig opgave.
+
+27:38
+Og så lige for. Bare for at blive i i i i eksemplerne med underrum.
+
+27:49
+Hvordan er det? Hvis jeg nu tager på det nogenlunde, er grad højest en.
+
+28:10
+Er det så ikke rigtigt at ethvert polynomium af grad høj også ligger i pul i nogen grad højst to.
+
+28:19
+Det må være rigtig nok at også. Og er det ikke også rigtigt, at hvis man tager to polynomier af grad højest en?
+
+28:28
+Og laver lidt kombinationer med, så bliver man ved med at have puttet nogle grader høje sten.
+
+28:33
+Man kan aldrig få et angrebskomet lov at operere med første grads polynomier så.
+
+28:40
+Polynomier af grad højest 1 er et underrum af pulido grad højst to, og det gælder sådan helt generelt.
+
+28:49
+At. På donorerne er grejet højst på.
+
+28:57
+Er et underrum. Kan vi skrive sådan her under hvor.
+
+29:03
+Er. På det nogenlunde jeg har i høj grad N.
+
+29:09
+Og hvad skal gælde? Ja, man kan se. Enden skal jo åbenbart være større end K for n større alene.
+
+29:16
+Kog. Hvis de ligner hinanden for det rigtige, så er det bare trivielt.
+
+29:22
+Så sådan er det. Ağca. Lina uafhængighed.
+
+29:32
+Hvad er det for noget? Har jeg fået sat numre på næsten alle tavlerne.
+
+29:59
+Og lad os lige se engang. Når nu vi vi snakker om væk, hvad er det så?
+
+30:06
+Hvad er det så der er vigtigt for os? Jamen, det vigtige for os er at kunne lave Leynaud kombinationer.
+
+30:12
+Altså vi kun kunne tælle, skal kunne tage de objekter, vi har gange dem.
+
+30:17
+Det som vi kalder skalaer, altså tal og så lægge dem sammen.
+
+30:21
+Så får man det, der hedder lille kombinationer. Det knytter an til begrebet lineære.
+
+30:29
+Uafhængighed for. Lad os kigge på forfølgerne, for noget tager jeg ved.
+
+30:36
+Det er et vektorrum. Serverer et vægttab vægteren.
+
+30:46
+Og. Vi tager nogle vektorer, som vi så kan kalde ved et.
+
+30:55
+Ved to ja, okay, vi har det jo lidt med en gang imellem, sådan for typografisk at kunne skelne tingene.
+
+31:03
+At sætte streger under vektorer og det vil jeg også gøre her for at vi ikke kommer til at forveksle store V og små V'er.
+
+31:10
+Så nu sætter jeg streger under vektorerne, og det er altså ikke fordi det geometriske vektorer.
+
+31:15
+Det er bare fordi det er vektorer i det vægtere rum, vi nu engang kigger på.
+
+31:22
+De som hedder ved her før dette. Så lad dette k vektorer.
+
+31:29
+Være. Væk Tore. I V.
+
+31:35
+Ağca. Hvis ligningen. Lige neden og nu kommer der en ledning.
+
+31:51
+For et ved et Clowes Alfa tog ved to plus Alfa K.
+
+32:02
+V K vil med nulvækst som. Hvis den ligning.
+
+32:08
+Kun har løsningen. Hvor Alfa et er lig med Alfa tog lig med lig med Alfa K, rimer tallet nul.
+
+32:26
+Så siger man at sættet alene at uafhængig det skriver vi se, der også gjorde op her, siges sættet.
+
+32:40
+Ved et. V tog op til. VK.
+
+32:47
+At. Være. Ligene er et uafhængigt.
+
+33:04
+Så det er i første omgang bare en definition. Så man har altså et vægtet rum og for min skyld og jeres egen.
+
+33:17
+Så skulle jeg måske bare nøjes med at tænke på planen eller rummet og stille langt det fængsel.
+
+33:22
+Hæderligt spørgsmål der er et spørgsmål S. Kun en vægter ikke altid illustreres kilometers.
+
+33:32
+Jo, altså hvis man. Det kan den jo godt.
+
+33:36
+Man skal nok bare have fantasi nok fordi.
+
+33:42
+I de kontinuerte funktioner er sinus. Lundbeck tager.
+
+33:48
+Kiksede, og det vil sige, at hvis jeg havde lyster, kunne jeg tegne som en pil, men hver retning og længde skulle den egentlig have pct.
+
+33:57
+Så det bliver altså. Vi kan altid illustrere det. Men man skal nogle gange lidt bære over med det, for det kan godt være nogle ret.
+
+34:04
+Så kan det godt være en fraktion, der ved noget, så principielt jo.
+
+34:10
+Og det gør man også. Og lad os lige vende tilbage til denne definition.
+
+34:16
+Man tager et antal væk tåger ud i sit vægtere hvor.
+
+34:22
+Også skriver man en ligning op. Hvad er det man gøre? Jo, man laver en lineær kombination.
+
+34:29
+Af vektorerne det sæt man kigger på, så laver man en Dinart kombination og siger, at den skal give nulvækst.
+
+34:40
+Hvis man kun kan gøre det på én måde, nemlig dér hvor der står nul.
+
+34:46
+Foran alle vektorerne, så siger man at sættet er lineært uafhængigt.
+
+34:53
+Det er klart. Det er klart, at hvis jeg sætter Nuland på alle alverdens pladser,
+
+35:00
+så får jeg vægteren af med hvordan forlene systemet kan godt løses homogent ligning system.
+
+35:09
+Men. Hvis dette skal være Linate uafhængig, så skal det også være den eneste løsning.
+
+35:18
+Lad os lige kigge på. Lad os lige kigge på, hvad det så egentlig betyder.
+
+35:24
+Fordi hvis nu sættet ikke er det yepes vægtkravet selv, så derfor skal.
+
+35:33
+Altså du kan så sige at du havde været på Sjælland?
+
+35:36
+Ja, på nul. Nulvækst sorgerne vil altid have, at det ikke er lige let, at jeg ikke kan følge.
+
+35:44
+Så man behøver ikke engang sige det, men du kan bare ikke have.
+
+35:47
+Hvis du skal, hvor nulvæksten er op, så kan du få uendelig mange løsninger, og så er det ikke kun løsningen, hvor adfærden er nul.
+
+35:56
+Så det er sådan set definitionen af god og. Og så.
+
+36:03
+Hvis man laver et eksempel. Så.
+
+36:10
+Så nu fejrer ved et tog og ved tre der ligger et eller andet vektorrum V.
+
+36:22
+Hvis. Sagde Døden ved et.
+
+36:27
+Ved et to med tre. Ikke er.
+
+36:35
+Linde er et uafhængigt. Ja, hvad betyder det så?
+
+36:47
+Jamen det betyder. Af denne alene. Har alene ingen Alfa 1.
+
+36:56
+Vil slås for to med to plus tre ved et træ.
+
+37:04
+Jeg har bare taget tre for ikke at skulle rode med alt for mange vektorer. Så.
+
+37:10
+Så vil sætte ikke alene et uafhængigt. Så betyder det altså, at der er løsninger til denne ligning, hvor ikke alle Alfa Y'erne er nul.
+
+37:21
+Det vil sige at denne ledning har åbenbart en løsning.
+
+37:27
+Det er alfa og det vi leder efter. Hvor mindst et af disse adfærd ikke er nul.
+
+37:36
+Klasse, da jeg skrev det lige op. En løsning.
+
+37:45
+Hvor. Mindst et.
+
+37:50
+Af Alfa erne. Det er ikke er taget noget.
+
+37:58
+Det er det modsatte af at være lineært uafhængig. For hvis man er lineær uafhængig, så kan det kun lade sig gøre, hvis alle adfærden er nået her.
+
+38:08
+Nu er det ikke tilfældet, så må mindst et af disse alfader være forskellig fra nul.
+
+38:14
+Så kan vi jo vælge, hvad det skal være for et af dem. Lad os nu antage, at Alfa 1 er forskellig fra nul.
+
+38:24
+Antage at Alfa 1 er forskellig fra nul.
+
+38:32
+En. Så prøv at se det jeg så kan gøre i denne ligning også.
+
+38:37
+Så kan jeg jo smide.
+
+38:40
+Det der står til sidst, de to kan jeg bare smide over på den der side, og så fordi alfer ikke er noget, så kan jeg dvd'ere med den.
+
+38:48
+Det vil sige, jeg kan isolere ved et. Er med på det.
+
+38:53
+Nu vil jeg isolere. Vægteren vil et i denne alene det gøre ved at smide dem over på den anden side og dele med alt hvad et.
+
+39:03
+Så står der er ved at lege med dem over på den anden side, så står der minus to delt med adfærd et.
+
+39:12
+Ved to minus tre delt med Alfa et.
+
+39:18
+Ved tre. Jeg ved selvfølgelig ikke om det er alt hvad der er forskellig fra nul, men jeg ved, en af dem er det.
+
+39:27
+Og så tager jeg den ud der ikke er det og deler maden og snyder de andre over på den anden side.
+
+39:32
+Det er bare det, jeg vil. For hvad står der så her? Her står der at.
+
+39:39
+Hvis sættet ikke alene at uafhængigt. Så kan mindst én af vektorerne i sættet skrives som DINARA kombination af de andre.
+
+39:53
+Og det på enken, og det skal jo lige skriver op. Så.
+
+39:59
+En. Det modsatte af lineær uafhængighed, det kalder man så lineær afhængighed så.
+
+40:09
+Hvis et. Z er.
+
+40:17
+Lineært afhængigt. Og det betyder bare ikke vine et uafhængigt.
+
+40:28
+Så kan. Mens.
+
+40:36
+En. Der er. Vil to være med i sættet.
+
+40:47
+Skrives. Som.
+
+40:55
+Viden og. Kombination. Af de andre.
+
+41:10
+Og det er lige præcis det det handler om. En.
+
+41:18
+Det er lige præcis det her det handler om, fordi. Hvis et sæt af vektorer som jeg nu har udvalgt til det her.
+
+41:28
+Alene et uafhængigt. Så kan jeg kun skrive det her på én måde, nemlig hvor alle adfærden er noget, så er der ingen af disse væk toere fra V til v k.
+
+41:41
+Der kan skrives som dinart kombination af de andre. Hvorimod hvis det ikke er tilfældet, så kan jeg gøre ligesom her,
+
+41:50
+og så kan jeg skrive mindst en af vektorerne i sættet som de narkoman versioner af de andre.
+
+41:56
+Og indvillige holder pause. Så kan vi lige prøve at. Og tegnere frem her.
+
+42:06
+Fordi hvis vi nu er i. Her i planen.
+
+42:14
+Så vil jeg prøve at være i planen. Så tager jeg denne vækster ud.
+
+42:21
+Det er min vægt, så ved et. I. Hvis jeg nu skal tage en vægtere som ligger i planen, som er lineært uafhængigt af den.
+
+42:33
+Så skal jeg tage en vægter, som ikke kan skrives som en lineær kombination af ved et.
+
+42:40
+Og Lindau er kombinationerne ved et. Der er kun en vægter.
+
+42:45
+Det vi siger, kan bare gange med et tal. Det giver alt hvad der ligger på en ret linje her kan sådan.
+
+42:53
+Hvis jeg, hvis jeg skal vælge en vægter der er lineært uafhængig af den,
+
+42:56
+så skal jeg bare vælge en vægter ved to, der ikke ligger på samme rette linje.
+
+43:03
+Nu har jeg to lineært uafhængige vektorer. I er to.
+
+43:09
+Hvis jeg skal vælge en vægter I er to som alene er et uafhængigt.
+
+43:16
+Med det her. Det vil sige sådan at det her sted. Ved tre af ligene er et uafhængigt kaos og det.
+
+43:28
+Nej, det kan jeg ikke fordi. Fordi.
+
+43:33
+Lad os lige kigge på det. Jeg vil jo altid kunne skrive for eksempel ved et vægteren her.
+
+43:40
+Den kan jeg altid skrive ved at gange med et eller andet og gerne dem, der med et eller andet og så lægge det sammen og få den vægter.
+
+43:46
+Og tilsvarende med alle de andre kendisser. I har tre vektorer, der ligger i en plan.
+
+43:53
+Så kan I altid opløse efter to af dem. Og det vil sige at I er to.
+
+44:01
+Kan I kun udtage? To linjer uafhængige vektorer.
+
+44:09
+Derfor siger man at dimensionen af er to er to.
+
+44:18
+Det lyder lidt iøjnefaldende dimensionen af er to af to. Fordi dimensionen er et vægtere rum.
+
+44:25
+Det kan vi lige skrive som det seneste, det børn faktisk står her.
+
+44:32
+Definitionen af et værktøj hvor det er lige med antallet.
+
+44:41
+Lena. Uafhængige vektorer.
+
+44:50
+Da jeg. Kan udtages.
+
+44:59
+I godt dame. I de ved.
+
+45:08
+Og det ville vi brygge lidt videre på. Der er andre måder at definere definerede FN's dimension på.
+
+45:14
+Men prøv at tænke over det. Det betyder så, at f.eks.
+
+45:19
+De reelle tal, som bare er den reelle dimension.
+
+45:23
+1. Fordi der kan kun udtage en vægter. Er 2.
+
+45:28
+Der kan jeg udtage to der er dimensionen to, så i det hele taget i det der hedder tal rummene.
+
+45:35
+For eksempel er 27 er et 27 dimensionalt rum, fordi I kan højst udtages 27 lineært uafhængige vektorer.
+
+45:48
+Så kan man så overveje. Har alle vægtere rum en dimension.
+
+46:05
+Kig for eksempel på de kontrollerede funktioner. Hvad vil det sige at udtage lineært uafhængige funktioner?
+
+46:15
+Det kan vi sagtens definere, og det vil vi gøre i næste time.
+
+46:19
+Men vi kontinuerte funktioner er det, der hedder et uendeligt dimensionalt vektorrum.
+
+46:25
+Der kan udtage uendelig mange funktioner der er lineært uafhængige, og så nogle er normen lidt,
+
+46:36
+men sådan er det nogle lidt vilde dyr, som man skal omgås meget forsigtigt som.
+
+46:43
+Men det vi kommer til at lave det, det bliver ikke farligt, men der er altså nogle ting,
+
+46:46
+man skal passe på, når vægtere råbende bliver uendelig dimensional.
+
+46:49
+Så begynder tingene nogle gange at gøre lidt ondt, så vi tager det stille og roligt.
+
+46:54
+Det kommer ikke til at gøre ondt efter pausen og da.

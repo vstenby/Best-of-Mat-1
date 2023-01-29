@@ -1,0 +1,860 @@
+0:05
+Sidste gang kom vi godt i gang med lineære ligninger systemer.
+
+0:11
+De så hvordan det at vi indførte.
+
+0:16
+Nogle specielle matricer betød, at udregningerne blev mere overskuelige, og vi kiggede på forsent matricer på totalt matricer og på søjle matricer.
+
+0:33
+Og vi snakkede om trappe matricer. Se her i den første del af forelæsningen.
+
+0:41
+Da prøver vi lige at lave et spring. Fordi nu vil vi gerne behandle matricer i al almindelighed.
+
+0:51
+Og det kalder vi for matrix algebra. Så lige her prøv at glem det vi snakkede om sidst, og så kig på dette helt fra starten af.
+
+1:02
+Når vi så når over til anden del af forelæsningen, så skal vi se, hvordan vi kan bruge det her,
+
+1:09
+som vi har lært i første del til at kaste nyt lys over disse lineære lignende systemer.
+
+1:16
+Så der bliver altså en helt masse om liner og lignende systemer. Efter pausen.
+
+1:21
+Vi skal løse ikke mindre end fem systemer, og så kommer der en dag et sjette system til sidst.
+
+1:28
+Men nu starter vi altså generelt med matricer, og så lad os få det helt på plads, hvad der.
+
+1:35
+Og vi siger en EM cruys EM matrix.
+
+1:45
+Er et break tango lært. Tal skema.
+
+1:58
+Som vi kan skrive sådan her. Jeg har lavet. Gu er det og det jeg laver, fordi det er lidt lokalt.
+
+2:05
+Men det simple det er. Vi skriver en matrix op her og den skriver vi sådan her a et et A i 2.
+
+2:29
+Og så videre op til a end et. Og så her i den anden retning har vi a to et a to 2 op til a 1 2.
+
+2:44
+Og så går vi videre ned her. Og så har vi a m et a m2 og så videre op til a n m.
+
+2:58
+Og vi kan altså se her at. Se da et eller andet der ikke ser så godt ud her.
+
+3:05
+Vi skal have et N. To en.
+
+3:11
+Og så m en hvor jeg altså kan se EM.
+
+3:15
+Det angiver altså. Rækkerne og N angiver antallet af søjler.
+
+3:32
+Jeg så den første række anden række ned til indtrækket første søjle, anden søjle op til endt søjle.
+
+3:41
+Når jeg står der her i skemaet, og så siger vi mængden.
+
+3:50
+Af Emmery's matricer. Altså når vi betragter alle dem alle de matricer som har, får man m krydset M.
+
+4:07
+Så får de et særligt symbol hvis de er reelle. Nemlig.
+
+4:13
+Så skriver vi er og så heroppe ligesom en slags eksponent. Der skriver vi Emmerys en.
+
+4:20
+Når man gerne vil angive at en matrix A.
+
+4:28
+At den har m rækker og n søjler, så kan man så skrive den på den måde.
+
+4:34
+Her. Og det vil altså sige den matrix jeg har opskrevet her.
+
+4:41
+Den er en del af den samlede mængde. Er i l m.
+
+4:46
+Kryds N matricer. Så er.
+
+5:05
+Nu gør vi så det mærkelige, at ligesom vi, når vi regner med almindelige tal i 11 tal.
+
+5:12
+Dem kan vi lægge sammen i ca. Gangen, dem alt muligt.
+
+5:16
+Det samme gør vi nu med matricer, og så skal vi prøve at sammenligne lidt.
+
+5:22
+Hvordan er de regneregler, vi når frem til for matricer? Hvordan er de i forhold til, når vi regner almindeligt?
+
+5:29
+Så. Nu siger vi så i det her i den her mængde af matricer.
+
+5:41
+Indfører vi. Som.
+
+5:48
+Og gange med tal. Og her bruger vi så.
+
+6:04
+Dette særlige tilråb. Som eksempel.
+
+6:17
+Altså de matricer som har 2 rækker og tre søjler. Og.
+
+6:24
+Nu kager indfører altså to bestemte matricer.
+
+6:32
+Den første matriklerne hedder 1, 2, 3, 4, 5.
+
+6:38
+Og 6. Og den anden matrix.
+
+6:44
+Den kan for eksempel hedde 1 minus 1 1 og 2 0 2.
+
+6:58
+Og I kan altså se de to matricer der er af samme type.
+
+7:02
+De er nemlig i den mængde, der er to 3. Og den slags matricer der indfører vi så.
+
+7:15
+Og det gør vi simpelthen ved at vi siger, at vi lægger den plads vist sammen for de tal, der står på samme måde.
+
+7:22
+Det er ikke tankelæser skema, de skal lægge sammen, og så får vi en.
+
+7:28
+Så får vi en. Og så får vi fire. Vi får to heller ikke også.
+
+7:38
+Vi siger 1 +1, 2 2 minus 1, 1, 3, +1 4 og så får vi 4 plus 2.
+
+7:48
+Det giver 6. Og så 5 +0 det giver 5 og 6 plus to, der giver 8.
+
+8:00
+Sådan lægger vi altså sammen, og hvordan ganger vi med et tal?
+
+8:08
+Hvis vi for eksempel siger tre gange med a matricen.
+
+8:17
+Så skal hvert af tallene inden i skemaet. Det skal ganges med tre, og så får vi altså 3, 6, 9, 12, 15 og 18.
+
+8:40
+Hvad er forkert? M altså.
+
+8:47
+Ved du hvad? Jamen, det var det vi. Godt.
+
+8:57
+Er det tidligt på morgenen. Det er jeg faktisk ikke særlig svær, men bare vent til om lidt så spørger.
+
+9:03
+Så spørger jeg dig om multiplikation af matricer. Så vågner du op.
+
+9:11
+Men en datter skal vi lige have. Se, så siger vi at en hver matrix A.
+
+9:29
+Har en modsat matrix. Som vi skriver som min nu saa.
+
+9:49
+Der opfylder. Og det er definitionen på en modsat matrix.
+
+10:01
+Den opfylder at A.
+
+10:07
+Knus den modsatte matrix. Den skal være nul matricen.
+
+10:18
+På. Hvor.
+
+10:30
+Nul matricen. Det er den matrix der har nul alle vegne.
+
+10:50
+Godt lad os lige se. Hvad skal så den modsatte matrix til den af Matrix?
+
+10:57
+Jeg har skrevet derhenne vævet. Forslag.
+
+11:02
+Hvad siger du? Ja, simpelt hen.
+
+11:06
+Det kan ikke være anderledes, når vi har indført sund på denne her måde.
+
+11:30
+Så det er altså de 6 tal vi opnår, når vi bare sætter minus foran.
+
+11:41
+Og nu kan vi endda altså præcisere denne her iagttagelse. For det betyder, at.
+
+11:52
+Den modsatte matrix husk det er jo sådan set bare et symbol som er indført, der skal opfylde den ligning her.
+
+12:01
+Men i følge det du sagde, jamen så er det det samme som hvis vi ganger A med et bestemt tal, som vi jo har indført.
+
+12:13
+Minus en ganget med A. Og så siger jo nok Hvorfor laver han sådan noget pjat?
+
+12:30
+Jamen, det er jo fordi vi er matematikere. Vi vil jo gerne lave tingene så simpelt som muligt.
+
+12:36
+Så når vi skal indføre subtraktion af matricer, jamen så kan vi bare sige Jamen, vi har sådan set den regneark, der er brug for.
+
+12:45
+Det er nemlig regnearkene addition. Sejrede sig.
+
+13:07
+Det der står dér. Det vil vi kalde for subtraktion. Og det indfører vi ved, at det er det samme som A Plus.
+
+13:22
+Den modsatte matrix til bind. Og så har jeg sådan set indført de.
+
+13:43
+Når operationer som vi starter med at tage.
+
+13:54
+Og nu skal vi så se hvorfor nogle rimede regler som disse.
+
+14:01
+Altså denne her så. Så vi ikke har altså se her.
+
+14:15
+Det her er otte meget karakteristiske regneregler, og det er ikke sidste gang, vi ser det her.
+
+14:24
+For det er de regler, der skal til for at vi kan sige, at.
+
+14:30
+Mængden af to kryds tre matricer. At det er et vægtet rum.
+
+14:35
+Det er altså noget vi kommer til.
+
+14:37
+Jeg kan ikke forstå, hvis det i næste uge, når vi skal snakke generelt om vektorrum, så kan jeg se, det er et eksempel på et vektorrum.
+
+14:45
+Og et vektorrum opfylder de her egenskaber. Kommutativ lov for addition.
+
+14:54
+Det er jo klart, at hvis jeg, hvis jeg her havde sagt A plus B,
+
+15:00
+men i stedet for B plus af den måde vi lægger tallene sammen på, vil give det samme resultat.
+
+15:09
+Hvis vi skal lægge 3 matricer sammen.
+
+15:12
+Så er det lige meget om vi siger, at først så lægger vi A og BT sammen ud fra den definition har vi har lavet, og så ligger se til bagefter.
+
+15:22
+Eller om vi lægger B og C sammen først. Og så lægger dem sammen med lige meget.
+
+15:29
+Og det er at ASO addition er associativ.
+
+15:35
+Vi har fået indført en matrix som er neutrale med hensyn til addition.
+
+15:42
+Lægger vi nul matricen til en anden matrix, så får vi den.
+
+15:45
+Vi startede med. Og når vi ganger et tal med en matrix, og så ganger det med et andet tal bagefter den matrix vi har opnået.
+
+16:01
+Så kunne vi lige så godt først ganget de to tal sammen og så ganget det på matricen bagefter.
+
+16:08
+Produkt af matrix med skalaer skalaer. Det betyder bare tal.
+
+16:12
+Den er associativ. Og så har vi de distributed regler, at hvis vi ligger eller ganger en matrix med en sum af to tal,
+
+16:25
+så kunne vi lige så godt først have ganget den ene matrix eller ganget med matricen med tallet.
+
+16:32
+Det første tal og bagefter med det antal og så lagt dem sammen.
+
+16:36
+Eller hvis vi har en sum af matricer der skal ganges med et tal, så kan vi ligeså godt gange den første matrix med tallet.
+
+16:44
+Den anden matrix med tallet, og så læg dem sammen her. Så har vi altså her et neutralt element med hensyn til addition.
+
+16:56
+Det var nul matricen. Vi har også et tal, som er neutralt med hensyn til at gange med tal, og det er tallet 1.
+
+17:04
+For hvis vi ganger ud fra vores definition en matrix med ét, så opnår vi den samme matrix igen.
+
+17:13
+Alle de regler her, som der står der. De bygger på, at de tilsvarende regler gælder for almindelige tal.
+
+17:21
+Altså hvis bare kigge på reelle tal. For eksempel når vi siger, at sund er kommutativ, så bygger det på, at hvis vi for eksempel siger tre plus en.
+
+17:36
+Det er det samme som en plus 3. Den kommutativ regel, den gælder for de reelle tal.
+
+17:43
+Og så kan vi se. Så må den også gælde for alle de her matricer. Så.
+
+17:48
+Det var måske lidt kedeligt. Undskyld. Men nu skal du nok vågne op.
+
+17:53
+For lige nu går vi til det, der er meget værre. Nu skal vi nævne én.
+
+17:58
+Hvad siger du? Er o.k. Vi skal til det der er meget værre.
+
+18:05
+Og nu skal vi nemlig til at gange matricer med hinanden.
+
+18:12
+Jamen, skal vi prøve at se hvad der? Den strejke og sætter under A det betyder symbolet fed.
+
+18:27
+Det er det, vi en moderne bruger som symbol for matricer. Der er nogle der sætter dobbelt straf, men det gider jeg ikke.
+
+18:34
+Jeg sætter en enkelt streg. Husk dette, det betyder bare fed.
+
+18:37
+Når I læser i en orden for ikke at forveksle dem med et tal eller noget andet, så ved jeg, at det er et af de symboler, som skrives med fed.
+
+18:50
+Her var det så herligt at de regnede regler vi har indført her.
+
+18:55
+Det gælder inden for et specielt valg af sådan et tal rum her.
+
+19:00
+For eksempel havde jeg til at indføre disse operationer. Der er brugt to pools, tre matricer som et eksempel.
+
+19:08
+Hvis jeg lægger 2 af den slags matricer sammen, så får jeg en ny matrix af samme type, som vi er inden for to kryds.
+
+19:17
+Tre matricer hele tiden. Når vi laver de ting her. Men nu er der meget mere spræl i matrix multiplikation.
+
+19:26
+Og hvor vi skal tænke over hvornår er det egentlig muligt at fange dem sammen og alt det der?
+
+19:32
+Så lad os starte med at definere dem. Her har jeg for eksempel en matrix, som er af samme type som dem vi snakker om før.
+
+20:24
+Og så ved jeg gange den med en vægter, som hedder en to 3.
+
+20:32
+Se hvordan man gør den slags her. Man tager det øverste tal i vægteren og ganger med den første søjle i matricen.
+
+20:43
+Det vil altså sige, at det første vi skal det 1 gange 1 over minus 1.
+
+20:51
+Og så tager vi det andet tal i vektoren og ganger med den anden søjle herhjemme, så har vi altså to gange 0 over i.
+
+21:04
+Og så skal vi tage den tredje. Det tredje tal og gange med den tredje søjle.
+
+21:13
+Og det var en over nul. Og så kan vi jo se det bliver så.
+
+21:21
+1 minus 1. Og så får vi +.
+
+21:29
+0 over 2. Flås.
+
+21:35
+Tre år nul. Og det giver så når vi ligger sammen, så giver det fire.
+
+21:43
+Og så giver det her minus en. Du har to det jeg og mine, du lægger de tre tal sammen, men.
+
+21:56
+Når det igen. Det er tidligt på morgenen også mig, men.
+
+22:06
+Sådan gør man altså. Skal vi lige se hvad var egentlig betingelsen for at det her overhovedet giver mening?
+
+22:17
+For at jeg kunne gang lave det regnestykke jeg lavede her, så kan jeg se, at antallet af søjler i den første.
+
+22:26
+Skal være lig med antallet af elementer i min vægter.
+
+22:31
+Aser og søjler skal være limet rækker. Ellers kan jeg slet ikke lave det.
+
+22:38
+Og lad os se det output vi får ud af det. Set det har to brækker.
+
+22:48
+Og output af sådan et matrix vægter multiplikation på den måde jeg laver det her.
+
+22:54
+Der må mit output. Det må have samme frække antal som den matrix, jeg havde inde i billedet dér hen.
+
+23:09
+15. Og det står vi altså ved at outputtet det respektér antal søjler i matricen.
+
+23:37
+Jo, selvfølgelig. Det var det jeg skulle have skrevet. Fordi vi har 2 rækker og som er kommet 2 rækker derhen yes!
+
+23:51
+Se, det var nemt. Næsten da. Nu skal vi have det der hedder.
+
+24:01
+Matrix. Matrix Product. Og nu kan jeg sætte en nål ind.
+
+24:24
+Minus en nål og en. Den vil jeg nu gange med en, to tre.
+
+24:37
+3 2 minus 1. 0, 5 og 0.
+
+24:57
+Mange. Den er et udmærket forslag.
+
+25:02
+Det gør vi bare. Sådan.
+
+25:06
+Hvordan gør vi det? I kan se den matrix her.
+
+25:19
+Den har tre søjler, så når jeg laver et Matrix Matrix produkt.
+
+25:26
+Så bliver det til tre Matrix' vægt træprodukter på følgende måde.
+
+25:32
+Vi tager matricen. 1 01.
+
+25:39
+Minus 1 1 0. Og ganger med den første søjle.
+
+25:52
+Og det vil blive til. Det blev til en søjle. Så tager vi igen den ganger ind på den anden vægter.
+
+26:11
+Som hedder 3 2 og minus 1.
+
+26:17
+Og så til sidst, så ganger vi matricen nul en nul minus en 1 0.
+
+26:26
+1 på den sidste af søjlerne, som var 0, 5 og nul.
+
+26:50
+Og så lad os prøve at regne det ud. Se den første dør.
+
+27:00
+Den har jeg sådan set allerede regnet ud af hende. Den var fire over i.
+
+27:16
+Og så skal jeg regne den ud efter samme model det op.
+
+27:20
+Det bliver. Det bliver to. Og at det bliver.
+
+27:27
+Hvad får vi? Det bliver to.
+
+27:35
+Og så bliver det en. Minus 1 er det bliver 2 minus 1.
+
+27:48
+Også siges her. Så vi skal gange den med den første.
+
+27:53
+De bliver allesammen nul. Denne gang med den anden. Så får vi fem forneden, og så nul gange træder.
+
+27:58
+Den giver nul. Så du lærer altså 05. Så sammen udfører jeg altså det her matrix product.
+
+28:14
+Og nu skal vi så prøve at se. Hvad formatet er, er dette.
+
+28:23
+Altså altså hvordan det overhovedet kunne lade sig gøre, at vi kunne regne det her ud.
+
+28:30
+Ligesom vi sagde her op. Antallet af rækker. En anden faktor skal være det samme som antallet af søjler i første faktoren.
+
+28:42
+Sådan må det også gælde for dem hernede, fordi det er jo det samme, der skal ske.
+
+28:48
+At det skal passe med den der. Så.
+
+28:55
+Det er sådan set det vi kan sige. Jeg lige et øjeblik.
+
+29:07
+Altså antal søjler i første faktor. Skal være ved.
+
+29:22
+Med. Antal rækker. I anden faktoren.
+
+29:42
+Hvis I vil slå også når der. Kan man sige at jeg har lavet en tre det væk?
+
+29:53
+Så ja, det kan du godt sige. Du kan godt sige den er blev lavet om til den anden.
+
+30:02
+Og det er jo altså kun fordi at den første denne havde 2 rækker.
+
+30:08
+Sådan en sag, så hvorfor er den blevet stendød?
+
+30:13
+Det er den, fordi den har to rækker. Da en anden ting vi lige skal spørge os om her i også.
+
+30:25
+Det der skal gælde for dem her, er altså en, to tre skal være den samme som en, to, tre her.
+
+30:33
+Men hvad så med antallet af søjler? Selv kunne jeg sagtens have haft flere søjler i den første matrikel.
+
+30:42
+Det havde jo blot betydet, så skulle vi have ganget den matrix ind på fjerde søjle, femte søjle, sjette søjle og så videre.
+
+30:50
+Vi kunne godt have regnet det ud. Ja, se hvad kommer der ud af det?
+
+30:55
+Det der kommer ud af det, det er to rækker.
+
+31:00
+Og tre søjler. Og der kommer selvfølgelig tre søjler ud af det, fordi vi har en to tre søjler.
+
+31:07
+I denne anden faktoren. Så kort sagt.
+
+31:17
+Så kort sagt kan vi sige her format. Af Matrix Matrix produkt.
+
+31:36
+Det er her vi kan tage. 1 m kryds en matrix.
+
+31:45
+Og så gange dem med en ny matrix. For at det overhovedet skal kunne lade sig gøre.
+
+31:55
+Hvad skal der så stå her? For at vi overhovedet kan udføre denne hvad siger du?
+
+32:06
+Nej, vi skal have altså et konkret tal. Anjas.
+
+32:14
+Så dette er antallet af såler i den første skal respektere antallet af rækker i anden faktoren.
+
+32:24
+Og så var det vi sagde her i anden faktoren, da vi sådan set lige meget.
+
+32:27
+Lige meget hvor mange søjler jeg har. Jeg kan godt gangen ud alligevel, så her der kan jeg sådan set bare tage et fuldstændig vilkårligt tal p.
+
+32:42
+Og så lad os se hvad er det vi får ud af det? Det resultat vi fik ud af det.
+
+32:49
+Det vil respektere antallet af. Og rækker i den første faktoren.
+
+32:58
+Og så får vi altså en, to tre herop, og det var fordi vi skulle gange den der ind på det antal af søjler, der var i Bevington.
+
+33:10
+Det vil altså sige, at der kommer til at stå det her.
+
+33:21
+Og når jeg lige understrege det her, så var det fordi det med addition,
+
+33:27
+subtraktion og ganget med tal det var meget nemt, fordi det er bare noget vi gør inden for et af de hertil alrum.
+
+33:35
+Men så. Matrix. Matrix produkt.
+
+33:40
+Det er meget mere sprælsk, der skal være nogle krav, der er opfyldt, for at man kan gange med den med hinanden.
+
+33:47
+Nogle gange så tager man en matrix. Det er jo det, man oftest gør.
+
+33:51
+En matrix fra et matrix rum og gange med en efter fra et andet matrix rum, og de skal altså opfylde den betingelse, der står dér.
+
+34:00
+For at det overhovedet har nogen mening. Fra egne regler.
+
+34:15
+Regning, og det er kedeligt også masse bogstaver og også noget af det jeg gør, hvad er egentlig pointen i det?
+
+34:36
+Produkt man skalar associativ gangen. Den ene matrix med et tal og så gang de to matricer sammen efter det vi har lavet af hende.
+
+34:46
+Da kunne jeg lige så godt have ganget de to matricer sammen først og så tallet på bagefter.
+
+34:53
+Og så a garnet med en parantes, selv om det drejer sig om matrice, så er det ligesom med reelle tal gange ind i hver at de at den dér.
+
+35:02
+Så får vi det der. Bagfra gælder det også. Og Matrix Matrix produkter er associative, det vil altså sige er der tre matricer, vi skal gang sammen.
+
+35:17
+Så hvis vi ganger de to sammen først bagefter med A,
+
+35:20
+eller om de gange i de første to sange og så bagefter med at se samme matrix, der kommer ud af det.
+
+35:31
+Men hov, nu kommer vi til at tænke på noget. Så havde vi også noget med de er sushi og thai regler, den var dér.
+
+35:47
+Den var der, og vi havde også de distributed regler.
+
+35:52
+Men har overset at der står noget med kommutativ. Det er også sædvane med reelle tal at sige gå tilbage og se om vi har glemt noget her i noten.
+
+36:05
+Selv hvis vi skulle have haft en kommutativ regel her, så skulle der have stået A gange med B er lige mad begge gange med F.
+
+36:14
+Hvad får dig i mystisk? Det blev vi nødt til at udrede.
+
+36:50
+Jeg prøver lige at gangen. Disse to matricer sammen. Det bliver den ganget med den plus den gang med den.
+
+36:58
+Den giver en fem gange med den den gange med den, der giver nul.
+
+37:03
+Den skal gerningsmanden der. Det giver nul og den, der giver nul.
+
+37:08
+Det lavede jeg lidt hurtigt, men det kommer jeg også hurtigt til at kunne lave.
+
+37:11
+De numre er jeg ikke i udgangen. Matricer med hinanden. Nu prøver vi så at tage dem i modsat rækkefølge.
+
+37:33
+Og så skal vi sige den gang med den. Det giver en. Den gange med den der giver noget.
+
+37:40
+Den gange med den, det giver en fem gange med den. Det giver nul.
+
+37:48
+Ups, vi har set de to resultater var forskellige fra hinanden.
+
+37:52
+Så allerede her kan vi se den kommutativ lov den gælder ikke for matricer.
+
+37:59
+Og det er da smadder ærgerligt. Det er jo næsten ikke til at holde ud, fordi så begynder systemet og vakle.
+
+38:08
+Nej, det er der ikke noget at gøre ved. Der accepterer vi i første omgang. Så kan i almindelighed.
+
+38:24
+Der har vi altså. A gange med B er forskellige fra b gange med A.
+
+38:40
+Så derfor når vi snakker om Matrix Matrix produkt, så er vi altså nødt til at snakke om at gange fra venstre eller gange fra højere.
+
+38:52
+Det er to forskellige regne operationer, og de giver forskellige tal.
+
+38:56
+Selvfølgelig forudsat at de overhovedet kan udregnes. Yes.
+
+39:08
+Lad os se det. Nej, altså addition af matricer.
+
+39:18
+Dem indfører vi inden for et bestemt rum, og det gør vi selvfølgelig på grund af den måde, vi har definerede sump på.
+
+39:27
+Hvor vi siger, det skal være den blå stemme. Den blev stemt.
+
+39:31
+Den puster den påstand. Den påstand den selv, så vil jeg sige.
+
+39:35
+Addition giver kun mening og det samme gange med tal.
+
+39:39
+Det giver kun mening, hvis de er samme type. Så der har vi altså en stor forskel på de regne operationer, vi har set nu.
+
+40:16
+Nu indfører vi det begreb der hedder transponerede matrix. Ser jeg har en matrix som hedder.
+
+40:35
+1 1, 2, 0 og 4.
+
+40:44
+Og så har jeg en anden matrix der hedder. 4 1 minus 1 0 og så 2.
+
+40:55
+Og 2. Symbolet for.
+
+41:08
+Transponerede matrix det er at man skriver et stort T, ligesom det var en slags eksponent.
+
+41:17
+Og hvad betyder det? Det betyder bare, at vi bytter rækker og søjler i matricen, så Blædels ASCII a transponerede.
+
+41:28
+Den er en 2. Nul og fire.
+
+41:39
+Og så transponeret vi Beille. Og den bliver jo så til fire minus 1 og 2.
+
+41:53
+Og så får vi en 0 2. Byder rækkerne og søjlerne, så har I transponeret matricen.
+
+42:03
+Nemmere kan det ikke være. Se.
+
+42:30
+Jeg kan jo godt gange de dér to matricer med hinanden, fordi antallet af søjler i den første del 2.
+
+42:39
+Antallet af rækker i den anden. Det er også to.
+
+42:45
+Så det vil altså sige at den overholder mine formelle drænende. Jeg kan udgange de to, og det har jeg faktisk gjort hjemmefra.
+
+43:04
+Det blev bare sådan her. Og nu spørger jeg så jer kan jeg også lave det omvendte produkt?
+
+43:34
+Kan vi gange B og A? Ja eller nej. Det kan vi nemlig ikke, for vi ser jo, at bh'en har tre søjler, mens æren kun har to rækker.
+
+43:49
+Så det kan ikke lade sig gøre. Så nu bliver det svært.
+
+44:09
+Kære transponerede af. Og kan jeg transformere ben og kan vi så gange den med den?
+
+44:18
+Nej, fordi vi har jo to søjler. Vi har tre rækker.
+
+44:38
+Og til sidst spørger jeg Er det transponeret gange med en transponeret?
+
+44:49
+Er det en mulighed? Det går fint, fordi her har vi nemlig to søjler, og i den første har vi to rækker, så det kan faktisk godt lade sig gøre.
+
+45:08
+Og så ser det ud på denne her måde. Så har vi altså.
+
+45:15
+4 minus 1 og 2 og 1, 0 og 2.
+
+45:22
+Som vi så kan gange med. 1, 2, 0 og 4.
+
+45:35
+Og når vi ganger de to sammen, så det der kommer ud af det, skal jo respektere antallet af rækker i den første.
+
+45:43
+Så det bliver altså tre. Og den skal respektere antallet af søjler i den anden, så det må blive to.
+
+45:52
+Og jeg har også regnet den ud der hjemmefra, og der fik jeg 6 minus 1 5.
+
+46:02
+Og så fik jeg 4 0 og 8, da jeg regnede det ud efter min opskrift dér hende.
+
+46:09
+Altså må jeg først tager matricen her. Ganger dem på den første søjle her, så får er den søjle, der står her.
+
+46:23
+Og så bagefter, så tager jeg. Så tager jeg hele matricen.
+
+46:27
+Her ganger den på den anden væg, så her, og så får jeg det, der står her hen.
+
+46:37
+Er der kommentarer. Ingen kommentarer.
+
+46:47
+Til det de har lavet her. Hvad siger du?
+
+47:02
+Og. Og der blev foreslået jeg tager den med fritter transponeret dem bum.
+
+47:13
+Det var den samme. Interessant.
+
+47:27
+Skal vi prøve at se om vi kan formulere en matematisk lov her.
+
+47:33
+Så kan du hvis. Her skulle. Vi snupper lige den der.
+
+47:41
+Samme. Og da vi nu får lov til at holde pause.
+
+47:48
+Hvis I kan hjælpe mig med at formulere det her til en matematisk sætning, det har du et forslag til.
+
+47:53
+Så langt vil. Der bliver foreslået.
+
+48:02
+At vi tager hele dette produkt. Og transponerede det, og så bliver der sagt at det er lig med B.
+
+48:13
+Transponeret gange med a transponerede. Så det var flot.
+
+48:32
+Og det ville jo altså sige. Nu fik vi reddet situationen lidt, fordi der var desværre det problem, at et produkt er ikke kommutativ.
+
+48:50
+Men kan I se, nu vil I fået sådan en slags invalid kommutativ ring.
+
+48:56
+Hvor vi altså godt kan bytte produktet om hér.
+
+49:00
+Vi skal bare huske at transformere patricierne på den rigtige måde, så dette er vores nye kommutativ rent kahveci.
+
+49:08
+Og det er pointen her til at gå til pause på.

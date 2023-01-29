@@ -1,0 +1,821 @@
+0:06
+Vi skal i dag tale om vine og afbytning om.
+
+0:13
+Og I kan se programmet er her. Vi skal tale om de to betingelser der skal være opfyldt for at en afbildning er lineære.
+
+0:22
+Den kalder man for lidt, og en 2. Så skal vi se tre eksempler på ligende afbildninger.
+
+0:31
+Så skal vi have introduceret de begreber, der hedder kernen og billedet rummet for en line afbytning.
+
+0:39
+Og så er der dimension sætningen.
+
+0:42
+Og selvfølgelig er der også en matrix i dag, og denne hedder afbildning som matricen, for så må vi se, om vi får tid til Mabel.
+
+0:50
+Det håber jeg. Se alt det, jeg siger ind til her.
+
+0:59
+Altså alle sætninger og regler. Det er noget, der gælder for alle vektorrum rum, altså os uendeligt dimensionale vektorrum afbildning standses,
+
+1:09
+og det kan vi kun snakke om, når det endeligt dimensionale. Men de tre eksempler jeg viser her, de er dog trods alt endelig dimensionale.
+
+1:20
+For succeskriterie for i dag er at I får en lille fornemmelse af, hvad ligende afbildninger er for noget.
+
+1:27
+Begreberne Kærene og billede rum, og så er de lære at opstille en afvænnings matrix og så bruge den.
+
+1:36
+Det bliver selvfølgelig en begyndelse i dag, og vi kommer til at bruge disse begreber rigtig meget.
+
+1:42
+Altså resten af semestret her. Men lad os komme i gang.
+
+1:48
+Kom vi siger. Der er givet to vægge til rum.
+
+1:58
+V og W og en afbildning.
+
+2:10
+F. Der vil ind i et W.
+
+2:18
+Og hvad mener jeg så med det? Lad os prøve at tegne situationen.
+
+2:33
+Nu er det her sådan en model, at de to vægtere rum V og W og en afbildning ind i en væg til rums afbildning gør det, at den til en væg så.
+
+2:47
+I det første rum. Knytter en vægtere i det andet rum.
+
+3:02
+Så det er sådan en tilknytningskrav belastning for enhver vægtere.
+
+3:07
+Her svarer der en vægter her inden i W.
+
+3:11
+Det minder lidt om det funktions begreb I kender fra gymnasiet.
+
+3:18
+Nå, dem findes der rigtig mange af, og nogle af dem er lineære og være betingelsen for det er det du siger vi f.
+
+3:29
+Er lineær. Hvis.
+
+3:37
+L et er opfyldt. Og med det mener vi at F.
+
+3:44
+Plus en vægter som. Det er summen af billederne.
+
+3:58
+For alle U og V I-V.
+
+4:07
+Det er nemlig sådan, at hvis vi har en vektor her, så kalder vi den vektor der svarer til jer hende.
+
+4:13
+Den kalder vi for billedet, at vi. Og nu kan vi altså se her at billedet af en so.
+
+4:21
+Det er summen af billederne. Og så det andet krav der skal være opfyldt.
+
+4:35
+Det er at frk gange en vægter ved ved det skal være kog gange DF er ved.
+
+4:46
+For alle. V i V og alle K.
+
+4:58
+I det er tandlægen vi kigger på, uanset om det nu er de reelle tal eller de komplekse tal, så igen.
+
+5:06
+Se billedet af en konstant ganget med en vektor.
+
+5:13
+Det skal altså være det samme som konstanten gange med billedet af vektoren.
+
+5:23
+Så er der måske nogle af jer der siger Det ser ikke særlig bemærkelsesværdigt ud, og det må jeg give jer ret i.
+
+5:32
+I kan se her. Regne operationen. Den bliver bevaret. Og her konstanten kan vi bare sætte uden for afbildningen.
+
+5:44
+Og der findes jo meget mere interessante funktioner. Tænk bare på eksponentielle funktionen.
+
+5:49
+Eksponentielle funktionen er en sund. Det er eksponentiel funktion at den ene er den ganget med den anden.
+
+5:57
+Så eksponentiel funktionen skifter altså regner operation. Så det kan næsten ikke være mere kedeligt.
+
+6:03
+For som udgangspunkt. Men det er altså det, som hele kurset her bygger på.
+
+6:08
+Og. Bare vent. Det bliver rigtig spændende fordi lineær algebra.
+
+6:14
+Det er nemlig den lige vej. Med basis fundamenter, bygninger der er sat flot op.
+
+6:24
+Rette linjer og sagt en masse spændende hemmelige rum der ligger.
+
+6:31
+Der ligger nemlig underrum. I de beløb bygninger vi har, og det er dem vi skal lære at finde de næste de næste gange her.
+
+6:39
+Så hvis I kan lide pyramiderne med hemmelige uendelige gange og noget jeg ikke så ligner, er alt bare lige noget for jer.
+
+6:50
+Men lad os nu se på på nogle eksempler på sådan nogle ligner afbildninger.
+
+6:56
+Jeg vil med det samme se, at der er selvfølgelig mange afbildninger væg til rums afbildninger,
+
+7:02
+der ikke er lineære, og i aktivitets programmet i dag får I som en konkret opgave at vise,
+
+7:09
+at nogle forlagte afbildninger, altså de ikke opfylder det kan være den eller de ikke opfylder den, er den med andre ord de ikke lineære.
+
+7:18
+Men de tre jeg har valgt i dag som eksempler, er ellers nogle, der allesammen er lineære.
+
+7:25
+Og lad os så kigge på dem. Og som en af tre eksempler.
+
+7:46
+Den første. Det er en afbytning plane vektorer.
+
+8:00
+Ind i planen af vektorer. Og den er givet ved at F er en vektor V.
+
+8:17
+Den er lig med sværvægteren. Hvis vi ikke er nul vektoren.
+
+8:26
+Og den er nul vektoren. Hvis V er nul vektoren.
+
+8:36
+Så det er mit første eksempel. Og det kalder vi et her.
+
+8:46
+Også det andet eksempel. Det er en afbildning af.
+
+9:09
+Sådan tak. Se den anden afbildning vi kigger på her er fra tal.
+
+9:16
+Rummet er tre ind i et tal. Rummet er 2. Og den er givet ved at f af en vægtere x1 komma x2 komma x tre er lig med X1 Kluges 2 x 2 plus +6 3.
+
+9:40
+Det var den første koordinat og så er minus X1 minus to X2 minus X3.
+
+9:48
+Det var en anden koordinat. Så vi kan alle se at vi stritter ud med tre koordinater i starter altså her tre,
+
+10:01
+og vi får to koordinater, der er sammensat efter de regne forskrifter, der står der.
+
+10:11
+Og så endelig det tredje eksempel. Det er en afbildning F af polynomiet rum med 2 1 i er.
+
+10:29
+Der er givet ved at f a et polynomium.
+
+10:38
+Er lig med polynomiet. Differentialkvotienten i tallet et.
+
+10:53
+Og er mit min påstand er altså, at de tre eksempler jeg har lavet her,
+
+10:59
+og som vi skal arbejde med hele dagen i dag under hele forelæsning her at de er ligende er.
+
+11:07
+Og så lad os prøve at kigge på det første eksempel, nemlig sværvægter sværvægter afbildningen.
+
+11:31
+Det er den nye teknologi her afprøver. Appen der fungerer fint.
+
+11:43
+Prøv at se. Jeg har tegnet en Oubæk, så jeg tegnede en hvid væg så.
+
+11:52
+Så laver jeg summen af dem. Og så tager jeg et sværvægteren af sumpen.
+
+12:00
+Så kommer den op. Dér har jeg så tvær. Vægteren er summen.
+
+12:07
+Men se, jeg kunne jo også vælge at se på det på en helt anden måde, nemlig at jeg tager hele det her parallelogram.
+
+12:14
+Og drejer det 90 grader. Så er det jo klart, at den væg der ligger dér, er den er summen af sværvægteren for ud.
+
+12:27
+Og sværvægteren får vi.
+
+12:30
+Så hermed har jeg altså set, at hvis jeg afbilleder den, hvis afbilder summen, så kunne jeg lige så godt tage summen af billederne af de første to.
+
+12:40
+Det var vel et, der opfyldte. Vi griner.
+
+12:56
+C yde en vægter U. Jeg er ganger dem med på.
+
+13:03
+Og så tager jeg sværvægteren K. Gange ud.
+
+13:07
+Og så får jeg den vektor, der ligger der. Men jeg kunne også sige, at jeg tog dem begge to på én gang og drejede dem 90 grader.
+
+13:18
+Så ville jeg her have sværvægteren til U. Og så er det klart, at den, der ligger dér, den må være på gange med u sværvægtere.
+
+13:28
+Det var L2. Så med denne tegning har jeg altså illustreret at sværvægter overbelastningen den er lineær.
+
+13:46
+En vis tøven fornemmer. Og.
+
+13:53
+Men hvad så med de to andre, som jeg har tegnet op herhen?
+
+14:04
+Lad os prøve at se om denne her den er lineær. Vi kigger altså på toeren.
+
+14:16
+Og nu skal jeg jo tage billedet af to vektorer.
+
+14:26
+Eller summen af to vektorer y to komma y tre.
+
+14:39
+Altså lige som få for at undersøge det ærligt, så har jeg altså.
+
+14:43
+Tager jeg for finder jeg billedet af en sund. Nu vælger jeg så at lægge de to vektorer sammen, så får jeg f.
+
+14:55
+Af eks. En Kluges byge en komma ex to fys i 2 og 3 plus y 3.
+
+15:10
+Jeg har bare lagt dem sammen pladsbillet sammen, som jeg ved at vi skal. Og nu bruger vi så regne forskriften her henne på det udtryk jeg har her.
+
+15:25
+Det er så første koordinaten. Plus det dobbelte af anden koordinaten.
+
+15:38
+Hughes tredje koordinaten. Det var første koordinaten, og så har vi jo som anden koordinat det samme med minus foran.
+
+15:59
+Minus to. X to flys by to.
+
+16:05
+Og så minus x 3 minus Y.
+
+16:10
+3. Og det her er jo en væg med to koordinater.
+
+16:19
+Det kan jeg lave om til en sum af to vektorer, nemlig eksem, komma to eksem, næseblod, rogn plus ex tre komma minus x en vis 2 x 2 minus x tre.
+
+16:47
+Og så pyt. Plus det samme i y. Y et plus to y to plus i tre komma minus y 1 minus to y 2.
+
+16:58
+Minus Y 3. Så vi kan se at vi ser det, så ligger det her sammen, så bøj først på natten, så ligger disse to sammen for enden på natten.
+
+17:13
+Og det der står her. Det er jo lige præcis f.
+
+17:20
+Eks. Et drama x2 komma x3 plus f.
+
+17:27
+Y et komma y to komma y 3. Så hermed har jeg altså vist, at billedet af en som.
+
+17:41
+Det er summen af billederne hver for sig. Det var en idé, der var opfyldt.
+
+17:55
+Og så tager vi f af en konstant gange med en vilkårlig vektor.
+
+18:09
+Og nu vælger jeg så at ganget konstanten ind på hver af pladserne, så har vi altså f.
+
+18:16
+K gange exit plus k gange x2 komma k x3.
+
+18:27
+Og nu bruger vi så regne forskriften, så får vi altså på ex et det første kun 19 plus to gange anden koordinaten.
+
+18:41
+Plus tredje kort. Manden. Og så skal vi have minus K hekse et minus to.
+
+18:54
+K, X2 minus X3. Sidste ja tak.
+
+19:12
+Og nu kan I se udstå der er kog foran hvert af de led, det vil sige, at jeg kan sætte K ud foran.
+
+19:20
+Så har jeg altså K og så ex et + 2 x 2 +6 3 komma minus x et minus 2 x 2 minus x 3.
+
+19:35
+Og det er jo lige præcis på gange med F af x et komma X2 komma Bäckström.
+
+19:46
+Og her. Der havde vi en et er vist, og her har vi så at el to er vist.
+
+20:02
+Det er lidt træls, men sådan er livet og en gang imellem. Vi går videre med det tredje eksempel.
+
+20:19
+Som var denne afbildning af Anders polynomier ind i reelle tal.
+
+20:27
+Og lad os prøve at tag f to polynomier.
+
+20:43
+Og I kan altså være afbildningen gør til altså den til orden og til anden grad spillet med dets differentialkvotienten ind.
+
+20:54
+Så nu skal vi altså have differentieret en, som vi ved,
+
+20:58
+at vi differentierer en sum ved at differentiere funktionerne hver for sig og så lægge dem sammen.
+
+21:04
+Så det er så pille, mærke plus kunne mærkes.
+
+21:09
+Og de skal altså tages i tallet 1. Og så får vi p mærke i en plus que mærke i en.
+
+21:20
+Og det er jo f. P. F. Eks. Flutes f.
+
+21:26
+A. Q f. Eks. Og så har vi vist et.
+
+21:43
+Så prøver vi med f a en konstant gange med et polynomium.
+
+21:51
+Igen vi skal differentiere en konstant gange et polynomium.
+
+21:56
+Det er konstanten gange differentialkvotienten af polynomiet, og det skal vi så tage i en.
+
+22:06
+Og så får vi altså kog gange, mærke er én, og det er jo o.k.
+
+22:12
+Gange. P. F rp ex.
+
+22:28
+Så med andre ord Den er også lineær, og det er altså tre lineære afbildninger, som jeg har introduceret her.
+
+22:46
+Nu kommer vi ind på hvorfor det er lidt interessant med de her ligende afbildninger.
+
+22:52
+Og det handler de næste begreber om, nemlig kernen og under rummet.
+
+22:58
+Se. Vi kigger lige på. Vi har altså her situationen med de to venterum, og vi kigger på en lineær afbildning.
+
+23:26
+Nu kigger jeg så her over på nul vektoren i det her.
+
+23:33
+Det kalder man for definitionen trumpet. Det her er dispositionen skrumpet.
+
+23:37
+Vi kigger os på nulvæksten, og det spørgsmål, vi nu stiller, er vil gøre vektorer i V har nul vektoren som sit billede.
+
+23:52
+Så hvis vi kigger herover. Så er der måske en hel masse værktøjer, som alle sammen bliver afbilledet i nul vektoren.
+
+24:04
+Det kalder man for kernen for afbildningen.
+
+24:13
+Og opskrevet der kan vi altså sige at kernen for en afbildning.
+
+24:20
+Det er alle de vektorer. I venterummet ved vor ånd, der gælder at F.
+
+24:32
+RV er lig med nul vektoren i W.
+
+24:39
+Sådan kan vi opskrive det. Og det er så herligt ved legene afbildninger.
+
+24:51
+Det er at kernen for afbildningen er et underrum.
+
+25:09
+Kernen for F er et underrum i definitioner.
+
+25:19
+Rummet. Hun.
+
+25:29
+Og det fortjener et bevis. Så vi siger han.
+
+25:37
+Antag at vektorerne. U og V.
+
+25:45
+De er begge to tilhører kernen for EF.
+
+25:54
+Og så ved vi hvordan er det man viser, at det er et underrum havde udstødt fra sidst.
+
+26:03
+Stabilitets graven yes. Så nu skal vi altså se om sommeren også tilhører kernen for EF.
+
+26:19
+Så vi kigger altså på summen af de to vektorer. Og for det er den her afbildning er lineær.
+
+26:30
+Så er summen. Altså billedet er summen lig med summen af billederne, og det er så end et jeg har brugt her.
+
+26:43
+Og da den ligger da U ligger i kernen, så er billedet nul vektoren.
+
+26:49
+Og da vi ligger i kernen, så er billedet det er nul vektoren.
+
+26:57
+Og så har vi her altså at summen i kernen også har billedet nul,
+
+27:05
+og det er altså stabilitets kravet med hensyn til plus vi altså her har set er opfyldt.
+
+27:18
+Og det andet stabilitets krav går jeg ud på at vi skal se.
+
+27:22
+Jamen, hvis U ligger i kernen, så skal K gange U også gøre det, for den skal jo være stabil med hensyn til multiplikation med.
+
+27:34
+Og igen kun fordi at den er lineær, kan jeg nu tillade mig at skrive, at det er det er på gange med F er U.
+
+27:45
+Og her har jeg altså brugt L 2 for at komme herfra her til, og det giver jo så på gange med nul vektoren, som er nul vektoren.
+
+28:01
+Og vi ser altså kernen. Opfylder.
+
+28:09
+Stabilitets kavner. Og vi er færdige med beviset for, at kernen for enhver Viena overbygning er et underrum.
+
+28:33
+Og dermed opfylder alle de egenskaber ved et vektorrum dets strukturer aura det.
+
+28:55
+Nu skal vi tale om billedrør. Og pæne ord når vi taler om spillerum.
+
+29:26
+Så handler det om at vi afbilleder alle vektorer i V.
+
+29:32
+Og så ser på mange forskellige billeder, får vi ud af det.
+
+29:38
+Så prøv nu at forestille jer at vi tager altså alle de vektorer der ligger her i det første rum, afbilder dem alle sammen.
+
+29:52
+Og så kigger vi altså på hvor mange væg ture over W.
+
+29:57
+Er egentlig et billede af en vektor der ligger i det, så det der ligger her.
+
+30:03
+Det ville vi altså kalde det f. Er stor og vi.
+
+30:09
+Altså billede rummet. Som de altså også kalder for EF, er store ved, er mængden af alle de værktøjer i dobbelt B.
+
+30:33
+Eller vi gør jo alle de vektorer b. Hvor der findes.
+
+30:46
+Mindst. En vægt 2 x i U i V som opfylder.
+
+31:04
+At F a x er lig med b vektoren.
+
+31:13
+Som. Så hvad er bind rummet?
+
+31:20
+Det er alle de væk tog her over i W, som opfylder det følgende.
+
+31:27
+Der findes mindst én vægtere eks. Altså her i venterummet her.
+
+31:38
+Som opfylder at f. Eks. Er lig med den beige Vectra der spillerummet.
+
+31:46
+Kort sagt alle de vektorer i W.G. Som bliver ramt ved denne afbildning.
+
+32:14
+Og nu får vi en sætning, der er lige så flot som den vi så før, nemlig billede rummede.
+
+32:24
+Er et underrum. I W.
+
+32:46
+Og det kan jeg bevise. Nogenlunde på samme måde som det første bevidst, men jeg vil overlade det til et selvstudium.
+
+32:56
+Hvorfor at det hvorfor den opfylder stabilitets kravene?
+
+33:02
+Og så gå videre til det næste. Nemlig at nu skal vi prøve at finde.
+
+33:10
+Nu vil vi prøve at finde kernen og billede rummet for hver af de tre eksempler, som vi har haft her hen.
+
+33:29
+C Vi har her. Vi går tilbage til eksempel et.
+
+33:41
+Det er så det er så sværvægtere afbildningen.
+
+33:48
+Og kan I se her? Der står at billedet er nul vektoren, hvis V er nul vektoren.
+
+34:01
+Så kan I se det er kun nulvækst som der bliver til nulvækst som alle andre vektorer.
+
+34:10
+De bliver jo drejede og bliver til en egentlig vektor. Så vi har altså kernen.
+
+34:33
+Kernen fra denne afbildning indeholder ikke andre vektorer end nul vektoren.
+
+34:49
+Nej, jeg vil altså police her. Og så skal vi have fat i et billede rummet.
+
+35:00
+Hvis jeg nu tager en eller anden. Vægtere her hen.
+
+35:08
+Så må jeg jo spørge mig selv. Findes der en vægtere her, som har den her som billede?
+
+35:22
+Altså bliver det vil sige en vilkårlig vektor herhjemme. Altså har den en original væg.
+
+35:28
+Hvad siger I til det? Hvad siger du? Hvilken nemlig jeg ikke har set, er jo.
+
+35:40
+Det er jo den vektor der ligger dér.
+
+35:44
+Så nu skal jeg altså dreje med uret, hvis jeg gøre, går Bangla baglæns og drejer med uret, jamen så passer du lige præcis,
+
+35:51
+at den der bliver afbilledet i dem der, og det vil jeg kunne gøre med enhver vektor herinde, som ikke er nul vektoren.
+
+36:04
+Så derfor kan vi altså sige at billedet rummede.
+
+36:14
+Det er alle planer vektorer. Joshi Afghanerne tjener ofte langt, siger.
+
+36:46
+Og da den gjorde. Der ofte noget der for dem vi går til eksempel 2.
+
+36:55
+Og det. Se, det var jo denne afbytning.
+
+37:14
+Vi skal finde alle de vektorer der bliver afbilledet over i nul vektoren.
+
+37:21
+Og nul vektoren det er jo nul vektoren i I er to, og det vil sige det er den vektor der hedder 0,0.
+
+37:39
+Så hvorfor nogen går over i 0,0. Nu bruger vi det vil så sige, at første koordinaten der jo var x 1+2 X2, pludselig fik tre.
+
+37:55
+Skal være lig med første koordinaten dér. Og anden koordinaten.
+
+38:05
+Minus x 1 minus 2 x 2 minus x 3 skal være lig med nul.
+
+38:16
+Så at billedet er nul vektoren er altså ensbetydende med, at de her to ligninger.
+
+38:22
+De skal være opfyldt. Men hvis jeg ganger den med minus 1 på begge sider af lighedstegnet, så kan jeg jo se.
+
+38:34
+Det er jo i virkeligheden den samme ligning, der står der. Så de to ligninger her er altså ensbetydende med at x 1 plus to X2 plus X3 er lig med nul.
+
+38:53
+Og det er ensbetydende med at exit er lig med minus 2 x 2 minus x 3.
+
+39:06
+Og hermed kan jeg så opskrive kernen for afbildningen.
+
+39:18
+Det er nemlig alle de vektorer x 1 x 2 x 3.
+
+39:26
+Og nu skal vi så have skrevet den op på et parameter form.
+
+39:31
+Og hvor vi har X2. Den sætter vi til S og X3, den frie parameter, X3, tt.
+
+39:39
+Så får vi s gange med minus to ind og nul plus ti gange med minus 1, 0 og 1.
+
+39:59
+Så det vil altså sige at kernen den er et to dimensionalt underrum i er tre.
+
+40:08
+Og en basis for kernen. Ærgrer sig tydeligvis vektorerne.
+
+40:16
+Minus to, en og nul og den anden væg.
+
+40:20
+Så det er minus en 0 og i. Og så skal vi se på.
+
+40:38
+På billedet, hvormed. Nu vælger vi en vilkårlig vektor i.
+
+40:56
+2, og den kalder jeg ex komma y, og nu er spørgsmålet Hvad skal der til for at denne her tilhører billedet rummet for afbildningen?
+
+41:12
+Så har vi igen. F. Eks 1 komma x2 komma X3 skal være lig med x y.
+
+41:32
+Og I kan se at vi får de her to ligninger. Men nu står der så her x her, og der står Y her, og det vil sige vi får en total med tryk,
+
+41:43
+der hedder 1, 2 og 1 og minus to menuer er minus 1, minus 2 og minus 1.
+
+41:51
+Og så står der altså her X og Y. Og jeg finder topformen.
+
+42:14
+Og den finder vi bare simpelt hen at tage den øverste række og lægge til den nederste række,
+
+42:21
+så får jeg en to ind og eks, og så får jeg 0 0 0 og eksklusiv.
+
+42:36
+Det jeg spurgte om det var jo at det er tilfældige tal jeg 2.
+
+42:40
+I er 2. Hvad skal det opfylde for at det er billedet af en oprindelig vægter?
+
+42:49
+Ja, der er jo løsninger. Hvis der står et nul her. Der er så netop løsninger hvis Y er lig med minus ex.
+
+43:23
+Så det vil jeg sige f. V. Er alle tal par på formlen x komma minus 6.
+
+43:47
+Men lad os nu prøve at lave lidt geometriske fortolkning af det jeg har lavet her, fordi så den afbildning den ligner afbildning vi kigger på.
+
+44:01
+Det er jo en afbytning. Er runden vektorer ind i plane vektorer.
+
+44:14
+Og lad os se kernen for EF. Den var udspændt af to faktorer.
+
+44:22
+Det havde vi basen for EF, og det er lige præcis parameter fremstillingen for en plan, som går igennem 0,0.
+
+44:53
+Om vi finder dem normalvægt, så. Og det gør vi ved at krydse de to vektorer, som vi ved, der ligger i planen, nemlig den og den.
+
+45:15
+Så når man vægteren til denne her plan. Det er så minus to 1 og nul krydsede med minus 1, 0 og 1, og det giver 1 gange 1 minus 0 gange nul det 1.
+
+45:33
+Og så giver det nul gange med den. Det giver nul og så minus den gange med den, de giver.
+
+45:38
+2. Og så giver det dem ganget med den.
+
+45:42
+Det er nul minus den gange med den dér ind. Så det har jeg altså normalt vektoren for planen.
+
+45:59
+Så lad os lige prøve at kigge på situationen. I et typisk sæt rummet.
+
+46:14
+Jeg prøver nu at tegne den normalvægt som står dér.
+
+46:20
+Den har altså første koordinat en. Den har anden kort inde i 2.
+
+46:31
+Og så har den tredje koordinat ind, så vi går her op til.
+
+46:37
+Så det vil altså sige, at den normalt vægter, som jeg har fundet frem til.
+
+46:45
+Den ligger altså her. Og det vil så sige at de vektorer der tilhører kernen.
+
+46:55
+Det er dem som når vi afsætter dem ud fra origo. Ligger i denne her plan skal vi kan og I skal altså forstå denne her plan.
+
+47:08
+Den skærer sig i ordet god. Hvor har den her vægtere som sin normalvægt?
+
+47:17
+Og det er så kernen for F. Jeg har tegnet her. Og det altså geometriske fortolkning er er tre.
+
+47:33
+Så med os kig på billedet, hvormed billedet, rummet det var jo by skal være lig med nu seks.
+
+47:47
+Så biler rummet. Det er så planen. Her har jeg eks.
+
+47:54
+Her har jeg y det som vektorerne skal opfylde.
+
+47:58
+Det er, at de ligger på den linje, der ligger her. Den linje der hedder y gli med minus ex.
+
+48:12
+Så altså kort sagt den linje jeg har tegnet her.
+
+48:18
+Det er billedet rummet. Fhv.
+
+48:28
+Og dermed kan jeg nu også udpege en basis for billede rummet, fordi der kan jeg jo bare tage den vektor, der ligger her.
+
+48:48
+Og i Kalsoy se basis. For billedet rummede.
+
+48:58
+Da kan vi bare tage vægteren ind komma minus en.
+
+49:13
+Så her er der lige en ting jeg gerne vil jeg bede jer om at lægge mærke til.
+
+49:18
+Altså vi har en afbildning af hele rummet her.
+
+49:24
+Hvor havner det hende? Det havner på denne her rette linje.
+
+49:31
+Det vil altså sige den havner på et endimensionalt underrum.
+
+49:38
+Så vi den her afbytning. Der starter vi med tre dimensioner og havner over i en dimension.
+
+49:45
+Der er to dimensioner, der er forsvundet. Og så er spørgsmålet Hvad er det for nogle dimensioner, der er forsvundet?
+
+49:55
+Jamen, det er lige præcis de to dimensioner der ligger her i kernen for F.
+
+50:02
+Så hvis I altså tager dimensionen af kernen og lægger dimensionen af billede rummet sammen.
+
+50:12
+Så skal de være lig med dimensionen af det oprindelige rum.
+
+50:20
+Og det er dimension sætningen, for det gælder nemlig altid.
+
+50:36
+Den siger nemlig, at dimensionerne af det oprindelige rum vi starter fra i dette tilfældet er tre.
+
+50:48
+Det er dimensionerne er kernen.
+
+50:55
+Kluges. Dimensionen af billedrør rummet.
+
+51:06
+Så flot er det faktisk med lineære afbildninger. Og så tager vi en pause.

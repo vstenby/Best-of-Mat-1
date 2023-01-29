@@ -1,0 +1,1109 @@
+0:04
+Klokken er blevet 10, og vi skal i gang med forelæsning for store dag.
+
+0:11
+Temaet i dag er Line alene ikke så stemmer og matricer, og jeg ved fra gymnasier, der kan finde ud af at løse to ligninger med to ubekendte.
+
+0:25
+Og det er ikke helt nok, når man er ingeniør.
+
+0:29
+Vi skal løse rigtig mange ligninger med rigtig mange ubekendte,
+
+0:32
+og derfor har vi brug for lidt mere en struktureret metode end det, man lærer i gymnasiet.
+
+0:37
+Jeg har taget eksemplet med. Altså, jeg vil ikke sige, vi har ikke forstået det her eksempel.
+
+0:41
+De skal bare væk. Jeg vil bare forklare, hvor hvor de mange ligninger og de mange ubekendte kan komme fra.
+
+0:47
+Så her har man en fast nøgle. Den har man ved at kalde tegning, gik ind i små trekanter i se overfladen inddelt i små trekanter og det man ønsker.
+
+0:57
+Og. Og ja, jeg starter selv ud som bygningsingeniør, så derfor har jeg taget et eksempel fra denne verden.
+
+1:05
+Man kunne godt tænke sig at kende spændingerne i denne faste nøgle, når man prøver at pege på en møtrik, der sidder her.
+
+1:13
+Så vi skal forestille jer, at man trykker herude i højre side af fast nøgle, og at denne møtrik sidder fast.
+
+1:21
+Og så vil man gerne modellere spændingerne i selve nøglen og.
+
+1:27
+Det man kan komme frem til hvis man laver noget der hedder fremad, eller man maser til det er,
+
+1:31
+at spændingerne fordeler sig sådan her, så jo mere rødlig farven er, jo større er spændingerne i det punkt på neglen og det godt.
+
+1:43
+Hvordan er det, man kan man i render eller man metoden? Hvordan gør man? Ja, man skal have fat i den anden.
+
+1:51
+Og. Det onde og som sagt man inddeler denne her i en masse små trekanter overfladen,
+
+1:59
+og det giver en masse ligninger, og hver gang i ser man lige en linje, der krydser hinanden.
+
+2:07
+Så har man en ubekendt og har lige så mange ligninger. Det giver cirka 15.000 ligninger med 15.000 ubekendte.
+
+2:14
+Så kan de godt prøve at gå i gang med den metode, vi kender fra gymnasierne, at løse disse ligninger.
+
+2:20
+Og der vil jeg godt vove at påstå bliver ikke færdige, før vi bliver trætte af problemet.
+
+2:25
+Så vi skal finde på på en bedre metode og bare gå over og kigge på dagens program.
+
+2:35
+Så så hinanden ingen systemer.
+
+2:39
+Det er hovedtemaet da og matricer, så vi skal også lige snak om tal rummene.
+
+2:45
+Det er ganske korte er end at se en skive interesseret i at ligne alien systemer.
+
+2:50
+Så skal vi prøve at finde på en effektiv måde at løse de alene stemmer på, og det vil vi gøre ved hjælp af Gauss elimination.
+
+2:57
+Det er sådan en algoritme til at løse vine alene systemer.
+
+3:02
+I den forbindelse skal vi også snakke måtte have række operationer. Det er de ting, når man laver, og vi skal snakke om topform.
+
+3:07
+Og Rack er en matrix, og til allersidst skal snart en lille smule om matrix algebra.
+
+3:11
+Magisk eller bare det er bare matrix regning. Hvordan kan man og kan disse matricer?
+
+3:16
+De kommer faktisk fra. Nogle ligner alene systemer, men de er også interessante i sig selv.
+
+3:21
+Og man kan lave en regneregler for her matricer godt.
+
+3:24
+Og lad os starte med nogle. Han lovede at starte med tilråbene, så lad os lige snakke om, hvad de her talte om er noget.
+
+3:37
+Så det er faktisk bare åbnede Talpa så så.
+
+3:44
+Først så bogen bruger betegnelsen a l så denne l notation.
+
+3:53
+Det står bare for enten de reelle eller komplekse tal.
+
+4:01
+Det er bare en kort skrivemåde for de to ting, så det er enten er eller set.
+
+4:09
+Og kan det fordi man gider ikke skrive. Alt sammen for og bag. Gentag alt sammen for si, så L betyder bare én af de to ting så.
+
+4:20
+Men min far sidder i hvor lille en oppe i hjørnet høring, og med det forstår vi så elendigt.
+
+4:27
+Altså enten er M. Eller se EM. Her kom allerede på banen ikke, forstår vi.
+
+4:36
+Ordnede tal fra Orca. Eller tal selv.
+
+4:40
+Mere generelt falset. Så det er faktisk bare sådan et x et x 2 op til X1, der kan skride.
+
+4:50
+Sådan en liste her, så kom imellem og Panties sang. Og dem vil jeg så sige Jamen, de tilhører det her.
+
+4:58
+Så det er en digter med en klasse og ikke en.
+
+5:00
+Men vi kalder det et et ordnet tandsæt, fordi rækkefølgen er vigtig, og vi kan skrive det for sådan liste her.
+
+5:06
+Det kan man lidt kort. Skal eks og med sine strenge ånder godt, og det er ikke nok.
+
+5:14
+Altså, vi har også brug for nogle egne regler. Hvordan ligger man torsdag talte sammen for eksempel så, hvor vi har egne regler?
+
+5:27
+Vi skal faktisk kun have to. Vi har kun brug for at definere 2.
+
+5:32
+Så den ene er jamen kan anlægssiden ikke svigter eller et y tal sat sammen.
+
+5:37
+Det er bare ikke sket. 6 2 6 end man lægger til bygge et 2 i 1.
+
+5:46
+Og hvordan lægger dem sammen? Det gør bare glasvis. Så ikke exit før sammen med y et y X2.
+
+5:51
+Sammen med B-2 osv. Så det bliver bare defineret som et plus y et.
+
+5:58
+Det kunne ikke være mere simpelt.
+
+6:02
+Ork, og så har vi brug for en til regne operation, og det er dem der hedder skalaer, multiplikation så kan tage en skalar af.
+
+6:08
+Og jeg kan gange med på en vektor eller fortalte ex.
+
+6:14
+Så hvordan ser det ud? Det er jo bare skrevet ud sådan her uden.
+
+6:19
+Jeg gider ikke altid. Skal jo ikke tro alt det der prikker betyder jo X2, X3 og så videre op til X1.
+
+6:24
+Og det her bliver simpelthen bare defineret som at jeg skal gange a 1 på hver plads.
+
+6:34
+Og her er altså en eller anden skalaer,
+
+6:38
+og det kunne enten være reelt eller komplekst alt efter om jeg har gang i er eller set i endda godt og ud fra det her.
+
+6:48
+Der kan man faktisk også godt definere. At trække to ting fra hinanden og sende rent matematisk hvordan gør man så man?
+
+6:58
+Men man kombinerer de to her. Jeg sætter A til minus et, og så definerer det simpelthen bare som at jeg tager det.
+
+7:05
+Og dér ligger jeg. Plus har jo lige defineret minus Y.
+
+7:12
+Lige nu Sky er det samme som hvor jeg har sat de ex til øy, og jeg har taget A til minus ét.
+
+7:19
+Det ved jeg også, at der ikke skal være en sællert minus en på hver plads, og så når det er defineret.
+
+7:23
+Så det bliver selvfølgelig ikke andet, end hvad I vil tro.
+
+7:29
+Men nu har vi fået det på plads rent matematisk.
+
+7:34
+Og lokalt, så gik lige en sidste ting, men nogle gange er det skrevet på på liste formning, skrev vandrør nogle gange,
+
+7:43
+så det er så smart at slutte Laura så alternativ søjle form alternativ søjle form på følgende måde.
+
+7:54
+Og der er ingen forskel på de to skrivemåder. Jeg sætter dem bare op på scenen.
+
+8:01
+Søjler, så skriv er der oftest med nogle skarpe sangtekster og ikke det.
+
+8:07
+Vi vil også betragte som et element i det her tal rum er en eller steigen godt og nok om det digitale rum.
+
+8:17
+Det var Line Line og line tastingmenu, vi skal have fat i, så vi starter.
+
+8:22
+Vi skal have en masse eksempler, da det er den bedste måde til at forstå disse algoritmer på,
+
+8:27
+så jeg må hellere nummerere dem, så vi kan finde rundt i dem.
+
+8:34
+Så vi vil gerne finde løsningen. Til ligning et og 2.
+
+8:43
+Og så skal jeg selvfølgelig definere hvad alene et og to,
+
+8:46
+så jeg er interesseret i to ligninger med to ubekendte, så den først kunne se bogstaver et 4 tal.
+
+8:52
+Og y lig nul og ligninger to kurerer. Og eller tage det jeg eksempel har skåret ned sådan her.
+
+9:01
+Godt overblik over.
+
+9:06
+Her skulle jeg måske lige skrive, at nu har jeg haft en del af komplekse tal, men nu vil jeg så lige sige, at jeg antager, at X og Y skal være reelle.
+
+9:15
+For jeg leder kun efter reelle løsninger, for det er godt, hvad jeg metoderne kender fra gymnasiet, er isoleret.
+
+9:24
+Eks i den første ligning for gasser. Det gør jeg lige.
+
+9:27
+Jeg flytter fire i over på højre side og dividere med to.
+
+9:31
+Så står der X er lig med minus fire divideret med to y, og det er jo bare minus to i 1.
+
+9:41
+Og så indtil jeg levede i Veneto på ekstra plads indsat af mine ostrov vi så og indsætte.
+
+9:53
+I en 2. Når man giver det. Det giver minus tre gange mad og så skaber ekstra spas indsats de dér minus to i en closely er lig med 14.
+
+10:06
+Hvad står der så på venstre side? Jeg har mine tre gange minus to, og det må være sexy plus by.
+
+10:11
+Det er psykologi, alting for det hører. Så cyklende.
+
+10:19
+Jamen som ofte ikke er lige med tog ring er 14 divideret med syv dage med to.
+
+10:29
+Godt. Jamen så er selvfølgelig løsningen systemet, for nu skal jeg lige sige, hvad eks'en har fundet.
+
+10:33
+Yüksel ved 2. Men så skal op og indsat her i den første.
+
+10:37
+Så indtil da jeg bare. I min isolering af eks, hvilket indsatte.
+
+10:48
+I. X ligner minus to A.
+
+10:53
+Det giver og så at X skal være, mener fire.
+
+11:00
+Og okay, det var ikke så svært og har ret i det cirka sådan jeg har gjort i gymnasiet.
+
+11:07
+Der bliver nikket hvis vi skal gøre det anderledes i dag, men jeg tør godt lige at starte med at minde om, hvordan I plejer at gøre.
+
+11:13
+Det vi så vil sige, det er, at vi har fundet den fuldstændige løsning.
+
+11:18
+Det er også begrebet til at forstå i dag så den fuldstændige løsning.
+
+11:26
+Til dette plus 2 er altså skal over ikke at DASK skal skal over, fordi jeg lægger de to ligninger sammen, så til delingen eller to inden den er.
+
+11:39
+Det skriver man og giver meget komplicerede sådan her. X y tilhører alrummet er 2.
+
+11:46
+For hvilke der gælder, at X er minus to og altså minus fire, og Y er lig med 2.
+
+11:58
+Er I vant til den der lodrette streg? Ellers er der nogle gange kortere, når man definerer mængder.
+
+12:03
+Dette skal læses som følgende. Talpa eget ex. Germany, der tilhører alrummet er i ende eller er 2.
+
+12:10
+For hvilke der gælder. Læser man den lodrette streger x er lig med minus ét og yderligere to.
+
+12:16
+Selvfølgelig er det her bare. Det der står her.
+
+12:25
+At stave var løsningen punktet eller tandsættet minus 4,2.
+
+12:32
+Der er spørgsmål. Det bliver stort.
+
+12:40
+Hvad mener jeg med at det tilhører Roma er i Ghana. Det her er et tal selv, der af dette er et reelt tal, og dette er et reelt tal.
+
+12:51
+Så jeg kan ikke skrive, at altså hvis jeg begynder at skrive, så må galskaben heller lige skal jeg ikke.
+
+12:58
+X y tilhører, er det her.
+
+13:01
+Det må man ikke. Fordi dette jeg tilhører, er dette jeg tilhører er med, når jeg sætter dem sammen.
+
+13:09
+For tilhører de. Det er anden. Og det er da totalt angiver bare hvor mange pladser der er i denne her liste.
+
+13:17
+Jeg har hellere kigge op. Jeg har en liste eller et tal selv med en tal, der tilhører de reelle eller komplekse tal i Inter.
+
+13:29
+Det der står for det. Sådan er notationen sig altså.
+
+13:34
+Det betyder jo bare, at det her forsøg med minus 4,2, men det er jo ikke et tal.
+
+13:40
+Altså hvis jeg kunne skrive, at det tilhører os, så er det fordi det var tallet. Men dette er ikke et tal.
+
+13:45
+Det tal sætter to tal for, skriver mandag, sagde han. Fucking godt.
+
+13:51
+Så! Når man er den fuldstændig løsning og.
+
+14:01
+Går man bare videre mange flere eksempler, så det næste eksempel er er simpelt og faktisk så eksempler.
+
+14:09
+2 fra key på ligningen. To æg.
+
+14:18
+Og ja, man kan jo finde en fuldstændig løsning direkte. Den fuldstændige.
+
+14:27
+Løsning. Er, og her har jeg ikke brug for den følger bare ikke med fem.
+
+14:38
+Det er meget nemmere at løse en ligning af en ubekendt. Så i hvert fald det der ligner ligningen så fint.
+
+14:46
+Og et kan på en meget kompliceret mig og sikkert også skrive en L er lig med alle de tal, for hvilket der gælder antallet tallet Aliena fem halve.
+
+14:57
+Og gav den selv fjollet. Når der kun er en ubekendt i os.
+
+15:12
+Vi går straks videre, så tager litterære eksempler. Så betragter ligner det os egentlig, men vi har to ubekendte og.
+
+15:33
+Det er også til at finde I plejer isolere Y sikkert så civile er lig med.
+
+15:38
+Så flytter jeg to x over på den anden side, så bliver det til minus to ekstra plus 15.
+
+15:43
+Så ja man. Så er den fuldstændig løsning.
+
+16:01
+For køb, men man kan støtte på flere forskellige måder, og det vil jo også i så den fuldstændig lystigt.
+
+16:07
+Ja, jeg kunne godt skrive det her, men det er ikke helt tilfredsstillende. Jeg har bare angivet en sammenhæng mellem ikke så y og.
+
+16:14
+Men jeg kan også godt skrive og ikke kan være vilkårligt. Men så Y skal være lige med dette, og ex må være vilkårligt.
+
+16:27
+Det kan man jo igen skrive sådan her. Helle er lige meget. Det er alle de Talpa, for hvilket der gælder A.P.
+
+16:37
+Y. Alligevel minus x minus to Explore 5 og.
+
+16:49
+X. Kan være hvad som helst. Godt.
+
+17:01
+Vi skal indføre noget der hedder standard. Parameter for.
+
+17:09
+Så i standard parameter form der tager man den vilkårlige variabel, hvis der er sådan en og sætter lig ti eller hvis altså en eller anden parameter.
+
+17:20
+Så vi sætter X lig med 10, hvor 10 er et eller andet reelt tal.
+
+17:30
+Så jeg gentager lige. Ja, jeg siger ikke så.
+
+17:34
+Nogle gange kalder man den frie parameter for de frie variable eller de frie variable.
+
+17:39
+Sætter man lige en eller anden parameter godt, og hvad man har, vi får ud af det nu,
+
+17:45
+vil jeg lige skrive det denne her søjle form, så eks glimmeret ikke så lige matches.
+
+17:52
+Det står der ikke så lidt Matti så yderligt med minus to ting.
+
+17:56
+Du fik minus to the +5, og her kunne jeg faktisk godt have +0 i den øvre stemme.
+
+18:04
+Det ville løsning og nu gøre det, at jeg spiller her i 2.
+
+18:08
+Fordi I kan huske dine egne regler? Ja, hvis jeg har noget på denne her form, for der står Bush imellem, så må jeg godt dele det i to,
+
+18:16
+og så må jeg godt vælge at skrive det på højkant igen, forsegle formen, så det er bare den regler, vi bruger til at dele det her i 2.
+
+18:24
+Når vi så står der til minus to til plus.
+
+18:30
+0 og 5. Godt endnu står der 10 Bæksted, det vil jeg gerne fortælle udenfor.
+
+18:36
+Så får jeg faktisk en anden regneregler med Peter. Jeg ikke helt når der står.
+
+18:39
+Hele vejen igennem sneen, ind i tandsættet. Jamen så kan jeg sætte af uden fortalt sætter.
+
+18:46
+Godt, så står der altså et minus 2 gange med 10 plus 05, og det er standard parameter.
+
+19:02
+Nogle gange så er der byttet rundt på rækkefølgen de her to man er. Det gider jeg gør her og nu.
+
+19:11
+Nu sker du ikke er reelt, og jeg skrev derfor også, at 10 er reelle, og derfor står der også et reelt tal herunder.
+
+19:18
+Hvad nu hvis jeg har været ude efter at finde den fuldstændig komplekse løsning? Jamen, så er det bare sådan en app.
+
+19:24
+Så skulle jeg have skrevet se hernede. Yes! Lige vel.
+
+19:30
+Fem. Den fuldstændige. Komplekse.
+
+19:39
+Løsner. Så det her jeg har fundet den fuldstændig reelle løsning.
+
+19:46
+Det er nemt, at man bare skal sætte de parametre man til at være komplekse.
+
+19:51
+Altså istedet for skulle jeg hilse og se. Hvis jeg havde været ude efter den fuldstændig komplekse løsning.
+
+19:55
+Det står i opgaverne, om vi skal finde. Det står ofte, siger kilderne.
+
+19:59
+Om vi skal finde den reelle eller komplekse løsning? Hvis der ikke står noget, så må jeg lige så gå ud fra, at jeg vil tro, at det er en løsning.
+
+20:06
+Men hvis der indgår nogle komplekse tal i ligningerne, så er det nok komplekse løsninger der, der gættes efter godt.
+
+20:14
+Men man bør, hvis det skal være helt specifikt, angive, at man er ude efter en kompleks villa eller en kompleks eller anden reelle løsning.
+
+20:24
+Og jeg. Så kan man det her.
+
+20:30
+Det skal være så påtrængende, fordi det illustrerer så.
+
+20:36
+Hvordan Til løsning ud eks. By her.
+
+20:42
+Det her er løsnings mængder, og det kan angives som en linje, og det er selvfølgelig den linje, der står der.
+
+20:50
+Begge overraskelser. Så jeg skal op i en, to, tre, fire, fem punktet, og så skal jeg finde en hældning, der hedder en halv.
+
+21:03
+Så det værk og godt af biskoppens fejl er købte for.
+
+21:10
+Det er. Det er alle. Kalder Løsnings mængden.
+
+21:20
+13. Og kan ikke var klar over, at det heller stod heroppe.
+
+21:28
+Det er alle de tal for, så det kan jo illustrere i i det her tal plan X og Y.
+
+21:35
+En punktering det er punktet x0 kommer igen og længe, så det har noget.
+
+21:41
+Jeg knokler. Det her år er i nul. For det er jo.
+
+21:48
+Godt et punkt i talebaner, så har nok, men jeg går til mig og illustrere det her med os, så hvad sker der her?
+
+21:57
+Og kan citere nul. Det er i hvert fald en løsning. Til gengæld står der nul komma fem.
+
+22:05
+0 1, 2 3, 4 5. Så heroppe, så er det altså selvfølgelig 0,5.
+
+22:13
+Og jeg gider ikke skrive på Sociale Forum her. Nu har jeg sat den ned på den for den sædvanlige liste, for sådan her.
+
+22:19
+Og hvad er det så? Jamen, det er en minus 2, så så når der tillige med ét.
+
+22:28
+Hvilken løsning har jeg så hvis, så står der ét. Hvis jeg lægger de to første koordinater sammen og så tre, så det 1,3.
+
+22:36
+Det er også en løsning. Et kommer, tre et. Her.
+
+22:40
+Men det fem, fire, tre, to meter et godt tag i det her.
+
+22:47
+Hvad til to, så står der to komma et for helle med dette punkt.
+
+22:56
+Og hvad sker der? Det her er tillige et.
+
+23:01
+Jeg er hernede når 10 alle i 2. Hvis jeg lige mine selv, hvad sker der så?
+
+23:05
+Jamen, så står der minus et. Comas 7.
+
+23:12
+Minus ét. Det er her nummer 7. Jeg sidder her.
+
+23:17
+Det er sorte lignende sæt. Så I kan se når jeg holder 10 varierer, men så kører jeg rundt på denne linje her.
+
+23:25
+Når tek er nul, er der noterer en halv, så vil jeg være der til jer, et tjek og osv.
+
+23:30
+Men én ting kan være hvad som helst. Så er dette kaldes en retning svigter.
+
+23:42
+Og det her det startpunktet. Så har start bund, og så sætter jeg bare retten svigter, og så går jeg forretningseventyr.
+
+23:49
+Hvis jeg skulle tanke, så sidder en selvfølge. Hernede er vektoren skidt kommer i minus to, men den angiver den vektor her.
+
+23:59
+Eller den retning. Så det er bare en måde at interessere linjen på.
+
+24:04
+Og. Godt hvorfor?
+
+24:11
+Hvorfor UFO'er for alt det her med med til sengen eller standard parameter får det, fordi disse metaller angiver løsningen.
+
+24:17
+For dem der har lignende, så derfor skal forstå hvad der står her og.
+
+24:23
+Der er en vigtig kommentar er, at den deres standard et par meter foran. Den er altså ikke entydig, desværre.
+
+24:28
+Så når I nu har fundet en løsning, og jeg sat en pauver standard parameter form, så stikker i maven og har ikke det samme.
+
+24:37
+Det betyder ikke, at I ikke har regnet rigtigt. Det kan bare være med at have fundet en anden parameter for.
+
+24:42
+Og jeg skulle lige vise, hvorfor det ikke er entydigt. 10 er en vilkårlig parameter, men jeg kan jo også fat det med, så.
+
+24:51
+For eksempel. Jeg sætter ti lig med S-busser.
+
+24:58
+Og så lærer jeg Sverige eller min kone det reelle tal.
+
+25:00
+Pointen er, at når S løber gennem alle de reelle tal, så løber ti os igennem alle de reelle tal,
+
+25:05
+og det er det, jeg skal gøre noget for at få hele løsningen. Der skal jo latté varierer sådan så jeg får alle de reelle tal godt.
+
+25:12
+Men, men, men jeg er nysgerrig på S. Så hvis jeg kigger på min standard parameter form her i stedet for 10 skriver.
+
+25:23
+S +1 S plus 1 og så står der minus 2 S plus ikke +5.
+
+25:34
+Jamen så bliver det til S plus igen minus to S, og så bliver der minus to gang.
+
+25:41
+De mener to plus tre i alt.
+
+25:47
+Og det vil sige, hvis jeg skal skrive det ud, så er det et minus.
+
+25:51
+Gør det i ét hug. Jeg håber, jeg kan føle mig. Nu kan jeg.
+
+26:08
+Så I kan se det jer der står her, er selvfølgelig det samme, som man står her herovre og det der har ændret sig.
+
+26:14
+Det er det med startpunkt, og det er faktisk det, der skete, da jeg nu starter her.
+
+26:21
+Og så tegner jeg en vektor ud fra det punkt og lastdyr, som er SF positiv, så er her noget af SF negativ.
+
+26:27
+Så går i den retning. Men det har sammenlign så og så I kan se, hvis I nu havde regnet det her år og Mikkel havde givet det her,
+
+26:37
+så kræver det altså lige nogle overvejelser for at se, at I har handlet rigtigt. Og det blev endnu værre, når der er flere parametre i en.
+
+26:58
+Og jeg lovede vist og nummerere tavlerne, så lad mig lige gøre det.
+
+27:02
+Et. 2.
+
+27:13
+Over. 3F er godt, og vi er stadigvæk i gang med om 2.
+
+27:21
+Så i maj, og det er altså line alene sidste mange. Lad os lad os lige få på plads præcis hvad det er for et system.
+
+27:31
+Jeg havde faktisk et eksempel til, så lad mig lige tage det første. Så det må jeg eksempel 4 og eksempel 4.
+
+27:47
+Følgende line. Nul gang expos 2 gang Y er lig med 5 5 gandløse, og det er jo bare det samme som er to y er lig med 5 eller at bly er lig med 5 halve.
+
+28:08
+Med min løsning hvor man skal skrive det. Jeg har ikke været ret præcis til en opgave Bachs.
+
+28:17
+Skrives Find løsningen. I er to til det vigtige her angiver eleverne efter nogle tal selv.
+
+28:28
+For hvis jeg kun kigger på det her, så kan jeg tro om en nylig fem halve løsninger.
+
+28:32
+Men jeg har faktisk også en ekstra variabel med. Den indgår bare ikke i ligningen, fordi har ganger det med nul.
+
+28:39
+Så hvis jeg skal også skrive den fuldstændig lysten til det her, så må det være følgende.
+
+28:51
+L er lig med alle de tal fra. Og her er ude efter den reelle løsning, fordi der står er to døre op og by Ballina 5 halve eks er vilkårligt.
+
+29:10
+Eventuelt kunne skrive det her fra standard parameter form. Nu går den lille smule stærkt her.
+
+29:30
+Men jeg går ud fra, at jeg sagtens kan føle mig. Jeg sætter ikke, den er vilkårligt.
+
+29:36
+Og fri. Den sidder lige Matti. Så er løsningen.
+
+29:41
+Ikke så ligner 10 byer lige med fem halve. Det kan splitte op i to ghettoer, det har det med startpunkt.
+
+29:46
+Den ene retning svigter, og det her er den parametre ganger på. Og et.
+
+29:57
+I kan se forskellen på denne ligning og dér. Eksempel 4.
+
+30:01
+Og den ligning vi betragtede i. Og desserten er der hvor jeg skal have gang i tavlerne, da vi betragter noget eksempel.
+
+30:13
+Eksempel 2 to var det kun der var det en løsning, I er nu herover?
+
+30:18
+Selvom det ligner meget ikke, så er der lige en løsning. I er to godt.
+
+30:30
+For hvilken gang. Godt, men nu skal vi definere de her lignende systemer, så et system af lineære ligninger.
+
+30:47
+Eller et line lignende system. Det er følgende.
+
+30:57
+Pågreb en lineær ligning kan generelt skrives på følgende måde.
+
+31:05
+Jeg har med ubekendte x et op til x EM. Altså jeg kalder X, vi kalder dem før x, y osv.
+
+31:13
+Men hvis jeg gerne have 10 15.000 variabel, så kan altså ikke bogstaverne og så så.
+
+31:20
+Måden at løse det på er selvfølgelig bare at indføre nogle nogle flops, som vil køre fra exit op til X1.
+
+31:26
+Og hvis jeg vil løse den faste nøgle problematik, så vil den være 15.000 ofte antallet af ubekendte og a jeg med her.
+
+31:34
+Det er bare nogle vilkårlige koefficienter og det samme med Bjarne.
+
+31:41
+Så det er den første linje. Den anden ligning kan jeg have.
+
+31:45
+Et system som har et system betyder by har flere lineære ligninger. Og jeg har faktisk m f disse linjer.
+
+32:07
+Og kan I forstå systemet efterhånden? Der skal støbes m b hjem.
+
+32:15
+Så den første i Ane den første. Det første opkøb det angiver hvilken ligninger i.
+
+32:24
+Så der står endnu et. Den næst og tilsvarende 2 2 2 med line Linie 2 med linjen m ja, emde line, der står for altid på de første pladser.
+
+32:41
+Ikke ét står her X2 står her og ekskonen står her og tilsvarende i anden klasse, ja, angiver så,
+
+32:49
+men den ekstra meter den hører til længden eller hvilken ekstra ewells man hører til. Så det giver så at sige nå ja, jeg forstår systemet.
+
+32:57
+Og vi kalder lige alle disse ligninger for stjerner.
+
+33:02
+Og så har jeg sagt Er det disse a. Vi laver et eksempel lige om lidt, men disse A.
+
+33:10
+I Go J kan jo ske, hvis jeg vil navngive allesammen, men de tilhører enten de reelle eller komplekse tal over B i.
+
+33:22
+Og her skal så sige at fis det er noget der ligger fra. Gæt to.
+
+33:28
+Kom til EM og J. Det er noget der kører fra et to op til en.
+
+33:39
+Ring og men de de er, skal måske lige understrege de er givne.
+
+33:51
+Skal vi kalde den koefficienter eller konstanter der gør en forskel. Og ex et pop til eks end.
+
+34:03
+Er ubekendt. Ubekendt. Variable.
+
+34:12
+Så spillet er som følger i for givet nogle ligner ligninger i forgivet af og billederne.
+
+34:18
+Og I skal finde de ubekendte eks'er og.
+
+34:25
+Vi kører tilbage til eksempel et. Så eksempel så.
+
+34:37
+Jeg skal bare skrive det ned igen. Det var følgerne af to ligninger med to ubekendte.
+
+34:44
+Kalder du ikke så øen og skal med lige fra omdømme til at have den form, vi har på tavlen.
+
+34:50
+Men det var disse to ligninger, vi kigger på og ikke vil kalde den ligning eller 2. Og for hvordan gør vi?
+
+34:57
+Vi sætter X til exit. Vi sætter by til X2, og det vil sige det.
+
+35:08
+Jamen, så har jeg så 1 2 m. Det vil sige, at vi jo to er antallet af ubekendte.
+
+35:18
+Og. Men han sætter sig så står der to Henkes, et plus fire x to lig med nul og der står minus tre x et plus x.
+
+35:32
+X2 er lig med 14. Godt, men nu kan jeg jo aflæse Se og hør det her.
+
+35:40
+Og det her er en abbediet, så lad mig lige slå det.
+
+35:47
+Aflæse fra. Så hvis vi ofte skriver det der står her hvor N er lig med to og så skal også lige finde ud af hvor mange ligninger har jeg?
+
+35:59
+Jamen, to en halv måned før.
+
+36:04
+Antal ligninger. M alene tog.
+
+36:11
+Vi havde to ligninger, vi har to ubekendte. Så hvis jeg skal betragte her, så skal jeg have EM lige to og endelige to.
+
+36:17
+Så ser det ud som følger. A et f. Eks. Et plus a i to x 2 min.
+
+36:23
+B et a to et et plus a 2 2 x 2.
+
+36:29
+Vi er begge to. Så vi aflæser a et.
+
+36:38
+Den skal selvfølgelig være to. A et 2 4 A to et er lig med minus tre og A 2 2 er lig med et der står i gangen.
+
+36:53
+Y 1. Og så er jeg helt færdig, for jeg mangler også pigerne, så B 1 er lig med 0, og B 2 er lig med 14.
+
+37:06
+Godt. Jamen, så dette er et eksempel på et system af ligner ligningen.
+
+37:12
+Den her form og. Vi har allerede snakket en del om løsning, men vi kan faktisk ikke rigtig få defineret, hvad vi mener.
+
+37:23
+Så en løsning. Det er en bestemmelse af de ubekendte.
+
+37:33
+Så det er jo de ubekendte variabler, disse ikke skidt op til eksamen.
+
+37:38
+Så det er så en løsning til systemet.
+
+37:46
+Stjerne for stjerner betyder alle disse gennem ligninger. Det er et tandsæt.
+
+38:00
+Der opfylder alle ligningerne. Hvis jeg kun har opfyldt de første fem ligninger, vil vi skal faktisk opfyldt alle ligninger.
+
+38:20
+Og den fuldstændige løsning, det har vi også snakket om. Men det er bare mængden af alle løsninger den fuldstændige løsning.
+
+38:32
+Så. Er mængden.
+
+38:41
+Kaldet eller af alle løsninger.
+
+38:52
+Og så er det selvfølgelig når matematikere går amok. Denne her skrivemåde ikke.
+
+38:57
+Men det er jo for at kunne håndtere vilkårligt mange ligninger med vilkårligt mange ubekendte.
+
+39:05
+Så godt. Nogle gange bliver den her eller også kaldt Løsnings Mukden.
+
+39:17
+Så om at sige løsnings mængden eller om man siger den fuldstændig løsning, det kommer ud på et.
+
+39:22
+Det at der er to typer opgaver den ene siger Find en løsning til disse ligninger.
+
+39:28
+Den svære opgave er at finde alle løsninger eller den fuldstændige løsning eller løser ikke mængden det altsammen,
+
+39:33
+der sammen med den er en eller anden. Så en løsning for eksempel ville være punktet 0,5 eller 1,3.
+
+39:47
+Det er en løsning til de to eller til denne her ligning, mens den fuldstændige løsning er den grønne linje, jeg har tegnet på tavlen.
+
+40:03
+Hvordan er vi med tiden kappet i af tid? Så.
+
+40:09
+Hvad Start på punkt 3. Det er det jeg, hvor vi skal finde ud af, er en algoritme for, hvordan vi får løst.
+
+40:20
+For nogle ligninger er så. Vi starter med lidt matrix notation.
+
+40:29
+En matrix. Det er faktisk bare et tals skema, så vi skal bruge den, der hedder koefficient matricen, og det er meget ligetil.
+
+40:42
+Jeg tager bare. Alle alderen.
+
+40:46
+Heroverfor glemmer ikke sårene og busserne og sætter dem op i tal.
+
+40:52
+Han kan så den. Den kalder jeg stor af, for store A er a et f, a to, et a m, et a et to a to tog og kører hen til et m.
+
+41:10
+A to øen kan i.
+
+41:14
+Fanges systemer. Det sidste element hernede er a m n. Og.
+
+41:22
+B. B skriver jeg på denne her måde.
+
+41:28
+Vi har M og dem. Og. Til sidst går jeg totalt matricen.
+
+41:38
+Og totalt Mattesen. Det er sådan set det jeg kalder det store til det er bare A og B sig sammen i
+
+41:47
+bogen samme generation to streger under B bliver forgrund en streg under den,
+
+41:51
+og det er en, når der kun er én søjle her kan se dig, ligesom der er faktisk en søjle af en for hver variabel.
+
+42:00
+Godt dette kalder man højresiden. Og det her noget bør måske lige skal op et et.
+
+42:12
+Det gider jeg ikke skrive så mange af dem. Men kan tasken stå her, det skulle så være.
+
+42:22
+3 3 Jeg forstår systemet. Hvis jeg skulle have noget skulle skrive a to tre her om, så retter nok kender ups.
+
+42:31
+Jeg glemte lige højresiden hvor b. B m.
+
+42:37
+Du skriver sådan her med sådan en streg. Hvis jeg gør det i Mabels, så gør undlader Mikkel selvfølgelig at sætte dem der skal I selv.
+
+42:45
+Oppe i jeres hoveder, sæt eller over. Kunne sidste række mig have skrevet ind mellem de to sidste søjler.
+
+42:53
+Når jeg har skrevet en total matricer total matrix.
+
+43:01
+Så dette. De er faktisk bare et tallerkenerne.
+
+43:13
+Hører med. Til linjerne.
+
+43:19
+Frank. Og. Nu har vi allerede snakket om højere siden billederne blev kaldt højresiden.
+
+43:33
+Quiz Højresiden er noget, så hvis alle bierne er lig med nul, så kaldes.
+
+43:45
+Systemet undergik. Og ellers indeholder det.
+
+44:03
+Det vil jeg ikke sige så meget om i dag. Det kommer på banen senere. Der følger.
+
+44:14
+Og så er der bliver spurgt til stregerne. Her er det jo godt.
+
+44:18
+Men i bogen er der to streger under sådan nogle tal skemaer her.
+
+44:21
+For ligesom man har et tal skema en matrix, så bd betegner med et stort bogstav og to streger under, så man kan lige så godt undlade det.
+
+44:32
+Altså sådan. Samlet må der være forskellige faktorer, en streg jeg får to streger, når jeg har flere søjler.
+
+44:42
+Jeg får en streg, når jeg kun har en søjle. Og.
+
+44:48
+Dette. Denne notation bisse streg under skal jo selvfølgelig efterligne den notation vi startede med herovre,
+
+44:57
+hvor jeg skrev tandsættet her som ex med en streg under S.
+
+45:04
+Og faktisk mere præcist denne her søjle foran mig. Men altså om jeg sætter en eller to streger under det.
+
+45:12
+Med eller fuldstændig optager.
+
+45:17
+Og der er nogle spilleregler for hvordan man selv gør det her er så løse de her ligninger, for det kan vi række operationer, og der er tre af dem.
+
+45:33
+Så række Operation Epsom er at få fyldt op på to rækker, så vi skal tænke på sneen, så tag mig interesserer jeg mig godt bedt om på 2 rækker og.
+
+45:49
+Hvad betyder det egentlig at bytte om på to rækker?
+
+45:52
+Jamen, det ville svare til, at jeg kigger på mine to ligninger her, og jeg dumper dem altså den rækkefølge og de to ligninger på.
+
+46:02
+Det ændrer selvfølgelig ikke på løsningen, så disse række operationer, de er lavet af, så de ikke ændrer på lystens Mukden.
+
+46:08
+Jeg interesseret i at løse mit system af lignende ligninger.
+
+46:13
+Det vil sige, at interesserede i at finde lysets mængden L.
+
+46:16
+Så jeg er nu interesseret i nogle operationer, som ikke ændrer på løse eksmanden og det her en af dem om på to rækker.
+
+46:22
+Men det er jo meget klart, at det gør det. Og jeg skal lige til, for det er så.
+
+46:27
+Det næste er, at jeg går op eller gange i marken med en konstant.
+
+46:42
+Og det er ikke helt præcis det her hvad være.
+
+46:46
+Hvad kan der gå galt med at gange en række en konstant? Man kan jo f.
+
+46:55
+Man må ikke mangle noget, fordi hvis jeg når frem på, at de på de to ligninger og jeg ganger både venstre og højre med nul, så står der der lig nul.
+
+47:04
+Jeg har ikke nogen forbindelser til min oprindelige længsel, så jeg må selvfølgelig i gang med noget.
+
+47:09
+Altså jeg kan se, hvis jeg ganger en række med nul, så svarer det til,
+
+47:13
+at gange en ligning både på venstre og højre side med nul, så forsvinder dem altså.
+
+47:18
+Så tager jeg den ligning ud af spillet, og det må jeg selvfølgelig ikke, så derfor skal du være konstant.
+
+47:22
+Dem skal jeg ikke gøre noget, men du må være alt andet. Og den sidste ret god portion tre, det jeg må lægge.
+
+47:32
+En årrække eller en lignende. Skal vi kalde det en række.
+
+47:45
+Til en anden række. Ganger man konstant.
+
+47:56
+Den konstant må godt være noget. Det er de så i en række operationer.
+
+48:02
+De bliver tit skrevet som en ustabilt, omtrent en række tog.
+
+48:07
+Så skriver jeg det sådan her. Men bil være retning. Hvis jeg gør ganger med en konstant, jamen så går gange med kobber i række ét.
+
+48:14
+Det kan være skal du sidde her? Eller 3, hvis jeg gange række ét med tre.
+
+48:23
+Og så lad os bare kalde det K.G og den sidste er, at jeg kunne række ét.
+
+48:28
+Der kunne jeg lægge ko gange Ricardo til. Han og vi har allerede snakket om det.
+
+48:38
+Det hedder sætningen. Tonen i bogen og det er det, der er vigtigt, er nemlig, at ved disse tre række operationer, så er et er o.k.
+
+48:49
+To er over tre. Ændres ikke på Løsnings mængden.
+
+49:10
+Godt, og det skriver man tit. Så hvis jeg har en totalt matrix til.
+
+49:18
+Og jeg har fået den over til en anden totalt matrix ved hjælp af sådan en række operationer,
+
+49:23
+så er det ligninger, der hører til den totale matrix og de ligninger, du hører til denne her sag, mig.
+
+49:28
+De har samme løsning. Samme løsning. Det skriver man her.
+
+49:35
+Titel som vores. Så det betyder bare lykkelig smag til ligningerne følelser.
+
+49:39
+Denne her sag er det samme som løseligt, men den hørte sådan her godt, og det betyder her.
+
+49:47
+L ikke og L der er løseligt muggen. Der er ikke ændret.
+
+49:56
+Hvor kan jeg? Vi tager en pause på ti minutter, og så skal vi gå i gang med at prøve de her restaurationer.

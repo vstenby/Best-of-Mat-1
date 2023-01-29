@@ -1,0 +1,749 @@
+0:07
+Ja, vi skal jo snakke om med symmetriske matricer, og det der karakteriserer en symmetrisk matrix er,
+
+0:17
+at hvis I transponeret dem, så får I matricen selv.
+
+0:21
+Altså vil sige bytte om på søjler og rækker. Så opstår den nøjagtig den samme maltraktere.
+
+0:28
+Og der kan vi jo kigge på det eksempel, der er her. Vi kan se, at hvis der transponeret dem, så bliver første række sendt første søjle.
+
+0:36
+Anden række er blevet til anden søjle tilbage igen.
+
+0:42
+Men det vil vi bruge eksemplet her til, det er, at nu vil vi prøve at finde en basis for planen eller er 2,
+
+0:52
+som består af egne vektorer for den her symmetriske matrix og.
+
+1:00
+Dem der har haft tid til at kigge på plankton der hende, kan lige se deres ånde repetition derfra.
+
+1:06
+Efteråret igår, der handler om hvornår og hvordan, kan man kunne realisere en matrix, så der var noget med egenværdier.
+
+1:15
+Og det er jo vist det her matrix vækster produkt. Det er proportionalt med ved.
+
+1:21
+Så har vi en egenvægt som hører til lamper og a den kan diagonalt i Ceres,
+
+1:27
+hvis og kun hvis den har en lineær uafhængig af egne vektorer, og har den det, så gælder det altså at v enhvers.
+
+1:37
+Den består jo af egen vektorerne gange med A ganget med V.
+
+1:41
+Det er en diagonal matrix, hvor vi har egne værdierne i diagonalen.
+
+1:49
+Og det er det vi nu vil prøve med mit eksempel her, hvor vi har en symmetrisk matrix.
+
+1:56
+Og hvad a har to egenværdier. Nemlig Lambda et som er lig med fire og Lambda to.
+
+2:17
+Som er lig med to. Det har jeg fundet inden jeg kom herhen, og så har jeg også fundet de egne rum.
+
+2:28
+Der hyrer til hver af disse egne lektorer. Jeg kan huske, at vi skriver det sådan her.
+
+2:34
+E Fire altså egne rummet der hører til egenværdi 1 4.
+
+2:39
+Den kan skrives sådan her. Ind kommer en.
+
+2:48
+Det her er en egenvægt som hvis jeg skal have alle regn vektorerne, så skal jeg bare ganger den med en konstant.
+
+2:54
+Den der vægter udspænder hele egnen rummet. Det kan jeg også skrive som S kommet s.
+
+3:08
+Hvor det er et vilkårligt reelt tal. Det andet øjen rum, det der hører til egnen.
+
+3:13
+Værdien 2. Det er udspændt af den vektor der hedder indkom minus en.
+
+3:25
+Og den kan jeg jo så gange med en parameter til.
+
+3:30
+Og nu fordi jeg skal bruge det, så ganger jeg det ind i vektoren.
+
+3:38
+Sådan her. Og det jeg gerne vil bede jer om at bemærke her er.
+
+3:46
+Dag. Hvis jeg nu tager en vilkårlig vektor fra dette her eget rum.
+
+3:57
+Og prikker den med en vilkårlig vektor fra det andet egne rum.
+
+4:02
+Det vil altså sige at Vitara s komma s. Prikker med 10 komma minus 3.
+
+4:10
+Så får vi a s ganget med 10 minus S ganget med 10.
+
+4:19
+Så giver det nul, og det vil altså sige det lyder ligegyldigt hvilket vektorer jeg vælger fra dit egne rum.
+
+4:28
+De står over Ronald på hinanden. Det er fire og et, to er ortogonale.
+
+4:48
+Og det gælder altid for symmetriske matricer. Alt det som jeg siger her.
+
+4:52
+Jeg har lige et par et par planter, som opsummerer disse resultater op om lidt.
+
+4:59
+Hvis vi sætter. Nu tager vi ved et vægteren definerer den som den der.
+
+5:12
+Den egenvægt der står her. Divideret med dens længde.
+
+5:22
+Og længden af den der er kvadratroden af egentlig hjernen +1 i anden.
+
+5:27
+Så den er altså kvadratrod 2. Så får jeg her en over kvadratrod to og en over kvadratrod.
+
+5:35
+2. Og hvis jeg nu sætter vi to på samme måde som den anden egenvægt, så divideret med dens længde.
+
+5:53
+Så får jeg en over kvadratrod 2 og minus 1 over kvadratrod 2.
+
+6:06
+Så er vi et, kommer vi to.
+
+6:14
+Den overtog normalt basis. For er 2 bestående af egen ture.
+
+6:33
+Fyrer den af med et tryk jeg bruger som mit eksempel. Og så ved jeg jo så, at hvis jeg nu indfører en matrix.
+
+6:50
+Som har de her to basis vektorer som søjler.
+
+7:02
+Hvis jeg gøre det. Sagt kaldes den.
+
+7:12
+For en ortogonale matrix.
+
+7:27
+Så det gælder også generelt hvis I har en matrix, der består af nogle vektorer her i søjlerne, der alle sammen har længden 1,
+
+7:39
+og som alle sammen står vinkelret på hinanden, så kalder vi altså den matrix for en ortogonale matrix.
+
+7:47
+Egentlig er det ærgerligt at det ikke hedder en overtog en normal matrix,
+
+7:52
+det gør det bare ikke i litteraturen, så derfor vil jeg ikke skrive det, man kalder den for ortogonale.
+
+7:58
+Men den er sådan set Orton normal, fordi længden en længden ind og så videre.
+
+8:05
+Når vi har lavet det på den måde her. Så gælder og det er også generelt.
+
+8:22
+For en ortogonale matrix, da gælder der er dens inverse.
+
+8:30
+Er lig med dens transponerede. Og det er jo rigtig dejligt.
+
+8:40
+Jeg ved ikke om I kan huske, hvor stort et besvær vi havde, når vi skulle finde en inverse matrix.
+
+8:45
+Der skulle være nogle rigtig gode tal. Eksempler for ikke at det blev helt vildt kompliceret.
+
+8:49
+Men nu kan jeg se. Har vi en ortogonale matrix, så behøver I bare bytte rækker og søjler, så har en en matrix, der er enhvers.
+
+9:00
+Så dermed har vi. At vi ser nu tager.
+
+9:12
+Quo transponeret. Ganger med af matrix.
+
+9:18
+Og ganger med matrix. Hvad får jeg så?
+
+9:35
+Hvis jeg du. Ja, noget. Ja, for det er jo netop diagonal i series metoden, som vi kender fra efteråret.
+
+9:46
+Der brugte vi bare ikke ortogonale matricer.
+
+9:49
+Det gør vi nu, og det betyder, at jeg så nu kommer de dér egne værdierne ind og bliver de Ronald elementerne i en to CO2 matrix.
+
+9:59
+Så vi får altså fire nul og nul og 2, sådan som vi fik her nede fra salen.
+
+10:27
+Og så siger vi, at A er blevet diagnosticeret ved ortogonale substitution.
+
+10:56
+Og som undskyld. Nu kunne jeg være forudsat hvis jeg ikke havde lavet en.
+
+11:05
+En lille taktisk dumhed. Og nu skal jeg fortælle jer hvor i den består.
+
+11:11
+Så lad os prøve at se, hvad det er jeg har lavet her. Se, vi havde en standard basis.
+
+11:29
+Med i vægteren og J vektoren. Og så ved min egen værdige metode, så har jeg fundet en ny overtog normalt basis, hvor min ved indlæg, så den står her.
+
+11:58
+Og der har jeg sammen min ved to. Vektor, der står der.
+
+12:22
+Og det som irriterer mig lidt med mit eksempel her var, at jeg fik valgt forkert.
+
+12:28
+Sådan så vi ikke fik ind i en sædvanlig orientering af baser, og det endte det nemlig noget, vi får brug for senere i kurset her.
+
+12:37
+Der findes det, vi kalder for sædvanligt orienterede baser både i altså i plænen og i rummet.
+
+12:45
+Og hvis den er sædvanligt orienteret, så skal det være sådan vi kommer fra den første vægteren til andet vægteren ved at dreje Pi halve mod uret.
+
+12:57
+Man kan ikke se her. Der skal jeg jo desværre. Drenge med ordet.
+
+13:06
+Og så lad os prøve at tage determinanten af Q. Vi nogle gange er vi her enorme for drabet.
+
+13:19
+To gange med minus en ung kvadratet. 2.
+
+13:22
+Det giver minus en halv, og så skal vi sige minus den ganget med den.
+
+13:27
+Det gør også en minus, når han. Og så siger man at Q er negativt.
+
+13:37
+Otto Ronald. Og det er sådan set også okay altså.
+
+14:00
+Hvem siger at der skal være sædvanlig orientering på 2 basis vektorer?
+
+14:05
+Det er der ingen der siger.
+
+14:07
+Men hvis I nu får en opgave, hvor der står, at I skal finde en positiv ortogonale Matrix Q, så skal I sørge for at finde en,
+
+14:18
+hvor der er sædvanlig orientering, og det vil sige, så skal determinanten ikke være minus 1, men +1.
+
+14:25
+Nu skal vi se, om vi kan redde situationen. Se hvis jeg ikke har været så dum at jeg havde valgt den dér.
+
+14:36
+Så kunne jeg bare have valgt den her i stedet for. Så det bliver som et sikkert Joyce.
+
+14:43
+Så nu siger jeg så ved to. Definerer som minus.
+
+14:57
+Ved 2. Og det vil så sige så det er så ikke den vektor, der står her.
+
+15:03
+Men hvor koordinaterne skifter fortegn. Så har vi minus 1 divideret med kvarteret 2.
+
+15:12
+Og så 1 divideret med kvarter Radio 2. Og så får jeg altså her.
+
+15:25
+Så får jeg min nye med væk dér. Ja, og så.
+
+15:32
+Og så kan vi så sige, at så tager vi altså Q.
+
+15:38
+Nye definerer som en over kvadratrod 2 1 over kvadratrod 2 minus 1 over kvadratrod 2 og 1 over kvadratet, 2.
+
+15:53
+Og vi tager determinanten. Denne gang med den.
+
+16:02
+Det giver en halv minus den ganget med den, der giver minus minus en halv, og nu giver den en.
+
+16:11
+Og så er Q positiv. Otto Ronald.
+
+16:26
+Fonde. Så I kan altså se der er nogle ting her, der hænger sammen.
+
+16:34
+At vektorerne basist vektorerne har sædvanen orientering at determinanten af q den er en.
+
+16:46
+Ja, hvad service, serviceminded orientering og så jeg at den er og altså er positiv.
+
+16:51
+Ortogonale, så vil der selvfølgelig stadigvæk gælde dette her.
+
+16:57
+At hvis jeg tager den gange med fem gange med den med den nye kode her, så får vi selvfølgelig igen den samme Ronal med 3x.
+
+17:06
+Det betyder jo bare, at jeg har valgt en anden egenvægt fra det samme egne rum, så der sker ikke noget ved den 2 2'er her.
+
+17:15
+Denne er den, den egenværdi er ligeglad med. Hvorfor vi har valgt hende for egen rummet her og hende.
+
+17:21
+Den kræver bare at komme ned på den plads dér. Der skal bare stå 2.
+
+17:26
+Så jeg har pyntet på resultatet til, at vi har fået sædvane orientering af koordinatsystemet.
+
+17:50
+Så ja, jeg kommer nu med nogle hurtige kommentarer, fordi jeg har altså lige et afsluttende eksempel, når jeg lige har studeret det her op.
+
+17:59
+Altså. Konklusion En ortogonale matrix søjlerne i den.
+
+18:08
+Den udgør en overtog normalt basis. Sådan er den defineret transponerede er den lige med sig selv.
+
+18:16
+Inverterende. Og tørrede sig.
+
+18:19
+Tager du en en ortogonale matrix transponeret den, ganger den med sig selv, så får du enheds matricen, og den kaldes altså positiv ortogonale.
+
+18:29
+Hvis determinanten er en. Ja, jeg lægger disse pointer op.
+
+18:40
+Nej, det var ikke den.
+
+18:52
+Og så nogle vigtige pointer, som altså som gælder kun for symmetriske matricer elva er at egen vektorer, der hører til forskellige egne rum.
+
+19:04
+De er altid ortogonale. Derfor er der en snæver sammenhæng mellem symmetriske matricer og så det emne vi har i dag.
+
+19:12
+Og en symmetrisk matrix kan diagonal diagonalen seeres ved en ortogonale substitution.
+
+19:19
+Der findes altså sådan en ortogonale matrix der diagonal i Serie A, og nu har vi altså skrevet den op, som indvaderede her.
+
+19:27
+Husk, jeg kunne lige så godt have skrevet, transponeret og så en herlig nyhed for jer, der ikke kan lide komplekse tal.
+
+19:35
+Jeg går ud fra, at det kun er et lille minimum af komplekse elskere, og her da alle værdierne de reelle.
+
+19:46
+Og vi får ikke nogen som helst problemer med, at der ikke er en ortogonale basis bestående af Rielle egen lektorer, så her er der orden i tingene.
+
+19:56
+Der er ikke noget pjat, så der er ikke noget med, at de ikke kan diagonal Ceres, de kan altid bliver kunne realiseres.
+
+20:03
+Ingen problemer her. Det gælder kun for symmetriske matricer. De balancer kommer op, og så går vi i gang med mit afsluttende eksempel.
+
+21:29
+Se her har vi en kvadratisk form i tre variable x y z.
+
+21:35
+Det var den jeg startede min intro med, og hvor jeg lovede jeg, at den skulle vi blive i stand til at reducere her i løbet af forelæsningen.
+
+21:44
+Se lidt af arbejdet. Det gjorde vi jo allerede under introen, fordi vi fandt nemlig ud af, at den, der kan skrives ved.
+
+21:54
+X y z. Og så ganget med halvdelen af Hesse matricen.
+
+22:06
+Og den så sådan her ud. 6 9.
+
+22:11
+Og 6. Det var den den, og den har vi sat herned i Hjørring og så den dér.
+
+22:22
+Den blev delt på to pladser, nemlig dér og dér.
+
+22:28
+Og otte æg sæt blev delt på to pladser, nemlig dér og dér.
+
+22:37
+På except pladsen også og til sidst så har vi by z pladsen, der er minus fire at gøre godt med.
+
+22:44
+Dem deler vi. Så har vi altså den matrix dér er det halvdelen af hetze matricen.
+
+23:02
+Og så har vi altså her. A, som vi ser er symmetrisk.
+
+23:24
+Og her har jeg også gjort mit hjemmearbejde. A har nemlig to egne værdier.
+
+23:37
+Nemlig Varm dag, en leg med 10. Og Lambda to den er en.
+
+23:50
+Og så egen rummet i 10. Har følgende basis.
+
+24:02
+Første vektoren i bassen er nul, kommer minus to kommer en.
+
+24:10
+Og så har vi 1,2 Commando. Det er Mabel der har givet mig den der.
+
+24:17
+Da jeg skrev Egenvægt Tøjets på 10. Så smed den de to i hovedet på mig.
+
+24:24
+Og et. Har en basis, der bare består af en vægter.
+
+24:32
+Det er nemlig minus to komma in kommer to sonder.
+
+24:43
+Og at de tre vektorer som Mabel giver mig ud her.
+
+24:48
+De er lineært uafhængige. Så det vil sige at jeg med de tre vektorer der har en.
+
+24:59
+Basis bestående af lineært uafhængige egne vektorer af.
+
+25:03
+Spørgsmålet er kun Er den så overtog normalen? Det kan vi godt sige.
+
+25:08
+Det burde den måske være, fordi denne asymmetrisk. Men den service leverer med blik.
+
+25:14
+Fordi nu kan vi nemlig prøve at se om det passer. Se, vi betragter nu tre vektorer u et.
+
+25:24
+Den er nul komma mine to komma ind.
+
+25:30
+U2. Den sætter vi ind komma 2,0.
+
+25:39
+Og så tager vi minus to komma minus 1,2.
+
+25:47
+Vi kigger på de tre vektorer der. Og så laver vi.
+
+25:55
+U en garn eller prikket med U2. Så vi siger altså nogle gang i en.
+
+26:02
+Minus to gange, to i minus fire, og så har vi nul. Øv.
+
+26:09
+De to vektorer her sammen med aben har givet mig som basis for I-10.
+
+26:14
+De er ikke over Ronaldo. Så prøver vi med U et gange med tre.
+
+26:24
+Og vi siger altså her den ganger med den det giver nul.
+
+26:30
+Nu skal de lige se her. Vi har lavet en lille.
+
+26:43
+Det er jeg simpelthen gået forkert op. Det talte jeg. Det skal være +1, det skal der også stå.
+
+26:49
+Så det var min far. Så det vil sige at den ganger med den det gav nul.
+
+26:55
+Det giver minus to plus to, så den giver altså nul.
+
+27:00
+Og så tager vi U2 Garang prikket med U3, og da får vi her er minus to plus 2 0.
+
+27:11
+Så er det vil jeg så sige. Dem og dem er ortogonale.
+
+27:18
+Og den og den er ortogonale heldigvis.
+
+27:24
+For vi sagde jo netop at.
+
+27:29
+To egne rum for symmetriske matricer står altid vinkelret på hinanden, så det er altså lige meget hvilken vægt, så jeg tager hvilken vi narre.
+
+27:42
+Kombinationen af tager de to vektorer. De vil altid være ortogonale på den hernede.
+
+27:49
+Så det har vi også set nu bekræftet ved de sidste to prikproduktet her.
+
+27:53
+Det skal give nul. Så jeg skulle lige opsummere situationen.
+
+28:04
+Vi har altså her. Vi har en god med, så.
+
+28:13
+Og vi har en U2 væg så her. De to vektorer.
+
+28:25
+De ligger i egne rum med en 10. Men de er ikke ortogonale, men den tredje værktøj, der står her.
+
+28:36
+Den er vinkelret på den plan, der er her. Så hvis vi tager denne her U3 vægteren.
+
+28:44
+Så er det faktisk en normalvægt, så til den plan der ligger her.
+
+28:50
+Og det vil jeg nu bruge når jeg når jeg nu skal lave mig en Orta normalt basis bestående af egne lektorer for A,
+
+28:58
+fordi nu skal jeg se, hvordan vi går frem. Og her altså jeg vil sige dette den er god rytme.
+
+29:09
+Jeg vidste, at jeg. Med Gram Smidt.
+
+29:14
+Den er især aktuel når vi kommer op i dimension.
+
+29:19
+Altså hvis vi kun er i A, er træ, sådan som jeg er her, så kan man finde andre metoder, og det vil jeg altså gøre nu med krydsproduktet.
+
+29:28
+Men hvis vi kom forbi, er fire. Så kan vi få brug for gammelt smidt.
+
+29:35
+Og jeg lover jer, at de næste hjemmeopgaver sæt der skal i lave en 8 normal basis bestående af en egenvægt så for en 5 5 matrix.
+
+29:47
+Og da er der ingen vej uden om Graeme Smith. Men her der tillader jeg mig at gå lidt efter lidt strategisk frem.
+
+30:01
+Ved et. Den Tarja.
+
+30:07
+Som den første af de lektorer her divideret med dens egen længde.
+
+30:12
+Så det er sådan set ligesom i Come Smith. Og den bliver nul komma minus to kvadrat prøvede fem.
+
+30:25
+Og så minus en over kvadratrod fem. Så kan jeg se.
+
+30:34
+Nu har jeg så taget den vægtere her og så fundet en enhed svigter, der ligger her i stedet for.
+
+30:42
+Kvalitet. Den står vinkelret på U2. Den ligger jo stadigvæk indeni E10.
+
+30:47
+Den hvilket jeg har lavet her. Så det vil altså sige hvis jeg nu bruger hvad er det der skal få U3 Herring?
+
+30:55
+Så nu tager jeg simpelt hen tre min egen som en anden basis vektorer.
+
+31:01
+Altså vi. Den er ud tre divideret med længden af U3.
+
+31:12
+Og den giver. Et eller andet her.
+
+31:18
+Og så den tredje Basil Specter. Den tager jeg så.
+
+31:24
+Som krydsproduktet af disse to. Sådan her ring.
+
+31:40
+Og jeg bruger ikke tid her på at skrive resultaterne ud, fordi det er så oplagt, hvordan jeg finder frem til dem her.
+
+31:46
+Det er metoden varsomt. Så er ved et vi er to, vi er tre.
+
+31:58
+En overtog normalt basis for tre.
+
+32:05
+Bestående af egne vektorer.
+
+32:13
+For af matricen den symmetriske af Matrix, som vi har skrevet op af hende.
+
+32:23
+Så er vi sq. Hvis vi definerer den.
+
+32:33
+Som den matrix, der består af et veto, vil tre.
+
+32:44
+Og Ex in command y ser x1 komma y 1 komma z1.
+
+32:54
+Er de nye koordinater. Så har vi basis skifter relationen, som vi kan huske at de gamle koordinater x y, z.
+
+33:22
+Det er basis skifte matricen, som netop består af disse egne vektorer.
+
+33:28
+Gange med de nye koordinater som vi kalder for exit y et sæt et.
+
+33:36
+Det var den velkendte basis skifte matrix. Se nu har jeg også brug for ikke kun den lovede for eksempel Sæt Vector, men også den vandrette.
+
+33:52
+Så nu er jeg nødt til at transformere på begge sider, så jeg transponeret på venstresiden.
+
+34:07
+Og hvordan er det nu, at vi er transponeret et produkt?
+
+34:17
+Hvad siger du? Ved direkte hjælp og transponeret verden ja tak.
+
+34:23
+Så der får vi altså transponeret af anden faktoren. Den kommer nu frem på førstepladsen.
+
+34:35
+Og så ganget med que transponerede.
+
+34:48
+Godt. Nu har vi nemlig vores kvadratiske form.
+
+34:58
+Som dette eksempel vi har kørt gennem gå igennem i dag.
+
+35:02
+Vi har altså at f. X y, z.
+
+35:08
+Den kunne vi skrive som entydig sæt vanrøgt. System med 3 matricen passer her.
+
+35:19
+Stående på andenpladsen. Og så den lodrette væg.
+
+35:23
+Her. Og.
+
+35:33
+Se i stedet for den vanrøgtet værktøjet der står her.
+
+35:39
+Der bruger jeg det der står her hen. Altså de nye koordinater skrevet vandet ret.
+
+35:52
+Og så hører det da que transponerede til. Af matricen.
+
+36:02
+Den beholder jeg. Og så har jeg mit udtryk her for, at den Llodra, da jeg ikke synes et vector som jo bare som var Q.
+
+36:22
+Gange med de nye koordinater skrevet lodret. Sådan her.
+
+36:45
+Så nu skal vi se om vi kan skrive det her lidt smartere. Hvad dette.
+
+36:56
+Hvad er det? Store andre. Det er altså en diagonal matrix.
+
+37:09
+Og så skal vi så se om vi kan hitte ud af, hvad det er for en matrix, vi så skal have skrevet.
+
+37:15
+Så hvad skal vi skrive diagonalen? Skal vi starte med det? Hvor var det den første basispoint som overlod den hende.
+
+37:33
+Frihedsstøtten fik vi ved at nummet og den der. Den lå i egen rummet 10.
+
+37:46
+Hvad skal der så stå på andenpladsen her? Hvad siger du?
+
+37:54
+Ja, det skal da fordi der gik vi ud her, fordi det var smart.
+
+37:58
+Så kan vi lave det dér med krydsproduktet og få en sædvanligt orienterede basis, for det gør vi nemlig, når vi laver kryds.
+
+38:04
+Så røg vi ud i et. Og så lavede vi krydsproduktet af den dør og den dør.
+
+38:16
+Og når vi laver krydsproduktet af de to, så får vi en vektor, som ikke ligger på U2, men som også ligger i E10.
+
+38:24
+Og det er altså fordi de to og de hvilken gang på hinanden. Den, der ligger i I-10 som den anden, det også gør det.
+
+38:31
+Så får vi altså ti her, og så har vi altså nul nul.
+
+38:35
+0, 0, 0 og 0. Og så har vi ikke set ny ét og sætte et.
+
+38:53
+Så nu ganger jeg lige det her matrix væk produkt. Det vil sige den der gange er prikket med denne.
+
+39:04
+Det giver 10 except. Og så skal vi have den at gange med denne her.
+
+39:10
+Det giver øget. Og så skal vi have den dér ganget med den.
+
+39:16
+Det bliver så ti sæt et. Og så skal vi have taget det.
+
+39:24
+Altså dette. Dette er se et vægttab ikke produkt eller vector matrix produkterne eller hvad I vil kalde det.
+
+39:33
+Og det bliver jo den gange med den. 10 x et i anden og så by er det by et i anden.
+
+39:45
+Og så afslutter vi med ti. Sæt et i 18.
+
+39:55
+Så hvad har jeg gjort? Jeg har skiftet fra den sædvanlige basis i R og tre til en ny og to normalt basis.
+
+40:07
+Det er jeg sådan set bare gør. Det er, at det koordinatsystem jeg har i forvejen, det har jeg drejede på en hensigtsmæssig måde.
+
+40:17
+Det er gamet. Det var i årtier normalt den nye ordre normalt.
+
+40:21
+Det består i en beregning af det gamle ved at dreje det gamle på den måde, jeg har gjort her.
+
+40:28
+Hvad har jeg så opnået? At en kvadratisk form, der indeholdt tre blandede led.
+
+40:36
+Hvis jeg nu betragter den kvadratiske form i mit nye koordinatsystem, så bliver der så smukt som det her.
+
+40:43
+Ikke alene er de er ikke alene er de blandede led forsvundet, men de er koefficienter, vi har stående her.
+
+40:54
+Det er egen værdierne for af matricen. De er 10 et årti, og hermed har vi, som jeg lovede, reduceret en kvadratisk form.
+
+41:05
+Tak for nu.

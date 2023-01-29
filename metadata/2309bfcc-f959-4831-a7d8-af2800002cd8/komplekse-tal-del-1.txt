@@ -1,0 +1,890 @@
+0:07
+Den er faldet ud af emnet i dag er differentiabel sitet.
+
+0:16
+Men jeg starter lige ud et lidt andet sted, for vi skal snakke en hel masse om eksponentielle funktioner.
+
+0:38
+For vi har jo. Definerede en kompleks eksponentiel funktion ikke i sæt.
+
+0:48
+På følgende måde. Det er en eks og så er det cosinus til y plus i sinus til.
+
+1:03
+Nu skal vi kigge på et særtilfælde eller en særlig variant, kan vi sige.
+
+1:21
+Og vi siger hvis vi har et. Et komplekst tal.
+
+1:27
+Se. Da betragter vi en funktion.
+
+1:42
+A er ind i C. Givet ved at det er Fateh Ali med E opløftet til c gange t.
+
+2:07
+Hvor T er en høj el variabel. Den funktion her.
+
+2:19
+Den type her er helt afgørende for vores kursus. For når vi er kommet igennem den lineær algebra.
+
+2:30
+Og vi ved hjælp af den fine algebra skal studere de franchell ligninger og differential ligning systemer.
+
+2:38
+Så kommer den der eksponentiel funktion til at spille en hovedrolle.
+
+2:45
+Og det vil sige at vi skal kunne differentiere dem.
+
+2:50
+Den indgår i differentialligninger, så det vil altså sige, at vi skal også kunne integrere den.
+
+2:57
+Og hvordan gør man det? Se jeg ku.
+
+3:21
+Jeg kunne jo prøve at lave et eksempel på sådan en.
+
+3:33
+Lad os nu sige at vi betragter funktionen f t givet ved en.
+
+3:40
+Opløftet til to plus i.
+
+3:47
+Ganget med 10. Så har vi altså den komplekse konstant stående foran til.
+
+3:58
+Orkan. Det er altså i 2.
+
+4:04
+T. + IT.
+
+4:14
+Hvor vi altså har en reelt værdi på to t og en imaginær værdi på 10.
+
+4:23
+Og så nu kan vi jo så bruge den generelle definition på at opskrive den dér, så den hedder altså en i 2.
+
+4:32
+T. Gange med cosinus til t flux i sinus til ting.
+
+4:47
+Og det vil altså sige Nu kan jeg så lige gange den første eksponentiel funktion.
+
+4:52
+Altså en to ti gange cosinus til t plus i.
+
+4:59
+E i to t gange med sinus til t.
+
+5:09
+Så det eksempel jeg altså har lavet på denne her generelle eksponentiel funktion, den kan jeg så udskrive på den måde, der står her.
+
+5:21
+Så prøv lige at forstå hvad der menes med det her. At EHF går fra er en i.
+
+5:28
+Det betyder altså at variablen denne er reel, så vi kan opfatte det her som en tids variabel.
+
+5:37
+Og hvad er så dens funktions værdi? Det er et komplekst tal, hvor her ser reelt værdien og imaginære værdien.
+
+5:49
+Det er en type af den funktion som hedder en kompleks funktion af en reel variabel.
+
+5:57
+Det er altså en særtilfælde at den generelle eksponentielt funktion.
+
+6:02
+Så spørgsmålet er altså. Hvad skal vi overhovedet forstå ved et differentiabel kryds?
+
+6:14
+Enten er sådan en funktion af den type.
+
+6:18
+Og det betyder jo, at så skal vi have ridset hele teorien op, så vi bruger dette som anledning til at snakke generelt om.
+
+6:27
+Jamen, hvad er de France habilitet for noget? Hvad betyder differentialkvotienten for reelle funktioner, og hvordan kan vi stille det op?
+
+6:40
+Og da viser det sig, at vi er nødt til at formulere det på en lidt anden måde, end I har lært det i gymnasiet.
+
+6:46
+Vi skal nemlig bruge det, der hedder epsilon funktioner, så det begynder at snakke om lige om lidt.
+
+6:52
+Og så kommer der ellers regneregler sammen.
+
+6:57
+I nok kender nogle der i forvejen, men vi frisker det lige op, sådan som vi også er lidt rustede til den slags spørgsmål på på fredag i næste uge.
+
+7:07
+S. Men.
+
+7:15
+Er der nogen der vil gætte på hvad resultatet er?
+
+7:24
+Hvad siger du? Er.
+
+7:36
+Ja, så så du begynder bare simpelthen kan jeg høre.
+
+7:41
+Du begynder simpelt hen bare og differentiere på dit udtryk. Du differentierer det første led, og så siger du plus i.
+
+7:49
+Og så differentierer du det andet led. Det var et gæt.
+
+7:55
+Det synes jeg var faktisk var et ret godt gæt. Meget enkelt, ikke sandt.
+
+8:01
+Men vi skal jo begrundede og simpelthen der indførte alle begreberne, så læg mærke til.
+
+8:08
+Det er nemt fordi hvordan det hvordan de France ser vi sådan en funktion her.
+
+8:15
+Hvidt de France ser at real delen. Og så ser vi et plus i.
+
+8:20
+Gange med de Franchell procent den imaginære værdien. Sådan som denne her sagde det om.
+
+8:29
+Okay. En nem konklusion.
+
+8:33
+Men hvordan når vi frem til det? Det er ikke så enkelt.
+
+9:06
+Vi starter med at snakke om epsilon funktioner efter det græske bogstav Epsilon marts.
+
+9:21
+Tak. Epsilon funktionen Yes!
+
+9:31
+En epsilon. Den opfylder to ting.
+
+9:48
+Når vi tager dens funktions værdi i nul, så skal den være lig med nul.
+
+10:00
+Og Epsilon funktionen skal gå i mod nul.
+
+10:08
+Når X går imod nul. Det er alt.
+
+10:24
+Det er en mærkelig hvis vi hjælpe funktion som jeg indfører her.
+
+10:28
+Det er nogle meget slap begravet, der er her. Hvad er det dér?
+
+10:34
+Hvad er det egentlig? Det siger. Det første det siger, at en Epps er straffen for en epsilon funktion.
+
+10:48
+Den skal altså gå igennem nulpunktet her. Det er det første krav, og det andet krav er, at den skal gå imod nul.
+
+10:55
+Når ex går imod nul. Og det er jo alle køn kontinuerte funktioner der gør det.
+
+11:04
+For eksempel den der. Det kunne være Simons.
+
+11:11
+Det kunne være den der. Som er den hedder minus IX, altså alle mulige tænkelige funktioner,
+
+11:19
+der går igennem 0,0 og altså er kontinuert, altså sammenhængende derigennem igennem den epsilon portion.
+
+11:40
+Og så nogle regneregler. Men man får brug for.
+
+12:04
+Altså lægger man 2. Epsilon funktionen sammen, så de også går igennem nul, og de vil også gå imod nul når ikke scorede mod nul.
+
+12:18
+Og hvis vi. Ganger to epsilon funktioner med hinanden.
+
+12:31
+Så er de også en epsilon funktion. Hvis vi tager en vilkårlig funktion der er kontinuert f.
+
+12:40
+Eks. Og ganger den med en epsilon funktion, så vil det produkt også være en epsilon funktion.
+
+13:02
+Og så til sidst. Og det er nok lige den sværeste for alle x0.
+
+13:10
+Gælder der at epsilon funktion af ex med endnu 6:0.
+
+13:16
+Den går imod nul. Når ex går imod x0.
+
+13:32
+Hvis du. Det er gange der.
+
+13:38
+Det her er ikke gange. Jo, selvfølgelig vel, for det er jo altså jo en funktion jeg har skrevet op her og.
+
+13:48
+Hvordan kan vi nu indse i det? Jeg ved hvis ex går imod x0, så er deres forskelle jo meget lille.
+
+13:57
+Det vil sige så har vi en størrelse, der er meget lille, og så skal den jo gå i mod nul.
+
+14:03
+Og det omvendte gælder altså også hvis en funktion for alle x0.
+
+14:10
+Opfylder det her, så er det en eksponentielt funktion. Så den er.
+
+14:17
+Den er lidt vigtig den der. I stedet for den altså gå i mod nul.
+
+14:26
+Når ex går i mod nul. Så gå ind i stedet for imod nul, når ex går imod x0.
+
+14:46
+Man skal kravle før man kan gå. Og det betyder, at vi skal snakke lidt om kontinuitet, før vi snakker om differentiabel ting.
+
+15:20
+Så nu skal vi altså udfolde hvad er det egentlig vi hvad vi mener i matematik med kontinuitet?
+
+15:28
+Vi kender jo allesammen ordet fra almindeligt sprogbrug, altså hvor man siger det er en kontinuert udvikling, der betyder den er ikke dramatisk.
+
+15:37
+Det er evolution, ikke revolution, og det samme er selvfølgelig tilfældet i matematik.
+
+15:44
+Og nu skriver jeg så sådan. Jeg håber ikke griner for meget af mig, fordi nu skriver jeg så en meget intuitiv definition op.
+
+16:00
+En funktion er kontinuert. På et interval.
+
+16:16
+Fra A til B. Hvis man kan tegne den straf.
+
+16:32
+Uden at løfte blyanten. Så det er sådan set det er det der skal til.
+
+16:49
+Så skal vi prøve at kigge på sådan et interval.
+
+17:04
+Det kan være vi har f. A der. Og så Frb der.
+
+17:13
+Og så skal jeg altså kunne tegne grafen. Uden at løfte kuglepennen fra papiret.
+
+17:30
+Så den er altså denne er altså kontinuert sammenhængende.
+
+18:12
+Nu vil jeg prøve at give en mere formelle definition på kontinuitet.
+
+18:16
+Hvad siger du? Spørgsmål Jeg lærte. Nick, så kan den ikke.
+
+18:25
+Det har du ret i, men det har vel ikke. Nej, det vil sige de France habilitet er et højere krav end kontinuitet.
+
+18:34
+Og jeg skal nok tage den op. Der er en ting her vi skal forstå når man skal både snakke om kontinuitet og bagefter om differens habilitet.
+
+18:44
+Så er vi nødt til først at kigge et enkelt punkt for at sige Hvad betyder det i det enkelte punkt?
+
+18:51
+Og så bagefter kan man så kigge på, hvad vil det sige? Den er kontinuert i hele intervallet.
+
+18:55
+Nu kigger vi på et enkelt punkt. Og så se hvem f er kontinuert i x0.
+
+19:14
+Hvis f. Eks går de mod f.
+
+19:19
+X0. Når ex går imod x0.
+
+19:35
+Det er selvfølgelig lidt kringlet, men lad os lige prøve at kigge på betydningen af den.
+
+19:47
+Skal vi se her. Der har vi altså x0.
+
+20:00
+Og så har vi et x0. Og så kigger vi på et ex som ligger i nærheden af.
+
+20:12
+X0. Og så kigger vi på dens funktion, hvad de.
+
+20:24
+Det definitionen så siger er. Når X går imod x0.
+
+20:32
+Det betyder at jeg trækker dette punkt indad mod det faste punkt x0.
+
+20:39
+Hvad sker der så med funktions fordeling? Så kan jeg se, når jeg kører indover mod x0, så går funktionen ned mod f.ex.
+
+20:48
+0. Hvad hvis jeg går fra den anden side?
+
+20:54
+Så kan jeg se. Så sker der nøjagtig det samme. Mit ex går imod x0, men f.
+
+21:00
+Eks. Går imod dette punkt. Så det udtryk er så et eller andet omkring, at det er den der sammenhæng i selve det der punktet x 0,60.
+
+21:36
+Så nu kan vi så spørge om hvad? Hvad er det så vi undgår ved at vi formuleres på den måde der.
+
+21:50
+Så nu kigger jeg på en funktion F her. Så har vi et x0.
+
+22:07
+Derfor har vi så funktionens værdi i punktet, så lad os nu sige, at.
+
+22:14
+Grafen for F. Den fortsætter. Her. Så denne funktion har altså en graf som hopper her.
+
+22:35
+Så det vil jeg så sige. Her har jeg min.
+
+22:40
+Min. Det er altså min definition på kontinuitet, lad os se om den er opfyldt.
+
+22:47
+Se når ex går imod x0 fra venstresiden.
+
+22:53
+Okay, så kommer vi tættere og tættere på f x0.
+
+22:59
+Så den er god nok indtil videre. Men hvis jeg prøver at gå fra den anden side, og jeg følger f.ex.
+
+23:09
+Jeg går tættere og tættere og tættere på mit x0, så blev jeg altså hængende oppe, fordi når I går hen i x0, så er det jo dér.
+
+23:18
+Så det vil altså sige. F.
+
+23:23
+Eks. Går imod tallet af forskellige fra x0.
+
+23:33
+Når ex går imod x0 fra højre.
+
+23:47
+Så I kan se der er altså en rigtig god forklaring på, hvorfor jeg har givet den her definition.
+
+23:53
+Når jeg har givet den definition der, så undgår jeg så, at det her fænomen opstår.
+
+24:01
+Det her sikrer at vi nærmer os. Det samme punkt fra begge sider.
+
+24:07
+Der er ikke et spring i det punkt. Hvis du.
+
+24:16
+Ja, sagtens. Se den funktion der.
+
+24:45
+Det er den funktion det. At. Så det er altså udmærket vi fik et eksempel på en, der ikke er kontinuert.
+
+24:58
+Se nu fik vi klarede problemet med det enkelte punkt x0.
+
+25:05
+Nu har det altså givet mening.
+
+25:06
+Men nu skal vi så have defineret, hvad det vil sige, at F er kontinuert på hele intervallet, sådan som jeg intuitivt lavede det her henne.
+
+25:48
+Så nu har vi her. Nu har vi udvidet betydningen af kontinuitet fra at gælde fra et enkelt punkt til nu at gælde for hele intervallet ved at vi siger,
+
+26:00
+at f er kontinuert på intervallet. Hvis det er kontinuert i alle x0 i intervallet.
+
+26:38
+Nu vil jeg give en alternativ. Som er helt ækvivalent definition på kontinuitet.
+
+26:51
+Og det jeg gerne vil sige er.
+
+27:00
+Hos I siger. Hvis f a.
+
+27:04
+Eks går i imod f a x0, når ex går imod x0.
+
+27:11
+Så er det ensbetydende med at F.A. X er lig med f.ex.
+
+27:17
+Nul lus, en lille forskel som går imod nul ekskl.
+
+27:22
+Rømmede x0. Så det jeg altså gerne vil have jer til at forstå, det er, at det udtryk der står dér.
+
+27:57
+Er fuldstændig ækvivalent med det der står der.
+
+28:01
+I stedet for at de næsten er lig med hinanden, så siger jeg, at de er lig med hinanden plus en lille forskel der går imod nul når elskere af noget x0.
+
+28:25
+Godt. Nu skal vi tale om differentiabel sitet. Og igen.
+
+28:51
+Når vi skal snakke om det her, så er vi nødt til at tage udgangspunkt i et enkelt x0.
+
+28:57
+Så kan vi bagefter snakke om på hele intervallet. Hvad så?
+
+29:03
+Så vi starter med. Hvad vil det sige?
+
+29:12
+At. F. Er differentiabel.
+
+29:23
+I et x0. Og det er selvfølgelig en historie I har par I har hørt i gymnasiet, men lad os ikke skamme os over at tage den op igen.
+
+29:52
+Og lad os sige at vores x0. Ligger her.
+
+30:07
+Og så ligger mit. Så ligger mit f.ex.
+
+30:11
+Her har vi så funktionens værdi. Og igen kigger vi nu på et andet punkt, som ligger i nærheden af det faste punkt.
+
+30:20
+Det skal altså forstås som et fast punkt. Nu tegner et variabelt punkt.
+
+30:33
+Og der har jeg som et. Mit F er ikke ser.
+
+30:44
+Og det man nu gør da man tegner søkanten for denne her graf.
+
+30:50
+Hvis kanten forstår sig den rette linje, som går igennem de to punkter her.
+
+31:15
+Og så siger vi. Hvis kan hældningen.
+
+31:30
+Se Kant Hemmings koefficienten. Set, den må jo være.
+
+31:37
+F. F eks. Venus f a. X0 divideret med æg som endnu 6:0.
+
+31:59
+Bestemt går imod. Et tal A.
+
+32:10
+Når X går imod x0. SAK kaldes f.
+
+32:22
+Differentiabel. I x0.
+
+32:29
+Og A kaldes differentialkvotienten.
+
+32:54
+Og som vi så giver symbolet f mærke x0.
+
+33:07
+Så altså en vigtig pointe her. Det er selvfølgelig at.
+
+33:21
+Når X går imod x0. Så trækker vi jo det her punkt længere og længere ned ad.
+
+33:33
+Det kommer tættere og tættere på det blå punkt her. Og det betyder altså at se camp hældning at se kanten gå imod tangenten.
+
+33:46
+Og den tegner er nu her. Og pointen her er.
+
+34:13
+At det tal vi altså har fundet her.
+
+34:20
+Grænseværdien for sing se kun pendlingen. Det må så være.
+
+34:26
+Helgenæs koefficienten for tangenten. Og nu tager vi altså en nu tager 2.
+
+35:11
+Og det er, at grafen for et. Har en entydig.
+
+35:24
+Tangent i x0. Så I kan jo se her.
+
+35:35
+Hvis jeg nu lagde mit ex går i mod x0.
+
+35:41
+Fra højere. Så drejer den blå linje ned i den røde linje.
+
+35:49
+Det samme hvis jeg lod mit mit blå punkt.
+
+35:55
+Kommet mod x0 fra venstre, så vil den blå linje også gå imod den røde linje, så jeg ser de France.
+
+36:05
+Habilitet betyder, at grafen har en entydig tangent.
+
+36:43
+Så lad os igen prøve at sige Jamen hvad er det egentlig vi undgår med denne definition, som vi altså har lavet?
+
+36:52
+En. Det vi undgår.
+
+37:17
+PS hed den. Den kraft jeg har tegnet her.
+
+37:25
+Den har jo ikke nogen entydig tangent. Se en tangent her hende.
+
+37:32
+Altså hvis jeg vil.
+
+37:35
+Lægge en linje ind til den hvide grafer, sådan at den lige præcis rører i punktet her, så skatten klistrer sig til fra begge sider.
+
+37:46
+Og den er der kun én stilling. Den kan være i, hvis den skal være en tangent.
+
+37:53
+Men hvad med herhen? Tangent betyder at røre, kan jeg se den der rører sådan set i ét punkt.
+
+38:16
+Så. Der er forskellig grænse stilling fra højre og venstre.
+
+38:23
+Den har ikke nogen entydig tangent, som er den definition vi har givet her.
+
+38:29
+Og det var det spørgsmål, der blev stillet neden fra.
+
+38:33
+Det er godt nok, at den der funktion kontinuert i dette punkt, men den er altså ikke differentiabel.
+
+38:40
+Det ser den ud til at være i alle mulige andre punkter. Dér har den kun en tangent.
+
+38:45
+Også dér har kun én tangent osv. Men den har altså et problem.
+
+38:49
+Den er ikke det dansabel i det punkt. Og så udvider vi igen.
+
+39:16
+At F er differentiabel på et interval, altså på et helt interval.
+
+39:27
+Hvis den. Er differentiabel.
+
+39:35
+I alle. X0 i intervallet.
+
+40:22
+Godt. Nu går jeg tilbage og kigger på det jeg har skrevet her.
+
+40:27
+Hvad siger du? Hvad skal vi?
+
+40:36
+Nu går jeg ind og kigger på det jeg igen. F.
+
+40:45
+Eks minus f er x0. Altså når jeg siger det dette er den størrelse der går imod den størrelse der var ikke skåret må x0.
+
+41:11
+Så er det det samme som at sige at f.
+
+41:15
+Eks. Minus f. A ex nul divideret med x minus 6 0.
+
+41:24
+Er lig med. Bortset fra en lille forskel.
+
+41:33
+Som går imod nul når ekskl. Øjemed x0. Det er derfor jeg har lavet den der lille hjælpe funktion.
+
+41:39
+Den hjælper mig med at få lavet det den pil om til et lighedstegn.
+
+41:48
+Og. Nu ganger jeg nævneren her over på højresiden.
+
+42:01
+Så får vi f. Eks Minos, f a. X0 er lig med a.
+
+42:06
+Gange med ex. Endnu 6 0 plus epsilon x minus x0.
+
+42:16
+Gange med x minus x0. Eller.
+
+42:27
+Den er minus f.ex. 0. Kære, så flyt over på den anden side her.
+
+42:56
+Og så har vi altså fundet ud af, at den betingelser der lå her i min definition, den kan jeg skrive på en anden måde ved hjælp af epsilon funktion.
+
+43:34
+Så nu kan jeg lave en alternativ definition på de Franchi habilitet.
+
+43:47
+Hvor jeg siger. F. Er.
+
+43:53
+Differentiabel i x0. Hvis der findes.
+
+44:05
+Et tal A. Og en epsilon funktion.
+
+44:16
+Således at f.ex.
+
+44:22
+Kan skrives som funktions værdien i det faste tal.
+
+44:29
+Plus A ganget med x minus x0 plus epsilon funktionen ganget med x minus x0.
+
+44:47
+Der er dækket. De unge år. Her er der lige noget for meget vil have A til et ja tak.
+
+45:24
+Men lad os prøve at lave en grafisk illustration af det, som jeg har skrevet op her.
+
+46:10
+Så her står der faktisk hvordan jeg skal kunne bygge funktions værdien op i et ex, der ligger i nærheden af x0 fortæller.
+
+46:20
+Se fordi den består nemlig af tre dele. Den består af den del her.
+
+46:32
+Så jeg skal jo helt op. Nu er jeg kommet så langt.
+
+46:38
+Så jeg kravler altså her op til ved hjælp af det første udtryk.
+
+46:44
+Det andet her. Det er jo hældningen skulle Fisher 19 gange med forskellen.
+
+46:51
+Så hvis jeg nu tegner tangenten i det punkt her.
+
+47:14
+Så det her stykke her. Det var altså f.
+
+47:26
+X0. Hvor stort er det stykke der ligger her?
+
+47:40
+Hvis det nu er lidt. Maj. Hvis jeg nu.
+
+47:49
+Ja, det kan du sige, men jeg synes at vi skal udnytte, at vi kender Hennings producenten for den linje der også.
+
+47:54
+Så det ville jo være Hemmings koefficienten. Og det er også det der bliver kaldt for A her.
+
+48:08
+Og det sidste stykke her. Det er så det der hedder epsilon funktionen ganget med x minus x0.
+
+48:20
+Så det er altså f. Eks. Er nu en lagkage af tre stykker, hvor vi starter ud med funktions for dagen.
+
+48:28
+Og så har vi altså her det her stykke her.
+
+48:32
+Der er bestemt, at hældningen skulle patienten og så forskellen. Her har vi jo stykket x minus x0 liggende.
+
+48:42
+Og det der er pointen her er hvor stor er forskellen på ECC og x0?
+
+48:49
+Ja, altså den er jo her op til, men den er så opbygget, at de to elementer den dér,
+
+48:55
+forsvinder gradvist, men på en konstant måde, mens den dér forsvinder på en meget hurtig måde.
+
+49:02
+Så det er led der her. Det er ligesom mere fast end det, der ligger ved, der ligger her hen,
+
+49:09
+fordi der ganger vi to ting med hinanden, der går imod nul, og så går det meget hurtigt imod nul.
+
+49:14
+Så det er en pointe i den der. Se, nu har vi fået givet en definition på differentialkvotienten.
+
+50:39
+Vi har en dag i to forskellige varianter, nemlig den gamle og den ny jeg næsten sikker på,
+
+50:48
+at de alle sammen i gymnasiet har set eksempler på, hvordan man så faktisk udregner udfra.
+
+50:55
+Den definition er differentialkvotienten af en række kendte funktioner.
+
+51:03
+Da er en øvelse i dag, hvor I skal prøve at bruge den definition der til også at udlede differentialkvotienten af en kendt funktion.
+
+51:18
+Men lad os lige hurtigt her forklarede nogle differentiel procenter.
+
+51:25
+Konstanten. Afledet. Der bliver sagt en ups det går hurtigt.
+
+51:42
+Det frontalt er ikke ærinde i S. Når og hvis jeg ikke.
+
+51:58
+Nej. Indover hvad mor.
+
+52:08
+Sådan er. Og kan I så stå der?
+
+52:14
+Så står der. Er det. Den der tror jeg kender.
+
+52:36
+Og dette gælder jo vel at mærke. Det er kun få naturlige tal, men også for alle hele tal.
+
+52:53
+For eksempel en ekstra del, den kan vi jo skrive som bekendt, ligesom ex i mine første.
+
+53:02
+Og det vil sige, at når vi skal prøve at finde differentialkvotienten af jeg vil ikke,
+
+53:06
+er der nogen af jer der ved hvad der værdihåndtering på Seinen er en ekstra del. Hvad siger du?
+
+53:13
+Når jeg ikke skærer korrekt, skal vi se om vi kan bekræfte, at vi hjælper den form med her.
+
+53:20
+Så får vi mere nu scenen ned foran. Og så skal vi gange.
+
+53:28
+Med eks i en eksponent er et tal mindre, så da vi altså nede i minus 2.
+
+53:37
+Det er selvfølgelig det som der blev sagt op fra bænken.
+
+53:42
+Den differentiale procent der står her. Og så selvfølgelig her analysens mest berømte differentiel betændte verden.
+
+53:59
+Hvis en funktion. Hvis de Franchell procent over alt er det samme som dens funktions værdi.
+
+54:09
+Det kan ikke være flottere tangent. Hældningen er altid det samme som funktions værdien i punktet hvad siges om?
+
+54:28
+Så her er kun plads til to mere, og den ene udvalgte er så knusende.
+
+54:34
+Hvad siger vi? Jeg vidste. Og så ved I selvfølgelig, at når det er sinus, er det endnu nemmere.
+
+54:45
+Den er nemlig bare knusende. 6. Den er på øvelses programmet, så den røber jeg ikke her gætter.
+
+55:18
+Og så er der selvfølgelig vores uundværlige regneregler for et procent.
+
+55:45
+Først er der selvfølgelig som reglen om MINUSTAH reglen, som er så nemme,
+
+55:50
+altså at differentiere en sum ved at differentiere hver af at den bonner og så lægge dem sammen.
+
+56:09
+Skal man gange en funktion der er opnået ved at man har ganget en funktion med en konstant,
+
+56:15
+så beholder man selvfølgelig bare konstanten og gange med differentialkvotienten af funktionen.
+
+56:26
+Alt det er jo nemt. Men nu begynder det sværere.
+
+56:42
+Når vi skal differentiere et produkt af funktioner, så bliver det lidt mere kringlet.
+
+56:50
+Da differentierer vi den første ganger med b holdet.
+
+56:54
+Den anden plus det modsatte. Vi beholder den første.
+
+57:01
+Og så ganger vi med differentialkvotienten af den anden. Det er en mærkelig regel.
+
+57:06
+Men sådan er den altså. Og den kan selvfølgelig bevises.
+
+57:16
+Og så til sidst lad os minde om kæde reglen. Og den handler jo om at vi skal differentiere en sammensat funktion.
+
+57:47
+Det gør vi ved at først differentierer det vi kalder for den ydre funktion, altså F.
+
+57:53
+Og tag den i funktions værdien af gem, og så bagefter kommer kæden.
+
+58:03
+For nu skal vi så gange med differentialkvotienten af den der.
+
+58:19
+Og lad os lige tage et par eksempler på brug af kæderygende.
+
+58:41
+Jeg har en sammensat funktion. Den er sammensat fordi at Cowles News bliver taget, som jo selv er en funktion.
+
+58:51
+Den bliver taget i en anden funktion som hedder Ex Jane. Så først har jeg altså taget ikke sige andet.
+
+58:58
+Og så skal vi tage cosinus til den værdi der. Og så siger kæderygende altså først sker differentierer den ydre.
+
+59:05
+De funktioner. Det er Venusinus.
+
+59:14
+Og så skal jeg beholde den indre funktion. Det er ikke så Jane.
+
+59:23
+Og så sker gange med differentialkvotienten, at den indre funktion, som vi jo fik herover fra, da skal altså ganges med to ex.
+
+59:37
+Og så har jeg lige plads til et sidste eksempel. Og det er.
+
+59:52
+Igen eksponentielt funktionen. Den er jo differentieret leg med sig selv.
+
+1:00:06
+Men nu skal jeg jo huske, at der på ICC's plads står en anden funktion som hedder Codex.
+
+1:00:12
+Så nu sker differentiere dem og gange på. Og så får vi altså et differentialkvotienten ud her.
+
+1:00:20
+Den er kog gange i k. Eks. Pause.

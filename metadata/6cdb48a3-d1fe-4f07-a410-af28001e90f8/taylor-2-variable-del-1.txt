@@ -1,0 +1,806 @@
+0:09
+Det er kun et par uger siden, at vi snakkede om det kun et par uger siden,
+
+0:16
+vi snakkede om globalt maksimum og minimum på afgrænsede og afsluttede mængder.
+
+0:25
+I dag skal vi snakke mere generelt om ekstremer ekstremer.
+
+0:30
+Det er jo sådan en. Det er en fællesbetegnelse for maksimum og minimum, og sagen er jo den, at der kan sagtens være problemstillinger,
+
+0:42
+hvor vi ikke bare er interesserede i et globalt maksimum, men inde i nogle lokalområder.
+
+0:48
+Selv om vi har store funktionens værdier nogle steder, så kan der godt være et interessant lokalt, maksimum eller minimum.
+
+0:56
+Og det er det, vi skal snakke om i dag. Altså hvordan? Hvordan kan vi finde kandidaterne, og hvordan kan vi afgøre, om det er et lokalt ekstremer?
+
+1:08
+Så er programmet og lad os bare komme i gang.
+
+1:17
+Og vi snakker lige først om det proklamerede.
+
+1:27
+Første grads polynomium. For EF i udviklings punktet x nul komma y nul.
+
+1:42
+Og lad os kalde det for p et. Det er f eks 0,1 nye nul.
+
+1:56
+Plus den partielt afledet efter ex. I udviklingens punktet.
+
+2:05
+Og så er plus den partielt aflede efter Y i udviklingens punktet.
+
+2:14
+Og gange med y minus ved nul. Så den har jeg set før.
+
+2:27
+Og nu skal vi lige se den på en lidt mere sammentrængt form.
+
+2:34
+Det er altså en alternativ skrivemåde. P.
+
+2:42
+F. Eks kommer y. F. Ex 0,70.
+
+2:49
+Og så skriver vi så her. Plus gradient den a f g x nul komma nul.
+
+2:58
+Og sagt gange med prikproduktet. Eller det er prikproduktet gange skalaer med x minus 6 0 og y minus nul.
+
+3:16
+Så det her er bare en anden måde at skrive det proklamerede første grads polynomium på.
+
+3:23
+Og det hænger jo sammen med at vi her har den partielle afledede efter X.
+
+3:30
+Det er jo første koordinat i gradient vektoren. Og den partielle afledede efter y.
+
+3:37
+Det er anden koordinaten i gradient vektoren. Og så passer det jo fint, hvis vi tager prikproduktet af de to første kort nedgangen.
+
+3:45
+Først koordinat og anden koordinat gange med ankomsten af.
+
+3:49
+Så er det bare en anden måde at skrive det på. Og grafen for EF eller grafen for at blive et.
+
+4:04
+Er tangent planen. I punktet x nul komma by nul komma tredje koordinaten.
+
+4:18
+Det er f. Eks. Company nul. Så der.
+
+4:27
+Så det vil altså sige. At hvis vi altså har vi her.
+
+4:38
+Så har vi her grafen. For en funktion af to variable.
+
+4:46
+Og vi altså har her i syvendepladsen et x nul komma nul.
+
+4:58
+Så har vi altså her tangent planen i dette har det røddings punkt og forskriften for tangent planen er jo det samme som det vi har skrevet her.
+
+5:13
+Så det var bare lige for at minde om, at vi har kigget på Tellers formler er gravet et og det vi gør nu.
+
+5:20
+Det vi skal kigge på et tellers poler af, gravede to. Og vi kigger altså først på det approksimant Erna.
+
+5:49
+Andenrangs polynomium. I x nul komma nul.
+
+6:06
+Og det har denne forskrift. Lad os nu kalde dette for P2, som antyder at det er Grade 2 vi taler om.
+
+6:18
+Så har vi F. Ex eller P2 er ikke kommet.
+
+6:23
+Y det er f. Eks.
+
+6:27
+Nul komma you nul. Plus den partielle afledede efter eks.
+
+6:33
+I x0 kommer y nul gange med x minus 6 0 flås et mærke efter y i.
+
+6:44
+Ex nul komma nul ganget med y minus nul.
+
+6:51
+Plus en halv. F differentierede.
+
+6:57
+To gange efter X i udviklings punktet gange med x minus x nul i anden.
+
+7:07
+Plus. En halv F.
+
+7:12
+De France Céret to gange efter Y i udviklings punktet Gange med by minus by nul i anden.
+
+7:22
+Og så til sidst plus f. Mærket efter eks f.
+
+7:26
+Mærket efter Y i udviklings punktet. Gange med x minus x0 plus.
+
+7:36
+Ned i gange med by minus nul. Så er vi færdig.
+
+7:51
+Så I kan jeg så se her at. De første tre ved jeg har skrevet op her.
+
+7:57
+De er jo nøjagtig det samme som vi havde i P. S.
+
+8:01
+Så forskellen på p et og P2 er altså, at nu er der kommet nogen anden grads leder her.
+
+8:12
+Og. Vi har set her har vi et andet grads led i altså med ægte hjerne.
+
+8:22
+Her et angrebslegende med bly i anden og her ned.
+
+8:25
+Der får vi et andet kransstillede, hvor vi har et blandet led x og y.
+
+8:32
+Så I kan se de sidste tre led her.
+
+8:36
+Det er en kvadratisk form i to variabler.
+
+8:41
+I skal jo tænke på. Det er jo kun X og Y.
+
+8:45
+Det er jo de to variable der i dette udtryk de partielt afledede.
+
+8:51
+Det skal jo forstås som konstanter. Så her har I altså simpelt hen en kvadratisk form.
+
+8:59
+Og det vil så sige, at når vi nu kigger på grafen for for P2.
+
+9:17
+Så tænk lige på at. Da vi kiggede på anden grads ligninger.
+
+9:29
+Og vi skulle se på hvad er det for nogle flader de er udtryk for, så havde vi nogle former,
+
+9:35
+hvor vi havde ligninger med x i anden i hjernen og set i hjernen, og de blev til ellipsoide.
+
+9:43
+Om det kunne blive til fyre per bue, lider af forskellig art.
+
+9:47
+Kan I nok huske? Så havde vi også nogle vil sige nogle degenererede tilfælde, kan vi kalde dem, hvor vi ikke havde alle de tre variable i.
+
+9:58
+Altså i anden potens. Men vores sæt var nede i første potens, og det er faktisk lige præcis det, der er tilfældet her.
+
+10:08
+For hvis I vil sige kigger her, så det her kan vi jo opfatte som som tredje koordinaten.
+
+10:15
+Så dér står der sæt. Så på venstresiden har vi altså set.
+
+10:20
+Og så på højresiden. Der får vi noget med æg, siger anden by i anden og ekskongen.
+
+10:30
+Så det vil sige når vi snakker om grafen her, hvad er det så for at flade typer, som er aktuel som som graf for funktionærerne angrebsspillet?
+
+10:41
+Sæt er i første potens. Ja.
+
+10:55
+Der blev sagt hyperbolsk Panopto, lyder det.
+
+10:59
+En af mulighederne. Det kunne også være en elliptisk Pablo Jide.
+
+11:03
+Så grafen er en. Elliptisk.
+
+11:11
+Eller. En hyperbolsk.
+
+11:20
+Para bløder. Og det er altså i det typiske tilfælde.
+
+11:43
+Og en en elliptisk Pablo yder.
+
+11:49
+Det var den type, hvor vi altså ligesom har en parabel, som vi ligesom kan forestille os,
+
+11:55
+at den er drejet rundt, så vi altså har en flade type af den art her.
+
+12:00
+Den kan være lidt sammenpresset eller hevet lidt ud, men det er altså det, vi kalder for en elliptisk Pablo idet.
+
+12:07
+Det der hedder en hyperbolsk par bløde, det var, at det var en paraplyer, som havde et saddle punkt.
+
+12:15
+Det vil altså sige i en retning, der burde nedad i en anden retning, der burde op ad.
+
+12:23
+Så det er altså de to typer af dem vi arbejdede med sidste gang, som har stor interesse i dag.
+
+12:33
+Se når det er sagt, så er jeg også nødt til at sige, at det her det gælder i det typiske tilfælde.
+
+12:40
+Fordi vi kan jo have den situation. Lad os nu tage som et eksempel, at alle de partielt afledede af anden grad, hvis de nu alle sammen med nul.
+
+12:54
+Så kan I set det der er tilbage. Det er det der står i første linje, der så vil sige, at i et særtilfælde kan vi altså godt have,
+
+13:04
+at det er proklamerede, angrebsspillet bare bliver til en plan.
+
+13:08
+Altså det samme som tangent planen. Og så er der andre situationer, hvis altså hvis der er en af de her partielt dobbeltdør overlevet,
+
+13:17
+hvis den er nul og den anden ikke er nul, så kan vi få noget, der hedder cylinder flader.
+
+13:24
+Altså nogle der er det, man kalder for enkelt krummede. Altså sådan en flade af den type her.
+
+13:31
+Det kunne jeg sådan en, altså en parabel, der ligesom har trukket igennem rummet her.
+
+13:36
+Men altså nu taler vi altså om det typiske tilfælde har vi altså de to par bløde typer her.
+
+13:42
+Så det vil altså sige, at hvis vi nu lige kigger igen på en flade her.
+
+13:58
+Og vi kigger her på. Et ægte nul komma nul.
+
+14:09
+Og så vi er interesserede i. I grafen for DR proklamerede Amgros polynomium, så kunne det måske se sådan her ud.
+
+14:29
+Sådan så jeg så at her har vi det. Der har vi røget punktet, og så er det altså, når vi skal proklamere den der bedst muligt.
+
+14:39
+Jamen, så er det altså en en par bløde.
+
+14:43
+Den er den at proklamerer bedre end den plan, som jeg har tegnet op i det typiske tilfælde.
+
+14:55
+Godt. C Vi har snakket om om hvad det hedder.
+
+15:05
+Og med heste matricer. Det var en matrix, hvor vi netop havde de dobbelte daw ene.
+
+15:13
+Og det betyder, at nu kan vi også skrive denne her.
+
+15:20
+Denne form kan vi så også skrive i en lidt. Tættere.
+
+15:27
+Form her. Alternativt kan vi altså skrive den sådan her. P2.
+
+15:34
+Er lig med. F.
+
+15:43
+Eks nul komma by nul. Og så bruger vi altså gradient den her.
+
+15:58
+Som vi prædiker med x minus x0 over over y Vinos nul.
+
+16:07
+Og så får vi her, hvis vi er omskriver det udtryk der, så får vi en halv.
+
+16:15
+En vanrøgt vægtere der hedder x0.
+
+16:21
+Og Y 0. Og så har vi her.
+
+16:28
+Heste matricen. Og så har vi her x minus x minus x0.
+
+16:38
+Dem skal vi især. Vi skal lige have den her lavet om, fordi vi har jo de der x minus et led.
+
+16:48
+Så vi skal altså lige have skrevet det sådan her i stedet for x minus x0.
+
+16:53
+Det er første koordinaten by. Lige nu synåle det andet koordinaten.
+
+16:58
+Så har vi heste matricen, for så har vi her x minus flex nul og y minus nul.
+
+17:10
+Og hvor. Hvor helse matricen den er så f dobbelt mærket efter eks i x 0,10.
+
+17:26
+F dobbelt mærket efter eks og efter y de x nul komma nul.
+
+17:33
+Og så har vi F mærket efter Y og F mærket efter X i x 0,10.
+
+17:42
+Og så har vi dobbelt mærke efter Y i x nul komma y nul.
+
+17:52
+Og. Når vi altså ganger de lede sammen, der er skrevet her, jamen så får vi altså lige præcis det som står dér hende.
+
+18:04
+Så det er altså bare en anden måde at skrive tingene på, som vi får brug for.
+
+18:09
+Om lidt. Og så endelig, så kan vi så.
+
+18:18
+Så har vi også brug for tele os grænsebommen. Af grad 2 og Tellers grænse formet af grejet.
+
+18:46
+2. Se at her er pointen, at nu kan jeg så skrive.
+
+18:53
+F. Eks. Komma y. Se hvis jeg nu sætter den lige med.
+
+19:05
+Grafen her sætter den leg med pap.
+
+19:10
+Altså hvis jeg sætter den lige med. Dens approksimation.
+
+19:20
+Jeg, så snyder jeg jo fordi der er et ræs, led eller er en rest funktion som hedder ro.
+
+19:30
+Gange med epsilon funktion af x minus x nul komma y minus nul.
+
+19:42
+Og så var de begreber der går ind i det her.
+
+19:54
+Der er givet udviklings punkt. Det er dér vi udvikler Anders Polynomiet.
+
+20:02
+Og så kan vi være interesserede i at evaluere i et punkt, der ligger i nærheden.
+
+20:14
+Og det er den afstand her. Det er det vi kalder for afstands funktionen.
+
+20:22
+Den er en. Den er en funktion af eks kommer.
+
+20:29
+Så det er altså den afstands funktion der skal i anden.
+
+20:36
+Læg lige mærke til at vi får altså afstands funktionen her i enden, og så skal den altså gange smed en epsilon funktion.
+
+20:47
+Så det er trailers formynder for Grade 2 for funktioner af to variable.
+
+20:55
+Se, nu skal vi jo spørge os selv. Hvis den her paraply yder.
+
+21:01
+Er den anden grads flade som approksimation og bedst.
+
+21:06
+Det er det jeg ude efter. Det er en anden gravstedet, som er den aller bedste til at proklamere i en omegn af X 0,70.
+
+21:16
+Og så hvorfor kan den ikke se ud på nogen som helst anden måde end den måde den ser ud på.
+
+21:22
+Her. Hvad er hvad er hemmeligheden bag det her er Proxima erne polynomium.
+
+21:32
+C. Hemmeligheden er. At den funktion der står dér.
+
+21:40
+Den er proklamerede funktion og funktionen selv. De har selvfølgelig den samme værdi.
+
+21:49
+I det sted hvor de rører hinanden. Så altså P2.
+
+21:54
+X 0,70 er lig med f. Eks.
+
+21:58
+0,70. Så det er den første ting det er klart.
+
+22:03
+Det gælder allerede ved ved planen der op.
+
+22:07
+Det næste punkt gælder også for den. Det er nemlig, at den funktion den er brugt, sumererne er funktion og den dér, de har den samme partielt afledet.
+
+22:19
+I x0 kommer nye nul. Med hensyn til ECC og med hensyn til vin.
+
+22:25
+Det kan vi meget nemt se fordi at hvis jeg, hvis jeg nu differentierer denne herover efter X.
+
+22:35
+Altså vi vi siger P2 mærke efter eks. Så forsvinder den der.
+
+22:40
+Det er jo en konstant. Set dér har vi den variable ex.
+
+22:47
+Så det vil altså sige at jeg får et der hedder altså der hedder det, der står her.
+
+22:52
+Og den bliver bare til én. Så jeg ved det, og det bliver altså tilbage.
+
+22:57
+Den det at den er konstant. Den går i nul.
+
+23:02
+Det led der står her. Da er det her jo en konstant, og der har vi variablen to, men hele det udtryk hér.
+
+23:11
+Det går i nul, fordi så skal jeg indsætte ex x0 i mig nul, så den størrelse bliver altså nul, og så bliver hele det derved nul.
+
+23:20
+Og på samme måde med de andre led. Her. Så hvis jeg differentierer det udtryk her efter efter eks, så er det eneste der bliver tilbage.
+
+23:30
+Det er den størrelse, der står dér. P2 og EHF har den samme partielt afledet efter ex i punktet x 0,70.
+
+23:40
+På samme måde med dem der. De France igennem, og det gælder.
+
+23:46
+Og også med de partielt afledede der avlede to gange, der har P2 og F har altså de samme differential procenter.
+
+23:56
+Så det er hemmeligheden bag P2. Det er at alle dens partielt og afledede op til kravet 2 er de samme som for funktionen selv.
+
+24:06
+Derfor kommer de til at ligne hinanden rigtig, rigtig meget,
+
+24:10
+og derfor er der ikke nogen andre anden grads polynomier da at proklamere så godt som det her gør, så er det karakteristiske P2 og F.
+
+24:21
+Har de samme partielle afledede. Så lad os lige prøve at se på et eksempel.
+
+25:44
+Så det eksempel jeg vil vise her, det er altså en funktion der er dannet af Elen.
+
+25:52
+Og så har vi altså en indmad der hedder y plus ex hjerne.
+
+26:01
+Og. For en ordens skyld kunne det jo være rart at vide, om det udviklings punkt,
+
+26:07
+om det overhovedet ligger i definitionsmængden for fordi adskille dette spørgsmål.
+
+26:12
+Jo, ingen mening. Så lad os lige kigge på, hvad definitionsmængden for for f, hvad den er.
+
+26:35
+Og det vi ved er jo at vi kan ikke tage alene at hverken er 0 eller negative tal.
+
+26:43
+Vi kan kun tage positive tal, og det vil altså sige indmaden.
+
+26:47
+Den skal altså være positiv. Og det betyder at Y skal være skarp større end minus x Jane.
+
+27:02
+Og det vil så sige, at når vi nu kigger på definitionsmængden.
+
+27:14
+Så har vi altså her. En nedadvendt parabel og.
+
+27:27
+Det er der altså tilhøre definitionsmængden er dets graverede område.
+
+27:30
+Her. Så det vil altså sige dér hvor jeg så foreslår, at vi laver et udviklings udviklings punkt.
+
+27:44
+Det er her i tallet 1,0. Og.
+
+27:52
+Fint nok. Det kan altså lade sig gøre, så vi går bare i gang.
+
+27:57
+Og nu skal jeg så se. Vi har jo nogle ingredienser vi har brug for her 1.
+
+28:03
+2 3. 4 5 6 konstant skal vi har udregnet for at vi kan opstille dette proklamerede polynomium.
+
+28:16
+Vi har brug for. For F 1 altså f værdi i udviklings punktet.
+
+28:28
+Og at være så at sige vi y den skal være nul, extend skal være en.
+
+28:33
+Så står der en anden til en og den er nul. Og så skal vi have den partielt aflivet efter ex.
+
+28:50
+Og så er vi jo lige nødt til at gøre det her arbejde, altså at få denne differentierede.
+
+28:56
+Differentialkvotienten af lm TX er en over seks.
+
+29:04
+Sonderer. Og så skal vi jo have indmaden her.
+
+29:09
+Y plus 2 x. Og så skal vi gange med.
+
+29:15
+For det er jo en sammensat funktion.
+
+29:17
+Her differentialkvotienten efter ICC, at det der står her og det bliver så differentialkvotienten, er ikke sit ærinde.
+
+29:24
+Den giver så to eks. Og så har vi.
+
+29:35
+Nu mulighed for at udvikle den anden konstant vi har brug for.
+
+29:42
+Y Den går i nul. Og så har vi her.
+
+29:49
+Jeg tror, at der bliver snakket her uden at det bliver sagt højt.
+
+29:55
+Så kan jeg heldigvis når at rette fejlen selv. Det var jo bare indmaden, der skulle gå ned i nævneren her.
+
+30:02
+Og så bliver, når vi indsætter en, så får vi bare her endnu en.
+
+30:07
+Og så ganget med 2, så det hele hiver den anden konstanten her.
+
+30:12
+Den bliver 2. Så skal vi have differentierede den efter Y.
+
+30:25
+Og det er jo igen ind over indmaden. Og så gange med indmaden differentieret.
+
+30:35
+Ex går i nul, fordi jorden konstant byder den variable differentierede, der giver den en.
+
+30:48
+Og så ved at indsætte yderlige med nål og ængstelige mad ind, så får vi altså, at den anden hr.
+
+30:54
+Den er en. Og så går vi i gang med de dobbelt differentierede.
+
+31:14
+Vi har jo allerede differentieret den en gang efter eks.
+
+31:19
+Så nu kan jeg bare differentiere dette produkt. Det betyder først skal jeg altså differentiere den og beholde den der.
+
+31:30
+Og nej, jeg differentierer en bryg. Så skal vi jo have tælleren i anden og så et minus foran.
+
+31:48
+Sådan der. Og så skal vi have gange med.
+
+31:56
+Indmaden differentieret. Det er jo stadigvæk ikke sige andet, der skal differentieret.
+
+32:00
+Det er to eks. Også skal vi beholde det andet led der stod her.
+
+32:06
+Det var så 2 x. Kluges.
+
+32:15
+Og nu skal vi bære holdet det første led gange med differentialkvotienten er dannet ved at det er nemmere.
+
+32:29
+Sådan. Og så får vi denne her.
+
+32:36
+Dobbelt differentieret, og vi tager den i udviklings punktet også.
+
+32:40
+Den går i 1. Den går i 2.
+
+32:44
+Den går i 2. Så har vi fire. Men med minus foran sig det altså minus fire, og her hende får vi den de godt går i.
+
+32:53
+1. Den går i 2. Så det hele. Det giver altså minus to.
+
+33:08
+Og så skal vi have fat i den her. Den skal differentieres efter Y.
+
+33:16
+Det bliver lidt nemmere. Vi får sådan set det samme.
+
+33:25
+Som vi har oppe foran. Og så skal den bare gange smagen.
+
+33:33
+Som er de Franchell procent med den indre funktion. Og det betyder så at.
+
+33:40
+F dobbelt mærket efter Y. Det er så 1,0 og den giver minus en.
+
+33:54
+Og nu skal jeg så have. Hvor vi først og differentieret efter den ene variabel efter den anden variabel.
+
+34:06
+Og så skal jeg huske, det er jo lige meget hvilken rækkefølge jeg går. De bliver jo ens.
+
+34:12
+Så nu overvejer om jeg om jeg skulle tage denne her, eller om jeg skulle tage den hernede.
+
+34:18
+Og det klarer denne den er nemmere, fordi der har vi ikke leget med dér, så her hvor jeg skal have det blandede vid der vælger,
+
+34:26
+altså at tage udgangspunkt i, at jeg havde differentieret efter Y, og så differentierer vi efter ikke bagefter.
+
+34:41
+Og set vi har den her, den skal vi have differentieret efter eks.
+
+34:48
+Det har vi prøvet før. For det var jo faktisk det vi gjorde her hende, så den bliver bare en over Y plus ikke Jane.
+
+35:01
+Gange med. Nej, Inger til fordi vi skal jo have.
+
+35:12
+Det er jo igen en bryg vi skal have her. Så vi får minus foran.
+
+35:18
+Og så skal den der i anden, og så skal vi bare gange med.
+
+35:22
+Så vi har minusset her. Og så skal vi i gang med en, som er differentiel procent.
+
+35:28
+Og det medfører så at EF mærket efter Y EF mærket efter eks i 1,0 den er minus to.
+
+35:57
+Og nu er jeg så i stand til at. Der bliver igen mumlede meget.
+
+36:04
+Ja, vi læser skal læserne.
+
+36:11
+Police her. Det er fordi at den fejl jeg gjorde her, det var jo, at jeg differentieret efter Y.
+
+36:23
+Den skal jo differentieres efter ex. Så forskellen er, at der kommer faktoren to ikke SFO.
+
+36:29
+Det er jo denne her der skal differentieres. Dog nu differentiere her anden gang, så det bliver den der.
+
+36:35
+Og så får vi det tal, som står derinde. Og nu er vi så parat, fordi nu skal vi så bruge mine kontanter her.
+
+36:55
+Vi har først det her nul. Og så skal vi have efter formen der.
+
+37:05
+Hendes verden partielt afledet efter eks, og den fandt vi her.
+
+37:13
+Den giver to. Og så hedder det x minus en.
+
+37:21
+Og så skal vi have den partielt aflivet efter Y.
+
+37:26
+Den var en. Og så har vi y minus nul her.
+
+37:40
+Og så skal vi have en hal og så skal vi have f dobbelt mærket efter extend.
+
+37:45
+Den var minus to. Og så får vi ex Minos ind i anden, og så får vi en hale.
+
+37:59
+Og så skal vi have Y dobbelt mærket, og FA gav dem den igennem i New Zealand.
+
+38:06
+Gange med øy miner synåle i anden. Og så til sidst skal vi have den blandede dobbelte daglige ydet, som vi fik til minus to.
+
+38:21
+Og så x minus 1 og y Vinos nul.
+
+38:30
+Og så får vi altså 2 x minus 1. Og så får vi plus en.
+
+38:38
+Og så får vi minus 1. Bliver det så x minus 1 i anden.
+
+38:46
+Og så får vi minus en halv. Og så får vi Y.
+
+38:54
+I anden. Og så får vi minus to x minus 1 og gange med Y.
+
+39:12
+Så dermed har vi altså. Fundet det er proklamerede Poul Nomen efter Grade 2, og det vil sige nu er vi altså så parate til at se herfra,
+
+39:27
+at det nemt at udvikle det her andenrangs polynomium. For nu er vi så parat til at lave proklamerede værdier, for eksempel hvis vi skal have.
+
+39:38
+Hvis vi skal have bruge F er tre en halv kommer en halv, jamen så skal vi bare putte ind i vores approksimant polynomier derhen.
+
+39:48
+Så finder vi altså er proklamerede værdier i omegnen af 1,0, der passer dem godt.
+
+40:02
+Og nu kunne jeg jo så overveje. Altså hvad er det så for hvad er det for en type?
+
+40:11
+Hvad er det for en graf flade, som jeg har hevet op her?
+
+40:15
+Altså, vi har jo sagt, at i de typiske tilfælde, da er det en ellipse, en leptis eller en hyperbolsk pablo yder.
+
+40:26
+Og så kigger vi her hen. Det har vi altså vores set værdi, der står her til venstre, og så skal vi se, om vi har begge.
+
+40:35
+Og vi har altså både X og Y i anden.
+
+40:39
+Ja, det har vi. Så det vil sige det er en par bløde.
+
+40:43
+Det er ikke dér, de tilfælde, hvor vi får en solvind og fløjet et enkelt krummede flade eller en plan.
+
+40:49
+Så det bliver enten det ene eller det andet. Men.
+
+40:54
+Det her er jo en anden grads ligning, og på nuværende tidspunkt fordi der er et blandet led herinde,
+
+41:02
+så aner jeg jo ikke om det er det ene eller det andet.
+
+41:07
+Så. Den slags ting skal vi snakke om efter pausen, hvor vi skal af rigtig udfoldelse, dermed lokalt, maksimum og lokalt minimum.
+
+41:19
+Og der skal vi altså snakke om.
+
+41:20
+Hvordan finder vi dem og være argumenterne for at vores metoder og lige efter pausen, der tager vi så udgangspunkt i altså eksemplet med en variabel.
+
+41:33
+Også udfordrer vi to variabler. Vi tager pausen her.

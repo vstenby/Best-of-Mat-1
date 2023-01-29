@@ -1,0 +1,2159 @@
+0:07
+Okay, goddag og velkommen til Uge Sex og store dage.
+
+0:13
+I dag skal vi tale om determinanten og vektorer to grundlæggende begreb,
+
+0:22
+så det vi gør idag er, at det den første time og taler vi først om det som i Nantucket.
+
+0:29
+Jeg vil indføre definitionen som jeg regner med eksempler.
+
+0:33
+Og så vil vi også se på nogle og egne regler, og hvad dem kan aflede ud fra, hvad værdierne er af en terminalt.
+
+0:45
+De første time og de regneregler kommer også i eftermiddag i gruppe,
+
+0:50
+som vil der være nogle øvelser, hvor vi skal bruge dem for en kort Mabel damer The Determinanten.
+
+0:58
+Og efter pausen vil vi fortsætte med en kortere reprise og repetition omkring geometriske vektorer i planen og i rummet.
+
+1:08
+Det gør vi første gang uden at indføre koordinater, det vil sige, vi tegner bare rektorer.
+
+1:14
+Vi replicerer Hvordan er det at vække til ord og så videre.
+
+1:20
+Og når vi så gjorde det, så vil vi gerne indføre en definition for lignende uafhængighed af vektorer.
+
+1:29
+Og det er noget af et redskab, Philip behøver for at kunne faktisk indføre det, der hedder om basis, og en basis er nødvendigt, så vi kan måle en væg,
+
+1:42
+så med koordinater, som kan angive koordinater for koordinaterne er afhængige af basis, og så allersidst taler vi så som koordinater skift.
+
+1:54
+Hvordan skifter koordinaterne? Hvis vi bruger en anden basis, hvis sted.
+
+2:01
+Og så er der selvfølgelig altid eksempler og Mabel demo til sidst.
+
+2:10
+Så jeg starter med et determinanten og.
+
+2:16
+Det vil gøre det at vi starter med at definere determinanten på en meget lille matrix matrix matrix.
+
+2:32
+Det er også det jeg nævnte sidste gang, at determinanten kan kun defineres på kvadratiske matricer,
+
+2:40
+så det gør vi også her, for vi kigger på matrix, som er type indgange en.
+
+2:50
+Og den mindste matrix vi kan danne, det er måske en indgang med det lidt fjollede, for i stedet for ser vi på en matrix, der er siden.
+
+3:03
+Så vi ser på den kvadratisk to gange to matrix, og der kan vi definere determinanten af sådan en matrix og sige, den var givet ved.
+
+3:27
+Nogle elementer nu er lige svampen kommet væk til et usynligt stod bag en skærm.
+
+3:37
+Det er selvfølgelig glemmes, stod for godt.
+
+3:44
+Vi skal lige fortalt, hvordan en matrix ser ud. Den har de her elementer A, B, C, D, og det er som sagt m.
+
+3:54
+To gange, to med en frisk og determinanten.
+
+3:58
+Den er så var givet ved at man ganger diagonal elementerne og 7 fra her produktet af dem der ikke sidder på Kirkedal B ganger se.
+
+4:13
+Og det er det aller nemmeste vi kan gøre på en to gange 2 matrix, så general præcis den generelle definition og bygger på den her.
+
+4:41
+Og det skal vi lige ha taget fat på og.
+
+4:47
+Det vil gøre det, at vi indfører noget der hedder en snit matrix, hvis vi ser på en stor matrix med masser af.
+
+4:59
+Lad os sige det varen bare som et eksempel.
+
+5:03
+4 gange 4 matrix, så ser den noget og bliver lidt skriveri her, men det gavner illustrationen lige om lidt.
+
+5:29
+Fire tog fire tre. Jeg tror det ser rigtigt ud, og hvis det er givet så som en Matrix A fire gange fire, så hedder den tilhørende.
+
+5:51
+Smidt for snit matrix og hvor flere end én vi kan.
+
+5:57
+Gøre det at vi udvælger et element i denne fire gange fire matrix, for eksempel farve.
+
+6:08
+Det her der hedder altså i 2. Og så skriver vi, at n snegl med A6 altså et sår og det kendte sejre ved at sætte en hat oven i.
+
+6:18
+Og jeg skriver elementet hermed den Danes ved at eliminere den tilhørende søjle og den tilhørende række træ og søjle 2.
+
+6:31
+Og det der bliver til overs dér. Så alt dette og dette har det her, og det smider vi igen her i dag.
+
+6:39
+SNIK matrix. For et et, tre fire, så et sort strøg.
+
+6:53
+Og da. To fire som og den sidste række bliver a fire, A.
+
+7:02
+Dette og de to. Det er vores snik matrix, og vi kan se med hensyn til element 3, så I kan se,
+
+7:15
+at vi kan udvælge hvilket som helst andet element og danne en snit med at eksistere fra med samme opskrift.
+
+7:23
+Det vil sige vi sletter en søjle tilhørende elementet og rakket tilhørerne til det element.
+
+7:32
+Så kommer spørgsmålet Hvad skal vi så bruge det til?
+
+7:36
+Det var, at vi skulle definere determinanten på en del indgange, indmad, tricks, og det kommer så til at være en smule mere involveret.
+
+8:04
+Så lad os sige vi har givet en stor matrix, og vi skriver så ikke alle de her elementer ind,
+
+8:15
+men vi antyder, at der er en første række, og der også er en sidste række af en ét til N.
+
+8:27
+M. Men da vi nu vil gøre det, er, at vi vel ude udvælge en helt bestemt på række og det, at den er til at række i denne her matrix.
+
+8:48
+Den skriver In A er et, A er to og så videre er vi nået frem til er en.
+
+9:00
+Og det er den række vi ser for ser på for at udvikle og definere determinanten.
+
+9:08
+Det vil gøre, at vi tager en række. Og vi definerer vi bruger snik matricen.
+
+9:19
+Med hensyn til første element, så andet fryder sig videre. Vi er nået frem til den sidste.
+
+9:25
+Og så danner vi en sum af determinanten af de slidte matricer.
+
+9:30
+Det ser jeg. Jeg fortæller bare, hvad der skal ske, og når man så er gået foran, så har man fundet frem til determinanten.
+
+9:40
+Så hvordan gør vi det? Det ser således ud. Vi skriver.
+
+9:58
+Determinanten er givet ved følgende former man så minus en opblødes, der i tallet svarer til række nummer, kunne være tre norske.
+
+10:12
+For at det en brugt ganger det netop med det første element elementer for at gøre at skrive det her år.
+
+10:27
+Og så sker gange det med determinanten af den tilhørende snitte matrix, så den der tilhører det element den hedder for a hat, er i.
+
+10:44
+Det var første del af vores sorg. Jeg lovede, vi skulle have en sum, så nu er der noget, der gøres.
+
+10:53
+Jeg tager række numre og af det og tog og ganger det med.
+
+10:59
+Næste element i vores række. Det vil sige det her, og så ganger jeg det med tilsvarende snit.
+
+11:10
+Matrix A er sund. Og det gør jeg igen.
+
+11:17
+Så vil jeg komme. Det næste element, der ser sig som noget A er tre, og det fortsætter vi,
+
+11:30
+så vi er nået frem til det aller sidste element i vores række, som hedder A, er M, og ganger med determinanten er vores.
+
+11:49
+Snit Matrix A er en vugge. Det ser jo lidt tarveligt ud.
+
+11:55
+Måske eller. Det er bare helt nemt, fordi vi har røntgenblik og se at gemme det hele.
+
+12:02
+Så vi skal lige traumet tilbage og prøve at forstå, hvad der foregår her.
+
+12:07
+Først så er det her en sång, og det kan vi også skrive på en meget kort måde.
+
+12:17
+Jeg skriver det bare lige op her i bordet som tegn.
+
+12:24
+Og hvad er det, vi skal som fiske summer op over alle de her så muntre.
+
+12:29
+Og det plejer altid at starte med noget, der hedder minus. En opløftet i række er.
+
+12:35
+Og så kommer noget, hvor ingen kan se og ser. Så hvad vil jeg kalde det?
+
+12:41
+Jeg vil kalde det J. Så ganger det med det her element, er af noget og ganger med med de her determinanten af med trissende, som hører til.
+
+12:57
+Så er det vores former og smager for øjet lige.
+
+13:03
+Maden op til størrelsen af vores matrix får nemlig n søjler med i den, og derfor er der også elementer i den her række, vi har udvalgt.
+
+13:16
+Okay, så det der sker her, er jo, at den matrix vi starter med denne, er type indgang M og det vi prøver øje her på dens side.
+
+13:31
+Dens er matrix, så den må være mindre, nemlig end minus en ganget 1 minus serien.
+
+13:37
+I kan se den. Her er fjerde gang at fjerde og denne her af typen tre gange tre, så vi skummer med Atriet som følge dimension H.
+
+13:49
+Det gør vi også her. For det der kommer ind her, er 1 minus 1 minus 1.
+
+13:57
+Det var en får, skrev han og udregnet det så ret kedeligt et sted i en kæmpe matrix.
+
+14:02
+Men man skal være flittig og gå i gang. Som skrevet noget så simpelt.
+
+14:08
+Jamen, jeg ved ikke, hvad det er. Når jeg har en definition fra determinanten, så bruger jeg det og propper mine snit med at strikke serien.
+
+14:17
+Så får jeg noget hvor 1 minus 1 gange 1 minus 1 og det der skal være enheder der er i minus to gange 1 minus to.
+
+14:27
+Så få sådan en regulations form. Der bliver et klarere eksempel, der slet ikke er klar endnu, men det er det da.
+
+14:45
+Og spørgsmålet er Hvornår er man færdig, når vi er nået hertil vores størrelse?
+
+14:50
+Her er to ganger to og har så kan vi så bruge vores første form.
+
+14:58
+Det er den, vi har skrevet, og her, når det er som determinanten på en slidt matrix, som er lavet to gange.
+
+15:05
+Sol er defineret, og så kan vi regne det hele ud, når vi har nået værelset.
+
+15:11
+Så det lyder ret besværligt, men vi kommer til at se, at man kan gøre det hele nemmere.
+
+15:20
+Men er det sådan her det starter? Så vi starter med indgange 1.
+
+15:33
+Så får du noget som afhænger af indgange 1.
+
+15:37
+Minus 1 Manfreds snit matricer. Og så videre end servicemeddelelse.
+
+15:49
+Bunden af vores regression og det er to gange to smølfe matricer.
+
+16:07
+Så stille med triste statsfinanser udredt os i den rækkefølge.
+
+16:20
+Hvor kan jeg? Så er der så noget vi skal vide.
+
+16:26
+Hvis det er det vi der står i ene ord fra et eller andet sted. Det vi skal vide, er faktisk svar på et ret vigtigt spørgsmål, det nu er valgt.
+
+16:38
+Bestemt ikke for at udregne det. Hvad så, hvis jeg tager den sidste eller den første?
+
+16:45
+Eller en helt anden række? Det kunne jeg også have gjort. 40 en sætning og den siger determinanten er uafhængig.
+
+17:09
+Den er uafhængig af valget. Valget af rækken.
+
+17:21
+Og faktisk er der så om man også stod for at gøre det hele.
+
+17:25
+I en række kunne man også have valgt den søjle, der stod for sig selv gennem udviklede determinanten efter st.
+
+17:39
+Søjle. Således solgte.
+
+17:47
+Så jeg skriver her, så det er godt at vide, at vi må gøre som vi vil, og det er så med en stor Matrix seere, som ikke har specielle egenskaber.
+
+18:08
+Hvis man skal bruge den for får mig, som jeg sagde, så bliver det et kæmpearbejde.
+
+18:12
+Men lad os lige prøve det med en lille tre gange tre matrix og se, hvordan det går.
+
+18:18
+Så vi kan anskueliggøre, hvad der egentlig sker her, så.
+
+18:28
+Vi tager denne her matrix. Den hedder det tre minus 1 og noget minus 1 og 4 og 1 og 2 og 1.
+
+18:44
+Hvis jeg nu skal bruge denne formue til at udregne determinanten hvilken?
+
+18:51
+En række vil vælge. Saglige på formlen Jeg skal ta elementerne i rækken og ganget op med noget.
+
+19:02
+Ja, den midterste del er nu den midterste.
+
+19:06
+Ja, det er så denne her. Det er sikkert den rigtige, det rigtige valg, så det er vores.
+
+19:17
+Ja. Er det minus to vore egne?
+
+19:24
+Så kan vi begynde at regne. Hvad får vi nemlig så vi bor, hvor OS Records Jordens former starter med minus én.
+
+19:36
+Så skriver jeg række taler ud over det jeg så så starter med Fyresdal, men det er en for garneret med det hele.
+
+19:46
+Men den 0. Og nu bliver nødt til at skrive den her snit med 3XN.
+
+19:55
+Den hedder A Hat. To 1.
+
+20:01
+Det vil jeg ikke udregne nu, for jeg er minus I oplevede i række plus to gange mod minus én hær.
+
+20:11
+Dette er jeg nu, Ellemann. Grave med sten matricen.
+
+20:20
+Derfor ser vi på bagefter og det sidste fod og så det tredje element.
+
+20:27
+Det her hedder fire, og tilsvarende ganger vi med den her.
+
+20:34
+Og snittene af Friggs, der hedder af to tre godt.
+
+20:40
+Så skal vi lige forstå, hvordan de her ser ud. Det vil jeg gøre herovre.
+
+20:50
+A hat to eh. Hvordan ser det ud? Jeg tager første del er det her element.
+
+20:58
+Jeg sletter den søjle og den række, der bliver tilbage, da tre minus en og to og et.
+
+21:10
+FORSKRIVER er næste når den hedder a to 2.
+
+21:17
+Og for at gå ud fra at det heller, men jeg slæber den anden søjle og den anden række,
+
+21:24
+der bliver tilbage, da jeg så en minus en og en og en til allersidst.
+
+21:37
+Så går herudfra, slæber den række og den søjle og den række for en tre fem so.
+
+21:48
+Så kan vi lige udregne determinanten der fra.
+
+21:56
+Det er defineret som produktet over diagonaler. Det er tre gange 1 minus minus minus 2 gange med minus 1, altså det gange det bliver 3 plus to sønner.
+
+22:14
+5. Der behøver egentlig ikke at gøre, fordi jeg ganger det op med noget her, så jeg skriver fra 0.
+
+22:24
+Det var bare som en øvelse her. Så kommer den næste i nat på er den her.
+
+22:33
+Den bliver en gang af 1 minus 1 gange minus 1.
+
+22:42
+Indgange minus 1. Det er en plus en.
+
+22:47
+Det bliver to, og til sidst har jeg det til med den her indgang og to minus en gang tre, og det er selvfølgelig minus en forskel.
+
+23:02
+De to tandlægen. Det bliver så nogle gange hvor der ledes.
+
+23:11
+Minut Se opløftende 4 1 Kaka med et seminar med dette to, og til sidst er Manu Sareen opløftet frem.
+
+23:23
+Bliver at sager minus fire gange to minus én når.
+
+23:34
+Skriver Plus minus fire som minus en lige se om jeg har regnet rigtigt.
+
+23:46
+Det har jeg ikke helt fordi forstå, at minusser så skal have et minus tegn herhen alligevel.
+
+23:55
+Og det jeg får er så 0 minus to plus fire.
+
+24:02
+Det er altså lige med to. Det her er determinanten, så det er ikke helt umuligt.
+
+24:09
+Når vi kommer op til fire gange fire matricer, så begynder der at blive ret besværligt med mindre for storm og nul taler på matricen.
+
+24:22
+Så det er faktisk også det næste eksempel.
+
+24:28
+De er ganske kort. Hvad nu hvis vi har en og ser sådan her ud?
+
+24:37
+Den er tre gange tre, og den har A, B, C, D, E og F fair og nul og nul og nul her.
+
+24:51
+Der er en matrix, som har en speciel form.
+
+24:55
+Vi kalder det for en triangulær matrix. Det vil sige en trekant, hvor matrix og jeg kan godt se hvorfor.
+
+25:06
+Det er fordi denne her trekant og ovenfor har inddrag elementer, som er ulige nul.
+
+25:16
+Så i det her tilfælde kalder man den øvre. Triangulær Manfreds, hvis du var omvendt, at det var lutter nåle og højere oppe, men ikke havde noget,
+
+25:28
+for vi vil kalde det en nedre triangulær matrix, så hvert determinanten for det.
+
+25:38
+Hvilken? Jeg række eller søjle.
+
+25:42
+Det kan man gøre noget andet lavet, sagde søjlen her begge en søjle skulle vi udveksle efter.
+
+25:48
+Det bliver nok først fordi der er 2 0 taler. Godt.
+
+25:55
+Så vil jeg skrive. Jeg starter med minus en, og for i første så det jeg gør det bare skriver søjle nummer ind i en +40 stil.
+
+26:08
+Men det er nummer et ganger med første element af Draco med den tilhørende snit.
+
+26:16
+Matrix for denne her. Det er dagen hvor jeg sletter.
+
+26:24
+Første række og første søjle der bliver tilbage.
+
+26:29
+Det er det her. Det er vores snit.
+
+26:32
+Matrix A 1. 1.
+
+26:40
+Så går jeg videre til næste bus tog og det er ganget med 0, så rykker ned og fejlene.
+
+26:49
+Og så står øverst. Tog en.
+
+26:59
+Og det samme sker her. Vi har noget af det.
+
+27:08
+Med denne her slippe med at sex med dem behøver vi ikke at udregne, de går ud, for det hele bliver bare minus en opblødes i to.
+
+27:16
+Det er en gakket a. A ganget med determinanten af det, der er tilbage her.
+
+27:23
+Det var denne her stil matrix. Du skriver lige ned igen, og det ved vi er det jeg produktet over diagonalen gange f.
+
+27:34
+Minus nul gange e. Så det hele bliver bare nogle gange ganger f.
+
+27:44
+Så I kan se i dette tilfælde hvor udregne dejlig nem.
+
+27:50
+Hvad er det her nemt? Det er bare produktet over hele diagonalen adgang begynder F.
+
+27:57
+Og faktisk forholder det sig sådan for alle slags matricer, som er triangulære.
+
+28:03
+Det vil sige, hvor alt under diagonalen er nået eller over diagonalen er nul.
+
+28:09
+Før produktet af de journalerne, der giver os determinanten for matricen.
+
+28:18
+Det er for nemt at se for svin nu startede med noget der var lidt større.
+
+28:23
+Så at sige. Det var en fjerde gang, at firmaet frøs, og der stod noget højere end.
+
+28:36
+Der står følgende. Og så har vi. Opfyldt med Bozdag, som fører SAS fly hver dag fra alfabetet.
+
+28:49
+Så ser det sådan her ud, så gør jeg det igen.
+
+28:52
+Jeg udvikler efter første søjle. Det bliver kort a gange den mine med dens snit matrix, fordi alt her nåede det nul.
+
+29:01
+Det behøver ikke er så med og på. Så går jeg videre og udregner determinanten på den snit.
+
+29:08
+Matrix. Jamen, her er der sker det samme. Alt nedenunder.
+
+29:12
+Der fyresdal med 1 0.
+
+29:14
+Det behøver jo ikke at tage med, så tager imod og udregner så til sidst determinanten af denne to gange to matrix fra ho ho gange j.
+
+29:25
+Fuld fart determinanten. Så bliver det også a gange i flokke på gange.
+
+29:33
+Det er de her diagonale elementer. Så kunne man gøre det endnu større og så videre.
+
+29:39
+For især I får den regel, at det altid må være så. Spørgsmål.
+
+29:52
+Vi går så videre med to fly.
+
+29:59
+Det jeg så mangler, er i dag. Det er jo bare lige få sammenfatte det, vi lige har set.
+
+30:05
+Det var, at hvis vi har en kvadratisk matrix, som er triangulære, øvre eller nedre,
+
+30:11
+så så det determinanten givet ved produktet af de her diagonale elementer.
+
+30:18
+Det er jo smart, hvis vi ved det, for der er noget, vi lærte i de forrige uge,
+
+30:26
+og det var den der Gauss reduktion ville kunne bringe en matrix på en trappe.
+
+30:32
+Og hvordan var den karakteriserede? Den indeholder masser 0'er og helst kun på diagonalen.
+
+30:40
+For hvis vi ved hvordan vi udregner determinanten, mens vi udfører en række operationer,
+
+30:47
+så kan vi benytter os af det og reducere den matrix H Gauss reduktion og så udregne
+
+30:55
+determinanten ganske billigt i stedet for at bruge denne her besværligere form,
+
+31:01
+vi lige har diskuteret.
+
+31:07
+Goldman og det korte af det lange er at vi har de tre række operationer var et bytte, to rækker vil sige gøre det, så skal vi skifte fortegn.
+
+31:17
+For hvis vi får B ud af, vil den række håber jeg så for skifter fortegnet, hvis vi ganger en enkelt række.
+
+31:25
+Så skal vi gard determinanten med den samme værdi op.
+
+31:30
+Til sidst havde vi den mest indviklede række operation.
+
+31:34
+Det var, at vi tog en række, og det er jo en anden række er J.
+
+31:41
+Der jo med en eller anden faktor K. Og hvis vi gør det, jamen så bliver forbliver determinanten det samme.
+
+31:50
+Så det vil sige alt det vi skal gøre, er at udføre de her række operationer og huske, hvilke alle vi har udført,
+
+32:00
+for det vil givetvis forandre determinanten med et rumfang eller en faktor quo i det værste tilfælde.
+
+32:07
+Så det skal ikke glemmes. Så var der en næste sætning.
+
+32:21
+Som måske ved. Og skal lige se om jeg ikke skal hellere tage et eksempel.
+
+32:37
+Det har jeg så vidst. Når jeg her.
+
+32:42
+Okay, så vi kan jo lige illustrere den her algoritme med række operationerne før vi kører videre.
+
+32:51
+Så. Med, men smadrede det her der ramler eksempler.
+
+33:03
+Og vi husker lige det var den som en anden tog fik John F.
+
+33:09
+Faktisk for siger vi hvid. Vi bruger bare det samme eksempel som før.
+
+33:14
+For det skulle jeg slet ikke have været skrevet. Det var sådan her og.
+
+33:23
+44. Det var dagen med sex der var givet, og før fandt vi, at determinanten var lig med to.
+
+33:32
+Ved at bruge denne regulations form. Det gør vi ikke.
+
+33:36
+Nu står for, siger vi. Jamen, vi reducerer dem Gauss og er nok det, der giver mest mening med det samme.
+
+33:46
+Det er, at vi som 43 strejke fra den seneste.
+
+33:49
+Så får vi nulstillet hær som vi gør, som er tre minus er 1, og om vi kan se, at hvis vi gør det, så skifter vi fortegn.
+
+34:02
+Så skal vi lige se på bagefter, men i hvert fald vil vi få den her matrix, som ser sådan her, ud som et nul tal.
+
+34:12
+Så har vi et 2 minus tre, der bliver minus 1 og 1 minus minus 1.
+
+34:18
+Det bliver så 2. Ja, så gør vi det engang selv.
+
+34:32
+Og hvad er det vi skal have, at vi skal have noget noget andet her, så vi kan slugter her.
+
+34:37
+Den anden række fra den tredje. Det vil sige er 3 minus er tung.
+
+34:45
+Så kan vi skrive det her, når hhv.
+
+34:51
+De første to rækker Sonne og 1 0 og 0 og 2 minus 4 det bliver minus to.
+
+35:02
+Nu går vi slet ikke videre, for vi har fået en triangulære matrix, og det er for så vidt tilstrækkeligt for at få determinanten ganske billigt.
+
+35:15
+For hvad er den nu? Nu skal vi lige holde øje med.
+
+35:19
+Vi har som toer herover en række folk med anden.
+
+35:24
+Og det er noget sludder. Jeg sagde før det her sted i række operation vil skifte fortegn.
+
+35:29
+Men vi er det ad en række til hinanden, og for sker der intet. Og det har vi gjort to gange.
+
+35:36
+For hvad er nu? Hvor også.
+
+35:44
+Spydigt kalder dagen matrix for skal vi kalde den af lange reduceret to gange.
+
+35:54
+Men ved at danse i natten af den oprindelig med tre stænger lige med determinanten for den her måde,
+
+36:03
+at vi overhovedet ikke har benyttet os af en og to kunder, er den fryde.
+
+36:10
+Og det er så en grand minus en fange minus to.
+
+36:20
+Og I kan se. Det bliver også to dage den gang.
+
+36:25
+Så det var da meget lettere. I hvert fald kan jeg sige at de kan bruge, når I allerede har lært og ikke behøver at lære meget nyt.
+
+36:35
+Det har Grand tal og Gauss Causeway.
+
+36:39
+Du sidder med frisk vokal. Så der lige.
+
+36:47
+To ting fundet tre ting der skal tilføjes. Borgerens sætning den hedder så følgende.
+
+36:57
+Hvis du har en matrix, der bare indeholder en 0 række fordele, er fyld kun med 0'er.
+
+37:05
+Så vil determinanten være nul. Den er forskellig fra nul.
+
+37:09
+Den er ikke forskellig fra nul, og det er jo meget rart. Det kan man se med det samme som færdig.
+
+37:16
+Og hvad er forklaringen? Vestre er en by, hvor række sådan en matrix, hvor der kun er numre.
+
+37:26
+Jamen, så vil vores tilhørende terapiform også bestå af en matrix, der har en form, hvor der er en række nuller.
+
+37:38
+Så kan vi se sådan. Lad sige, det var denne her matrix, der var givet.
+
+37:45
+Når en eller anden række er fyldt med numre, så ved vi, at den kan ved hjælp af Gauss skrives om.
+
+37:56
+Jeg må smide denne række ned i aller sidste og køre videre her.
+
+38:04
+Men den vil blive stående dér, medmindre jeg gør noget dumt undervejs, og i dette område rækker jeg selv.
+
+38:09
+Men det er der jo ikke nødvendighed for at gøre.
+
+38:15
+For det vil sige, hvis vi så får. Noget højere end vi reducerer videre, så vil der stadigvæk være denne her række nuller.
+
+38:30
+Og så skal vi bare gange diagonal elementerne op.
+
+38:33
+Der er altså et her, der hedder 0. Og derfor må determinanten også blive noget større på den måde.
+
+38:41
+Det hænger sammen. For vi.
+
+38:49
+Den meget vigtige sag, mens vi har en matrix A.
+
+38:54
+Og den er kvadratisk, og vi finder, at den har man fuldt ram, der vil sige, at rangen er enden.
+
+39:02
+Det vil sige så stor som den givet matrix, så er det ensbetydende med, at determinanten er lig nul.
+
+39:12
+Og i lige måde ser vi at stranden ikke er fuldt på sedimenter.
+
+39:18
+En forøvede over os med ærefrygt, sengen Guldager. Det har vi lært. Det er ensbetydende med, at determinanten er nået.
+
+39:27
+Det vil jeg også lige. Det er egentlig baseret på arbejde, forklarer som før.
+
+39:38
+Bare at de vil gøre det lidt mere alment.
+
+39:44
+For det her. Det var en mellemregning vi slet.
+
+39:57
+Det er for ånden at. Vi laver en fase der former en overvejelse med hensyn, så den her sætning.
+
+40:10
+Det er det så vi har en eller anden matrix skive. Frigav man Skaun, så reduceres.
+
+40:25
+For trapezformet har det ikke at bevise det er bare for at give en intuition noget om det og den fare på om den kan så se så noget,
+
+40:41
+at der er nogle elementer på diagonalen og alt neden for.
+
+40:47
+Det skal jo være noget, hvis det er på trapper form, og så kan det være, der står nogle ting op, hvor jeg står nu.
+
+40:59
+Så står det sådan her, skal alle og ovenfor også være 0. Men hvis der er et andet element, som måske er nul, så kan der opstå noget heroppe.
+
+41:07
+Det var sorgen fra reformen sunget. Hvis vi så udregner determinanten på det her, så ved vi hvad jeg så rangen er fugle.
+
+41:20
+Så skal der kun være lavet med et salg her. Og determinanten af sådan en matrix vil så være forskellig fra en ung.
+
+41:39
+Og i det andet tilfælde præsterer men regningen en forstår jo mindst et nul her på diagonaler, så derfor må determinanten være nul.
+
+41:54
+I det tilfælde. På Krim. Det var søm, hvor vi lige har set på.
+
+42:12
+Det tilhører det forrige center Harpe. Det var for så vidt alt den teori jeg vil have fortalt, så jeg foreslår en hel liste med nogle egne regler.
+
+42:26
+Dem vil jeg gerne lige nævne, fordi de vil være en vigtig gruppe så mange i dag, og de er selvfølgelig fortsat vigtige i jeres liv som ingeniør.
+
+42:36
+På et tidspunkt og efter det blev vi så afsluttede denne her time med Mabel demo.
+
+42:47
+Så hvad hedder vi når regler? Det er også nogle regler der kan forstås, i hvert fald nogle af dem på baggrund af det, vi lige har lært.
+
+43:02
+Og de er meget nyttige fordi de sparer en masse arbejde. Nummer et.
+
+43:38
+Men så vi har et produkt er to matricer. Og ved udregne determinanten.
+
+43:46
+For det er simpelt hen givet ved determinanten af den ene matrix, der har noget med determinanten af den anden.
+
+43:57
+Det er lidt sværere at vise, eller det er ikke så nemt at se, hvorfor det er sådan med det samme.
+
+44:05
+Men den rigtige konsekvens er jo, at det som at bytte de to rum de to faktorer.
+
+44:16
+Og det ved vi ud fra det. Det må så være determinanten af begge arme af.
+
+44:25
+Det var let at se. Så vi må gerne bytte.
+
+44:29
+De to mænd træder over nummer to.
+
+44:37
+Det kunne vi jo så gøre. Hvis vi nu ved, at vi er sikre på en matrix, som har en eneværelse, fører den som sådan ikke at have.
+
+44:49
+Men Vesten har det, så kunne vi jo bruge den form. For det første så ved vi at dette produkt adgange investerede i Enheds matricen.
+
+45:05
+Det er definitionen på den inverse. Hvordan sagen indledes med at trykke så ud.
+
+45:11
+Det er en diagonal matrix, hvor alt fra 0 foretaget for diagonalen.
+
+45:16
+Den har nemlig et taler. Så det er lige med et at klage.
+
+45:26
+Jamen så kunne vi jo også bruge denne her regel, altså det. Det er den som i nat.
+
+45:32
+A grand determination a enhvers.
+
+45:38
+Og det ved vi da lige med en. Og har jeg nu sige, at af en anden årsag, så ved jeg hvad.
+
+45:50
+Determinanten af er og skal jo udregne det samme for den inverse.
+
+45:55
+Så kan jeg opløse den her ligning, så får jeg.
+
+46:02
+Det er her denne her genvej. Okay, så er der hvis jeg ganger med den determinanten af A er det samme som determinanten for den transponeret.
+
+46:30
+Og det kan vi forstå på basis den sætning er nævnt helt i begyndelsen, at uanset hvilken række.
+
+46:39
+Rækker Wolfson. Eller hvilken søjle foran.
+
+46:44
+Samme dag som i nan, så det antyder at det også må transponeret den med, for så få er det.
+
+46:56
+Så har vi i hvert mistet. Vi kan ikke gøre andet end Matrix, og jeg skal selvfølgelig husker.
+
+47:03
+Det gælder kun denne med den inverse A6, der gælder kun hvis determinanten af a er ulige nul.
+
+47:21
+Forældreskab skal ikke dvd'er med. Her. Og.
+
+47:32
+Faktisk. Det vil ikke talt om endnu, men da terminalen er forskellig fra nul, så det og så følger der også er dem Matrix kan invaderes,
+
+47:43
+og det kan man jo faktisk se ud fra denne her beregning, at der må være noget, der går galt, hvis determinanten er nul.
+
+47:53
+Så kan vi heller ikke udregne terminalen på den inverse. Det går galt.
+
+47:59
+Hvorfor var der ikke andet end at stille sig et andet spørgsmål, når man cigarer på med en fælles foragt for sedler,
+
+48:05
+så inddrager jeg og ganger på med se, så bliver det se opløftet i antallet af rækker ganget med den, som en anden af får dog også.
+
+48:20
+Selvfølgelig kan man se på en sum af matricer. Altså jeg ved det.
+
+48:26
+Det er måske lidt kedeligt, men det er godt at have set de regler. I hvert fald en gang sukkende.
+
+48:34
+Det bliver summen, som hinanden holder op i så meget vækst, vi vil, udregnes det til hinanden på en eller anden matrix opløftet i kog.
+
+48:49
+Så der som fortælles af en matrix a Grand Yacht A.
+
+48:57
+Og det gør Eco gange. Det er for så vidt meget nemt.
+
+49:09
+På spørger mig en masse arbejde. Er det ikke helt rigtigt?
+
+49:15
+Det var ikke det den skal. Det var her masser at arbejde og spare vil jeg ikke.
+
+49:21
+For det er meget nemmere at gange et enkelt sagligt og opløftet i kog end at gøre det med matricer, som er kæmpe stort.
+
+49:31
+Det er altså ikke kun vægte for at omregne. Det sker også, når EL skriver simulationer.
+
+49:37
+Polske Gard får noget løfte af den matrix som er 100 gange 100 og står i kogende potens.
+
+49:47
+Det koster dyrt. Så gør jeg det forstod for det her.
+
+49:51
+Det er meget billigere at udregne. Det sparer masse for at regne ud, hvor den allersidste og så en matrix.
+
+50:03
+Hvis vi nu havde en stor matrix, som er opdelt i blokke.
+
+50:09
+Det skriver bare sig. Så det er en del matrix A, B og C og indeholder noget, der er vægtet så determinanten her ledende figur mellem A og B.
+
+50:29
+Se på det stak som stemmerne.
+
+50:44
+Okay. Så har vi en lille mage, blev damer og velfortjent pause.
+
+51:11
+Den som en anter hvor. Vi starter vores Mapou work shit med ledninger afsøgte parken,
+
+51:27
+så der er en fjerde gang at 4G med et tryk vi gerne vil definere, og den ser således ud, at den har masser.
+
+51:34
+Noget taler for diagonalen, og den er asymmetrisk og for selvfølgelig har man et mantra for at udregne determinanten i et slaw.
+
+51:45
+Hedder de terminalen, og det er minus 35, så går vi selvfølgelig simulere vores,
+
+51:52
+da jeg kunne se solens form ved at opskrive snit matricer og udvikle for eksempel efter første række, fordi der er nul her.
+
+52:02
+Selvfølgelig har jeg eller andre rækker og stem, så vi skriver nogle gange snit matrix 1.
+
+52:11
+Der står hernede. Så skifter vi fortegn. Det er jo det.
+
+52:19
+Så informer går ud på, for hver gang vi går videre til den næste, eller skifter vi fortegn.
+
+52:24
+Husk det. Og det er nummer to gange snildt matricen optimalt.
+
+52:32
+Det tre gange det andet snit matricen minus fire gange.
+
+52:39
+Determinanten af slidt med Fressen og æbler og kumpaner hvad så med sex?
+
+52:46
+Det tror vi har se denne gang. Allerede der kan man så pille en del af den matrix ud, for eksempel snildt Matrix 1 1.
+
+52:54
+Det er så fra 2 2 til to, 2 til fire og to til fire.
+
+52:58
+Det er det, der er skrevet første og så videre, og så så gør det rigtige.
+
+53:04
+Så får vi bragt det samme resultat som tidligere.
+
+53:11
+OK. Så kommer den anvendelser for determinanten.
+
+53:17
+Vi starter igen. Og det vil vi undersøge det.
+
+53:21
+Et lignende system, som har en koefficient matrix, der ser sådan her ud, er en lille smule størrelse,
+
+53:29
+så det var lutter 1 og A på diagonalen, og der er en højreside, der hedder 1 1 1.
+
+53:35
+Og hvis vi smider det ind på Mabel, så antager den faktisk altid, at det her, der står for diagonalen, er et eller andet, der er alle mulige.
+
+53:50
+Så alt dækket 0. Det kan være 15 20 og så videre.
+
+53:54
+Så ud fra det svarer mig bare med, at rangen af det Matrix' er tre.
+
+54:02
+Men det behøver jo ikke at være. Det kan jo være, at visse værdi vil vi noget andet.
+
+54:09
+Du kan også se besvime, men før vi gør det, så prøver vi at løse den her ligning system,
+
+54:15
+og vi får såmænd også en løsning, der ser sådan her ud, og vi kan straks se, hvis af er minus to, så må det gå galt.
+
+54:23
+Så er der noget, der går mod uendelig. Her inde.
+
+54:29
+Så vi kan jo se på om Harvard nødvendigvis er tre.
+
+54:34
+Vi havde jo en sætning her, at hvis A har fuld rang, så må det til natten være ulige 0.
+
+54:44
+Og omvendt er der også, så det giver jo straks mening at se på den terminalt.
+
+54:49
+Hvis den er nul, så kan du ikke være maksimalt. Hvis I siger vores eksempel, er der ikke tre føderale, og det får vi også det symbolske udtryk.
+
+55:00
+Det kan vi løse for for få og tre råder minus to og én, som har multiple sitet 2.
+
+55:12
+Det vil sige, at den løsning vi har udregnet før, hvor man blot troede, at rangen altid var 3.
+
+55:19
+Der kan komme Galvez af forskellig fra de værdier. Skal vi så se på de sære tilfælde?
+
+55:30
+Vi kan jo så tage vores matrix og indset, at Lille er lig med en.
+
+55:37
+Så får vi denne matrix, så kan vi med det samme se den, kan Gaudis reduceres og 2 0 rækker,
+
+55:43
+og determinanten må derfor være nul, og vangen er altså ikke maksimal.
+
+55:52
+Men både højresiden. 1 1 1. Så branchen er total matricen.
+
+56:00
+Den bliver så også, at det ser vi så ikke her. Men hvis vi skrev den ned.
+
+56:12
+Så startede vi jo altså med den portal med tryksager, der hedder 1 1, 1 1.
+
+56:19
+Og så står den 1 1 var der kun 3 1 og her.
+
+56:28
+Så. Så rang af rang.
+
+56:45
+Fortalt Matrix, det er lige med det.
+
+56:49
+Det er lykkedes barsel, men har to frie parameter, og det er selvfølgelig for så vidt også det vi får ud af Mabel.
+
+56:57
+Så kigger vi på det sidste. Tilfældet er minus tog og prøver at løse det.
+
+57:03
+Og vi får så en fejl i hovedet smidt i hovedet, da vi forstår, hvorfor det er, og vi udregner, så Traberg får former for totalt matricen.
+
+57:16
+Og så kan vi se, at koefficient matricen bare skiller sig ud fra totalen.
+
+57:22
+Matricen lige her. Altså bare to årig må fortalt.
+
+57:26
+Matricen har en tre større, og vi ved, sådan et system er ikke lykkedes.
+
+57:33
+Og hvis der ikke kan, udstedes vi altså se det.
+
+57:35
+Hvis vi kigger på en sidste række 0 0 0, da jeg så, der ganger med X en gang, er nul plus exit to gange 0 +6 tre gange.
+
+57:44
+0 skal lige være bedre lige med 0. Undskyld en flere højreside her.
+
+57:50
+Det kan dog ikke lykkes. 0 lige med 1 er vores lod vugge.
+
+57:58
+Det var denne her demo. Så er der pause, og vi starter igen om et kvarters tid.
+
+1:11:19
+I hvert fald. Jeg lukker slet.
+
+1:11:40
+Til. Jo.
+
+1:12:30
+Mens man venter stort set aldrig freden, så fortælle jer hvad der står på bordet.
+
+1:12:40
+Svaret til. K.
+
+1:12:50
+Jeg tror at folk lige så stille ved at samle sig igen.
+
+1:13:02
+Vi vi er nået til anden time.
+
+1:13:06
+Jeg vil starte med ganske kort reportere og eget geometriske vektorer i planen og rummet.
+
+1:13:15
+Det gør vi uden koordinater. Det er bare lige for at huske, hvad det hele handler om.
+
+1:13:20
+Så kommer så meget vægt, definition, og det er det, der er kombinationer af vektorer,
+
+1:13:27
+og hvad der betyder, hvornår et sæt af vektorer er lineært uafhængigt.
+
+1:13:33
+Og det er et begreb vi behøver for at kunne forekomme eller definere en basis i et rum eller i plan og basis.
+
+1:13:44
+Det er det, vi skal bruge for at kunne måle koordinaterne på en vektor.
+
+1:13:49
+I det hele sad ved i det hele.
+
+1:13:54
+Og til sidst kvinde må vi lige, hvordan man skifter koordinater fra den ene basis til dagen, og om det kommer så også Mabel.
+
+1:14:08
+Der vil være eksempler i magi på fredag.
+
+1:14:12
+Bare lige for at sige det. Der har vi så videregående diskussioner om hvad.
+
+1:14:18
+Vi gennemgår prick og krydsproduktet. Projektioner af vektorer får hinanden,
+
+1:14:27
+og så kigger vi igen på de uafhængige for at udvikle det begreb med videre og tænkte mere over bagefter og flere ting hvor.
+
+1:14:37
+Men så det her og resten af artiklen foregår på tavlen pånær Mabel.
+
+1:14:44
+De er det så de giver mest. Så skal vi ikke Tore, vi skal se på.
+
+1:14:49
+Bare lige få defineret, hvad vi forstår under af en vægt.
+
+1:14:52
+Så det er altså en skematisk vægt.
+
+1:14:59
+Så er det det samme hørende par af længde og retning.
+
+1:15:19
+Og denne her grammatiske værktøjer kan skrive dem ind som symbol med en pil oven for og nogle gange.
+
+1:15:30
+Så vil vi også få vores matrix søjler væk sådan notation, altså med en streg nedenunder plads side inden for hr.
+
+1:15:43
+Og reproduceret repræsentationer sessioner af en vektor et eller andet.
+
+1:15:55
+Så a 5 kan vi tegne lige så punkt, og derfor vælger vi en retning, og for der er en hvis længde for tilhører.
+
+1:16:10
+Så det vil være en repræsentation af den vektor.
+
+1:16:14
+Det er for så vidt ligegyldigt, hvor vi tilegner den hende med, så tegner, så forskyder den sig et andet sted.
+
+1:16:21
+For siger vi, at det er den samme vægt, så plus selvfølgelig også starter her.
+
+1:16:26
+Så længe længden og retningen er den samme, så de identiske.
+
+1:16:33
+Så det er ikke en pige, der skal starte eller et bestemt sted.
+
+1:16:41
+For det er det, vi anser som en vektor. Så skal vi lære at regne med det, der forskyder lige som en lille øvelse hen her og så få mere plads.
+
+1:16:51
+Og hvad skal vi regne med, skal det være? Vi skal kunne have det og med to ord og så.
+
+1:17:09
+Der er en sum af plus B og svedige starter med at Papa Tore kunne være det.
+
+1:17:22
+Den her får a, fire også eller B, så vi har et eller andet som hvad der hedder A.
+
+1:17:30
+Her og en der hedder B. Hedder noget. Så får vi jo lov til at forskyde den, som vi valgte, da vi lige har sagt, og vi gør det så.
+
+1:17:41
+Således starter vi med punkt på hver side.
+
+1:17:45
+Bag ser savnede, og så har jeg en ret kort værktøjer.
+
+1:17:52
+Det kan være, at vi skal lave nogle lidt længere, for at der bliver lidt klarere.
+
+1:17:58
+Sådan nu har vi nogle ordentlige værktøjer, så den bliver længere, og den også.
+
+1:18:12
+Så gør vi det, at vi samler dem her med samme startpunkt nummer ét.
+
+1:18:18
+Så flytter vi af med et tårn. Her åbner han sin start i enden af B.
+
+1:18:27
+Og det samme gør vi med B. Så får vi sådan et parallelogram, og så må jeg altså.
+
+1:18:37
+Det der forbinder vores startpunkt med enden af det her parallelogram.
+
+1:18:48
+Så der er sikkert noget mange kender, men det var altså faren med startpunkt og den parallelogram.
+
+1:19:06
+Så kan vi definere dagen, så derfor siger jeg hvad skal vi ellers kunne nå, så det er måske lige vigtigt at genkalde.
+
+1:19:19
+Altså uanset om det er A+, B eller B Plus, så kan A, så kan man se ud fra her.
+
+1:19:27
+Denne skitseret. Det må være det samme, så det kommer til at se ud.
+
+1:19:31
+Siden vekslede det ene, siden skal. Så kunne vi jo også få en bog, og der er mange sådanne værktøjer med tal på,
+
+1:19:46
+hvor det svarer til den strækning af var stuerene er den her vel ikke for.
+
+1:20:02
+Så vi starter måske med vores Victor A Fair, og vi ganger den med K ganget af.
+
+1:20:12
+Det kunne jo se ud på forskellige måder. Det er min oprindelige vægt, for så er der.
+
+1:20:22
+Tre muligheder enten. Her, men konstant større end 1.
+
+1:20:32
+Det betyder at resultatet bliver strukket.
+
+1:20:45
+Eller det er noget mellem nul og én for bleer med en vækster stuvet.
+
+1:20:59
+Og til siges Smedens Co. Den negative tal forbliver så.
+
+1:21:08
+Forretningen omvalget. Det er stort set som vi regner i disse dage, og så er en vigtig ting, man kan gøre med det.
+
+1:21:22
+Vi kan opløse en vækst, så med hensyn til eller efter man kan opløse en væg, så er der to retninger og den der ikke skal have a.
+
+1:21:50
+Eksempler. Okay, så.
+
+1:22:06
+Hvis vi nu har gidet. To retninger.
+
+1:22:13
+Derudover er væk til water og gearet angiver indramning, så vi kan lige så godt se hvad de skal hedde.
+
+1:22:19
+B og C og vi samler eller vi har givet en tager den H.
+
+1:22:27
+A. Og nu parkerer jeg så B i den her lidt kortere i denne her retning og lad os sige se den her.
+
+1:22:41
+Så er opgaven således, at vi må skrive af som en summen af B og C.
+
+1:22:51
+Så det første vi gør det er at forskyde A, B og C, så de samles med samme startpunkt.
+
+1:22:57
+Så kan vi forlænger de her vektorer. Og så kan vi forskyde Vatsadze, så den lige rammer herhjemme.
+
+1:23:08
+Men det samme kan gøre med B, som rammer en højere heroppe.
+
+1:23:14
+Så får jeg igen et parallelogram for at gemme skæringspunkt og her og hér.
+
+1:23:22
+Og bestil min oprindelige vægtere og se her, så er den samlede længde her.
+
+1:23:29
+Det svarer til en strækning af min vægt, så det vil jeg kalde kort to gakket C, og det bliver så valgt så for jer selv.
+
+1:23:46
+Og det samme gør her, når jeg kan strække min vægt bag skranken heroppe.
+
+1:23:51
+De stod for. For få er her.
+
+1:23:57
+En gang bag og det bliver væk, så det her salg og vi ved, når vi forskyder den herud.
+
+1:24:06
+Jamen så får vi ellers den sorg, der giver os. Så vi kan skrive at A er lig med K 1.
+
+1:24:17
+Så det Pruszkow t go to gange.
+
+1:24:21
+Se alt det vi skal finde ud af. Det har selvfølgelig været K et og CO2 skal være det vores mål, og det er også sådan set det regnestykke,
+
+1:24:31
+vi kommer til at bruge, når vi skal skrive en væg, så med koordinater med henset som basis.
+
+1:24:39
+Så kan man forestille sig B og C er basis og koketterer kun to svar til koordinaterne.
+
+1:24:45
+Det kommer vi til at se på. Det var bare for at pege forude. Hvad der kommer senere i dag.
+
+1:24:54
+Så vi har mulighed for at vejen med tog.
+
+1:25:02
+Men vi mangler lige en lillebitte ting, og så kan vi endelig gå i gang.
+
+1:25:07
+Vi er næsten klar til at bruge den, men vi har det problem, at hvis vi skal tale om store vektorer, så har vi.
+
+1:25:15
+Ingen referencepunkt. Vi skal starte et sted for at komme i gang med noget før.
+
+1:25:26
+Hvad jeg mener. Der følger.
+
+1:25:44
+Hvis nu vi har den opgave at beskrive en lige linje over den lige linje, skal beskrivelse af vektorer.
+
+1:26:03
+Hvordan ser det ud? Altså en lige linje er den lige linje, og den kalder vi for alle, og vi vil gerne beskrive mængden af alle punkter på den linje.
+
+1:26:15
+Vi vil sige, at man er med tiden. Så bliver vi nødt til at have en vægt, så der går over langs med den ligelønnen.
+
+1:26:22
+Jeg tror det, at vi i stand til. Vi kan vælge en hær, eller vi kunne ligeså godt have valgt en hær.
+
+1:26:28
+Det er den samme vægt. Men vi bliver nødt til at pege på et startpunkt et eller andet på en lige linje.
+
+1:26:38
+Det gøre sig for ånden at indføre ord i går her, og lad os sige, at jeg tager den her værktøjer, for så får en vektor.
+
+1:26:50
+Herefter peger punktet p på den lille inden. Og det kan jeg startpunkt og bundlinjen der hedder at nul.
+
+1:27:00
+Og så kunne jeg komme her taler et lavere punkt på P. Matematisk skriver jeg alle er den mængde af alle punkter.
+
+1:27:16
+Hvor om gælder, at vi vil komme herhen for at.
+
+1:27:23
+Denne vægterne hedder nul p, og det skaber vi så om at vi skriver om start og enden og pil hen over det herlige lige med den her reaktor plus p 0 p.
+
+1:27:49
+Og det er den vi må gange med en eller anden Constand, der er den, der kan strækkes det ugleset at vende sig om.
+
+1:27:57
+Det vil sige, at K og så alle mulige foræller salg.
+
+1:28:08
+Hvor kø vil være andet eksempel. Det kunne jo være, at S-tog for gerne vil have et bestemt afsnit af en linje.
+
+1:28:21
+Jeg vil beskrive de linjer. Undskyld, jeg vil kun beskrive det i punktet mellem punkt p 0 og P eller for at gøre det klarere,
+
+1:28:31
+der kalder dem B og A, og jeg vil ikke have alle andre punkter med på den her linje.
+
+1:28:45
+Så kan jeg gøre det tilsvarende. Det er mængden af alle punkter i planen, hvor der gælder, at det de her stod vektorer 0 p.
+
+1:28:58
+Det var med så megen vægt, så der plejer at se fra år til af og fra A til B.
+
+1:29:08
+Det er det vi lægger selv fra A til B, og det er selvfølgelig den vægt, så der går hele vejen hen, men vi skal også have dem mindre.
+
+1:29:23
+Så vi bliver nødt til at kunne stuve stenvægge sammen med en konstant kode.
+
+1:29:30
+Og hvad skal der gælde, om DK må være større end en ligeværdig?
+
+1:29:42
+Ja. Nej, hvorfor? Hvis kår og længere hvis kår er større end 1, så vil vi ramme punkt længere henne end B.
+
+1:29:53
+Og det valg vil jeg ikke måtte være negativt. Da heller ikke for sølvvinder vil jeg om så vi herude den.
+
+1:30:04
+Dette afsnit vi skal have og derfor er så k lige mindre lige ind eller også større lige med nul.
+
+1:30:15
+For det er det der definerer stemninger ved en træning, så det var grundbegreber.
+
+1:30:25
+Til det, så kommer det dog lidt sværere og nyere det ligner afhængighed og senere uafhængighed af vektorer.
+
+1:30:39
+Folk en. Okay så.
+
+1:30:47
+Det ved jeg faktisk. Du tror at vi kan.
+
+1:30:58
+Kan du godt glemme det her og så bruge de to tavler her med stå for.
+
+1:31:06
+For at introducere det nye begreb. Så skriver jeg i parantes uge.
+
+1:31:22
+Har afhængighed af vektorer.
+
+1:31:32
+Og vi starter med definition før vi når frem til vanligt, og det er en linje at.
+
+1:31:48
+Kombination af. Et sæt fik sågar lavet et sæt ved et.
+
+1:32:04
+Det forår hvor der skal være i alt 18 styks, er.
+
+1:32:15
+Summen fra ved ét og ganger det med en konstant kog, et far ved et tog og garnet med en konstant og så videre.
+
+1:32:30
+Dette er en lineær kombination, og det skal forstås sådan at K, s, k tog og så videre.
+
+1:32:42
+Det er reelle tal. Det laveste.
+
+1:32:50
+Det er dog nemt at forstå for krager bedre og lidt sværere. Sæt flexor igen.
+
+1:33:10
+Og de hedder Mimer og afhøring et.
+
+1:33:22
+Bedre live afhænger altså ikke uafhængige og behøver afhængigt hvis mindst en af reaktorerne.
+
+1:33:33
+Mindst en af reaktorerne kan skrives som som alle andre vil søge at sige, der kan skrives som lineær kombination.
+
+1:33:58
+Er de andre vigtige ord. Det er det vi taler om i dag.
+
+1:34:08
+Det kan vi. Vi kan skrive den påstand om. Det vil sige, at hvis jeg kan tage nogle af de her vektorer og skrive det som en sorg,
+
+1:34:17
+og de andre forstår jeg for eksempel K skal rokke ved et lige møde.
+
+1:34:27
+Og nu skriver på denne mærkelige måde. Først. Spillet havde et minus resterende som alle andre vectoring,
+
+1:34:42
+og jeg var i stand til at skrive ved et VM og garner med nogen, men det er ensbetydende med, at jeg siger, at på et.
+
+1:35:02
+Er lig med nul. Og det er så vigtigt at.
+
+1:35:11
+De konstanter ikke bare nul. Forældre skal jo ikke skrive det som en sum.
+
+1:35:33
+Vi har to eksempler for illustrerende. Bog nummer ét.
+
+1:35:41
+Og det hedder at vi tager to vektorer v en hær og vel to.
+
+1:35:49
+Og spørgsmålet er, at ved et valg i to linjer afhængige af hinanden.
+
+1:35:57
+Med trøje. Ja, det er det.
+
+1:36:05
+Hvorfor tog du i stedet?
+
+1:36:12
+Det er nemlig rigtigt. Man kan vælge at gå, at ved et prajer eller ved to peger en anden retning og får nøjagtig samme længde som ved et.
+
+1:36:28
+Så de er parallelle. For eksempel 2.
+
+1:36:47
+Så er det ikke parallelle, er vi nu helt afhængig?
+
+1:36:52
+Nej, det er det ikke, for det er umuligt at skrive det her.
+
+1:37:02
+K. Findes det ikke?
+
+1:37:08
+Det svarer til at tænke på det med et enkelt winning system.
+
+1:37:13
+Der er ingen løsning til det. Men hvis man nu indfører en fréderic, så.
+
+1:37:22
+Ved et træ vil det så være muligt.
+
+1:37:28
+Ja, har du nogen nikker. Der er nogen der kan sige hvorfor. Så kan du give lidt ekstra.
+
+1:37:38
+De ligger i samme plan. Det er rigtigt. Det er dér, vi opholder os.
+
+1:37:44
+Maden tænk nu på. Vi taler om at vi kan opløse den ved efter to andre.
+
+1:37:56
+Jeg er. Efter tre nederlag, så vi kan have oplevet så vægter trøje efter.
+
+1:38:11
+Vi tog det er ikke så klart af denne tegning. Måske, men I så det herover er der en tegning.
+
+1:38:20
+Det var den fredede væg her, og den kunne godt opløses med to andre vægtige ord være strejke eller dem og skrive dem,
+
+1:38:28
+som man så, til de er så lineære afhængige.
+
+1:38:33
+Så hvad f. Er, og vi er to alene været uafhængige.
+
+1:38:47
+Men hvis vi så tager tre de tre reaktorer sammen, så vil de være lineær og afhængige.
+
+1:39:14
+For et sæt af tre geometriske vektorer i planen. De er altså linjer at afhænge, med mindre de er parallelle eller to af dem har parallelle,
+
+1:39:23
+og i rummet skal man have fire for at danne et lineært og uafhængigt par eller sæt.
+
+1:39:35
+OK, så vi skal lige nå den bedste.
+
+1:39:39
+Det er vi interesseret basis og koordinater for en vækst er, så vi faktisk kan regne og bruger matricer og alt det,
+
+1:39:46
+vi har lært, og det vi starter med at sige, er, at koordinater.
+
+1:39:53
+Vi har kunden. De kan kun have en betydning, hvis vi har noget at måle dem med det.
+
+1:40:00
+Hvis vi skal måle størrelsen af det her bord, så bliver jeg nødt til at have en målestok.
+
+1:40:06
+Og det er det, basen svarer lidt til. Den siger nemlig.
+
+1:40:11
+Hvis jeg har en digter, der peger i den retning høj nøjagtig den, så ved jeg, der skal måle i den retning og i den retning.
+
+1:40:18
+Det giver mig længden, men vektorer har også en retning, og det er det, basen definerer os.
+
+1:40:28
+Så det vil jeg. Lige skrive noget. Hvad kravene er for en Basses.
+
+1:40:42
+Basses skal have et sæt af.
+
+1:40:52
+Geometriske vektorer.
+
+1:40:56
+Og det kunne vi for eksempel skrives om, hvis vi, hvis vi vilde dem, og det skal opfylde to krav, og det ene er, at det er lineært uafhængigt.
+
+1:41:22
+For det andet er tilstrækkelig skal være tilstrækkelig mange basis vektorer.
+
+1:41:33
+Senatets udspænder en Kwame eller svir Jeg håber det når.
+
+1:41:45
+Det kan vi lige se på, hvis vi bevæger os i planen.
+
+1:41:49
+Jamen, så er det jo vi kan. Vi kan her i landet. Vi har indført et ord i går for at lære at sige, vi afsætter væk, så det er ud fra.
+
+1:42:03
+Så blev jeg nødt til at se hvor meget skal gå i den retning. Men så nu bruger som intet standard koordinatsystem.
+
+1:42:11
+Så skal fortælle hvor meget skal jeg gå i den retning, og hvor meget skal jeg gå herop for at nå det tal, og det er det, der giver os vores vektor.
+
+1:42:20
+Og det kan jeg gøre ved at indføre såkaldte standarder bagest i sin karakters koordinatsystem.
+
+1:42:28
+Retvinklet koordinatsystem hedder i og, men selv svarene er væk, så der går op her.
+
+1:42:39
+Så jeg får et par værktøjer i og J er tilstrækkelig mange for at udspændt en plan.
+
+1:42:51
+Ja, det er det. Er de lineært uafhængige? Ja, fordi de virker parallelle.
+
+1:42:58
+Du kunne også have valgt to sådan her. Det ville også være Phil Boonens står snart klar, og så går den gæk, for så kan jeg aldrig nå.
+
+1:43:06
+Hvis de går den retning begge, så kan vi nå og ro. Det giver god mening.
+
+1:43:11
+Det er jo en stander bliver ved med at kalde det for at skrive det kort, som de to her i og J.
+
+1:43:20
+Men nu har allerede antydet det der kommer i stedet for.
+
+1:43:23
+Her indføres en anden Basses, og den vil jeg så lave sådan, at jeg sætter to her og tog den negative retning samt tog prop som her selv.
+
+1:43:41
+Så får jeg den anden vægt. Så her.
+
+1:43:49
+Og en anden herre, som jeg ved kaldet T og den anden hedder S, og så får jeg med ny Basses af det par S og T.
+
+1:44:00
+De er lineært uafhængige, og løbet spinder rundt, så det bør virke.
+
+1:44:10
+For bare at være den bedste tjekke at vi altid tager sejren, så der er tilstrækkeligt mange mænd.
+
+1:44:17
+Så tjek hvis vi skal tjekke, om I har en basis i en let glemme, at der skal være nok af dem.
+
+1:44:25
+Så har vi forklaret basen, så skal vi gøre det, vi.
+
+1:44:32
+Har Villo og det var at finde koordinaterne.
+
+1:44:38
+Fem vælter. Og vi vil bruge for eksempel de to sig med baser.
+
+1:44:46
+Det vil sige vores standarder Basses. I og J.
+
+1:44:55
+Her og vi bruger næppe mere plads Søren.
+
+1:45:03
+Vi vil beskrive en fjollet vægt, så det vil sige en fjollet, der lægger fire skridt op over jord i ny retning, og det er her, det skal være min vægt.
+
+1:45:20
+Og nu har jeg. Altså valgt med en stand opfattes.
+
+1:45:29
+Den hedder Jeg ejede her og her havde du i smørret har det, så kan jeg med det samme skrive min vægt.
+
+1:45:43
+Så opdager kvalmen har vægt sig ved. Og det er jo samme, at jeg skal noget i den retning.
+
+1:45:55
+Og fire ganger op i den retning med fire gange og fik gjort se,
+
+1:46:00
+at det er ikke helt skævt at tænke på basen som en enhed, som måler, måler og i gode tegn.
+
+1:46:07
+Hvor længe man skal måle med om.
+
+1:46:14
+Og så beskriver koordinaterne det er det vi har set som titel, hvis er vores vægt så ved, og jeg vil hellere kalde undskyld i denne her sammenhæng.
+
+1:46:29
+Så kan jeg måle den vægt. Så i at denne her danner basis A.
+
+1:46:36
+Det var. Sådan her.
+
+1:46:42
+Og så får jeg tal på nul og fire. Så vil jeg gentager denne her øvelse.
+
+1:46:52
+To tre, fire løver svigter.
+
+1:46:55
+Men nu vil jeg bruge den anden Basels, jeg lige er stået og indført den så, når livet har givet to til højre og to til venstre og to op.
+
+1:47:08
+Og så fik jeg de her sår basis vektorer, som jeg kaldte for s og t,
+
+1:47:21
+så prøver at måle den her vægt for derved at gøre der skal målene og skal danne dette parallelogram, som i dette tilfælde bare er et kvadrat.
+
+1:47:37
+Tegner helt rigtigt ligner da også Kvadrat. Det skal være sådan og sådan som, og det betyder, at jeg nu kan skrive samme værktøj som sång af S.
+
+1:47:50
++3, og denne her tegning er desværre ikke helt rigtigt.
+
+1:47:59
+Ideen var følgende. Flere retter det var at min basis svigter.
+
+1:48:08
+Det gjorde en enhed til højre og en af en som venstre og en op af så jeg s og T.
+
+1:48:18
+Så ved vi, at vi skal forlænge den her og her.
+
+1:48:24
+Hvorfor skyde dem her og her? Så har vi altså to gange s plus to gange.
+
+1:48:30
+3. Her. Og så er vi nået frem til vores oprindelige værktøj.
+
+1:48:43
+Det er sådan vi kan gøre i dette tilfælde skriver sig væk.
+
+1:48:48
+Sorg må i følge denne her anden baset, som vi kalder se.
+
+1:48:56
+Og så at så hjælpearbejde så to kommer to frisere at koordinaterne og afhænger af valget af basis.
+
+1:49:08
+Så kommer det sidste gode spørgsmål.
+
+1:49:13
+Det er jo fint. Så har vi frit slaw om valget af basis, men hvis vi nu har valgt det ene, og jeres kammerater har væltet det andet.
+
+1:49:20
+Hvordan kan vi omregne koordinaterne til et andet system, så vi kan snakke sammen og forstå hinanden?
+
+1:49:27
+Det nytter ikke noget, at du går i den retning, og den anden i den er og ikke enige om at bruge den samme basis hockey.
+
+1:49:37
+Så det vil vi lige se på til sidst. Jeps, det er måske meget godt at se damer eksempler.
+
+1:49:58
+Ja, så kan vi vel se noget af det herud.
+
+1:50:04
+Det hele foregår i midten. Så har vi for Lene i at komme ind og se om det er en sund vægt, tog dog stuen så strejkens og lineært uafhængigt.
+
+1:50:22
+Ja, det skal vi selvfølgelig bruge på et tidspunkt igen. Steder gerne lige forstår står i rummet, så savner nogen der har sagt.
+
+1:50:39
+Så. Det skal vi gemme sig.
+
+1:50:52
+Og er vi fortsætter med de to basis par her for at illustrere, hvordan vi kan skifte koordinaterne.
+
+1:51:10
+Og lad os sige at gide en vægtere og indladende overfor hovedet den anden fyr,
+
+1:51:21
+fordi vi har brugt latinske bogstaver hele tiden med vendinger forelæsning, hvor vi måler denne vægt med højintense enedes basen i en plan.
+
+1:51:36
+Og spørgsmålet er så hvad hedder samme vægt så målet i den anden basis se.
+
+1:51:47
+Så se her hvordan ser det ud? Det var altid godt med en skitse, så det er vores standard basis.
+
+1:52:00
+Skal vi afsætte tre til højre ind for Tryg? Så er vi nået hertil og tog op her lydside.
+
+1:52:10
+Det her er vores alfa væk, så.
+
+1:52:20
+Ja. Men vi ved jo også nogle ting.
+
+1:52:27
+Så spørgsmålet var Hvad er det her? Der er nogle ting vi allerede ved fra vores overvejelser heroppe.
+
+1:52:39
+Vi ved for eksempel, at A er lig med to S plus to t.
+
+1:52:45
+Det vil vi bruge, og vi ved, hvad koordinaterne er her på, så jeg skriver,
+
+1:52:55
+jeg går tilbage til eksempel og ser på denne her avec Toy Story, for det er den, jeg ved noget om.
+
+1:53:02
+Det, jeg vil prøve nu, er at finde en bøf eller schoen mellem denne her avec, så med koordinaterne med hensyn til ikke basen for den her herover.
+
+1:53:14
+Nu har jeg fundet ud af den relation. Så vil jeg gå tilbage til min oprindelige opgave og bruge det, jeg har lært.
+
+1:53:22
+Det er det vi gør nu. Vi ved følgende.
+
+1:53:34
+Nu skriver jeg. Det dette tal par som søjler vægter, så kan vi også gøre.
+
+1:53:43
+Og det giver mening om lidt. Se hvorfor jeg gør det.
+
+1:53:48
+Så skriver sådan her. Så skriv det som søjler værktøjet står for.
+
+1:53:54
+For vi ved, at det er det samme som at sige det er to gange s plus to gange til.
+
+1:54:05
+Men. Hvor skriver det her? Så er det jo målet i Mind basis C, og der står noget med E her, så jeg vil gerne skrive den med denne her vægt, så S og T.
+
+1:54:19
+Ved at skrive noget med hensyn til min standard basis.
+
+1:54:25
+For det kan jo godt være intet andet end reaktorer, og de hedder.
+
+1:54:36
+For S skærer til højre. Det var en højere standard Basses og en op for det hedder han over en tilsvarende jeg for den her to gange t og hver t.
+
+1:54:57
+Ind til venstre og en op. Det er det her, hvis der er basis for det, jeg gjorde nu.
+
+1:55:04
+Det udtrykte T. S. I vores standard bagest.
+
+1:55:10
+Nu ser jeg på det her og genkender det. Det er hårdt matrix produkt måden søjler vælter for en søjle og søjler de to sammen.
+
+1:55:22
+Det er en matrix.
+
+1:55:26
+Første søjle med anden søjle hedder minus 1 over 1, og det ganger på med den væg, så er en søjle vektor en søjle med exoskelet ruder to ror to.
+
+1:55:39
+Som dag. To gange er første søjle der giver det her.
+
+1:55:45
+Plus to gange. Anden søjle der giver det hen.
+
+1:55:50
+Bauke. Nu kan jeg så glo på det her.
+
+1:55:56
+Jamen hov, det her det var koordinaterne for min avec for.
+
+1:56:04
+Der to og to for den dag.
+
+1:56:08
+Det svarer til A. Med hensyn til baset se.
+
+1:56:16
+Det ganger jeg med en matrix til den her.
+
+1:56:23
+Det definerer bare som en matrix, og nu kan vi se vi får en ligning,
+
+1:56:29
+hvor en sammenhæng mellem koordinater vektoren med hensyn som basis e og koordinat.
+
+1:56:36
+Med hensyn til basis C. Det jeg skal gøre er den koordinat vægt.
+
+1:56:40
+Så ganger den med den her matrix, så spytter det herud.
+
+1:56:47
+Det er også skidt med navn og se coordinator og giver mig i coordinator skriver sådan her, så se og se og sørme og til højre.
+
+1:56:59
+Har jeg så. Den helt. Så det er jo fint nok, hvis jeg skal have koordinat vektorer i basen.
+
+1:57:10
+Det kan også være, jeg skulle gøre det omvendt. Og det kan jeg i og med at den her matrix er bygget af basis vektorer, fordi lineært uafhængige.
+
+1:57:25
+Hvis de er lineært uafhængige, så har de også.
+
+1:57:29
+Så har det matrix maksimal rang, hvis den har maksimal rang.
+
+1:57:34
+For findes der også en enhvers. Så får også følgende reservedele ration her.
+
+1:57:53
+Skaldet. Pas på jeg skriver det rygtes, det er altid.
+
+1:57:57
+Men de har intet sex. Det er det vi ville nå frem til.
+
+1:58:07
+Det er vores lille teori. Her har idealvægt, så jeg føler selv at gøre tingene med dem er 46.
+
+1:58:16
+E koordinater.
+
+1:58:18
+Hvis jeg har en koordinat og gerne vil sidde i koordinater, så gange, er det på med den inverse af den her matrix, og det er det, der gik galt her.
+
+1:58:29
+Det er den samme matrix, for hvilken vil udregner den inverse.
+
+1:58:35
+Nogle gang skriver man dette om, så står der.
+
+1:58:41
+M c e. Det er en af jeres er.
+
+1:58:47
+Og væres er det samme som den inverse.
+
+1:58:54
+Jeg tror jeg skriver det hele op igen. Bare resultatet, så kan vi få vores regning stykke færdig.
+
+1:59:04
+Det var det her. Frank sagde Vi vil køre os, gå den anden vej.
+
+1:59:11
+Hvis vi ganger det, ligner det jo en ligning. Hvis vi ganger den på med den inverse den matrix, så får vi m hver gang emnet bliver identitet.
+
+1:59:22
+Og så får vi det fra den anden side. Forstår forstå den her ligning.
+
+1:59:35
+Eller skal lige forklare det. Det er klart.
+
+1:59:43
+For ca. Det jeg vil gøre er klart den ligning og ganger det på her.
+
+1:59:56
+Bare for at være sikker, da alle forstår det. Det er det er noget man Friesen.
+
+2:00:15
+Og det giver det her. Så jeg får af at se det, det er lige med den inverse grand med, og det skal selvfølgelig have en her.
+
+2:00:28
+Den. Det var vores resultat. For skal vi tilbage til vores oprindelige opgave?
+
+2:00:36
+Vi skal finde alle fag se. Skal vi så have fat i den her matrix og ganger det med alfa koordinaterne.
+
+2:00:54
+I Basel. Hvor er det den med at hade mig, hvordan jeg fandt så skal findes inverse til det her.
+
+2:01:15
+Og det kan man udregne. Så får man den med tre steder en halv en halv.
+
+2:01:23
+Snusede en halv og en halv. Hvis I ikke stoler på mig, så kan jeg meget nemt guide den med sex med den oprindelig.
+
+2:01:34
+Så får I enheds matricen og vi regner.
+
+2:01:47
+Hos Cardinal på vægtere hedder 0 over 4. Så får vi når den falder ud.
+
+2:01:54
+Og nej, undskyld.
+
+2:02:02
+Hvad er det vi slanger på her? Det var denne her der hedder tre kommer et tung, så det bliver søjle, der får tre overtog.
+
+2:02:16
+Tre gange en halv plus to gange en halv. Der bliver fem halve minus tre halve plus to halve.
+
+2:02:23
+Det bliver minus en halv. Og det er vores før.
+
+2:02:33
+Med hensyn til det nye koordinat så det som man gerne. Spørgsmål Så.
+
+2:02:46
+Ja, at der er nogen pointe i at skifte side, står den pointe domæner.
+
+2:02:56
+Her er der noget for alle at se i stedet.
+
+2:03:03
+Se Alfa Alfa se ti veje byder ikke, altså det der sker er.
+
+2:03:16
+Det der sker, er at besøg jeg kan, ja, det kan være jeg ved.
+
+2:03:22
+Der siger Jeg ved denne matrix frase til i.
+
+2:03:35
+Det kunne være at man kan forstå at se og se sammen og i og især om det jeg mener er vægteren adfærd og så se.
+
+2:03:47
+Du mener her. Ja, et sted før du skrev se her, så skal du, når det var overstået, skønt det er en trykfejl.
+
+2:03:58
+Vej det var sådan jeg mente. Tak for det. Det var bare en lille bitte fejl.
+
+2:04:12
+Ja. Der skal stå for der skal man nemlig passe på.
+
+2:04:19
+Der kan jeg lige se, at man skal holde øje med bogholderiet hver HG.
+
+2:04:28
+Godt. Skal vi lige tage det seneste? Med vores Mabel damer.
+
+2:04:39
+Vi henter vores lineær algebra pakke og vi vil kigge på tre vektorer et og to be.
+
+2:04:52
+Og vi vil undersøge om det er en lineær kombination af A, S og a to, og det vil sige, at jeg kan skrive det sådan her, hvis det er sandt.
+
+2:05:05
+Og der skal være et ikke sætter exit to ulige nul, som kan opfyldes.
+
+2:05:09
+Den hellige del skal lige udregne, hvor det er, og så kan vi se anlæg.
+
+2:05:15
+Det svarer jo, hvis vi skriver det sådan med eks.
+
+2:05:19
+Et X2 som ubekendte for svarer det til et linjers ligning system.
+
+2:05:25
+Det kan jeg godt se for eksempel +6 tog og ikke sætter ikke tid på, så ikke og højre højresiden nu.
+
+2:05:32
+Hvis vi gøre det, så kapable vores totale matrix ud af det, så de første to søjler er prøvefag,
+
+2:05:39
+sendte matricen og så var højere side her, og vi prøver at løse det her.
+
+2:05:45
+Og mappen fortæller os, at det er det, katten ikke.
+
+2:05:50
+Så vi undersøge hvorfor det jeg kigger på trappe form ned en total matrix for ikke at Rankin er FCM matricen to mand totalt.
+
+2:06:01
+Matricen har tre, så det er ikke lykkedes for os, og det svarer så til, at B hvis vi kigger på vores ligning her.
+
+2:06:13
+Den kan ikke løses, før jeg ikke sætter exodus. Et B kan jo ikke skrives som linjer kombination af et og to.
+
+2:06:25
+Så kan vi. Bør lettere saumur og taler om sorg er lineært uafhængig her der tre styks er et, to og tre.
+
+2:06:35
+Og definitionen af at vi skal undersøge om der findes, ikke sættes to og tre, således at den her sorg er lig med nulvækst.
+
+2:06:45
+Det kan vi også skrive som et lignende system. Og akkurat som vi gjorde før et højresiden, er nulvækst.
+
+2:06:54
+Det propper vi en total matrix og grave dem ned.
+
+2:07:00
+Og vi kan straks sige, at den eneste løsning er nulvækst som, og det er ikke DF.
+
+2:07:06
+Det forstår vi ikke. Det sagde jeg måske ikke udtrykkeligt nok før.
+
+2:07:09
+Det forstår vi ikke som en rigtig lineær kombination.
+
+2:07:14
+Altså hvis vi bare kan løse den ligning ved at sætte x et eksotisk træ lige med nul, så er det en triviel løsning.
+
+2:07:23
+Det er ikke hvad vi kalder lineært uafhængigt.
+
+2:07:32
+Eller undskyld. Det er. Det er selvfølgelig hvad vi kalder for.
+
+2:07:38
+Det kræver afhængigt fordi vi kan skrive ned og sige a s som en sum af de to andre.
+
+2:07:46
+Hvis ikke slet og så og X3 er forskellige fra nul, men vestlige er lig med nul, så er det lineært uafhængige.
+
+2:07:57
+Det er mere uafhængig betyder, at vi ikke kan skrive den som en summen af de andre.
+
+2:08:03
+Lad os se på det næste eksempel for tre rektorer, et, to og tre.
+
+2:08:11
+Vi skriver igen vores total matrix med højere side. Vi med noget og vil sige, vi vil se på, om det system kan løses.
+
+2:08:20
+Og det kan det faktisk. Det totale matricen around to, og det kunne i sig selv matricen også.
+
+2:08:29
+Og det betyder, at de her vektorer og b et, to og tre kan skrives som en lineær kombination af hinanden.
+
+2:08:41
+Til sidst er der også den følgende mulighed vi kan se på to tre uger.
+
+2:08:48
+Vi vil gerne vide, om de er lineært uafhængige. For vi ved at de er lineært uafhængige nøjagtig når de har den den tilhørende matrix har fuld rang.
+
+2:09:01
+Så kan den her matrix ikke løses anderledes end med en nulvækst.
+
+2:09:08
+Og branchen har maksimal.
+
+2:09:12
+Hvis og kun hvis determinanten er forskellig fra nul, og det er den her, så vi kan se at de her vektorer er lineært uafhængige.
+
+2:09:23
+Okay, det var det hele spørgsmål. Ikke lige nu sidder der om farve bagefter eller ja, men at spare sig, så siger jeg tak for i dag.

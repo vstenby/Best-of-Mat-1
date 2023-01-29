@@ -1,0 +1,683 @@
+0:04
+Til ro, så vil I opdage at der er ski i de forskellige venterum,
+
+0:11
+noget man som man kalder for standard basen, altså den bageste man normalt arbejder med.
+
+0:18
+Altså i standardsituationer er det den, man bruger.
+
+0:21
+Men I vil også se, at vi har brug for at vælge særlige baser, og det er det, der er det smarte i det hele.
+
+0:27
+Og det vil I kunne se fremover en gang imellem.
+
+0:31
+Så kan vi vælge en rigtig, rigtig smart fase og blive i stand til at løse problemer, som vi ikke ellers ville være i stand til at løse.
+
+0:39
+Men standard baserne. Lad os lige hurtigt se på, hvad de er for nogle.
+
+0:44
+Så hvis vi er i planen. Altså de planer vektorer.
+
+0:57
+Da så vi på det sidste gang. Sådan en fyr dér.
+
+1:03
+Det er en standard base for de planer, der plane vektorer.
+
+1:14
+Og vektorer i rummet. Der har vi så i firede.
+
+1:29
+Kog basen lige Langebæk 2'ere, som indbyrdes er ortogonale.
+
+1:40
+Hvis vi nu går til et Mattrick tro, og nu giver jeg altså bare et eksempel.
+
+1:52
+Altså mængden af reelle matricer, som har typen 2+2.
+
+2:00
+Hvad er standard basis? Og standard basis plejer man at bruge symbolet E til at udtrykke, så er standard basis.
+
+2:19
+Den er altså fire matricer. 1 0 0 0 0 1 0 0.
+
+2:31
+0 0. 1 0. Og 0, 0, 0 og 1.
+
+2:50
+Og jeg påstår at den her den udspændte, at de er lineært uafhængige, og at de udspænder hele Matrix rummet.
+
+3:01
+Jeg vil ikke gå i detaljer. Man skal ikke bare lige kigge på en Matrix A.
+
+3:19
+Se hvis jeg prøver, og nu har jeg bare valgt et telt for tilfældigt to CO2 matrix.
+
+3:25
+Nu vil jeg opskrive den som en lineær kombination af basisk vektorerne.
+
+3:30
+Så kan jeg jo bare skrive 2 1, 0 0 0 plus fire gange 0 1, 0 0 plus 6 gange med nul, 0 1 og 0 og plus otte gange med 0, 0, 0 og 1.
+
+3:56
+Og I kan jo selv tjek selvfølgelig godt det her regnestykke op. Jeg ganger 2 ind her.
+
+4:02
+Jeg ganger 4 ind dér. Jeg ganger seks ind dér.
+
+4:06
+Jeg ganger 8 ind dér, og så lægger jeg disse fire sammen, og så får jeg selvfølgelig det, der står på venstresiden her.
+
+4:14
+Så nu har jeg fundet koordinaterne for A.
+
+4:21
+Med hensyn til standard basen. Og koordinaterne de er så 2, 4, 6 og 8.
+
+4:44
+Vi kigger nu på. Kamp.
+
+4:53
+Vi kigger nu på standard basis for polynomier husrum.
+
+5:01
+Last tag som et eksempel Panopto over er mængden af al anden post polynomier.
+
+5:11
+Og dens standard basis. Den kalder man for monomerer basen.
+
+5:21
+Og den består af vektorerne 1 komma x komma x i anden.
+
+5:34
+Det skal vi lige lave et eksempel har jeg et polynomium px, som hedder 2 minus x i anden.
+
+5:54
+Så kan jeg jo opskrive det som en lineær kombination af basix vektorerne.
+
+6:02
+Se den. Der er jo to gange med den første basis vektorer plus nul gange den anden basis vektorer.
+
+6:15
+Og som minus. En.
+
+6:23
+Gange den tredje Abbasi svigter. Så det vil det se.
+
+6:28
+Nu kan jeg så opskrive koordinat vektoren for det her polynomium med hensyn til monomerer basen, fordi sample P.
+
+6:42
+Den er den vil vi kalde for bogstavet M. Så pilles koordinater med hensyn til EM.
+
+6:52
+Det er så 2 0 og minus en.
+
+7:15
+Nu kommer vi så til et problem med det kontinuerte funktioner.
+
+7:31
+Her er det umuligt at finde en basis, så det vil altså sige vi har altså også indført vægte rums typer,
+
+7:39
+som ikke kan give og gives en basis, og hvor det derfor ikke ville være muligt at bruge koordinat metoder.
+
+7:47
+Så den pointe skal I lige være klar over,
+
+7:49
+fordi vi kommer rent faktisk til at arbejde ret meget med uendelig dimensionale vektorrum, altså funktionsdygtige rum.
+
+7:58
+I dag kører vi mest på noget, der er endelig dimension for at få fat i nogle grundlæggende metoder, men det andet får vi rigtig meget brug for.
+
+8:06
+Når vi så snakker om linna afbildninger, differentialligning og alt muligt. Det kan vi godt glæde os til.
+
+8:17
+Vi vil nu kigge på nogle typiske opgaver, hvor vi bruger koordinaten metoder.
+
+8:29
+Og jeg starter med. Ja, jeg starter med et eksempel fra Peto er lad os sige da er givet tre vektorer p et ex.
+
+8:50
+Denne er en plus to x i anden perito ex.
+
+8:58
+Den er 2 minus x plus 5 x i hjernen ophæve tre af X.
+
+9:09
+Den er minus fire plus tre x minus 11 x i anden.
+
+9:22
+Sådan. Jeg spørger er de tre vektorer?
+
+9:35
+Lineært uafhængige. Og det dér med om de er lineært uafhængige.
+
+9:45
+Her er det faktisk sket et ret interessant spørgsmål.
+
+9:51
+Fordi det er jo tre vektorer der står her. Og I kan se hvor mange har vi i standard basen eller monomerer?
+
+9:57
+Bastunge to tre, så der er vist de tre vektorer her.
+
+10:04
+Hvis stiger lineært uafhængige, så udgør de altså en basis for andenrangs polynomier.
+
+10:10
+Det er det vi skal undersøge, kan vi sige i dette eksempel.
+
+10:15
+Hvad skal jeg gøre? Vi skal undersøge om vi kan få en vinder og kombinationen af dem, som giver nul.
+
+10:31
+Altså findes K et CO2 komma tre.
+
+10:41
+Således at K et p et Joos K 2 P2 plus et træ p tre er lig med nul vektoren og nul vektoren.
+
+10:58
+Den ser sådan her ud. Det her er nul vektoren i P2, og den er selvfølgelig lig med nul.
+
+11:10
+Men nu skriver jeg den bare op her på denne her måde.
+
+11:17
+Se hvis det her kun kan opfyldt kan være opfyldt, hvis jeg slår hver eneste af dem ihjel med tallet nul dér, det hér og dér.
+
+11:28
+Hvis det er tilfældet, så er det lineært uafhængige. For at besvare det, så går jeg over i coordinator.
+
+11:45
+Så nu skriver jeg det samme her i koordinater. Så er det altså k et.
+
+11:52
+Så skal jeg have koordinaterne for den første vægter den er 1, 0 og 2.
+
+12:02
+Skal vi have koordinaterne for den anden vektor.
+
+12:10
+Kun tre gange med koordinaterne for den tredje vægter minus fire, tre og minus 11 skal være lig med koordinaterne for højresiden fra nul vektoren.
+
+12:25
+Så er der. Så vi skal altså undersøge dette lignende system.
+
+12:34
+I kan jo se, at vi ganger K et 1 på hver, dem går 2 ind på hver, dem kårer tre en på hver og dem sætter 9 mig det her.
+
+12:43
+Så får vi tre ligninger med tre ubekendte.
+
+12:55
+Og det vil altså sige vi kan nu opskrive totalt matricen for ligning systemet.
+
+13:04
+1 0. 2 2 minus 1 5.
+
+13:09
+Minus fire tre minus 11. Og så her har vi højresiden.
+
+13:22
+000. Så laver vi gaucho hvordan elimination finder trappe formen er the.
+
+13:37
+Som jeg har til 1 0 0, 0 1 og 0 2.
+
+13:45
+Minus tre og nul. Sådan.
+
+13:55
+Og Løsnings mængden. For dette.
+
+13:58
+Line og lignende system er. K et CO2 komma på et træ.
+
+14:08
+Det er jo dem vi prøver at finde. Og det bliver så lige med en parameter ting, og så får vi minus to, tre og en.
+
+14:29
+Hvor T så er en fri parameter. Og her kan vi jo se.
+
+14:42
+For eksempel når den er en, så har vi k et komma K2 komma kun tre lig med minus to komma tre komma 1.
+
+14:59
+For eksempel. Jo.
+
+15:05
+Hvis vi altså sætter den frie parameter the til 1.
+
+15:09
+Så har jeg altså fundet tal her der får når de når at komme nationen til bliver nul uden at konstanter når de allesammen er nul.
+
+15:21
+Så med andre ord. Svaret er nej.
+
+15:34
+De er ikke lineært uafhængige. Og P et P2 P3 er ikke basis.
+
+15:53
+For på tror man.
+
+16:00
+I skal vi får se hvad der bliver spurgt om.
+
+16:05
+Hvilke af dem den jeg forlænges, er en ja, og altså det er simpelthen det laver jeg lidt hurtigt, fordi nu jeg har prøvet det her mange gange.
+
+16:20
+Altså. Men metoden til at finde dem, det er jo at løse ligninger systemet, så det står der jo.
+
+16:26
+Der står jeg så k et plus to kort.
+
+16:29
+Tre er lig med nul, og derfor står der kun 2 minus tre kort.
+
+16:34
+Tre er lig med nul. Flyt dem over på højresiden osv.
+
+16:39
+Det er standard metoden, som jeg bare lige har tilladt mig at lave en genvej på her.
+
+16:45
+Og altså her. Lav fortegn om her og så smæk et tallet på forneden.
+
+16:54
+Det er min genvej, men det skal I selv gøre.
+
+16:58
+Mange gange før I kan indse, at det er rigtigt. Eller man har måske allerede fundet ud af det.
+
+17:05
+Det er uklart om. Se, nu skal vi arbejde lidt med fem forskellige værktøjer fra er fire, og vi stiller nogle forskellige spørgsmål i forhold til dem.
+
+17:37
+Og jeg har her en lang stribe af vektorer af et.
+
+17:41
+Den er en komma in kom her en kommer en af to.
+
+17:47
+Den er en komma nul komma nul komma in.
+
+17:55
+3. Den er 2 komma tre komma en komma fire, og så har jeg en vægtere.
+
+18:03
+Jeg har kaldt for B, som er 2 komma minus to komma nul komma 1 og endeligt den sidste.
+
+18:13
+Vektoren som er 5 komma 1 komma 3 komma fem.
+
+18:23
+Og jeg laver. Jeg laver nogle forskellige opgaver ud fra det eksempel.
+
+18:29
+Men det og de metoder jeg bruger, det er de metoder, I skal bruge i dag.
+
+18:38
+Så kan vi kan få mit første spørgsmål.
+
+18:49
+Det er. R b.
+
+18:54
+En Lenau kombination. Af de tre af vektorer ét er to og af tre.
+
+19:18
+Nu er det jo så ligesom før. Hvad betyder det her? En litauer kombination.
+
+19:24
+Jeg må jo prøve. Så jeg forsøger at lave en vinavler kombination på et.
+
+19:35
+Af en Kluges konto er to plus på tre tre, kan jeg få det til at give vild med bil.
+
+20:13
+Og nu går jeg over til at bruge koordinater med hensyn til standard basen I er fire.
+
+20:23
+Standard basen i A4. Den er. Ind kommer nul, kommer 0,0, nul kommer ind, kommer 0,0, 0,0 kommer 1,0 og nul komma nul komma nul komma in.
+
+20:43
+Det her er en basis. Eller basis.
+
+20:51
+Standard basen for F-4 er, tror jeg. Jeg tror ikke det undrer jeg meget, men det er altså de fire sektorer, jeg har skrevet op her.
+
+21:01
+Så nu kan jeg så opskrive denne her Leynaud kombination i coordinator.
+
+21:08
+Og det er så. K et.
+
+21:14
+Og så får vi altså 1 1, 1 1.
+
+21:19
+Plus CO 2 1 0, 0 1.
+
+21:26
+Plus kort tre. Den hedder 2, 3, 1 og 4 plus Cover 4 med.
+
+21:40
+Skal være lig med Bevington. To minus 2, 0 og 1.
+
+21:51
+Det her er nemlig et koordinat vægteren for a ét med hensyn til standard basen.
+
+22:00
+Vi kan se, det er meget nemt at bruge standard basen i fire år.
+
+22:03
+Det svarer faktisk bare til, at vi sætter dem på højkant.
+
+22:10
+Og så har vi igen et da en totalt matrix. Den problemstilling her.
+
+22:34
+Er altså et linningen system med der er fire ligninger med tre ubekendte, der har den totale matrix.
+
+22:47
+Og laver vi trap på den dér, så får jeg matricen 1 0 0 0, 0 1, 0 0, 0 0, 1 0 og nul og nul og nul og 1.
+
+23:11
+Og hvad jeg så er svaret på det spørgsmål jeg har stillet. Kan beskrives som en narkoman nation af ét af to år er tre.
+
+23:26
+Nu er det grundviden omkring line og lignende systemer vi skal have fat i. Den er tom, fordi vi har i år et tal hernede.
+
+23:36
+Randen er totalt matricen af fire. Men fra nu af kunne vi selv.
+
+23:41
+Matricen er 3. Så svaret her var det spørgsmål der er stillet.
+
+24:02
+Der er spørgsmål. Mener spil, har jeg skrevet det nogle steder.
+
+24:15
+Det mener jeg ikke er ham der bliver. Hvis jeg har det en fejl. Dette er det der.
+
+24:29
+Tak. De næste spørgsmål til denne opgave.
+
+24:40
+Jeg havde forberedt det var om A, et, A, to og tre og B.
+
+24:50
+Om de er lineært uafhængige og det er de.
+
+25:16
+Og så er de en basis. Og nu vil jeg så finde ud af.
+
+25:34
+Skal vi kalde den for af? Fem koordinater.
+
+25:48
+For at se. Med hensyn til den basis A, som jeg har lavet her.
+
+26:10
+Og det vil sige nu skal jeg jo så spørge om ex ep et plus X2 2 plus X3 3 plus x fire gange med B.
+
+26:26
+Hvordan kan det give lidt mad at se? Her vil X1, X2, X3, X4 vil jo være koordinaterne.
+
+26:40
+Det er her blevet til et Leynaud lignende system 4 ligninger med fire ubekendte.
+
+26:53
+Altså fire ligninger med fire ubekendte.
+
+27:05
+Og vi skriver ligningen systemets totale matrix op.
+
+27:13
+Og så skal vi have fat i coordinator vektorerne for de fem vektorer, der nu indgår.
+
+27:19
+Det var en 1, 1. Og 1. Og nu skal jeg lige have fat i papiret her.
+
+27:32
+År 1 0 0 og 1 2, 3 1 og 4.
+
+27:41
+2 minus 2, 0 og 1.
+
+27:47
+Og så har vi set vægteren som var 5, 1, 3 og 5.
+
+27:53
+Tak! Vi finder trappe formen.
+
+28:09
+Og den har jeg fundet til 1 0 0, 1 0, 1 0, 0 0, 0 1 og 0 og 0, 0 0 og 1.
+
+28:25
+Og så 2 minus 3 1 og 2.
+
+28:37
+Så som forventet, da jeg sagde at de dér.
+
+28:41
+De fire dage de rent faktisk var lineært uafhængige, så skal der være netop en løsning.
+
+28:46
+Den har jeg fundet nu. Jeg har fundet koordinaterne for SE.
+
+28:52
+Med hensyn til den basis, der står her. For ellers har den jo været så.
+
+29:07
+Så havde jeg jo ikke været færdig med redaktionen, men det vil jeg altså se koordinat vektoren for at se.
+
+29:15
+Med hensyn til den basis, som jeg havde skrevet op. Den er altså 2 minus 3, 1 og 2.
+
+29:26
+Hvad tænkte? Så på den måde kan man altså de problemstillinger I skal arbejde med i dag,
+
+29:35
+er et sært lineært uafhængige udgør de en basis, er en vægt, så en lenau kombination af andre vektorer er noget der.
+
+29:46
+Sørge for at få skrevet den rigtige Leynaud kombination op oversat til et winning system.
+
+29:53
+Totalt matricen. Kære venner, reducere den og I har svaret.
+
+30:00
+Nu skal vi bare rolig. Vi har et punkt på dagsordenen, som hedder underrum.
+
+30:27
+Nu. Og det har affødt.
+
+30:48
+Så. En under er noget der ligger inde i et væg til ro og har den egenskab, at det i sig selv er et vektorrum, dvs.
+
+31:41
+En delmængder. Ud.
+
+31:50
+Af V. Er et et et underrum.
+
+32:02
+Hvis UE i sig selv er et vægtigt råb.
+
+32:18
+Med andre ord skal opfylde de to stabilitets krav skal opfylde de otte regneregler.
+
+32:28
+Men hov, kun de otte regneregler og ejere de jord fra væg til rummede vil.
+
+32:35
+Når det gælder i hele A.V. De otte regneregler, så må det også gælde for en delmængde af.
+
+32:42
+Så læg mærke til det. Når vi skal undersøge om en delmængde af et underrum, behøver vi kun at undersøge stabilitets kravene.
+
+33:17
+Og lad os lige kigge på 2 2 mindre eksempler på dette.
+
+33:23
+Det kan godt være jeg kommer til at overskride med 7, men gør det noget ok, fordi de er nemlig meget gode de her eksempler.
+
+33:38
+Og eksemplet eller det kan vi sige.
+
+33:44
+Det er eksempler. Fra.
+
+33:55
+Mængden af to kryds to matricer. Det vil altså sige mængden.
+
+34:04
+Af matricer, der kan skrives på den her reform, hvor hver af elementerne i matricer altså er reelle tal.
+
+34:19
+For eksempel et.
+
+34:28
+Se vi betragter. Ginman den.
+
+34:40
+U UiT, som er mængden af matricer A, B, A, gange, b og nul.
+
+35:01
+Altså den type af matricer som fremkommer ved at der står et tal her.
+
+35:07
+Et tal her, og det er et tal, der står her. Det er produktet af de første to tal, og så står der et nul nede i højre hjørne.
+
+35:20
+Og jeg spørger Er U om UiT er et ur?
+
+35:28
+Er det et underrum i. Er 2 crozon.
+
+35:45
+Nu skal vi interessere os for stabiliteten, og nu tillader jeg mig bare at tage to eksempler, så jeg tager dem ind.
+
+35:55
+En. Og så siger jeg en gange med en.
+
+36:05
+Så får jeg den der. Kan I se den er medlem af klubben her.
+
+36:15
+Også tager vi en anden. Hvor vi har et to tal er et to tal der.
+
+36:23
+Det vil sige vi skal have fire her, og vi skal have nul dér.
+
+36:30
+Den addition af matricer vi har indført, betyder, at vi skal dække plads vist sammen.
+
+36:36
+Så jeg skal altså sige dem plus dem. Den plus den.
+
+36:43
+Den plus den. Og den forstand.
+
+36:52
+Hov. Det ser ikke godt ud. For hvis jeg ganger den med dagen, så får jeg oveni, og der står fem dernede.
+
+37:02
+Så den summen er desværre ikke med i u ét.
+
+37:07
+Den bestod ikke stabilitets krav nummer ét. Vi hoppede uden for del, men da vi lagde to sammen.
+
+37:33
+Og så kommer det sidste eksempel i dag. Og nu betragter vi delmængde bønnen.
+
+37:55
+U2, som er givet ved. Mængden af matricer fra den form her.
+
+38:14
+Vi kan jo se det er altså at diagonale matricer i er auto krypto, og de er altså det eneste krav er, at de to skal have modsat fortegn.
+
+38:40
+Jeg tror ikke mig, men jeg har en tavle, en ubrugt tavle her.
+
+38:43
+Jeg ved ikke. Jeg kan også skrive her. Jeg undersøger sig først om den er stabil med hensyn til addition.
+
+39:01
+Jeg tager to vilkårlige og lægger sammen. Og I ser.
+
+39:22
+Vi skal nu lægge plads vi sammen, så får vi A plus B og vi får nul og vi fra nul, og så får vi minus A minus B.
+
+39:40
+Og hernede der kan vi jo lige aktualisere A plus B og nul og nul sætter minus ud foran en parantes.
+
+39:55
+Og billigere. To elementer. De har modsat fortegn, så den er altså med i U2.
+
+40:07
+Nu begynder vi at blive optimister. Nu skal vi nemlig undersøge om den også er stabil med hensyn til multiplikation med skalaer.
+
+40:27
+Og vi siger på, så går vi hen til den næste tavle og jeg.
+
+40:40
+Jeg flytter da er nogen der ikke kan se, hvis jeg skriver på den tavle.
+
+40:54
+Og nu ganger vi med en konstant. Altså en vilkårlig én der er med i U2.
+
+41:12
+Multiplikation er indført ved at vi skal gange alle elementerne med konstanten.
+
+41:31
+Så er vi nået så langt, og det kan vi jo skrive som K.
+
+41:37
+A 0 0, Mathias! Og det er det der er nede i venstre hjørne af den.
+
+41:47
+Her har et problem der. Og så er der en af de to elementer, der har modsat fortegn.
+
+42:01
+Så når jeg tager en vilkårlig konstant ganger med et vilkårligt medlem, så får jeg et nyt medlem.
+
+42:23
+Og så prøve at se denne sidste pointe. Skal vi se om vi kan finde ud af dimensionen?
+
+42:33
+Af den der fik 38.
+
+42:42
+For ser. Se en vilkårlig ind her.
+
+42:51
+Den kan jeg skrive som A ganget med 1 0 0 og minus 1.
+
+43:01
+Det vil sige vægt, så 0 0 og minus sen udspænder.
+
+43:12
+U2. Så en basis for U2.
+
+43:26
+Er simpelt hen. Den vektor der står her og vi konkludere at dimensionen af U2 den er en sådan delmængde vi har herovre.
+
+43:45
+Vi kan altså konstatere, at den er et underrum. Den er en dag et endimensionalt dimensionalt underrum.
+
+43:52
+I er har to Culto, og vi har fundet dens basis.
+
+43:58
+Tak for det.

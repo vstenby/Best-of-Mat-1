@@ -1,0 +1,836 @@
+0:00
+Han skrev til Jeg respektere respekt for historien og for den morgen.
+
+0:07
+Kan I høre mig om bagved? Det kan jeg godt. Eller hvad laver du selv, der kan videre?
+
+0:13
+Det lyder ikke som om, der er ret meget krudt på, når væsenet bader og i forgårs.
+
+0:21
+Velkommen til. Vi kører stadigvæk derudaf, som som vi nu kan, så.
+
+0:32
+Der er kommet, og det skal man så lige sige to ord om, at hvis streamingen går ned til jer,
+
+0:39
+der er ude, så er der nu lavet en Bergamo svane, som ligger på YouTube. Så man skal bare gøre et forsøg på formentlig medierne til to medie eller dtv.
+
+0:52
+Så finder man ud af, hvor det ligger, så nu er nu skulle der være.
+
+0:58
+Nu går vi med livrem og seler, så skide godt i dag.
+
+1:02
+I dag skal vi fortsætte, i hvilket vi slap ses, nemlig differentialligninger.
+
+1:08
+Men vi kommer overhovedet ikke til at snakke om differentialligninger i dag alligevel, for det er det, vi skal kigge på.
+
+1:14
+Det er det, der hedder egenværdier og egne vektorer for lineære afbildninger.
+
+1:20
+Og det lyder mærkeligt, at det skulle have noget med differentialligninger at gøre, men det vil det vil dukke op i næste uge.
+
+1:28
+Hvorfor? Hvorfor det en høj differentialligningen at gøre?
+
+1:32
+Men indtil videre, så ser det ud som om det bare er et stykke lineær algebra, og det er det sådan set, at det er.
+
+1:39
+Et af de de meget klassiske stykker ligner det.
+
+1:44
+Det er fantastisk smukt og heldigvis ikke specielt svært.
+
+1:49
+Det kan være enormt besværligt, men heldigvis er der en kommando, som vi vil blive rigtig glade for i maven.
+
+1:56
+Der hedder Agrigento vil ikke tages.
+
+1:58
+Det er kommando uden den kommando ville kunne holde denne forelæsning på tre minutter, så derfor gør vi det ikke med mail til forskerstilling.
+
+2:09
+Så gør man jo sig selv arbejdsløs. Det gider jeg ikke. Nå, okay, lad os én gang.
+
+2:15
+Så hvad handler det om? Det handler om egenværdier.
+
+2:24
+Egenværdier og egenvægt sover over.
+
+2:36
+Og det er sådan set det. Men det er sådan det leder helliger målet.
+
+2:40
+Det er det, som det hedder diagonale i serien, og lad os folk ikke ved det.
+
+2:53
+Så. For det første. Nu ændrer vi spillereglerne en lille smule, fordi de lineære afbildninger vi kigger på,
+
+3:04
+det er ligene afvikling af F, der går for at vække til rum inde i sig selv.
+
+3:12
+Så nu har man det samme vægt til rum både som definitionsmængde og dispositionsplan.
+
+3:21
+Læg mærke til, at det betyder, at i det tilfælde, hvor væg til råbene her har endelig dimension eller vektorrum,
+
+3:28
+har endelig dimension, hvor vi har en afvænnings matrix for F, der betyder, at denne matrix vil være kvadratisk.
+
+3:39
+Og jeg så det jeg kommer til at snakke om nu om et øjeblik.
+
+3:44
+Det er kvadratiske matricer, så lad os prøve at kigge på det allerførste og måske lige skrive.
+
+3:55
+For at være helt på det rene, for så ligner Ağca.
+
+4:02
+Så lad os prøve en gang og kigge på det her.
+
+4:06
+Hvad? Hvad handler det om lov? Allerførst er der en definition DF en vægter.
+
+4:18
+En vektor V som ikke er nulvækst, men i vores svigter rum V kaldes en egenvægt så en egenvægt.
+
+4:41
+For F. Mader og tilhørerne så egenværdi.
+
+4:59
+Lambda og altså lounger kan være reelle eller komplekse, men altså det er de der spiller der,
+
+5:05
+eller den skal man altså sørge for at få specificeret tilhører et egenværdi lambda.
+
+5:11
+I det her, som vi så kalder L.
+
+5:18
+Hvis det er sådan, at når vi tager af og bruger på den der vægt, så vil jeg lægge mærke til det eneste krav, der egentlig er til den.
+
+5:32
+Det er det altså ikke være nulvækst. Men hvad skal der så skæmme den væg tv, når man sender den igennem?
+
+5:42
+Det, der sker, er, at den bliver simpelthen bare ganget med lambda.
+
+5:50
+Og læg mærke til det her.
+
+5:52
+Det er i en vis forstand det simpleste, som en lineær afbildning overhovedet kan gøre, nemlig tage vægteren og ganget med et tal.
+
+6:03
+Og hvorfor må vi så ikke være nulvækst? Og prøv lige at se, hvis vi nu tæller ud ved at være nulvækst som så nulvækst.
+
+6:10
+Det er altid noget. Så her ville der stå nulvækst sådan og på højresiden.
+
+6:16
+Der ville så stå nulvækst sådan her. Så ville der kunne stå hvad som helst på andres plads, og så ville det være rigtigt.
+
+6:23
+Krise det og det vil sige at ville kunne indsætte alle lambda jer som den tilhørende egenværdi og det det.
+
+6:31
+Det vil man meget gerne slippe for. Så det giver ikke mening, så derfor må vi ikke kigge på på nulvækst.
+
+6:39
+Okay, dette her. Det er en helt abstrakt definition, og lad os lige prøve en gang og kig lidt på, hvad det egentlig kunne betyde.
+
+6:50
+Så hvis vi nu laver en meget simpel situation. Hvis en let taber eksempel.
+
+6:58
+Og hvor vi nu ser vores vægt 12 år. Det er planen, så jeg nu bare vil kalde er Nick.
+
+7:07
+Og så har vi så vores plakat.
+
+7:13
+Den ser sig sådan her ud, da jeg har tegnet den her også. Og hvordan kunne jeg så finde på at undersøge sådan en lineær afbildning?
+
+7:25
+Der er i dette tilfælde altså gik for planen ind i sig selv.
+
+7:28
+Altså hvis jeg ville kigge på hvad F gjorde, så kunne jeg jo starte med at tage en eller anden væg til højre, for eksempel denne væg.
+
+7:36
+Sådan kysser kalve et. Så kunne jeg putte den ind i EF, og så kunne der komme et eller andet ud.
+
+7:43
+Lad os sige, at det der kom ud af det, var SF ved den lovede der.
+
+7:50
+Okay, jamen fint nok, så tager jeg en eller anden væg.
+
+7:54
+Måske her, der hedder WTO. Altså. Jeg sidder bare og prøver at få et billede af, hvad eftergøre plyssæder.
+
+8:02
+Jeg sidder bare og leger. Så tager vi et tog og putter ind i EF det andet.
+
+8:08
+Okay, så kan det være er udkommet efter WTO, den lårmuskel måske.
+
+8:16
+Og så fortsætter jeg bare. Så kunne det være, at jeg her havde en vægtere ved et træ.
+
+8:24
+Så puttede jeg dagen ind i EF og udkom.
+
+8:27
+Der fandt jeg.
+
+8:37
+Og så vil jeg sige Hov Farfan.
+
+8:39
+Det var sgu da en egenvægt sig for pres her badevægt så her kan fremkomme ved at tage den vægt og gange med et eller andet.
+
+8:53
+Her ser det ud som om det var minus to, altså i det eksempel jeg har lavet her.
+
+8:59
+Så her er F.A. Ved tre åbenbart lidt med minus to gange ved et træ.
+
+9:07
+Jamen, fint nok, så har jeg en egenvægt, så jeg har den, der egner det i.
+
+9:13
+Denne hedder mine sår og læg mærke til billedet.
+
+9:17
+Jeg kan også gøre på denne her vægt, så noget der er simplere end denne gør her, fordi herover ikke vil eller ved 2.
+
+9:27
+Det bliver åbenbart både drejede rundt og gange med et tal, hvorimod her da bliver denne vægt bare gange med et tal.
+
+9:36
+Det er jo alt andet lige meget simplere, så egenvægt 2'er.
+
+9:41
+Det er altså en et sæt en vægt. Så må vores lineær afbildning opføre sig meget simpelt.
+
+9:49
+Okay, jamen lad os lige prøve at og kigge lidt på de egenskaber hér.
+
+10:00
+Altså lad os lave nogle eksempler. For eksempel hvis jeg nu har en lineær afbildning, der går fra et eller andet vektorrum, egentlig sig selv.
+
+10:16
+Jeg specificerer det ikke, og lad os nu se, at det som den gøre med en vægter, så er den, der er garneret med to.
+
+10:30
+Så den tager alle vektorer i ved at gå videre med to. Hvad så normen?
+
+10:36
+Okay så er. Alle vektorer i v egne vektorer hørende til ejendelene sol så alle.
+
+10:47
+V. Det er vigtigt at Agnew ikke tåger.
+
+10:57
+Mades og Ann-Mette I. To, så det var altså et ekstremt tilfælde.
+
+11:09
+Det gør også det her. Jeg ganger bare alting med. To er nok i sig alting egen vektorer og egne vegne to.
+
+11:16
+Men det var måske sådan lidt lidt tænkt at lave noget, der er.
+
+11:23
+Der sådan lidt lidt sjovere og igen. Vi kigger på, jamen så lad os tage en eller anden ret.
+
+11:31
+Linje skal og så lave årets F.
+
+11:39
+Det kan være spejling sidst. Spejling i den rette linje eller det at spejle den lineære afvæbning.
+
+11:52
+Jamen okay, lad os prøve at se. For det første Hvad sker der med en væg til væg?
+
+11:59
+Så hvis det her er vores tv, så dækker FR-V åbenbart her.
+
+12:10
+Og hvad kan vi finde egne vektorerne ved bare at kigge på den?
+
+12:18
+Det kunne vi måske godt. Prøv at se her. Hvis man tager en, så der ligger her.
+
+12:27
+På denne linje er enten den eller den eller den.
+
+12:36
+Hvad sker der med damen, hvis jeg spejler linjen? Der sker ikke noget.
+
+12:41
+Kikser det. Det vil altså sige, at for væk sover V på linje L.
+
+12:54
+Er FR-V ved med det?
+
+13:01
+Jamen okay, så er alle væk. Sover. Hvordan linje åbenbart egenvægt sover, hører ens egen ved en.
+
+13:12
+Giselle ARA er der andre der ser mig?
+
+13:19
+Jamen, prøv lige at sidde her. Hvis jeg nu tager en vægtere, der ligger her, som står vinkelret på linjen.
+
+13:29
+Hvis I så spejler den i linjen, så ryger den jo lige præcis derovre bare.
+
+13:40
+Men det vil altså sige, hvis jeg nu kigger på denne her linje. Den hedder alle.
+
+13:45
+Så kunne denne her. Skal vi ikke kalde dem alle. Og så skriver jeg ret defineret symbol, man har fra skolen.
+
+13:52
+Det er den vinkel, den linje, der står vinkelret på det.
+
+13:56
+Så kan jeg sidde her, fordi hvis nu vores vælgere ligger i alle vinkler.
+
+14:04
+Hvad så? Jamen, så vil jeg blive ved med at lege med jer masker der man spejler.
+
+14:09
+Så selvom jeg jo bare mindes for vægteren. Jamen okay.
+
+14:15
+Det vil sige, at alle vektorer, der ligger på denne ret linje af egne vektorer, hører ind til egne ved et minefelt.
+
+14:25
+Okay, men fin nok. Nu er der så ikke flere.
+
+14:30
+Det kan vi finde ud af om et øjeblik. Men ejeren vektorerne til en.
+
+14:34
+Ligger på denne ret lignende egne vektorerne hører ind til mine sagen.
+
+14:38
+Det ligger på denne ret linje, og det er sådan set dem, der er denne her lineær afbildning, altså spejling.
+
+14:44
+En linje har to egenværdier, en af vi nu sagen. Og de ligger dér, hvor de nu engang ligger.
+
+14:52
+Og de mængder. Altså dér hvor egne vektorerne ligger.
+
+14:57
+De får faktisk et navn, og det er det, der hedder Arjen Robben.
+
+15:09
+Og hvad er det for noget? Lov og eje rummet hørende til egen vinding lambda.
+
+15:17
+Hvad er det for noget? Det er de vektorer v i V.
+
+15:23
+For hvilke det gælder, at FR-V er lig med lambda v.
+
+15:35
+Og hvad er det? Jamen altså hvis man ligger her, så er man åbenbart nøgen med æg.
+
+15:45
+Eller også er man nulvæksten. Kan I se det? Så det her den mængde der det som hedder egenrådigt hørende til egen vinding lambda.
+
+15:54
+Det er denne mængde, der består af alle egen vektorerne over nulvæksten, så der kommer nulvækst og en vilje med her.
+
+16:03
+Se sådan et rum her. Dem har vi faktisk fat i her.
+
+16:10
+Den idé er eksempel her. Der vil linjen l.
+
+16:15
+Det vil være egenrådigt hørende til egenværdi 1 1 og alle vinkelrette her.
+
+16:22
+Det ville være egenrådig. Hører det til, egner det 1 minus 1 sekund.
+
+16:29
+Og nu bruger jeg betegnelsen rum, og det er fordi at.
+
+16:36
+Et eget rum er et underrum RV, så hvis jeg nu lige gør sådan her, så vil jeg skrive.
+
+16:45
+Sådan hedder det i Lambda er et onde år.
+
+16:55
+Da vores væg til ro og lad os lige at overbevise os selv om, at det er rigtigt at da og hvordan gør det?
+
+17:05
+Lov der skal jeg tage to vektorer, jeg kan tage ved ét, og jeg kan tage af.
+
+17:10
+To, der ligger i den mængde, som jeg gerne vil vise er et underrum og kan nå, hvad skal jeg så gøre?
+
+17:22
+Så skal jeg så vise, at når jeg laver en dinara kombination af dette, og så vil det også ligge der.
+
+17:36
+Sagt på en anden måde, at hvis jeg har to egne vektorer, kører det til en egenværdi.
+
+17:41
+Så kan jeg lave Linares kombinationen af dem. Så vil det her også være en egenvægt.
+
+17:48
+Jamen altså. Hvordan viser jeg det? Det gør jeg jo bare ved at sige f.
+
+17:53
+At det er alfa vi et plus beta med to og alfabeter.
+
+18:01
+De er altså enten reelle eller komplekse tal afhængig af om det er et reelt eller komplekst vektorrum.
+
+18:06
+Det her ikke til, om vi kigger på her. Det er reelt. Men altså lad os kigge på det f.
+
+18:14
+Lineær. Jamen, det vil sige det der kommer ud af dette her er alfa gange FF vil hedde Clowes, vil Ida Gard F.A.
+
+18:26
+Veto og så flytter jeg lige lighedstegnet hero op når over.
+
+18:33
+Det kan jo lave sjovt. Før har og Kjeld.
+
+18:42
+Undskyld mig, min alder. Der har vi ikke så meget sjov som når og kan.
+
+18:50
+Lad os nu få se engang nu er nået hertil. Hvad ved jeg.
+
+18:54
+Jeg ved, at hvis vi tog de egenvægten ord, det vil sige FR-V et.
+
+18:59
+Det er bare lambda gang. Vil et FR-V tog det lange gange ved WTO.
+
+19:05
+Så her står der i virkeligheden bare alfa dørene.
+
+19:08
+Lambda er ved et plus beta gerne lambda.
+
+19:15
+Der er jo veto, og så sætter jeg bare lamper ud for en France's formlære.
+
+19:26
+Jamen, så står der, at den dag når jeg putter den ind i EF, så bliver den bare ganget med lambda.
+
+19:31
+Jamen så ligger den der. Og så er jeg færdig.
+
+19:36
+Og så gør de som de gamle grækere. De skriver altså bingo, når de havde lavet bevis sådan aftale.
+
+19:45
+Jamen altså. Arjen Robben er åbenbart undergrund. Passer det herover?
+
+19:49
+Når jeg behøvede ikke at lægge mærke til hr. Dante linje, da.
+
+19:53
+Ja, det er jo et underrum og denne her linje.
+
+19:56
+Det er jo også under Robben, så det dem vi havde før, er det her bare genialt for Luca?
+
+20:05
+Er der noget andet, vi vi kan lægge mærke til?
+
+20:10
+Jeg vil ikke lægge mærke til én ting her. Når jeg kigger på denne her, så vil, mens jeg tager egne vektorer,
+
+20:17
+der ligger i det ene som Arjen Robben og egne vektorer, der ligger i det andet egen røv.
+
+20:24
+Det er tydeligvis lineært uafhængige kriser. Og det gælder heldigvis generelt.
+
+20:33
+For hvis man er arjen vektorer hørende til forskellige egenværdier, så er man lineære uafhængige,
+
+20:41
+og det er så den næste sætning, som dejan vektorer førerne til forskellige.
+
+21:00
+Egenværdier. Er lineært uafhængig.
+
+21:15
+Fuldstændig som vi kunne se herhjemme. For lad os lige overbevises om, at det er rigtigt godt, så lad os nu sige, at vi har vores lineær afbildning.
+
+21:27
+Og lad os sige A, F og V. Det er lige med lambda et skarn vil et og lad os sige, at F.A.
+
+21:39
+Ved et tog er lig med larm der to gange i tog.
+
+21:46
+Og så lad os sige, at de forskellige ideer er pligt.
+
+21:57
+Okay, jamen så lad os prøve at antage at de ikke er lineært uafhængige.
+
+22:07
+Så nu ser vi antage at eje alene er et uafhængigt.
+
+22:16
+Så jeg antager, at mit fætter i Mefisto ikke er du afhængig.
+
+22:20
+Hvordan er det nu, når jeg har to vektorer, der ikke alene er uafhængige og så de proportionale kræves?
+
+22:29
+Der har to vektorer der ikke alene. Er du afhængig. Så er det proportionale.
+
+22:35
+Det vil sige så er for eksempel ved et lige med et eller andet kog guide i to Ağca.
+
+22:51
+Jamen hvad så?
+
+22:57
+Jamen, så lad os prøve en gang og kigge på vægteren.
+
+23:05
+Hvad hedder det? Vil et andet skifte?
+
+23:10
+Måske skulle børn gøre sådan her. Jeg ser, når tager sig af. F vil hjælpe på den ene side.
+
+23:18
+Det må så være lige med herovre k gange f med to.
+
+23:29
+Og hvad er det lige? Det er det lig med lam, der en gang vil ef det her, det legeme på gang.
+
+23:38
+Læreren der to gange ved to. Og USA.
+
+23:48
+Ja, men kig lige her står du ved et af lege med K Grand WTO, og hernede står der,
+
+24:01
+at hvis jeg ganger med larm der et på den ene side og lambda to på den anden side, så bliver det ved med at være rigtigt.
+
+24:11
+Og lam der eller lam, der tog af forskellige. Det.
+
+24:18
+Her står der to reaktorer, der er lig med hinanden. Hernede er der gange på begge sider af lighedstegnet med to forskellige tal.
+
+24:29
+Kan det være rigtigt at dette er den måde strid og hvad varen modstridende er modstridende var at de ikke var lineært uafhængige,
+
+24:45
+ergo er defineret uafhængigt. Okay jamen fint nok, så lad os prøve at stole videre.
+
+24:55
+Lad os sige bare for en uge for sportens skyld. Prøv engang at tage et et lidt anderledes eksempel den, at det vil jeg kigge på nu.
+
+25:05
+Så lad os prøve at kigge på en lineær afbildning af som guf for zero endelig over et eller andet interval.
+
+25:14
+Eventuelt de reelle tal. Egentlig sig selv og lad os sige f.
+
+25:22
+Af vores ex. Det viser bare at eksmænd er det.
+
+25:34
+Og det vil sige at jeg ikke ser nogen funktion. Og hvis jeg nu skal kigge efter egenværdier, jamen altså så skal jeg have f.ex.
+
+25:46
+Skal være lige med Lambda guide ex. Og det vil sige her skal der stå, at jeg ikke mærke skal være lige lam der gange examen.
+
+25:59
+Lagkage. Jamen, hvad er det for nogle funktioner?
+
+26:04
+Hvad er det for nogle funktioner, som når man differentierer dem, bliver de bare noget med lambda?
+
+26:12
+Jamen altså så må jeg ikke så tage og åbenbart være en eller anden konstant gang i lang tid.
+
+26:24
+Det er løsningerne til den differentialligning, der står der.
+
+26:30
+Og okay, jamen hvad betyder det?
+
+26:37
+Jamen, det betyder, at ethvert reelt tal lambda er egne værdige og det tilhørende Arjen Robben.
+
+26:50
+Det er simpelthen en spand af vækster i Slam der Lampater, fordi k gangene eller andre til dels bagen er den der vægter.
+
+27:03
+Det er et underrum og for ja, for at vise, at nulvæksten ligger der.
+
+27:09
+Så kan du bare sætte på til at være nul. Så har jeg nået funktionen og alle lambda.
+
+27:24
+I deres mænd kigger på reelle funktioner er egenværdier.
+
+27:35
+Da jeg ikke for hvis jeg for eksempel vælger 27, så vælger jeg bare funktionen i 27 3.
+
+27:45
+Dels er vores funktion der udspænder eget, rummet, og den opfylder så den tilhørende ligning.
+
+27:53
+Det er også en anden type eksempel. Eller lad os nu køre tilbage stedet for.
+
+28:02
+Nu kigger vi på det tilfælde, at det er en sjov uge, at vores ved er endelig.
+
+28:15
+Bum! Og det betyder, at nu er vores lineær afbildning af F.
+
+28:20
+De vil altid kunne repræsenteres ved en kvadratisk matrix, så nu er vi i Matrix tilfældet, og så ser vi på.
+
+28:29
+Hvordan gør man så? Hvordan finder man på en systematisk måde egne værdier og har til ord?
+
+28:43
+Og lad os for at kigge på det. Så det handler altså om at klikke på ligningen FR-V ned med lambda v og V må ikke være nul vektoren.
+
+29:00
+Som hvis meehan egenvægt og lambda den tilhørende egenværdi, så gjalder dette afslag.
+
+29:10
+Men hvad så? Okay.
+
+29:13
+Jamen altså, hvis dimensionen er en leg, så kan jeg jo vælge en basis og så i den basis kan have en afvænnings matrix for vores lineær afbildning.
+
+29:26
+Og ja, så lad os sige, at vi har sådan en.
+
+29:29
+Og nu vil jeg bare for nemheds skyld sige, at afvænnings matricen den kalder vi A, for her står der gang i det alligevel.
+
+29:39
+Lambda carten V og V er ikke nul vektoren.
+
+29:49
+Og. Fint nok. Hvad gør jeg så?
+
+29:53
+Jamen, så trækker denne herover og står der af A.V.
+
+29:59
+Mindernes lamper af gangen. Det skal være nulvækst.
+
+30:04
+Og i landvæsenskommissær nulvæksten. Det bliver man lidt træt af at skrive. Husker skal ikke.
+
+30:09
+Og hvad kan jeg så gøre her? Fidusen er, at nu kan jeg jo her putte enheds matricen ind, så her stiller A v mindedes Lambda,
+
+30:21
+og så kan jeg bare skrive Enes matricen, som vi kalder det.
+
+30:26
+Og er gangen v for de eneste matricen gange. Vi er bare ved i det her.
+
+30:31
+Det er nulvækst sådan og sådan.
+
+30:39
+Og hvad kan jeg gøre?
+
+30:42
+Ja, nu står der her en kvadratisk matrix, og det her er også en kvadratisk matrix, fordi det her det enheds matricen ganget med lambda,
+
+30:51
+for det er bare en matrix, hvor der nede gennem diagonalen står Lambda lambda lambda lambda lambda lambda for det eneste matricen.
+
+30:59
+Den har jo et salg og nu er blevet ganget med Lambda.
+
+31:04
+Jamen, så kan jeg skrive det her som denne her kvadratiske matrix gange med vores væg såvel i den nulvækst som.
+
+31:19
+Og vi må ikke være overvægtig. Så læg mærke til den matrix der står her.
+
+31:29
+Den er kvadratisk og hvordan ser den ud?
+
+31:34
+Jo, det er jo bare matricen A. Og så er der trukket langt fra hele vejen ned i diagonalen.
+
+31:41
+Så hvis jeg tager matricen for af og så alle steder i diagonalen trækker larm derfra, så har jeg den matrix.
+
+31:49
+Den matrix denne kalder man nogle gange for den karakteristisk matrix den karakteristiske Matrix Capac til forøges disk matrix.
+
+32:04
+Det er den, der står der, og den er altså kvadratisk og kan.
+
+32:10
+Og nu skal vi bruge noget af det, vi har lært, nemlig mens jeg har en kvadratisk matrix.
+
+32:21
+Og skal løse denne her fotogene ligning. Og løsningen må ikke være nul.
+
+32:34
+Løsningen. Kan jeg så sige noget om den matrix der står der?
+
+32:44
+Lad os lige se en gang, hvis nu den matrix der står over DR er sådan,
+
+32:51
+at vi kan lave Gauss elimination på den og få ledende ettaller hele vejen ned igennem diagonalen og kalde den kvadratisk matrix.
+
+33:03
+Så vil der ikke være nogen for variable med mig. Det betyder så, at den eneste løsning til den ligning da er noget værktøj.
+
+33:18
+Ağca, og det vil sige hvis den matrix der står her, er det der hedder regulære har fuld rang er invertibel.
+
+33:29
+Alle de det ord vi bruger om en matrix, der er kvadratisk og har ledende ettaller hele vejen igennem diagonalen.
+
+33:37
+I sin trapped får den matrix, der står her, kan ikke opfylde det, fordi det må ikke være nul vægteren.
+
+33:49
+Der skal være løsninger til dette lignende system, som er et omega ledning system, som ikke bare er nulvækst.
+
+33:57
+Hvad kræver det? Jamen, det kræver jo, at der er frie variable.
+
+34:07
+Kan det være? I er nødt til at have frie variable.
+
+34:13
+Altså har den matrix her ikke fuld ret.
+
+34:21
+Og hvordan er det nu har vi en metode, der fortæller os om en kvadratisk matrix, har Futura eller ikke determinanten.
+
+34:34
+Det kan også fordi det her der står her.
+
+34:40
+Nemlig at denne ligning har andre løsninger.
+
+34:43
+Nulvæksten fortæller os, at den matrix, der ikke har fuld rang, altså mod den stille terminal, kan være nul.
+
+34:56
+Så dette da kan vi konkludere. Det vil sige, at determinanten af den Mattrick, der stadig menes lambda der ikke må være nul.
+
+35:20
+Bocage. Dette er, men jeg regner det ud.
+
+35:32
+Det skal dog om et øjeblik skal se et eksempel på det. Det her er et polynomium.
+
+35:42
+I Lambda og graden af polynomiet er det samme som dimensionen.
+
+35:50
+Her er lige så dette er et polynomium et enkelt grads polynomium i lambda og løsningerne.
+
+36:04
+Sidst. Til den ligning der står her, som altså er det karakteristiske polynomium sat lig med 0.
+
+36:19
+Det er invaderende. Sexistisk.
+
+36:30
+Og det vil altså sige den måde man finder egne værdier på.
+
+36:36
+Det er ved at løse en ligning. Og at se når man løser sådan en endt grads mening, så kommer løsningerne jo ud med en multiplicere set, kan jeg.
+
+36:58
+Da vi snakkede om polynomier i starten af Cooder sikkert også. Man kan være enkelt rodede, dobbelt rode og så videre rodede Vålse I.
+
+37:06
+Til den kaldte vi det rodede måde til klage og sige til dem, at de enkelte lyster i hans selskab.
+
+37:28
+Det kalder man deres algebraiske novel cycle sitet. Service.
+
+37:43
+Også Algebraiske Motorcycle sitet, og man kalder det altså hvis man har en løsning lambda, så forkorter vi det til algebraisk motorcycle.
+
+38:00
+Sitet er Lambda på denne her måde, og jeg kan ikke rigtig huske, da vi snakkede om dommen.
+
+38:07
+Om vi havde begge ord både rodede mod cykelsitet og algebraisk multiple site på banen,
+
+38:11
+da vi snakker polynomiet i starten fik Kasjanov husk, men altså nu har vi det om et øjeblik, så prøv at se, hvordan det dukker op.
+
+38:20
+Du skal ikke også givet en indledende afbildning, så har vi dens afvænnings matrix, og så bliver jeg spurgt om jamen,
+
+38:27
+lad mig prøve en gang at finde egen egen værdierne og de tilhørende egen vektorer.
+
+38:32
+Hvordan gør jeg så det første jeg gøre, da jeg løser den ligning?
+
+38:40
+Så får jeg løsningerne, og til hver af de løsninger skal jeg så finde egenvægt tågerne.
+
+38:45
+Hvis jeg nu har kommer med en løsning, der hedder Alarm der. Hvordan finder jeg så egenvægt tågerne?
+
+38:51
+Jamen, det gør her, fordi så gør jeg tilbage her.
+
+38:56
+Så sætter jeg min egen værdi ind her. Så har jeg en matrix stående hær, og så løser i dette homogene ligning system.
+
+39:06
+Og det ved jeg har uendelig mange løsninger for.
+
+39:10
+Den Mattrick, som jeg lige har lavet her, den er ikke regulære. Der vil være uendelig mange løsninger, og løsningerne er endnu ikke sunde.
+
+39:21
+De kommer ud på den måde, og nu vil jeg så prøve at lave et eksempel.
+
+39:25
+Må jeg gøre det? Og spørgsmålet var, om det ikke var en god idé at holde et kvarters pause nu.
+
+39:30
+Og så starter vi med eksempel efter pausen. Det tror jeg er et fornuftigt steder og ikke det.
+
+39:37
+Så lad os se det, og så lade det her stå, så regner jeg bare videre her.
+
+39:42
+Fuck jer, I folkens. Kvarteret farves.

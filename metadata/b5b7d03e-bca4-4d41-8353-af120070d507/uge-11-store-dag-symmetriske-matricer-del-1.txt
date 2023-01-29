@@ -1,0 +1,1289 @@
+0:00
+Før kan jeg ikke lade være. Jeg kunne morgen atter.
+
+0:05
+Det er semester uge 11, og det betyder, at de næste to uger, der handler udelukkende omkring differentialligninger.
+
+0:16
+Så i dag er det sidste gang, vi ligesom har ren lineær algebra.
+
+0:22
+Og så skal vi altså bruge lineær algebra til differentialligninger.
+
+0:26
+Men vi skal selvfølgelig have indført en ny matrix og er den matrix, vi skal have i dag.
+
+0:34
+Den hedder en symmetrisk matrix, og den har jeg sådan nogle rigtig fine egenskaber.
+
+0:40
+Og på lille datter skal vi snakke om, hvordan vi kan bruge den til et drejninger og spændende ting.
+
+0:46
+Men i dag handler det så meget omkring teorien i dette, og det handler om Otto Han.
+
+0:52
+Nettet så derfor. Første del af forelæsningen.
+
+0:57
+Det er sådan nogen teknik omkring Ortona mig inde bag sig og den slags, og det hele bygger på,
+
+1:05
+at vi nu indfører længder og vinkler, selv når vi ikke er i planen og rummet.
+
+1:11
+Vi generaliserer det til en, og der har vi brug for prikproduktet,
+
+1:17
+så her til når vi cirka før pausen, og så kommer det nye dermed symmetriske matricer.
+
+1:25
+Men se, vi skal altså snakker med N, og så siger vi altså gearede to vektorer.
+
+1:42
+I er en. Og den ene.
+
+1:46
+Denne hedder a. Og den har elementerne af ét af to op til 1.
+
+1:57
+Og så har vi vektoren B tilsvarende b et B2 op til b 1.
+
+2:08
+Og dem skal vi. Dem skal vi nu undersøge, og vi indfører her nogle definitioner og omfang og så den første definition.
+
+2:29
+Det er prikproduktet. Og det vil altså sige at vi vil gerne kunne prikke A og B.
+
+2:48
+Og det er så bare en generalisering af det prikproduktet kender fra planen og rummet.
+
+2:53
+Altså hvor vi siger ét gange b et plus to gange B2 og så videre.
+
+2:59
+Så her har vi altså a, et B, et plus Panopto, to B2 og så videre op til A end b en eller hvis I vil skrive et kort.
+
+3:19
+Så bruger man som tegnet summen af I have så.
+
+3:28
+At summen af A i et op til at ende, hvor vi kan skrive sådan her dage i fe i, så har vi skrevet det ganske kort.
+
+3:40
+Så har vi et prikproduktet, og det er det hele. At det bygger det helt på.
+
+3:46
+Fordi nu er vi altså i 1. Og da vi ved, at selv om vi ikke kan se begge, så vil jeg så gerne kunne tale om længderne af vektorerne.
+
+3:55
+Så hvis vi nu kigger på ja, og det så det handler nu om længder.
+
+4:05
+Og det vil altså sige jeg vil gerne kunne tale om længden af vektoren A.
+
+4:10
+Og så er det her en generalisering af Pythagoras, som vi har brugt.
+
+4:16
+Altså i planen og rummet. Og I ved jo godt, at længden af hypotenusen, den er kvadratroden af at se, at vi har ét i anden plus, er to i anden.
+
+4:34
+Og det er kun titlerne og det, der er hypotenusen. Tilsvarende hvis det nu er i rummet, så ser det sådan her ud.
+
+4:46
+Og hvis det er en, så skal vi altså bare fortsætte med at få talt kvadratet på disse koordinater.
+
+4:52
+Så kommer vi op til en i anden. Så sådan kan vi altså opskrive længden her.
+
+5:03
+Det bliver jo lidt langt det her. Og så heldigvis, så kan vi jo skrive det her på en meget kort måde.
+
+5:10
+For hvis I lige lægger mærke til hvad, er det egentlig, der står herunder Kvadrat hos tegnet.
+
+5:15
+Hvis vi kigger på prikproduktet, kan se, det minder meget om det.
+
+5:20
+Det er jo bare, hvis vi i stedet for B tager A én gang til.
+
+5:24
+Så er vi altså et i anden er to i anden og så videre, så vil sige en meget hurtig måde.
+
+5:29
+I kan skrive længden på. Det er så kvadratroden af a tricket med sig selv.
+
+5:42
+Og så altså i midten for eksempel ikke. Der kan man så gøre det fuldstændig på samme måde.
+
+5:47
+Altså man har prikproduktet, og så skal man altså bare tage kvadratroden af prikproduktet.
+
+5:52
+Så har i længden af vektoren generalisering og Pythagoras godt.
+
+6:00
+Nu skal vi så snak om vinkler og.
+
+6:08
+Og vi kan jo kigge på vinklen skal vi kaldte den ved mellem de to vektorer a og b.
+
+6:20
+Og igen altså det er jo en definition. Hvad skal vi dog forstå ved en vinkel?
+
+6:25
+Altså i rummet. Der ved vi da er delen, der skal sige en naturlig ting og taler om man ikke i en så derfor igennem.
+
+6:32
+Vi generaliserer. Hvad er det, vi ved? Det er planen og rummet omkring vinklen for så vinklen imellem to vektorer.
+
+6:44
+Der har vi jo cosinus relationen, altså cosinus til vinklen, og det er prikproduktet over længde produktet, så dér prikker vi.
+
+6:59
+Og her tager vi længden af dem. Og så er det altså egentlig kan bevise i planen, at rummet her og nu generaliserer vi.
+
+7:09
+Den er altså. Og så har vi altså her.
+
+7:17
+Og så vil det jo sige, at vinklen den er så bare kurs cosinus til prikproduktet over længde produktet.
+
+7:33
+Sådan er. Og så lad os prøve at tage et.
+
+7:42
+Et eksempel på det. Og den vil sige de fire.
+
+7:59
+Der har vi vektoren A, som er indkommet 1 komma 1,1 og vektoren B, som er 1,0 kommer nul komma 1,0.
+
+8:16
+Og vi vil gerne bestemme. Hvad skal vi forstå ved vinklen imellem de to vektorer?
+
+8:22
+Jeg har skrevet op her, så kigger vi på vores formens op.
+
+8:27
+De kan se, at vi har brug for deres længder. Så der starter vi, så vi starter altså med længden af A.
+
+8:39
+Det var jo noget med et foredrag tråden af første koordinaten i anden plus, anden koordinaten i anden plus tredje koordinaten hjerne.
+
+8:47
+Du ser koordinaten i anden og kan se, det giver så kvadratroden af fire og kvadratroden af fire.
+
+8:56
+Den er så 2. Og så skal vi have længden af den anden vægt, så som så er egentlig anden +0, hjernen plus en i hjernen og +0 hjerne.
+
+9:17
+Og det giver jo bare kvadratroden af 2. Og nu kan vi så også omskrive, hvad cosinus til vinklen imellem dem er.
+
+9:31
+For det er nemlig dér prikproduktet. Det vil sige det er en komma en komma en komma en prikkede med en komma nul komma 1 kommer nul.
+
+9:46
+Og den skal divideres med den længde produktet er to gange pådraget under 2.
+
+9:59
+Vi udregner prikproduktet det 1. Plus +0 plus en +0.
+
+10:04
+Det vil sige den giver 2. Og forneden har vi stadigvæk 2 forkontoret.
+
+10:09
+2. Det forkorter to tallerne væk, og så har vi en over kvadratrod.
+
+10:16
+2. Flot nok, men der er nogle, der ikke kan li, hvad der ikke synes det ser godt ud med kvadratrod og ned i nævneren,
+
+10:25
+så derfor så skriver man om til det, der i virkeligheden er det samme.
+
+10:30
+Så det er altså en tradition, at man gerne vil have, at rødderne står for oven, og så står hele tal forneden.
+
+10:35
+Der er nogen, der synes, det ser pænt ud. Jeg ved ikke, hvad jeg mener, men jeg er sikker på, vi genkender det.
+
+10:41
+Tal fra vores lærer omkring cosinus sinus i de første fire uger.
+
+10:47
+Så har vi nemlig at vinklerne imellem de to. Den er pi kvarte.
+
+10:53
+Så er det, så er vi i gang. Har udregnet vores største vinkel ind, så det er så grundlaget for at tale om ortogonale Ted.
+
+11:12
+Fordi når vi kun snakker om vinkler imellem vektorer i 1.
+
+11:17
+Så kan vi også snakke om at de er vinkelrette, de ortogonale på hinanden og så noget.
+
+11:22
+Man er meget interesseret i at overtage normale baser. Så nu kommer der en ny definition, og den lyder, og den kan vi skrive sådan her.
+
+11:39
+At i en overtog nummer basis, og den vil jeg for kortets skyld kalde for en o.
+
+11:55
+B. Før har al basis vektorerne klinten ind og diger indbyrdes ortogonale.
+
+12:27
+Sådan så fik vi indfører det.
+
+12:36
+For det er jo noget, vi har arbejdet før med før af I planen rummede ikke, så lad os lige se her eksempel for planen.
+
+12:55
+Og der har vi jo set at det vi kaldte for en standard basis.
+
+13:05
+Det var jo en basis bygget op med en.
+
+13:13
+Altså med en digter og en J sig. De har begge to længste den 1.
+
+13:18
+Og de er vinkelret på hinanden, så vi kan altså her skrive standard basis til.
+
+13:33
+Den er en over to normal basis. Og så kan I jo med det samme fortælle mig, at jeg er ind i rummet, da de jo det sammen.
+
+13:47
+Der har vi jo i J. K vektorerne, som alle sammen har længe været, og vi kigger på dem indbyrdes i og J I og K og J.A.K.
+
+13:59
+Hvis vi kigger på de tre vinkler, så er de allesammen 90 grader så sige i JK Basix rummet.
+
+14:04
+Det er også en ordentlig Otto normalt basis, men lad os nu kigge på eksempel.
+
+14:11
+Far er fire.
+
+14:28
+Og I ved i fire, der snakker vi om en voldsom en standard basis, og det er derfor vi kalder standard vektorerne for its i to, i tre og i fire.
+
+14:39
+Lad os lige prøve at kigge på den, for hvis vi kigger på i et væk, så vi prøver at tage dens længde.
+
+14:53
+Ja, det er jo længe. Nu skal vi lige se god nok. Den hedder jo 1,0 komma 0,0.
+
+15:01
+Det er så den, vi gerne vil have længden af. Og det er jo så egentlig enden på snorlige anden +0 hjernen på snorlige anden.
+
+15:15
+Så i ét. Den har altså længe, men og lige sunget.
+
+15:24
+Selvfølgelig med et tog, der vil der så bare stå nålen dér og et dér.
+
+15:36
+Og hvis det er i træ, så har vi et tallet her og nul og de andre steder, den er slem.
+
+15:40
+Men så de har jo allesammen længden af.
+
+15:51
+Så lad os prøve med vinklerne imellem dem, og der prøver jeg bare i ét og i to.
+
+16:02
+Så vi tager her vinklen mellem et og det to, og vi kigger på cosinus til deres vinkel.
+
+16:16
+Så vi skal altså have prikproduktet over længde produktet.
+
+16:28
+Så vi skal altså have det her prick produkt, og nu har vi så fundet ud af,
+
+16:32
+at de har begge to længden 1, så her forneden står der altså en ganget med en.
+
+16:42
+Og så regner vi prikproduktet ud og I kan sagtens se at vi får nul i nul.
+
+16:46
+Vi får nul hele vejen, så der kommer altså til at stå her nålen over 1.
+
+16:52
+Det vil sige når cus tv. Når den er nul, så er vinklen lig med 90 grader.
+
+17:03
+Gælder også kaldet pi halve.
+
+17:09
+Så nu har vi altså bare fundet vinklen mellem ét og i 2. Og så selvfølgelig på fuldstændig samme måde med de andre vinkler.
+
+17:21
+Lige så med de andre vinkler.
+
+17:35
+Og. Hvad er konklusionen her? Den er jo så at Standart præcis er en to normal basis, så det er det vi altså kan konstatere nu.
+
+18:00
+Så nu har vi altså i et vilkårligt vektorrum er en ligesom vi har her i planen, må vi altså har sådan et sædvanligt koordinatsystem.
+
+18:11
+Så har vi altså også nu. Altså I er end et standard årti.
+
+18:16
+Normalt koordinatsystem er det ikke blot ved hjælp af generalisering af prikproduktet og igen.
+
+18:24
+Lad mig lige understrege. Hvad var det vi gjorde?
+
+18:29
+Når vi snakker om længde og vinkler ikke så i planen og rummet, da er længden på denne her måde og vinkler.
+
+18:38
+De er på denne her måde. I kan bare tage nogle eksempler og så bruge en tommestok og en vinkel måler.
+
+18:44
+I kan jo se det passere, men her som vi går op over, er tre, så er vi altså dér, hvor vi definerer mest det.
+
+18:53
+Det er ikke sådan her, vi siger det skade være sådan her.
+
+18:58
+Sådan vil vi regne fremover. Så så har vi altså indført det her og kan nu også som en konsekvens indføre et standard koordinatsystem.
+
+19:08
+I er 1, som er 8 er normalt. Nu skal vi så snakke om.
+
+19:19
+Hvordan finder man så en ottere normalt basis, og der har vi frem smidt algoritmen.
+
+19:49
+Og det er altså sådan en meget teknisk ting, som den finder i den første sådanne finder ikke den anden.
+
+19:57
+Den finder i det tredje. Så det er sådan det er procedure og algoritmen.
+
+20:02
+Det her er i en værre lineær algebra bog i hele verden.
+
+20:08
+Der lærer man det her, og så vidt jeg har, så et dansk islæt.
+
+20:15
+Vi har her gram, altså en sønderjyde.
+
+20:20
+Jeg tror ikke, han er kendt for noget andet, end at han har lavet denne her algoritme og så en tysker, der hedder Schmidt.
+
+20:25
+De har altså udviklet det her uafhængigt af hinanden og så kælderen.
+
+20:29
+Så de er så algoritmen blev opkaldt efter dem begge to. Så hvordan kan jeg nu?
+
+20:37
+Altså, nu vil jeg prøve at se. Der er jeg så, fordi den er lidt. Den er jo sådan lidt teknisk, men lad os se, om vi kan prøve at forstå den.
+
+20:44
+Og hvis man skal forstå algoritmen, så hopper jeg lige tilbage til før efterårsferien,
+
+20:50
+hvor vi snakkede om produktioner, bortset hvis vi har her, og jeg tror godt, at de kan hustle sig.
+
+21:03
+Se dette her. Det er en enhed svigter. Det vil sige, at den har linken en del.
+
+21:08
+Derfor har jeg kaldt den for en. Og hvis vi prøver at producere den dér ned på vektoren, hvordan gør vi det?
+
+21:17
+Så skal vi lige have forlænget den der, for så fokuserer vi lodret ned her.
+
+21:28
+Og så den vektor, der ligger herfra og her til.
+
+21:34
+Og det er den vektor, vi kalder for projektion af A.
+
+21:41
+Nægter K en vektor? Og det vi så fandt ud af det var hvordan kan vi, hvordan kan vi udtrykke det i?
+
+21:52
+Altså i planen og rummet. Der sagde vi så, at produktionen af a vægteren på inspektøren.
+
+22:03
+Og den kan vi få som prikproduktet er de to.
+
+22:11
+Og sagt gange med ét. Så det var den form, vi snakkede om før efterårsferien.
+
+22:21
+Og det er jo altså det, der prikproduktet nu har generaliseret til M.
+
+22:26
+Så nu kan vi så også snakke om og jährigen, og lad os lige se, hvad det der står her.
+
+22:32
+Det skal forstås. Her er der jo taget prikproduktet, et prikproduktet, et tal, så der står i parentes,
+
+22:38
+at det er det bare et tal, som udtrykker længden af denne her produktion,
+
+22:42
+mens indtægterne dens opgave er bare at udtrykke, at dens retning i længden og retningen gøres, så er vi klar.
+
+22:59
+Så siger vi, så siger vi så.
+
+23:04
+Vi siger et et pip et dimensionalt underrum.
+
+23:14
+Det skal vi kalde ud. De er en denne udspændt af vektorerne o et foto, og så skal vi op til py, fordi det er et modejournalist underrum.
+
+23:42
+Så den sidste vægtere her hedder altså UPI, og vi skal selvfølgelig forestille os, at P er mindre end eller lig med 1.
+
+23:51
+Så det er altså et undermund. Og så det, der bliver det der, så er vores opgave.
+
+24:00
+Det er opstillet en otto normalt basis og.
+
+24:10
+Som vi kan kalde for ved et need to op til VP, altså for det selv samme underrum, så er det.
+
+24:31
+Så det første vi gør. Det er at altså vokser skal være set den første ved væk, så her.
+
+24:42
+Den skal jo have længden en. Og så kan vi jo bare blive o hér og sammen nogle mere u.
+
+24:49
+Så har vi. Så nemt kan vi få den allerførste vi, så det er ikke det sværeste. Så så læg mærke til det.
+
+24:56
+Altså den første basis specter i den ortona mail basis.
+
+25:02
+Den får vi ved at når mere brug et tak.
+
+25:12
+For hvordan når mere man en vektor? Det er jo at man tager vektoren selv og dividere med dens længde, så får den længst, men så det var nemt nok.
+
+25:26
+Og nu skal vi så bruge to år til at finde vores veto med.
+
+25:31
+Men nu skal vi jo sørge for, at den er. Altså den at vinde klart her på den, vi allerede har fundet, så prøv lige at se, hvad vi gør her.
+
+25:41
+Se, nu tegner jeg lige den der. Den har vi et vektor, som vi lige har fundet.
+
+25:51
+Og så kigger vi på. Hvordan ligger så U-2 i forhold til den?
+
+26:00
+Lad os nu sige at dette her er vores U2 vektor.
+
+26:05
+Så nu skal vi se den idé jeg nu får. Det er så hvis jeg nu lige får længere denne her.
+
+26:16
+Og så prøver jeg serie laver jeg produktionen på.
+
+26:20
+Her kan I se så et væk, så der ligger her.
+
+26:26
+Denne var faktisk vinkelrette på denne her, så den kan altså bruges på en anden måde.
+
+26:30
+Den skal bare normerede bagefter. Så nu laver jeg altså her en hjælper værktøj W.
+
+26:36
+2. Så lad os lige kigge på den.
+
+26:49
+Så den skal vi altså have fundet ud af. Først så jeg så her, jobbet med to er med.
+
+26:59
+Og det dér, den vægtede jeg forestiller mig, da der starter her.
+
+27:04
+Og så slutter den her, og så ved vi jo, at den vektor, der ligger her, plus den vektor, der ligger dér.
+
+27:14
+Altså det er jo en vektor som denne er lig med U2. Så det vil omvendt sige, at denne her dobbelt veto.
+
+27:21
+Det må være U2 minus den der. Og så hov, hvad er det lige denne her er?
+
+27:35
+Hvordan kan vi karakterisere den nærmere? Er tosproget.
+
+27:45
+Det er produktion bog af U2 på en ene svigter.
+
+27:50
+Det var lige præcis det, vi snakkede om der. Så det her er produktionen af U2.
+
+27:59
+K, v ed nægter. Så nu får vi så U2 minus.
+
+28:10
+Og så var det jo, at vi skal prikke de to med hinanden.
+
+28:15
+Så får vi et tal. Og så skal vi gange med ved ét.
+
+28:20
+Så det bliver altså prik fru to gange med ved ét.
+
+28:26
+Det er et tal. Det er dens længde, og så ganger vi somme med ved et.
+
+28:33
+Altså den ene sektor, som producerer ned på her. Så det må hjælpe lektoren.
+
+28:41
+Nu har vi en vektor, da er der vinkelrette på video, og nu gælder det så bare om nummeret.
+
+28:48
+Så har vi vores snit 2. Så her der nu.
+
+28:51
+Nu har vi allerede her fundet ved ét, og nu har vi altså her med 2.
+
+28:59
+Men så hjælper digteren W. 2. Divideret med længden af WTO.
+
+29:07
+Sådan da. Og bemærk, at så nu kan vi.
+
+29:12
+Nu kan vi jo vælge ligesom at flytte denne vektor over i origo.
+
+29:20
+Og så har vi normerede den, det vil sige nu skatten. Nu skal den have samme længde som et digt.
+
+29:25
+Det har vi altså som i to vektoren for at have fundet. Altså en sådan en fronterne med et basis i dette to dimensionelle underrum.
+
+29:41
+Så nu har vi altså. Nu har vi så altså et og vi to, skal vi prøve at se hvordan.
+
+29:50
+For den kunne vi tænke os, at de ligger, skal vi sige.
+
+29:54
+Her har vi. Dér har jeg vi et.
+
+30:05
+Det har jeg vel to liggende, og de ligger jo så og udgør altså de udspænder en plan,
+
+30:14
+så der skal vi altså tænke os, at vinklen her er, så vi kigger skævt ind på den, ikke.
+
+30:19
+Men så er den jo 90 grader vinklerne imellem de to der.
+
+30:29
+Og nu skal vi så udnytte U3. Så hvordan ligger U3 som der ligger her?
+
+30:39
+Dér har U3 vektoren. Og så nu vil jeg gerne have mig en hjælper digter som hedder W.
+
+30:52
+3. Hvad var det jeg gjorde før jeg producerede ned?
+
+30:56
+Det gør jeg også her. De producerer den. Dermed skal vi sige, de når dertil.
+
+31:04
+Så har vi altså produceret dem ned. I den plan, der er bestemt, er vi et og vi to.
+
+31:09
+Og det er som en Jelved vægter vi 3 6.
+
+31:19
+Og så skulle vi lige kigge på, for det er den vektor, der ligger for ordet god.
+
+31:29
+Og så er jeg tæt på eksotisk punktet her. Den bliver vinklet, så den er så 90 grader i gråt, og så har vi nu, at min hjælp svigter ved tre.
+
+31:45
+Den er så i tre minus af. Sådan er.
+
+31:58
+Og nu kigger vi så lidt nærmere på denne her anlæg, så den vil vi gerne have beskrevet nærmere.
+
+32:06
+Den ligger jo nede i planen, og der udspandt der, ved vi to, og nu prøver jeg så at lave mig et parallelogram.
+
+32:18
+Se altså en linje, der er vinkelrette med den ene akse her, og så en linje, der er fin nok med den anden akse her.
+
+32:29
+Og kan I så se, så den vækster, der ligger her?
+
+32:32
+Den er så sund, men den er summen, at den vækster, der ligger her.
+
+32:42
+Så den vækster der ligger her op til så nem vækster der ligger her, plus den der vækster, der ligger her.
+
+32:49
+Den giver lige præcis den avec, vi har dér. Og så kan jeg så se, hvad er så den her væg, så der ligger her?
+
+32:59
+Den er i virkeligheden produktionen af uld træ nede bagved.
+
+33:05
+Prøv at se, hvis I nu tegner her. Så er jeg så utryg vektoren positioneret på ét.
+
+33:14
+Og så skal vi have den anden, når den kommer til at ligge lige oven i den første.
+
+33:20
+Her skal vi sige, at den gik dertil, som den passer.
+
+33:25
+Det står også bedre set den bedste, der ligger her. Det er produktionen af u ned på B2.
+
+33:34
+Så vil jeg sige, at af med et ton den er produktionen af på et plus produktionen af U3 på et Vito, og det betyder nu, det vil jeg godt dele.
+
+33:46
+Det er langt over det, så er det den her også. Så har vi altså, at den er lig med U3.
+
+33:55
+Minus produktionen af en tre på vi et også har minus den anden produktion, som var produktionen af uge U3 på V2.
+
+34:18
+Sådan da. Og nu skal vi så bruge vores formen igen.
+
+34:25
+Så har vi så, at vi tre vægter. Den er så lig med at hjælpe værktøj U3 får vi altså herfra for den over tre væg.
+
+34:39
+Hvis vi trækker produktionerne fra, det vil sige først, så skulle vi have produktionen af uld træ på på, at vi er ét.
+
+34:52
+Den har ideer og så minus produktionen af uld træ på V-2, og det har I, så det er sonde.
+
+35:06
+Så nu har jeg altså karakteriseret som min hjælpe væg ved træ.
+
+35:11
+Og hvordan får jeg så den i Afrika liter ud efter ved tre?
+
+35:18
+Det gør jeg ved at normerede hjælpe vektoren, så nu har når I har dannet ved træ på denne her måde, så får jeg så at vide.
+
+35:26
+3. Den er i 11. Vægteren dvd'erne med dens længde.
+
+35:39
+Så hvis man kigger på tegningen igen nu, kan vi.
+
+35:44
+Nu kan vi flytte den derhen i Rodrigo og så vores voksende træ.
+
+35:48
+Den har samme længde som ved et og vi to.
+
+35:52
+Og så har vi altså her fundet vores vores med tre lægter, og så er han ind i en 8'er normalt basis for dette tredimensionelle kanonere.
+
+36:06
+Og så den forudsætter man. Og nu kommer så algoritmen, skal vi lige slå den op og se den.
+
+36:23
+Den allerførste var den nemmeste, da ikke sandt?
+
+36:28
+Det var den, hvor vi bare tog den u et vi havde. Som vi divideret med dens længder.
+
+36:43
+Og så hvad så med den korte fætter, altså kort det er et tal der ligger imellem 1 og P.
+
+36:51
+Hvis vi kigger på den korte vægt, så lad os se, hvordan får vi den?
+
+37:05
+Ja, der skal vi lige have, skal vi først starte her med den korte hjælpe vektor, som vi får ud fra den givne UCR vektor.
+
+37:20
+Og så skal vi trække her. Der var oppe i et træ, der skulle vi trække to korrektioner fra.
+
+37:27
+Nu skal vi trække kor minus egenproduktioner fra denne, og dem bliver altså minus.
+
+37:34
+Og så skal vi have den første produktion. Det er U.
+
+37:38
+K. Vægteren tredjekæden med den første bokser.
+
+37:44
+Gange med den første og så minus.
+
+37:49
+Produktionen på den anden er så u.
+
+37:52
+K prikket med V 2 gange med det 2.
+
+38:02
+Så dette kunne vi læse, at det var ved et sådan. Og sådan skal vi fortsætte.
+
+38:08
+Minus og minus op til o.k.
+
+38:17
+Prikket med V minus. Altså med indekset kommer nu scenen for gange med vægteren på minus 1.
+
+38:34
+Altså hjælpe med etteren forrige. Så ved vi hjælpe lektoren K fra forrige uge fra Ukhov.
+
+38:41
+Og hvor I trækker produktionerne af Ukhov fra de første kurve minus ind I har fundet i den nye Ortona ud af en basis,
+
+38:50
+så kører man altså frem, og så får I altså her v k vektoren.
+
+38:58
+Den er så dobbelt B.K.
+
+39:02
+Vektoren divideret med dens længde sammen.
+
+39:09
+Der fik vi så det et vilkår for her, så kog lig med et bagt T.P.
+
+39:24
+Så har vi fundet vores Orton mail basis.
+
+39:31
+Jeg fornemmer en vis tavshed i auditoriet. I et vist forbeholdent bør ændres interesserede udtryk.
+
+39:39
+Det er lidt nørdet. Det kigger lige på et eksempel. Kan.
+
+39:54
+Og vi kigger på er 4 og 3 i A4.
+
+40:02
+Der har vi givet væk. Skal vi sige at vi har brug et DNA er fem kommer.
+
+40:13
+Nul komma nul komma nul. U2 den er 1,1 kommer 0,1 for o 3.
+
+40:25
+Den er to komma nul komma nul komma to sondern.
+
+40:36
+Ideer. De er lineært uafhængige. Det beviser jeg ikke nu, men det siger jeg bare det ærligt.
+
+40:42
+Så de her tre vektorer udspænder et tredimensionale underrum.
+
+40:48
+I er fire. Og hvordan kan vi dog finde en ortona med et basis for det underrum, der udspændt af disse tre vektorer og.
+
+41:01
+Vi bruger bare Goldschmidt algoritmen. Og så ved vi, at den første ved et den får vi ved at tage den første fat.
+
+41:15
+Den første lektor i sættet fra DVD'er med dens med dens længde er så u værktøjer divideret med ubrugt længde.
+
+41:30
+Se, det kan ikke være nogen tvivl om at den dør, den har længden 5.
+
+41:36
+Så det vil sige at den første. Den bliver bare simpelt hen 5,0 kommer 0,0 divideret med fem.
+
+41:53
+Og så har vi altså den der. Så skal vi have fundet altså en hjælpe svigter.
+
+42:04
+Altså den hjælper vektor, der hedder dobbelt med 2.
+
+42:16
+Og der skal vi så starte med at så hjælper lektoren to starter med vektoren U2, så her skal vi altså starte med denne her.
+
+42:27
+En 1, 0 og 1 og så minus.
+
+42:35
+Så skal vi have projektionen af U2 for den første, vi har fundet her.
+
+42:43
+Og det vil sige først skal vi lave et prikproduktet sådan at den selv samme, som vi har stående dér.
+
+42:55
+Så skal prikkes med det ét, som vi har fundet her. Se det her.
+
+43:05
+Det der skete, kom tallet ud af dette, og det er et bryg produkt. Og så.
+
+43:10
+Og så skal vi altså guide den med 1 0, nul og nul.
+
+43:20
+Og så lad os lige starte med at udregne dette prikproduktet en gang inden der giver én, og så giver de andre nuller.
+
+43:30
+Det vil sige prikproduktet her. Det er bare en. Og så kan vi jo.
+
+43:40
+Så kan vi jo. Nu får han så en Dudek, også fordi så kan vi altså sige, at her der får vi så en.
+
+43:50
+For så har vi et 1 tal her, der skal ganges med. Denne her trodsige hjælp hjælper digterens første koordinat, der hedder 0.
+
+44:00
+Og så kigger vi på dagens anden koordinat. Der skal vi tage et tallet og gange med 0.
+
+44:06
+Så er der ét tilbage, og I kan se, vi får nøgler.
+
+44:11
+Altså, vi skal nu også trække noget fra på de sidste to pladser, og så får vi så 0 1, 0 1.
+
+44:23
+Så det var altså vores at hjælpe. W 2.
+
+44:27
+Og så skal vi have V-2. Vox V 2 Vi har altså fundet ved et.
+
+44:36
+Og nu skal vi have V-2, og det får vi så ved at sige W 2 divideret med dens længde, og den er dens længde.
+
+44:52
+Det nordlige anden altså kvadratroden af nordlige anden inde i anden nordlige anden inde i anden lagt sammen.
+
+44:58
+Det bliver kvadratroden af to Societe. Den dér skal altså divideres med kvadratroden af 2.
+
+45:04
+Og så får vi her nul komma 1 over kvadratrod 2.
+
+45:09
+Og så får vi noget, og så får vi en kvadratrod. 2. Så det var altså den anden, jeg nu har fundet.
+
+45:19
+Så her var den første, der var den, vi fandt her.
+
+45:26
+Og så mangler jeg blot den tredje. For.
+
+45:48
+Så når vi skal have den tredje starter med en hjælper lektor, som hedder W3C.
+
+46:01
+Og der skal vi starte med uge tre gode tre. Det var jo den, der hedder 2 0, 0 2.
+
+46:15
+Minus, og nu skal vi så have kollektion da nu skal vi trække to produktioner fra først
+
+46:22
+sten derpå ved et bagefter på den derpå hvide 2 er den vektor der står her,
+
+46:28
+så sige der kommer er sat prik product her og er den vi har.
+
+46:36
+Og den skal ganges med den første. Det vil sige ved et megaton.
+
+46:42
+Jeg fandt det, og det er et prik produkt, der skal ganges med ved et.
+
+46:51
+Det er den egenproduktion, der er trukket fra. Nu skal vi så have produktionen på den anden.
+
+46:57
+Så igen er det U3 vektoren, jeg kigger på her.
+
+47:04
+Nu skal den trækkes med den anden vej væk, så vi fandt på.
+
+47:10
+Hvad hed den? Kommunerne ind over kvadratrod 2 0 og ind over kvadratur.
+
+47:18
+2. Dette er det at prikproduktet og den skal ganges med ved 2.
+
+47:33
+Sådan er. Så vi prøver lige her, og vi prøver lige, at inden vi går videre,
+
+47:48
+så tager vi lige denne her mellemregning, altså prøver og finde prikproduktet af de to dér.
+
+47:56
+Vi kan se, at der kommer kun bidrag fra de første, der så prikproduktet.
+
+48:01
+Her er så to. Og så kigger vi på prikproduktet her.
+
+48:08
+Nøglen nul, nul og to gange med én over for at dratte mod 2.
+
+48:17
+Det giver kvadratrod 2. Og så regner vi lige videre på det her.
+
+48:30
+Hvor langt er vi nået? Se, nu har jeg sat det tal som jeg skal gange ved et væg med, og så bliver det bare, hvor vi får et 2 tal foroven.
+
+48:46
+Så vi skal altså trække 2 0, 0 0 fra minus, og det her var jo et tal.
+
+48:57
+Det var prikproduktet, vi har regnet ud.
+
+48:59
+Der skal gange se en på de fire koordinater, vi har, der også er kvadratrod to ganger med enorme kvadrat nummer to.
+
+49:08
+Den er jo en. Og så må det give det her.
+
+49:18
+Sådan. Så vi siger altså 2 minus 2 0.
+
+49:27
+Det må give nul, og så har vi altså nul minus nul minus én der giver minus 1.
+
+49:39
+Og så har vi nogle 0 0. Den giver nul. Og så har vi her to minus nul minus én.
+
+49:47
+Den giver så en. Nu har vi fundet hjulpet af at hjælpe lektoren, og nu skal vi bare nogle af dem.
+
+50:02
+Vi har denne her. Så har vi så vi er tre og er så w.
+
+50:09
+Tre divideret med længden af w 3.
+
+50:18
+Og I kan se. Det er altså denne her, vi skal normeret. Det er klart den der vægter, altså ligesom den anden i øvrigt.
+
+50:25
+Vi fandt lidt, hvad denne her er. Den er kvadratrod.
+
+50:30
+Denne 2. Så ville jeg sige, at vi skal gange denne med kvadratrod.
+
+50:35
+2. Og så får vi i stedet for 0 minus 1 over kvadratrod 2 og 1 nålen og 1 år fra grafen.
+
+50:46
+To sonder. Så fandt vi ved 3. Og kan I se.
+
+50:59
+Men det har længe, men det har længe man har ledt den ind, så de har allesammen lidt med.
+
+51:08
+Skal vi lige prøve at tage et prikproduktet imellem dem? Vi tager vores med ét, sætter prikker med den dør.
+
+51:16
+I kan se, den giver nul. Vi tager det ét og prikker med de tre.
+
+51:23
+Vi kan se, den giver nul, og så tager vi vel to og prikker med hver.
+
+51:28
+3. Se, så får vi nul minus én plus nul +1.
+
+51:34
+Det giver også nul. Så de har os alle sammen længe, krigen og de indbyrdes ortogonale.
+
+51:41
+Vi har fundet dem ved hjælp af Cam Smith's algoritme og kan nu konstatere, at.
+
+51:47
+Og så er det et komma.
+
+51:53
+B2 komma er tre en foretog nu er jo basis for det underrum vi startede ud med.
+
+52:04
+Sådan. Så har vi lige en pausen, skal vi lige snakke lidt om ortogonale matricer,
+
+52:18
+og nu får I lige lov til at trække vejret, mens jeg sletter et par tavler som.
+
+52:31
+Derudover har der flere.
+
+52:39
+Banen har ellers ikke. Vi havde regnet med, at man netop derfor kunne redningsfolkene, som der er behov.
+
+52:48
+Ja, der nogen der råber. Jeg vil trække bukserne ned i meget lang, og jeg er kommet godt fra.
+
+52:59
+Alt i alt bliver.
+
+53:02
+Det var først da han var kommet sig over folk, der var ikke mange, der ikke har handlet i strid med reglerne, men jeg er rystet over.
+
+53:14
+Eller. Det sætter gang i Auroravej og gentager han denne mandag.
+
+53:23
+Det er det der gør det relevant at. Højesteret.
+
+53:30
+I samme ombæring. Jeg glæder mig.
+
+53:34
+Det er noget der bare minder. Lørdag formiddag.
+
+53:39
+53 landskampe. Jeg har prøvet det før, så det harmonerer på, men det har det været nærmest indtryk af mig selv.
+
+53:45
+Der er intet, der gør sådan.
+
+53:49
+Jeg har, jeg har det godt. Statsadvokaten har været under hegnet, og jeg kan være.
+
+53:58
+I Danmark har jeg svært ved at beslutning, men jeg havde det svært med at holde sig indendøre,
+
+54:10
+så vi har lige det sidste, vi skal snakke om her inden pausen.
+
+54:15
+Det er en matrix, som hedder en ortogonale matrix og så en matrix.
+
+54:27
+1 da vi kan se 1 1 Cos 1 matrix Q kaldes en ortogonale matrix,
+
+54:46
+men hvis dens søjler udgør en ortona med en basis og altså en over to normal basis i er 1, må det blive.
+
+55:17
+Så jeg har altså sådan en ind, altså en matrix. Den har en søjler og disse søjler deroppe.
+
+55:25
+De udgør en over to normal basis for det her vektorrum er en.
+
+55:33
+Og så ville det jo have været genialt, hvis sådan en matrix, hvis den var blevet kaldt for en over to normal matrix.
+
+55:43
+Men det gør den altså ikke.
+
+55:44
+Traditionen har villet noget andet, så her må jeg så leve med, at der sådan set er to begreber, der er lidt forskellige, men faktisk er det samme.
+
+55:54
+Den burde hedde Otto Normal, men den hedder Ortogonale. Så når får nu se på, hvad vi siger, nu står vi lige.
+
+56:09
+Den er lidt mere præcist op. Lad os kalde den Q.
+
+56:13
+At den har de her søjler ved et veto to aktive ind, så de søjler.
+
+56:28
+De er så en med basis. Nu prøver jeg så at lave følgende matrix matrix product.
+
+56:38
+Jeg tager to transformeret og ganger med Kusk selv, så.
+
+56:49
+Forklaring følger, hvorfor jeg finder på det her. Det viser sig nemlig, at det bliver lidt sjovt.
+
+56:57
+Skal vi kigge på den her, så hvad det egentlig er for nogle matricer, som vi ganger sammen her.
+
+57:10
+Her den sidste. Det er jo bare sådan lige som vi plejer fik også var vi hvor vi.
+
+57:15
+Her har vi et veto op til ved en.
+
+57:23
+Og så må vi opfatter dette som nogle søjler.
+
+57:32
+Men den der står her er jo så transponeret.
+
+57:37
+Det vil sige nu kigger vi altså på række lektorer i stedet for. Så nu har jeg altså her ved et veto og ned til ved 1.
+
+57:48
+Og nu skal jeg, så forestil jer disse vektorer som række vektorer.
+
+58:02
+Og så når vi skal udregne det her, så ved vi jo, at det der skal stå heroppe i venstre hjørne.
+
+58:11
+Det er jo prikproduktet. Er den med det? Så her op der kommer der altså til at stå ved et prikket ind bag sig selv.
+
+58:27
+Og så det der skal stå her.
+
+58:31
+Det er jo prikproduktet af den øverste med den anden søjle her, så skal vi altså gange ved EP med veto prik med et prik, som vi to par giver det.
+
+58:49
+12. Hvorfor? Fordi det giver nul, fordi vi har jo sagt, at de udgør en 8'ere normalt basis.
+
+58:58
+Så når I ganger to vektorer med hinanden. Det er ikke den samme vektor.
+
+59:02
+Tak for det. Så giver det nul. Så vi får altså 0 0 0 og på samme måde her.
+
+59:09
+Så her i Gerster skal vi jo tage den anden ganger med den. Den giver også nul.
+
+59:13
+Så er det først dér, inden vi får et nej undskyld ved to gange med 2 0 og alle de andre vegne.
+
+59:22
+Og så her ned. Der får I så ved en prikket med.
+
+59:26
+Så selv. Så nu har vi altså udnyttet at de er ortogonale, så lad os lige prøve at kigge på længden af deres indlæg.
+
+59:41
+Så hvordan var det nu, vi definerede den?
+
+59:46
+Det var jo kvadratroden, at dens prikproduktet sig selv, og den er sat til 1.
+
+59:55
+Så vil jeg så sige, at hvis parat roden, at det her giver en.
+
+1:00:00
+Og det er en længde vi snakker om, ikk? Så er den her selv en sådan.
+
+1:00:07
+Når vi prikker ved ét med sig selv, så giver den en.
+
+1:00:13
+Og på samme måde med alle de andre lektoren. Når vi prikker dem med sig selv, så giver det tallet ét.
+
+1:00:20
+Så nu får jeg altså en nål ind.
+
+1:00:30
+Og det er jo lige præcis Enheds matricen.
+
+1:00:40
+Nej, vi kan godt lide på sager. Så tager vi lige konklusionen her.
+
+1:00:48
+Så hvad har vi så fundet her så kort sagt. Den første ting jeg bemærker det er, at hvis I tager.
+
+1:01:05
+Dette er Matrix Matrix produkt, så får I Enheds matricen kassen ja, man se på hvor åbnede sig med ekstremløb.
+
+1:01:16
+2. Du må ikke slå det efter. 2. De ligger jo tak for Skat.
+
+1:01:25
+Ja tak. Så fik vi lige rettet det.
+
+1:01:32
+Men befandt der sig at de to gange med hinanden de er lig med E.
+
+1:01:36
+Hvis jeg nu gange med Q enhvers på begge sider, så kommer det til at stå Q imellem første her,
+
+1:01:45
+og så kommer der til at stå q transponerede her på venstresiden, altså gang med Q i mine største fra højere på begge sider af lighedstegnet.
+
+1:01:54
+Så får I det her meget, meget fine udtryk. Nemlig at Q transponeret er lig med Q enhvers.
+
+1:02:09
+Hvad siger I så? Det er altså noget der kun gælder for ortogonale matricer.
+
+1:02:18
+Kan I huske hvor besværligt det var, når man skulle finde en inverse matrix op, skriver en kæmpe total matrix Gauss reduktioner og så et tallerne dér.
+
+1:02:30
+Og så skulle man tage den sidste ud. Se hvor nemt det kan gøres.
+
+1:02:34
+Hvis vi her med en vejrudsigt til en ortogonale metro, så kan bare transponeret den.
+
+1:02:41
+Og nu mangler jeg kun lige den sidste pointe inden pausen.
+
+1:02:49
+Prøv at se. Hvis jeg nu tager determinanten, er produktet af den transponerede gangene matricen selv.
+
+1:03:07
+Og så er det jo lige med determinanten. Og det er en generel regel.
+
+1:03:16
+Determinanten af et produkt, det er produktet af et determinanten af faktorerne.
+
+1:03:29
+Så og kan I huske determinanten af en transponerede matrix være lig med.
+
+1:03:41
+Determinanten er en af en transponerede matrix kan justere.
+
+1:03:49
+Det er usselt hvis man laver oplysning efter første søjle, skulle man lige så godt lave oplysning efter første altså første række.
+
+1:03:57
+Først solgt de ligeglade med hinanden. Det vil sige determinanten af transponerede.
+
+1:04:01
+Den er lig med determinanten af matricen selv. Så du sige, at det er det?
+
+1:04:06
+Det giver altså determinanten af q gange determinanten af Q.
+
+1:04:11
+Så har et determinanten af q i anden.
+
+1:04:20
+Så hvad var det vi fandt ud af her? De to matricer dér er jo lige med enheds matricen, som jeg kunne sådan set med.
+
+1:04:28
+Det samme har sagt, at det er dér, det giver en.
+
+1:04:40
+Fordi det determinanten er enheds matricen og note, altså det her, som vi lige skal bruge til at få det sidste resultat hjem med.
+
+1:04:46
+Det handler nemlig om determinanten af en ortogonale matrix.
+
+1:04:51
+Især hvis den i anden, hvis den er limet ind, så kan determinanten selv være minus 1 eller +1.
+
+1:05:02
+Prøv at se determinanten af Q.
+
+1:05:07
+Altså en ortogonale matrix. Den er altid lige med +1 eller minusser.
+
+1:05:16
+I dette tilfælde kalder man den for positiv. Otto Ronald.
+
+1:05:30
+Mens man i det sidste tilfælde der kalder man den så for negativ Ronald de Ortogonale begge to,
+
+1:05:40
+men alt efter om deres det er Tennant af en eller minusser, så kalder man dem så negativ eller positiv.
+
+1:05:47
+Kunne have pauser i.
+
+1:05:54
+Hvis den var slem, er det.
+
+1:05:58
+Er det okay? Ja, det kan også.

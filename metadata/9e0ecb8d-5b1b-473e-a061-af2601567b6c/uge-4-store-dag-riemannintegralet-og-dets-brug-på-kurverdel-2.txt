@@ -1,0 +1,572 @@
+0:19
+Ja, vi er klar igen og lad os lige se, hvad var det, vi lavede her til sidst?
+
+0:25
+Vi fandt ud af, at hvis vi differentierer vores parameter, kurve eller parameter fremstilling, så får vi en tangent effekter.
+
+0:35
+Så vandt vi ud af, at den vej som partiklen er gået.
+
+0:45
+Vejle der. På kurven. At den er tilnærmet er længden af tilvækst vektoren vil sige nu kigger vi faktisk på kroppen i stedet for.
+
+0:59
+Det var den der vi kaldte, for det er det.
+
+1:03
+Det var ellers den vejledning, der bliver gået. Det var den, vi kaldte for S.
+
+1:07
+Så vejen partiklen har gået, og det er længden af parameter for omstillingen og så gange med den tid,
+
+1:16
+der er gået, og det er baggrunden for, at vi kalder den. Derfor er den ikke.
+
+1:20
+Det vil sige er magi i nul, som vi har kaldt for tangent.
+
+1:25
+Vektor er mere det u nul. Den er faktisk også høstede svigter, for den giver nemlig både retningen, det tangenten og så giver den farten.
+
+1:36
+Altså meget knald på partiklen i det punkt. Det skal vi.
+
+1:41
+Vi skal bruge noget af det der lige om lidt, fordi nu skal vi snakke om kode, integraler,
+
+1:46
+og hvor vi kombinerer Venstre stormer og det vi har snakket om parametre, kurver her og ikke.
+
+1:54
+Så prøv at hør først teori, og så er et eksempel.
+
+2:03
+Og vi starter med at glide fra en Q&A i action planen.
+
+2:19
+Ved R er u, hvor U ligger i et interval fra A til B, altså ligesom før pausen, så betragter vi en funktion af to variable.
+
+2:40
+Skal vi ikke kalde dem for f. Eks Germany. Og den fortolker vi.
+
+2:51
+Som en som en masse tæt røg, der var lige så, og vi fortolker restriktionerne.
+
+3:06
+Restriktionerne. Af F til Cohen.
+
+3:23
+Som en masse til deres funktion. Og.
+
+3:37
+Igen langs med kurven. Der ved vi hvordan masse tætheden den.
+
+3:43
+Varierer. Vi har en lokal viden, men hvordan?
+
+3:48
+For vi så fundet ud af hvad hele kuren vejer. Og det er det vi skal prøve at arbejde med nu.
+
+4:09
+Godt lad os prøve at tolke den kur. Det kan være den.
+
+4:23
+Hvad angår sådan her. Se.
+
+4:31
+Vi har jo vores tidsinterval her. Det deler vi op i lige store stykker.
+
+4:40
+Altså vi deler A til B. Oppe i enden og fire store stykker.
+
+4:58
+Så lad os kigge på tidsrejsen om det har i uroksen Tidsrejsen.
+
+5:07
+Og her har vi A. Og det har vi måske B.
+
+5:14
+Og den har vi så delt op i en masse små stykker her, som har lige stor længde.
+
+5:21
+Her har vi u et. U2.
+
+5:27
+På et eller andet tidspunkt har vi et vilkårligt punkt. Det kalder jeg for UCI, og det næste punkt er, at det hedder så U i Kluges delta u.
+
+5:39
+Fordi de er lige store stykker. De hedder altså allesammen deltog.
+
+5:54
+Så det minder jo om det vi lavede først, da vi startede forelæsningen i dag.
+
+6:00
+Men vi skal jo ikke integrere langs den, der er tidsrejser vil.
+
+6:04
+Det var det, vi gjorde. Desværre næppe, for det kender vi jo. Det er jo noget med Venstre som rigmand og alt dette.
+
+6:11
+Nej, nu skal vi jo se. Hvor er vi henne? Ja til tiden out.
+
+6:17
+Der er vi jo her er r u et bund og dette var måske er.
+
+6:29
+Er U2. Ja.
+
+6:34
+Og dér har I måske. Ja, hvad ved jeg.
+
+6:38
+Det kan være forskel, og det er og U3 og så på et eller andet tidspunkt er vi så i vores index.
+
+6:47
+Punkt R er u i. Og det er hende der har vi er r u i, og nu er der altså lige gået det.
+
+6:56
+Dette stykke er det lille tis stykke. Så hør her tiden havde vi delt op i lige store stykker.
+
+7:10
+Og når vi nu kigger på stedet, så kan vi jo ikke regne med, de er lige lange.
+
+7:16
+Det kommer jo an på, hvor stor hastigheden er, så vi kan se, at den er kort.
+
+7:20
+Den er lidt længere, og her hov, der er hastigheden stor, da den sørme er nået helt dér frem på det samme tid stykket.
+
+7:30
+Hvordan skal vi veje det? Citat Sepp.
+
+7:36
+Nu kan vi jo så prøve at se. Jamen F det er også.
+
+7:41
+Altså hvis I nu siger, at vi bruger det testulykke dér, at vi tester den her.
+
+7:47
+Hvor stor er Esther? Og så gange vi den med det stykke, der passer til det stykke, der ligger lige i nærheden af dem.
+
+7:54
+Og så tester vi her, og så ganger vi med det stykke, der ligger tæt på her.
+
+7:59
+Længden af det stykke, der også er, når vi når hen til, så skal vi altså tage teste masse tætheden i det her punkt og så gange med Vejle.
+
+8:12
+Den kunne vi jo passende kalde for Delta S i.
+
+8:18
+Det er altså den vej, som partiklerne kører på den kurve. Så vil jeg sige, at vi laver forsøgsvis massen.
+
+8:27
+Så kan vi sige, den er nok tilnærmet af, vi kan kalde den for en, som så er summen.
+
+8:37
+Fra i lige med ét til én af vores test punkt.
+
+8:45
+R er uenig. Også gange med Vejle inden for det pågældende jr's og teste værdien.
+
+8:54
+Og det er den længde, som tester din. Den skal ganges med, for at vi får et passende væk fra det stykke.
+
+9:05
+5. Hvad skal vi deler? Hvad skal vi stille op med det her?
+
+9:20
+Når jo, fejlene er jo tilnærmet af farten ganget med den tid der er gået.
+
+9:35
+Så får vi altså her såmænd fra i lige med ét til N.
+
+9:41
+F. Er af U. I. Og så skal vi gange med længden af.
+
+9:51
+Hastede vektoren eller tangent lektoren i juli. Og så kan med den tid der er gået.
+
+10:06
+Så spørsmål at vi blev meget klogere her. Når jo dette er det jo en funktion er en variabel, nemlig u.
+
+10:18
+Længden af hestenes funktion er også en funktion af variable ud.
+
+10:22
+Når jeg ganger i en funktion er variable, men funktioner variable. Nu er det også en funktion af variable.
+
+10:28
+Nu vil si. Dette er en venstre venstresving.
+
+10:39
+For funktionen G er u lig med F.
+
+10:49
+R er er u. Ganget med længden af er mærket you form.
+
+10:59
+Herligt. Fordi nu har vi fundet.
+
+11:05
+Den dag var det simpelt jeg sagde til jer her der kendte vi ikke vores funktion,
+
+11:10
+som vi skulle integrere over før nu, hvor vi udnyttede det resultat, det Henrik.
+
+11:15
+Men nu betyder det altså det her komplicerede, buede og i alt med forskellige længder alt det her.
+
+11:22
+Nu er det reduceret til et ganske almindeligt gymnasie en grad.
+
+11:29
+Hvor funktionen er altså bare lige hedder det her. Men ingen problemer.
+
+11:34
+Vi kan skrive her rigmands sætning. Som siger at massen.
+
+11:45
+Som vi kan det kan vi kalde den samlede vægt er lig med.
+
+11:52
+Her har I det formelle symbol for Cure integraler f Demy.
+
+11:57
+Det kommer vi mere ind på næste gang. Og så den knude der har parameter fremstillingen.
+
+12:03
+Er det her det bare et symbol? Se det nu.
+
+12:08
+I kommer til at se det mange gange senere. Ren symbol. Men det vi har fundet ud af nu.
+
+12:14
+Det her symbol, som står for, at vi laver et integral langs med den kurve.
+
+12:20
+Det har vi erstattet med et almindeligt gymnasie.
+
+12:24
+Integral var, hvor det nu er den her funktion, vi skal integrere over restriktion af DF, til R, U og så gange med fart.
+
+12:38
+At den bevægelse det u. Værsgo så var dengang.
+
+12:44
+Det er formlen som vi laver i dag. Fanger den.
+
+13:08
+Se den størrelse man skal gange. Selve konstruktionen med den funktion er den høj i nu set i en variabel.
+
+13:19
+Den kommer jo også til at se i to variable og i tre PrivatBo, og det kalder man folk coupé funktionen.
+
+13:27
+Så jeg kupe funktioner. Super. Det er dem at lære os at få vanskelige integraler til at blive rene gymnasie integrator.
+
+13:40
+Det er jeg kupe, der hjælper os med det, og det vil jeg gerne have, at de alle sammen kommer til at forstå.
+
+13:46
+Og det er jeg sikker på, I gør, for vi kommer til at snakke om det en hel del gange.
+
+13:50
+Det er dette Jacobis funktionen i dette tilfælde en funktion af en variabel.
+
+13:58
+Jeg kunne jeg jo. Ja, vi kigger lige her til sidst.
+
+14:08
+Der kigger vi lige på et eksempel på et kuren til gratis.
+
+14:28
+Ja, de ved kurverne. Standard for en kurve der er givet ved en parameter fremstilling ved at.
+
+14:46
+At R er u. Den er U Kuznets tv.
+
+15:00
+Nej, den er jo kusse, altså upassende. Og så er den århusianer stiv.
+
+15:11
+Og som vi kan se tiden, har vi fra 0.
+
+15:14
+Til 3. Det var den funktion jeg vidste jeg på Mabel, da vi snakkede om tangent væk, trækker også, har det spiralen en simpel vending.
+
+15:30
+Når nu har vi så også en masse heides funktion.
+
+15:39
+Og vi har altså. En. Funktion.
+
+15:49
+F. F eks command y den er kvadratroden af eks i anden plus Y Jane Anden.
+
+16:03
+Det vi gerne vil bestemt.
+
+16:09
+Kurver i integralet. Hvis symbol de altså har set her i integralet k er.
+
+16:24
+F. D my. Det vil vi gerne.
+
+16:33
+Det vil vi gerne bestemme i dette eksempel. Og vi har jo udviklet en formel for det.
+
+16:40
+Den står her. Så skal vi se på hvilke ingredienser der er, om vi skal bruge denne form, det vil sige først, så skal vi have fundet ud af, hvad er.
+
+16:51
+Restriktion til kor. Så skal vi have differentierede kurven.
+
+17:00
+Og så skal vi have fundet længden af korund, når vi har de tre ting.
+
+17:04
+Så er de parat til at bruge formlen. Så skal vi ikke bare gå frem i den rækkefølge, så vi starter med restriktion.
+
+17:21
+Af EF til kurven.
+
+17:29
+Så det er altså knap f, r er du.
+
+17:38
+Og det vil sige det er f. Af U.
+
+17:42
+Kuznetsov Komma U Sinus 7.
+
+17:51
+Og så skal vi kan ikke beregne forskriften. Det var kvadratroden af i anden fuzzy jan.
+
+17:57
+Så den har jeg så her fordrejet tråden af.
+
+18:01
+Ud. Kokosnød og stew.
+
+18:08
+I anden plus U.
+
+18:15
+Gange med sinus o. I anden. Og vi prøver lige at regne det ud, så får i brug, ja hver faktor skal hjernen ud i hjernen,
+
+18:29
+cosinus hjernen til UV og så får vi den anden her uge i hjernen og sinus i hjernen.
+
+18:38
+To. Når du, så er det jo så herligt ikke, at hvis vi sætter olielande uden for en parantes.
+
+18:50
+Den er jo med i begge de led dyr. Så har vi cosinus hjernen på sinus hjerne i hovedreglen.
+
+18:56
+Den er en så inden under kvadratur tegn. Der har jeg altså Guiana.
+
+19:02
+Og når vi tager kvadratroden af uge, jamen så er der uro tilbage.
+
+19:10
+Og vi skal ikke sige mener Sko, fordi vi ved at U er positiv, for så kunne vi godt have risikeret.
+
+19:16
+Der skulle være et fortegn foran, så vi kan jo bare se det her. Den hellige mad ud for de brug er større end eller lig med nul.
+
+19:28
+Så har vi redaktionen af EHF til kuren ik?
+
+19:33
+Det var det første da anede, differentiere finner hastede, svigter og.
+
+19:48
+Det vil sige vi skal have sig mærke er efter U.
+
+19:56
+Og forskriften har vi jo dér få år. Og det er upassende sorg.
+
+20:03
+Det er et produkt først differentierer U, den er bare en. Så har I huset sosu.
+
+20:10
+Beholde Ud og franske Marcussens, så får I minus ud.
+
+20:15
+Se nu to. Så er vi færdige med første koordinat.
+
+20:20
+Så er det andet koordinaten. Differentiere uforbeholden funktion sinus.
+
+20:27
+Beholde U og de fancy og sinus den bliver cosinus til.
+
+20:33
+Og så skal vi bare have plus der, så er det. Det var hastede vektoren, så skal jeg Jacobi.
+
+20:48
+Eller farten hvis I vil. Og det er længden af det er længden af hastede sektoren, så der får vi altså nu.
+
+20:56
+Der får vi altså længe den. A er mærket af U.
+
+21:06
+Og det er jo en kvadratrod. Hvor vi altså først skal have den i anlæg, og den er så cosinus i anden til uge og så plus den del af hjernen det giver,
+
+21:26
+plus så u hjernen sinus i enden til U og minus det dobbelte produkt.
+
+21:35
+Den ganger med den, og det giver så 2 u cosinus til u sinus to.
+
+21:48
+Og så skal vi have den del af hjernen der får vi så hallucinogene hjernen to.
+
+21:58
+Plus kvadratet på det andet led ud i anden cosinus hjerne til ud fra så minus det dobbelte puderum ret bliver plus dolke produkt 2 u cosinus til.
+
+22:15
+Se nu so. Når.
+
+22:28
+Skal vi lige se hvad kommer der ud af det her? Vi har i hvert fald idioter Henrik Kuznets hjernen på sinus hjernen, så vi får sat et ettal.
+
+22:41
+Og jo dette dobbelte produkt pr.
+
+22:45
+Minus. Det er det samme, der står her. Og det er bare plus i stedet for, de forsvinder.
+
+22:51
+Og så har vi her uge hjernen, Silas.
+
+22:57
+Og uge i Anden Kuznetsov. Ligesom før. Det giver bare plus.
+
+23:01
+Julian. Og jeg fik slet ikke brug for al den straf David.
+
+23:09
+Så nu har vi så ingredienserne til at finde ud af, hvor stort Coogan skraldet er.
+
+23:18
+Så nu starter vi. Kode integralet integralet af masse tæthed funktionen over kurven over spiralen.
+
+23:33
+Det er jeg så integralet fra, nu bruger vi sætningen hvor vi skal have.
+
+23:39
+Grænserne nul og tre. Og så skulle vi have restriktion a f til kuren.
+
+23:50
+Den har vi fundet her. Den var u. Og den skal så gange med farten i Cuba.
+
+24:00
+Kært barn har mange navne. En +.
+
+24:08
+U Jane. Det er jo. Så kan vi se ude i et ganske almindeligt integral.
+
+24:19
+Altså det eneste problem vi har er hårde. Og finde en samfundsorden til den der.
+
+24:31
+Den er der vist ingen af os der kender. Den tager vi på torsdag.
+
+24:39
+Så skal I lære, hvordan man finder samfundsordenen på den.
+
+24:43
+Så det jeg gør nu, er bare, at jeg sætter den samme funktion ind, som jeg kan huske, at den skal være.
+
+24:51
+Så jeg kan den altså udenad. Hvis jeg ikke husker forkert, så vi går herfra.
+
+25:00
+Og finder en stamme funktion. Den er en tredjedel. Det der står inden her, en kluges i anden i tre halve.
+
+25:18
+Og den skal vi så have fra nul til 3. Se.
+
+25:29
+Vi kunne godt bare lige teste den, også hvis jeg differentierer den.
+
+25:33
+Det der står her imellem de to skarpe parenteser høring, så har vi en tredjedel.
+
+25:39
+Tre halve skal sættes ned foran, og så går tre tallerne væk, så står der en halv.
+
+25:47
+De skal så ganges, så vi, og så skal vi tage tragedien fra her.
+
+25:51
+Så får vi kvadratroden. Så skal vi differentiere det der står i indmaden her.
+
+25:56
+Det bliver så til to uger. Vi havde en halv i forvejen, og så kommer der simpelthen til at stå det, da det vi har det.
+
+26:02
+Og så. Nu er det så bare at få indsat det dér 3 tal.
+
+26:13
+Så vi har altså en tredjedel. Og så indsætter vi tre.
+
+26:23
+For ulig anden. Det giver ni. Og så giver det 10.
+
+26:30
+Så har vi altså 10. I tre halve minus.
+
+26:38
+Og så skal vi indsætte nul på Århus plads for så bare en tredjedel gange med en.
+
+26:46
+Der var egentlig tre halve. Det var bare en. Den tredjedel der sad ude foran, så er Harry altså resultatet.
+
+26:55
+Og de giver så en tredjedel. Bare for en ordens skyld.
+
+27:02
+Så hvad er det det dér 10 3 han. Det betyder det er jo bare ti gange med kvadratrod 10.
+
+27:10
+Og som endnu en. Bum. Kære venner, vi har udregnet vores første core integral.
+
+27:18
+Vi har fundet ud af, hvor meget den har kodet den drejer den vejer.
+
+27:24
+Se, nu skal Hiro i gang i dag med venstre sommer.
+
+27:29
+Øv dig i integralregning, lære en masse udenad og vi skal også lave cool integraler.
+
+27:36
+Det jeg har vist jer nu. Det er jo i 2.
+
+27:39
+Det integra et en knude i planen.
+
+27:46
+Og den. Det kunne være en kode Hero ikke se, vil jeg sige øvelses programmet får en kode i rummet,
+
+27:56
+og det er bare en ren generalisering af kode integraler i planen.
+
+28:01
+Der kommer bare en koordinat mere på. Så er den altså i den Mabels demo, som jeg har oploadet til fildeling på skemaet.
+
+28:14
+Da laver vi den samme opgave her. Men bortset fra, at der putter vi lige en tredje koordinat ind, så sæt den hedder U.
+
+28:23
+Så er jeg altså cosentino sinus til u og u, men så alt det andet der.
+
+28:29
+Det er bare en generalisering. Vi vejer nu bare en knude, der ligger i rummet med de samme metoder, som vi har set her.
+
+28:37
+Og det er fedt. Nu er det jeres tur. Tak for det. Hvis jeg er jo der.

@@ -1,0 +1,797 @@
+0:04
+Der var lige en der var oppe at stille mig et frisk spørgsmål her fra morgenstunden, og det er hvorfor.
+
+0:10
+Hvorfor skal vi lære alt dette om matricer? De er da irriterende.
+
+0:14
+Hvad skal vi bruge dem til? Det er et rigtig godt spørgsmål, men hele det, vi nu skal lave, resten af semestret og også i en del i foråret.
+
+0:25
+Det er simpelt hen bygget op omkring matricer.
+
+0:29
+Lineær algebra handler om matricer, og lineær algebra er en rigtig smuk teori, som vi gerne vil sætte jer ind i en abstrakt, flot teori.
+
+0:42
+Så har jeg altså rigtig mulighed for det her i dag.
+
+0:46
+Der giver vi sådan en forsmag på det, fordi der skal vi tale om geometriske vektorer.
+
+0:53
+Altså det vi så populært sagt kalder for vektorer i planen og vektorer i rummet.
+
+1:00
+Og det er jo noget, jeg har arbejdet med i forvejen.
+
+1:03
+Men I vil se, om vi giver dem en lidt anden drejning end en lidt anden fremstilling end den I fejer vand og have.
+
+1:12
+Og I skal se, at vi bruger dem til at indføre en hel masse nye begreber i dag.
+
+1:18
+Begreber, som vi skal bruge, når vi skal til at tale om generelle vektorrum, hvor vektorer kan være noget helt andet end geometri.
+
+1:29
+Vektorer. Kan være polynomier. Funktioner. Det kan være mange forskellige ting.
+
+1:35
+Men altså vi starter med de geometriske vektorer og så de nye begreber, der er på dagsordenen.
+
+1:41
+Det er derfor vi skal selvfølgelig have da addition og multiplikation med skalar.
+
+1:46
+Vi kender snart melodien. Og vi skal have nogle regneregler.
+
+1:51
+Og så kommer de nye ord, når rekombination ligner afhængighed, ligner uafhængighed, basis og koordinater for vektorer.
+
+2:02
+Når man laver basis skifter, så får man en skifter. Vi skal tale om, hvad koordinatsystemer for noget,
+
+2:10
+og hvordan kan vi bruge koordinatsystemer til at karakterisere punkt mængder i planen og rummet med ved hjælp af parameter fremstillinger.
+
+2:18
+Så det er bare derudad med en hel masse nye begreber i forkastet lige hovedet med nogle ting, som vi har en fornemmelse af i forvejen.
+
+2:27
+Når vi skal starte med at snakke om hvad en geometrisk vægter er.
+
+2:36
+En geometrisk vægter. Er et sammenhørende par.
+
+2:54
+Af en længde. Og en retning.
+
+3:09
+Så det er i virkeligheden et meget filosofisk og luftigt begreb.
+
+3:13
+Men lad os prøve at illustrere det.
+
+3:29
+Se de tre pile jeg har tegnet her. De har samme længde, og de har samme retning.
+
+3:38
+Derfor kan vi sige at de tre piler.
+
+3:46
+Repræsentere. Den samme vægter.
+
+3:56
+Skal vi kalde den for vi. Så altså en vægter.
+
+4:03
+Det er ikke noget man kan se. Den er usynlig.
+
+4:07
+Det er et vidt begreb, men vi kan tegne nogle repræsentanter for den.
+
+4:12
+Og her har jeg altså tegnet tre forskellige repræsentanter og vektoren, og så tillader jeg mig altså os også.
+
+4:19
+Og det er hvad så, hvis ideen konventionen. Jeg tillader mig ser hen på selve væk, så får På pilene her.
+
+4:32
+Og skrive fedt ville. Og det skal jeg jo så lige tænke over, fordi det er lidt snyd.
+
+4:40
+For her hende da betyder det altså længden og retningen, altså det rigtige begreb for en vægter.
+
+4:47
+Og her hende, der betyder fedt ved det, betyder dens repræsentanter.
+
+4:53
+Så det tillader vi os at være lidt tvetydige på på dette punkt.
+
+4:59
+Og. Lad os nu sige at vi har givet to punkter.
+
+5:10
+A og B. Da sige den ligger der.
+
+5:17
+Der har været masser af. Og der har vi B.
+
+5:25
+Og så kan vi tale om linje stykket fra A til B og endda om det orienterede linjestykke.
+
+5:31
+Når man siger et orienterede linjestykke, så betyder det.
+
+5:35
+At den er udstyret med en retning der ligesom hvad er det for en retning vi skal gå i fra A til B.
+
+5:44
+Og her kan vi sige. At.
+
+5:53
+Og det skriver jeg altså sådan her a b.
+
+5:57
+Det orienterede linjestykke. Repræsenterer en væg så u som vi kan skrive u leg med.
+
+6:17
+Det orienterede linjestykke fra A til B. Sådan vil det altså være ganske klart.
+
+6:23
+Der er to punkter det orienterede linjestykke. Det vil være en repræsentant for en vægter.
+
+6:44
+Men så kan man jo spørge om hvad nu hvis A og B hvis de var sammenfaldende?
+
+6:58
+Så har vi altså sådan et lidt modstridende begreb.
+
+7:03
+Altså det orienterede linjestykke frække til bind. Det findes jo ikke.
+
+7:07
+Det ville jo have længden nul. Men det her vil vi tillade os at kalde for nul vektoren.
+
+7:25
+Og den vil vi skrive som nul også er med streg under.
+
+7:30
+Og det vil jeg sige, når vi skriver den i noterne, så vil det være fint bogstav, altså fedt nul.
+
+7:40
+Godt. Vi skal i gang med har indført nogle regneregler eller nogle regnum operationer for vektorer, og vi starter med addition af vektorer.
+
+7:58
+Lad os sige vi har givet en vektor bag.
+
+8:09
+Og vi har givet en så ben, og nu skal vi altså have indført noget, som vi vil kalde for summen af de to vektorer.
+
+8:23
+Og da vil vi gøre, ligesom når vi plejer at lægge ting sammen.
+
+8:27
+Så vil vi tage den bidder og ligge i forlængelse af den anden.
+
+8:34
+Så når jeg skal udføre A-divisionen, så vil jeg altså sørge for at tag en repræsentant A og så ved ende punktet a repræsentanten for 1.
+
+8:47
+Der tegner jeg en repræsentant for B. Og så er det altså fra begyndelsen pumpet til ende punktet er summen af de to vektorer.
+
+9:02
+Så. Så hermed har jeg så indført det, da er summen af to vektorer.
+
+9:20
+Og så skal vi da lige se på. En alternativ måde at indføre addition på det er, at jeg tager.
+
+9:37
+En repræsentant for A Adair og så far ud fra samme begyndelse og sport afsætter jeg en repræsentant for B.
+
+9:50
+Og så tegner jeg et parallelogram. Og så vil et diagonaler som orienterede linjestykke.
+
+10:04
+Det vil selvfølgelig være den samme vægtere som den jeg har her hen, fordi her kunne jeg jo også bare have tegnet nøjagtig det samme parallelogram.
+
+10:15
+Grunden til, at jeg lige tager den her version med det, jo, fordi det er herfra, det hele kommer væk, så regningen kommer fra fysik,
+
+10:27
+når vi skal betragte to forskellige kræfter, som trækker i hver sin retning,
+
+10:34
+trækker i et bestemt objekt, og vi gerne vil finde ud af, hvor bevæger objektet sig hen over?
+
+10:43
+Så får vi her den resulterende kraft, så jeg ser i stedet for at objektet havde været påvirket af to forskellige kræfter,
+
+10:53
+og at de to kræfter vi betragter dem som to forskellige kræfter, der trækker, så kan vi også sige, om der er bare en kraft den resulterende kraft.
+
+11:04
+Og det er altså herfra væk, så regningen kommer væk til regningen.
+
+11:08
+Tokyo er jo en af de solstorme, der både tager hensyn til Vagttårnets retning og deres længde.
+
+11:18
+Jo længere en vægter er. Desto mere betyder også dens retning i forhold til den anden vektor eller til den resulterende kraft som.
+
+11:30
+Det var det. Så har vi altså fået indført addition.
+
+11:39
+Og så har. Multiplikation med skalaer.
+
+11:52
+Skalaer er jo bare sådan et fint ord for et tal. I dette tilfælde taler vi kun om de reelle tal.
+
+11:58
+Vi ganger ikke geometriske vektorer med komplekse tal.
+
+12:03
+Det kan ikke lade sig gøre, så det altså betyder et reelt talent, så vi har en konstant ganget med en vektor.
+
+12:14
+Altså har jeg vektoren A. Afsætter en repræsentant for AF afsætter en ny repræsentant for AF afsætter en ny
+
+12:29
+repræsentant for AF Kigger jer op på den vægter som starter her ved begyndelsen.
+
+12:36
+Punktet. Så vil den.
+
+12:44
+Pil jeg har tegnet her repræsenterer vektoren 3.
+
+12:51
+A. A. Så blev multipliceret med tre.
+
+13:00
+Hvis jeg nu gjorde det at jeg tegnede. En vægter som havde samme længde som AaB, men modsat retning.
+
+13:20
+Og jeg tror jeg vil nøjes med at tegne så den samlede vægt her.
+
+13:30
+Sådan indfører jeg altså multiplikation med et negativt tal.
+
+13:38
+Og hermed har I selvfølgelig indset hvad hvordan vi indfører multiplikation med skalar.
+
+13:44
+Nu har jeg gjort opgaven lidt nemt for mig selv, fordi jeg har taget hele tal.
+
+13:50
+Altså er det vel også er relativt nemt og taget for eksempel tre en halv a. Men nu har jeg taget nogle nemme tal her.
+
+13:56
+Men i denne øvelse I skal lave i dag.
+
+14:00
+Den gio meter øvelse der da skal jeg prøve at gange et en vægter med et vilkårligt tal, altså som kan være et irrationelle tal.
+
+14:11
+Så det er en geometrisk konstruktion, hvor I kan altså se, at den her regner.
+
+14:17
+Vi har indført den som mening. Det kan lade sig gøre at gange en vektor med et vilkårligt tal.
+
+14:40
+Når der er indført fejloperationer, så skal vi også have nogle egne regler for hvilke regler gælder der for disse to regner arter?
+
+15:01
+Den kommunikative lov. Se det var første reelle anden regel.
+
+15:14
+A Plus B og bagefter plus C er lig med A plus summen af B og C.
+
+15:26
+Og så har vi. At A plus nulvækst, som er lig med A jeg har indført som en nulvækst, så som en vektor der ikke har nogen længde,
+
+15:47
+for så er det klart, at hvis jeg lægger den til et en bægret, så får jeg vektoren selv.
+
+15:51
+Nul er neutralt med hensyn til addition. Den har jeg hørt før. 4.
+
+16:01
+A. Knus. Og sådan noget jeg ikke har snakket om endnu.
+
+16:09
+A Plus en vægter som jeg vil kalde for minus AA, er lig med nul.
+
+16:16
+Det betyder, at for disse vektorer gælder der altså for enhver vægter, at den har en modsat vektor og den modsatte vægter.
+
+16:25
+Den kalder jeg min sag. Sådan her.
+
+16:43
+Det var de fire regler, der først og fremmest handler om addition.
+
+16:48
+Nu kommer så de regler, hvor vi også inddrager multiplikation.
+
+16:52
+Man skal lære. Og. Regel 5 siger så at en konstant.
+
+17:07
+Gang eller skalaer gange med en vektor der er fremkommet af en skalar multiplikation.
+
+17:16
+Da kunne jeg også ganget de to skalaer sammen først. Og så gange dem med vægteren bagefter.
+
+17:24
+Associativ lov med hensyn til multiplikatorer man skal sex 6 om.
+
+17:38
+Hvis jeg ligger to konstant og sammen. Og ganger med en vægtning.
+
+17:48
+Så er det lig med vægtere, summen af K, et A og CO2 æg og tilsvarende Syveren.
+
+18:07
+En skalaer gange med en vægt, så det er.
+
+18:16
+Det samme som Victor sumpen, hvor de to af dem der værre blev ganget med på.
+
+18:24
+Og så den sidste. At ska learn en ganger med A er lig med a.
+
+18:35
+Så er tallet et er neutralt med hensyn til multiplikation med skalar.
+
+18:46
+Vi kan godt huske især de regler før dem sorg vi i forbindelse med en matricer.
+
+18:51
+Det var nøjagtig de samme otte regler. Men de disse regler betyder jo noget forskelligt, alt afhængigt af om det nu er matricer vi snakker om,
+
+19:02
+eller om det er geometriske vektorer, vi taler om. Så det vil jeg lige illustrere ved, at først så skal vi se på, hvordan vi kan sandsynlig.
+
+19:13
+Altså bevidst vil jeg ikke, om jeg vil kalde det, men hvordan vi kan sandsynliggøre denne her regel nummer tre.
+
+19:20
+Jeg tager inden for denne gruppe og så bagefter. Så vil vi se denne regel nummer 7 bare for at se.
+
+19:27
+Hvad er det egentlig, der ligger i disse regneregler? Og der er også en opgave i en noterne, som vi kan kigge på.
+
+19:43
+Succes. Der er tre vektorer i spil her.
+
+19:56
+Der er nemlig væk. En vægter a da er en vektor b, og det er en vektor se som jeg har tegnet her.
+
+20:06
+Og da kan I se. Nu kan jeg vælge at lægge A og B sammen.
+
+20:14
+Og det ved vi jo så at det er den samme som den vektor, der ligger dér, så dér har jeg altså vektoren a plus b.
+
+20:22
+Når jeg så har lagt de to vigtigste vektorer sammen, så kan jeg så lægge den tredje væg til se vægteren, og så får jeg den vektor, der ligger her.
+
+20:33
+Nu har jeg med andre ord udregnet det, der står her.
+
+20:38
+Men i stedet for, så kunne jeg jo vælge at sige ja, men jeg tager først med Tom og lægger sammen med se vægteren.
+
+20:48
+Så får jeg her B plus se vektoren, og så siger jeg så.
+
+20:53
+Hvis jeg tager af vektoren og plusser med B plus se vektoren, så får jeg den samme vægt som før.
+
+21:02
+Så det vil altså sige, at det, der står dér på venstresiden, er det samme, som står på højresiden.
+
+21:08
+Så det er altså det reelle indhold i den regneregler, som der står her.
+
+21:22
+Og så skal vi kigge på egne regler nummer 7.
+
+21:40
+Altså den regneregler der står her, som jeg eksemplificerer med de to vektorer a og b, som er tegnet af hende og med konstanten 3.
+
+21:53
+Og I kan altså se. Det jeg har gjort er at jeg tager A lægger b vektoren i forlængelse, og så har jeg så summen af de to vektorer.
+
+22:05
+Der har jeg pludselig. Nu gør jeg så det, at jeg ganger altså multiplikation af A med tre, en, to, tre.
+
+22:15
+Så når vi dukker op. Det har jeg altså vektoren tre af, og så tegner jeg en linje her, som er parallel med den linje, der ligger dér.
+
+22:27
+Og jeg laver en forlængelse af den linje, der ligger her. Og så krydser de hinanden et sted her.
+
+22:36
+Så vidt den trekant der ligger her, og den trekant der ligger dér, hvor de ville være ens vinklede, og derved i formenlig at ens vinklede trekanter.
+
+22:49
+De har en forståelsens faktor, så alle siderne bliver forstørret med den samme faktor.
+
+22:57
+Så altså når når den dør side.
+
+23:01
+Den er tre A. Så ved den side der ligger her, fordi den her er bil, så vil den være tre ben.
+
+23:12
+Og ligesådan. Her har vi vægteren A plus B.
+
+23:16
+Så vil den vektor der ligger dér. Det ville være tre gange på speed vektoren.
+
+23:23
+Så her har jeg altså vektoren tre A plus B.
+
+23:28
+Men nu kan jeg jo se, at det er den samme vægt, som jeg får.
+
+23:31
+Hvis jeg tager tre A og siger plus tre B, så er tre A plus tre B altså det samme som tre gange a forspil.
+
+23:41
+Og det er altså det, der er indholdet i denne her distributed lov.
+
+23:46
+Med hensyn til en multiplikation med skaller. Og sådan vil det sige, at selv om I har set de her 8 regneregler før, så selve indholdet i det,
+
+23:57
+der står her, er helt forskelligt fra det vi snakkede om, da vi snakkede om matricer.
+
+24:04
+Og det er ikke sidste gang vi ser disse regneregler, som jeg har skrevet op her.
+
+24:10
+Dem kommer jeg til at se på store dag efter efterårsferien, hvor vi har et rigtig vigtigt emne,
+
+24:18
+der hedder generelle vektorrum og var hele det her, det bliver.
+
+24:23
+Det bliver generaliseret til en abstrakt teori. Og nu kommer vi til et rigtig vigtigt begreb.
+
+25:15
+Er altså okay, nu skal vi passe på, at vi ikke overdriver. Men det er nok en kombination.
+
+25:20
+I hvert fald et begreb i kendelige skal kende, når man nemlig har lavet de her regneregler.
+
+25:27
+Så betyder det, at nu kan vi begynde at lave mere komplicerede regninger, fordi nu kan jeg nemlig op skrive et eksempel.
+
+25:37
+Eller ja altså har givet hvad siger Har vi et veto væk, så op til v p væk.
+
+25:51
+Jeg har altså p forskellige vektorer,
+
+25:57
+og hvis jeg nu ganger hver af dem med en konstant strøm eller med en skalaer og så lægger dem sammen, så har jeg en Leynaud kombination.
+
+26:17
+Så K et V et plus CO2 ved to plus.
+
+26:27
+KP gange med VP er en lineær kombination.
+
+26:39
+Så hvis I har et vægtigt sæt gang dem alle sammen med en konstant.
+
+26:44
+Læg det hele sammen. Det er det vi forstår ved en Lenau kombination.
+
+26:54
+Og grunden til at jeg kan skrive det op på denne her måde her, det er jo netop jeg behøver ikke at redegøre for,
+
+27:01
+i hvilken rækkefølge jeg vil lægge dem sammen, eller hvad jeg vil gøre med konstanter.
+
+27:05
+Når sådan noget, så det giver sig fuldt mening og simpelt hen bare tage pille ved og smække dem sammen og så sige,
+
+27:13
+hvordan det er og rent geometrisk, så så ligger det altså i det.
+
+27:20
+Skal vi sige, at jeg har en vektor af. At sige at da er tre lektorer dér.
+
+27:32
+Så kan jeg måske sige skal vi prøve at sige to a minus B plus tre se for eksempel.
+
+27:43
+Det er en Leynaud kombination. Og skal vi prøve at regne den ud.
+
+27:50
+Så behøver vi ikke at tage dem enkeltvis for den måde som vi har indført her, så kan jeg bare simpelt hen tegne dem.
+
+28:00
+Så har vi det, vi skal. Så hvis jeg starter her. Der var to sager, og så tager jeg en mine ben.
+
+28:16
+Det var den der, og så skulle jeg have tre se. Sådan da.
+
+28:27
+Så det er altså et regnestykke, og jeg laver en lang kombination.
+
+28:31
+Og resultatet er så simpelt hen det, at jeg starter her fra begyndelsen bundtet og går.
+
+28:38
+Det er op til slutpunktet, så den røde vægter. Der er altså to a minus B plus tre C.
+
+29:18
+Begrebet vine af uafhængighed. Her starter vi med og snakker om lineær afhængighed.
+
+29:29
+Her kommer definitionen. Et sæt af vektorer.
+
+29:45
+Det er lineært afhængigt. Hvis mindst én af vektorerne.
+
+30:06
+Er en lineær kombination. At de andre.
+
+30:25
+Jeg skal lige se hvordan.
+
+30:36
+Jeg tror, at der bliver spurgt til de konstanter, der er her henne.
+
+30:42
+Nej, det er ikke den samme konstant.
+
+30:44
+Vi har på forskellige vektorer, og vi har peget forskellige konstanter, og så ganger vi altså dem med dem med dem og så videre dem med dem.
+
+30:59
+Og så lægger vi hele smørrede sammen. Det er en fin kombination. Skuffelse på.
+
+31:05
+Da var sikkerheden på forskellige numre på den Morgan.
+
+31:14
+Ja. Når.
+
+31:24
+I modsat fald. Er de lineært.
+
+31:36
+Uafhængige. Altså et vigtigt abstrakt begreb til at karakterisere et sæt af vektorer.
+
+31:50
+Hvis mindst én af dem kan skrives som en kombination af de andre,
+
+31:55
+så er sættet lineært afhængigt, men hvis det ikke er tilfældet, så de lineært uafhængige.
+
+32:01
+Det bliver lidt mere klart, når vi nu giver nogle eksempler, fordi.
+
+32:08
+Først så vi vil vi nemlig kigge på et sæt af to vektorer.
+
+32:21
+A og B. Og så siger vi altså, at de er lineært afhængige, hvis mindst én af dem kan skrives som en vinderpar kombination af de andre.
+
+32:38
+Så her har det altså betydningen er lineære afhængige.
+
+32:45
+Hvis der findes. Et på en eller et CO2.
+
+32:58
+Sådan at enten så er a lig med K et gang B eller B er lig med CO2 ganget med A.
+
+33:22
+Så nu har jeg altså prøvet at eksemplificerer denne her abstrakte definition på noget,
+
+33:27
+der er meget nemmere at forstå, nemlig hvis der kun er to vektorer.
+
+33:32
+Så skal den ene altså kunne skrives som en konstant gange med den anden.
+
+33:36
+Og det betyder lige præcis, at de er, hvad de har læst.
+
+34:14
+Så for Toback to ord betyder det, at de er lineært afhængige, at de er parallelle eller en af dem er nul.
+
+34:29
+Og så må det gælde omvendt. Hvis ingen af dem er nul.
+
+34:46
+Og at de ikke er parallelle. Jamen så er de lineært uafhængige.
+
+35:17
+Nu bliver det så bare en lille bitte smule mere kompliceret, fordi nu prøver vi så med et sæt, hvor der er tre vektorer.
+
+35:34
+Og nu er vi nødt til at skelne mellem om vi taler om vektorer, der ligger i samme plan, eller om vi taler om vektorer i rummet.
+
+35:43
+Alt hvad jeg har sagt indtil nu. Det gælder både for planen og rummet.
+
+35:47
+Men her vil vi se, at her er vi altså nødt til at differentiere lidt.
+
+35:56
+Så nu skriver jeg altså tre vektorer i planen. Og lad os tegne et eksempel.
+
+36:09
+Derhar er en vektor af. Derhar er en vigtig by.
+
+36:19
+Der har jeg en væg at se. Og nu vil jeg altså undersøge, om de er lineært afhængige eller om de er lineært uafhængige.
+
+36:31
+Jeg vil ikke er nogen der har et gæt. Ellers går vi bare videre med det samme se det jeg nu gør.
+
+36:44
+Det er, at nu afsætter jeg alle vektorer. Ud fra det samme begyndende tidspunkt.
+
+37:04
+Og så forlænger jeg. Så forlænger jeg den dér linje.
+
+37:21
+Og jeg forlænger den her linje og så herigennem ende punktet at se.
+
+37:27
+Der tegner sig en linje, der er parallel med den der hende. Det er den der.
+
+37:33
+Og også en linje, som er parallelt med den med Vector af.
+
+37:40
+Så får jeg altså sådan et parallelogram ud af det her. Og så vil jeg kigge på den vektor, der ligger herfra.
+
+37:52
+Og herhen til. Altså den vektor der ligger her.
+
+37:59
+Den er jo parallel med A vægteren, og så må den være et en konstant.
+
+38:09
+Ganget med a vektoren. Og på den samme måde med den vektor der ligger her.
+
+38:18
+Op til dette skæringspunkt, altså den vektor der ligger her. Den vil være en anden konstant gange med Bevington vektoren.
+
+38:33
+Og nu kan jeg jo så se at se vægteren den er såmænd af K, et A og på to ben.
+
+38:54
+Og nu har jeg jo vidst, at der er en af dem, der kan skrives som en kombination af de to andre, så det vil altså sige, det er lineære afhængige.
+
+39:23
+Og altså de kan godt se, at sådan må det jo altid være, hvis der er givet tre vektorer i planen,
+
+39:30
+som den ene af dem altså kunne skrives om end den akkumulation af de to andre.
+
+39:38
+Så vi kan altså sige et sæt. På mere end to vektorer.
+
+39:52
+Vil altid. Være lineært afhængigt.
+
+40:11
+Jeg. Eller også vil jeg hellere hvile i sig selv.
+
+40:19
+Ja, så lad os lige tage det eksempel. Er det sådan du mener?
+
+40:41
+Hvad kan vi så skrive? Så kan vi skrive at b vektoren.
+
+40:48
+For hvis vi gør det på sigt, så kan kan du komme med et forslag til hvordan jeg kan skrive bevæg om som en sum af de to andre.
+
+41:04
+Jens. Så du har altså her fundet en fundet by udtryk som en narkoman person.
+
+41:13
+To andre så er sigtede her lineært afhængigt. Det lykkedes rigtig meget godt, men det er også derfor, at da i definitionen står vist mindst én af dem,
+
+41:25
+fordi det er også et godt spørgsmål, for du kan ikke gå ud fra, at det er alle, du kan skrive som en kombination af de to andre.
+
+41:33
+For det kunne jo være, at de første to, hvis det var nulvækst, som også er den tredje.
+
+41:38
+Det var en vektor, der er forskellig fra fra fare for at fejre nulvæksten, så er den tredje.
+
+41:43
+Den kan du ikke skrive som en narkoman person og to nul vektorer, men sættet er jo klart lineært afhængig.
+
+41:50
+Godt spørgsmål. Men.
+
+42:21
+Nu spørger jeg så jer hvad nu hvis det er tre vektorer som ligger i rummet?
+
+42:30
+Vil de så altid være line at afhængig?
+
+42:38
+Du siger nej. Hvorfor der har de tre.
+
+42:44
+Faxe ja, det er nemlig rigtigt. Altså vi siger at jeg har.
+
+42:52
+Ja, så vi kan jo gøre det. Vi kan jo gøre det samme.
+
+42:56
+Jeg tror godt, vi selv tegnede den sådan her. Så forstår jeg godt, hvad jeg mener.
+
+43:04
+De tre vektorer jeg har tegnet her, de er selvfølgelig lineære uafhængige.
+
+43:11
+Det er umuligt ved at lægge de to sammen, og så får den tredje her eller lægge de to sammen og få den eller den som en, så er det umuligt.
+
+43:21
+Det kan ikke lade sig gøre, så vil jeg sige i rummet. Der kan tre vektorer godt være lineært uafhængige.
+
+43:31
+Hvornår er de så lineært afhængige? Hvis vi kigger i rummet, er der nogle, der har et bud på det.
+
+43:40
+Hvad siger du? Så tror jeg med det samme, hvad du siger.
+
+43:44
+To af dem. Det gør de her to sammen set.
+
+43:49
+Ja, hvis de alle tre ligger i samme plan, fordi så har jeg jo nøjagtig den samme situation, som jeg havde lige før.
+
+43:55
+Her. Så vil jeg sige. Hvis.
+
+44:06
+De tre lektorer. Ligger i samme plan.
+
+44:21
+Så er det lineært afhængige. Og hvis ikke altså hvis vi har tre.
+
+44:35
+Vektorer som ikke ligger i samme plan. Så er de lineært uafhængige.
+
+44:52
+Og så til sidst. Lige i den station.
+
+44:56
+Her er så hvis vi har fire lektorer i rummet. Hvad siger I så?
+
+45:04
+Hvis jeres intuition er der, kan vi have fire vektorer i rummet, som er lineært uafhængige.
+
+45:12
+Det kan de ikke, og det er lidt svært at forklare hvorfor, men det er jo fordi der er tre retninger i rummet, og så er det klart,
+
+45:20
+at hvis vi putter en fjerde retning ind, jamen så må den altså kun skrives som en akkumulation af de tre andre.
+
+45:29
+Så vi siger altså her. I rummet gælder der at et sæt på mere end 3.
+
+45:50
+Det ville være lineært uafhængigt. Sådan her.
+
+46:02
+Og jeg tror at jeg vil ja, lad os slippe med en pause her.

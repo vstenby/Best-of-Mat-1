@@ -1,0 +1,1178 @@
+0:02
+Jeg er Gomorgen, så nu kan jeg glæde jeg med, at i dag skal vi have det sidste store overordnede begreb her i efterår.
+
+0:13
+Og det er lineære afbildninger. Det betyder ikke, at jeg ikke skal lære mere, skal lære meget mere, men alt hvad jeg vil se, altså fra nu af.
+
+0:22
+Det er anvendelser alene af afbildninger og faktisk allerede næste gang.
+
+0:29
+Så tror jeg, jeg bliver lidt overrasket, fordi der skal vi nemlig snakke om første ordens differentialligninger, det nogen i arbejdet med i gymnasiet.
+
+0:38
+Men nu skal jeg have det i op af ligner afbildninger og så se, hvad vi kan få ud af det.
+
+0:44
+Så differentialligninger bliver lige pludselig en del alene algebra.
+
+0:48
+Hvad siger I så? Er det spændende og super.
+
+0:54
+Så vi går straks i gang, og jeg skal lige sige, at I kender jo almindelige funktioner fra gymnasiet.
+
+1:02
+Altså funktionen ikke, siger han. Vi har et input system, og så kommer der et afbud, der hedder 25, altså line afbildninger.
+
+1:11
+Det er samme type, men her input er en vægter og output.
+
+1:16
+Det er også vægter. Så I kan se her. Vi har altså to forskellige rum, to forskellige vægte rum.
+
+1:24
+Nu tegner et mox sådan her. Vi har vægge, så rum V.
+
+1:28
+Og så har vi et vektorrum W. Og så har vi altså en afbildning F.
+
+1:40
+Som går fra det ene rum og ind i et andet rum, og det vi kan lige tegne en pil på her, som vi kan se var en vej, det går.
+
+1:48
+Så det vil jeg så sige, hvis I her har en væg, som vi så her ovre i det andet væg til rum her.
+
+1:59
+Der har vi så afbildningen af vi sådan nær.
+
+2:05
+Så da jeg så en anden vektor, der er knyttet til dér, og vi skriver, vi skriver sådan her.
+
+2:16
+F er ind i W.
+
+2:24
+Sådan skriver vi tit, når vi laver disse afbildninger, men tit så siger vi, så har vi her nogle talemåder.
+
+2:36
+Vi kan sige, at. FCN'er V ind i det så vi.
+
+2:49
+Eller vi siger at vi er indbudt. Og FR-V det er output, og inden i kan vi også sige, at FR-V.
+
+3:11
+Det er billedet er vi sammen der så det som tre forskellige talemåder, som altså vil vende tilbage til og i, og som i dag hører mange gange.
+
+3:29
+Se, der er mange typer af afbildninger, men dem interesserede i det de ligner, er altså de har.
+
+3:37
+For det første er de utroligt anvendelige.
+
+3:40
+Og for det andet, så har de også nogle meget smukke egenskaber, og det håber jeg selvfølgelig, at jeg kan overbevise om.
+
+3:47
+Så nu skal vi først se, hvad er det, der karakteriserer en lineær afbildning?
+
+3:54
+Så det er altså en definition, vi nu kommer med. Vi siger F er lineær hvis.
+
+4:05
+Og så kommer der de to lige naivitet krav, som vi kalder el ét og L2.
+
+4:13
+Og her i el et der siger vi at F, A, A plus B er lig med F, A, A Plus, så B og L2.
+
+4:27
+Den siger, at EF er en konstant gange med A.
+
+4:33
+Det er lig med konstanten ganget med EF af.
+
+4:38
+Så det her? Det er de helt afgørende betingelser for, at de kalder en afbildning for lineær.
+
+4:50
+Jeg vil godt kunne forstå hvis der er nogen af jer der synes det ser sgu da lidt kedeligt og nørdet ud.
+
+4:56
+Altså et plus bliver til et blues og okay, man kan sætte en konstant uden for.
+
+5:03
+Men det er altså disse egenskaber, som er afgørende for en meget smuk teori bagud.
+
+5:09
+Jeg kan måske begynde at sælge lidt af ideen til jer, for I kan se her.
+
+5:14
+I er lidt, der skal laves en sund. Og hvor er det, de laver summen.
+
+5:22
+De to vektorer i og der det skal I forestille jer, det er to vektorer der ligger herover, og så lægger vi dem sammen her.
+
+5:30
+Og så tager vi billedet af dem, men derpå højresiden.
+
+5:35
+Der bliver summen taget herover.
+
+5:38
+Altså da vi taget billedet af den ene og så billedet af en anden, skal vi altså lave en vektor som herover, og det er lidt på samme måde her.
+
+5:47
+Her har I en vægtere a. I det første rum her i ganger den med en konstant afbilleder den som kommer herover.
+
+5:56
+Men I kunne også bare afbillede A og så gange med den samme konstant der.
+
+6:01
+Så i det første tilfælde multiplikation med tal foregår her.
+
+6:06
+Men i det andet tilfælde, så foregår den her hen. Det vender vi tilbage til.
+
+6:14
+Se ethvert væg til rum har en målvogter, så lad os lige prøve at kigge på billedet af denne her målvogter.
+
+6:31
+Ja, vi kan sige jamen, så nulvæksten er jo det samme som at tage et tallet nul gange med nul vektoren.
+
+6:39
+Det giver jo igen nulvæksten herinde. Men så i følge el to så den der.
+
+6:46
+Det her er jo konstant det tal. Det kan jeg set ud foran.
+
+6:50
+Så står der nogle gange efter noget.
+
+6:55
+Så uanset hvad F 0 den måtte være, så bliver den altså ganget med tallet nul, og så bliver den til nul vektoren sonder.
+
+7:08
+Så vi kan jo sige, det er noget, der gælder for en værre lineær afbildning.
+
+7:12
+Det er, at den nulvækst, der ligger i det første rum her, den bliver afbilledet i nul vektoren i det andet rum, så det ligger helt fast.
+
+7:32
+Nu skal vi se på nogle eksempler. Og det er jo ikke første gang jeg hører dette hermed lineær.
+
+7:44
+I kender jo lineære funktioner fra ja, måske i folkeskolen når i hvert fald gymnasiet.
+
+7:49
+Så skal vi se om en lineær funktion. Om det er en levende afbytning, vi spørger er f.
+
+7:58
+A. X lig med a x plus B.
+
+8:03
+Vi spørger, om den er lineær. Se, vi starter med at lave nul prøven.
+
+8:15
+Lad os få tag, hvis vi har f nul.
+
+8:21
+Den er så a gange med nul plus B og det giver jo B.
+
+8:32
+Og hvad kan vi så se her? Det skulle jo give nul, fordi nul skal gå i nul.
+
+8:40
+Så konklusionen er Denne her er ikke lineær, hvis bede er forskellig fra nul.
+
+8:51
+Civica, Skive D. B skal være lig med nul, for ellers er den ikke lineær.
+
+9:01
+Så som nu er og kan antage billige manuelle.
+
+9:08
+Og hvad har vi så tilbage? Så har vi f. Eks. Er lig med a ex og nu prøver vi med f.
+
+9:16
+Eks. Et plus ex to. Vi prøver et bruger forskriften.
+
+9:26
+Hvad er det? Det er jo a x et plus X2.
+
+9:33
+Så ganger a 1 på de to pladser a ex et plus a x2.
+
+9:47
+Borg Hvad er det lige med? Det var jo f.
+
+9:52
+Eks. Et Kluges f. A. X2? Så nu har vi altså ved ganske almindelig udregning her vist, at når vi tager es af en sum, så er det det samme som tag s.
+
+10:06
+Hver af dem og læg dem sammen, så ja til el et.
+
+10:15
+Og okay, så prøver vi f.
+
+10:22
+For vi har hvor vi har ganget x med en konstant bruger regner overskriften det
+
+10:28
+så a bound med K X og faktorernes orden er jo ligegyldig her i reelle tal,
+
+10:38
+som vi kan set. Vi kan bytte lidt om på dem. Så står der K gange af F, X og f.
+
+10:48
+Eks. Det var det samme som f.ex. Så det har altså set vi kan sætte K udenfor, som vi har gjort her, så nu har vi sagt ja til eller to.
+
+11:07
+Så vores konklusion det må være. At F er lineær, men hvis og kun hvis.
+
+11:28
+B er lig med nul. Så spørgsmålet var er en lineær funktion, så er den lineær?
+
+11:39
+Ja, det er der nogle af dem, der er. Men det kræver, at de skærer yacc ind i nul.
+
+11:45
+Altså hvis den ikke skærer yacc nul, så den ikke lineære. Og gav.
+
+11:55
+Vi tager et nyt eksempel. Prøv at se jeg kigger på F.
+
+12:08
+Er væg til rummet er to ind i væg til rummet er to.
+
+12:20
+Læg lige mærke til i dette tilfælde.
+
+12:22
+Der har vi så, at det rum vi starter i, er lig med det rum vi ender i den der eksempelvis er mange gange, så vi er i dette tilfælde lig med W.
+
+12:33
+Men I vil også se mange eksempler, hvor det ikke er tilfældet. Men sådan er det altså her, og vi siger, at den er givet ved.
+
+12:47
+At hvis jeg tager af en vægtere som hedder X1 over X2.
+
+12:57
+Så er billedet eller mit eget put. Det er minus X2 over X1.
+
+13:09
+Og vi spørger så igen er f en lineær afbildning.
+
+13:20
+Det er det vi gerne vil besvare. Ærligt.
+
+13:28
+Vi skal på bare tæer. F af en sum af vektorer.
+
+13:33
+Det gør vi. Prøv at se vi tager her en væg Dawda exit X2, og så lægger vi en værktøj ind i to til.
+
+13:50
+Sådan og prøve at regne lidt på det her. Set det første jeg gør det, jeg lægger de to vektorer sammen, så det bliver en.
+
+14:00
+Det er jo plads XVI's addition. Så får jeg her en vektor der hedder ex 1 plus y 1.
+
+14:09
+Og så hedder den X2 plus y 2. Og nu skal vi så bruge forskriften for denne afbestilling.
+
+14:22
+I kan se anden koordinaten flytter op som første koordinat, men får et minus foran.
+
+14:32
+Så vi skal altså sige minus den her. Og det kan I se, det er jo det samme som minus X2 minus y 2.
+
+14:39
+Og så skal den der. Den skal rykke ned som anden koordinat, så her får I X1 plus y en.
+
+14:53
+Og nu kan vi dele denne her vægtere op i summen af to vektorer.
+
+15:01
+Så har vi minus X2 over X1 og sagt plus, og så får vi minus Y i to over y 1.
+
+15:16
+Og så kan I se hvad er det her? Jamen det er jo F alene er den første her.
+
+15:25
+Så det er så f. Eks et over ex.
+
+15:29
+To og den anden danner sig tilsvarende.
+
+15:33
+F. Y. 1 og y 2.
+
+15:47
+F er en sum af det samme som Eva, den ene plus efter den anden,
+
+15:54
+og det var lidt i jatak når så skal vi prøve at si F er en konstant gange en vektor her to.
+
+16:10
+Den kalder vi igen for ikke set over X2. Vi ved hvordan vi ganger et tal med en vektor.
+
+16:18
+Det gør vi ved at Garang tallet 1 på hver af koordinaterne, så er det ved vil være F.
+
+16:28
+Og så skal vi lige have parentesen her, og så står der ikke scenen, hvor der står Codex To.
+
+16:37
+Sådan. Nu er vi parat til at bruge egne forskriften.
+
+16:44
+Det vil sige, at denne her skal rykke op og skifte fortegn. Og så får vi minus på X2 over K gange med X1.
+
+17:01
+Og nu vil jeg tillade mig at sætte den der konstant kog uden for vægteren.
+
+17:11
+Og så kan I se hvad har vi tilbage? Så har vi minus to for oven og exit forneden.
+
+17:20
+Og det er det. Det var jo lige præcis billedet af X1 kommer X2.
+
+17:25
+Så det der er sagt to gange f a x1 over x2.
+
+17:35
+Sådan via de udregninger er K flyttet uden for afbildningen.
+
+17:45
+Så vi har altså også ja til eller to og dermed f.
+
+17:55
+Er lineær. Så er det.
+
+18:16
+Er der nogen af jer, der har set det før med, at man tager anden koordinaten, sætter den op for oven og så ganget med minus en og anden koordinaten.
+
+18:25
+Sætter man ned forneden, har I set det?
+
+18:29
+Hvornår gør man det? Du har et bud når man laver en clairvoyant en et vækster også kaldet sværvægter, fordi vi faktisk har kigget på her.
+
+18:44
+Det er sværvægter afbildningen, så vi siger altså, at sværvægter afbildningen den er lineær til på at se, hvad der ligger i det.
+
+18:55
+Se. Jeg har en væg som jeg kalder for A.
+
+19:05
+Jeg har en værktøjer jeg kalder forbi. Det jeg laver, er summen af dem.
+
+19:14
+Ved parallelogram metoden dér har jeg vægteren A plus B.
+
+19:25
+Og så tager vi sværvægteren til den. Det vil sige at vi skal tage en cirkel ligger også.
+
+19:31
+Og så skal vi bare den 90 grader. For hvor var det vi havde den rette vinkel, den var der, så vi har altså taget sværvægteren til som vægteren.
+
+19:54
+Nu prøver om vi kan tegne dem nogenlunde så det passer hér har I.
+
+19:58
+A. Og her har vi B.
+
+20:09
+Så nu prøver jeg at tage sværvægteren til A. Se hvor ligger den?
+
+20:18
+Det har vi hat, for så tager vi her b hat.
+
+20:34
+Og så prøver vi og så lægge de to sammen. Efter parallelogram metoden.
+
+20:42
+Og så har vi her den vektor der ligger dér.
+
+20:46
+Denne hedder så a hat plus b hat.
+
+20:53
+Og Deezer kan se det, at det var lige meget om man lagde de to vektorer sammen først.
+
+21:01
+Og så tager sværvægterne summen eller vi 2.
+
+21:06
+Sværvægteren af de to for sig og så lade de to tvære vektorer sammen.
+
+21:11
+Vi får samme resultat. Det er her, det er et emne, som vi nu også har vist geometrisk.
+
+21:24
+KL. Det har jeg af lektoren.
+
+21:33
+Ja, ganget med en konstant. Så har jeg k gange af vægteren, og nu laver jeg så sværvægteren er det.
+
+21:48
+Det er altså sværvægteren K. A. Eller det har i a vektoren igen.
+
+22:05
+Nu tager jeg sværvægteren til den. Det har jeg hat, og nu ganger jeg den med den sammen.
+
+22:14
+Konstant har jeg ikke set den cirka to gange.
+
+22:17
+Så her op til og så den vægt, vi får dér.
+
+22:22
+Den hedder k gange a sværvægter. Og de burde ligne hinanden nogenlunde.
+
+22:32
+Tilgiv mig, hvis den ikke er helt i øjet. Jeg tror I tror på mig.
+
+22:36
+I kan sikkert selv lave en bedre tegning, for eksempel med gebracht på Maggio Zebra, og om jeg kan få det til at passe.
+
+22:42
+Så det bliver rigtig, rigtig flot. Og så kan I trække i summen, vægteren og her og og det passer lige meget hvad gør så her?
+
+22:53
+Eltog er vist. Og.
+
+23:10
+Se, nu skal vi snakke om kernen for S. Og her har I igen mit set up.
+
+23:28
+Der har vi det første rum V, og her har vi det andet rum W.
+
+23:40
+Et eller andet sted der har vi nul vektoren. Og vi ved nu at FDM sender nulvækst som over i nul vektoren.
+
+23:56
+Men det vi nu spørger os om, er. Kan det tænkes at der er andre vektorer herover?
+
+24:05
+I det første rum, som også bliver sendt over i nul vektoren her.
+
+24:13
+Sådan ser det altså ikke kun er noget, men der er andre. Og hvordan kunne vi illustrere det?
+
+24:24
+Det kalder vi for kernen for EF.
+
+24:27
+Se også Den skal selvfølgelig indeholde noget vægteren, men den indeholder i det her tilfælde mange andre vektorer, der går over i nul vektoren.
+
+24:42
+Det skal altså ligesom forestille sig, at alt hvad der ligger derinde. De har altså nul som deres billede, og det er sådan vi definerer kernen for os.
+
+24:57
+Se kernen for F. Det er alle de vektorer v, som ligger i vores Vækstforum rum V, hvor om der gælder at det spillede FR-V.
+
+25:16
+Det er nulvækst som i W.
+
+25:29
+Det kommer vi til at snakke rigtig meget om, for eksempel når vi skal snakke om homo gen differentialligninger.
+
+25:38
+Nej, så langt er vi ikke nået endnu.
+
+25:40
+Jeg skal ikke forskrækker, så vi nøjes lige nu med at kigge på nogle egenskaber, for kernen, for is, for nu siger vi så.
+
+25:54
+Antag at A og B.
+
+26:01
+Det er to vektorer i v. Altså vi har A og B liggende i det oprindelige rum her, og så siger vi de prøver nu med FF deres sum,
+
+26:23
+og da ved vi ud fra det første minde om ligner og tilskrev lidt at det er F.
+
+26:32
+H. Her skulle jeg have skrevet kernen for Jef. Vi antager at A og B de ligger sig inden.
+
+26:39
+Her har vi da et eller andet sted. Og dér har I B.
+
+26:46
+Og vi prøver nu at tage deres sag. Det er så i følge Elle et, så er det F.A.
+
+26:51
+A. Plus Frb. Og eftersom A ligger i kernen for EF, så den først og dér nulvækst som og på samme måde med efterabe.
+
+27:02
+Den blev også kernen for EF, så der har jeg altså nu letvægteren.
+
+27:09
+Og så kom der noget ud af summen, så vil sige Hvis vejret er dem, der ligger i kernen for EF, så ligger summen også i kernen for EF.
+
+27:21
+Så ville sige kernen for EF er stabil med hensyn til plus.
+
+27:39
+Nu prøver jeg så at gange, altså igen.
+
+27:43
+A en vilkårlig værktøjer i kernen. For F.
+
+27:49
+Ifølge el to. Der ved vi, at vi kan set K uden for afbildningen.
+
+27:55
+Og så har I her to gange Ebba. Og igen for de a.
+
+28:03
+Den ligger i kernen. Så ligger f. A.
+
+28:06
+Den er nul vektoren. Så nu står der Kog gangene nulvækst som.
+
+28:15
+Og går gang lektoren. Det er selvfølgelig nul vektoren, som hvis A ligger i kernen.
+
+28:21
+Så ligger K Guide A også i kernen, så det vil sige vi kan sige kernen for SF er stabilt.
+
+28:30
+Med hensyn til multiplikation med en skalar eller også kaldet et tal.
+
+28:42
+Så det var da to flotte egenskaber her, ikke sandt? Men hvad kan vi så her konkludere?
+
+28:54
+Vi har en mængde som er stabile med hensyn til pluss, og som er stabile med hensyn til multiplikation med tal.
+
+29:03
+Hvad kalder man sådan et rum? De to stabilitets krav Du har et bud.
+
+29:10
+Det er jo et underrum. Så vi har altså vist at kernen for SF er et underrum i V.
+
+29:37
+Så det vil altså sige at den mængde vi har altså beskrevet her de vektorer der går over i nul vektoren i W.
+
+29:47
+De er i sig selv et vektorrum.
+
+29:50
+Og det betyder, at så noget som basis de mention koordinater, alt det vi har udviklet i sidste uge, at det vil vi kunne bruge på kernen for S.
+
+30:05
+Så det er en rigtig flot mængde, vi har fundet her. Vi snupper lige nogle eksempler, hvor vi finder kernen for F.
+
+30:19
+Og er der lidt senere i dag, så kommer der altså nogle lidt mere stille og rolige eksempler her.
+
+30:27
+Man kan godt være I synes de første to her er lidt sjovt, men forhåbenligt synes også I også,
+
+30:32
+at de er meget sjove, for nu skal vi allerede kigge på det der med at funktioner, det kan være væk til ord.
+
+30:43
+Og at vi kan bruge for eksempel også er noget, som kernen er sig i denne her sammenhæng.
+
+30:48
+Så prøv at se her. Mit første eksempel. Vi siger, at en afbildning vi kalder for stor det som går fra C uendelig over er en Iseo endelige overjeg.
+
+31:15
+Så. Inden jeg går videre her, så skal vi lige huske på at være det nu.
+
+31:21
+Det betyder, det er det, det betyder.
+
+31:25
+Mængden af funktioner er reelle funktioner, der kan differentieres uendeligt mange gange.
+
+31:31
+De glatte funktioner, og det har vi snakket om sidste gang.
+
+31:36
+Det er faktisk et vektorrum. Så nu kigger vi altså på en afbildning af det her vektorrum inde i sig selv.
+
+31:44
+Og nu skal se, hvordan den er givet set.
+
+31:49
+Den er givet ved, at det er sådan en funktion.
+
+31:57
+Altså er en glat funktion. Det er dens afledede ved at.
+
+32:10
+Sådan er forskriften for denne afbildning. I har en funktion.
+
+32:16
+Billedet af funktionen. Det er dens afledede funktion. Vi viser at den er.
+
+32:27
+Det er lineær fordi vi tjekker i lidt.
+
+32:41
+Så vi tager nu. Det er to vilkårlige glatte funktioner.
+
+32:52
+Hvad er det det den gør? Den differentierer denne summen funktion.
+
+32:57
+Så står det jo f. A. Ex. Plus det a x der skal differentieres.
+
+33:12
+Og hov, nu skal vi jo huske at denne regneregler for at differentiere først fremmest differentiation af en sum af funktioner.
+
+33:20
+Det er jo differentialkvotienten for hver af dem. Så dette?
+
+33:24
+Det ved vi fra gymnasiet. Det er et mærke ex plus g værket x år.
+
+33:32
+Jamen, det dér er jo lige præcis det, at den ene funktion plus det er den anden funktion.
+
+33:45
+Sådan så sig det af en sum.
+
+33:50
+Det er det, at den ene plus det er den anden. Så tager vi lige et to med.
+
+33:58
+Her. Vi tager nu.
+
+34:05
+Det er en konstant ganget med en funktion.
+
+34:13
+Og hvad gør det? Den differentierer jo af en funktion, som vi skal have differentierede K gange.
+
+34:19
+F. Eks. DK f.
+
+34:23
+Ex. Mærket igen. Det er regel nummer to differentiation 3, nummer 2 for gymnasiet set K uden foran, så den er Zakaev gange.
+
+34:38
+Dets mærke er ex. Og det er jo kog og s mærke.
+
+34:46
+Ex. Det må jo afbildes, men ingen ved det.
+
+34:54
+Sådan er. Det er en konstant gang en funktion.
+
+35:00
+Det er k gange det er funktionen, så differentiation er altså lineær.
+
+35:18
+Nu skal vi så prøve at se om vi kan finde kernen for denne her. Se når man skal finde kernen, så skal man jo altid løse en homo gen ligning.
+
+35:32
+Så det vi skal. Vi skal løse. Det.
+
+35:39
+Det er f.ex. Som skal være lig med nul funktionen.
+
+35:48
+Dette betød at der står nul, men betyder sådan set nul funktionen.
+
+35:53
+Det er en funktion der er konstant nul hele tiden, og det er eks igen.
+
+36:00
+Hvad betyder det? Det betyder jo f. Mærke at X skal være lig med nul.
+
+36:12
+Og hvad er det for nogle funktioner, hvis afledede er lig med nul?
+
+36:24
+Det har du et bud på. Det er konstanter der kan måske huske i første hjemmeopgaver set ét altså i opgave.
+
+36:33
+4. Var der noget med, hvor vi arbejdet med de hyperbolske funktioner,
+
+36:39
+og lige pludselig så havde vi brug for hvis nu et mærke eks den er lig med nålen, jamen så er den i den konstant.
+
+36:46
+Og er I så også en begyndelse? Betingelse af at erfare noget, den skulle være en.
+
+36:51
+Og så kunne jeg se den funktion, der var tale om. Det var funktionen ESA ikke så lige med en.
+
+36:56
+Men her har vi ikke nogen begyndelse betingelser, så vi kan altså sige, at her kernen for af er alle konstante funktioner.
+
+37:18
+Eller hvis vi her har sexy koordinatsystemet, så er det altså alle de funktioner, hvis grafer er rette linjer i planen.
+
+37:37
+Det var kan ikke. Så får vi en der er lidt samme type.
+
+37:52
+C Nu har vi. F a pet, to år er en af jer, så vi betragter jeg her væg til rummet, at polynomier er kravet højest to.
+
+38:14
+Bare det vi kalder for W. Det er bare er altså de reelle tal.
+
+38:20
+De reelle tal er et meget nemt vektorrum, men vi kan betragte som et vektorrum.
+
+38:27
+Så det er altså en afbildning her. Den er givet ved.
+
+38:40
+At mærke en nul. Den er lig med nul.
+
+38:54
+Bemærker 0,0. Så ja, altså jeg siger altså jeg er lineær.
+
+39:09
+Det gider vi ikke at vise. Og altså det er et fordi der er noget med differentiation at gøre.
+
+39:22
+Og hvis vi bruger disse regneregler her, så kan vi sagtens vise den, da den er lineær.
+
+39:28
+Men skal vi se, hvad det er for nogle funktioner her?
+
+39:33
+Hvad er det, der står i dens differentialkvotienten noget?
+
+39:39
+Den skal være nul. Det vil sige, når eks den er nul, så skal den have ret tangent, hvad der.
+
+39:51
+Og det er det angår også polynomier, og det vil jo sige, at deres grafer det er paraboler.
+
+39:59
+Så det vil jeg sige den mængde er skrevet op her. Det er alle de parabener, som har vandet ret.
+
+40:05
+Tangent de nul til libertiner. Se hvordan kunne de ser ud til der har vi en af dem.
+
+40:26
+Og her har vi en anden. Se alle de bobler der.
+
+40:38
+Det er åbenbart det vektorrum vi kigger på her. Og jeg tror bare vi tager den stopper her.
+
+41:12
+Altså al anden grads polynomium. Hvis top punkt ligger på ligger på y aksen.
+
+41:36
+Og kan vi lade den blive stående der? For nu går vi videre til det næste store begreb, som vi snakker om her.
+
+41:51
+Og det er billede rummet, som vi skal snakker om.
+
+41:55
+Billedet. Rummet. S er vi.
+
+42:14
+Således Lad os lige igen kig på vores to. Vores to rum her.
+
+42:23
+Vi har vé og så har vi her w.
+
+42:32
+Og vi har en vi har en lineær afbildning, som går fra det ene rum til det andet.
+
+42:43
+Det vi nu interesserer os for, det er det rum, der ligger her.
+
+42:52
+Det er billedet da alle de vektorer der ligger her. Og hvordan det ser ud herovre i det rum her, så lad os lige prøve at se.
+
+43:00
+Der er to begreber, vi ikke har fået indført endnu. Prøv at se V kaldes definitionen tro med?
+
+43:18
+Og det skal ske vi skal opleve den her før altså ved kaldes for definitionen trommet og w kaldes disposition tro med.
+
+43:39
+Dispositionen trommet med. Og så kan jeg måske spørge mig om hvorfor.
+
+43:52
+Hvorfor hedder disposition trommet? Hvorfor hedder det ikke bare billede rummet?
+
+43:57
+Det er jo dér over billederne ligger. Men det er ligesom et rum der er til disposition.
+
+44:03
+Det er ikke sikkert, vi bruger dem alle sammen.
+
+44:05
+Det spørgsmål vi nu stiller os, det er nemlig, hvis jeg nu tager alle de vektorer, der ligger her og laver alle deres billeder dér og kigger på.
+
+44:16
+Hvad er det for nogle lektorer, der bliver ramt herover?
+
+44:20
+Så kan det godt være, at de alle sammen bliver ramt, men det kan vi ikke være sikker på, så vi må tage et forbehold her.
+
+44:27
+Så derfor kalder vi det os for disposition, trommet og på at se her.
+
+44:32
+Det, vi så nu spørger om, kan også være, at vi tager alle vektorerne her.
+
+44:40
+Og så afbilder vi dem alle sammen. Og så er det måske ikke kun disse vektorer, der bliver ramt, når vi tager alle dem her.
+
+45:01
+Men som sagt det er muligt til rammer med det samme.
+
+45:04
+Men det kan altså også godt være, at der lige ligger en vægtere herude, som siger Der er ikke nogen, der vil have mig.
+
+45:12
+Jeg ligger uden for billedet rummet. Så hvordan kan vi skrive det vi kan sige.
+
+45:24
+Billedrør med ost. Så vi det her af, er alle de værktøjer.
+
+45:41
+I W. Sammen er et billede.
+
+45:52
+Da en lektion i enkel ved. Så det er det vi forstår ved spillerummet.
+
+46:13
+Og så lige som vi så med kernen for EF.
+
+46:19
+Der så vi, at det at underrum det var et underrum I ved, så er spillerummet.
+
+46:27
+Det er et underrum i W. Så altså.
+
+46:46
+Ork. Jeg bruger ikke tid på at bevise det her. Vi kan godt, ligesom nogenlunde lige som vi gjorde før.
+
+46:52
+Men altså hvad betyder det, at det betyder? Altså hvis vi kigger på to vektorer her, der ligger i billedet til højre, så er de to vektorer dér.
+
+47:03
+De er jo. De har en makker herover i en oprindelse herover i ave.
+
+47:11
+Men det vi så kan vise, det er at så os deres tumper, der så zumba.
+
+47:16
+Her har også en makker over idé.
+
+47:20
+Og på samme måde ved sitar en væg, der ligger her i bindet rummet og ganget med en konstant, så vil konstanten gange den væk.
+
+47:29
+Så der vil også have en makker herovre.
+
+47:32
+Så det er altså det, der ligger i, at også her kan vi altså bruge begreber fra lineær algebra altså dimensioner,
+
+47:41
+koordinater, baser og al den slags ting der. Så nu har vi altså fundet to federe underrum.
+
+47:47
+Den ene ligger i ved kernen. Den anden der ligger et W.
+
+47:53
+Det er billedet. Rummet. Så godt se.
+
+48:11
+Så kan man måske godt. Nu publicerer jeg prøvede i går her.
+
+48:18
+Jeg tror jeg havde en tegning her. Så hvis vi kigger på denne her, kan vi se, hvis det nu er, at kernen den er meget stor.
+
+48:30
+Det er altså rigtig, rigtig mange af de vektorer, der ligger herover, som går i nul vektoren, der bestemmer os.
+
+48:38
+Så kan billedet rummet ikke være ret stort. Altså hvis kernen er stor, så billedrør med lille.
+
+48:55
+Og så for eksempel hvis altså hvis kernen er, så hvis vi siger, at kernen kun er nul vektoren herovre, så er den meget lille.
+
+49:04
+Så bliver benet rummet meget stort, så det er lidt intuitivt, det jeg siger her.
+
+49:09
+Men det er det, der er basis for dimensionen.
+
+49:13
+Sætningen. Nu skal I høre hvad den siger.
+
+49:25
+Det siger altså ved Zittau dimensioner, at det oprindelige vektorrum altså definition trommet.
+
+49:38
+Hvis I tager dimensionen at definitionen rummet så den dimension den bliver tildelt på kernen og på billedrør med.
+
+49:51
+Så den dér, den er så dimensionerne af kernen.
+
+49:56
+For F. Kluges dimensioner af så vi er blevet rummet.
+
+50:10
+Så hvis der er fem. Så kan den der måske være nålen, og så kan den være fem, eller den kan være en, og så er det en, fire eller to, tre, tre, to osv.
+
+50:23
+De deler den oprindelige dimension, og det er også en rigtig, rigtig flot sætning.
+
+50:28
+Så her til sidst. Så tager vi lige et eksempel, hvor vi altså kigger på de begreber her.
+
+50:39
+Kernen for EF og spillerummet. Og kan jeg godt.
+
+50:59
+Skal vi have displayet også op her sådan her?
+
+51:03
+Okay. Så hvad kigger vi på nu?
+
+51:08
+Jo, vi kigger på. F.
+
+51:14
+Er væg til rummet? Er tre ind i væg til rummet er to.
+
+51:26
+Den er givet ved at se.
+
+51:30
+Dette betyder jo at vi kører fra et tredimensionalt rum i bus, sammenligne det med.
+
+51:38
+Altså det geometriske rum og så over i planen. Altså fra dimension 3 over dimensionen to.
+
+51:44
+Så det er altså i dette tilfælde to forskellige vektorrum, vi kigger på.
+
+51:48
+Og denne er så givet ved at F er en så x1 komma x2 komma x3.
+
+52:00
+Hvordan skal vi, skal vi? Vi kan lige starte med at skrive det sådan her. Den hedder except minus to ex to +6 3.
+
+52:11
+Det var den største koordinat. Den skal også have en anden koordinat, og det kunne være minus to X2.
+
+52:18
+Med X1 plus fire X2 og så minus to X3.
+
+52:25
+Sådan da. Så det så dagens forskrift.
+
+52:34
+Jeg har lige en bemærkning her, en lille teknisk bemærkning set.
+
+52:38
+Jeg burde egentlig have sat en parantes omkring exit x2, X3 for ligesom at vise at det er en vektor,
+
+52:46
+så vi både ligesom havde de her afbildningen, parentesen og parentesen fra vektorerne at dovenskab.
+
+52:55
+Sådan udelader man det somme tider, men I skal altså bare lige.
+
+52:58
+Det kan godt være, at I selv vælger de første gange i arbejdet med ligne afbildninger, så leg og sæt den dér parentes dér, som jeg så siger.
+
+53:08
+EHF er den vektor der ligger deroppe. Hvad skal vi?
+
+53:16
+Jeg siger bare F er lineær, og det har vi ikke tid til at vise her.
+
+53:26
+Vi skal selvfølgelig vise lidt og L2, det har vi prøvet. Altså i dag.
+
+53:30
+Så hopper jeg lige over. Men hvad vil vi så?
+
+53:35
+Vi starter med at finde kernen for et. Sådan.
+
+53:50
+Og som jeg sagde Når vi skal finde kernen for en funktion, så handler det altid om at løse en homo gen ligning.
+
+54:00
+En homogen vesterlænding. Fordi vi vil jo gerne have, at det der står her.
+
+54:08
+Vi vil kun gerne finde alle de muligheder for, at det bliver 0,0 0,0.
+
+54:14
+Det er jo nulvæksten over jer to. Så hvad har vi gang i?
+
+54:19
+Se vi skal løse denne her.
+
+54:26
+Så vi har første koordinaten der hedder except minus to x2.
+
+54:31
+Plus X3. Anden koordinaten hedder minus to x2 plus fi re x1 plus 4 x2.
+
+54:42
+Minus to X3. Det var sådan set bare, at jeg skriver dette ikke med komma imellem, men i stedet for som sådan en en lodret vektor her.
+
+54:55
+Og det vi gerne vil løse, er altså, at det skal være lige manuelt. Og så ser vi hvad vi havnede i.
+
+55:12
+Det er jo to ligninger med tre ubekendte. Et lineært dining system, som har en total matrix.
+
+55:24
+Og den er jo en minus 2 1.
+
+55:29
+Og så har vi nul. Og så har vi minus to og så plus fire og minus to.
+
+55:36
+Og så har vi nul. Den skal vi have reduceret.
+
+55:45
+Jeg kan se at vi ganger bare vi ganger øverste række med to.
+
+55:50
+Så får vi nul dør. Så får vi nul dér. Vi får nul.
+
+55:54
+Så vi er allerede over i et skrapt te, som så giver en minus to en og nul som det.
+
+56:12
+Vi opskriver den reducerede ligning. Den hedder jo så X et minus 2 x 2 plus x 3 skal være lig med nul.
+
+56:25
+Isoleret set på venstresiden, så står der X1 er lig med 2 x 2 minus x 3.
+
+56:38
+Der sørm'e to frie parametre. Og dem kalder vi så for et årti.
+
+56:49
+Og så har vi her en parameter fremstilling. For kernen for et.
+
+57:06
+På følgende måde er x 1 x 2 x 3.
+
+57:12
+I kender hele historien. Vi skal have to søjler her.
+
+57:20
+Den første gange smed ATS. Og så skal vi sige plus ti gange med den anden.
+
+57:27
+Og her skal der stå et etatens. Dér skal der stå en nøgle, og dér skal der stå nålen, og dér skal der stå en standart arbejder.
+
+57:38
+Men så skal vi lige se hvad har vi så tilbage? Jo exit.
+
+57:42
+Det er jo to gange med S, så der får vi så et to tal der, og her får vi et minus set.
+
+58:01
+Og i så 10 dage altså vores frie parameter.
+
+58:08
+Så det var jo en fin måde at få karakteriserede denne her kernen for, men tit vil I se, at nu ved vi jo, at kernen er et underrum,
+
+58:23
+og så ved vi, at den skal have en basis, og så vil vi gerne skrive det endnu finere end det her ved, at vi opstiller kernen så.
+
+58:35
+F på SE. Vi opstiller basis for kernen for SF.
+
+58:55
+Ja, hvad? Hvad er det nu? Hvad er det en bassistens skal skue?
+
+58:59
+Den er så der er to vigtige ting frem for en basis.
+
+59:05
+Den skal udspænder hele vægge til rummet. At den skal udspænder hele kernen frit.
+
+59:11
+Og hvad vil de sige? Jamen, det vil jo sige, at at hele kernen for f.
+
+59:17
+Denne er jo en lenau kombination af de to der så de to fyre er de udspænder.
+
+59:24
+Hele kernen vi kan bruge S, ligesom vi vil te lige så tosset som vi vil.
+
+59:29
+De to de udspænder dem. Det var det ene krav. De skuespillene, det hele.
+
+59:33
+Og så skal de være lineært uafhængige. Og vi kan nemt se at de dér to er lineært uafhængige.
+
+59:42
+Vi kan se, at de stritter i hver sin retning. De er ikke parallelle.
+
+59:47
+Fordi så skulle man tage den en gang den konstant, så får man den anden de udspænder.
+
+59:52
+Kernen for EF og de lineært uafhængigt. Så her kan vi jo sige, at vi har nu en basis for EF.
+
+59:57
+Så fornemt er det. Det har vi den ene basis vektorer.
+
+1:00:06
+Det har vi den anden dag, så svigter er det.
+
+1:00:16
+Så nu kunne det jo være interessant at vide, hvad dimensionen af billedet rummede, hvad er det så vi jo egentlig er?
+
+1:00:26
+2. Så billedet? Rummet kan i hvert fald ikke have en dimension, der er større end to, fordi den er jo et underrum.
+
+1:00:35
+I er 2. Så er den nålen. Er den ene eller er den to?
+
+1:00:44
+Når har vi jo. Der har vi jo heldigvis dimension sætningen, så vi kan altså sige, at dimensionerne af det oprindelige rum.
+
+1:01:04
+Skal jeg være lige med dimensionen af kernen. For F plus dimensionen af bil rummet, som vi her kalder for S R, er tre.
+
+1:01:25
+Og så har vi jo altså se hvad er det ubekendt, det her er så det vi nu vil lige slutte af med her.
+
+1:01:31
+Det er jo hvad. Hvad er så dimensionen af billeder? Rummet ikke sandt? Så vi har altså her tre.
+
+1:01:38
+Det er tre. Alle med dimensionen for kernen for EF I kan se, at der var brug for to basis vektorer.
+
+1:01:51
+Og så har vi altså dimensionen af spillerummet. Og så kan jeg altså se dimensionen af billedet rummet.
+
+1:02:02
+F A er tre. At den er lig med en.
+
+1:02:15
+Så og vi husker jo passer, hvis I lige kigger her.
+
+1:02:20
+Her har vi er to, og den skal gå igennem nul.
+
+1:02:26
+Så det er en eller anden, altså spillerummet. Det er en ret linje, der går igennem 0,0.
+
+1:02:33
+Så fik vi indført lineær afbildninger, vi så på de rigtig vigtige begreber omkring kernen for EF og for spillerummet.
+
+1:02:43
+Ikke en dag uden en ny matrix og matricen i dag.
+
+1:02:48
+Den hedder afbildning matricen. Den stopper vi efter pausen.

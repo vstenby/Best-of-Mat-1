@@ -1,0 +1,1058 @@
+0:05
+Og nu skal vi rigtig gennemgå en gyser.
+
+0:21
+C. Jeg har her. Her vil jeg også skrive en total med Isaacson.
+
+0:34
+2 6 4. Tre, fem, tre.
+
+0:42
+Og så har vi tre otte seks.
+
+0:48
+7 6. Hvem?
+
+0:54
+Fire. 14. 8.
+
+1:00
+10. Toogtyve. 32.
+
+1:11
+Men nu begynder det at blive sjovt. Hvor mange ligninger har jeg?
+
+1:18
+Hvor mange ubekendte er det antal ligninger? Hvad siger du?
+
+1:23
+Hvad er 4. Og hvor mange ubekendte har vi? Hvad siger du?
+
+1:27
+Ja, der bliver sagt fire ligninger, og der er fem ubekendte.
+
+1:32
+9. Det er jo højresiden i en totalt matrix.
+
+1:38
+Og vi skal have lavet noget Gauss elimination på denne her er der nærmere sagt dagsordenen i illumination, så metoden er jo i stedet et tal dér.
+
+1:50
+Der var jeg heldig er der i forvejen, men så skal jeg have nogle på det sted.
+
+1:55
+Noget på dette sted og nul på det sted. Og nu tror jeg godt, at I allesammen ved, hvad det er, jeg skal.
+
+2:06
+C Vi skal sige. Ja, vi siger er to minus er et.
+
+2:16
+Og så siger vi nej. Det skal være minus to af et.
+
+2:23
+Og minus tre er et. Og så er fire minus fire er et.
+
+2:41
+Hvad har. Er tre, så det er altså den tredje række vi skal have fratrukket tre gange er skal vi se, om vi kan finde ud af det.
+
+2:55
+Det eneste der ikke bliver forandret her, det er jo den øverste.
+
+3:07
+Og så skal vi sige bang. Den der med minus to og lægge til.
+
+3:12
+Det giver nul. Gang den der med minus to og læg til 6 det giver som nul.
+
+3:25
+Gang den der med minus to for at lægge til.
+
+3:31
+Hov, kan det høres? Det gav nul indgang til. Gang den med minus to de giver minus 8 plus tre, så får vi minus fem.
+
+3:47
+Fem gange minus to, det er minus 10 plus fem. Det giver minus fem.
+
+3:56
+Og så får vi ni gange med to. Det giver minus 18 plus tre, det giver minus 15.
+
+4:09
+Kø. Ganger med tre. Nu må jeg altså ret mig, hvis jeg kommer til at lave kløjes i det.
+
+4:15
+Minus tre lægger til giver nul i tredje række.
+
+4:23
+Gang med minus tre ved minus ni væk til 8. Det får jeg til mine minus se.
+
+4:33
+Gang med minus tre og lægge til her. Det bør give nul.
+
+4:42
+Gang med minus tre. Det giver minus 12 +7, det giver minus fem.
+
+4:51
+For hvor langt er vi så? Vi var den der og så gang med minus tre.
+
+4:57
+Det giver minus 15 plus 6d bør give minus ni.
+
+5:05
+Og så ganger vi lige med minus tre. Det mener 27 +5 det bør give minus 22.
+
+5:17
+Så mangler vi bare den sidste række operation. Gang dem alle sammen med fire nu og træk fra forneden.
+
+5:25
+En gang med minus fire dæk til nul selvfølgelig. Gang med minus fire.
+
+5:33
+Det giver mindst 12 plus 14, Gem må give plus to.
+
+5:41
+Gang med minus fire. Det er minus 8 plus 8 0.
+
+5:52
+Gang med minus fire. Det giver minus 16 plus 10.
+
+5:57
+Det er minus 6. Og sagt gang med minus fire.
+
+6:06
+Det giver minus 20 plus 22. De giver to. Og til sidst og ganger vi med minus ni.
+
+6:15
+Nej, undskyld. Med ni mand minus fire, giver minus 34 og lægger 32 til sig, bør det give minus fire.
+
+6:22
+Her på slutningen. Her. Se.
+
+6:45
+Så er vi allerede færdige med den første række. Det er det der hedder Gaucho Dan elimination er, hvis man klarer Gauss eliminationen søjle for søjle,
+
+6:56
+altså gøre hver søjle fuldstændig færdig, før man går til den næste.
+
+7:01
+Gauss elimination i al almindelighed. Det betyder bare, at man bruger de tre tilladte række operationer.
+
+7:08
+Så kan man selv snuse sig lidt frem. Hvornår vil jeg bruge det og så videre? Hvordan vil jeg komme frem til det?
+
+7:12
+Det kan være, at jeg syntes, det er sjovt og improvisere med række operationerne,
+
+7:16
+finde nogle lidt smartere metoder end bare gå frem ad en klar algoritme.
+
+7:20
+Jeg går først og fremmest algoritmen og mit problem. Nu.
+
+7:26
+Det er at vi skal have et job, et tal her, og det løser jeg så ved at bytte.
+
+7:38
+Række to og er tre. Og når jeg har gjort det, så er det jo denne her, der står i den række her op.
+
+7:46
+Og så passer det, at hvis jeg ganger den med minus 1. Så hvis altså jeg skal si er to gange med mine ting.
+
+8:02
+Så har vi stadigvæk en tre, to, fire.
+
+8:07
+5 9. Og så har vi nålen.
+
+8:12
+1 0. 5 9, og så har vi to og tyve, og så får vi.
+
+8:23
+0 0 nul minus 5 minus 5 minus 15.
+
+8:32
+Og til sidst har vi noget to.
+
+8:38
+Min nu 6. Men ja, vi skal lige have noget først.
+
+8:44
+Og sammen lige nu sex. For så var det 2 og minus fire.
+
+8:55
+Så nu er det X2 der gerne vil være konge i sin egen søjle, og det betyder spark de andre ud.
+
+9:03
+Vi skal have fjernet 3 tallet, og vi skal jo fjerne to tallet. Og det gør vi ved at sige er et minus tre eller to også, skal vi sige er fire.
+
+9:19
+Minus to er to. Og nu ved jeg ikke om jeg tør.
+
+9:30
+Springet over til den næste tavle eller om vi lige. Det tror jeg.
+
+9:34
+Nej, den vildt tager den lige her. C Jeg har vistnok stadigvæk ikke ændret på er et den har vi stadigvæk som jord.
+
+9:45
+Vi skal gå en. Hvad var det?
+
+9:49
+Nu skal vi gang denne række med minus to. Nej, med minus 3 minus tre op her.
+
+9:55
+Det giver nul. Lige nu tre her ændrer ikke.
+
+10:08
+Minus tre minus 15 plus fire minus selve.
+
+10:19
+Minus tre. Det er. Minus 27 blev stemt minus 22.
+
+10:32
+Og så bliver det lige tre det giver minus 66 plus ni.
+
+10:36
+Det giver minus 57. Og så har vi stadigvæk anden række her.
+
+10:47
+0 5 9 Toogtyve 0 0 0.
+
+10:56
+Minus 5 minus 5 minus 15.
+
+11:01
+Og så har vi nul. Vi skal sige nu minus to.
+
+11:09
+Det giver minus 6 plus to. Det må give minus fire.
+
+11:22
+Ja, det er rigtigt. Så vi skal sige. Så det bør give nogle læger.
+
+11:31
+Det er 4 minus 2 er to af, så hvis ganger den med minus 2.
+
+11:35
+Ja, så får vi nul dér her. Ingen forandring. Gange med minus to, det er minus 10 minus 6.
+
+11:44
+Det giver minus 16. Og så er vi stadigvæk er to.
+
+11:56
+Her. Det er lige nu staten +2.
+
+12:00
+Det er min nu 16. Og så er det.
+
+12:11
+Nu to det er minus 44. Minus fire er minus 48.
+
+12:26
+Så vil jeg lige. Fjernet er nu er vi på den.
+
+12:35
+Hæld nu bryder det hele sammen. Bare rolig, vi har ikke laver fejl, tror jeg.
+
+12:40
+Men kan I se? Det ville jeg gerne have haft et et tal.
+
+12:46
+Og jeg har faktisk en ting jeg kan overveje det.
+
+12:51
+Jeg kunne jo bytte de to rækker. Så kan jeg få to tallet ned her.
+
+12:56
+Men hårde, så bliver exit sur. Jeg viser mig ikke fra den plads række, idet den er færdig.
+
+13:03
+Det må der ikke røres ved. Også færdig. A.
+
+13:11
+Vi kan jo slet ikke få et et tal på det sted. Så der er en eller anden form for defekt her.
+
+13:24
+Er det det er det der er problemet. Den må ikke forandre den her.
+
+13:32
+Så må man bare sige opereret. Det bedste ville have været at få et et tal, der er mere spidst og derfor et tal der.
+
+13:44
+Så kommer vi altså bare lige til at sige hop og så ups.
+
+13:49
+Hop helt herhen. Men er det ikke bedre end at vi skal stå op her og os, så lad os bare sige det.
+
+13:56
+Så mit næste trin er altså, at nu tager jeg række tre.
+
+14:09
+Og ganget med minus en femtedel, så får jeg nemlig et et tal der.
+
+14:23
+Og så alt andet det nu. Hvad står der et nul, to minus 11 minus 22.
+
+14:33
+Min nu 57. Og så havde vi nålen 1 0, 5 9.
+
+14:45
+22. Og så får vi her nul 0 0.
+
+14:53
+Og så får vi et. Et.
+
+14:57
+Og minus 15 bliver så til et tre. Og så har vi altså her 0 0 0.
+
+15:05
+Og så var det minus 16 minus 16 minus 64.
+
+15:13
+48. Men okay.
+
+15:23
+Så er det altså X4 der har gang i nu her, som vil fjerne alle de andre, og det vil jeg sige.
+
+15:29
+Nu laver vi så tre hug på én gang. Vi skal sige er et.
+
+15:37
+Plus 11. Er tre.
+
+15:42
+Og så skal vi sige ja 2 minus 5.
+
+15:49
+Er. Og så skal vi sige er fire.
+
+15:56
+Plus 16 er tre.
+
+16:05
+Og så får vi. Så får vi 1 0 2.
+
+16:12
+Og så får vi nul er ikke. Nu må vi se. Det var her i Gråstens ganges med 11.
+
+16:18
+Så går den væk. Ganges med 11, så får vi minus 11 her.
+
+16:27
+Og gange smed. Med 11.
+
+16:30
+Det er 23. Og så bliver det mine 24.
+
+16:46
+Ja, og så set så var det det andet jeg lovede.
+
+16:50
+Det var så ganget den dér med minus fem.
+
+16:54
+Så får vi altså en noget med omvendt noget ind.
+
+17:03
+Og så har vi nul og så måtte give nul. Den skal så også ganges med minus fem og lægges til.
+
+17:11
+Så må det blive fire. Ganget med minus fem.
+
+17:18
+Det giver minus 15 op i 22. Så er der 7 tilbage.
+
+17:26
+Og det denne her forandrer vi så ikke noget ved. 1 0 0 1, 1 1.
+
+17:34
+Tre. Og så forneden der har vi nul 0 0.
+
+17:40
+Se Garner. Den med 16 lægger til det giver nul, der ganger den med 16 lægger til her, det giver nul ganger den dermed.
+
+17:52
+16 det giver 48 så. Er vi nået dertil?
+
+18:06
+Så vi har et et tal her. Jeg vil gerne have at et tal her.
+
+18:14
+Det ikke er muligt. Det kan jeg ikke uden at jeg en.
+
+18:21
+Uden at jeg ændre på det der står her. Så vi er nu nået frem til trappe formen.
+
+18:33
+Når H. C. Jeg har jeg kan høre, jeg har advokater her, for jeg har advokater for ekstremister, ikke sandt?
+
+18:44
+Se eksempel Stå her og jeg har fans herude perioder som siger hhv.
+
+18:51
+Du skal da lige sørge for, at du er alene i den butik, så vi mangler faktisk lige at sige er et.
+
+19:00
+Kluges 11 er tre. Og så mangler vi er to.
+
+19:09
+Minus fire er tre. Og skal vi se hvad det giver?
+
+19:18
+Så får vi. Maj blodprøve.
+
+19:31
+Det må jeg jo ikke. Vi er færdige med det vi er nået frem til her, så fans af X5 I fik lige lidt mig på vildspor.
+
+19:41
+Jeg kan jo ikke arbejde videre på den der, uden at jeg ødelægger noget af det resultat, som jeg er kommet frem til her.
+
+19:51
+Så det er rigtigt at den matrix vi nu er nået frem til.
+
+19:56
+Det er trappe matricen fortil, og trappen består altså af et hop, et hop og et hop, og vi ser at rangen.
+
+20:17
+Så vi kigger lige på randen af. Så så udlade lige og kig på den sidste søjle her, så det er antallet af lyde ned i taler.
+
+20:27
+1 1 1. Det er ikke et ledende tal. Det er den, der er der et der lider træben, og så vil jeg sige, at rangen er A.
+
+20:40
+Den er. Selvfølgelig lege med drengene i dette tilfælde, og den er 3.
+
+20:53
+Og så ifølge den sætning vi snakkede om før, så forventer vi altså, der er en lige med fem ubekendte.
+
+21:04
+Fem ubekendte. Minus rangen er a årti.
+
+21:09
+Den er tre. Så vi forventer to frie parametre i løsningen.
+
+21:29
+Godt. Nu skal vi så se hvordan vi får løsningen frem.
+
+21:37
+Jeg har nu reduceret det her lille system så meget som muligt uden at skrive noget om, hvad de ubekendte hedder.
+
+21:45
+Nu går vi lige tilbage, fordi nu har vi fået et reduceret lignende system.
+
+21:52
+Og lad os prøve at skrive op hvad den siger. Det betyder exit plus to x tre.
+
+22:00
+Minus 11 X5 er lig med minus 24.
+
+22:06
+Se hvad sager er et plus. 2 x 3 minus 11 X5.
+
+22:16
+Alle lige med minus 24. Vi kigger på den anden ligning, som står her i kamuflerede form.
+
+22:28
+Da starter vi med X2. Og så har vi plus fire, og det er X5 som står der.
+
+22:38
+Det er lige med 7. Og endelig så har vi et det må være x fire.
+
+22:48
+Plus X5. Som er lig med tre.
+
+23:02
+Hør her vi startede med fire ligninger med fire ubekendte.
+
+23:08
+Når vi nu har reduceret, så viste det sig, at al den information, der var i de fire ligninger vi startede med, de er indeholdt i kun tre ligninger.
+
+23:20
+Så det her er altså den mest effektive form vi kan skrive.
+
+23:24
+Det lille system på, så er der altså tre ægte ligninger.
+
+23:31
+Og det er derfor vi siger at degraderingen af det oprindelige licenssystem system.
+
+23:35
+Det er altså ikke fire, men det er tre. Så altså når vi skal finde de frie parametre, så er det altså antallet af ubekendte.
+
+23:45
+Minus de ægte ligninger. Undskyld udtrykket. Det er sådan lidt populært.
+
+23:49
+Ja, jeg siger i dag. Men det står altså for, at i det reducerede lille system er der altså kun tre.
+
+23:55
+Så det er altså fem minus tre lige med 2. Hvordan kan vi se det?
+
+24:07
+Nu gør jeg på samme måde som det allerførste eksempel jeg viste i dag.
+
+24:12
+Nu isolerer vi den første af de ubekendte, det i alle tre ligninger.
+
+24:19
+Så får jeg at ex 1 er lig med minus to.
+
+24:23
+Men vi starter lige minus 24. Vi starter med den der, og så får vi minus to, tre og så plus 11 X5.
+
+24:37
+Vi går til den næste ligning, da det x2 som vi isolerer. Står det X2 er lig med 7.
+
+24:46
+Minus fire X5. Og til sidst så står der X4.
+
+24:56
+Er lig med tre minus X5.
+
+25:07
+Og så har vi igen fundet en maskine, som kan producere alle de løsninger, som det her lille system har.
+
+25:15
+Hvordan det? Jo, X3 og X5 de er frie.
+
+25:23
+Hver gang jeg vælger mig et bestemt ex tre og et bestemt X5, så er X2 exit Ecco et siger så de fastlagte.
+
+25:36
+Og det er derfor der er to free to frie parametre. Vel?
+
+25:41
+X3 ekstra og R5 fuldstændig frit, så har I en løsning.
+
+25:47
+Vælg nogle andre værdier for X3 og X5, så har hinanden løsning. Så.
+
+25:58
+De frie parametre med den metode jeg har lavet her. Det er så ekstreme.
+
+26:11
+Og nu skal den jo hedde noget fin, når det er en fri parameter. Så kalder vi den for S.
+
+26:17
+Og så har vi X5 som vi så kan kalde for T.
+
+26:24
+Og så skal vi lige have. Så skal vi have skrevet den fuldstændige løsning.
+
+26:39
+Og igen på standard parameter form.
+
+26:53
+Og vi skal have et svar på alle de ubekendte x et X2.
+
+27:00
+X3. Hvis fire. Og X5.
+
+27:15
+Og så prøver vi nu. Og.
+
+27:20
+Se altså vi har jo idéer licenssystem, der meget gerne kommenterer står, at ægte træ er lig med S og X5 er limet til.
+
+27:32
+Og det vil så sige, at når jeg nu skal skriver de rene tal op, så er det altså minus 24 og det er 7.
+
+27:44
+Og dér er jeg nødt til at sætte nul. Og dér skal jeg have tre, og så skal jeg have nul.
+
+27:52
+Plus S. Så i denne her søjle.
+
+28:02
+Hvad skal jeg have det der står på højresiden, som vedrører X3?
+
+28:07
+Det er jo den jeg har kaldt for S. Så det vil være for nemt for mig at sige, at der dér skal der nødvendigvis stå et tal for så står der jo ex.
+
+28:17
+Træ er lig med nul plus s gang. 1. Det vil sige et.
+
+28:25
+Og så skal vi have kan vi se på exit, der har vi minus to oppe på X2.
+
+28:34
+Der har vi ikke nogen. Nu har vi nået, og på X4 har vi heller ikke noget med X3.
+
+28:46
+Og nu skal vi så have dem som vedrører X5. Ja.
+
+28:55
+Der gik lige lidt. Så vi mangler. Vi mangler to når.
+
+29:05
+Her da er der født et ettal dyr, sådan som vi læser at X5 har jeg omdøbt til T.
+
+29:14
+Og hvad står der ellers? Jamen så er her på exit. Der står da 11.
+
+29:20
+På X2 står der minus fire. For X3 har vi selvfølgelig ikke noget, men på fire.
+
+29:31
+Der har vi minus en. Så der har i så den fuldstændige løsnings mængde skrevet op.
+
+29:53
+Og igen. Hvorfor er den her form? Hvorfor er den rigtig flot?
+
+29:58
+Det er det fordi hvis I gik tilbage til vores oprindelige ligning system, som der stod her.
+
+30:10
+Og den ligning den var homogen. Det vil sige alle de tal, der står her.
+
+30:15
+De skulle været noget nul, nul, nul. Og når vi havde lagt lavere række operationer hele vejen igennem, så ville vi have fortsat med at have Nordlund.
+
+30:27
+Og så ville der have stået nul og dyr. Så kunne vi har kigget væk fra det her.
+
+30:32
+Så det der står her. Derfor er det Elholm.
+
+30:43
+Ifølge strut og dermed for kvalitet, så kommer struktur sætningen til at passe, at det er den fuldstændige løsning til det homogene ingen system.
+
+30:57
+Mens. Den søjle der står her.
+
+31:00
+Det er en løsning til det provokerende system og det igen det forrige år ved at sætte S og tillige med nul.
+
+31:09
+Så kan vi se, at det er en løsning. Og de kan bare indsætte i det oprindelige vilde system, og så vi kunne se.
+
+31:17
+Jamen det er en løsning på det en gældende system, og det er altså den, vi kalder for x0.
+
+31:26
+Og det vi har fundet her er Ellen en krop.
+
+31:31
+Altså igen struktur sætningen der er blevet bekræftet og vi havde altså her.
+
+31:40
+Et begyndende tidspunkt i en hyper plan I er 5. Og 2.
+
+31:45
+Retnings vektorer, der giver mig to dimensioner i R5.
+
+31:49
+Sådan er denne løsnings mængde altså opbygget. Byen hyper plagen i.
+
+31:56
+Er fedt. Nu slipper jeg lidt ud over de her begreber, som vi kommer til at høre meget mere om.
+
+32:01
+Men hovedpointen var altså en dobbelt uendelighed af løsninger og.
+
+32:08
+Struktur sætningen som står her. Holdt op.
+
+32:23
+Var det rigtigt hvad jeg sagde, at man kan godt følge lidt med i det her.
+
+32:27
+Så svært er det heller ikke. Det handler om ligninger og løsninger.
+
+32:31
+Men det er noget strukturer og dannede logik, og der er nogle algoritmer, man skal lære og altså beherske og.
+
+32:41
+Det tror jeg I vil fornøje rigtig meget med i dag.
+
+32:45
+Selv inden jeg lige siger noget om det allersidste emne, som vi skal snakke meget mere om på Lilledal, nemlig matrix algebra.
+
+32:54
+Så et par bemærkninger om Mabel for i dag, da går du jo der går det jo vildt derudad med Mabel.
+
+33:06
+Og der har jeg lige et par bemærkninger om brugen af Mabel.
+
+33:11
+Der ligger jo et Mabel Mo Ark Tiger på hjemmesiden.
+
+33:16
+Gå ind og kig på det, og da kan I se, når I skal løse ligene af de systemer, det er med I blev rigtig god til.
+
+33:24
+Og den har faktisk tre forskellige metoder.
+
+33:30
+Det viser at se at vi har en kommando der hedder Marine og.
+
+33:36
+Så. Og vi har en der hedder Howe Dust.
+
+33:48
+Echelon. For du kan jo ikke huske det.
+
+33:54
+Det må også er meget stort. Og så endelig, så har vi røve.
+
+34:01
+Operation. Så det er tre forskellige metoder man kan bruge, når man løser line og lignende systemer ved hjælp af Matrix metoder og Gauss elimination.
+
+34:20
+Og det jeg gerne vil have her og til at forstå er, at sådanne læringsmæssige er de her tre Makeba kommandoer.
+
+34:28
+De er meget forskellige. Den dør bliver jeg straks løsningen.
+
+34:35
+Hvis I kender A, er så kommerciel matricen jeg kender højtiden, så giver den da jeg løsningen.
+
+34:40
+Værsgo! Færdigt arbejde. Det har man tit brug for.
+
+34:44
+Puha, så har man løsningen. Men det er jo også black box på midten.
+
+34:49
+Fortæller os ikke hvordan er det her blev regnet ud? Det er et genialt hjælpemiddel, hvis historie en eller andet indviklet problematik,
+
+34:58
+hvor I skal finde et eller andet i fysik med 12 svingninger eller kemiske bevægelser, eller hvad det nu kan være.
+
+35:07
+Men hvis man skal vise sin lære i næste hjemmeopgaver set at man har forstået hvad Gauss elimination kommer ud på, er I, siger han.
+
+35:16
+Hvorfor gør det? Hvorfor gør det sværere, end det er? Og i sit svar bruger alene har solgt så få ikke ret mange point for det.
+
+35:23
+Så hvad er det næste valg? Det er så at bruge den der hedder rope dust indtil en form, så der skal vi være klar over.
+
+35:31
+Hvad gør den? Den tager en matrix.
+
+35:37
+Altså en total matrix og giver jeg trappe matricen. Så den laver altså det vi kalder for gaucho, hvordan illumination?
+
+35:46
+Og så når I har den. Jamen så er det jo stadigvæk noget arbejde man skal lave, fordi så er der lige, når vi har sådan en trappe med et trækdyr.
+
+35:55
+Hvordan får vi så lige det reducerede lille system frem?
+
+35:58
+Og hvordan får vi så lige den dér løsning frem på et standard parameter, for der er stadigvæk noget at fortolke her, så det er sådan en mellemløsning.
+
+36:08
+Kan man sige, at vi har her? Den hjælper os et godt stykke på vej.
+
+36:10
+Men vi sad vi selv nødt til at lave noget arbejde til sidst, der viser, at vi har forstået det.
+
+36:15
+Endelig er der så den kommando, der hedder ro operationen, og den gør faktisk det samme, som jeg har stået og gjort på tavlen her.
+
+36:24
+Altså kigger på en række. Hvad skal vi gøre nu?
+
+36:28
+Vi skal tage den øverste række og læg og gange med fire. Læg den til den femte række.
+
+36:33
+Dette kan man styre fuldstændig med ro i sjælen.
+
+36:37
+Så er du der, viser man. Jeg har styr på, hvordan ser matricen ud?
+
+36:41
+Hvad er det næste skridt? Hvordan får jeg de andre tal væk, så der kun står ét der?
+
+36:46
+Og det er jo klart, at med den kommando har man jo total kontrol over, hvad det er der foregår.
+
+36:53
+Man bliver bare fri for det der med at huske, for det er kun et plus minus gange, som den gør.
+
+37:00
+Og det ved jeg ikke. Så er jeg. Men kommer det tit til at laver en regnefejl eller et minus, der bliver til pludselig, blev det et ret indviklet.
+
+37:07
+Det kan jeg godt set. De har heldigvis hjulpet mig ret et par fejl i dag, men det hjælper røv.
+
+37:13
+Så, men, men så alt det andet princippet i Gausel Mansion.
+
+37:18
+Den kan jeg altså få med den der ro på. Så tænk over det Når I sidder og arbejder, har jeg nu bevist, at jeg forstår Gauss elimination.
+
+37:30
+Og er det ikke meget smartere nu at bruge en af de andre kommandoer som Mabel?
+
+37:34
+Det er altså ikke bare en black box, der skal gøre tingene så nemme som mulige?
+
+37:38
+Nej, det er et værktøj, som vi bruger til at dokumentere de ting, vi gerne vil dokumentere,
+
+37:45
+og derfor skal vi altid præcis være klar over, hvorfor vælger jeg denne her kommando?
+
+37:51
+Hvad er det, jeg gerne vil dokumentere, at jeg har forstået? Og lige altså dere opgaver, hvor man er nødt til det her.
+
+38:04
+Hvad er det kun, hvis vi sidder og inspicerer? Hov, der står et a dér, hvor jeg nu vil dermed.
+
+38:11
+Ja, hvad vi så af og nul. Så er jeg nødt til at dele løsningen op Mabel.
+
+38:18
+De vil der gladeligt med nål uden at fortælle jer det.
+
+38:22
+Og så kan det være I messer nogle af de mest interessante løsninger,
+
+38:25
+så nogle gange er man nødt til at bruge den her sige det er mig, der vil have kontrollen over, hvad der foregår her.
+
+38:32
+Plus minus gange dividere. Det overlader til Mabel, men det er mig selv, der bestemmer hvordan denne her Gausel Mazzon, hvordan den skal forløbe.
+
+38:39
+Ja, og så nogle indledende bemærkninger omkring matrix algebra.
+
+38:51
+I har nu set vi har noget der hedder matricer. Det er nogle rektangulære.
+
+38:57
+Tal skemaer, der kan være tre rækker tyve søjler, altså det kan være et sådan rektangulært et rektangel på den måde.
+
+39:08
+Det kan være på denne her måde, så vi siger simpelt hen, at.
+
+39:16
+At. I en matrix.
+
+39:22
+Er et tal skema. Nede.
+
+39:29
+M. Viktor. Og n søjler.
+
+39:42
+Og så siger man, hvis det er tilfældet. EM er en EM cruys inden matrix.
+
+39:53
+Betyder altså den har m rækker og n søjler. Nu skal vi passe på, for nu skriver jeg igen noget som jeg har set for allerførste gang.
+
+40:08
+Hvis M har m rækker og n søjler.
+
+40:13
+Så den medlem af en meget stor klub. Nemlig.
+
+40:21
+Alle mulige matricer som har fem rækker og en søjler.
+
+40:27
+Dette er altså et symbol på alle de tal skemaer der bare opfylder EM række og søjler, så em.
+
+40:38
+Vil altså være medlem her. Nu skal vi se. Nu indfører vi addition af matricer.
+
+40:57
+Selv hvis jeg har A. Er lig med Zanzi 1 2, 3 4, 5 6.
+
+41:11
+Jamen så er det bare altså en matrix I er 2 3.
+
+41:27
+Og det samme er tilfældet her. Og så siger man at A og B de er af samme type.
+
+41:38
+Og dem kan man lægge sammen. Og det er selvfølgelig en definition fordi A plus B.
+
+41:49
+Så skal man bare lave plads, vis sammenlægning en plus en.
+
+41:55
+2 lægge de to pladser sammen. Det giver tre.
+
+42:02
+Hvilke de passer sammen. Det giver fire. 0 4 det giver fire og så får vi 6 og 6.
+
+42:16
+Og gør vi det? Ja, så har vi jo igen en to plus tre matrix.
+
+42:26
+Så har vi. Og så har vi indfører.
+
+42:36
+Multiplikation. Med et tal.
+
+42:48
+Det vi kom til at høre mange gange, det kalder man også for en skalar. Og lad os kalde den for kog det er altså bare et eller andet tal.
+
+42:57
+Så vil jeg sige hvis jeg ganger K. Med matricen A, så skal I bare ganget ind på alle pladserne med K.
+
+43:09
+Så den kommer altså til at se sådan her ud. Og så er det klart at.
+
+43:25
+Kan I huske det? Hvis vi skal sige a minus B.
+
+43:34
+Så er det jo bare den minus den den minus den 5. Minus den.
+
+43:40
+Og det kan vi også skrive som. A loose.
+
+43:46
+Minus 1 gange med B. Og det gør jeg bare for at vise at multiplikator altså subtraktion er ikke nogen ny regne form.
+
+43:59
+Den får vi bare, hvis vi har addiction, og vi har multiplikation med et tal.
+
+44:05
+Jamen, så kan vi bare skrive subtraktion op på den måde her.
+
+44:10
+Vi sparer på definitionerne. Med at batik. Så mangler vi lige to ting.
+
+44:27
+Vi indførte produkt. Af Matrix. Og vægtere.
+
+44:42
+En, to, tre. 4 5 6.
+
+44:48
+Gange med hvad skal vi sige? 1, 2 og nul.
+
+45:02
+Her er det smart. Hvis I husker prikproduktet fra gymnasiet.
+
+45:08
+Fordi nu skal vi faktisk lave prikproduktet. Vi skal lave.
+
+45:14
+Vi skal lave to prikproduktet. Se. De skal tage den vanrøgt, vækster der står her.
+
+45:21
+Og så skal I prikke med den vektor, der står dér, så det vil jeg så.
+
+45:26
+Det bliver altså kort sagt 1 gange 1 plus to gange 2 plus tre gange nul.
+
+45:43
+Det var det ene prikproduktet og det andet prikproduktet nu skal vi tage den vektor der står her.
+
+45:47
+Den anden vanrøgtet vektor og så gange med den samme vægt, som vi har det på højkant.
+
+45:54
+Så det vil altså være fire gange en. Plus fem gange to.
+
+46:02
+Plus 6 gange med nul, og der får vi så en plus fire.
+
+46:13
+Fem plus tre nej, det bliver bare fem. Og så får vi tyve.
+
+46:22
+Beechey. En gang en legering.
+
+46:30
+Ja. Fire gange med en fem gange med to seks ganger med nul.
+
+46:37
+Det giver 14. Samt Matrix gange med en vægt så.
+
+46:47
+Da Tarija så den vektor og prikker på den og den vektor og prikker på den.
+
+47:13
+Og så indfører vi produkt af matrix og matrix, som sådan set bare er en videreføring af det, jeg lige har lavet nu.
+
+47:24
+Og nu tager vi. Skal vi tage denne igen 1 2, 3 4, 5 6.
+
+47:38
+Og så har jeg en. 0 1 0 1.
+
+47:46
+2. Så læg lige mærke til, at når vi laver, når vi skal lægge to matricer sammen, så skal de være samme type.
+
+48:01
+Men det er ikke det, der gør sig gældende, når man laver Mattrick.
+
+48:04
+Det er jo sådan set meget forvirrende, men vi er jo nødt til at sørge for, at vi kan lave de prikproduktet, som jeg snakker om.
+
+48:12
+Og nu skal vi ikke lave to fra prikproduktet. Nu vil vi lave fire prikproduktet, så først skal vi tage den vægtere.
+
+48:23
+Og prikke. Med den første skal brød. Se en gang en Big Hero 2 to gange 0.
+
+48:32
+Hvad indgår egentlig, gav en 2. Det giver noget, og så giver det her.
+
+48:36
+3. Det bør give fire. Så det var jeg så den prikkede med den.
+
+48:45
+Og så skal vi bruge den samme vægt så. Og så skal vi prikke med den anden søjle væk.
+
+48:52
+Og så får vi altså nogle. To. +6.
+
+48:59
+Det giver 8. Så er vi færdige med den øverste vanrøgtet vektor.
+
+49:08
+Den giver så tallet her hen i den øverste række. Og så bruger vi den anden række her og får resultater i den anden række her.
+
+49:18
+Og så ser jeg altså fire gange én plus nul gange fem.
+
+49:24
+Plus 6 gange 1. Det bør de 10. Og så nu igen.
+
+49:30
+Den samme vægt er her og sagt ganget på den.
+
+49:34
+Det bliver fem plus tolv. Det giver 17. Så det er princippet i Matrix Matrix spådom.
+
+49:49
+Og så min aller sidste sætning er min allersidste bemærkning her.
+
+49:53
+Det er så. Hvornår kan vi så lave Matrix produkt med matrix?
+
+50:00
+Se hvad kræves der for at vi kan lave dette prikproduktet?
+
+50:04
+Jamen, det er jo et antal søjler i første bro altså i første faktor skal være lig med anden.
+
+50:12
+Altså at antallet af rækker i den anden. Antal søjler en, to, tre antal rækker en, to, tre.
+
+50:21
+Det skal være opfyldt, men så kan hjælp os så alt muligt andet frit.
+
+50:27
+For eksempel der kunne have stået flere rækker her i Fakta nummer 2.
+
+50:30
+Så var denne her resultat væk, så bare blevet større, og der kunne også have været.
+
+50:35
+Der kunne også været flere rækker her. Så kunne det også have været større.
+
+50:39
+Så det eneste krav antal rækker, når jeg engang til antal søjler i første faktoren skal være lige antal rækker i anden faktoren.
+
+50:49
+Og så tror jeg, I er klædt på til i dag. Der er nok at lave tak for nu.

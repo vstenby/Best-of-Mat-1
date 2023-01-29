@@ -1,0 +1,1199 @@
+0:02
+Jeg går morgen i dag, der har vi et specielt tema, og det er hvornår en kvadratisk matrix, hvornår den kan diagonal i Ceres.
+
+0:12
+Og ja, altså vi starter lige ud med en repetition, fordi det der med basis skifter.
+
+0:20
+Vi skal lige forstå, hvad var det, vi vidste i forvejen? Og hvad er det nye, vi har lært i denne uge?
+
+0:26
+Og derefter så kommer der altså altså en række særtilfælde, altså hvor der kommer nye specielle sætninger ind.
+
+0:36
+Noget om algebraisk, multiple sitet og specielt geometrisk multiplayer sitet.
+
+0:41
+Og så er der også noget, der hedder at simulere matricer, som også indgår sådan set i det hele.
+
+0:48
+Så på en måde, så er det en repetition af, hvad der foregik.
+
+0:52
+Altså på stor da. På den anden side, så er der også en del lidt nørdede ting hen ad vejen, og det vil jeg bede om at bære over med.
+
+1:02
+Og så prøve at hænge på så godt som overhovedet muligt. Men lad os lige kigge på altså på, hvad det er, det handler om det her.
+
+1:12
+Så lad os sige, at vi har givet det.
+
+1:17
+En lineær f a plan havde taget rummet er en G.N.
+
+1:25
+I sig selv. Og som har afbildningen matricen Effe.
+
+1:39
+Så den har altså en afbilledes matrix med hensyn til standard basen I er 1, og så kan vi så sige ét.
+
+1:53
+Altså hvis sættet ved.
+
+2:01
+Er en ny basis. For er en.
+
+2:13
+Så gælder der at afbilledes matricen.
+
+2:21
+Med hensyn til den nye basis den kan opskrives ud fra den vi kender i forvejen.
+
+2:32
+Altså e f, e. Vi skal bare gange den med basis skifte matricen.
+
+2:41
+E mv. Til den ene side og så til den anden side basis, skifter matricen i min nu første.
+
+2:52
+Sådan der. Se det her.
+
+2:57
+Det er noget vi kender i forvejen. Så det har vi altså arbejdet med, når vi har snakket om lineære afbildninger, basis skifte og den slags ting her.
+
+3:06
+Det eneste nye sådan i dag er, at hvis der gælder sådan et forhold imellem to matricer.
+
+3:13
+Altså hvis de, når vi laver det her grand stykke, bliver lig med hinanden, så siger man, at den er simulator med den her.
+
+3:21
+Det vender jeg tilbage til. Nu har I hørt ordet, så den nye dag er så.
+
+3:29
+Det er specielt, at hvis sættet vil bestå af en lineært uafhængige egn vektorer.
+
+3:49
+Lineært uafhængige egen vektorer for den givne matrix effe.
+
+4:02
+Så er den nye matrix altså ved fv en diagonal matrix.
+
+4:18
+Med egen værdierne i diagonalen. Og det er så det nye stof her fra store da.
+
+4:39
+Altså når når basen vi snakker om og vi har stillet på højkant her.
+
+4:45
+Hvis det er egnen vektorer, så vil den blive til en diagonal matrix.
+
+4:51
+Og så har I sikkert fundet ud af, at rækkefølgen er vigtig. Når vi stiller den diagonal matrix op, så skal vi sørge for,
+
+4:58
+at det er i den rigtige rækkefølge i forhold til de basis vektorer, vi har brugt, og det her.
+
+5:05
+Det er jo så rigtig fedt, fordi når man så skifter til en egen basis, så betyder det altså,
+
+5:12
+at afbildningen, som matricen er en diagonal matrix og en diagonal metrisk, er meget nem at arbejde med.
+
+5:18
+Det er det, der er den store fordel godt. Så har vi en speciel Matrix version af toeren her, der kan toeren, som lyder sådan her.
+
+5:44
+Vi har givet en en Cruys en matrix af.
+
+5:56
+Og så siger vi. Så siger vi så, at hvis matricen Store vi.
+
+6:13
+Azar består af en lineært uafhængige uafhængige egn vektorer for a.
+
+6:37
+Og Lambda er en de er en diagonal matrix.
+
+6:49
+Med egen værdierne i diagonalen. Så gælder der at den lambda matrix.
+
+7:09
+At den er lige med ved matricen i minus Fausto gange med A og gange med ved.
+
+7:25
+Altså samme sag. Det her handler om dine afbildninger. Det her er ren matrix algebra.
+
+7:32
+Og så siger man altså også her at A den er Simmelkær med lamper og specielle ser vi at A er timelærer med en diagonal matrix,
+
+7:43
+og så vil I også se udtrykket, at A er blevet diagonal i Céret ved en similar transformation.
+
+7:52
+Det kommer det sorgens stykke ord kommer jeg altså til at møde i dag. Så I kan altså se dette handler om.
+
+8:02
+Det er altså en helt masse viste sig. Hvis hvis, hvis vi har en lineært uafhængige egn vektorer og det er nemlig vigtigt,
+
+8:13
+når vi nu skal snakke om hvornår er de journalisering så overhovedet muligt?
+
+8:19
+Det skal vi snakke en hel masse om. Og her er indgangsporten til den viden.
+
+8:29
+Og det lad os endelig være højtidelige i dag og kalde det for en sætning.
+
+8:38
+Altså en M Cruys M Matrix A.
+
+8:45
+Den kendte diagonal i Ceres. Hvis og kun hvis.
+
+9:01
+Den højere end lineært uafhængige egn vektorer.
+
+9:17
+Så det er altså den sætning. Som det handler om.
+
+9:23
+Det er så kravet, og lad os nu bare kigge på at så gå i gang med at kigge på nogle eksempler.
+
+9:37
+Og her er mit første eksempel en 2+2 matrix A, som hedder 1, 2, 2 og 4.
+
+9:53
+Jeg så programmet er her vi skal undersøge om der kan derfor analyseres. Se allerede her er der en matrix, som der er noget specielt ved.
+
+10:09
+Jeg det står der 12, og det står der 24. Populært sagt.
+
+10:14
+Men det betyder jo altså, at hvis jeg ganger denne op med minus to og lægger til forneden,
+
+10:18
+så kommer der nul, så den maltraktere, den har ikke fuld ret.
+
+10:23
+Så siger man, at den er sekulær. Altså vi kan altså sige A er single guldager, og det er fordi at dens determinanten i så fald er lig med nul.
+
+10:49
+I kan jo bare se her en gang i fire minutter, to gange med 2.
+
+10:54
+Det giver nul. Og for sådan en Cinco lærer matrix, der gælder der noget specielt.
+
+11:01
+Og det er jeg. Nu skal jeg så en generel sætning op delen af dem, jeg lige ryster ud af ærmet.
+
+11:06
+Sætning. En sen Guldager matrix har egne værdien nul.
+
+11:24
+Ebba det 1. Det betyder altså ikke noget med elektricitet, men eb værdien nul.
+
+11:40
+Og altså det er faktisk meget nemt at forstå, hvorfor det er rigtigt.
+
+11:45
+For kan I huske hvad var det afgørende, når vi skulle kigge på om om en matrix har en egen værdi?
+
+11:52
+Det var jo den der determinanten. Se man skulle kigge på determinanten af A.
+
+12:01
+Minos lambda e. CD'en skulle være lig med nul.
+
+12:13
+Og det må vi nu spørger om er jo så, at hvad så, hvis egen værdien nu er nul?
+
+12:20
+Så står der jo ikke lamper der, så det vi skal undersøge er hvornår er A.
+
+12:26
+Minus nogle gange enheds matricen lig med nul. Ja, det betyder jo at vi trækker slet ikke noget fra.
+
+12:34
+Så det er simpelthen ensbetydende med at determinanten af A selv er lig med nul.
+
+12:46
+Sådan da. Så er vi altså vist her, at vi må forvente en egenværdi på nul, og nu har jeg forstået.
+
+12:55
+Altså altså, vi kan jo sagtens have en egenværdi på nul, og den skal altså have rigtige egne vektorer.
+
+13:03
+Og det kan vi lige bruge det her eksempel til. Så vi kører løs nu efter denne generelle sætning, så kører vi nu løs, og jeg finder.
+
+13:19
+EGN værdierne for a. Og vi kigger jo så op på determinanten af en minus lambda.
+
+13:34
+Og dér står der så 2. Og så har vi 2. Og så har vi fire minus Lambda.
+
+13:44
+Den determinanten skal vi have regnet ud om vi har tiden, og vi har så en minus lambda og gange med fire minus lambda.
+
+13:59
+Og så skal vi så sige minus den ganget med den. Det er altså minus fire.
+
+14:05
+Og vi regner på sagen. Og vi får i hvert fald her lam dør i enden, og så får vi minus fire lammelser.
+
+14:19
+På minussiden lamper. Det giver minus fem lamper.
+
+14:26
+Og så får vi derfra en guide med fire det giver fire.
+
+14:30
+Men hov, der stod minus fire i forvejen, så der kommer ikke mere end det, der står det.
+
+14:38
+Og skulle vi så ikke lige få den faktura ICJ ved at sætte lamper ud foran os, så har vi at der står Lambda og Lambda minus fem.
+
+14:51
+Vi skal have fundet egne værdierne, og vi bruger nu nul reglen, hvor vi så siger, at der er to egenværdier.
+
+15:04
+Enten skal den være nul, eller også skal parentesen være nul.
+
+15:09
+Så udfra ud fra den kan jeg sige, at der er to egenværdier. Og Lambda et er lig med nul og den anden egenværdi er lam to, som så er lig med fem,
+
+15:29
+og på den måde fik vi altså bekræftet, at den Cinco lærer matrix, at den har altså egen værdien nul.
+
+15:36
+Og nu bliver det jo så lidt spændende at finde ud af. Hvad er det så nogen egen vektorer, der hører til den egenværdi?
+
+15:45
+Så vi skal altså have fundet. Vi skal have fundet egen rummet der hører til egnen, værdien nul, og det vil sige vi kigger på.
+
+16:03
+En total matrix. Hvor vi så at sige skal trække nålen fra et diagonalen, og så er det jo.
+
+16:13
+Så er det jo den selv, så der får vi altså her fire.
+
+16:19
+Og så sætter vi lige høje siden på nul nul. Og så er det jo meget nemt, ligesom vi snakker om 40 ganger bare foran med minus to og lægger til.
+
+16:31
+Og så har vi allerede trappet funktionen eller tappet matricen, som så er en to 0 0, nul og nul.
+
+16:45
+Og hvor vi så ser, at hvis vi får de ubekendte som bliver ud efter.
+
+16:52
+Så står det jo dér at exit er lig med minus to x to.
+
+17:02
+Og så kan vi, så er vi godt på vej til at finde størrelserne.
+
+17:10
+Vi kan se X2 er jo så den frie parameter, og så får vi minus 2, og vi får en.
+
+17:24
+Så bemærk nu har vi fundet alle de egne vektorer, som hører til egen værdien nul og Ikast set, da er uendelig mange som forventet.
+
+17:34
+I ved. Hvis der bare er en egentlig egenvægt, så er der uendeligt mange.
+
+17:38
+Vi kan bare gangene se på her. Så sådan kunne vi godt aflevere svaret.
+
+17:44
+Men det er måske lidt mere tjekket, så at skrive det op som agn rummet, fordi så er egen rumpe simpelt hen spand.
+
+17:53
+For eksempel at denne her er som minus to komma i.
+
+18:00
+Så. Nu skal vi så bare have fundet egne rummet, der hører til fem.
+
+18:15
+Så vi er altså ude efter et fem, og så skal vi have en ny totalt matrix på bordet.
+
+18:24
+Og trækker fem tæer i diagonalen fem for én.
+
+18:30
+Det giver minus fire, og vi har to.
+
+18:35
+Og så har vi 2. Og så har vi minus 1 og nul og nul.
+
+18:49
+Vi kigger så her på trappe matricen, tror jeg godt vi kan finde ud af straks.
+
+19:01
+I kan se hvis vi ganger det nederste her med to og lægger til fra oven, så forsvinder den.
+
+19:07
+Og den sætter vi så ned fra neden, så vi får 0 0 og nul.
+
+19:13
+Og så dividere vi eller ganger ikke denne her igennem med en halv, og så har vi altså en miles minus en halv.
+
+19:24
+Og nul. Den græske hær to gange to matricer kan du så ikke altid bare se.
+
+19:36
+Når bare set måler forneden. Det kan du godt sige, for jeg ved, at jeg kan.
+
+19:41
+Vil du uddybe din pointe? Der bliver altså påstået, jeg kaldte sig sæt norner forneden.
+
+19:46
+Vi regner altså. Fordi drengene altid er en del korrekt, så fordi når vi har fundet egenværdi.
+
+19:54
+Og det er en to go so matrix. Så ved vi den egentlige løsninger, og så skal drengen var en.
+
+20:01
+Så det er korrekt. Jeg tror at jeg ikke.
+
+20:06
+Jeg vil gøre bare dette for ligesom at følge rutinen. Men altså der kommer jeg altid nuller hernede det korrekte.
+
+20:13
+Og her får vi altså, at hvad får vi at ex et.
+
+20:19
+Er lig med en halv X2. Og det vil sige nu har vi så igen x 1 x 2 er lig med T.
+
+20:30
+Og så får vi en hale over 1.
+
+20:37
+Og det vil altså sige, at nu har vi så fundet egen rummet, der hører til 5.
+
+20:43
+Samt er spande. Af en halv kommer en.
+
+20:58
+Nu har vi så hvis vi studerede egne værdier. Problemet for denne matrix og vi har altså fundet ud af, at der var et eget rum her,
+
+21:06
+som havde den dér som basis specter, og den havde dette her eget rum,
+
+21:10
+som bestod af den vektor, der står her, og vi kan tydeligt se,
+
+21:15
+at de to vektorer er lineært uafhængige, så vi har altså fundet to lineært uafhængige egne vektorer.
+
+21:26
+Og så i følge den sætning vi skrev da op. Så kan den diagonal Ceres.
+
+21:43
+Så lad os lige understrege det derpå Normaliseringen er muligt, og så vi kan altså sige, at hvis vi sætter.
+
+21:50
+Hvis vi sidder v lige med.
+
+21:56
+Og så kan vi starte med den ene egen vægter vi har fundet minus to over 1.
+
+22:03
+Og så tager vi den anden. Det er en haleror, en og lam, der sætter.
+
+22:10
+Vi er lig med nul og fem.
+
+22:16
+I diagonalen. Det er en diagonal matrix, så vil der gælde.
+
+22:23
+At den lamper der denne har lige været ved i Minos første dag ved.
+
+22:32
+Så har vi altså fået kanaliseret den matrix. Ved similar transformation.
+
+22:45
+Godt næste eksempel. Se nu kigger jeg på matricen A.
+
+22:58
+Leg med denne hedder træ. Den hedder 1.
+
+23:04
+Denne hedder 0. Denne hedder 3. Se denne her har også noget specielt set.
+
+23:23
+Det er en trekant matrix. Kan I se den øvrigt?
+
+23:27
+Vi har en øvre trekant matrix, der er nulre under diagonalen og i en trekant matrix.
+
+23:36
+Da er det så nemt, at der står egen værdierne direkte i diagonalen.
+
+23:41
+Vi behøver ikke at finde dem om, og hvordan kan det nu være?
+
+23:47
+Det hænger jo sammen med, at når man skal have et determinanten af en trekant matrix,
+
+23:54
+så skal man bare gange diagonalen elementerne med hinanden og den matrix, der er afgørende her.
+
+24:04
+Det er jo, når vi trækker lambda fra i diagonalen som den afgørende.
+
+24:10
+Det er terminalt altså det vi kalder for det karakteristiske polynomium. Hedder en parantes tre minus lambda ganget en ny parentes 3 minus lambda.
+
+24:21
+Og der kan I se. Den kan kun være nul, når Lambda er lig med 3 derfra eller derfra.
+
+24:29
+Kom så lad os få skrev den sætning op. I en trekant matrix.
+
+24:45
+Ser vi straks, ser vi straks egne værdierne i diagonalen.
+
+25:05
+Bum. Og det gælder altså uanset om det er en, to go to eller en fem kryds 5.
+
+25:11
+Og nu var det altså sådan, at nu var det det samme diagonal element, der stod i denne.
+
+25:15
+Jeg har skrevet op her. Men det gælder selvfølgelig os, hvis der nu havde stået fem og fire her.
+
+25:23
+Så havde 85 været egne værdier. Godt når vi forstår det.
+
+25:29
+Nu går vi videre, så vi kaster os med eksempler ikke?
+
+25:33
+Vi kan altså skrive her. Lambda leg med tre.
+
+25:42
+Er egenværdi. Og vi har her.
+
+25:53
+Tydeligvis at den algebraiske multiple sitet er den egenværdi.
+
+25:59
+Den er to, fordi den optræder to gange i diagonalen i dette tilfælde.
+
+26:05
+Okay, så prøver vi nu at finde egen rummet, der hører til denne egenværdi.
+
+26:10
+Vi skal altså have fundet. Egen rummet der hører til 3.
+
+26:23
+Så vi skal kigge på en total matrix. Så vi får her totalt matricen.
+
+26:34
+Vi skal trække tre fra i diagonalen, og så får vi altså nålen 1 0, 0, 0 og 0.
+
+26:53
+Og. Det er allerede lige med trappe matricen.
+
+27:02
+Vi kan ikke reducere dem yderligere.
+
+27:05
+Og når vi arbejder med disse og skal finde egne værdier, så er der sommetider vi altså der kommer totalt matricer.
+
+27:11
+Her trappe matricer, der ser lidt sjove ud, så vi skal lige hitte ud af hvordan.
+
+27:17
+Sådan kan vi fortolke den der. Og vi har allerede nøglerne her i den nederste række, som der blev talt om før.
+
+27:28
+Se hvad står der her. Det eneste der står er, at X2 er lig med nul.
+
+27:41
+Der står ingenting om except, det vil sige at x ét er fri.
+
+27:52
+Og hvordan kan vi så formulerer det? Det kan vi formulere sådan at ex x x2 er lig med en parameter t, og nu er deres ex en dør fri,
+
+28:06
+så der skal altså stå et et et tal dér, mens vi skal have slået X2 ihjel.
+
+28:11
+Det gør vi ved, at der hele tiden skal stå to der.
+
+28:18
+Nej, undskyld. Nul. Det har vi alle egne vektorerne, og vi kan nu opskrive det altså egne på egne rums form.
+
+28:28
+Ikke et træ. Den er så spændende, at den vektor, der står dér.
+
+28:36
+Og da denne hedder så bare 1,0. Så vi kan nu se.
+
+28:46
+Den geometriske multi pct. Af egenværdi 1 3.
+
+28:52
+Det betyder som sædvanligt dimensionerne, at dens egen rum.
+
+29:01
+Og vi kan se jo at den geometriske multiple sitet der står kun en vektor her som spinder egne rummet ud så.
+
+29:13
+Der har jeg så at den geometriske multiple sitet. Den er 1.
+
+29:19
+Altså det vil sige den er mindre end den algebraiske Multipla sitet.
+
+29:28
+Som var to. Og vi havde kun en egenværdi, og vi har altså fundet, at der findes kun én tilhørende vine af uafhængige indekser.
+
+29:42
+Men vi har brug for to. Så i det tilfælde her, der har vi ikke to lineært uafhængige egne vektorer.
+
+29:51
+Vi har kun er dem som er parallelle, og derfor kan denne her matrix ikke diagonal os.
+
+30:04
+Vi har ikke. To lineært uafhængige egen vektorer.
+
+30:19
+Og det vil altså sige A kan ikke kanaliseres.
+
+30:31
+For vi sagde jo at 1 1 kryds en matrix.
+
+30:36
+Den kan diagonal i seeres, hvis og kun hvis den har en lineært uafhængige af egne vektorer.
+
+30:43
+Og så skulle denne altså haft 2, men der har kun én. Så så lad os lige prøve at.
+
+30:56
+Lad os lige prøve at charmere dette op i en sætning, som vi er parat til.
+
+31:01
+Det næste eksempel se sætningen Den lyder sådan her.
+
+31:12
+Kaas har igen givet en kryds N Matrix A.
+
+31:21
+Så kan vi her punkt ét vi kan sige. A kan ikke diagonalt i Ceres.
+
+31:37
+Hvis summen af de geometriske multiple citater, hvis den er mindre end en.
+
+31:45
+Altså hvis summen af de geometriske multipliceres hedder.
+
+32:00
+Om mindre end en. Så kan vi simpelthen ikke finde det end lineært uafhængige egne vektorer, som der er brug for.
+
+32:17
+Og det jeg, det kan vi godt skærpe lidt, og det bygger sig på følgende sætning,
+
+32:23
+som jeg altså beviser tager ti minutter eller et kvarter, så jeg undlader at lave beviset.
+
+32:29
+Men I må tro på mig. Det er en meget fin sætning, der siger, at for enhver lambda.
+
+32:38
+Gælder. At den geometriske multiple visiting er mindre end eller lig med den tilsvarende algebraiske model boligsitet.
+
+32:55
+Og det vil jeg så sige, at den kan være lig med. Men det kan jeg så også, der er mindre end.
+
+33:03
+Og det var faktisk det vi så et eksempel på her. Da vi kiggede på egne værdier 1 3.
+
+33:08
+Der fandt vi ud af, at den biometriske multiple sitet var mindre end den ældste hebraiske.
+
+33:14
+Så var der altså et eksempel på, at de ikke var lig med hinanden, men g m var mindre end a m.
+
+33:22
+Og hvis det bare er tilfældet for en. Og det nu kommer skærpelsen så at treeren her ikke er så.
+
+33:33
+Altså hvis der blot for en lam der gælder. At den geometriske mode til boligsite er lambda, at den er mindre end den algebraiske.
+
+33:58
+Så kan matricen ikke har kunnet realiseres, så kan A ikke diagonal i Ceres.
+
+34:21
+Hvis jeg skal argumentere for denne her skærpelse her, så ligger den jo i, at summen af de algebraiske multiple.
+
+34:30
+De altid lig med en. Det er jo det dermed bliver har fra teorien omkring polynomier endte hos Poul Jennum nogenlunde.
+
+34:40
+Det karakteristiske polynomium har altid en rød, og når vi regner dem med multiple sitet, så summen af a m.
+
+34:48
+Den er altid lig med en, og vi skal have sum af GM, der også skal være en, for den kan kunne realiseres.
+
+34:58
+Ellers har vi ikke nok lineært uafhængig af egne vektorer, så derfor kan vi altså sige, at hvis bare det her gælder i et tilfælde, så kan det m.
+
+35:07
+Summen af GM kan aldrig nå op på en. Så derfor kan vi bare prøve og kigge efter den sag her.
+
+35:22
+Jeg skal lige se år. Jeg kan godt få plads til et eksempel her, så vi snupper lige et eksempel.
+
+35:40
+Så vi kigger på A er lig med to 0 0 og så en 1 2 og.
+
+35:53
+Så hedder den nul minus 1 og 4. Og vi prøver nu at finde egne værdierne.
+
+36:14
+Og I ved hvordan vi hvordan vi gør det. Vi skal have fundet det karakteristiske polynomium.
+
+36:20
+Og det karakteristiske polynomium er det altså det en terminalt som hedder diagonalen minus der.
+
+36:32
+Og den er nul og den er nul. Og så har vi en, og den hedder 1 minus lamper.
+
+36:41
+Og den hedder 2. Og vi har nul.
+
+36:46
+Og vi har minus 1.
+
+36:50
+Og så har vi fire minus Lambda. Og vi skal have regnet den.
+
+37:02
+Determinanten ud. Og vi skal lige se hvor har vi fest.
+
+37:07
+Noller hende har vi jo i første række her.
+
+37:11
+Så det er den vi laver opløsning efter, så vi har første momentet her, som har fortegnet plus altså to minus lamper.
+
+37:23
+Og så skal vi gange med determinanten af under matricen.
+
+37:30
+Så vi får her en stor parantes, og hvor vi har en minus lamper.
+
+37:38
+Og så har vi fire mener slammere.
+
+37:45
+Og så skal vi sige minus minus én gang med to.
+
+37:50
+Det må give plus to. Så har vi to minus lamper.
+
+38:04
+Og så herfra der får vi lambda i anden.
+
+38:13
+Og så har vi her minus fire lamper. Og minus en eller amter.
+
+38:18
+Det giver miner stemte amter. Og så har vi mangler vi bare en gang med fire.
+
+38:28
+Den giver fire, og så står der 2, og så bliver der altså +6. Bruger nulre Ellen og finder så at vi har Lambda lig med 2.
+
+38:57
+Og så skal vi have. Vi prøver vi, prøv lige at finde den her også.
+
+39:03
+Den bliver femogtyve minus 24. De giver en som vi har, altså en diskrimination på én.
+
+39:12
+Og så skal vi sige, at. Minus fem giver så +5 plus minus 1 divideret med 2.
+
+39:24
+Vi tager minus først, giver den to og så giver den 3.
+
+39:33
+Og så kan jeg se der var to forskellige egenværdier, nemlig to og tre.
+
+39:40
+Vi har altså to egenværdier og vi har den ene er lam der et med to.
+
+39:52
+Og den har algebraisk Musil pct.
+
+39:56
+2. Og så har vi altså lam der to som bare tre, og den har algebraisk multiplicere sitet er tre.
+
+40:13
+Denne er en sendte. De havde jo altså en lambda leg med to.
+
+40:17
+Den var repræsenterede første gang her anden gang dér.
+
+40:21
+Derfor er den sænket britiske multiple intensitet 2, men 3 og kun repræsenterede én gang.
+
+40:28
+Og I ser jeg så her. Som forventet summen af de algebraiske moti boligsitet og den er 3.
+
+40:37
+Godt, så prøver vi nu at finde egne rummet, der hører til to.
+
+40:48
+Og det vil jeg sige. Vi skal have totalt matricen.
+
+40:56
+Og vi skal trække to fra i diagonalen. Så får vi noget.
+
+41:03
+Nul og nul. Og så får vi en minus en.
+
+41:12
+Og 2. Og så får vi noget minus nu SE og 2.
+
+41:24
+Og så højresiden 000. Skal vi se om vi kan.
+
+41:34
+Få styr på den. Og så gå direkte til Trapp.
+
+41:44
+C skulle vi ikke lige starte med at gange den her forneden med minus 1 og så lægge til den.
+
+41:55
+Så får vi nemlig også flyttet denne op for oven, så får vi 1 0, 0 og nul.
+
+42:05
+Og så har vi denne her tilbage, hvor vi ganger igennem med minus én. Så får vi nålen.
+
+42:10
+1, 2 og nul og så minus to blev der sagt.
+
+42:20
+Og så som forventet nulre række forneden. Så skal vi lige nu og se hvad.
+
+42:27
+Hvad siger det så om vores ubekendte? Vi skal prøve at aflæse, så står der at x et bump skal være nul.
+
+42:38
+Og så står der at X2 er lig med 2 x 3.
+
+42:47
+Så vi har her at X3 er fri.
+
+42:55
+Og så lad os lige få skrevet det op her, så har vi altså her ex et ex to dex tre er lig med ti gange med.
+
+43:09
+Exit skal vi have slået ihjel. Der skal stå nul der. Og så er det jo dem der er fri.
+
+43:18
+Og så skal der stå to der. Bum. Så vi har altså nu fundet at en 2.
+
+43:32
+Er den er spanden. Er blot en vektor, nemlig nul komma to komma en.
+
+43:47
+Så det vil altså sige at den geometriske multi boligsitet er to.
+
+43:56
+Denne er 1. Vil.
+
+43:59
+Den er mindre end den algebraiske. Som jo var lig med to.
+
+44:10
+Så vi har altså nu fundet en egenværdi, for den geometriske model blev sitet er mindre end den algebraiske norlige.
+
+44:21
+Vi stopper her med det eksempel. Den kan ikke diagonal Ceres.
+
+44:38
+Sådan. Og jeg vil godt da lige en ting jeg ved jeg jeg vil, er nødt til at understrege at dem.
+
+44:47
+Hvad er grunden? Hvis vi kigger på den matrix her.
+
+44:53
+Se altså grunden den er jeg så ikke, at vi har en dobbelt råd.
+
+44:59
+Det er ikke det, der er problemet. For hvis de går lige tilbage, kigger jeg på jeres noter fra store dag.
+
+45:06
+Så lavede jeg altså et eksempel med en tre tre matrix, hvor vi havde en egenværdi.
+
+45:12
+Hvad Algebraisk multiple excited 2. Og hvor den biometriske model blev sitet også var lig med 2.
+
+45:19
+Så var summen af de geometriske multiplicere. Den var tre, så der var ingen problemer.
+
+45:26
+Så det er det jeg siger. Det er det jeg med egne værdierne.
+
+45:32
+Hvor mange der. Hvor mange egne rum har om den, er de, om den kan disse kunne realiseres.
+
+45:40
+Det er altså ikke noget man lige kan se på dens ansigt.
+
+45:44
+Man er nødt til at komme frem med da metaldetektoren altså for at finde ud af altså være sandheden omkring denne her, og der fandt vi ud af den kanal.
+
+45:55
+Den vil ligge diagonalt i Ceres. Ja, men jeg skal lige have slettet lidt tavler.
+
+46:09
+Her. Rejsende.
+
+46:24
+Der er. Mindre end to storme forlig modtog dommere laver fejl.
+
+46:32
+Hvor ser du begynder at ryste i bukserne?
+
+46:37
+Jo før er flere. Ellers var den gal. Flere.
+
+46:46
+Forældrene. Det skriver.
+
+46:58
+Ser sønner på. Sagen halter gevaldigt med det her.
+
+47:17
+Jeg kan virkelig tage den bagefter, fordi jeg har lidt travlt. At.
+
+47:41
+Han. Den havde.
+
+48:53
+Så der er lige da lige jeg har et eksempel mere, som jeg gerne lige vil præsentere jer for.
+
+49:01
+Og vi har her da en matrix, der hedder 1 0, 0 0, så det ser minder om endnu en dér dér og så en nul, nul og nul.
+
+49:21
+Sådan det. Den skal vi lige have undersøgt, og vi starter med at finde Lambda,
+
+49:32
+og vi kigger på den karakteristiske polynomium, som er en del terminalt, og hvor vi siger en minus lambda.
+
+49:45
+Og så har vi 1 0, 0 0, minus Lambda 1 0 og minus.
+
+49:56
+Se om en aslam der.
+
+50:10
+Og vi skal regne den ud.
+
+50:15
+Jeg kan vælge første række første søjle, det er lige meget fordi vi får bare én minus lambda, og så får vi den altså nu slambert gange mere nu.
+
+50:30
+Slam da det giver plus slam. Der er altså på slam der i. Og så skal vi sige minus.
+
+50:39
+Minus indgang gang er 1. Det giver +1, og så er vi altså nået i denne her situation.
+
+50:50
+Og vi bruger nul reglen og vi har altså to.
+
+51:00
+Vi har to egne værdier og den ene.
+
+51:10
+Den får vi jo herfra. Det er lambda lige med en og så hård.
+
+51:22
+Den er jo ingen løsninger. Jo, det har den jo. Den har nemlig løsningerne plusser og minusser i.
+
+51:32
+Så det vil sige at den har tre lamper lige med en lampe at lege med i og lambda med minus i.
+
+51:50
+Så jeg så en tre, tre Matrix', der har tre forskellige egenværdier,
+
+51:57
+og det giver anledning til en sætning, fordi nu skal vi blive en ny generel sætning op.
+
+52:09
+Det er vist en N Kruuse M matrix A har n forskellige egenværdier.
+
+52:31
+Så kan A diagonal i Ceres.
+
+52:45
+Og hvis du lige skal sige hvorfor. Hvorfor det gælder, så må jeg lige henvise til seiten hjælpe.
+
+52:53
+Sætning 13 9 13 9. Som blandt andet siger at.
+
+53:05
+Et sæt af.
+
+53:12
+Egen vektorer tilhørende forskellige egenværdier tilhørende.
+
+53:31
+Forskellige egenværdier. De er lineært uafhængige.
+
+53:42
+Så det er det der giver mig den her sætning.
+
+53:48
+Så vi har en tre kryds, tre matrix. Vi har fundet tre forskellige egenværdier.
+
+53:58
+Og så kan den diagonal seers. Så a kan de argumenteres.
+
+54:08
+Og jeg får ikke tid til at gå helt af sig og gøre den helt færdig.
+
+54:14
+Men det vigtige er her, at at den kan diagonalt Ceres A kan realiseres.
+
+54:29
+Og nu er vi i gang med at så et eksempel med komplekse egenværdier.
+
+54:36
+Og der er lige altså igen et par ting her, som jeg gerne vil have slået fast.
+
+54:48
+Og det er jo huske igen at det karakteristiske polynomium er jo et polynomium.
+
+54:57
+Og hvis matricen er reelt, så er polynomiet også reel og kan I huske i et reelt polynomium?
+
+55:07
+Da er det sådan, at hvis vi har en rod, som er kompleks, så er også dens kun gearede øråd, og det kan vi så direkte overføre her.
+
+55:18
+I kan se, at der var en egenværdi her på. I så skal der også være en på minus I.
+
+55:25
+Så lad os lige prøve og slå den op. Altså hvis Lambda lig med A plus i B er egenværdi.
+
+55:42
+Så er den konjugerede af lambda det værelse si a minus B og så en egenværdi.
+
+56:06
+Og så gælder der altså ydermere, at hvis V altså hvis I har en vægt som V som ligger i egne rummet der hørte til larmen lambda.
+
+56:25
+Det vil altså sige at Lambda har egen værdien V.
+
+56:30
+Så gælder der at eje egen rummet, der hører til den konsoliderede egenværdi, har den konjugerede egenvægt.
+
+56:41
+Så vi kan altså skrive, så gælder det altså her, at vi. Kondom Geert ville så være i egen rummet, der hører til i Lambda konjugerede.
+
+56:55
+Så det betyder så vidt jeg har fundet. Hvis de går videre med denne opgave, da jeg tror der vil består Seen.
+
+57:03
+Jeg tror det er en øvelses programmet med mere komplekse indvendige mål I sælger.
+
+57:07
+I må selv lige kigge efter. Så hvis jeg altså har fundet en egenvægt så tit den her i, som f.eks.
+
+57:14
+Hedder I over tre. Eller hvad ved jeg.
+
+57:19
+Så har den kaum. Så har den kun dyret egenværdi. En bedre minos i over tre, så det skal bare kun fungere.
+
+57:26
+De tal, der står i egne digteren, så i det her tilfælde behøver man kun at finde egne rum, der hører til egen rummet, der hører til i.
+
+57:36
+Fordi så får vi i regn rummet, der hører til i konjugerede, foræret vi barakkerne.
+
+57:44
+Og så lige nogle bemærkninger om Simmelkær matricer.
+
+57:51
+Og ja, der kan jeg lige bare sige hovedtrækkene i, hvad det gælder.
+
+58:00
+Altså hvad det drejer sig om. Og så og punkt ét.
+
+58:17
+Det er definitionen fra jeg var lidt inde på det i starten.
+
+58:31
+Ja, for at se det her. Det handler jo om en cruys inden matricer, og det jeg så siger, er A.
+
+58:41
+Er assimilere. Med B.
+
+58:50
+Hvis der findes. Ind og hvor regulære.
+
+59:01
+Matrix Lambda. Således at B er lig med EM.
+
+59:13
+Hvad vi sagde lige med. Nej, vi skal ikke kalde den vi kalder den for V.
+
+59:26
+Vi kalder den for vi således, at så er det altså lokalt.
+
+59:36
+Det er altså simulerer. Hvis A kan skrives op på denne her måde i forhold til B.
+
+59:43
+Og det betyder jo bare at A og B.
+
+59:48
+De kan være lineær afbildning matrix fra den samme lineær afbildning og var den her.
+
+59:55
+Det er basis skifte matricen, der skifter fra den nye til den gamle basis.
+
+1:00:01
+Så prøv at se det her i forhold til det vi lavede allerførste dag de 2.
+
+1:00:05
+De er altså. Det er definitionen. Der skal altså findes sådan en regulære en der kan inviteres, der er invertibel og der opfylder dette definitionen.
+
+1:00:18
+Og så mener jeg mine fire paynes nu er hvis A.
+
+1:00:33
+Er simulerer med B. Så er b civile simulerer med af, så derfor fortæller vi også om assimilere matricer.
+
+1:00:52
+Og I kan jo se. Altså vi kan jo bare gøre det, at de ganger med V på venstresiden og med V i minus de første par højresiden.
+
+1:01:03
+Så så bytter de to plads så at sige, og så er vi altså fundet ind igen.
+
+1:01:08
+En regulær ved dette. Det er ret klart.
+
+1:01:14
+Når så kommer så treeren. Similar raritet er transitiv og det er sådan set det lige ud af landevejen.
+
+1:01:28
+Altså hvis A er os, hvis A er simulator med B.
+
+1:01:37
+Og det er simulator med se.
+
+1:01:46
+Så er a similar mad se have a similar med B.
+
+1:01:55
+B simulator med C, så a. Simulerer man se, så er det også sådan en grundlæggende sætning her.
+
+1:02:05
+Den kan vi bruge til min tredje pollen. Her ser.
+
+1:02:18
+Og det er når vi skal undersøge noget om er om timelærer matricer, så kommer man meget hurtigt til at snakke om egenværdier, så de sidste to points.
+
+1:02:27
+De handler om diagonal matricer og den slags, så nu kan vi så sige.
+
+1:02:35
+Hvis. A. Er Simmelkær.
+
+1:02:44
+Med diagonale matricen Lambda. Og.
+
+1:02:51
+B også er Simmelkær med den samme lambda.
+
+1:03:01
+Så er A og B simulerer.
+
+1:03:17
+Så prøv lige at se figuren kommer direkte fra treeren.
+
+1:03:23
+Bortset fra at hvis vi skal argumentere for det, så skulle vi egentlig bytte de to mænd I ved.
+
+1:03:31
+Det ved vi jo fra den første, at hvis den ene simulerer himmellegemet med den anden,
+
+1:03:33
+så den anden timelærere den første så får for at komme herfra hertil, så kan vi lige byde de to år.
+
+1:03:39
+Så står der A Simulator med Lambda Lambda Simulator med B betyder at A er simulator med B.
+
+1:03:48
+Og så har vi altså byttet denne om, for her er pointen, at hvis det er, at man skal undersøge om to matricer om de assimilere.
+
+1:04:00
+Så forsøg at lave en kommunalisering, fordi hvis de har den samme Lambda matrix, så er de indbyrdes timelærere.
+
+1:04:10
+Og så endelig her til sidst. Det handler også om egne værdier.
+
+1:04:20
+Den siger, at hvis A og B.
+
+1:04:29
+Er os timelærer, så har de samme egne værdier.
+
+1:04:42
+Passer så vi kan sige så har de fælles egenværdier.
+
+1:04:54
+Og egne værdierne har samme algebraiske. Med sig med altså fælles egenværdier med samme algebraisk multiple sitet og biometriske mål til boligsitet.
+
+1:05:18
+Så oven i dette var så også lidt nørdet og noget af en nyser, så det allersidste det jeg gør her bare lige prøver at trække op igen.
+
+1:05:25
+Hvad var det vi gjorde her? Se, det er ret interessant.
+
+1:05:31
+Tit og spørge om to matricer, om de er simulerer.
+
+1:05:35
+Fordi hvis de er Simmelkær, så kan de repræsentere den samme lineære afbildning blot med fores med hensyn til to forskellige baser.
+
+1:05:44
+Og det er jo interessant at vide. To matricer. Den lineære afbildning der ligger bag ved.
+
+1:05:50
+Gør den det samme, eller er det to forskellige ligende afbildninger, der gør noget forskelligt?
+
+1:05:55
+Så derfor er det en ret vigtig sætning her eller ind i en vigtig problemstilling, og det vi så sådan hen, og vejen nåede frem til, det var så.
+
+1:06:08
+Når der så foreligger to, hvad skal vi så gøre for at undersøge, om de simulerer?
+
+1:06:14
+Der var altså ligesom to veje. Jeg ville nok start hernede, altså med FCM'eren begynde at regne deres egen værdier ud.
+
+1:06:23
+Og hvis der er bare en egenværdi der forskelligt. Hvis den ene har en egen værdi, som manden ikke har, så de ikke simulerer.
+
+1:06:30
+Og så kan man altså gå videre, og så kan man se, at de begge to simulerer,
+
+1:06:35
+ja så kan de diagonal i seeres til den samme diagonal matrix, så de indbyrdes sive simulerer.
+
+1:06:41
+Så I kan se, det var det samme som en stor dag.
+
+1:06:46
+Men der var mange pointerer ret nørdet egentlig.
+
+1:06:50
+Men jeg håber, I var med og syntes, at det var skægt. Tak for nu.

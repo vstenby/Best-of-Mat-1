@@ -1,0 +1,959 @@
+0:04
+Skulle morgen så. Så blev det et se og steg, så på fredag er der temaer øvelse så der i forelæsninger på fredag.
+
+0:15
+Husk at læse. Du skal læse det, der skal læses med.
+
+0:20
+Så i dag skal vi i gang med et program, som jeg næsten vil garantere, at I ikke synes er spor svær,
+
+0:27
+fordi det vi skal gøre, har vi næsten gjorde, at vi skal bare generalisere tingene lidt.
+
+0:33
+Vi skal snakke om det, der hedder generelle vægt til ro, og det går sådan stille og roligt derudaf,
+
+0:39
+og der vil være en masse eksempler, så jeg tror, jeg tror, det bliver sådan en nogenlunde hyggelig dag.
+
+0:46
+Hvad har jeg sagt før? Det har jeg sgu nok sagt før.
+
+0:51
+Okay folkens. Så hvis vi starter med at tilegne programmet, så det handler om generel vægt, så rummer.
+
+1:12
+Og i den forbindelse skal vi snakke om de nærmere kombinationer. Støjende og vi skal snakke om under åben.
+
+1:29
+Og vi skal snarere det der hedder udspaltning, og det hedder også spa and.
+
+1:42
+Og baser. Baser og dimension.
+
+1:55
+Det er sådan sådan cirka programmet ikke, så lad os lad os simpelthen starte med en definition.
+
+2:03
+For hvad er et vektorrum for noget så et vektorrum?
+
+2:17
+Som vi vil, så kan alle ved at det er en mængde. Og altså vi siger ikke fra starten hvad det skal være, men altså når det er et væg til rum,
+
+2:35
+så de objekter man har i mængden, kalder man så fik to ord.
+
+2:39
+Men hvad er der med denne mængde? Den er organiseret.
+
+2:49
+Med eller ved var egne regler, og det er ret uspecifikke, men de egne regler kommer til at stå herovre på denne side.
+
+3:05
+Sagen om et øjeblik og det der gælder om denne mængde, er, at der er et krav og det krav, der hedder stabilitet.
+
+3:25
+Og det har I set før, fordi det skal være sådan, at hvis jeg tager, at vi kan sige, at vi så siger, at vi tager et af, og B der ligger i vores vi,
+
+3:41
+så for at fortælle er det vektorer, der sætter streger nedenunder, og det er det, vi gør ved helt abstrakte generelle vektorer.
+
+3:50
+Disse vektorer vi havde såkaldte geometriske vektorer. Der satte vi pile op over for at kunne se, at det var geometriske vektorer.
+
+3:58
+Det er det her ikke nødvendigvis. Det kan også godt være, det er bare mere generelt.
+
+4:03
+Så her har jeg så to vektorer, der ligger i dette vigtige rum,
+
+4:09
+og så skal jeg så have et alfa og beta, der ligger i enten de reelle eller komplekse tal.
+
+4:17
+Og det vil sige jeg kalder det bare L. Og så har jeg det første krav.
+
+4:25
+Det første krav er, at hvis jeg tager disse to objekter her og lægger sammen, så skal det ligge i veksel rum altså.
+
+4:38
+Man skal kunne lægge ting sammen og blive liggende der, så summen af to vektorer skal være en vektor.
+
+4:44
+Det er sådan set det, jeg siger. Det er det, jeg siger er, at vi kun tager alfa og ganger med disse vektorer.
+
+4:51
+Så skal det også blive liggende i væg til rummet, og denne den kalder vi så ubetinget til to.
+
+4:58
+Måske skulle sætte punktum her og så skrive to sådan der. Fidusen er at have lagt mærke til at skodde alfa og beta her.
+
+5:06
+Fidusen er, at man kan slå et og to sammen til at sige, at alfa gang plus beta gang b skal ligge i V.
+
+5:23
+Så enten har man to betingelser, der ser sådan her ud. Eller også har man en betingelse.
+
+5:27
+Men den involverer sig to det som vi kalder skalaer.
+
+5:32
+Og hvis hvis vi siger, at der skal stå de reelle tal her, så kalder vi det for et reelt væk til Rom.
+
+5:40
+Og hvis det er de komplekse tal, så vil vi sige dette komplekse vektorrum, og mange gange så vil man specificere, hvad det er, man kigger på.
+
+5:51
+Forstået på den måde. Det vil typisk være sådan, at det vil være reelt, med mindre man fortæller, at det er komplekst.
+
+5:56
+Men det vil være tydeligt. Så lad os lige se en gang.
+
+6:00
+Hvad er det så for nogle regneregler? Der er simpelthen otte regneregler, som man siger skal være opfyldt for at man har et væg til rum,
+
+6:16
+og det er sådan set bare de regneregler, som de søgte i synes er helt naturlige, når I har med vektorer at gøre.
+
+6:24
+Den første den siger, at hvis jeg tager en væg og lægger den sammen med en anden væg, så så er de helt ligeglade med, hvad rækkefølge man kan rette i.
+
+6:34
+Det hedder kommutativ it. Dette er.
+
+6:40
+Den anden ting er, at hvis jeg nu skal lægge tre vektorer sammen, så kan jeg gøre det ved at lægge de to sammen og så ligge sammen med dem.
+
+6:52
+Eller jeg kan gøre det sådan her på denne måde.
+
+7:01
+ASO siger Tivi til hedder det, at man kan sætte pause i sig, sådan som det nu passer én, når der står plusser der og den tredje reelle.
+
+7:12
+Den siger, at der er et objekt, som vi kalder et væk.
+
+7:17
+Så når vi lægger dannelse af, så sker der ikke noget.
+
+7:24
+Og det siger at der er et neutralt element med hensyn til den addition vi har, og der neutralt er et element, der ikke gør noget.
+
+7:33
+Det er så det, vi kalder nulvækst. Og den fjerde regel, der siger, så har det væk sig.
+
+7:40
+Så findes der en vektor, som vi så vil kalde minus af.
+
+7:44
+For når du lægger de to sammen, så får vi nul. Så det var de fire første regler, og det handler sådan set bare om vektorerne de næste fire regler.
+
+7:58
+Det handler lidt om, hvordan det her, som vi kalder skalaer legemet, spiller sammen med væg til rummet og hvordan.
+
+8:10
+Det er sådan lidt. Hvordan er det nu med rækkefølger? Det er det sådan set lige meget, men altså alfa plus beta, der er vigtig.
+
+8:19
+Det skal være det samme som Alfa clouds beta sig af og.
+
+8:30
+For de er kørt lidt op her. 6. Den siger så at Alfa giver vægter A+ vægttabet skal kunne gang endelig parret ses.
+
+8:44
+Alfa bøvse alfabetet Sandager og Syveren.
+
+8:53
+Den siger så at vegetarer alfa og garderer med Beta A.
+
+9:02
+Så skal jeg gøre det på den måde, at jeg ikke tager alfa gang, beta og gang med alt det der regler.
+
+9:10
+Dem har de brugt hundredvis af gange, når jeg regnede med vektorer og i øvrigt også alt muligt andet.
+
+9:16
+Den sidste regel, der siger så er vores.
+
+9:20
+Et tal fra de reelle eller komplekse tal herover er vel væk, så jeg skal være væk.
+
+9:29
+Sig selv, og det er de 8 regler.
+
+9:36
+Så man skal have for at få man har et et vektorrum.
+
+9:42
+Og spørgsmålet er så kender vi, kender vi nogle vægge, så er der masser.
+
+9:51
+Så hvis man vil gøre sådan og sådan her, så lad os lige.
+
+10:00
+Vi tager nogle eksempler på vækst år, for eksempel hvis man nu er i Emde.
+
+10:15
+Hvad er det for noget? Jo er. Det er sådan unge snubler.
+
+10:24
+Kalder man det en EM, Toppel? Det vil altså sige, hvor man har indtalt stående på denne her måde i denne her rækkefølge.
+
+10:34
+Hvis man har nogen, så kan man lægge den sammen og trække fra hinanden.
+
+10:38
+Hver gang nogen vil tale vellignende, og det bliver ved med at være og bliver ikke der af den type.
+
+10:43
+Hvad så? Her kunne jeg så sige at være, at de, der ikke siger selvfølgelig er bare et eller andet reelt tal.
+
+10:51
+Altså så der står reelle tal her, og der er en af dem. Dette er en, der indikerer det her og tilsvarer det helt på præcis samme måde.
+
+11:01
+Så har vi se det. Det ser ud på præcis samme måde.
+
+11:06
+Der vil vi så bare sige, at ejerne kan være komplekse tal.
+
+11:10
+Man kan skrive komplekse tal på pladser. Og igen.
+
+11:14
+Det er et vektorrum, et andet vil ikke noget, som alle skal tænke over er et vektorrum.
+
+11:22
+For eksempel hvis vi nu tager den mængde, vi kalder er en Chrøis M.
+
+11:28
+Det vil sige indgange end indgange m matricer.
+
+11:34
+Så det her er jo matricer af denne form, hvor vi altså har en rækker og søjler.
+
+11:43
+Hvis man lægger sådan nogle sammen, så bliver man ved med at få objekter af samme type,
+
+11:49
+og man kan gange dermed tale, så det er et vektorrum, og de minder i virkelig alt lidt om hinanden.
+
+11:54
+Det her er jo noget, som er lidt mere eksotisk. Det er det rum, som vi kalder det, eller for eksempel PK over de reelle tal.
+
+12:06
+Det er mængden af polynomier, mængden af polynomier.
+
+12:18
+Der er gravet højst.
+
+12:26
+K så mængden af reelle polynomier af grad højst kog.
+
+12:31
+Læg mærke til, at man er nødt til at sige højest. Der står høst højst på, fordi hvis man tager to anden grads polynomier og lægger sammen,
+
+12:45
+så kan man ikke være sikker på, at man får det grads fulgte nogenlunde man kan.
+
+12:48
+Hvis hvis hvis angrebslegende hæver hinanden, så får man et første græsstrå.
+
+12:52
+Linoleum ved, man er helt sikker på, at man får ikke noget højere grad, så summen af to angrebsmuligheder er højst et polynomium af grad.
+
+13:01
+2. Så det er derfor man er nødt til at have det højst med. Og dermed inkluderer også et fint vektorrum.
+
+13:09
+Og så er der sådan de lidt mere eksotiske dyr, for eksempel den mængde, der hedder CK.
+
+13:18
+Over et eller andet interval. Og hvad er det for noget?
+
+13:22
+Jo, det er de på gangen med differentiable funktioner, det vil sige.
+
+13:29
+Men på differentiable funktioner.
+
+13:45
+På et interval i. Og specielt sen nul.
+
+13:53
+Hvis der står noget i det, ja så er det bare mængden af kontinuerte funktioner.
+
+13:59
+Men altså hver gang differentiabel.
+
+14:01
+Det betyder, at man kan differentiere funktionen på gangen, og hver gang får man kontinuert funktion ud af det, og alt er nået.
+
+14:08
+Det er vel ikke så fordi de opfylder alle de krav, vi har det, at det har man så.
+
+14:20
+Det er man så typisk kommer til at kigge på.
+
+14:25
+Det er underrum så.
+
+14:34
+Hvad er det for en fisk, så lad os se gang et underrum.
+
+14:47
+Et underrum bog er et værktøj hvor V er en delmængde af det, hvis du er en delmængde af VB, skriver du på denne måde.
+
+15:05
+Den ligger ligger inde ved et godt være vist selv. Altså, så er det også rigtigt.
+
+15:10
+Men så er det bare ikke interessant. Men det er en delmængde V, som selv er et vigtigt år.
+
+15:27
+Og. Har vi nogle eksempler på det?
+
+15:34
+Ja, lad os se en gang. For eksempel for eksempel så vil Peto er et underrum af P3, der er.
+
+16:04
+Hvorfor det når. For det er et polynomium af grad højst to.
+
+16:08
+Det er jo i hvert fald også fået enorm høj grad højst tre, så den mængde ligger inde i den.
+
+16:14
+Og den der cellevæg til år. Så det her er et underrum af den der lagkage, og CK er et eller andet interval er et underrum.
+
+16:32
+At jeg kunne være et mindretal, en korvet.
+
+16:36
+Man kan for eksempel skrive se 0 der intervallet her.
+
+16:42
+De kobraen differentiable funktioner er et underrum af de konserverede funktioner.
+
+16:46
+Hvorfor? Ja, fordi enhver differentiabel funktion er kontinuert, så den mængde ligger inde i den.
+
+16:54
+Og denne her af cellevæg til år. Og hvis man skal vise det er meget vigtigt, for hvis man skal vise vise, at den mængde U V er et underrum,
+
+17:18
+vil altså sige, at det er vores opgave, så har vi altså en mængde ord, som skal være en delmængde af V.
+
+17:28
+Hvis man så skal vise, at den er et underrum, hvad skal man så gøre? Jamen, her står alle kravene.
+
+17:32
+Men fidusen er, at hvis man skal vise, at denne mængde er underordnet, så er det nok at vise dels eller den.
+
+17:41
+For det første skal den ligge inde ved. Det skal selvfølgelig være en delmængde, men så er det nok at vise stabilitet, så stabilitet.
+
+17:58
+Fordi hvis den mængde har det sådan, at hvis jeg tager af, hvis jeg tager A og B i EU og alfa beta alfa, kommer beta i det reelle eller komplekse tal.
+
+18:17
+Hvis det så er sådan, er alfa plus beta b bliver liggende i EU.
+
+18:26
+Det det stabilitet jeg tager fat i, den simpleste, den fødsler eller to sammen.
+
+18:32
+Hvis det gælder, så gælder alle de andre også.
+
+18:36
+Så behøver man ikke vise dem, hvordan man ikke bør vise dem. Det er fordi de gælder i hele, vil det sige.
+
+18:41
+De gælder også i U. Krise.
+
+18:47
+Så det er begrundelsen for det. Så det er nok at vise stabilitet, hvis man skal vise, at noget er et år godt?
+
+18:54
+Ja, men det større. Så lad os prøve at kigge lidt på de lækre kombinationer.
+
+19:05
+Så hvis vi nu så ved ét vil sove op til VK.
+
+19:14
+Lad nu dette tilhører ved og det er altså underforstået når jeg skriver ved her, så er vores ved et væk til ro.
+
+19:30
+Så kan alle det der opstår, når vi gør sådan her, det vil sige alt et v et Clowes tog ved tog flås al-Zarqawi med på dette.
+
+19:49
+Vi gør her. Det kaldes for en kombination. Og det har vi jo gjort med biometriske vægge 42, men nu gør vi det ordentligt.
+
+20:09
+Kan alle så lige narre kombination af settet og sætte dette offer ved et veto op til VK sonderer.
+
+20:29
+Så kunne man jo interessere sig alle sådan nogle fine kombinationer, og det hedder sig at udstedende er.
+
+20:43
+Hvad er det for noget? Jeg ser, siger Af, og så bruger jeg mængde, klarer mig vel ved et tog og så op til VK.
+
+20:57
+Hvad er så det? Jamen, det er samhandel med alle.
+
+21:02
+Og så skal lige for en god ordens skyld skrive endelig ind, for ellers kunne man jo bare blive ved med at ligge sammen i en uendelighed.
+
+21:10
+Alle enlige Lena kombinationer.
+
+21:23
+Af sættet. Og det betyder altså bare at spærre at sætte vektorer det alle så normen, er det alt der kan skrives på denne her form, så vi kan f.eks.
+
+21:50
+Vi kan for eksempel gøre sådan her. Så hvis hvis vi har en eller anden vægt, så vil der ligger et spand.
+
+22:08
+Spanien eller en udstilling. Så hvis man får denne her information her, så betyder det bare.
+
+22:25
+Så findes der altså et tog op til al-Zarqawi i vores eneste reelle eller komplekse tal.
+
+22:39
+Sådan er vores værktøj. V kan skrives som en lettere kombination.
+
+23:00
+Så er det væk, så ligger en udflagning det betyder bare at der kan skrives på denne her måde.
+
+23:05
+Vi har ikke sagt noget om, om den eventuelt kunne skrives på flere forskellige måder.
+
+23:10
+Det kommer vi til om et øjeblik. Det så man skal bemærke, det er at Spall at sætte vektorer.
+
+23:33
+Så hvis der ellers er udstillingen det vil altid. Vil altid være det under år.
+
+23:52
+Så den der mængde er simpelt hen et underrum. Den indeholder nulvækst og opfylder alle de krav, som vi har.
+
+24:02
+Det er godt at vide, at hver gang man har et tilbage, så har man et sundere år,
+
+24:06
+og så snakker vi i forbindelse med geometriske vektorer om lineære uafhængighed.
+
+24:15
+Og den skal vi altså lige have slået fast én gang til.
+
+24:19
+Fordi. Altså satte ved et veto op til at vi i kog og kløver jeres.
+
+24:31
+Jeg har skrevet dette op tidligere, men nu gør vi det i denne her generelle setting mig kaldes.
+
+24:42
+Lineært uafhængigt. Hvis og så kommer en ligning.
+
+24:58
+Den kalder vi normalt for stjerne. Jeg plejer at kalde en lampe af en klods lam, der tog to klodes.
+
+25:09
+Og så lad ham da koge vilkår og så lig med nulvækst.
+
+25:16
+Så sættet alene er uafhængigt. Hvis den ligning kun har løsninger.
+
+25:29
+Altså den trivielle løsning dér hvor alle lambda er nul.
+
+25:39
+Og det er så tallet nul. Og.
+
+25:50
+Vest ikke alene er uafhængig, så siger vi det ligne at afhængigt.
+
+25:55
+Så hvis. Hvis sættet er.
+
+26:06
+Lineært afhængigt.
+
+26:14
+Det vil sige at hvis dette ikke er opfyldt, så betyder det, at mindst en af vektorerne fra v tv k kan skrives ved hjælp af de andre.
+
+26:26
+Det kan vi. De skriver op her. Mindst en af reaktorerne.
+
+26:41
+Ved et veto for op til V K skrives.
+
+26:53
+Som i Norge kom der sjove.
+
+27:07
+Af de andre forsøgsvis.
+
+27:17
+Det er nogle ting som vi som vi ved som vi så allerede fra de geometriske vektorer ağca.
+
+27:25
+Lad os nu prøve en gang at kigge på at kigge på sådan nogle spage stadier.
+
+27:31
+Lad os prøve at kigge på nogle eksempler her. Så hvis vi nu for eksempel.
+
+27:46
+Lad os kigge på er to. Og hvad er to for noget?
+
+27:58
+Ja, det er. Hvad hedder det? Er mængden af Snowman talepapir Exeter X2 hvor ikke sådan, at det er reelle tal for det.
+
+28:12
+Den mængde er det vores. Vores store vægt til Rom, det er vores ved.
+
+28:18
+Så lad os tryggere at kigge på.
+
+28:21
+Hvad er hvad er Spanien? Nul komma ét og et komma 0 2.
+
+28:33
+To vektorer ud. Den der kalder vi et af dem der kalder vi.
+
+28:37
+2. Hvad er det? Kan jeg fortælle hvad det er?
+
+28:46
+Ja, hvad okay. Jamen, hvad så? Hvis hvis vel ikke er det?
+
+28:52
+Hvis det er noget, der ligger her, så kan jeg altså skrive, som er for en gang nul køre en klode, for tåge gør et komma noget.
+
+29:05
+Det viser, at det er definitionen på at ligge i det deres spand.
+
+29:11
+Og hvad er det for noget? Hvis man regner det ud.
+
+29:16
+En bande. Det er nul komma før et Clowes, og sådan er det jo alt for 2,0.
+
+29:26
+Og hvis jeg lægger dem sammen, fortsætter hernede, så kommer der bare til at stå for to komma i faget.
+
+29:37
+Og eftersom jeg har fuldstændig frit slaw med disse alfader lige nu interessere mig for reelle vægte rum, dvs.
+
+29:44
+Alt for ét kan være et reelt tal og altså to kan være et reelt tal.
+
+29:48
+Så kan sådan nogle ved det jeg. De kan bare se sådan derude, men det er jo alle dem, jeg overhovedet kan forestille mig.
+
+29:55
+Klasse det. Det vil altså sige at i dette tilfælde der får, er hele pointen.
+
+30:04
+Hvis jeg gør sådan for det, fordi hvis I giver mig sådan en, så kan jeg godt finde et eller to,
+
+30:13
+så jeg rammer ved kasse et, så jeg kan ramme alle ved jer, der ser sådan ud.
+
+30:20
+Så dette hele så. Der kan sagtens være det hele.
+
+30:26
+Og det behøver det jo ikke at være fordi.
+
+30:34
+Lad os prøve at kigge på et andet eksempel eller et lille eksempel.
+
+30:39
+Hvis vi nu kigger på vægge, så rummet er to krydser to.
+
+30:48
+Og så kunne vi kigge på, og så kunne vi kigge på matricen A, da inkluderede et ét komma nul.
+
+31:02
+Og så kunne matricen hedde bag at lade matricen bag hedde.
+
+31:06
+Den kunne for eksempel hedde et, der kunne hedde Kilo ved 0 0 et et for eksempel.
+
+31:18
+Hvad er så? Spild af mad tresserne.
+
+31:25
+A og B. Hvad er det for noget?
+
+31:33
+Og. Jamen altså lad os kigge på det.
+
+31:38
+Lad os kigge på det for de matricer, der kan skrives sådan, for det er jo så matricer se og hedder alfa plus beta b.
+
+31:53
+Og hvordan ser sådan ud? Alfa alfa.
+
+32:01
+Den skriver lige her. Den hedder Alfa Alfa.
+
+32:06
+Alfa kommer 0. Det er alfa plus beta b, der sidder 0 0 beta beta.
+
+32:19
+Og hvad kommer der ud af det? Hvis januar ledige bare fortsætter her, og så kommer der matricer, der ser sådan her ud.
+
+32:30
+Alfa er alfa og så beta.
+
+32:38
+Og dér står der altså pludselig sig.
+
+32:46
+Så er det matricer der kommer ud af det, og er det alle 2 gange 2 matricer ikke er det i hvert fald ikke vel fordi der skal stå det samme tal her.
+
+32:58
+Og når man så har valgt, hvad der skal stå dér, så ved vi, hvad der skal stå ved det, der skal lægge de to sammen kasser.
+
+33:06
+Så den mængde, der effektivt er en delmængde af denne her, kan der også.
+
+33:14
+Så lad os se. Så lad os prøve at tage et andet eksempel på lineær uafhængighed.
+
+33:32
+For eksempel Her er sættet. Og hvad skulle vi så tage en en minusvækst og to dåser tre eks.
+
+33:47
+Det er noget, der gøres følgende år.
+
+33:48
+Det er det første grads fulanier, og det er det første gratis nummer, så det her er et sæt af først græs eller Polo er højest grad i dette sæt.
+
+33:59
+Er sættet lineært uafhængigt?
+
+34:09
+I det rum vi er i. Det er så det der hedder, at man får lov at være høj skrald ind over den reelle akse.
+
+34:19
+Jamen, lad os tjekke om det er rigtigt eller om det er det eller ej.
+
+34:25
+Så hvad skal jeg gøre? Jamen, jeg skal sige lam der engang.
+
+34:29
+Først vil jeg ikke. Så er det jo bare kolonier med en flås lam, der to gange en mindre sex slås.
+
+34:41
+Lam der tre gange to plus tre eks.
+
+34:46
+Og det skal i sig selv lig med 0. Og nu skal I lige passe på.
+
+34:52
+Fordi når man ser sig Lindén dér hvor der står noget med polynomiet, og så står der lig med noget som er vant til at se den ligning jeg skal finde.
+
+35:01
+Eks. Jeg skal løse den og finde ud af, hvad jeg ikke skal være for af denne ligning er opfyldt, kan jeg det,
+
+35:07
+fordi vi plejer at sige når vi løser sådan noget her, så er det tallet noget, der står herovre.
+
+35:12
+Men lige nu er vi i en anden situation, fordi vi ved, vi er et vektorrum, som er det her så det, der står her.
+
+35:20
+Den nulvækst som i det vægtede rum, og det vil sige nul funktionen, der står her.
+
+35:27
+Og det vil sige den funktion den konstante funktion 0, hvis graf ligger fladt over i eksakt snøres.
+
+35:35
+Hvad betyder det? Det betyder, at denne ligning her skal være opfyldt for alle værdier af eks.
+
+35:43
+For alle, så skal dette her være nul. Det er det der gælder såkaldte nul funktionen.
+
+35:52
+Så skal vi ikke, så skal vi tjekke om denne ligning har andre løsninger end hvad hedder det?
+
+36:04
+Har den andre løsninger end tallene? Dam der et lam, der to lam der tre lige med nul.
+
+36:10
+Er der andre løsninger, og lad os lige prøve at kigge på det, der er.
+
+36:14
+Hvad står der i virkeligheden her? Hvis jeg nu samler tallene her i gang og lige ud af den larm, der ét gang 1.
+
+36:22
+Og så står der larmende larm der to gange 1. Og så står der lam, der tre gange tog sig af alt det, der ikke har ikke så yoga.
+
+36:38
+Og så er der det. Der har jeg ikke så. Der er Mingus lam, der tog, og så er der traileren, der tre, det vil sige plus tre, og der skal stå.
+
+36:49
+Plus her, og så skal der stå hvad var det, sagde traileren, da tre af mine lam, der tog eks.
+
+36:59
+Skal være lig med nul funktion. Nu kan.
+
+37:08
+Ja, hvad betyder det? Hvad betyder det?
+
+37:12
+Jamen, her står der et første Graasbøll nummer, passer det? Det her er konstant blevet jeg står dig koefficienten til X.
+
+37:20
+Det skal være noget fugletårnet, og ja, så forstår jeg.
+
+37:25
+Det betyder, at så skal den da være lig med nul, og så skal den være lige med nul.
+
+37:30
+Hvorfor er det rigtigt sjovt? Vi vil gøre det på mange måder for eksempel.
+
+37:33
+Det skal gælde for alle. Ex. Så slet ikke til at være noget. Og ja, så står der, at den er lig med nul pct.
+
+37:43
+Så ved vi, at den er lig med nul. Og ja, så står der det her tilbage.
+
+37:50
+Jamen altså, hvis denne funktion skal være lig med nul funktionen, så kan vi bare differentiere på begge sider.
+
+37:56
+Kan det differentiere novel funktionen, så får jeg nul. Det vil sige, at vi jeg differentierer fra begge sider nu.
+
+38:02
+Så får jeg noget. Og så forsvinder Excel. Så står der den, der ligger 0.
+
+38:08
+Det er sådan og det vil sige hvis der skal være opfyldt, så betyder det at lam der evt.
+
+38:14
+Klavs lam, da to plus to lam tredje skal være tallet nul.
+
+38:22
+Og den er passende den ved at skrive sådan her mindes læreren, der tog Kluges tre slagent og tre skal være lig med nul.
+
+38:38
+Er med på at hvæsen helt almindelige betragtninger kommer der noget dette to ligninger med tre ubekendte.
+
+38:47
+Og ja, og så kan vi begynde at løse det her. Men lad os nu prøve at bruge noget af det, vi ved.
+
+38:52
+Så vi slipper for at bruge alt det rap, vi har over i det store you.
+
+38:58
+For hvad ved vi om lineære ligninger systemer?
+
+39:04
+Er der ingen løsning? Eller også er der præcis en løsning.
+
+39:11
+Eller også er der brug endelig var ulykkesdagen. Det er de tre muligheder, vi har og kan.
+
+39:17
+Er der en løsning? Yes! Det vil sige enten er der en, eller også er der jo egentlig mange.
+
+39:26
+Det er den situation, vi er i nu. Jamen, så kig lige her.
+
+39:31
+Hvis vi laver Gauss innovation på det her Linux system, hvor mange ledende taler kan I maksimalt få pct.
+
+39:40
+De kan maksimalt få to ledende ettaller. Jamen, så er der en fri variabel krise.
+
+39:46
+Så er der endelig aflysninger.
+
+39:50
+I kan være stensikker, for der er jo egentlig var nogle løsninger, og det betyder så at dette alene ikke system er lammet af ét eller måske Finland.
+
+39:58
+Der et lam, der tog og lam, der tre har uendelig mange løsninger.
+
+40:03
+Det vil sige det ikke kun nogle løsninger. Jamen så er sættet besat, der er ikke lineært uafhængigt det lineært afhængigt.
+
+40:17
+Så hvis vi lige fra Aberdeen og flere uheld.
+
+40:24
+Det må man ikke skrive. Det vil sige sættet er lineært afhængig.
+
+40:40
+Jeg vil hellere skrive ikke ikke ligne uafhængigt.
+
+40:55
+Sådan og det er typisk sådan man griber, griber, så nåede en lærd lad os lige lave en lad os lave et et til, der måske er nemmere.
+
+41:17
+Så hvis nogen laver et sæt der hedder noget kommer ind og ind kommer en bøger om dette sæt alene.
+
+41:28
+Er du uafhængigt? Det er et uafhængigt.
+
+41:35
+Og hvor er vi henne? Vi er her, I er to og.
+
+41:46
+Bare for at minde om at vi faktisk kan løse det her uden at gøre noget som helst.
+
+41:52
+Også fordi dette her kan vi jo tænke på som geometriske vektorer gazala.
+
+41:58
+Dette ligner jo fuldstændig geometriske vektorer nul over 1 og 1 årige.
+
+42:04
+Og hvornår er to vektorer lineært uafhængige?
+
+42:09
+Det er de, når den ene ikke er parallelle med den anden. Sagt på en anden måde.
+
+42:15
+Man må ikke kunne gange den ene med et tal og få den anden. Men prøv at se, der står noget der.
+
+42:21
+Vi kan aldrig nogensinde gange den væg med noget, så der kommer til at stå.
+
+42:24
+Ingen kan se det for de to vektorer. De er helt sikkert.
+
+42:29
+Er du afhængig? Det kan vi se på dem. Men meningen er, at det skal være simpelt, så nu prøver vi at gøre det med de spilleregler, vi har her.
+
+42:37
+Ja, men igen. Vi skal kigge på den sammenligning. Det vil sige, vi siger larm der en gang.
+
+42:43
+Først vil jeg ikke. Pludselig kom der to gang den anden væg, så skal vi alligevel nulvækst ind i rummet.
+
+42:50
+Nulvækst. Det er to. Den hedder 0,0 og.
+
+42:57
+Og så skal vi tjekke, om det her lærings system kun har løsningen, hvor larm og larm der to bække to er nul.
+
+43:08
+Det er det, vi tjekker. Okay. Ja, men hvad står der her?
+
+43:14
+Her står der nul komma larm.
+
+43:17
+Der et Clowes larm, der tog komma larm.
+
+43:21
+Der tog vi med nul komma nul.
+
+43:26
+Og hvis jeg lægger dette sammen nul plus larm, der tog det larm, der tog på den anden,
+
+43:33
+hedder larm der et plus larm, der tog, så skal åbenbart være lige 0,0.
+
+43:44
+Kan vi finde ud af det? Det kan vi godt. For hvad står der?
+
+43:48
+Der står, at Lambda 2 skal være nul. Klasserne så langt 2 er 0, men så ham der pludselig om to.
+
+43:58
+Det er jo bare larm der et og. Haslum var der også være nul pct.
+
+44:07
+Det vil sige at den eneste løsning. Stakkels lam, der blev med om det tog lige med tallet 0, er den eneste løsning.
+
+44:23
+Og det vil sige de er lineært uafhængige. Som der står.
+
+44:35
+De er lineært uafhængige og kan ikke perfekt.
+
+44:41
+Så har vi dyrket det en lille smule. Nu skal vi lige prøve at slå begreberne spand og af uafhængighed sammen i begrebet basis,
+
+44:51
+og nu kommer denne lige ned her, og jeg vil bare skrive definitionen op, for så starter vi.
+
+44:57
+Lige efter pausen vil jeg kigge på nogle nogle eksempler. Så.
+
+45:11
+Et sæt ved ét med et tog op til V, K, E, hvor årets V kaldes kan kaldes en basis for V hvis.
+
+45:37
+For det første, at det skal være sådan, at sættet ved et V tog til V, K er lineært uafhængigt.
+
+46:02
+Så det er altså et sæt af vektorer fra vores vægtere, som er lineært uafhængige.
+
+46:08
+Den anden betingelse er, at vi skal have det er, at spa'en af sættet.
+
+46:22
+Det vil sige, når vi laver alle mulige linere kombinationer af vores vektorer, så får vi halve.
+
+46:36
+Så ser man den basis og. Læg lige mærke til det eksempel som vi havde lidt før.
+
+46:55
+Der så vi at la var det Spanien 0,1 og 1,0.
+
+47:06
+Det var hele to. Gevinsten det var et af eksemplerne vi lader det op med hjælp, da de to vektorer der kan man skrive alle tal fra.
+
+47:20
+Men de tog det åbenlyst lineært uafhængigt, så den basis det vil sige 0,1 og 1,0 er en basis.
+
+47:39
+For er hjernen og vi kan bare vende dem rundt, så har vi den sædvanlige vases, som vi kalder det.
+
+47:49
+Et andet eksempel. Hvis vi nu for eksempel er for eksempel der står der hvis vi lige kigger på.
+
+48:04
+Hvis jeg lige kigger her de to der er åbenbart lineært uafhængige Hermann.
+
+48:13
+Hvad skal der til for at have en basis? Hvis jeg f.eks.
+
+48:18
+Skal have er to hvor mange og hvor mange elementer skal der være i sådan en basis?
+
+48:26
+Hvad der skal være to, og grunden til det er, at man siger det kan vi så skrive herover, at dimensionen af vores vægt til år er antallet af.
+
+48:41
+Basis vektorer og det vil sige i det her tilfælde er det K.
+
+48:46
+Og det vil sige at dimensionen for vores er to her så.
+
+48:56
+Den er to et todimensionelle væk til rum, og det overrasker os jo altså ikke ret meget, vel.
+
+49:02
+Det betyder bare, at der i en plan er to retninger, man kan bevæge sig i.
+
+49:08
+Men det vi har vist herovre. Det var nu. Kan jeg ikke huske, hvad det var for nogle lektorer, jeg kiggede.
+
+49:13
+Så var det kommer 0 eller nul komma et. Det var 0,3 et og et kammer, et 0,2 og et kommer der også en basis.
+
+49:35
+For er tog, for hvis man er i todimensionelle væk til Rom, så skal man bare have to vektorer der er lineært uafhængige,
+
+49:44
+så er det en basis, for så kan man meget hurtigt argumentere for det, der også er opdelt.
+
+49:50
+Men nu holder vi en pause, og så ser vi nogle flere eksempler på det her.

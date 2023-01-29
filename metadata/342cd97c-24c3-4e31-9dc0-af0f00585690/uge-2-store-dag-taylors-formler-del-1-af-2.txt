@@ -1,0 +1,1196 @@
+0:12
+Kan være. Teorien i denne da.
+
+0:38
+Ja, så vil klangen vel se. Jeg siger lige lidt kort om, hvad den sidste gang der i sidste uge introducerede vi funktioner, er to variabler.
+
+0:52
+Og i denne her uge er sådan opstarten altså store dage.
+
+0:56
+Her er, hvor vi skal se på tale og approksimation.
+
+1:01
+Nå, men det er egentlig ikke fordi, at tællere dimensioner er det allervigtigste for det, vi skal lave,
+
+1:07
+for det er i virkeligheden max min bestemmelse, hvor funktioner af flere variable vi skal bruge denne her taler approksimation til så.
+
+1:16
+Derfor virker det altså kommer et emne i nærmere nogle symmetriske matricer.
+
+1:20
+Det er sådan lidt en sjov forelæsning, men nogle emner stikker lidt i alle retninger.
+
+1:24
+Det bliver altså samlet i næste uge, når vi skal se på Max, men bestemt som vi ikke tager det hele næste uge, så derfor kommer det starten nu.
+
+1:32
+Men på en lille dag bliver det ekstremt konkret. For da skal vi se på keglesnit, paraboler, hyperpopulære og ellipser.
+
+1:40
+Og så skal de se på deres ligninger og se, hvordan de ser ud, når en ellipse ikke bare er sådan en oval figur, der ligger langs akserne.
+
+1:50
+Men måske er der meget oppe i x y koordinatsystem. Hvad sker der med ligningen?
+
+1:54
+Så det skal vi se på hver lille dag. Det vil sige på fredag. Det er ikke så vigtigt nu.
+
+1:58
+Det, vi skal lave i dag, er i første omgang her taler. Taler i en variabler, og det er jo bare en lille repetition og så med et eksempel.
+
+2:13
+Det er sådan et eksempel, hvor jeg tager et et siger Hvorfor skal vi lave taler?
+
+2:17
+Og så prøver jeg at tage sådan et et konkret eksempel fra det.
+
+2:21
+Så fra fysik eller ingeniørvidenskab. Væk, hvor vi bruger, når vi taler på for at vise, hvad er det egentlig, vi bruger?
+
+2:27
+Det her taler en variabel til. Det godt, hvad man synes, at det er lidt åndssvagt at sidde og se på.
+
+2:31
+Man behøver ikke tage notater og ved, man kan bare tage det som en oplevelse. Det går over og efter kort tid.
+
+2:38
+Men så ser man lige, hvad det er, der ikke noget ikke skal lave til øvelserne eller noget bagefter, vel?
+
+2:44
+Det er bare en introduktion til, hvad der taler for noget. Så kommer taler i to variable, og det er sådan set hovedemnet i dag.
+
+2:52
+Og da skal vi så have lavet en form, ligesom vi har fortalt i en variabel en form til at regne sådan nogle approksimant polynomier ud.
+
+3:00
+Vi stare, at vi stopper ved funktioner af to variable og så Grade 2.
+
+3:04
+Vi går altså ikke videre, men jeg viser, hvordan I kan gå videre, hvis I har lyst. Men formlen bliver mere og mere kompliceret.
+
+3:10
+De bliver ikke sværere. De bliver bare længere, hvis man have flere variable med.
+
+3:14
+Det må vi vente, at projektet, hvis de skal se tale, er flere variable. Nu er to variable og så til sidst.
+
+3:20
+Når vi så er færdige med det, så har vi det heddet kvadratiske former. Som dybest set er Andras polynomier i flere variable,
+
+3:35
+men kun med kvadrat leddene altså ikke med første grad slider nulte raslet, så det slutter vi af med.
+
+3:42
+Så er der ikke mere i dag. Der lyder let, og det er der sådan set også.
+
+3:48
+Men alligevel, som vi også godt ved, så er det jo bliver der sikkert et eller andet.
+
+3:54
+Vi starter med tale af en variabel repetition og den første øvelse voce den dag det er netop sådan en tale i.
+
+4:03
+Hvad var det nu det drejede sig om? Jo, det var det der med, at vi havde en, der hed Tellers grænsebommene.
+
+4:14
+Og hvad vejede den, sagde den, at vi kunne skrive vores funktion, hvis den ellers var differentiabel tilstrækkelig mange gange.
+
+4:21
+Så kunne vi skrive den som en konstant, nemlig værdien af funktionen i det, vi kalder udviklings punktet.
+
+4:32
+Plus en anden konstans, nemlig den afledte værdi i udviklings punktet og så gange ex minus det da vi kaldte Udviklingsforum,
+
+4:40
+der også har videre derudaf.
+
+4:43
+Og så har vi lige taget nedslaget med et dobbelt mærke i x0 og så noget med to fakulteter og gange x minus x nul i anden også har plus.
+
+4:53
+Det kunne man blive ved med. Man kunne tage helt op til til det endda lidt altså differentierede inden gange.
+
+4:59
+Taget i Udviklingsforum, der divideret med end fakultet gange x minus x nul i endte.
+
+5:05
+Og så havde vi det her mærkelige ledte til sidst, der hed X minus x nul.
+
+5:09
+De endda gange en epsilon funktion af eksaminer 6 0. Det var grænsebommen.
+
+5:14
+Jeg ved godt, at der også hedder Tellers formen, men det er da mystiske grænseflade med med.
+
+5:19
+Ikke fordi i, at man skulle vurdere det og så videre, men det endnu er ikke så interesseret i, da det er den grænse, formen her da interesserer.
+
+5:28
+Så den siger altså, at vi kan skrive vores funktion som et integreres og så tillægge denne fejl og den fejl.
+
+5:34
+Det er en fejl, da bliver lille, når bare vi kommer tæt på udviklings punktet.
+
+5:38
+Det var hele ideen i taler form. Da skal jeg lave et eksempel mellem at komme op til øvelserne.
+
+5:45
+Det gider jeg ikke stå og lave. Her er det ikke sjovt, og sæt en funktion ind og differentieret mig.
+
+5:50
+Sætte nogle værdier ind i, hvad jeg har gjort sidste år.
+
+5:54
+Blandt andet en tema øvelser. Så hvad vil vi i stedet for at gøre her?
+
+6:01
+Lad os prøve at sige lidt om, hvad det her taler.
+
+6:03
+Hvad kan man bruge det til og er en grund til at tager det her eksempel definitivt, fordi det optræder senere hen.
+
+6:09
+Og det bliver et vigtigt eksempel, når vi kommer frem til de sidste forelæsninger i vores semestret.
+
+6:15
+Det er et eksempel fra fysik.
+
+6:20
+Vi kaldte det eksempel fra fysik. Skriv jer ikke om det fysik eller det ingeniør, men det hænger jo også sammen på en eller anden måde.
+
+6:31
+Det er i hvert fald dem, der har geofysik. Det har noget med ved verdensrummet at gøre det her så.
+
+6:38
+Eller i hvert fald vores verdensrum. Se.
+
+6:43
+Hvis vi forestiller os her. Det er bare et eksempel på, hvordan bruger man egentlig taler?
+
+6:47
+Hvorfor er det vigtigt for en ingeniør at have have taler her i jorden? Den har en eller anden radius, og den har en eller anden stor masse.
+
+6:55
+Herude har vi en sten. Vi har tænkt os at slippe og lade falde til jorden eller en lille masse, der har en lille højde over jordoverfladen der.
+
+7:07
+Se. Den besidder jo sådan en sten, da den besidder noget potentiel energi og potentiel energi,
+
+7:16
+der har vi lært af dagen, er den formen, der siger hvor måtte være den? Den potentielle energi for sådan steg vi har løftet et stykke væk fra jorden.
+
+7:23
+Den er endnu engang g gange h hvor hovedet højt over jorden.
+
+7:27
+Har I set mange gange den, der er formet med gæller? Hvor godt gælder den egentlig?
+
+7:31
+For det er jo ikke rigtig til valg. Det er jo ikke sådan en en formel.
+
+7:35
+Den står måske i nogle bøger, men vi ved også allesammen godt, at det er lidt noget sludder, og ikke fordi,
+
+7:40
+at det svarer lidt til, at den kraft, vi hvis vi trækker i den her, der skulle være konstant, og det er den jo ikke.
+
+7:47
+Den bliver mindre og mindre, jo længere vi kommer væk.
+
+7:49
+Så lad os prøve at se på, hvad hvad jeg egentlig var for dårlige eller approksimation eller gode.
+
+7:53
+Er denne situation egentlig? Og da bruge to ting.
+
+7:58
+Og grunden til at jeg ikke gider tage et eksempel det hele kommer igen senere.
+
+8:02
+Vi har noget der hedder en kraft mellem de to objekter, og den kender et DNA med stor.
+
+8:07
+Det ender med store G, som hedder Gram Stationsforstander, den lille EM gange store EM og så delt med afstanden ud til den dér i anden.
+
+8:16
+Så den afstand, der er fra Jordens centrum og ud til den, der er det den, der kalder lille, er her.
+
+8:20
+Og så har vi massen af et tog, og så har vi den der gravitation konstant.
+
+8:24
+Så ved vi også godt, at det giver et potentiale, der hedder minus og så g m lille m over er.
+
+8:31
+Det betyder altså, at den potentielle energi, der er beskrevet ved dette systems habitat,
+
+8:35
+hvis vi fortsatte massen, var herinde, jeg trækker nu ud af eksisterer den potentielle energi.
+
+8:39
+Den er givet ved det her udtryk her, og vi kan godt se, at vi til at differentiere dette udtryk, så får jeg den her.
+
+8:46
+Og det er jo bare fordi, at det altid er en stram funktion til kraft. Systemet er så de to ting.
+
+8:51
+Det kender vi fra fysik. Det har jeg sikkert set i gymnasiet. Og så så dem.
+
+8:56
+Dem er i sådan lidt familiær. Hvis I ikke ved det, så er det også lige meget det, vi gør nu.
+
+9:03
+Eksempler Ikke ret langt. Det skal ikke være nervøs. Det vi gør nu, det er bare, at vi siger Jamen, det her potentiale her.
+
+9:12
+Det her frontalt har Hersom været min norske kaffe lille andel med stor over.
+
+9:19
+Jeg kunne godt tænke mig. Vi kan jo vælge vores nulpunkt, for potentielle gibber er vel det, vi vil gerne have bliver nul ved jordoverfladen.
+
+9:25
+Det vil sige, at det er altså, når hår er nul. Hvornår har H nul æren og Lille er lig med stor er.
+
+9:32
+Så jeg lægger lige et lærred til heroppe, som ser sådan her ud.
+
+9:36
+Sådan da.
+
+9:37
+Så er jeg sådan set færdig, for når Lille bliver store, så bliver dette udtryk nul, og det er altså et udtryk for min potentielle energi der.
+
+9:46
+Og så laver vi lige lidt om på dette udtryk her, fordi lad os prøve at skrive det på en lidt anden måde.
+
+9:52
+Vi kan jo skrive det her udtryk som g lille m stor m.
+
+9:56
+Den fælles konstant, der står hér. Vi kan også tage et er med udenfor her.
+
+10:00
+Det er der ikke herovre. Hvad hedder det umiddelbart så, Sadats?
+
+10:05
+Det vil sige, at her får vi så et et tal. Hvad får vi herover, der står som min ohmske M?
+
+10:10
+Og så har vi noget, der står hernede. Et lille er her, og det lille er her.
+
+10:15
+Det vil jeg lige til at viske ud og skrive om. Store er plusord, for det er jo egentlig afstanden ud her.
+
+10:21
+Så kan jeg sætte et store er med ud foran min parantes. Hvad får jeg tilbage fra det udtryk, der står her?
+
+10:27
+Jeg får simpelthen et udtryk, der hedder 1 divideret med 1 plus h og store er.
+
+10:34
+Som det. Sådan ser det ud.
+
+10:40
+Det milde udtryk for min potentielle energi.
+
+10:45
+Så siger jeg Okay, lad os kigge på den her. Den der står der.
+
+10:49
+Det er dér, variationen er. Det er der håb står. Så lad os i stedet for at betragte det som en funktion en divideret med en +6.
+
+11:01
+Så kan jeg tale udviklet denne her funktion. Det kan jeg gøre til første orden. Det er så en minus ex.
+
+11:07
+Jeg bruger min formel herovre. Jeg gider ikke stå og gøre det. Jeg har gjort det.
+
+11:11
+Det er bare et spørgsmål om at sætte en Udviklingsforum nul. Så får jeg det her.
+
+11:16
+Plus Der bliver selvfølgelig meget mere.
+
+11:17
+Der bliver ikke sige andet, når der bliver minus exit, tredje og plus og én og en rest funktion, så gør jeg det, som man tit gør.
+
+11:25
+Jeg smider alt det der væk. Siger.
+
+11:28
+Det er småt set i forhold til, hvad vi nu har med at gøre, og så erstatter jeg altså den der står der med det, der står dér.
+
+11:37
+Alt i alt, så får jeg den her konstant g m store m over er.
+
+11:44
+Og så får jeg herinde. Det jeg får tilbage, han er en minus.
+
+11:50
+Og så for at være den, der står der. Det var egentlig ikke det, jeg selv som en Minos eksisteret for en minus æg.
+
+11:57
+Hvad var ex? Det var min H. Og så har jeg sådan set færdig for nu.
+
+12:04
+Nu har jeg fået det jeg gerne vil. Det m store m her er dette et tal.
+
+12:10
+Dette er et tal minus minus bliver til plus. Det kan vi sætte herud, og så får vi to at se.
+
+12:17
+Hvis vi så siger, at G. Gang en stor EM del er hjernen, det er vores sædvanlige tyngde acceleration g.
+
+12:23
+Det er den natur konstant, der består af de tre sejre et EM. Og så har jeg et håb her.
+
+12:28
+Så får jeg formen. Vi plejer at bruge. Hvad er så, og hvorfor vælge vist her?
+
+12:35
+Jo, fordi nu kommer så forklaringen. Hvor god en rar situation er det?
+
+12:40
+Ja, vi kan jo prøve at se på den approksimation, vi egentlig har lavet. Hvad er det for en funktion, vi i stedet for har skrevet som det herover?
+
+12:47
+Ja, den er en divideret med en +6, så nu er proklamerer vi altså.
+
+12:53
+Vi har denne funktion, og den ser nogenlunde sådan her ud.
+
+13:01
+Den går her. Det er sådan, men bare vil vi prøve at charmere den med tangenten.
+
+13:08
+Så hvor god er vores, og som man så egentlig er, jo sådan en krum funktion her.
+
+13:11
+Men vi er på charmerende med tangenten, så det kommer helt an på, hvor langt vi går væk fra tangenten.
+
+13:18
+Så er det hele. Ideen i dette er Hvor god er vores situation?
+
+13:22
+Ja, det kommer an på, hvor stor håret er.
+
+13:24
+Det kommer an på, hvor stor hård over er, den er, og hvis den er meget lille, så er vi tæt inde omkring trekanten.
+
+13:32
+Hvis den er bliver større, så bliver det en dårligere version.
+
+13:36
+Hvad kunne man så gøre? Ja, man kunne tage nogle flere led med Acs hjerne.
+
+13:40
+Minus seks. Tredje +6 fjerde er der ud af. Man kunne også sige han kunne jo bruge det rigtige udtryk.
+
+13:47
+Det har vi faktisk lånt af. Det er ikke fordi det er vildt kompliceret, men for en computer er det lidt kompliceret.
+
+13:51
+Og for videre teoretiske udledninger. Og så er det meget, meget nemmere at bruge denne her form.
+
+13:58
+Men denne her, der siger sig noget om, hvor stor fejlen vi begår?
+
+14:01
+Ja, den er jo simpelt hen så stor, som forskellen er på den her graf og tangenten hér.
+
+14:07
+Så det var et kort eksempel lidt længere, end jeg måske ikke lige troede, det ville blive.
+
+14:11
+Men det var et godt eksempel på at sige Hvad taler for noget? Hvor bruger vi, taler han.
+
+14:15
+Der kommer ingen øvelser med. Det kommer ikke noget til eksamen. Så glem det igen.
+
+14:19
+Nu går vi så til dagens rigtige lektie her, fordi hvad var det, vi skulle stå på Panopto.
+
+14:28
+Der stod taler i to variable som lær.
+
+14:40
+Og hvad er taler i to variable? For det første. Lad os sige, at.
+
+14:48
+Vi ønsker at mere.
+
+14:56
+En funktion. Og lad os bare sige en glat funktion kommer tilbage til hvad der.
+
+15:04
+Med et polynomium.
+
+15:14
+A. Grad.
+
+15:19
+Jeg vil skrive højst to. Hvorfor skriver jeg så lidt kryptisk?
+
+15:25
+Ja, det gør jeg fordi, at når vi prøver at optimere vores funktion med et andelsboliglån, så kan vi sagtens være i den situation,
+
+15:31
+at alle angår ledernes kundecenter må være nul, og så er det jo ikke deres fulde nummer,
+
+15:35
+så derfor skriver jeg den lidt sjov med at tænke på det som et angreb logo.
+
+15:39
+Hvorfor skal jeg glatter det magisk, skriver jeg, fordi vi vil differentiere vores funktion, og det skal vi, når vi laver det her.
+
+15:46
+Så hvis funktionen er glat, så betyder det, at vi kan differentiere det ligeså mange gange, vi gider.
+
+15:51
+Og differentialkvotienten er kontinuert. Det betyder, at hvis jeg skriver,
+
+15:55
+glatter jeg nu pludselig vil lave en tællere vaccination til tredje orden eller fjerderunde sig med til et lidt tredje fjerdeplads.
+
+16:03
+Så behøver jeg ikke at sige mere, for fusion af klasser kan være lige så tosset, jeg har lyst til, men kun 10 procent fem gange, syv gange 100 gang.
+
+16:10
+Og den afledte af den er kontinuert. Det er det, vi mener med en glat funktion, så når jeg skriver dette, så er det egentlig ikke nødvendigt,
+
+16:17
+fordi jeg får kun behov for at differentiere mine funktioner op til grad 2. Men nu har vi sagt det, som det gør endnu.
+
+16:23
+Derfor gør jeg det også. Vi kunne godt have skrevet her, at vi kunne nøjes med at forlange de principielle set af orden to er.
+
+16:33
+Aller eller. Eller hvad hedder det to gange differentiabel, hvis bybil godt nok.
+
+16:38
+Hvad er så meningen nu? Det er jo at vi vil se på kunne vi lave en et polynomium af grad?
+
+16:45
+2. Altså en vi kalder her? P. Ja, der står i endnu der P2 og ex.
+
+16:51
+Jeg tror faktisk at vi gør skrive det på to af ex Karmøy. Og hvordan skal det ændres boliglånet?
+
+16:57
+Om her så ser ud? Ja, det skal jo være et polonium.
+
+17:01
+Det mest generelle vi kan finde på. Der skal være et konstant lad. Der skal være et første grads led i X.
+
+17:11
+Der skal være et første grads led i Y.
+
+17:15
+Det skriver det på en lidt speciel måde i sigte af at skrive de der x0 og her det er bare konstante.
+
+17:20
+Og så er der det er denne her det afgørende. Der skal være et andet sted i X.
+
+17:28
+Og der skal være et andet der led i ny, og der skal være et blandet led i Eksjö.
+
+17:44
+Sådan det. Hvis jeg slår det op. Og ganger alt det der ud, så får jeg præcis et udtryk, som er det mest generelle jeg kan finde på.
+
+17:54
+Det inkluderer samtlige angrebsmål nummer i to variabler. Hvorfor skriver jeg det på denne her lidt mærkelige måde?
+
+18:01
+Det gør jeg, fordi lige om lidt skal vi jo til at bestemme hvordan? Hvordan skal af være, og hvordan skal Ben være her?
+
+18:07
+Better det tog, vasker hoverende være. Hvilket tal skal de være for at dette polynomium, der står her, er på auktioneret funktionen godt eller bedst?
+
+18:16
+Fidusen er, at vi ser på en ny funktion. Vi siger vores rigtige funktion, som jo ikke er noget polynomium.
+
+18:24
+Det kunne det være, men som generelt ikke er der.
+
+18:28
+Kan jeg så skrives som det her Andras polynomium. Plus en fejl.
+
+18:39
+Fordi. Fejlen der.
+
+18:44
+Det er jo lige præcis det der gør, at vi kan sættes lighedstegn over til funktionen,
+
+18:47
+for hvis funktionen ikke er et polynomium, så kan der jo ikke være lig på lånet.
+
+18:52
+Men det kan godt være, vi selv tillægger det her fejlet, som er intet ved om endnu andet end at blive selvføgelig,
+
+18:57
+gerne sørge for, at det er så lille som muligt, hvis approksimation skal være god. Navnet forvandt tavlen forkert.
+
+19:11
+Kan vi godt lide eller anden, står der. Væk var lige 10 sekunder.
+
+19:19
+Se hvad vil det sige at fejle ledet af Lille. Det vil sige at hvis nu lige skruer op hvad det er vores fejlede dog.
+
+19:29
+Ja, hvad er fejlede her? Det er jo givet som vores funktion minus vores polynomier er bare rykket polynomiet over til funktionen.
+
+19:45
+Fejlede. Hvis det skal være småt, så må der vel gælde er det det punkt vi kalder udviklings punktet.
+
+19:53
+Dette punkt galleri har introduceret ved at skrive nogle x0 og i nul er der et punkt som er dér,
+
+19:59
+hvor vi vil have dem til at passe bedst muligt der hvor vi starter ud fra.
+
+20:04
+Det må der gælde at der skal. Denne fejl simpelt hen være noget der skal passe fuldstændig til Udviklingsforum.
+
+20:14
+Hvad skal der mere gælde der skal gælde at i Udviklingsforum. Det skal vores skare.
+
+20:19
+Det er jo en graf er to variabel, den der fejl funktion der. Der skal være så flad som mulig.
+
+20:25
+Så tæt på nul som overhovedet muligt i lille omegn omkring udviklings punkter.
+
+20:30
+Det må betyde at det er afledt af fejl funktionen.
+
+20:36
+Skal være nul. Det betyder jo, at hvis i afledt af nul husk på de afledte de indgår i den normalvægt, så i virkeligheden så består en normalvægt.
+
+20:54
+Hvad hedder det nu til en grafen for denne her fejl funktion, som består af normalvægt sig til tangent?
+
+20:59
+Planen hedder jo den afledte med hensyn til eksterne afledte med en Sydthy komme ind eller minus.
+
+21:05
+De afledte kommer ind, så hvis denne her normalvægtig skal være. Lodret.
+
+21:11
+Så skal de afledte være nul. Det betyder at den har valgret tangent plan i nul.
+
+21:17
+Den her fejl funktion. Der skal være helt flad.
+
+21:22
+Alle allerhelst vil vi jo have den var konstant nul på hele planen. Så passede tingene spot on.
+
+21:27
+Så var vores fusion i andet, der skulle lugter. Men det kan vi ikke forlange. Vi kan i hvert fald forlange.
+
+21:31
+Der skal også have vandrør. Tangent planet nul.
+
+21:33
+Der skal ikke bare værdien nul skal ikke bare kom skærerne ned gennem nul, der skal simpelthen blive flad ned med nul.
+
+21:38
+Der skal også gælde, at vi forlanger, at alle andre afledte også skal være nul i Udviklingsforum.
+
+21:44
+For hvis jeg differentierer den to gange med hensyn til extend, så skal det også være noget.
+
+21:50
+Og hvis de resterende to gange.
+
+21:52
+Med hensyn til by i Udviklingsforum, så skal det også være en altså simpel, altså flad struktur som overhovedet muligt.
+
+21:59
+Og den sidste hvis jeg tager en blandet afledte, er fejl fusion i udviklings punkter, så køres vandet.
+
+22:09
+Sådan der, ligesom vi gjorde da vi lavede taler en variabel dette.
+
+22:14
+Det giver os faktisk det vi skal bruge.
+
+22:16
+Det er nok det her til, at vi kan blive færdig, fordi nu vil vi så prøve at sige Hvad giver den første betingelse her?
+
+22:25
+Ja, den første betingelse er, at den skal være 0 i udviklings punktet Hvad medfører det?
+
+22:34
+Jeg vil gå og kigge på det, hvis jeg sætter udviklings punkter ind i mit Peto her.
+
+22:38
+Så kan jeg godt se, så står der. P2 er ikke 0,0. Alt bliver stående.
+
+22:44
+B. H Den ganger vi med nul, når vi sætter ekslibris nul, der selvfølgelig nul, så ganger vi med 0 0, 0 0.
+
+22:54
+Alt bliver nul på nærighed. Så denne her funktion, som jo i virkeligheden er f.ex.
+
+23:01
+Nul komma y nul. Minus.
+
+23:08
+Der p2 af x0 kommer øen nul, der skal være nul.
+
+23:14
+Det er rest funktion der og hvad? Og hvad er dette det samme som at sige?
+
+23:18
+Det er det samme som at sige at f. A. Eks. Nul komma nul minus det.
+
+23:23
+Dersom bagvejen a skal være nul og færdig, så skal af være f a x0 kommer i lort til.
+
+23:31
+Nu kunne jeg jo så give mig til at udelade samtlige koefficienter. Det ville nok være lidt kedeligt at sidde og kigge på.
+
+23:38
+Også en bedre øvelse at lave selv hvis man vil se det. Men vi tager lige en til.
+
+23:43
+Lad os tage den dermed af mærket, ekspanderede den os frem til at mærke.
+
+23:48
+Ex. I x0 komme i nul. Han skal være nul.
+
+23:54
+Og hvad giver det? Det giver så, at hvis vi sætter ind i vores ræst funktion er at f.
+
+24:01
+Eks. Nul til vi starter med den her. Funktion der står der Så differentierer vi den med hensyn til ex.
+
+24:09
+Så skal også diskutere den med hensyn til og den med hensyn tekst.
+
+24:12
+Hvis vi differentierer denne her med hensyn til ex, så får jeg denne her og så for her minus.
+
+24:19
+Og så skal jeg så differentiere P2 mærke med hensyn til ex.
+
+24:25
+Ligesom nær. Og så i x0 komme lort. Og så er det jo derfor jeg lige stod et øjeblik der vækker min lagde mærke til, og så skal jeg kalde den DR P2.
+
+24:34
+Jeg er ikke så glade for det, for nu bliver man notationen for det.
+
+24:38
+Det er P2, det er funktionen, og så de passer den med hensyn til ikke. Man skal passe lidt på, at det ikke giver forvirring.
+
+24:45
+Men den kan ikke gøre så meget ved. Der står så f.
+
+24:49
+Mærke eks i x0 kommer i nul og så skal jeg have differentierede Minos.
+
+24:55
+Så skal jeg have differentierede den der der hedder P2. Og der skal differentieres med hensyn til ex.
+
+25:02
+Og så. Var der engang en pegepind, men det er der vist ikke mere af.
+
+25:09
+Jo. Nej, det har det ikke skidt med det. Se hvis jeg skal differentiere denne op med hensyn til x ade.
+
+25:19
+Det forsvinder billedet. Det hvad sker der når de ser det der med hensyn til ex.
+
+25:24
+Alt der bliver tilbage er at bede ét for ét gang i x0 er en konstant.
+
+25:28
+Det forsvinder så derfor et bet. Det bliver nul. Det afhænger af ex.
+
+25:33
+Dette er der kommer et totalt ned foran sig, så 2. På et ét og så står der ex minus 6 0.
+
+25:41
+Den der forsvinder og den er derfor der sker det, at den bliver hård et 2 gange i minuttet nul.
+
+25:48
+Men det var ikke det jeg skulle finde.
+
+25:50
+Jeg skulle, de marcherer med hensyn til AK's, og så blev jeg selv udviklingsforum med en viden, så dette er vi havde.
+
+25:56
+Der var jo stadigvæk et Ymir til vi vi nul. Der var jo stadigvæk et eksaminere 6:0 for totalt at komme ned foran.
+
+26:02
+Det bliver også nul. Det var nul, og den det var det eneste der er tilbage.
+
+26:05
+Så bliver kun b et. Og så har vi altså dette at bede et dansk såvel som et mærke af ex nul komma y nul.
+
+26:24
+Så vi. Så er vi næsten ved at være der, skal vi tage en aller sidste.
+
+26:28
+Der kan lige stå en hær. Vi kunne sige hvad med et dobbelt mærke af X6?
+
+26:33
+Hvad giver denne oplysning? I x0 kommer i nul.
+
+26:38
+Nej, når der er dobbelt mærke.
+
+26:43
+Med hensyn til sex.
+
+26:44
+Den skal også være nul, og det betyder så at f dobbelt mærke ex i x0 kommer i nul minus og sker sig fint polynomiet differentierede to gange.
+
+26:57
+Med hensyn til sex i x0 kommer i nul. Ja, hvad er den?
+
+27:04
+Ja, det er jo så, der skal være nulvækst, og det giver os. Hvad med den, der står her på det nummer?
+
+27:10
+Differentieret to gange. Alt synes jeg ikke. Hvad bliver det? Der bliver faktisk ret let.
+
+27:16
+Det er en konstant der bliver nul den dag den bliver nul.
+
+27:19
+For hvis vi deporterede to gange med hensyn til sex først én gang, så bliver det BJ og en og til nul nul.
+
+27:25
+Det afhænger ikke stande, der rydder totalt ned foran. Og så er der to høje et gang jeg ikke smider 6:0 de seedninger til.
+
+27:32
+Så får jeg bare to høje et. Nul og den der bliver også noget af det første ræs på nulvækst fra Céret to gange.
+
+27:39
+Så her får jeg altså ud fra det. Der får jeg så, at den, der står dér, dem bliver to på et.
+
+27:49
+Og så har jeg så det på et ét, sagde jeg så lige med.
+
+27:55
+Den der står der. Med to.
+
+28:04
+Så nu har jeg allerede fundet tre skolecenter. Resten kører efter samme melodi.
+
+28:08
+Så det er meget let at finde resten. Og det gør vi nu, og så skriver vi det op.
+
+28:13
+En pænt formet lok. Se formlen for P2 her ex.
+
+28:36
+I sku ha en formand for det er funktionærerne anden grads polynomium.
+
+28:53
+Af grad. Højst. Nej, jeg elsker.
+
+29:00
+Med udviklingsfond x0, Germany nul er så simpel en form er der egentlig her.
+
+29:16
+P2 er x kommer y. Vi fandt ud af at den der hed en a før i formen laver.
+
+29:24
+Det var f.ex. 0,0. Den der hed B.S.
+
+29:29
+Det var af mærket ex i x 0,0 gang jeg ikke smiler 6:0.
+
+29:35
+Den der hed 2 fandt vi ikke, men asymmetri årsager, så tror jeg godt de kan se at der må være et mærke y der x0 kommer i nul.
+
+29:44
+Tango y Vinos y Nul. Så har vi i første grad slæderne den da den kender vi fra sidst.
+
+29:53
+For det er jo charmerende første græspollen. Den tog vi faktisk ud fra det fra Benitez betingelsen må vi træde ind igen.
+
+29:59
+Plus så havde vi den der hul hed på et ét, og den hed en halv f dobbelt mærke X6 i x nul komma nul grand ex minus 6 0.
+
+30:11
+I anden asymmetri årsager, som var det næste led, hed det samme, men differentieret håndterede med hensyn til øl.
+
+30:26
+Og her plus han bliver helt træt. Den blandede afledte.
+
+30:39
+Sådan er Duque, og der er ikke en hal foran den, og det kan man så tænke lidt over.
+
+30:44
+Hvorfor er der ikke en hal for dem? Det har jeg måske allerede gennemskuet ud fra den måde, vi fandt dem på her.
+
+30:50
+Sådan ser det ud. Og nedenunder kan vi skrive en sætning mere op.
+
+30:58
+Nemlig en fuldstændig pendant til den der står på tavlen, da han nemlig Tellers grænsebommene.
+
+31:13
+For funktioner. To af dem.
+
+31:25
+Og igen. Vi må have lige betingelser for glat. Det er betingelsen f er glat.
+
+31:31
+Det er ikke nødvendigt. Vi kunne sige efter to gange differentierer dem med conceptual afledt.
+
+31:35
+Det er nok. Civile er for glat, fordi det vil få brug for.
+
+31:40
+Så vil jeg sige, at her var altså noget den siger så, at derfor er jeg ikke Karmøy.
+
+31:46
+Altså vores funktion kan skrives som det der polynomium vi lige har fundet under plus.
+
+31:54
+Ro i hjernen. Gange en Athlon funktion.
+
+31:59
+Altså to variable skulle skrive lidt danner ud. Og i andet kender vi afstands funktion fra sidst.
+
+32:06
+Og så her epsilon i eksaminer 6 nul komma y mindre genert.
+
+32:13
+Vi får ikke rigtig brug for denne her grænsebomme, så derfor behøver vi ikke at diskutere den.
+
+32:18
+Så meget den siger, er jo at sige, at funktionen her den tæt, meget tæt på nul kommer i nul.
+
+32:28
+Der bliver funktionen her tæt på polynomiet da den siger og siger, den bliver så tæt,
+
+32:33
+at selv om vi dividere ud med ro i anden det sidste her, så går det stadig mod nul.
+
+32:38
+Når jeg ikke kommer i med eller ikke kommer i Stoller, I kommer eller.
+
+32:44
+Så det er simpelthen konklusionen på det, der står på alle de tavler her.
+
+32:48
+Det er den, der står der, og som jeg også kan se, så er det jo ikke ret svært det her.
+
+32:57
+Det er bare et spørgsmål om at starte fra en ende af finde alle de,
+
+32:59
+der er parat til at aflægge døre, og så få sat dem ind, sat punktet ind og så regne ud.
+
+33:05
+Der selvfølgelig rigtig stor mulighed for regnefejl, når man skal så meget ud, som det er.
+
+33:10
+Men heldigvis hvis man ikke lige sidder til ugens test eller et eller andet, så er der jo også en EM taler kommando i Mabel, som klarer det hele.
+
+33:19
+Hvis man vil bruge den. Men jeg anbefaler ikke Mabel, før man ligesom har prøvet at forstå, hvad foregår.
+
+33:25
+Der er det, der bare har den i Mabel, og så få den til at rode rundt med det. Det er ligesom da man misser noget af det.
+
+33:31
+Der er noget, man ikke forstår, og det opdager man, når man prøver at holde i hånd. Men man gider ikke gøre det 100 gange i hånden, og man kan det.
+
+33:37
+Så bruger man Mabel derefter. Ja, måske se.
+
+33:44
+Det allerværste er nu, at det. Der er tradition for at skrive det på en anden måde, så det der kommer nu, er der ingen ny information i.
+
+33:56
+Det er simpelthen den samme formel at skrive op på en lidt anden måde. I SE.
+
+34:10
+Så ny notation. Og måske er der lidt tradition for efterhånden at vi kalder den matrix form.
+
+34:35
+Rygter er efterhånden et rigtig. Jeg tror ikke han hedder i virkeligheden, men det kalder vi den her form af et.
+
+34:47
+Så nu skriver den samme formel op, men på en lidt anden måde og se.
+
+34:52
+For at gøre det, så er defineret nogle ting. Den første er den kender vi nemlig gradient den for en funktion i x nul komma nul,
+
+35:05
+som jo simpelt hen bare er de partielle afledte med hensyn til funktion samlet i en vektor.
+
+35:18
+Det var garneret. Det skal du dog når det er gratis.
+
+35:22
+Enten så skal vi bruge en anden leder som matricen.
+
+35:33
+At se helse matricen kommer til at både gøre hele sommeren prisen på næste mandag, der kommer til at spille en afgørende rolle for dem, vi skal lave.
+
+35:40
+Så det er ikke spild af tid lige at se dem. Der kan vi kalde H er ikke kommet i.
+
+35:46
+På x0 kom i nul. Den er defineret som en matrix og Eniig matricen hér.
+
+35:52
+Der står simpelt hen f mærke ex.
+
+35:56
+Ex i ex. Nul komma nul. Og så her EF dommen mærket x y i x nul komma nul.
+
+36:08
+Og hermed står et dobbelt mærke x y i x nul, komma nul og så stort f dobbelt mærke y y i x0 kom i nul.
+
+36:23
+Det er heste matricen, den der, så kan man sige hvorfor har du skrevet ikke syg her og ikke y excesser?
+
+36:30
+Men lad os se det samme, så den der, der står der, er altid den samme som den, der står der, fordi de blandede afledte.
+
+36:36
+Her er den samme, uanset hvad vej vi differentierer, og det betyder også, at denne matrix helse matricen her er en symmetrisk matrix.
+
+36:44
+Astana lige sin egen transponeret. Når kan vi bruge det til noget.
+
+36:51
+Lad os prøve at se, hvis vi går herover til vores formel.
+
+36:55
+Vi havde lavet den, der står her kan vi nu skrive denne form ved hjælp af de ting, jeg har lavet herovre.
+
+37:02
+Og svaret er ja, det kan vi godt. Så det vi gør nu er, at vi prøver at omskrive alt det, der står derovre til det her.
+
+37:15
+Så jeg tror jeg har en ny tavle det fylder lidt. Undersøgelser I dag skal de selvfølgelig lave det her på begge former.
+
+37:31
+Altså først på matrix form eller først på den traditionelle form går altså på matrix form, så det giver god mening lige.
+
+37:38
+Og set. Se hvad, siger formanden.
+
+37:43
+Aldersgrænse Homeland siger f.ex. F.ex kommer I alle lige med f.
+
+37:47
+Eks. Nul komma y nul plus.
+
+37:54
+Det var det første jeg har skrevet opdager de to for det første led på højresiden har jeg stået op.
+
+37:59
+Den der står der. De to næste led. Dem samler jeg i et nyt lade, nemlig det, der ser sådan her ud.
+
+38:10
+Gradient F i x0 kommer i nul gange en matrix der hedder ex minus ex nul,
+
+38:20
+og sagde at γ minder synet og ganger dette her sammen med den der gange første koordinaten i i karrieren.
+
+38:28
+Plus den der gange anden koordinat der så det der står her i det her.
+
+38:32
+Det dækker de to næste led M1 grænsebom med over. Plus en halv.
+
+38:42
+Skriv Er her. Og så skal jeg have de næste derovre I har det ord.
+
+38:48
+Og hvad er det for nogle? Jeg har det lidt sværere, ikke for det har vi slet ikke sige andet på.
+
+38:53
+Men at sætte skal vi skrive på en lidt anden måde. Så skriver vi den væg, som allerede har opereret med den.
+
+38:58
+Skriver Her nu som en række Matrix'. Og så her der kommer min heste matrix for vores funktion.
+
+39:15
+Også her garnet med søjle, matricen agern og x minus x0 og gange YB min Luchino.
+
+39:24
+Hvis vi ganger alt dette ud. Hvis jeg har selvom min matrikel her min helse med 3XN her to gange 2 matrix,
+
+39:31
+så står der ganger inde i denne søjle væg, så det svarer til at man ganger den første søjle i den.
+
+39:36
+Det om med denne her og anden søjle med den og så bagefter ganger ind på denne her, og så ganger hele molevitten med en halv.
+
+39:44
+Ja. Ja, det kommer nu.
+
+39:57
+Altså det det er det bare, som man så i den definition. Der kan man stille op, og så tænker du om hvor, for det herover har vi jo en hal foran.
+
+40:06
+Så har vi en hal foran det, dette leder ikke det her. Men vi har ikke en hal foran det her.
+
+40:11
+Hvad? Man bruger senere i ganger alt her ud.
+
+40:16
+Jeg vil se om jeg skal gøre det. Det er altså let, når stationsplads bliver lidt noget rod.
+
+40:19
+Jeg vil meget gerne gøre det i pausen, men denne gang er denne her en.
+
+40:24
+Så ganger jeg den 1 x minus 6 0 ind på hver af dem der og minus nul én på hver af dem, der ligger det sammen.
+
+40:32
+Så man kan sige, så prikker jeg det ind på denne vækst og ganger dem på denne række væk, så han står her.
+
+40:37
+Så får jeg nogle. Jeg får ét med x minus seks nordlige anden.
+
+40:41
+Folk led med Ymir til nul jern. Men jeg får to led med x minus 6 0 gang, ydmygelse, nul og et andet led med en enkelt gang i minus nul.
+
+40:50
+De to led bliver ens. Der står en halv foran begge 2 og lægger dem sammen.
+
+40:54
+Så fra en helt. Og så blev jeg præcis den form af stolthed. Ja til.
+
+41:13
+Ja, det var der vi gjorde, og så fandt vi ud af de center for at få lov med det det rigtige.
+
+41:17
+Det er dem her. Men Hæsum matricen, den er defineret fuldstændig uafhængig af det.
+
+41:24
+Hvad er det ikke endnu en? Hvis vi tager det i pausen, skal der kommer noget godt.
+
+41:40
+Så hvis vi kan holde det ud, så får vi det samme, som du står der.
+
+41:43
+Og denne her, der hedder så helse matricen hér eller den hedder Tellers grænsebomme på matrix form.
+
+41:50
+Se en af idéerne med det, vi skal lave i næste gang eller i næste uge, er, at de punkter, der interesserer os, der, skal finde lokal magt sammen.
+
+41:59
+Det er der, hvor der er valgt meget tangent. Og det betyder altså, at når der er vandrør tangent, så er gradient jo nul.
+
+42:10
+Da gradient er nul, så forsvinder hele læsset her. Og så kan vi altså approksimant tvivl omkring de der lokale maksimum og lokale minimum.
+
+42:18
+Vi har på grafen. Der kan vi skrive vores funktion som værdien i det punkt plus et andet grads udtryk.
+
+42:28
+Det vil sige at approksimant aut,
+
+42:30
+så vil vores funktion bestå af et konstant led de let forsvinder og de har lavet til sidst, altså et andelsboliglån hjem i.
+
+42:40
+Ja. Jo, du har ret.
+
+42:50
+Jeg har ikke skrevet. Jeg har ikke skrevet, du har ret. Jeg var ikke skrevet sidste. Det gør vi.
+
+42:56
+Plus ro i anden gang efter, for det er rigtigt.
+
+43:00
+Se er Proxima. Så kan vi altså skrive vores funktion, pånær at det der smøleri som et andet grads udtryk.
+
+43:12
+Det betyder, at vi skal op til øvelserne i dag og kommer til opgave 4.
+
+43:16
+Der er lige en indledning, en mærkelig opgave at komme ind. Vi får ikke rigtig forklaringen i dag.
+
+43:22
+Den bygger op til næste uge. Men det skal sige det.
+
+43:25
+Jeg siger okay, hvis jeg har vandrør tangent i et eller andet punkt.
+
+43:30
+Sådan et punkt, hvor der er meget tangent blandt de kalder vi stationært punkt. Hvis vi er i et punkt, så bliver den nul.
+
+43:36
+Så kan vi i stedet for vores funktion se på dette angrebets udtryk.
+
+43:41
+Sådan et Andrades udtryk. Det er jo typisk sådan en paranoid.
+
+43:47
+Altså enten en der går sådan her eller ind der går sådan her, det er ikke altid sådan.
+
+43:52
+Desværre, for vi kan også være i en situation faktisk,
+
+43:55
+hvor vores udtryk her ikke består af sådan nogle kvadratiske led, fordi det ene bliver negativt.
+
+44:03
+Så hvis nu er den ene ene af de her to udtryk her bliver negativ.
+
+44:09
+Så er det faktisk sådan en sadi. Så det er altså noget, der går op til den ene side blandt og ned i den anden side.
+
+44:14
+Det kalder vi en sadel, fordi den går hen over sådan en kamel. Sadel, Filipstad eller centrum.
+
+44:20
+Det ved jeg ikke. Der er to pukler ikke, og så går den op, og så går den ned.
+
+44:23
+Og hvis man sidder lige dér, så har vi det, der svarer til de funktioner, et par en venlig tanke kan sætte.
+
+44:29
+Der er hverken maksimum eller minimum. Får vi en sadel? Alt det her.
+
+44:34
+Det er hele emnet fra næste mandag. Det vil ikke sige så meget om. Det er kun fordi der er den der åndssvage opgave.
+
+44:39
+4 i dag, at der er kommet ind pause. Jeg ved ikke, hvorfor den kommer i konflikt med næste år, så.
+
+44:45
+Så der ligesom blander lidt af tingene her. Men okay. Det vil jeg ikke sige mere til nu før jeres klasselærer.
+
+44:51
+Nu har jeg nævnt, det nu skal være et eksempel. Og det kan vi lige nu og ikke starte på det.
+
+44:57
+Men vi må starte på det, og så tager vi pausen. Så.
+
+45:06
+Hvad skal vores eksempel være? Men. Ja, det gider.
+
+45:15
+Altså. En.
+
+45:32
+For eksempel. Vi startede nær.
+
+45:39
+F. Ex kommer y ali sinus til ex i hjernen og bluesy hjernen helt klart ikke polynomier sinus.
+
+45:53
+Hvordan finder jeg det charmerende polynomium af grad højest 2.
+
+45:57
+For den der. Det vil vi gøre.
+
+46:06
+Lige efter pausen. Og så regner vi lige ud, og så er det slut med det her nummer et kan være lavet over fingrene.

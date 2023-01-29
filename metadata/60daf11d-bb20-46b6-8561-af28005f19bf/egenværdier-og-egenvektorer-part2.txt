@@ -1,0 +1,839 @@
+0:04
+Bør får vi nu brug for de polynomier.
+
+0:09
+Altså læren om polynomium, som vi havde i uge.
+
+0:12
+Tre polynomier er helt afgørende, når vi skal finde egne værdierne, for vi finder nemlig den det karakteristiske polynomium,
+
+0:21
+som er endt integreres, polynomium for en en matrix, og derved så får vi brug for alt det, vi har lært om rødder, egne værdier og de rødder.
+
+0:32
+Nu skal vi så snakke om, hvordan vi finder Ayn vektorerne, der hører til disse egne værdier.
+
+0:39
+Værdierne er der kun én af, så hvis vi har en egen værdi, så har den uendeligt mange egne vektorer.
+
+0:46
+Det er dem, vi skal prøve at finde nu. Så det har vi er jo i gang med.
+
+0:53
+Et eksempel. Her så vi kigger på.
+
+0:58
+Vi kigger på matricen. 5 minus 6 3, minus 4.
+
+1:07
+Og så havde vi den. Har den så lam der en dæmper på 2.
+
+1:17
+Og så havde vi en anden egenværdi. På minussiden dem fandt vi lige før pausen.
+
+1:27
+Den ligning som vi kiggede på det var det var den ligning her før der stod a minus lambda gange.
+
+1:40
+Hvad Enheds matricen. Gange ved.
+
+1:51
+Det var den der skulle være lig med nul, og det var jo sådan noget med,
+
+1:56
+at determinanten skulle være nul, og i og med at vi har fundet at lambda den skulle bare være to.
+
+2:06
+Så er determinanten af den, der er nul og så blev set.
+
+2:10
+Den har ikke fuld rang. Og så har vi altså rigtige egne lektorer ud fra den ligning her.
+
+2:16
+Så det er simpelt hen bare det, vi skal arbejde med nu, og de er med på det her.
+
+2:24
+Det er jo en måde at skrive et og udligningssystem på. Dér har I kopi sendt matricen.
+
+2:30
+Der er de ubekendte på en søjle der, og vi har nul vektoren på venstresiden.
+
+2:35
+Så vi skal bare kik på totalt matricen.
+
+2:45
+Og dér står der bare vi skal trække 2 fra i diagonalen, så det vil jeg sige, for jeg har tre.
+
+2:54
+Der får jeg min nu minus 6. Der får jeg tre, og så skal vi trække mine.
+
+3:00
+Så skal vi trække to fra minus fire. Den giver sammen i nu 6.
+
+3:11
+Det er meget vigtigt i lige forstå hvordan kom jeg for fra denne her og til den der.
+
+3:16
+Det var ved at trække egenværdi ind, som jeg har fundet fra i diagonalen.
+
+3:21
+Derfor fik jeg ikke fem. Jeg fik tre derfor, at jeg ikke fik jeg ikke minus fire.
+
+3:25
+Jeg fik min iOS6, og så skal jeg jo bare have have reduceret den her.
+
+3:31
+Det er nemt. Så vi har altså trappe t.
+
+3:41
+Altså vi dividere lige den øverste række med 3 1 minus 2 noget ekstra, og den lægger vi så til den nederste.
+
+3:51
+Så får vi så en nul, nul og nul. Og så står der jo at der står da der står at ved et er lig med 2 b2.
+
+4:11
+Det er det, vi har fået ud af det. Og så har vi altså vi ét med to, der er lig med en fri variabel, nemlig V2.
+
+4:21
+Og der har vi så to gå ind og sige, at nu har jeg fundet egen rummet, der hører til egenværdi 1.
+
+4:32
+2. For det er nemlig spande.
+
+4:41
+Er vektoren 2,1. Nå, så havde vi jo en egenværdi på minus 1.
+
+5:04
+Så nu er den den. Den ligning.
+
+5:08
+Vi betragter det bliver så den ligning, der står her.
+
+5:18
+Igen det er jeres koefficient matrix, for der er lagt ind til i diagonalen, og det må blive 6 minus 6 3.
+
+5:37
+Og. Men hvad bliver det?
+
+5:44
+Ja, også mine, så er vi lægger ind til det diagonalen. Sådan er.
+
+5:53
+Og ja, vi skal jeg bare for en ordens skyld. Man behøver det egentlig ikke.
+
+5:58
+Men jeg kan bedst lide at tage den højere siden med. Vi er helt klar over, det er en totalt med tekst, vi har kigget på,
+
+6:06
+og her er det jo også meget nemt at finde trap ganger den øverste med en sjettedel.
+
+6:17
+Og ja, og så ganger vi den med. Tre lægger dér til. Så I kan se den nederste forsvinder, så den må forblive en minus 1 og nul.
+
+6:29
+Og så har vi nul, nul og nul.
+
+6:36
+Og her kan vi jo se at her har vi været et er lig med ved 2.
+
+6:48
+Og så bruger vi så altså veto som fri parameter.
+
+6:54
+Og så er det altså ti gange med en over en bare.
+
+7:02
+Så har vi altså fundet det egne rum, der hører til egenværdi.
+
+7:07
+1. Minus 1. Det alle de vektorer som er parallelle med vektoren 1 kommer ind, så det var mit første eksempel fra før pausen.
+
+7:28
+Nu tager vi så det andet eksempel. Bare det eksempel B kiggede på Det var jo 0, 1 og nul, og så var det minus to, tre og nul, nul, nul og en.
+
+8:02
+Vi fandt at den havde to egne værdier. Nemlig 1 og 2.
+
+8:17
+Og nu vil vi finde alle de egen vektorer, som hører til den første.
+
+8:25
+Så jeg har altså selv.
+
+8:32
+Vi har a minus 1 gange 1.
+
+8:47
+Det er et homogent line dining system vi skal have fundet løsningen på, og nu får vi så en total matrix.
+
+8:59
+Hvor vi skal trække ind fra diagonalen minus 1, 1 og 0, minus 2, 2 og nul.
+
+9:12
+Og så har vi nul, nul og nul, og så har vi højere søjlen, der står her.
+
+9:29
+Så det er igen nemt at finde Trap T.
+
+9:37
+Vi ganger den øverste række med min nu. Så får vi en mere nu sen, nul og nul, og så ganger vi den med.
+
+9:47
+2 lægger til den anden række, så er det 0 0, 0 0, 0, 0, 0 og 0.
+
+9:59
+Og hvad har vi så fundet ud af? Vi har igen fundet ud af, at vi er et er lige ved.
+
+10:06
+2. Det vil altså sige, at vi to er fri parameter.
+
+10:14
+Der er slet ingen betingelser på vi. Det vil sige ved tre er også fri.
+
+10:28
+Så når vi nu skriver løsningen op, så har vi altså det ved 2.
+
+10:33
+Bet tre er lig med. Og her skal der stå en dér skal der stå nul, dér skal der stå nul.
+
+10:50
+Dér skal der stå en. Og så får vi altså bare her. Det er et af lege ved 2.
+
+10:55
+Derfor får vi et totalt dér, og så får vi den. Nej, der skal stå i ending fordi sådan er det.
+
+11:11
+Hvorfor vil et lige ved 2. Så nu har vi fundet egne rummet, der hører til en.
+
+11:23
+Den er så spande af ikke mindre end to vektorer.
+
+11:43
+Så det var spændende. Det vil altså sige alt hvad vi har snakket om indtil nu.
+
+11:48
+Det har kun handlede om et endimensionalt underrum.
+
+11:54
+Og det er selvfølgelig da altså når de to porto matricer, så kan det heller ikke være mere.
+
+11:59
+Men her ser jeg altså at egne rummet er to dimensionalt.
+
+12:05
+Og det siger vi så at give EM geometrisk multiplicere set af en.
+
+12:17
+Den er åbenbart to. Så vi kigger altså igen her på rummet, så vil sige, at her har jeg en vægtere.
+
+12:52
+Det er altså den der hedder 1,1 kommer 1,0. Den dækker i planen, og dér har vi en digter.
+
+12:59
+Den ligger bare i z aksens retning. Det er to vektorer.
+
+13:09
+De bestemmer en plan i rummet, og så ved vi godt det, der er lidt svært at antyde.
+
+13:14
+Men nu prøver jeg så her.
+
+13:20
+At have sådan en uendelig plan, der indeholder sådan en en skrå plan, der går ned igennem origo her altså det er ikke except.
+
+13:32
+Planen drejede med 45 grader. Det er den plan, jeg har prøvet at tegne her.
+
+13:36
+Det her er åbenbart ét. Så nu vil jeg altså se, at alle de vektorer, der ligger i den plan, de bliver afbilledet på sig selv.
+
+13:49
+Så hvis jeg altså har en eller anden Venstre kombination af de to vektorer her, som ligger i den plan billedet af dem.
+
+13:57
+Det er en fiks specter. Den ligger på vægteren selv, og det er hele den plan.
+
+14:04
+Og der er ikke andre vektorer, der bliver afbilledet på sig selv. Der er ikke andre fikst vektorer end dem, der ligger i den plan, der er her.
+
+14:17
+Så prøver vi lige, og er vi også lige finde den sidste.
+
+14:22
+Hvad var det vi mangler? Vi mangler at finde egenværdi, egen rummet der hører til egenværdier 1 2, og det vil jeg sige.
+
+14:32
+Nu siger vi igen. A minus to det.
+
+14:41
+Det er den ligning, vi gerne vil løse, og vi ved, at den har løsninger, for koefficienten har ikke fulgt fra.
+
+14:52
+Så nu skal vi have trukket 2 2 fra i diagonalen.
+
+15:00
+Og hvad får vi? Minus 2 ind og nul.
+
+15:05
+Og nu må I lige hjælpe mig. Hvad får vi? Minus 2, 1 og nul, og så får vi nul nul om endnu set.
+
+15:19
+Og nu kan vi finde Trap T. Og det gør vi så ved at vi ganger den øverste række med.
+
+15:35
+Minus en halv. Og ikke set.
+
+15:41
+Vi kan bare lægge den til den, så forsvinder den række, den ganger vi med min nu sind byder dem om.
+
+15:48
+Så får vi altså 0, 0 og 1. Og så 1 0.
+
+15:53
+Nul og nul. Og så skriver vi lige Hvad har vi så fået ud, når jeg?
+
+16:04
+Jeg ville gerne have nul. Og så har vi altså at at ved ét at lege med en halv V-2.
+
+16:28
+Og vi har at vi er tre. Denne er født død. Og så har vi altså ved veto ved træ, som er så lig med den frie parameter.
+
+16:43
+Det er åbenbart V-2. Den kan vi kalde fortie.
+
+16:48
+Og så får vi altså en halv. Og så får vi en.
+
+16:52
+Og så får vi nul. Og så har vi fundet.
+
+16:59
+Så har vi fundet aymaraer med alle de Bajin lektorer, som bliver fordoblet.
+
+17:11
+De ligger så på spanden. Nu gider jeg ikke at kigge på den halv mere.
+
+17:24
+Det er jo bare en egen vektorerne kan lige så godt være at vælge hinanden, I ved, når vi har en egen.
+
+17:29
+Så har vi mange andre. Hvis jeg ganger den med to, så er det det samme med egen rum på.
+
+17:38
+Jeg forstår det. Så får vi altså minus 1, 2 og nul.
+
+17:47
+Så den valgte vi bare i stedet for. Vi skal bare have én, der står her. Så.
+
+17:58
+Hvad siger I? Denne hedder en helle og så hedder den.
+
+18:06
+En sådan. Så så den kunne vi sådan set også godt illustrere på den figur, der altså den har vilkår.
+
+18:23
+Altså det er en vægtere, hvor vi går en frem også og så to hen.
+
+18:29
+Så det er altså en ret linje dér, der ligger i planen.
+
+18:34
+Det er den, som indeholder alle de vektorer, som bliver fordoblet.
+
+18:39
+Så er du i en vægt, der ligger i den her plan, så er du en fiks vektor.
+
+18:45
+Er du en vektor, der ligger på den rette linjer dér, så bliver du fordoblet.
+
+18:51
+Er det ikke mystisk? Det er det, vi har fundet ud af ved at finde de hemmelige egne rum her.
+
+18:59
+Jeg har fyldt tavlerne. I bliver lige nødt til at puste et øjeblik. Han har.
+
+19:24
+Der. Gerne.
+
+19:58
+Først og fremmest. Det handler.
+
+20:21
+Hvad? Af.
+
+20:49
+Her har man i til den første gang jeg jeg kan ikke takke nej, nej, nej, hvad det kræver i første omgang handler.
+
+21:16
+Allerede. Da.
+
+21:30
+Ja frem, så har vi set hvad egenværdier, egenvægt, tog og hvad det handler om.
+
+21:39
+Så har vi fundet en metode til at finde vejen værdierne.
+
+21:44
+Det var noget med en terminalt og et karakteristisk polynomium, hvor vi skal have fundet rødderne.
+
+21:50
+Og så har vi altså set, hvordan finder vi så egen vektorerne, der hører til?
+
+21:55
+Og det var et homogent lineært lignende system, hvor vi trak lambda altså den egn med.
+
+22:02
+Vi har fundet fra i diagonalen, og så løser vi det Linnés system.
+
+22:07
+Og så har vi altså alle egne vektorerne, så nu har vi virkelig fået nogle ting på plads.
+
+22:14
+Det var altså alle de arkæologiske redskaber til at finde de hemmelige rum med.
+
+22:22
+Nu skal vi så snakke om. Jamen altså, hvorfor beskæftiger vi os overhovedet med sådan noget som egne værdier og egne vektorer?
+
+22:30
+Og altså en meget, meget vigtigt afsnit i dine algebra.
+
+22:36
+Det handler om, at dem man gerne diagonal i seer matricer.
+
+22:42
+Og det kan man gøre med egne værdier og egne vektorer. Så det er det næste, vi snakker om her.
+
+22:49
+De rivaliserende efterforskere. Og lad os sige.
+
+23:16
+Altså vi betragter en lineær afbildning.
+
+23:30
+Af er en 1 i er en. Og så antager vi.
+
+23:46
+At EF har en lineært uafhængige egn vektorer.
+
+24:12
+Og det har faktisk været tilfældet med alle de eksempler vi har arbejdet med nu.
+
+24:17
+Selv i det til tilfælde, hvor vi havde en geometrisk multiple sitet to, så kunne vi finde tre lineært uafhængige egne vektorer.
+
+24:26
+Så det er den typiske situation. Sådan er det bare ikke altid.
+
+24:32
+Der er nogle gange, hvor det går galt, og alt dette.
+
+24:36
+Det snakker vi mere om på Lille, da der skal vi snak om algebraisk multiplicere til et geometrisk multiple sted,
+
+24:42
+hvornår vi kan finde en lineær uafhængig af egne vektorer.
+
+24:46
+I dag tager vi det bare som om det går sgu nok godt. Og så ser vi.
+
+24:51
+Hvis vi har fundet dem se, så gælder det jo, at lad os sige, at vi kalder dem for ved ét.
+
+25:03
+Så er den jo en egenværdi og gange med sig selv.
+
+25:11
+Og så FR-V 2. Det er også en egenvægt, så den er lam der 2 ganget med V2 og så videre ned til f, r v ende som er samme dør n gange.
+
+25:32
+Ved V indikatoren. Så vil vi have det scenarie der.
+
+25:43
+Det vi kunne lære af det sidste eksempel jeg lavede før det lille break her, det var, at vi kan godt være ude før,
+
+25:51
+at der er de dér end lineært uafhængige egne vektorer, uden at alle egne værdierne nødvendigvis er forskellige.
+
+26:01
+Så må jeg så skrive samtalerne, ikke nødvendigvis forskellige.
+
+26:18
+Bare lige for at det står klart i. Nu gør vi det trick, at det end lineært uafhængige egenvægt toer dem vælger vi som en ny basis.
+
+26:42
+Vi vælger at vi kan vi kalde sættet med ét.
+
+26:46
+Det er to op til v en.
+
+26:56
+Som en ny basis. Og så er jeg ud efter en afdelings matrix.
+
+27:08
+Og jeg ved jo, at afbildningen matricen. Det er billederne af basis vektorerne er spillet og stiller op i en søjle.
+
+27:18
+Vi ude efter basist Thornings billeder, så jeg er åbenbart ude efter F.
+
+27:25
+Er vi et? Kalender har vi jo lige snakket om Siri.
+
+27:33
+Men nu skal jeg jo. Nu skal jeg jo have den opskrevet som en lineær kombination af basis vektorerne,
+
+27:40
+så nu skal jeg også skrive hovedpulsåre nåle gange ved to plus 000 nul ved ganget med ved en.
+
+27:54
+Det bidrager billedet af den anden FR-V 2.
+
+28:03
+Ja, vi ved jo den er lam, der to gange blev to. Det er det, der er pointen. Og så skal vi have nul og alle de andre steder.
+
+28:21
+Og så får vi jo selvfølgelig her billedet af den sidste egenvægt.
+
+28:26
+Så det er så nålen, det et plus nålen v2.
+
+28:33
+Hele vejen hen til lamper. Enden gange en. Så kan jeg opskrive afbildninger matricen med hensyn til ved basis.
+
+29:01
+Så den kommer simpelt hen til at hedde lam, da et så sorry.
+
+29:07
+Så var der jo nuller på alle de andre der, så den har altså koordinaterne samt der ét og så nul og hele vejen ned igennem.
+
+29:16
+Og så noget larm der. 2. Og så nulre.
+
+29:23
+Og så har vi nulre i hele højere søjlen hele vejen ned til Lambda en.
+
+29:37
+Sådan. Nu vil jeg gerne have lavet noget basis skifter.
+
+29:50
+Så skal vi lige starte med, at hvad hedder så egentlig?
+
+30:03
+Hvad hedder sig egentlig? Den basis skifter Matrix, som skifter fra den nye basis bestående af egne vektorer og så til den sædvanlige basis.
+
+30:18
+Jamen det er jo så lige præcis egen vektorerne skrevet op i de gamle koordinater.
+
+30:25
+Altså en. Det er et.
+
+30:32
+Altså koordinat. De gamle koordinater for den første døgnvagter og så de gamle koordinater for den anden.
+
+30:41
+Det er den næste søjle, og hele vejen til de gamle koordinater får vi en.
+
+30:54
+Gad vide om vi så ikke kan finde. Eller skulle vi sige nej.
+
+31:09
+Vi starter med denne. Og nu altså det vi nu snakker om, det er så hvordan de to afbilledes matricer,
+
+31:24
+altså den i forhold til den sædvanlige basis og så den diagonal matrix, der har vi har, som er de afbildningen matricen i forhold til ved basis ikke.
+
+31:35
+Og der ved vi jo også. Her skal vi have lavet noget reparationsarbejde på begge sider endda.
+
+31:46
+Og de to skal jo passe sammen. Der har i E mv.
+
+31:52
+Og så har vi altså her i mv. Så har vi den fine ligning der står her.
+
+32:13
+Og hvis vi nu kalder den der, fordi nu kommer vi så til det, som jeg har lovet jer i alt.
+
+32:19
+Altså her på spisesedlen. Nu skal vi jo have den derfra, og så står der så her.
+
+32:27
+Hvis de kalder, hvis vi kalder den for A.
+
+32:45
+Og den dér det er jo den der består af ved basis.
+
+32:51
+Den kalder vi for store vi. Og så vil den der er dens inverse matrix.
+
+33:05
+Og den er at det er en diagonal matrix, hvor der står Lambda Y'erne i diagonalen.
+
+33:26
+Så har I her den berømte formenes der viser hvilke bag sit skifte.
+
+33:32
+Skal vi lave? Hvis vi ønsker at afbildning matricen skal blive en diagonal matrix.
+
+33:42
+Det har i den, vi starter ud med. Vi vil gerne have en afbilledes med træer, et trick, der er en diagonal, og så det, vi har lært i dag.
+
+33:52
+Det er altså den der dér egen vektorerne, der hører til de egne værdier, der står herovre.
+
+34:01
+Det passer. Det første element oppe i diagonalen skal passe med den første egenvægt og hele vejen igennem.
+
+34:09
+Så hvis vi laver det basist skifte fra standard basen til egenvægt og bassen, så får vi en afbildning matrix, som er en diagonal matrix.
+
+34:27
+Så så det vi nu skal snakke om det.
+
+34:31
+Så hvad er så perspektiverne i det her? Og nu kan vi diagonal i serier og så videre.
+
+34:39
+Der skal I laver nogle geometriske undersøgelser i dag, hvor hvis vi laver lineære afbildninger i planen.
+
+34:50
+Hvilken geometrisk betydning har så egn værdierne og egne vektorerne?
+
+34:56
+Og der har vi ligesom fokus på den der. Så det bliver spændende.
+
+35:02
+Jeg har altså en lineær afbildning ved det godt, den ændre figurerne på nogle bestemte måder.
+
+35:09
+Hvad betyder egen vektorerne egen værdierne? Prøv at finde ud af det.
+
+35:16
+En anden måde at betragte den sammenligning på er lidt fra et andet perspektiv.
+
+35:26
+Det er nemlig hvis jeg ganger fra venstre med V og fra højere med med V i minus Första,
+
+35:36
+så får jeg så denne form, at den matrix vi startede ud med, den kan skrives som v matricen.
+
+35:49
+Gange Lambda gange ved minus første, så det er to måder at se på den samme sag fra den første.
+
+36:03
+Den handler meget om hvordan kan vi diagonalt seere og den anden.
+
+36:09
+Det er sådan en mærkelig faktor i serien, vi laver.
+
+36:13
+Altså hvor der står en matrix kan aktualiseres på den måde her, hvor der så står en diagonal matrix inde i midten.
+
+36:29
+Så skal vi lige prøve også at kigge på hvad perspektiverne er for det og nu lade.
+
+36:36
+I skal arbejde med geometri, ligne afbildninger i planen, og nu giver jeg så et eksempel med matrix potenser.
+
+36:58
+Se. Ja, nej, vi vi på Zeevi.
+
+37:06
+Vi skriver altså her matrix portens, og nu antager vi, at vi altså har opfyldt denne.
+
+37:29
+Dette egenværdi er problemet. Vi siger vi har a gange ex.
+
+37:37
+Er lig med Lambda ex. Så det er altså givet i det her, det her eksempel.
+
+37:48
+Vi har sådan set løst problemet. Og hvad så? Det spørgsmål jeg nu stiller, er, at hvis vi nu tager en potens.
+
+37:57
+Passer anden potensen. Og I ved godt hvad det betyder.
+
+38:04
+Det betyder, at vi tager matricen, og så ganger vi den med matricen selv.
+
+38:09
+Passer det? Matrix matrix product går begge faktorer, der er A, så det er den, vi snakker om her.
+
+38:18
+Se, den kan vi jo skrive som A ganget med af.
+
+38:27
+Og så eks. Så forholder vi lige den dér, så er det A og det næste.
+
+38:39
+Det var jo lambda ganger med ex. Det var jo det.
+
+38:45
+Det var jo vores antagelse her Lambda kan vi så set hen foran.
+
+38:58
+På kæde, så optræder denne her jo igen, så denne er åbenbart lige med Lambda Grand Ex.
+
+39:09
+Og så får vi altså lambda i anden gange med ex.
+
+39:18
+Nu har vi løst egenværdier problemet før er i anden, og hver dag er vores.
+
+39:30
+Så hvad er vores pointe her?
+
+39:34
+Det er jo, at den har egne værdien lambda i anden, og den der holder sin egen vægt for egen vektoren, er beholdt egn værdien af satiren.
+
+39:46
+Og sådan må vi altså kunne fortsætte. Så hvis vi snakker om egenværdier for alleine, så har vi i hvert fald en der hedder lambda 1 gange med ex.
+
+40:10
+Så altså egenværdi.
+
+40:11
+Den er lambda i Inter og tilhørende egen vægt, så det er bare X, som vi har snakket om hele tiden, og så vi tager lige et eksempel.
+
+40:37
+Se et gennemgående eksempel i dag. Det er denne her to krypto matrix.
+
+40:46
+Og der har vi altså fundet den har da en.
+
+40:51
+Lig med 2. Og til den der fandt vi en egen vægtere.
+
+41:06
+Som sådan hedder 2 kommer en. Og dens egen dens anden egenvægt, så det var minus 1, og da havde vi så.
+
+41:24
+En egenvægt der hed 1,1. Så har vi så der er vi så vis nu at fem et tredje minut sex i fjerde.
+
+41:48
+Den kan skrives som et produkt af tre matricer, og hvor den første matrix det er den nye basis.
+
+42:04
+Jo tak. Så vi har altså ved matricen heroppe 2 1 og så 1 og 1 og så Lambda Jonna.
+
+42:18
+De var to og minus 1 og nul og nul.
+
+42:28
+Og så skal vi have den én værre så. Og den inverse.
+
+42:34
+Den er en 2 minus 1 minus 1.
+
+42:48
+Så det var altså min af matrix. Dette var min ved.
+
+42:55
+Dette var min lambda og det var min ved.
+
+43:00
+I mine første. Så hvis jeg skal lave potenser producerer.
+
+43:18
+Hvis vi for eksempel siger at nu vil vi have den dag i tiende potens.
+
+43:23
+Vi skal altså lave 10 Matrix Matrix produkter og så finde ud af resultatet.
+
+43:30
+Så har vi set, at ja, med en egenvægt to under dem beholder vi.
+
+43:43
+Lamperne de skal sættes i tiender. Og igen egn værdierne er der egne, vektorerne har vi beholdt, så vi har altså den ligning der står her.
+
+44:04
+Så skal vi lige på og tage lambda i tiende.
+
+44:14
+Det er jo to nul og nul og minus en og set dermed nemlig rigtig lækker, fordi når jeg laver de her prick produkter med vægteren selv set.
+
+44:32
+Det vil sige, jeg skal tage den dér gange med den. Så får vi to i anden, og når jeg tager den ganget med den, så går den i nul.
+
+44:45
+Min pointe er her, at når I tager denne her i tiende potens, så er det bare 2 i tiende.
+
+44:53
+Og så er det nul, og så er det nul, og så er det Manu Sareen i tiende.
+
+45:07
+Og to i tiende. Det er 124 den giver noget, den giver noget.
+
+45:15
+Og hvis vi ganger minusser med selv 10 gange, så er den bare en.
+
+45:28
+Og nu skal I se. Så nu vil vi gerne have regnet dette produkt ud og nu starter lige med at tage de to første.
+
+45:46
+V den vej 2 1, 1 1, og den skal vi nu gange med 2024 og blive nul, og at vi har nul.
+
+45:59
+Og vi har minus en. Ja, en sådan.
+
+46:10
+Og så skal vi have lavet nogle prikproduktet her. 2.
+
+46:16
+Altså denne væg så gange med den. Det må så give 2048.
+
+46:24
+Så skal vi se den prikkede med denne her.
+
+46:29
+Det må give en. Og så tager vi den prikker med den.
+
+46:35
+Det giver 2024, og så tager jeg den og ganger med den, og så får vi også en her.
+
+46:47
+Så nu har vi altså udgange. De første to faktorer her, så det vil sige nu bør vi så kunne finde.
+
+46:57
+Nu bør vi så kunne finde A I tjener. For så skal vi jo bare tage det resultat vi har fundet her.
+
+47:10
+2048 ind og så har vi 1024.
+
+47:18
+Og så har vi en. Og den giver ganger vi sammen med den inverse til at egenvægt for matricen.
+
+47:28
+Og det var den, der var en minus 1, minus 1 og 2.
+
+47:42
+Og så skal vi lige have lavet nogle dagens sidste prik produkter, så den vægtere gange med den det må give 2047.
+
+48:00
+Og så skal vi sige. Den med den.
+
+48:06
+Det må give minus to tusind og 46.
+
+48:14
+Og så den nederste vandrette vægtere. Det må give 1023.
+
+48:23
+Og så skal vi sige den vægtere her og så den vægtere, der står dér.
+
+48:28
+Det må give minus 1022. Så dagen.
+
+48:40
+Har vi med et snuptag fundet den tiende potens af denne vektor her.
+
+48:47
+Det er så et af perspektiverne i dette. Det er nemt at finde de her er potenser og de planen.
+
+48:56
+Da kan I se hvad er det for nogle strækninger, der bliver lavet?
+
+48:59
+Hvordan er det figuren blev ændret? Hvordan afhænger det af Lambda og Elam, da egen værdierne og deres tilhørende øjen reaktorer?
+
+49:11
+Og så fik vi fyre den af. Vi ses på torsdag. Tak for nu.

@@ -1,0 +1,1253 @@
+0:08
+Næste søndag vil stille, lød spørgsmålet Er tallet flakkende?
+
+0:18
+Der er noget med tag, ikke hørt, det kan du.
+
+0:24
+Kan man gøre noget ved handel? Ja, visse arter.
+
+0:31
+Så vi skal i gang med noget nyt.
+
+0:37
+Faktisk så meget nyt. Så hvis man føler man, at nu var man forløjet, komplekse tal, så sker der noget helt andet i dag og den tid fremover.
+
+0:47
+Det er ikke sådan, man kan glemme de komplekse tal. De dukker sådan op igen.
+
+0:51
+Allerede i dag til øvelserne, da opgaver med lidt komplekse tal i manegen fokuspunktet mere så.
+
+0:57
+Så nu starter på en med en frisk i dag, og det handler i dag om lineære ligninger og så lineære ligning systemer.
+
+1:19
+Og så er der noget om matricer, matricer og herunder er forskellige begreber for matricer og hør om række reduktioner.
+
+1:43
+Og her at der kommer noget program og og trappe matrix,
+
+1:53
+og så kommer der lidt om matrix algebra og så til sidst er der Mabel, og der er to, vi kan se på programmet til dag.
+
+2:11
+Der er tre Mabel ting, der tog.
+
+2:14
+Det hedder Bay sikkert enheder at varmest, og det er altid dem der hedder Basic ja siger noget om her til forelæsningerne,
+
+2:20
+fordi de advarer stige mere end man kan selv sidde og eksperimentere med, hvis man har tid.
+
+2:28
+Man kan altid spørge til de varmeste, hvis man har siddet kæberne, komme ned og spørge på sin herlige Keyvan.
+
+2:33
+Her er et barns mabel, dem, jeg ikke forstår. Og så jeg skal nok fortælle.
+
+2:38
+Men her til forelagdes vil jeg ikke sige det mere. At bruge tid på det godt.
+
+2:45
+Vi starter ud helt simpelt. Måske skal vi lige inden vi går rigtigt i gang, lige se en lille skole om nogle nye ting alrum.
+
+2:53
+De tal rum, der hedder, er inde og se alle, så vi får brug for det næste stykke tid.
+
+3:01
+Og det er bare ligesom. Vi kender jo de reelle tal og de komplekse tal.
+
+3:06
+Hvis vi i stedet for ser på sådan et sæt, er tallene altså et tal set.
+
+3:15
+Diego havde ikke levet op til eksamen og hvor de enkelte ikke sige og her.
+
+3:22
+De er for eksempel Rielle. Så siger vi, at så tilhører dette tal.
+
+3:28
+Rummet er en. Og det vil jeg tage senere, når vi siger et eller andet tilhører Elsa, der ental har disco lokalet til toget til.
+
+3:46
+Så hvis jeg siger, at vi har et tal sat her, så er der en reelle tal.
+
+3:52
+Og man kan tage to elementer i ende og lægge sammen. Det gør man bare ved at lægge dem tallene sammen på deres plads her.
+
+4:01
+Ligesom I ligger vektorer sammen. Og man kan tage sådan et helt tal gange med en konstant, og så ganger man bare konstanten én på hver af dem.
+
+4:10
+Hvis det er et tal, taget havde tilhørt serien, jamen så havde det bare været komplekse tal, der stod der i live,
+
+4:16
+og det vil sige, at det tal tæt her, der tilhører en det tilhører altså os CL, for det er endda en delmængde af serien.
+
+4:26
+Her. Så bare lige for når vi ser denne notation for her, så betyder det altså,
+
+4:32
+at det er sådan et sæt af reelle tal med 1 tal, og de står på nogle bestemte pladser.
+
+4:37
+Her er alt som man kan tænke over det som vektorer i plan og rum osv.
+
+4:42
+I højere dimensioner. Det vil ikke bruge så meget mere tid på andet.
+
+4:47
+Nu er det lige sagt, vi skal nok vende tilbage til det.
+
+4:54
+Det, vi derimod vil starte ud med her, er, at vi vil starte på lineare ligninger, og en linje af linjer er lig med, hvis den er på formen.
+
+5:16
+Som her. Vi kan kalde Koch-Jensen her a et gange exit.
+
+5:24
+Plus a to gange Exo plus op til A en kvinde 9 b.
+
+5:35
+Altså en lidt al anden ligning. Den er linjer, hvis den er den form værd.
+
+5:40
+Indtil videre er det jo bare noget symbolik. Hvad betyder tingen? Det ligner til at definere jer, de der er ejer her.
+
+5:48
+Det er f.eks. Reelle tal. Den rigelige mængder ser på de reelle.
+
+5:54
+De kaldes koefficienterne. Og den bet der står herovre.
+
+6:04
+Den kan altså højresiden. Det gør den også, selv om den eventuelt stod på venstre side.
+
+6:09
+Så det er altså ikke den. Kalder vi bare det tal, der står haver.
+
+6:13
+Og den er i øvrigt også, hvis den reelle ligning er den reelle. Og denne her talte ikke set op til eksamen.
+
+6:24
+Tilhørerne er N. Det er vores ubekendte.
+
+6:35
+Det navnene, og det vil altså sige at de enkelte jeg ikke siger her jamen, det er også bare reelle tal.
+
+6:43
+Vi kender jo godt disse linjer. I havde set dem hundredvis af gange.
+
+6:48
+I kender dem, hvor der bare er hvor hvor alle courgette er nul pånær ét passende en Standard Liege ligning,
+
+6:55
+som man møder første gang i går, når man møder den syvende klasse.
+
+6:58
+Måske. Men når der pludselig står to her, jamen så bliver det jo pludselig ligningen fra en ret linje.
+
+7:07
+Og har vi de tre, der forskellig fra nul og resten lige nul, jamen så er det pludselig ligningen for en plan, som I har mødt dem før.
+
+7:14
+Disse linjer ligninger i form af punkter og linjer og planer.
+
+7:19
+Det skal jo både at se på nu, og vi skal prøve at se på en anden måde og skrive de punkter op,
+
+7:24
+de beskriver på at lave det, vi kalder standard parameter formen. Så lad os tage de tre eksempler jeg allerede kender herovre.
+
+7:36
+Så kommer du måske til kørt den derned.
+
+7:47
+S. 1. Tredje eksempel med støtte var i gang med det første eksempel, der er meget let og forsynder.
+
+8:02
+Kunne Head to x er lig 3.
+
+8:08
+Det er en linje ligning. Den opfylder betingelsen Hvorfor gør den det?
+
+8:12
+Jo, den har den rigtige form, som vi tog herover. Vi har Kuusinen 2.
+
+8:19
+Vi har en ubekendt, og vi har en højre side.
+
+8:23
+Jeg. Så løsnings mængden til den er alle de eks'er, der tilfredsstiller ligningen, så løsnings mængden er er det kan vi se her.
+
+8:34
+Jeg vil godt lige regne lidt på den løsnings, men ingen er simpelthen ex.
+
+8:39
+Alle i 3 haller, så løsnings skulle ingen værdi.
+
+8:44
+Ex tilhørte de reelle tal, hvorom der gælder at det ikke skal være lig med 3 halve, og så er man også bare skrevet ind i turbo 3 halve.
+
+8:55
+Det havde været det samme. Så denne ligning har vi løst så mange gange, at den egner vi nærmest ikke for noget mere.
+
+9:04
+Så lad os tage et eksempel mere entrébillet, eksempel, tog og nu kommer der nok lidt noget nyt for nogen i hvert fald vil gå af.
+
+9:12
+Nærhed hed 2 x minus y er lig med 3.
+
+9:17
+Igen det linje alene. Vi har kunnet centrene, den er 2 og den er minus ét.
+
+9:22
+Højresiden af 3 og de ubekendte hedder ikke så Y i stedet for ikke sætter i ét.
+
+9:28
+Det gør vi kun, for ligesom RAFs for de geometriske til at træde mere frem, så kalder vi dem ogsaa er.
+
+9:35
+Vi kan lige omskrive med lidt, for vi kan jo godt se, at vi selv skriver, heller ikke herover.
+
+9:40
+Tredje år, så står der to x minus tre, og så er det jo tydeligt nok, at det er en ret linje.
+
+9:44
+Helingsprocessen 1 2 og skæringen y aksen i minus 3.
+
+9:51
+Sådan her kan vi. Det kunne man jo godt se ideen løsningen. Her er alle de punkter ligger på den linje, der er løsningen.
+
+9:57
+Det er også rigtigt stadigvæk, men vi kan godt lige angive noget,
+
+10:00
+der hedder løsningen på standard parameter form, og lad os se, hvad vi laver en standard parameter for.
+
+10:15
+Og mod man typisk laver et standard parameter for ved at vælge en af de ubekendte.
+
+10:19
+Og for ikke at få burger, så vil jeg vælge ex til at hedde noget andet, så jeg vælger altså ex til at hedde T.
+
+10:28
+Og så vil vi i stedet for at angive løsningen som sådan et tal.
+
+10:31
+Z er ikke så dyr x og Y lige med.
+
+10:37
+Ja, jeg ved allerede at extend er valgt til at hedde te. Det er jo bare et omdøber en anden variabel x til at være ting.
+
+10:45
+Så skal jeg finde ud af hvad der lyser. Y Hvis ekser t.
+
+10:49
+Er den to t minus tre. Det skriver hermed. Men for det være en standard parameter for, om udkommet står lidt pænere,
+
+11:00
+så kan vi starte med at skrive den som to til årets eller til over to til plus noget over minus tre.
+
+11:09
+Jeg har altså delt de to tal sætter opleve to.
+
+11:13
+De ligger i to. Jeg kan lægge dem sammen ved at lægge dem sammen. Koordinat vist her.
+
+11:18
+Og det eneste, der mangler for at lave en påstand, er parameter for om nu er måske et rødt punkt hen foran.
+
+11:25
+Det er ikke et krav, men så skal Lepage nuppe plus t det ærlige rygte uden for denne parentes, så står der 1 1 over to.
+
+11:33
+Han. Det er sandt at RPF parameter form for løsnings mængden til den ligning står der.
+
+11:42
+Det er selvfølgelig præcis det samme dem beskriver, og for jer der har haft vektorer, så ved jeg godt,
+
+11:47
+at det er et punkt, og det der er en retning, svigter, så det et eller andet med at bevæge sig væk fra.
+
+11:52
+Fra det punkt i den retning, og så gennemløber samtlige reelle tal.
+
+12:00
+Så rammer vi. Alle punkter ligger på den linje.
+
+12:05
+Altså hvis det er positivt, så bevæger vi os væk i den retning 1,2 væk fra det punkt og præsterer negativ.
+
+12:11
+Så kører vi den anden vej, og så kan vi altså ramme alle punkter ved bare at tilpasse til en eller anden værdi.
+
+12:18
+Det er måske allerede har opdaget det her. Det er absolut ikke entydigt valg.
+
+12:22
+Jeg kunne bare tage ligeså snart i et punkt på linjen. Jeg har en retning svigter.
+
+12:27
+Jamen, så kunne jeg skrive en anden standard parameter formen med det samme op for at kunne tage det sander før et andet punkt på linjen.
+
+12:32
+Så vi syntes jeg til at være et hedder den 1. Komma minus 1.
+
+12:36
+Det er et andet punkt på linjen plus og så en parameter her t.
+
+12:42
+Og så kunne jeg vælge en vektor, der som som bare gik i samme retning, kunne være 82 Pasco, der er en anden løsning til det samme.
+
+12:51
+Så hvis jeg gav alle jer en opgave at finde en standard parameter for omvendt, så kunne vi teoretisk set allesammen komme med forskellige svar.
+
+12:58
+Så når man så går ned og ser, har jeg regnet rigtigt til øvelserne i dag.
+
+13:02
+Så opdager man, det har jeg ikke. Men det har man alligevel, fordi en svarer ligeså rigtigt som det, der står som facit.
+
+13:09
+Ja, men altså det man kan undersøge, hvis man undersøger, om det er det samme.
+
+13:13
+Det er lækkert det her punkt på DR, og man kan også, om den retning svigter, gå i samme retning som den der.
+
+13:21
+Det bliver lidt værre senere i dag og undersøger, om det er det samme. Ja.
+
+13:31
+Vi at går en tak videre, og vi går op og ser, at det er en linje.
+
+13:35
+Lad os se på den næste, som også er velkendt, nemlig en plan X+ to y plus tre sæt lig 4.
+
+13:46
+Det er ligningen for en plan. Og. Det er igen det er linjer ligningen, fordi vi har kusinerne en, to, tre.
+
+13:56
+Vi har højere siden 4. Og vi har de ubekendte eksistenser.
+
+14:02
+På samme måde som før ved vi lige ganske kort bare lige sige Hvordan laver vi denne her standard parameter form?
+
+14:16
+For løsningen og.
+
+14:25
+Ja, i gaden gør vi ligesom før vi vælger en af de ubekendte til at hedde te, og nu kan man jo vælge en hvilken som helst af dem til at hedde The.
+
+14:34
+Jeg kunne vælge at sætte. Der var det populære sted nu hedder det sig alligevel Altså har jeg stadig to ubekendte.
+
+14:43
+Her er jeg nødt til at vælge én til. Så jeg vælger Y til at hedde S.
+
+14:50
+Og hvis jeg så gør det, så kan jeg skrive min standard parameter for mig op.
+
+14:54
+X y z til at være. Vi ved at z den rt y, den RS og x.
+
+15:03
+Hvad kan vi så finde sammen ved at rykke disse to år til fire, så extend er fire minus to y minus tre sæt og så erstatter jeg Y og Z.
+
+15:14
+Mage sorte stof fire minus to s minus tre ting.
+
+15:21
+Det er ikke standard parameter for, om nutiden skal lige splittes ud. Først skal vi have punktet, der er et 4 tal her.
+
+15:27
+Der er ikke noget tal her. Hvad nogle af dem, så tager vi alle det.
+
+15:31
+Der indgår et essay. Der indgår minus to s'er her.
+
+15:36
+Der indgår et enkelt læs i denne her, og der indgår ikke nogen s'er i den nederste.
+
+15:42
+Så tager vi alt det, der indgår Theorie, der indgår.
+
+15:47
+Minus tre øverste nul i den anden og ét i den sidste.
+
+15:53
+Og så siger vist T gennemløber alle de reelle tal, og S gennemløber alle de reelle tal.
+
+16:00
+Jamen, så får jeg alle punkter, der ligger på den her plan, og det vi ser her er, at planen går igennem dette punkt i rummet.
+
+16:08
+4 0. Og så har vi to vektorer, og de to vektorer kan udspænder resten.
+
+16:13
+Det vender vi tilbage til næste uge her, hvor vi skal tale om de geometriske vektorer.
+
+16:18
+Men nu har vi bare set, hvad standard parameter formen er, for der ser åbenbart sådan her ud.
+
+16:25
+Det. Ja, det her var måske noget jeg var lidt vel kan lære noget nyt.
+
+16:36
+Men nu kommer der noget, der nok er nyt for de fleste.
+
+16:42
+For vi kan ikke nøjes med en lille ligning, når man er ingeniør.
+
+16:47
+Typisk er der mange linjer ligninger, der beskriver problemet. Så nu skal vi se på et system af lineære ligninger.
+
+17:09
+Nu skal jeg bare lige tænke mig om. Jeg skriver det samme gerne værker i støvet.
+
+17:21
+Jeg gør lige sådan her. System.
+
+17:37
+Og det er ikke fordi jeg tror at verden går under, hvis jeg bruger den anden tavle, før jeg bruger den først og alt det der.
+
+17:42
+Men det er bare fordi, at når nu ruller den ned lige om lidt, så kan I se.
+
+17:46
+Det sidste jeg skrev, er, når vi fortsætter hen over.
+
+17:49
+Så sådan er der et system af linjer lige dér, hvor vi har en hel stribe af linjer og ligninger for, hvordan det ser ud.
+
+18:02
+Først skal vi have en lille ligning, og nu kalder jeg ikke hjælpen til den ét.
+
+18:06
+Nu kalder jeg den a s et forlig for mange af dem. Den ubekendte hedder stadig ikke set a et 2 x exo a et n h.
+
+18:20
+Undskyld jeg excl. Er lig med b et.
+
+18:25
+Her er en lille ligning. Alle de her er centeren, de reelle tal.
+
+18:31
+Alle er ikke sådan her. De ubekendte og billedet her er højresiden.
+
+18:36
+Hvor har jeg så en ligning mere? Den kunne jeg så kalde a 2 et ex et plus a 2 2 x 2 plus a to l det xl, b2 det er jo ikke.
+
+18:53
+Her ser det nogle nye koefficienter.
+
+18:54
+Det er en ny højreside med de samme ubekendte, og det vil altså sige når vi skal til at lede efter en løsning til det her,
+
+18:59
+så skal de samme ubekendte altså passe ind i begge ligninger, som man skal have.
+
+19:04
+Man kan ikke bare løse den ene og løse den anden, for det er kun fællesmængden af deres løsninger.
+
+19:11
+Der er en løsning til systemet hér, og på samme måde kan vi så se, hvor mange linjer der må være emme af dem.
+
+19:17
+Sådan hedder a m et ikke et plus a m 2 x 2.
+
+19:26
+Plus at a m l x l er lig med b, m.
+
+19:37
+Vil altså endog mange ligninger hér. MF dem og med en ubekendt da sagerne.
+
+19:47
+Det er et system af linjer linjer, en løsning til systemet. Nytte af en ex et til eksamen tænker hvad end er ind er et tandsæt.
+
+20:13
+Sådan en har. Det er måske en løsning til systemet jeg opfylder.
+
+20:23
+At denne her etape til England tilfredsstiller alle ligninger.
+
+20:39
+Ledninger ned i systemet. Så hvis vi har en løsning til at optage seerne, så skal den passe ind i den her og gøre den.
+
+20:51
+Altså som der står det samme på B-siden, der også passer ind. Den passer hende tirsdag. Så er der lige en lille forskel den fuldstændige løsning.
+
+21:02
+Der. Løsning til systemet.
+
+21:15
+Er. 1. Med den løse indtil til systemet er mængden.
+
+21:27
+Af alle løsningerne. Til systemet.
+
+21:41
+Så der er en fuldstændig løsning er så alle de løsninger, der overhovedet findes, der får der til at være sande.
+
+21:50
+Nu er jeg jo bare skrevet i det, der har været skrevet, er enden og så videre.
+
+21:53
+Det kommer an oversat til scenen, hvis det var et komplekst learning system.
+
+21:58
+Nu var jeg bare for ligesom at skrive et eller andet, så alle de steder her i dag, hvor jeg skriver, er en, der kan lige så godt skrive serien.
+
+22:04
+Men nu ser vi på alle lignende systemer i dag.
+
+22:06
+Til øvelserne er der nogle komplekse, der skal være bare regn leder, for det er komplekse tal og ikke af sig selv.
+
+22:17
+Det er ikke til at holde ud til at skrive det hver gang som solsystemer. Og hvordan skal vi løse det for at gøre det?
+
+22:22
+Da laver vi en mere kompakt notation, og derfor har vi altså brug for en matrix notation.
+
+22:32
+Og det vi gør her er at vi laver først en koefficient matrix og en kurtisanen Matrix
+
+22:45
+dem hvis denne kalder vi Store A i to streger under betyder at det er en matrix.
+
+22:50
+Jeg kan ikke skrive med, men i bogen er trykt med CNN meget tykt af os.
+
+22:54
+Det kan jeg ikke skrive. Så bliver der meldt, ja, så laver jeg en kasse her og ind i kassen putter jeg et koefficienterne til bevillingssystem.
+
+23:02
+Altså den, der hedder af lidt af et tog, optager i den.
+
+23:06
+Der skal ikke stå noget imellem dem. Vi står bare inde i kassen hver. A to, et, a to, to og a to n optælle a et med l et emne.
+
+23:19
+Et undskyld. N 2 op til a m n.
+
+23:28
+Det er matricen højere. Siden da kan vi også på måde en matrix.
+
+23:34
+Det kalder vi B. Den hedder sig B, et b tog op til Bergen.
+
+23:42
+VM. Og vi kan for den sags skyld nu være i gang også det andet egentlig kalder total matricen.
+
+23:50
+Det er simpelthen koefficient matricen og så sammen med højresiden, så dem hed a s et a et to a et n.
+
+24:00
+Også her b et. Og A.
+
+24:06
+M et a m tog op til a.
+
+24:11
+M. N og så her B-EM, og der er fyldt fuldstændig ud her.
+
+24:17
+Ind imellem. Jeg skriver lige at den og total matrix.
+
+24:30
+Og det hedder stadigvæk bare højresiden, og denne her og denne hedder koefficient matricen, og det står også der.
+
+24:43
+Så de tre matricer får vi brug for i dag.
+
+24:48
+Se nu er ideen, at vi vil omskrive det her living system, så vi kan se umiddelbart, hvad løsningen er.
+
+24:53
+Men det vil vi gøre ved hjælp af de her matricer og det vi sparer med at bruge matricer.
+
+24:59
+Der er en masse plusser, vi ikke behøver at skrive, og det er en masse eks'er.
+
+25:04
+Der er også andre grunde til, at vi gerne vil bruge matricer.
+
+25:07
+Det er ikke kun fordi så kan vi spare det, for senere hen eller allerede næste år skal vi ser, at de har mange vigtige egenskaber.
+
+25:14
+De har matricer, som vi skal udnytte, men indtil videre kan vi jo betragte lidt som en spareøvelse,
+
+25:24
+at vi simpelthen bare skriver varslingssystem mere kompakt som der. At han ikke har sagt noget som helst om det.
+
+25:31
+Hvordan hæver vi løsningen ud af det her?
+
+25:33
+Og det er det, det går ud på, at nu er den algoritme altså en metode til at finde løsningen til sommer og algoritmen.
+
+25:41
+Tre skridt. Der skriver jeg lige op eller tre tre ingredienser, og så tager vi nogle eksempler.
+
+25:47
+For man lærer kun det her eksempel, så jeg hvisker ligeud her.
+
+26:02
+1. Og det morsomme ved dette.
+
+26:09
+Vi skal til nu når jeg går i gang. Eksemplerne er, at regner man en lille ting forkert i starten, så alt man har lavet umuligt.
+
+26:18
+Så man kan ikke. Der er kun én vej, og det er at regne rigtigt hele tiden.
+
+26:22
+Skal man forfra? Ja, lad os prøve at se på det.
+
+26:30
+Der er tre operationer, vi skal kende. De hedder de tre række operationer. I den første række operation siger man må bytte.
+
+26:51
+To rækker. Og hvad betyder det?
+
+26:59
+Ja, det betyder bare, at hvis vi går tilbage til vores ligning system.
+
+27:02
+Jeg ved ikke, om det er lidt tarveligt for dem, men ved siden af har jeg heller ikke kørt nap.
+
+27:06
+Ligeså snart står herinde bagved. Jeg kan bare sige det ord.
+
+27:11
+Hvis man har ligning systemet stående. Så kan må man gerne bytte to ligninger om.
+
+27:18
+Det gør ingen forskel i hvilken række for linjer de står.
+
+27:20
+Der står vares inden ligninger ikke om jeg ser den, skriver den ene først og bærer den anden først op.
+
+27:25
+Det ændrer ikke noget ved det decimal, som den er nærmest.
+
+27:29
+Altså, det er helt fjollet, at det er en regel iværksat, men den er meget anvendelig.
+
+27:33
+Vi har jo lidt, når vi skal til at reducere det her lille system til noget, vi kan finde løsninger ud af.
+
+27:39
+2. Man må gange. Nogle gange en række med et tal forskellig.
+
+27:57
+Lidt fra nul. Det vil jeg sige jeg må tage en hel række i min matrix skanken med et tal.
+
+28:03
+Det ændrer ikke Linings systemet, og det betyder jo, at hvis vi går tilbage til ligning systemet, så tager en hel linje og ganger den igennem med fem.
+
+28:12
+Højre og venstre side med fem, så er den sammenligning, man kan dividere med 5 bagefter, når man skal finde løsningen.
+
+28:17
+Det ændrer altså ikke spor. System ved at guide en ligning med et tal.
+
+28:22
+Det er det samme vi gør, når vi løser sådan en som denne. På denne tavle den første gange er jeg også hele ligning igennem med en halv.
+
+28:29
+Men der var ingen har intet at tænke over. Nej, nu ændrer vi på løsnings mængden, når vi ganger ligningen med en halv.
+
+28:33
+Bare vi gør det samme for begge steder ligningen. Og det er altså det, vi gør her.
+
+28:37
+Vi ganger en hel række eller hele ligning med et tal, og så svarer det til, at hvis vi går over i det her matrix sproget,
+
+28:43
+var det over, at en af vikarerne og i den matrix, der bliver ganget med et tal 3, kommer den sværeste, men også den vigtigste.
+
+28:52
+Man må gange. En række.
+
+29:00
+Med et tal og lægge.
+
+29:08
+Den til en anden. Bare ikke.
+
+29:18
+Uden at ændre løsnings, men det har jeg ikke skrevet hele tiden, det burde stå ligesom det er det,
+
+29:23
+der har betinget bytter to rækker eller to ligninger med ganger en line med et tal, men ændrer ikke løsningsmodeller stadigvæk her.
+
+29:30
+Vi tager en hel ligning, ganger med et tal og lægger den til andledning højre side med højre i venstre side med forced.
+
+29:35
+Det ændrer ikke løsnings mængden her. Den skal man måske overveje en lille smule mere, hvis man vil være helt sikker på, at det forholder sig sådan.
+
+29:41
+Men det er ikke svært. Man kan tænke sig frem til det næste.
+
+29:47
+Godt. Når der står at programmet var nok, bærer vi gerne grundlagde programmets lejre, der måske række operationer er vi i gang med.
+
+29:57
+Her er ikke, så vi mangler bare Mabel og Matrix algebra. Nu må man vi jo alligevel være færdig.
+
+30:02
+Det er langtfra tilfældet her, så det er ikke. De er ikke lige lange punkter.
+
+30:06
+Nu skal vi have vores første eksempel, og jeg har taget godt med her, tror jeg.
+
+30:11
+AK ja. Prøv at se, hvordan det fungerer i praksis, og det er faktisk meget sjovt, når man lige kommer i gang med det.
+
+30:20
+Nogle har måske prøvet det før, fordi man har haft det som stort emne eller et eller andet.
+
+30:24
+Men, men, lad os bare prøve gøre det og alt det, vi skal lave i dag.
+
+30:31
+Det kan selvfølgelig klares med ét en kommando i Mabel, så alt dette vi går i gang nu, er 1,13.
+
+30:38
+Men det er jo prøve uden hjælpemidler, altså nu og ikke. Så hvis jeg får et lille elsystem.
+
+30:48
+Og det hedder det måske for langt ned minus 6 2 +6 3 er lig med 2.
+
+30:57
+Det er lidt vigtigt, men fordi som jeg også vil se lige om lidt.
+
+31:02
+Man får meget nemt brøker. Og jeg skal gøre mig umage med at få et til at stå pænt, og jeg har fundet et sted, hvor man undgår det nogenlunde.
+
+31:23
+Og alligevel er der lidt regn på ja. Her er udligningssystem. Vi vil gerne finde den fuldstændige løsning, altså den to den løsning,
+
+31:31
+der tilfredsstiller alle ligninger og alle de løsninger, der tilfredsstiller alle de ligninger her.
+
+31:40
+For det kunne jo være at man faktisk kunne gætte. Jeg gætter på, at nogle tal her.
+
+31:44
+Det passer, så kan vi ikke være sikker på, at der ikke er andre. Så vi skal prøve at finde metoder til.
+
+31:47
+Hvordan får vi lige en gang for alle? Afgjort om hvilke løsninger der og metoden er, og det fylder altså noget.
+
+31:54
+Det er at tælle de her ligninger hér. Her opstiller vi totalt matricen.
+
+31:59
+Det gør vi her nedenunder og total matricen.
+
+32:03
+Det er jo bare kursuscentret, når der ikke står noget her, og så står der jo i virkeligheden et nul gange.
+
+32:08
+Ikke slet ikke. Så der må stå nul her og så minus ét og så ét for den og højresiden af den her to.
+
+32:18
+Man kan tage en streng ned, og det må man godt til at adskille højresiden i, men synes det er bedre.
+
+32:25
+Jeg vil ønske, at her i starten, hvor man lige har lidt ny med det her, har vi skriver her tre, fire, et og ni.
+
+32:40
+Sådan ser det ud, så er dette går ud på at bruge de tre operationer så åbenbart igen.
+
+32:45
+Der løsnings Mukden direkte på denne her matrix er så det jeg gerne vil.
+
+32:52
+Det er jeg gerne vil have dig til at stå et et tal et eller andet sted i den første søjle.
+
+32:57
+Og som 0'er ovenover og nedenunder det. Så jeg starter med den første søjle og klarer den.
+
+33:03
+Jeg vil allerhelst have mit ettaller placeret øverst oppe. Og da der står 1 0, så vil jeg starte med at byggeriet række 3 og række et.
+
+33:10
+Man kan også taget række 2 og række ét.
+
+33:12
+Der er ingen kegler, men vi er nødt til at skaffe os et tal, der ikke er nul Charlie og bytter række 1 og 3 om den første række operation.
+
+33:19
+Så skriver man, man kan skrive sin egen childe imellem ned med såvel og under den, der skriver, så række et ombyttes med række.
+
+33:28
+3. Altså sådan en pil begge steder, da vi bytter rundt.
+
+33:33
+Så skriver jeg den nye totalen matricer op til.
+
+33:36
+Jeg skal jo ikke lede stigninger, for lige så har jeg byttet dem rundt, så de jo ikke ens med de to matricer for to matricer.
+
+33:42
+Én skal være ens indgang for indgang. Altså sådan et tal her kaldes en indgang, og det har de jo ikke altid ment.
+
+33:48
+Skriver tre fire etager og 9 0 er skrevet række 3.
+
+33:53
+Her skal jeg række Ethernet nul minus 1, 1 og 2. 2 4 minus to og to.
+
+34:05
+I os selv vil jeg gerne skaffe mig et et tal her.
+
+34:11
+Og det er derfor fristende at tage et tal her og give igen hele øverste række.
+
+34:16
+Det vil det, at hele den række øverst række med tre eller det egentlige vist skal sige det med gange gange.
+
+34:21
+Hele stræk med en tredjedel. Det er rigtig dårlig strategi, fordi hvis vi gør det, så skal vi altså til at regne med tredjedel herefter.
+
+34:29
+Så kan man gøre noget andet uden at skaffe sig burger. Så er det bedst at holde sig væk fra, og så længe man kan herfra i den anden metode.
+
+34:36
+Vi kunne tage hele række 2 og gange med minus ét og lægge til række ét, altså den sidste række operationer har.
+
+34:45
+Man må gange række med et tal og lægge den til en anden række.
+
+34:49
+Hvis jeg tager række to og ganger mere at lægge trækket. 3 kunne skrive sådan her række.
+
+34:57
+Række 3 plus minus to række 2 på række ét selvfølgelig.
+
+35:06
+Til ikke minus to minus ét minus lidt gang i LA plus den der prøveskudt.
+
+35:14
+Det vil sige række 2 og række 3, da lobby forblev uændret.
+
+35:20
+Vi gør den lave gå ned ad gangen med et tal inde i hovedet.
+
+35:26
+For hvis vi gjorde det i praksis og så gå,
+
+35:31
+så kunne vi jo bare hvad vi syntes kunne gange denne her med minus efter bagefter ganget med minus ét igen, og vi var færdige.
+
+35:38
+Så har vi rækken tilbage, så vi behøver altså ikke at gøre det ved den ret, vi ganger med et tal.
+
+35:41
+Det gør det ikke noget, vi siger. Minus én gang er den plus den.
+
+35:45
+Det giver mig et tal her. Minus én gang den plus stande giver mig et nul her.
+
+35:53
+Minus én gang i den plus stande giver tre minus en gang i mellem.
+
+35:58
+Pludselig giver 7. Nu har jeg skaffet mig et ettal deroppe, hvor jeg gerne vil have det tal.
+
+36:07
+Nu skal jeg prøve at skaffe mig et nul under ét tag.
+
+36:12
+Jeg vil altså kun have et et tal i hver søjle eller heroppe, hvis det er muligt.
+
+36:17
+Så nu skal jeg skaffe et nul nul her. Så får jeg et tal her og skal have nul og laver.
+
+36:24
+Ja, kan man gøre det? Ja, det er ikke så svært, for jeg siger bare, at jeg skriver række ind igen.
+
+36:35
+Jeg tager række to, og til den siger jeg så minus to gange række ét.
+
+36:44
+Minus to gange er række indlagt til denne her. Det giver nul.
+
+36:49
+Minus 2. Der skal jeg ingenting. Minus 2 minus 6 Plus der er det minus 8 minus tog lidt minus 14 plus to minus 12.
+
+37:03
+Altså slukket den sidste rejse enten gør jo ikke noget ved.
+
+37:07
+Ikke også er det en langsommelig affære, men til gengæld har vi nu fået skaffet os et ettal her og nu eller derunder.
+
+37:16
+Nu skal vi sådan set gøre det samme. Nu skal vi have skaffet os et et tal hér.
+
+37:24
+Og jeg vil tillade mig at gå videre højere op, og det kan jeg ikke så meget for jeres skyld.
+
+37:28
+Mest for dem, men ved siden af. Jeg laver lige en lang pil. Det er altså ikke nogen notationen, men bare lige for.
+
+37:33
+Ingen perfekt. Sådan er så tiltet, og så kommer det nu.
+
+37:39
+Nu vil jeg gerne skaffe mig et et tal her, og nu er det jo ingenting problematisk i at dividere denne med fire, for det giver mig ingen brøker.
+
+37:47
+Så jeg ganger hele denne række to med en fjerdedel, så jeg stiger en fjerdedel gang i række 2.
+
+37:54
+Jeg skriver direkte elegant en nul, tre og herover syv.
+
+38:02
+Så tager de altså ganger hele radio med en fjerdedel, det giver ét.
+
+38:06
+Det giver minus to, og det giver minus tre. Og her rede for en nul minus ét, et to.
+
+38:17
+Nu tager jeg så. Nu vil jeg gerne have skaffet mig et et tal her. Nu vil jeg gerne skaffe en nål og uden om det et tal.
+
+38:25
+Det gør jeg på følgende måde. Jeg tager række et række tre, og til den ligger jeg i række 2.
+
+38:35
+Jeg skriver lige ned og slidt ned igen. Nul in minus to minus tre.
+
+38:46
+Og hermed lægger denne op til nul plus nul +0 det giver nul.
+
+38:52
+En plus minus indikerer nul minus to fuldstændig giver minus 1 og minus tre procent.
+
+38:58
+Det giver os minus en. Nu har vi fået sat et tal her og her, nu vil vi gerne skaffe os et et tal her nede i bunden.
+
+39:09
+Det kan jeg jo gøre, ved jeg gange række 3 med minus ét. Søndag.
+
+39:19
+Og det vil sige derfor er tallet nul nul ind, og jeg står også en Hernan ganger med minus ét.
+
+39:25
+De to øverste rækker skriver igen nul in minus to, minus tre og heroppe en nul tre.
+
+39:37
+7. Så det var et ordentligt projekt her.
+
+39:44
+Jeg er ikke færdig, og der hold op. Et meget stærkt.
+
+39:51
+Øverst oppe ganger lige række to herrer hernede fra med en fjerdedel.
+
+39:58
+Så får jeg et minus to minus tre. Det er den der hero, der tager sig række 3, og til den lægger at række 2.
+
+40:07
+Jeg tager denne række her, og så lægger den op til vejr.
+
+40:11
+0 0. Minus ét minus.
+
+40:16
+Og så kommer vi ind til den nederste række. Alger ganger igen med minus ét, og her er der stort set det samme.
+
+40:23
+Så hvis. Der var ikke andet for end at.
+
+40:35
+Vi er lige ved at være der. Ikke var alligevel.
+
+40:40
+Der skal næsten ingenting til. Dette er et tal, der står i den nederste række i matricen.
+
+40:49
+Det ville jeg gerne have nuller ovenover.
+
+40:52
+Så nu er det sådan set klart, hvad jeg vil gøre, når nu jeg så laver det vilde og nemlig lave to skridt i en.
+
+41:03
+Jeg havde troet jeg lige kunne have det på den tavle Corsa, så nu siger jeg så nu kommer der to ting.
+
+41:12
+Jeg tager række ét til. Den siger jeg så minus tre gange i række tre, og jeg tager række to og til denne serie.
+
+41:20
+Plus to gange række 3. Hvis jeg gør det frivilligt, hvad sker?
+
+41:26
+Jeg skal altså skrive den ned og streger igen. Og så ser jeg så den nederste række.
+
+41:34
+Den ganger jeg med med to og lægger til række 2.
+
+41:38
+Og ja, først og så er der nul et filter, der står nul, og de to første sker ingenting.
+
+41:44
+Så ser jeg så en gang. To er lagt til. Det giver nul der. Så siger jeg så en gang 2 plus minus tre.
+
+41:52
+Det giver minus ét, tager sig af og ganger dem ned og strækker med 2.
+
+41:56
+Og så ligger den til række to og tager hele nederste række og ganger med minus 3 og lægger den til række et hernede sker ikke noget, der står nuller.
+
+42:07
+Altså hvis minus tre genanvendte plus den der bliver nu. Så siger jeg minus tre gange.
+
+42:13
+Det tal lagt til. 7 Det giver fire. Puha, nu har jeg skrevet mine ligninger om.
+
+42:22
+Jeg. Mio.
+
+42:31
+Mio. 3,3 mio. Jeg bare gange hele række 3 med minus 1.
+
+42:40
+Jeg har omskrevet mine ligninger nu på matrix formen, men jeg har ikke lagde om på løsningsmodel.
+
+42:45
+Det var det, de tre række operationer gik ud på. Jeg har bare ombyttet nogle ligninger, jeg har gange liggende med.
+
+42:51
+Nogle tal er lagt en linje, og sammen ikke andet har jeg gjort. Det vil sige løsnings.
+
+42:55
+Mængden til mit nye system er magen til det gamle. Nu skriver jeg, så lød ligningerne tilbage.
+
+43:00
+Nu skrev vi først, vi havde ligningerne. Vi skrev total matricen.
+
+43:05
+Nu tager vi totalt. Matricer står her. Nu skriver vi, ligningerne er tilbage.
+
+43:10
+Og nu har vi ved magi omformet lime til noget specielt, for nu står der jo her x et.
+
+43:17
+En ganger jeg ikke set står der plus noget gagging topologisk 3 er lig med 4.
+
+43:22
+Her står nogle gange ikke set. Plus en gang X2.
+
+43:27
+Plus Nugari 3 er lige nu sæt og den sidste ligning 0.
+
+43:31
+Exit 0 2 1. X3 er lige et, og det ligning system er det noget nemmere at se løsningen i end det første.
+
+43:40
+Men det er den samme løsnings mængde. For her står jo direkte at læse, at vores løsning exit X2 og X3 er ja, den er 4 x2.
+
+43:51
+Den er minus ét og X3 den er et.
+
+43:56
+Der var altså åbenbart kun én løsning til det her lille system, der fik alle ligninger til at stemme overens samtidigt.
+
+44:05
+Det er metoden det her, når I skal løse linjer og lignende systemer.
+
+44:11
+Går vi lige lidt tilbage og ser på line systemet, så kan vi også godt se, hvad det er det er.
+
+44:17
+Hvis vi skal kalde mig ikke set ikke sur i sagen, men ikke synes efterladt tre pladser i rummet.
+
+44:22
+Det svarer til, at de tre planer en skærer, en skærer den pavelige linje og den sidste kommer.
+
+44:27
+Så sker der lignende et enkelt punkt og det enkelte punkt. Det er der, hvor de tre planer skærer hinanden.
+
+44:32
+Det er det punkt der. I os havde vi haft Mabel, og det har vi lige om lidt.
+
+44:40
+Så kunne vi bare taget lignende systemer skrevet ud, navnlig dust, rowe eller en form, så den kom ud med fire et minus et ét.
+
+44:48
+Men det ser bare godt var klar, når det skal bruges, så vi skal lige sige noget om dette, fordi denne her form for total matricen, denne form her.
+
+45:06
+Den kalder vi os noget. Den har sit eget navn. Hvis vores totale matrice har op.
+
+45:12
+Den vi starter med her hedder Store T. Når jeg kan se, at jeg er sjusket, fordi jeg sagde lige, at matrice havde jeg to streger under.
+
+45:26
+Så hedder den fuldstændig reducerede matrix. Vi har her denne arme.
+
+45:34
+Den hedder Trap Store T og den kaldes trapezformede.
+
+45:47
+Drabet formen har. Af store tab.
+
+45:56
+Så det vil sige ja tak, en trappe tabt til at Apple er i gang før.
+
+46:07
+Hør blot her meget godt set til Apple.
+
+46:14
+Undskyld! Der kan alt topformen, og det er sådan at dette er faktisk entydig bestemt.
+
+46:22
+Så hvis vi har et lille system hér, så er der kun en trappe foran.
+
+46:27
+Så hvis hvis I bliver spurgt om her Linnés system. Giv mig lige trappe formen.
+
+46:31
+Ja, så er den faktisk kun en måde, at man kan skrive på nu, siger Line System.
+
+46:36
+Det mener jeg egentlig ikke, for jeg mener, vi har en total matrix her,
+
+46:43
+så at trappe formen entydigt bestemt, så så for den matrix ja, der står på tavlen.
+
+46:51
+Og jeg er kun. Der har været alt.
+
+46:58
+Ja, den bruger altid store bogstaver til og små bogstaver til højre. Det er en tradition, han kommer sig af, og det skal vi se senere.
+
+47:06
+Det kommer os senere i dag, at så når denne matrix er helt speciel,
+
+47:11
+fordi den har form som en søjle med kun en søjle i og dem vi nævner vi typisk med små bogstaver, hvorimod nogle med mange søjler.
+
+47:21
+De får store bogstaver på sig, da der er en god forklaring på det, men den kan ikke giver endnu.
+
+47:30
+Der er en anden ting vi lige skal have kigget på her. Og det er et andet begreb, vi skal se her.
+
+47:35
+Det er, at de her ettaller, der står her, og de kaldes ledende ettaller, så et tallerne i toppen.
+
+47:53
+Kaldes. Nye.
+
+48:04
+Et tal. Og antallet af ledende ettaller.
+
+48:12
+Det kaldes randen af matricen. Kalas.
+
+48:32
+Parken. A matrice.
+
+48:38
+Så Teheran en the. Den er tre og det er den fordi.
+
+48:50
+At der er tre ledere et tal. Jamen, der står også et tal her.
+
+48:54
+Jeg vil ikke et med et tal, for du skal jo lige forstå, hvad et ledende et tal er. Et ledende, et tal.
+
+48:58
+Det er sådan, at når vi har reduceret matricen her, så skal der stå.
+
+49:07
+Så skal vi fejre det første tal, man møder efter et 0 efter.
+
+49:11
+Der må kun være nuller for, at de har levet med et tal, og det er først sammen med en række.
+
+49:15
+Det skal være et et tal. Hernede også hvis vi nåede her, smed vi det tal er han.
+
+49:22
+De skal være placeret sådan et tallerne, at et ledende, et tal altså i den første er der skal du lede med et tal i den næste.
+
+49:29
+Altid stå til højre for den øverste chef og i en søjle, hvor det er et led.
+
+49:34
+Et tal der skal være 0'er over og under. De har et tal som her.
+
+49:39
+Så kalder vi det her et ledende. Et tal, hvis eventuelle var en hel række kun manualer.
+
+49:43
+Så kan de være placeret nederst i den her matrix, så en trappe får man.
+
+49:49
+Denne have masser af sten og ser sådan her ud. Denne bliver aldrig et ledende etape for stort et tal foran dette pct.
+
+49:55
+Så der er ikke. Der er ikke det indledende etaper. Det første af komme med sådan noget.
+
+50:00
+Det skal være det ledende et tal. Så ved at tælle ledende ettaller, der kan man få noget at vide om.
+
+50:06
+Rangen er matricen, og det er et uhyre vigtigt begreb, som I skal se på til øvelserne i dag, og som vi også skal vende tilbage til mange gange.
+
+50:15
+Så den har altså Ring 3. Og det gælder faktisk også her, at hvis vi nøjes med at se på kommercielle matricen.
+
+50:20
+Den hedder AF, så er den også faktisk 3.
+
+50:23
+Altså hvis vi lige et øjeblik glemte højresiden og.
+
+50:29
+Ja, hvis der var valg efter. Så er det stadig træls.
+
+50:34
+Ja, det kan vi nemlig ikke helt undgå. Skal vi se det næste eksempel, hvordan det ser ud nu, kan man godt blive træt af at skrive rang,
+
+50:43
+så nogle af os skriver vi altså også bare sådan her, for det samme rang er t, hvor dette er i græsk ro.
+
+50:50
+Det gælder især godt sådan et lille og lettet. Og her skriver vi så rang, så man kan også bare nøjes med at skrive det lave ro.
+
+51:00
+Det betyder det samme som at skrive med bogstaver og rang.
+
+51:03
+Og så er den sidste ting er, at hvis man skal bruge Orange i Mabel og på engelsk, hedder det ren.
+
+51:09
+Så er det altså godt igen. Med et cover af stort værd, så man godt blive forvirret af den dansker engelsk rotation?
+
+51:19
+Ja. Vi tager lige et eksempel mere. Det første eksempel vi så det er sådan et klassisk eksempel, hvor alt går godt.
+
+51:26
+Alt bliver pænt. Der kommer til at stå en rigtig fin trappe med noveller uden om.
+
+51:31
+Men sådan går det ikke altid. Og sådan går det faktisk meget sjældent i de opgaver, jeg er.
+
+51:41
+Og nu skal jeg altså lige prøve at tage et eksempel. 2 timer har jeg ikke overskredet tiden.
+
+51:52
+Jeg tror, at vi er gået langt over tid. Det er fordi det var så spændende, at ingen reagerede.
+
+51:56
+Vi tager og så holder pause et kvarter fra nu, så jeg har fem minutter over og starter igen.

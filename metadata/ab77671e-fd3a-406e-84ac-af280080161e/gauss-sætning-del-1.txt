@@ -1,0 +1,710 @@
+0:00
+Hører til dimensionen 2. Så lad os se på det, og det hele handler jo om flux, som vi indførte sidste gang.
+
+0:12
+Altså flux her igennem en åben flade. Og vi så at.
+
+0:21
+Det da jeg skulle integreres over det var væk topfeltet taget på fladen gange med enheds normalt vektoren, altså det skalaer produkt, der var der.
+
+0:32
+Og så fik vi en form frem, nemlig at det kunne laves som sådan et dobbelt integral her med skalar produktet v gange med store 1.
+
+0:44
+Hvor store end er genet revet ud fra parameter fremstillingen?
+
+0:49
+Og så så vi noget med at det kunne så fortolkes blussende, kunne fortolkes som en volumen ekspansion trætte og det dyrkede i os i øvelserne.
+
+1:03
+Dette er en åben flade Gausel sætning haller om en lukket flade så dagens problemstilling.
+
+1:14
+Er følgende. At vi har vi har givet.
+
+1:32
+En lukket flade. F.
+
+1:49
+Og den tænkes. Altså forsynet med udadrettede.
+
+2:07
+Enheds normalt Viktor. Og det er et spørgsmål vi stiller.
+
+2:21
+Det er. Hvor store er.
+
+2:27
+Flux siden. Ud gennem.
+
+2:34
+F. Og en.
+
+2:43
+Det vil altså sige altså flux ind, hvis vi sådan taler om det som en mere fysisk, så er det jo udstrømningen per tidsenhed.
+
+2:50
+Det er det, vi kalder for flux. Det er det, vi spørger om her.
+
+2:54
+Og læg mærke til, at jeg her. Spørger ud gennem et.
+
+3:05
+Det giver god mening fordi at fladen jo har et indre og ydre, så det drejer sig om at finde den flux, der går fra fra det indre og mod det ydre,
+
+3:18
+og det er også det, vi mener, når vi siger, at den er forsynet med en udadrettet enhed, slår med et vektor.
+
+3:24
+Vi skal altså hele tiden forestille os, at vi betragter.
+
+3:30
+Retningen her. Altså i hvert punkt har vi altså givet en enheds normalvægtig, altså normalt vektor med længden 1.
+
+3:44
+Og når vi så spørger om flugten ud igennem, så er det altså den det er så skal sige skalar produktet er væk.
+
+3:52
+Feltet med de her enheds normale vektorer. Og vi husker jo at.
+
+4:12
+At flugten betragter vi som et et overskud, så det kan jo godt være, at der er nogle steder på denne flade,
+
+4:21
+hvor strømmen går udad, men der er altså andre steder, hvor flugten går imod.
+
+4:26
+Og når vi så beregner blusen, så er det altså den samlede inden stramning eller udstrømning minus indstrømningen.
+
+4:36
+Og alt efter det kan jo være positivt og negativt, det afhænger jo både af flåden og af Vectra feltet.
+
+4:46
+Og så kan vi altså sige at hvis. Nu slusen er større end nul.
+
+4:56
+Altså da er en større udstrømning end da indstrømning.
+
+5:06
+Så kan vi sige, at så må der altså ligesom være en kilde inden i det her område, som er ligesom producerer et overskud.
+
+5:20
+Det er også håndværksmæssige fysiske betragtninger af flux den mindre, så sker der altså en slags sammentrækning.
+
+5:29
+Og så kan vi sige, at der må være et eller andet Berlin, der inden da ligesom suger noget til sig.
+
+5:35
+Det er nogle intuitive fornemmelser, som man kan bruge omkring det her.
+
+5:42
+Når vi skal indføre et symbol for Kluxen, så vil det selvfølgelig ligne det symbol vi har Kluxen for en åben flade.
+
+5:55
+Og så kommer spørgsmålet Hvordan kan vi mest hensigtsmæssigt udtrykke det her?
+
+6:01
+At det er flux igennem en lukket flade? Som det fremgår klart af skrivemåden.
+
+6:08
+Og det gør vi sådan her. Altså symbolet for flux ud igennem en lukket flade.
+
+6:24
+Det skriver vi sådan her. Det er integralet og overtager.
+
+6:32
+Det omega. Kim.
+
+6:41
+Dem en skraldet over det omega, og så skal larm produktet her væk topfeltet gange skal Lars med enedes normal vægt tager feltet.
+
+6:54
+Og hvad mener vi så om, at det jo det vi gør, er, at vi siger der er givet et massivt område i rummet.
+
+7:03
+Det kalder vi omega. Så når vi så kigger igen på den flade her, så kigger vi faktisk allerførst på det massive område.
+
+7:27
+Da er det fordi når vi ligesom siger et massivt område, jamen så vil dets overflade jo være en lukket flade.
+
+7:35
+Så det er altså det, der er ideen i det. Vi har altså et massivt område og så.
+
+7:42
+Det omega er overfladen.
+
+7:52
+Af det massive område, så vil den være lukket, og det er derfor altså vi skriver dette symbol for lukkede flader.
+
+8:05
+Godt lad os prøve at kigge på nogle.
+
+8:11
+Enkelte eksempler. Og først så kigger vi på et konstant væg felt.
+
+8:33
+Altså et væg Staffeldt af typen V x komma Y kommer z vi med k et komma kor 2 komma coat tre.
+
+8:53
+Vi har her igen. Vores massive område, og så er der altså givet et konstant væg felt.
+
+9:06
+Altså overalt i rummet. Hvad er det den samme vægter da er givet?
+
+9:24
+Og så vil vi gerne bestemme hvad er så?
+
+9:29
+Flux flugten ud igennem fladen.
+
+9:33
+Her. Og er der et bud på det?
+
+9:51
+Højt yes, hvorfor byen blandes sig.
+
+10:00
+Præcis. Når alle de væk.
+
+10:06
+Hov, der var en der gik den forkerte vej. Når alle de her vektorer er ens.
+
+10:12
+Ja, men så må det da gå ind i en i området.
+
+10:18
+Den strøm, der går ind, må være det samme som den, der går ud. Så det syntes jeg var et godt intuitivt svar.
+
+10:27
+Indstrømningen må være lig med udstrømningen, og altså Kluxen er lig med nul.
+
+10:46
+Så vi kigger den i igen på et ganske særligt vigtigt felt, nemlig det vi har kaldt for eksplosions væk fra feltet.
+
+11:09
+Han. Altså det er væk følte.
+
+11:19
+Som er bestemt ved at vægteren i et bestemt punkt er lig med punktets koordinater.
+
+11:27
+Altså ved Ekstra My kommercielt er lig med eksformand kommercielt.
+
+11:34
+Ca. Og så siger vi Omega.
+
+11:41
+Er den massive kugler. Som har centrum.
+
+11:57
+I nul komma 0,0. Og.
+
+12:04
+Radius leg med er. Så.
+
+12:16
+Og vi skal altså bestemme flugten ud igennem overfladen. Altså bestemt Kluxen a, v.
+
+12:29
+Ud gennem. Det omega.
+
+12:37
+Som jeg ser er kula overfladen. Så lad os lige tegne den.
+
+12:55
+X y z. Så har vi så kuglen her.
+
+13:09
+Og. Altså radio. Den er er.
+
+13:18
+Og lad os lige skrive op. Altså arealet omega og at lære at skrive om volumen.
+
+13:37
+Af Omega. Så hvad er cool overfladen, hvad dens ejer eller nogen der ved dig?
+
+13:54
+Men når man vi. Og det er et areal der hører med er i anden sikkert.
+
+14:10
+Hvad skal du stå her i? Yes! Og så skal vi også lige have rumfanget af den guldager.
+
+14:26
+Hjem. Peg og selvfølgelig yes, nu er det rumfang.
+
+14:35
+Sådan er udmærket. Se, nu kan vi jo vælge os et punkt på overfladen.
+
+14:53
+Altså her har vi ordet god. Og lad os sige vi har par.
+
+15:02
+Vi har så en væg så her. Så klar.
+
+15:09
+Vi siger. Asaph er et vilkårligt punkt på overfladen.
+
+15:24
+Altså P. Eksformand Y kommercielt. Det er et punkt på overfladen og.
+
+15:34
+Og nu vil jeg finde enedes normalvægtig om i P.
+
+15:47
+Og så se det trick vi altid bruger, når vi skal have en enhed stå med et værktøj.
+
+15:54
+Det er jo, at vi siger står med et vektoren må jo være parallelt med sted vektoren floppy altså her der har jeg.
+
+16:04
+Normalt vektoren her. Og den må jo så være givet ved.
+
+16:10
+O p så. Divideret med længden af UPI vægter.
+
+16:23
+Og opefter har koordinaterne eksformand Y kommercielt.
+
+16:32
+Og længden af o p, det er jo radius i cirklen.
+
+16:41
+Altså kort sagt, så har vi altså x divideret med r y divideret med r.
+
+16:48
+Og så sæt divideret med er. Og hvor en.
+
+16:59
+Og hvor. Radius så er givet ved Pythagoras ikke sige andet plus bluesy i anden nu sætte hjernen, altså kvadratroden af den kvadrat som.
+
+17:15
+Kun når. Nu går vi i gang.
+
+17:20
+Nu vil vi nemlig beregne integralet. Af skalaer produktet af væg topfeltet med enheds normalt vektoren.
+
+17:40
+Og så får vi at. Vi skal altså tage væk så feltet som var Eksjö sæt.
+
+17:54
+Det skal vi garne skalaer med enheds normalvægt sådan her.
+
+18:00
+Og så får vi jo. Exit i anden lousy i andet sæt i anden.
+
+18:09
+Divideret med er det altså skalar. Produktet af de to, sådan som vi har skrevet dem op.
+
+18:23
+Og det her. Da vi har radius er kvadratroden af det her.
+
+18:31
+Så har vi altså her, at det her er radio's i anden, så det vil altså sige at flux, men den er så.
+
+18:42
+Det omega. A er altså at gå op i nævneren.
+
+18:49
+Her opgiver til R, og det har vi så igen Demy.
+
+18:59
+Nu kan vi sætte er uden for parantes. Så har vi er.
+
+19:06
+Og så har vi det omega. Og så har vi en.
+
+19:15
+Det er my. Og så får vi hvad. Hvad er resultatet, at dette produkt er gange integrationen over tallet ét over overfladen?
+
+19:39
+Hvad er det her et symbol for, når vi integrerer over en?
+
+19:51
+Nej, vi behøver. Vi behøver sådan set ikke at snakke om om Jacobi nu, men det her er jo klart et f et flade integral,
+
+20:01
+hvor væg funktionen er en, og når væg funktionen er en, hvad er det så vi får i S?
+
+20:07
+Og det har vi jo stående her hen. Så det er altså fire Pi er i tredje.
+
+20:25
+Og vi har sat er udenfor i en. Så det bliver altså 4 4 i tredje.
+
+20:41
+Og at se nu kunne jeg sådan set godt være stoppet her.
+
+20:45
+Men nu regner jeg lidt videre på det her, fordi nu ser jeg ikke sådan, som det også blev bemærket op.
+
+20:52
+Der dukkede jo noget med er i tredje op her, og det lugter lidt af noget rumfang.
+
+20:59
+Og så kan vi gå hen og kigge på denne her. Og så kan jeg selv hvis jeg sætter tre ud får M.
+
+21:09
+Så har jeg jo fire tredjedele pli. Er i tredje jeg?
+
+21:22
+Og det her. Det er jo tre gange med.
+
+21:37
+Integralet over det massive kulde over tallet en.
+
+21:48
+Det har vi jo her hjemmefra, altså integreret med en masse tæthed funktion en.
+
+21:55
+Så får jeg volume her. Og så kan jeg se 3 tallet 1.
+
+22:03
+Bag altså flyt konstanten ind bag integrale tegnet her.
+
+22:08
+Og så får jeg så integralet over tre. Det.
+
+22:23
+Så. Beta så rejser som et spørgsmål her.
+
+22:30
+Er så jeg, men hov. Jeg var i gang med at udregne et flade integral over en lukket flade, og så havnede jeg oppe i et rum integral over tre.
+
+22:47
+Så spørgsmålet er altså. Altså hvad har tre?
+
+22:58
+Med fluesnapper gøre. Det skal vi nu spekulere lidt over.
+
+23:16
+Og. Og.
+
+23:28
+Det fører os til snak om et begreb der hedder divergens.
+
+23:47
+Vi har jo to vigtige begreber til at beskrive et væg felt.
+
+23:54
+Altså egenskaber ved et vægter felt. Det ene har vi været inde på her.
+
+23:59
+Det er begrebet rotationen af et væg felt. Det giver et nyt værktøj felt, som vi kalder for rotations værktøj feltet.
+
+24:08
+Men vi har også et begreb, der hedder divergent er et vigtigt felt, og det giver en funktion af tre variable.
+
+24:15
+Og lad os lige se hvordan erkendelsen den opstår. Ligesom rotationen kunne skrives ved hjælp af nabla som et snyde.
+
+24:30
+Krydsproduktet, så kan de Jensen skrives som et snyde skalar produkt, hvor vi hvor Natla indgår.
+
+24:40
+Husk at nabla. Det er en differential operator.
+
+24:50
+Det er det eks. Det er et nyt. Og dette set.
+
+25:00
+At det er en operator det betyder, at der sådan set bare står, hvad det er for nogle differentiation vi skal udføre.
+
+25:08
+Men der står ikke noget om, hvad det er, vi skal bruge dem på.
+
+25:13
+Men hvis vi nu skriver. At ved begyndelsen af et vægtet felt ved.
+
+25:25
+Derfor står vi. Nabla skalaer.
+
+25:34
+Gange med vægt på feltet. Så får vi altså her.
+
+25:43
+De Francia nu operatoren. Også dette snyde skalaer produkt.
+
+25:57
+Og så har vi koordinat funktionerne. For væk fra feltet.
+
+26:07
+Og det man gør når man udregner de begyndelsen, så vi siger vi bruger den her får vi et.
+
+26:22
+Og vi differentierer partielt efter Y på Vito og ligger til.
+
+26:32
+Og vi differentierer partielt efter Z og ligger til. Så har vi hermed givet en definition på hvad de forkælelsen er.
+
+26:50
+Og lad os tage et eksempel på det. Altså vi har et vægtere felt der hedder X kommer ny Kommersant.
+
+27:07
+Er givet ved except. Og.
+
+27:12
+Sæt Y i anden og 5. Så udregner vi de værk de begyndelsen.
+
+27:29
+Er væk så feltet. Ved at vi differentierer den første partielt efter eks, og så får vi sæt, og så skal vi lægge til.
+
+27:45
+Den anden differentierede partielt efter y, z er konstant, og så bliver der altså to y z.
+
+27:56
+Og så skal vi differentiere 5 efter Z. Den giver nul.
+
+28:02
+Så divergerende sene af et fælt. Det er sådan set relativt nemt at udregne.
+
+28:11
+3 de France stationer som man lægger sammen. Og hermed er vi parat til at introducere Gausel sætning.
+
+28:35
+Som siger at. Flux flugten ud igennem en lukket overflade.
+
+28:54
+Som altså i flade integral kan udregnes som et rum integral.
+
+29:01
+Over det massive område som fladen den omslutter.
+
+29:09
+Og hvor det vi skal, det vi skal integrere over, det er en funktion af tre variable, altså en vægt funktionen kan kalde den.
+
+29:17
+Men det er den særlige væk funktion, som er begyndelsen.
+
+29:32
+Og det er altså det her, der jo altså er en meget dyb, mærkelig sætning, at et flagede integral.
+
+29:42
+Altså et to be integral så at sige at det kan udregnes som et rum integral.
+
+29:49
+Og køen. Det er en sætning, som har stor interesse i forbindelse med forskellige udregninger, og det skal vi også se eksempler på senere.
+
+30:02
+Fordi hvis vi skal udregne et flade, så sådan et et flux integral her.
+
+30:12
+Og det her skalaer produkt. Det kan måske blive meget vanskeligt at udregne.
+
+30:17
+Så kan det være, at hvis vi differentierer ned. At så får vi et meget enkelt udtryk her hende, så jeg ser okay,
+
+30:25
+de går godt nok en integration op og skal så bruge et trippel integral i stedet for et dobbelt integral.
+
+30:32
+Men hvis divergens er meget enkel at arbejde med, så er det jo meget fint, at vi kan bruge den form her.
+
+30:41
+Under tiden går der også i den modsatte retning.
+
+30:45
+Lad os sige er det her der står da en funktion f a x command y kommercielt, altså en masse tæthed funktion.
+
+30:55
+Og hvor jeg lige pludselig kan se jer behov. Den massive tæthed funktion efter står her den dag fortolket som divergens en vægter følte.
+
+31:08
+Så kan det være at det er meget nemmere, så gå hen og udregner det her.
+
+31:12
+Altså blusen er den, at det vækster fælt ud gennem overfladen, så det er den dér vekslen imellem.
+
+31:20
+Dimensionerne fladede integral over for rummet til grad, som er det virkelig dybe og interessante i den sætning her.
+
+31:33
+Så kom så lad os gå tilbage til dit eksempler vi var inde på før her.
+
+31:47
+Så er her det første eksempel vi arbejdede med. Vor by.
+
+31:56
+Rent intuitivt kunne sige Jamen, vi er sådan et konstant vægtet felt, der må gå ud jeg en må være det samme som det, der ryger ud.
+
+32:06
+Da kan vi jo så prøve at udregne divergerer Olsen er ved.
+
+32:19
+Og denne er jo så differentiation af konstanten efter eks.
+
+32:26
+De France differentiation af CO2 efter y. Og differentiation er kort tre efter sæt, så den giver altså 0.
+
+32:39
+Så vi har altså at integralet. Over.
+
+32:50
+Over at overfladen er. Den er integralet af over omega at de begavelsen.
+
+33:04
+Og den er integralet over nul. Og den giver selvfølgelig lig med nul.
+
+33:16
+Og så går vi tilbage til det andet eksempel her hvor vi altså havde en væg topfeltet som er institutionens væk feltet.
+
+33:40
+Det. Og hvor bliver så udregner de Vagn Jensen er væk så feltet.
+
+33:56
+At feltet var givet op, så differentierer første koordinaten efter eks.
+
+34:03
+Den giver en from seer anden koordinaten efter Y.
+
+34:08
+Den giver en og differentiere et tredje kun natten efter en.
+
+34:15
+De har også en, så vi får altså divergent 1 tre.
+
+34:21
+Og det var jo lige præcis det der stod her hen. Så er vi her, nu regner vi bagfra.
+
+34:29
+Det omega A ved grand end det my.
+
+34:35
+Er så lig med. Et.
+
+34:41
+Triple Hindsgaul. Hun.
+
+34:50
+Altså. 3.
+
+34:55
+My. Og vi kan sætte et træ uden foran, så vi altså har en Demy.
+
+35:05
+Og det var jo tre. Og var dette et symbol for dets volumen?
+
+35:13
+Fire. Tredjedel 10. Er i tredje.
+
+35:19
+Og så får vi altså igen 4 10 er i tredje.
+
+35:30
+Og det ejendommelige vi er nået frem til før det lå altså simpelt hen i at 3 tallet er de erkendelsen.
+
+35:36
+For dette værk Staffeldt, så det var det der var pointen i det, der står op.
+
+35:54
+Se hvad det sidste angår. Se når vi har regnet det ud på den måde her, så vil jeg gerne bede jer at bemærke.
+
+36:10
+At det resultat der kommer ud her, står der intet som helst om kuglens.
+
+36:19
+Altså om kuglens beliggenhed dens centrum. Jeg havde jo godt nok sagt, at.
+
+36:26
+Altså at vi har lagt den fra starten af i 0,1 0,0.
+
+36:32
+Det er det, vi har regnet ud. Men det her 0,1 0,0 indgår overhovedet ikke i udregningen her.
+
+36:40
+Det eneste der indgår det er Radio's i tredje.
+
+36:45
+Og det er faktisk et interessant fænomen.
+
+36:49
+Fordi den siger jo bare simpelt hen at det her regnestykke ville have set ens ud, uanset hvilken kulør jeg havde valgt med radiosender.
+
+37:03
+Jeg vil lige kigge på det her. I ved altså eksklusionssag feltet.
+
+37:17
+Det ligger og stråler ud fra origo. Og jeg havde altså lagt kuglen herinde, så det var jeg altså.
+
+37:28
+Der var kun udstrømning fra denne.
+
+37:33
+Den udstrømning her har vi altså udregnet til det resultat, der ligger herinde.
+
+37:40
+Se de her vektorer. De bliver jo længere og længere.
+
+37:44
+Jo længere væk jeg går fra origo, altså her, der får vi nogle vektorer, der er her, og lad os sige herude.
+
+38:03
+Der ser vi ikke så feltet ud på den måde, som jeg har tegnet her og nogenlunde og sæt nu,
+
+38:09
+at jeg havde taget den her kugle og lagt den herude i stedet for.
+
+38:18
+Sådan lader sig sige, at Kluxen igennem den pool her er den samme som den flux, der ligger herinde.
+
+38:29
+Og her kan jeg jo se at den kugle her, da er der jo masser af indstrømningen her fra venstre, altså strøm ind i kuglen her.
+
+38:41
+Og da er også mægtige strand ud af den anden side af kuglen så at sige.
+
+38:48
+Så hvor det her er rent overskud, der giver fire PPI, er i tredje.
+
+38:55
+Så er det her altså den den udstrømning der er minus den indstrømning dør, der giver det samme resultat.
+
+39:04
+Så flux den igennem dem. Det samme som flux igennem den kugle der ligger herinde.
+
+39:12
+Derfor kan jeg jo se det dem med overskud. Det er jo altså helt altså helt afgørende.
+
+39:31
+Så det her, det hænger i høj grad sammen med det der står her hende.
+
+39:37
+Altså at divergens den her, som jeg havde udregnet den.
+
+39:41
+Hvor tre det vil sige da jeg udregnede divergens. Olsen Der kom koordinaterne her ikke med.
+
+39:48
+De blev differentierede ned, så de optrådte slet ikke.
+
+39:52
+Så derfor kan vi herud få en meget vigtigt særtilfælde for Gausel sætning, for vi kan nemlig nu sige.
+
+40:03
+Ca. At. Altså hvis.
+
+40:11
+Hvis divergerende gerningsmænd. For et vægter felt er konstant.
+
+40:31
+Så gælder det om. Så gælder derfor et været massivt.
+
+40:44
+Område. At flugten ud igennem områdets overflade.
+
+41:06
+Jo, så er lig med konstanten. Altså rumfanget integralet af konstanten.
+
+41:25
+Hvor vi kan sætte konstanten ud foran. Så da jeg så står Konstantin garnene rundt fangst integralet over masse tæthed funktionen 1,
+
+41:49
+som jo altså giver volumenet af området det massive område.
+
+42:04
+Sådan. Kort sagt flugten ud igennem overfladen.
+
+42:13
+Kan simpelt hen forstås som altså den konstante divergens og så gange med rumfanget af den.
+
+42:20
+Og som vi også så i det eksempel og pauser.

@@ -1,0 +1,1055 @@
+0:04
+De har sikkert lagt mærke til, at nu har vi faktisk snakket mindst en halv time omkring vektorer i planen og vektorer i rummet,
+
+0:15
+uden at jeg har nævnt ordet koordinater. Det har jeg ventet med indtil nu.
+
+0:21
+Og hvorfor det er fordi, det er noget af det allersværeste at forstå i lineær algebra.
+
+0:27
+Det at være koordinater, ja, det er det, vi skal prøve at se, om vi kan forstå nu koordinater.
+
+0:34
+De er altid afhængige af den basis, man har valgt. Hvis man vælger en ny basis, så får vægteren nogle andre koordinater.
+
+0:43
+Det er det, vi skal prøve at se, om vi kan forstå i dag og forskere.
+
+0:47
+Vi starter lidt blødt ud, og så snakker vi om standard baser, som vi kender i forvejen.
+
+0:53
+Vi starter med i planen. Og hvor vi siger hvis det er længden af en vektor i hvis den er lig med 1.
+
+1:14
+Og vektoren J den er lig med sværvægteren er i.
+
+1:24
+Så er sættet altså væk.
+
+1:28
+Sættet. Det kalder vi fordi I kommer j en standard basis.
+
+1:49
+Standard bag dem kalder vi altid for en som ligesom står for Enheds basen, og I er helt med på, hvad jeg mener her.
+
+2:01
+Det vil jeg så sige. Det minder jo sammen som sådan et X i kortene i et system.
+
+2:06
+Hvis vi afsætter dem ud fra et referencepunkt, origo og dør, sætter vi så i vektoren hér, og så tager vi dens sværvægtere.
+
+2:18
+Den kalder vi på J. Hvis jeg nu afsætter en vilkårlig vektor v ud fra origo.
+
+2:31
+Det gør jeg nu at sige.
+
+2:35
+Den der vægter denne hedder ved. Så nedfælder jeg lige den vinkelrette dér.
+
+2:47
+Og hvis vi nu siger, at det dér stykke det har længden ved et regnet med fortegn, og det er det, det har længden ved 2.
+
+3:04
+Så har vi jo her en ny vægtere. Se den vektor, der ligger her.
+
+3:11
+Det er jo et tal. Gange med en vægtere.
+
+3:14
+Denne hedder så vi et gange med i vektoren og den vektor, der ligger her fra origo og til det andet nedfældes punkt.
+
+3:26
+Denne hedder så tallet ved to gange i øjet vektoren, og så kan jeg jo så se parallelogram.
+
+3:36
+Metoden siger jo så, at v vektoren den er lige med v et.
+
+3:49
+Ved et gange i vægtere plus ved to gange J vægteren.
+
+4:03
+Det jeg har lavet her, det har jeg har opskrevet ved som en lille a en kombination af i og J.
+
+4:12
+En lidt nord kombination af et ord I skal jeg til kommer til at høre det mangen gang.
+
+4:16
+Hvis I ikke forstår det nu, så gør jeg det om lidt. Det er bare.
+
+4:22
+Man lægger nogle vektorer sammen, efter man har ganger nogle koefficienter på din argumentation.
+
+4:27
+Så hvad er coordinator koordinater? Det er koefficienterne egentlig, når kombination af den givne vægter så her.
+
+4:38
+Den har altså koordinaterne ved ét og vi to, og det skriver man sådan her.
+
+4:47
+Jeg skal jo her. Hvis koordinater med hensyn til standard basen.
+
+4:57
+Det er ved et over veto.
+
+5:04
+Og ved et og vi to der så koordinaterne med hensyn til den specielle basis vi har lavet her.
+
+5:15
+Så kigger vi på rummet. Selv da kender jeg også godt standard basen.
+
+5:32
+Så hvis vi har sådan et ikke synes tæt koordinatsystem i rummet, så har vi her en enhed svigter i og nede i Irak sygeplejen.
+
+5:44
+Der kigger vi så på deres sværvægter J. Og så har vi her et værktøj, som er vinkelrette på dem begge to.
+
+5:56
+Den kalder vi så for K. Så er sættet.
+
+6:05
+1. Leg med i Karma J Komma K.
+
+6:15
+Det er en standard basis. Det.
+
+6:29
+Så igen hvis vi nu kigger på hinanden. Hvis jeg nu kigger på en anden vektor, så nu jeg ikke været så smart, fordi jeg tegner en væg, så jeg ved.
+
+6:44
+Vilkårlig vektor, så producerer jeg den ned i panden, kigger på dens projektion ind på ikke saksen,
+
+6:54
+kigger ind på dens produktion på Isaksen, så den væg, som vi har her.
+
+7:00
+Den er så summen af den vektor, der ligger her. Den vektor er så en vektor, der ligger her en vektor, der ligger her, og så en vektor der ligger.
+
+7:09
+Det vil altså sige ved vektoren. Den kan skrives som en lenau akkumulation b ind i plus B2, J plus ved tre k.
+
+7:29
+Og igen. Hvad betyder coordinator?
+
+7:32
+Det er koefficienterne en litauer kombination af vektoren V ud fra basen, og vi skriver sådan her, at koordinaterne for V.
+
+7:44
+Med hensyn til standard basen. Det er altså ved ét vi to oppe i tre koordinaterne.
+
+7:55
+De optræder først her, og så skriver vi dem op på den måde der.
+
+8:08
+Nu skal vi snakke om nye baser. Og basist skifte.
+
+8:19
+Det er noget som vi introducerer i dag, snakker om mange gange fremover og igen.
+
+8:25
+Hvis ikke fanger den 100 procent i dag, så kommer I til det.
+
+8:30
+Det lover jeg. Hvis får I pengene tilbage? Det bygger så på et lidt svært begreb som hedder som hedder lineær uafhængighed.
+
+8:50
+Det er et meget fornemt begreb. Og nu snakker vi først om i planen.
+
+9:03
+Og det nemmeste er jo sådan set Vi snakker først om lineær afhængighed på sigt.
+
+9:11
+Her har jeg to vektorer i planen. De er lineært afhængige.
+
+9:18
+Hvad mener man med, at de er lineært afhængige? Dermed mener man, at hvis vi bare tager de rigtige repræsentanter for dem.
+
+9:28
+Bum! Så kan de placeres på en ret linje.
+
+9:33
+Ligner afhængighed kan ligge på en ret linje.
+
+9:39
+Og så hvad siger du? Modsatrettede. De er det.
+
+9:44
+De ligger på. De ligger på. Og ja, der bliver spurgt modsatrettede vektorer.
+
+9:49
+Kan de også være lineært afhængige? Ja, altså det er de modsatrettede.
+
+9:53
+Okay, og jeg bringer dem til tæt. Ikke på samme linje. Jeg er Peter.
+
+10:01
+Men det vil så sige lineært uafhængige vektorer.
+
+10:06
+Det er så sådan nogle som dem her. Det er lige meget, hvad jeg gør. Jeg vil aldrig kunne få dem til og ligge på samme linje.
+
+10:13
+Så hør A.
+
+10:16
+A. Ét, og at to er lineært uafhængige.
+
+10:27
+Hvis de ikke er parallelle. Bestyrelsens.
+
+10:38
+Det er en meget kort definition, og vi skal efter ferien opskrive dér pøj pøj pøj på en meget mere sådan tjekket matematisk måde.
+
+10:47
+Start, men vi starter her. Hvis de ikke er parallelle, så udgør de en ny basis.
+
+10:58
+Så udgøres sættet og det vil være naturligt at kalde det for A, og det består altså er vektorerne af ét og i 2.
+
+11:10
+En ny basis. Så lad os lige se hvad mener vi med det?
+
+11:19
+Se, jeg kan afsætte dem. Jeg kan godt sige igen, jeg har et referencepunkt origo.
+
+11:28
+Dér tegner jeg sådan en vægter. Der tegner sig et mellemvægtere.
+
+11:37
+Og nu kan jeg så prøve at en vilkårlig vektor tegner igen.
+
+11:46
+Det kunne være den der. Og så prøver at se, kan jeg opnå Veyhe som en Lenau kombination af af ét og to, så skal jeg lige lave et parallelogram.
+
+12:08
+Så hvis længden af den. Den er ved et bord og længden af den.
+
+12:15
+Det er vi to, så kan I se.
+
+12:20
+Så igen, så har vi at vide vektoren.
+
+12:25
+Den er ved et gange med ét vægteren og så længden ved to gange med to vektoren.
+
+12:37
+Det er jo simpelt hen sådan, at man lægger vektorer sammen i et parallelogram.
+
+12:42
+Når jeg lægger dem sammen med dem, så får jeg diagonalen. Det var jo ved.
+
+12:47
+Så det, jeg så rigtigt. Så det vil altså sige den vægt.
+
+12:52
+Så ved jeg har tegnet her. Den har nogle koordinater med hensyn til den nye basis.
+
+12:59
+Det er nemlig koefficienterne i en Leynar kombination af basis vektorerne, og det skriver vi sådan her, at hvis koordinater.
+
+13:10
+Og nu står der et indeks her. Før da havde vi ét, der betød, at det var en standard basis.
+
+13:16
+Det her er ikke en standard. Bays stil, nemlig en ny basis bliver kaldt for A.
+
+13:22
+Og det er altså bare koordinaterne, som er koefficienterne i legen og kombinationen.
+
+13:28
+Vi har det. Så skal vi i rummet.
+
+13:56
+Nu skal vi igennem snakke om lineær uafhængighed. Det burde hedde planere uafhængighed.
+
+14:02
+Det gør det ikke. For det er sådan set også bare en generalisering generalisering fra plænen til rummet.
+
+14:08
+Så hvad er lineært afhængige vektorer i planen?
+
+14:15
+Hvis vi kigger på tre af dem. Det er nogle, der ligger i samme plan.
+
+14:23
+Praise, idet de planer der uafhængige.
+
+14:26
+Det vil sige at de kan anbringes i samme plan. De ligner hjerter afhængig, så omvendt så er lineært uafhængige vektorer i rummet.
+
+14:40
+Det er altså tre vektorer, der ikke kan indbringes til at ligge i samme plan,
+
+14:45
+uanset hvor meget i parallelle forskyder dem i den ene eller anden retning.
+
+14:49
+Det at det er ja, vi kan skrive sådan her, at vi kan skrive tre, vi kan skrive et komma er to komma tre.
+
+15:08
+De er lineært uafhængige.
+
+15:19
+Hvis de ikke kan anbringes i samme plan. Og også hun gør det.
+
+15:39
+En ny basis. Sættet.
+
+15:46
+A leg med a et komma er to komma tre er så en ny bassist.
+
+16:01
+Og det svarede så til at de får sådan et skævt. Ligesom vi før havde et.
+
+16:06
+Vi havde et skævt koordinatsystem i planen.
+
+16:11
+Så har vi altså nu sådan et ikke kan se det.
+
+16:14
+Overhovedet ikke vinkelrette, men de lineært uafhængigt så enhver vækst, så den kan vi få som en lenau kombination af de tre vektorer her.
+
+16:28
+Altså en ved enhver vektor, hvis den kan skrives som en leynaud kombination.
+
+16:41
+Det vil sige vi er lige med ved ét af et plus to 2 plus det er tre a.
+
+16:51
+3. Og så koordinaterne for vægteren V med hensyn til den nye basis.
+
+17:02
+Det er så det ved ét med to B3, jeg har fundet her, og det skal vi altså sådan her.
+
+17:08
+Det kommer ikke bag på jer. På samme måde koordinaterne.
+
+17:12
+De stilles i sådan en lodret vægtere her ved et B2 B3.
+
+17:19
+Så endda. Nu har vi indført standard baser, og vi har indført nye baser.
+
+17:36
+Hvad sker der så, når man skifter basis? Det skal vi prøve at studere nu, og vi laver lige et eksempel.
+
+17:50
+Se her. Ja, jeg laver et koordinatsystem her.
+
+18:15
+Se, her har jeg lavet et koordinatsystem og nu tegner jeg to vektorer.
+
+18:20
+Hvis det er der, har vi altså længden ét her. Men min første vægtere her.
+
+18:24
+Den går her. Den kalder jeg for a et.
+
+18:31
+Og så har jeg her en vektor som jeg kalder for A2.
+
+18:41
+Og så er jeg så I kan se de ikke ligner at afhængig de lineært uafhængige, og fordi de er lineært uafhængige.
+
+18:50
+Der er to af dem i planen, så at de en ny basis, altså a.
+
+18:58
+Altså et komma er to er en ny basis hvor.
+
+19:10
+Det. Nu tegner jeg en vilkårlig vektor.
+
+19:19
+Det er jo bare et eksempel, ikke? Jeg skal jo finde på et eller andet. Dér.
+
+19:29
+Har jeg tegnet en eller anden væg, tager vi. Og nu vil jeg gerne have fundet dens koordinater med hensyn til basis af.
+
+19:42
+Og så skal jeg jo lave et parallelogram igennem spidsen.
+
+19:46
+Her skal jeg tegne en linje, som er parallel med to.
+
+19:58
+Og så skal jeg på samme måde, så skal jeg tegne en linje her fra spidsen og så den anden vej herind.
+
+20:09
+Sådan her. Og så har vi altså et parallelle parallelogram, som ligger her.
+
+20:18
+Skal vi se om vi kan finde ud af ved vægtere, er så en Leynaud kombination af to vektorer af et plus er to.
+
+20:34
+Hvad skal vi skrive her? Og hvad skal vi skrive hér?
+
+20:41
+Du har et forslag der længes efter X2, som vi ved meget om vi er ligeså slemt?
+
+20:47
+Ja, men det kunne du godt gøre, hvis jeg nu vil have nogle konkrete tal, der er aflæst ud fra den faktiske værktøjer tegnet her.
+
+20:55
+Så skal vi sige Hvordan kan vi læg an? Hvordan kan vi få V som en sum af de to vektorer?
+
+21:02
+Jeg kan se. Så skal vi helt herud til.
+
+21:08
+Så har vi parallelogram med Exchange med den, og den vil sige, at den er så høj af et plus 1 gange med 2.
+
+21:21
+Vi set det er summen, så den vægter det, at den hedder tre er ét, og den hedder bare A2.
+
+21:29
+Vi laver parallelogram metoden og får solen på den måde der, så det vil altså sige, at a koordinaterne for V.
+
+21:44
+De er så tre over en. Nu vil jeg gerne finde Vibeke Sonnes sædvanlige koordinater, altså den standard koordinater.
+
+22:00
+Og det vil sige, at nu betragter vi bare den sædvanlige altså standard basen her.
+
+22:06
+Dér har I og dér har J.
+
+22:16
+Og så kan jeg jo meget nemt se også. Vi vil gerne finde en koordinaterne, og i virkeligheden er det meget nemt.
+
+22:23
+Men nu prøver jeg at regne dem ud, fordi jeg har nemlig en på endte med det.
+
+22:28
+I kan jo godt se standard koordinaterne. Det er jo bare en, to, tre, fire, en og to, så de er 4,2.
+
+22:36
+Nu skal vi prøve at regne dem ud. Vi vil altså gerne have nu en koordinaterne for den væg torve jeg har tegnet det.
+
+22:49
+Okay. Vi har jo fundet ud af, at vi denne er en delara kombination af ét og to, så det er åbenbart i koordinaterne, for tre af et plus 1 er 2.
+
+23:15
+Så hvordan finder vi de der koordinater der gælder da en fin sætning den hedder koordinat.
+
+23:22
+Sætningen der siger at koordinaterne er en sum.
+
+23:28
+Det er koordinaterne af hver vektorerne hver for sig, når vi lægger dem sammen.
+
+23:33
+Så kort sagt det der er tre gange ét koordinaterne for af et plus 1 gange 1 kort inde i koordinaterne for A2.
+
+23:50
+Og så får vi altså tre, og nu skal vi så hen at aflæsse.
+
+23:56
+Hvad er de sædvanlige koordinater for et vektoren?
+
+24:02
+Selv da skal vi jo bare gange 1 med 2. Der er ikke nogen komponent i JR forretningen.
+
+24:09
+Så vil jeg sige den bliver tre gange med to over nul og så plus.
+
+24:19
+Så skal vi have en koordinatorerne. De sædvanlige rektangulære koordinater for A2.
+
+24:25
+Jamen den er jo minus to plus to.
+
+24:42
+Jamen okay, nu skal vi bare se her. Det er jo virkeligheden et matrix vækster produkt, nemlig to nul minus to og to gange med tre over en.
+
+24:59
+For det. Klasse.
+
+25:03
+Hvis vi på sigt giver 6 4, og så vi tager prikproduktet dér, giver 4 og den der er i gang med nul plus en gang 2.
+
+25:12
+Det giver er det samme, som hvis vi laver det prikproduktet, så regnskabet passer.
+
+25:18
+Når Pacey nu har vi skrevet i koordinaterne ved hjælp af a koordinaterne det her.
+
+25:26
+Det var jo vis a koordinater, så nu står det altså her.
+
+25:32
+Der står der så der står der så A viste a koordinater.
+
+25:41
+Den, der hedder noget så fornemt som basis, skifter matricen.
+
+25:46
+Læg mærke til den er overhovedet ikke afhængig af hvad V var.
+
+25:50
+Den er kun afhængig af hvad a basis vektorerne hvad de var, så det er uanset hvilken ved vi havde.
+
+25:58
+Vi havde brugt her. Så var det den samme matrix, vi ville være nået frem til her.
+
+26:03
+Den betegner man det. In a basis skifte matricen, der skifter fra A til coordinator.
+
+26:17
+Så vi kan da godt lige prøve at regne det ud, ik inden vi lige prøve at generalisere.
+
+26:23
+Librarian ud. Hvad var det vi sagde? Prikproduktet her.
+
+26:30
+Det var fire. Og det der var to. Og vi har fundet et es ved koordinater.
+
+26:39
+Det var jo det der i 2 3, 4 1, 2. Nu generaliserer vi.
+
+26:50
+Så siger vi hvis altså generelt vi siger vist i DR skal vi kalde den for den gamle basis og.
+
+27:16
+A er en ny basis, så gælder der koordinat, skifter relationen til.
+
+27:35
+Den har I så her. Den siger, at hvis koordinater i den gamle Basses.
+
+27:44
+Den kan udregnes som et matrix væg produkt af basis skifte matricen e m a.
+
+27:56
+Der er ganget med. De nye koordinater, altså de gamle koordinater, fås ved at basis skifte matricen ganges med de nye koordinater.
+
+28:11
+Og hvad er så den der a. E.
+
+28:19
+M. A. Det er af vektorerne koordinater, men sådan.
+
+28:46
+Ligesom vi havde den her. Dette var et værktøj og det der, det var to vektorer, og det var deres koordinater i den gamle basis, ikke sandt.
+
+29:02
+Se den første søjle i den der. Det var jo koordinaterne i forhold til I og J.
+
+29:07
+Jeter altså to over nul. Minus to over +2.
+
+29:14
+Det er den. Og det er derfor vi skriver sådan her, at den ser basis skifte matricen ud.
+
+29:21
+Og sådan kan vi altså lave koordinat og skifte her. Ligesom vi har gjort her.
+
+29:28
+Basis skifter matricen med de nye koordinater. Vi fik de gamle. Da.
+
+29:37
+Fra at den bør i glas og ramme.
+
+29:53
+Hvad nu hvis jeg ganger med den inverse til denne?
+
+29:59
+På begge sider. Jamen, så vil vi jo få, skal vi sige i M.
+
+30:10
+A. I minus første og gange med den der en koordinaterne får vi.
+
+30:20
+Og så ave. Det nu omdøber vi i den der e.
+
+30:35
+M. A. I Melos første fest står bare at skrive denne i stedet for som a m e, hvor vi har byttet om på de der indekser.
+
+30:47
+Og så har vi altså følgende lille omvendte formel.
+
+30:53
+At de nye koordinater. De er sådan en værre som matrix den inverse basis gik dem Matrix gange gange med de gamle koordinater.
+
+31:08
+Så. Glas og ramme. Hvad var det nu?
+
+31:25
+Dem der, det var jo vores basis skifter matrix. Skal vi lige prøve at regne den ud?
+
+31:32
+Bag den til en verse. Og også her er lige et lille trick, hvis man skal indkvartering.
+
+31:44
+To CO2 matrix bytte de to om skift fortegn på de to gang det er med trivsels determinanten ved broren determinanten ud starter her.
+
+31:59
+2. Gang med 2. Der kommer ikke noget bidrag herfra.
+
+32:07
+Determinanten af A4. Så her skal jeg gange med ind over determinanten.
+
+32:17
+Så bytter blive de to om så skal der ikke noget.
+
+32:27
+Bytter fortegn på de to der. Stammen nåede over 2 vikarer, en fjerdedel en på alle pladserne, og så har i en hal en hal.
+
+32:41
+Og nul og en halv. Så skal vi lige på en gang, lad os sige at vi kender.
+
+32:54
+Vi kender den, der inverse os en halv en halv nul og en halv, og vi kender de gamle koordinater.
+
+33:05
+Det var 4,2 eller 4 over 2. Igen 1 2.
+
+33:12
+3 4 overtog. Vi kender den de gamle koordinater og vil nu udregne de nye koordinater.
+
+33:18
+Jeg kan også se, det er jo dem, vi får her. Og så ganger ud en halv gang fire.
+
+33:26
+Det er to en halv gang to det en, så får vi tre for oven og så nogle gange fire til nul og en halv ganget med 2.
+
+33:35
+Det giver så det i Bum. Det var det vi allerede havde, siger han.
+
+33:45
+Var det ikke sjovt? Sådan skal vi boltre os med basarer og bese skifte frem og tilbage igennem hele efter optimister.
+
+33:53
+Dette var en første forsmag, og nu min tavle fulde, så er jeg ved, at vi skal lige ud.
+
+34:19
+Bestemt. Når vi i dag opfatter.
+
+34:36
+Altså langt fra det rene.
+
+34:45
+Der var. Og.
+
+34:55
+Så jeg man ikke.
+
+35:06
+Ekstra Bladet. Mere sikre fremtid som jeg siger dig du har ret.
+
+35:38
+Ja, vi skal jo nu have snakket lidt omkring parameter.
+
+35:42
+Fremstillinger synes.
+
+35:56
+Først så laver vi dem helt uden koordinater, og så kigger vi på nogle eksempler med koordinater bag støj,
+
+36:04
+og så først, så kigger vi på en ret linje, så vi siger, der gide bo i går et referencepunkt.
+
+36:18
+Og en linje en sådan starter vi.
+
+36:26
+Lad os sige Dér har vi linjen L. Og dér har vi referencepunkt død o.
+
+36:40
+Nu vil jeg gerne kun beskrive de punkter der ligger på den linje her ved hjælp af nogle vektorer og det første jeg gør,
+
+36:49
+da jeg vælger mig et punkt på linjen, som jeg kalder fra begyndelsen punktet.
+
+36:55
+Derfor kalder det forbi. Hvis det ligger det, der ligger bag, ligger det.
+
+37:07
+Bog afsat ud fra begyndelsen punktet. Der laver jeg en retning svigter, som ligger på linje.
+
+37:16
+Retning svigter, skal vi ikke kalde den for er. Sådan.
+
+37:25
+Det var maskineriet. Nu kan vi begynde at beskrive punkter, der ligger på den her linje.
+
+37:30
+Lad os prøve at tage et vilkårligt punkt P, som det ligger her.
+
+37:40
+Jeg kan også, og det jeg er interesseret i, er stedet. Så derfor prøver jeg at tegne den spæde vægter.
+
+37:57
+Og kan I se hvordan kan jeg opnå den? Den kan jeg opnå ved hjælp af denne her faste vektor, som er sted vektoren fra det faste punkt B vil blive.
+
+38:15
+Så vi skal have lagt dem og vægtere sammen med den vækster, der ligger her.
+
+38:22
+Se. Ja, vi kan godt skrive her. BPI væg to sonder.
+
+38:27
+Og så skal vi det en gang til Åby vægt så op plus praise by pointer.
+
+38:36
+Det er jo et tal. Gange med den retning svigter.
+
+38:41
+Så hvis jeg bare gerne vil den retning, svigter med et tilstrækkeligt stort tal, så kan jeg få her t gange med er.
+
+38:58
+Og kan I se? Nu kunne jeg tillade mig at sige Jamen T det er et vilkårligt reelt tal.
+
+39:10
+Sorbisk til den er nul. Så er vi her.
+
+39:16
+Det har da vi til tiden. Der er vi til tiden 2 og så videre.
+
+39:23
+Det opdager den så i et eller andet. Ja til en gang.
+
+39:27
+Eller hvad vi kalde det Exchange.
+
+39:29
+Så på den måde kan vi få alle de punkter både til den positive side i forhold til retnings vektoren og til den negative side her i går.
+
+39:40
+At vi har t. Vi med lige nu, se.
+
+39:44
+Så det er os selv en tidslinie, der kører det, når T kører igennem.
+
+39:48
+Det reelle tal. Så kører det her punkt p. Igennem hele den linje.
+
+39:55
+Det er en parameter fremstilling af.
+
+40:00
+Prøv at se hvis man nu i stedet for sag. Vi betragter punkt mængde.
+
+40:07
+I skal lære de her mængder bygning pænt.
+
+40:11
+Mængden p. Hvor stadigvæk som for o.
+
+40:16
+P. Den er den faste væg.
+
+40:20
+Så sæt begynder tidspunktet Kluges ti gange med R og så hvor T ligger fra.
+
+40:29
+Skal vi sige minus 1 til 2. Se et punkt mængde jeg har opskrevet her.
+
+40:39
+Det er jo så ikke hele den rette linjer her, men sådan kun et uddrag af den rette linjer, nemlig det linjestykke, der ligger herfra.
+
+40:52
+Og så her til. Så det var et lille eksempel, vi havde lavet her.
+
+40:57
+Hvordan vi ikke bare kan beskrive hele linjen, men også de uddrag af linjen, som vi ønsker ved hjælp og den tids parameter.
+
+41:13
+Og så ja, det her, som jeg mener, I kender i forvejen.
+
+41:17
+Men lad os lige tage denne her. I et ægte lydkort system, så er den linje der ligger dér.
+
+41:30
+Den hedder Y er lig med den har skulle vi Siemsen minus 1 Disc 2.
+
+41:38
+Så hvis vi gerne vil lave et parameter fremstilling for den rette linje dér, så skal vi vælge os et begyndelsen punkt.
+
+41:48
+Hvorfor ikke vælge B? Det er så et fast punkt, og så kan jeg vælge mig en retning Specter.
+
+41:58
+Hvorfor gør det sværere end det er? Det kunne være den der.
+
+42:06
+Og så har vi Heartmade, så vi har den som en ligning. Y er lig med minus ex Cousteau.
+
+42:13
+Nu kan vi så også få den som en parameter fremstilling x y.
+
+42:19
+Det er begyndelsen. Jeg kan i.
+
+42:23
+Her har vi origo, altså punkt. Død har de samme koordinater som dens sted vektor.
+
+42:28
+Så det er sådan det er 0,2, og så er plus en tids parameter.
+
+42:38
+Og så har vi ellers vægteren hér, som er to over minus to.
+
+42:48
+Selv, så det var et eksempel på en parameter fremstilling for en ret linje i et koordinatsystem.
+
+42:57
+Herovre havde vi ikke noget koordinatsystem. Det var helt generelt hvor.
+
+43:07
+Så går vi i rummet og i rummet. Der prøver vi at kigge på et parallelogram.
+
+43:24
+Vi har givet ordet god. Og et parallelogram.
+
+43:41
+Det kan vi bare kalde for Alfa. Altså her har et par lidt krammet.
+
+43:55
+Og så har vi altså vores referencepunkt ring. Og nu vil vi gerne have beskrevet alle de punkter, der ligger i dette parallelogram.
+
+44:11
+Jeg har igen brug for et fast punkt, som er mit begyndelsen på.
+
+44:18
+Skulle vi vælge det her? Nej, jeg skal.
+
+44:26
+Hvorfor skrive? Det var ord i går, ikke sandt? Det var mit referencepunkt, der var givet, og den plan var ikke.
+
+44:35
+Jeg har nu valgt en. Jeg har nu valgt et begyndelsesbogstav på den.
+
+44:40
+Det er ikke sandt. Og nu har jeg brug for ikke kun én retning svigter, men to.
+
+44:48
+Og jeg kan sådan set det. Det skal jo være noget der udtrykker det der parallelogram.
+
+44:55
+Så jeg kunne tage halvdelen, hvis jeg ville. Men nej. Ja, jeg tror, jeg vælger den der hele vejen hen her.
+
+45:05
+Den væk, så vil jeg kalde for ud. Og den er væk, så vil jeg kalde for ved.
+
+45:17
+Og så. Sige at vi har et punkt P, der ligger i parallel programmet, og det vil vi gerne karakterisere nu.
+
+45:28
+Kaktusser, hvor det hen. Det svarer vi jo selvfølgelig i forhold til vores referencepunkt or ego.
+
+45:38
+Så det er altså den her, vi gerne vil have noget matematik på.
+
+45:44
+Den er stadigvæk ton og ikke opi værktøjer, så hvordan kan vi opnå den?
+
+45:53
+Jo, den er jo en sund. Her er den faste begyndelse svigter.
+
+46:03
+O. B. Og så plus BP vægter, der ligger her i parallelogram med.
+
+46:14
+Så kan I se den dér har jeg fået som den + den.
+
+46:29
+Men kan I se? Hvis nu vi altså har at længe det vi laver, er så nu laver vi produktion API langsmed vi ikke.
+
+46:46
+Så vi tager det i det røde kridt her. Bum bum, så er pep BPI væk, så denne er jo en sum af den der.
+
+46:59
+Og er den der. Og den er jo et tal ganget med u.
+
+47:07
+Skal vi kalde det for S? Og den så her som er den anden af min sump vigtigere den er jo et tal i gang ganget med den, der vil væk.
+
+47:21
+Jeg har dér, så det kunne være, jeg ved at se.
+
+47:27
+Gang med vi. Og hvor så?
+
+47:34
+Se, jeg skal så løbe hele vejen.
+
+47:38
+Det har vi ellers lige med nul. Det har vi slimet i. Så vi skal alle de afsnit igennem for at få alle de punkter, der ligger her og ligesådan.
+
+47:47
+I går også, så vil jeg sige, S skal ligge i intervallet fra 0 til 1, og det ska T så også gøre.
+
+47:57
+Så det er altså parameter fremstilling for parallelogram. Det kunne.
+
+48:20
+Det er hårdt i dag. Vi har lige et eksempel mere, for nogle skal vi se på en parameter fremstilling i rummet og.
+
+48:33
+Se. Lad os sige at vi har. I kender alle sammen. I kender allesammen ligningen for en plan i rummet.
+
+48:43
+Det er jeg sikker på jeg haft i Knesset. Er det korrekt? Hvis I ikke har haft gymnasiet, så får de hjemmeopgaver set to.
+
+48:50
+Så det basker. Så lad os prøve at se, at vi kigger på en på en ligning, skal vi se.
+
+48:59
+Den hedder den hedder x minus y plus to z er lig med i.
+
+49:19
+Der er sikkert nogle af jer der godt kan huse sådan en har jo en normalvægt, ikke sandt?
+
+49:22
+Normalt lektoren til den plante, der hedder en kommer minus 1,2. Det snakker vi om en anden gang.
+
+49:37
+Det var jo. Det var jo ligningen for en plan. Men det er jo sådan set også en lineær ligning en ligning med tre ubekendte til at løse den.
+
+49:51
+Det gør vi ved at isolere eks. Sådan at jeg så en Kluges by minus to sæt.
+
+50:04
+Og så kan vi jo opskrive dens løsnings mængde.
+
+50:09
+Vi har to frie parameter byggesæt, så vi får altså x, y, z er lig med, og der får vi så rene tal.
+
+50:25
+1 0 nul, og så kalder vi by den frie parameter.
+
+50:33
+Den kalder vi for S og den frie parameter Z.
+
+50:39
+Den kalder vi for ting, og det vil altså sige, at det er der, ved vi i hvert fald.
+
+50:47
+Vi skal tælle på nul dér, og vi skal have nul og et D.
+
+50:52
+Det var jo bare de nye navne. Og så skal vi så se.
+
+50:56
+Hvad har vi af y det op? Der har vi en.
+
+51:01
+Og hvad har vi set? Der har vi mindst to. Hej.
+
+51:12
+Dette var jo et begyndelse på. Så galt forbi.
+
+51:21
+Og have det var jo en retning svigter, skal vi kalde den for U.
+
+51:28
+Og minsandten en retning svigter mere ved at.
+
+51:36
+Skal vi prøve at se hvordan det ser ud i rummet. Så vi har her set.
+
+51:56
+Og så har vi ekser ikke saksen ex.
+
+52:04
+Fy. Og så har vi set. Og så skal vi have fundet et begyndende tidspunkt b c.
+
+52:15
+Der skal vi jo bare gå og ud af eksakt de andre to er nul.
+
+52:20
+Den har vi altså. Her har vi vores begyndelse på. Den kan vi tegne her.
+
+52:27
+Det vil sige den der har længden, det er bare længden 1 den har det jo ingen at se, så nu vil vi tegne den første retning.
+
+52:37
+Svigter denne, hedder en kommer en kompasnål. Den tegner vi her ud fra by, så hvis vi skal gå ind frem, så jeg det samme stykke som den der også.
+
+52:51
+Så går vi sådan, når vi herned i x aksens retning. Og så skal vi gå ind i y aksens retning.
+
+53:03
+Så har jeg. Så har vi dér det andet punkt er jeg ikke, det vil så sige, at den Oubæk tåre, som vi taler om her.
+
+53:19
+Sent vi går. Set den vej ind i den der retning, og så går vi.
+
+53:29
+Ja, vi skal. Vi skal fortsætte herfra, hvor de ser gang til en i x aksens retning.
+
+53:34
+Det var den en nyere aksens retning, så er vi nået derhen til vil sige dette er det min uge vægter.
+
+53:47
+Og så skal vi afsatte den anden. Det er minus 2, 0 og 1.
+
+53:53
+Det vil sige vi starter igen fra B minus 2 baglæns.
+
+53:59
+Sejr her. Og så skal vi ind i sætter aksens retning.
+
+54:05
+Så er vi her. Så nu har jeg så min hvid væg her.
+
+54:13
+Bum. Og ben ja, det skal være forbi, så den vi skal tegnes herfra.
+
+54:22
+Altså fra by, så har vi den altså dér. Og det var altså vores svigter.
+
+54:31
+Så nu har vi altså urværk. Så hvis det siger nu, at U tilhører intervallet fra 0 til 1 og V tilhører intervallet fra Nolting,
+
+54:46
+så vil sige så skal vi altså løbe den dér vægtere igennem. Og vi skal løbe den vektor igennem.
+
+54:53
+Så har jeg altså her. Der har I parallelt krammet. Jo, det er der selvfølgelig tak parameteren, at de har et es og de havde de hidtil ikke sandt.
+
+55:13
+Passer ellers den sørger for at vi kommer hele denne her vector igennem, ligesom vi gjorde hér og dér.
+
+55:24
+Så vi kommer alle de punkter igennem her, og vi kommer.
+
+55:28
+Årtiet gør, at vi kommer alle de dér punkter igennem her, og så alle de dér punkter, som krydser hinanden i de to retninger.
+
+55:37
+Det er det, der udgør parallelogram med. Så hermed har vi altså lavet en parameter fremstilling for at parallelogram.
+
+55:46
+Og så er min sidste pointe.
+
+55:51
+Selv hvis det nu faktisk ikke var det dér parallelogram jeg var interesseret i, men det der lå ved siden af det bare som et eksempel.
+
+56:05
+Selv hvis det var det her. Vi står det parallelogram jeg havde været interesseret i.
+
+56:16
+Hvad skulle jeg så ændre? Hvad siger du?
+
+56:24
+Ja, det skulle den da ikke, så må jeg sige, at hvis det kun er det, jeg nu kan.
+
+56:29
+Jeg tror, at du opfatter det som om, at jeg vil have hele parallelogram med. God ide.
+
+56:33
+Skal vi gøre det, så er han en god smaddergod idé.
+
+56:38
+Hvad er en parameter fremstilling for hele dette? Og som der blev foreslået, så skal vi bare skrive to dér i stedet for.
+
+56:45
+Så kan vi se med de værktøjer. Her har vi virkelig mulighed for at beskrive objekter i rummet og planen, og nu er det jeres tur.
+
+56:55
+Tak for i dag.

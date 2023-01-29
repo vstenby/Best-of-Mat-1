@@ -1,0 +1,929 @@
+0:04
+Velkommen tilbage efter ferien. I dag har jeg fornøjelsen af at vise er et eksempel på noget, der sommetider sker inden for matematikken.
+
+0:14
+Nemlig at nogle begreber og nogle metoder, man har indført i en disciplin,
+
+0:21
+lige pludselig viser sig, at det kan bruges i alle mulige andre discipliner.
+
+0:27
+Og det er rigtig spændende, og vi kommer op i dag på et meget abstrakt niveau.
+
+0:36
+Vi skal faktisk lave AGK's somatisk matematik, så til dem, der godt kan lide abstrakte ideer.
+
+0:44
+Da er der guf i dag, og der er også rigtig meget guf for dem, der godt kan lide at arbejde med matricer, manipulerer med dem og finde løsninger.
+
+0:53
+Det er noget for enhver smag i dag. Det hele.
+
+0:59
+Det hele starter for ti dage siden, altså lige før efterårsferien.
+
+1:06
+Da var vi nemlig i gang med geometriske vektorer.
+
+1:10
+Læg mærke til. Vi lavede tre step første step, det var vi indførte noget, der hedder addition af vektorer,
+
+1:22
+og så indførte vi noget, hvor vi kunne gange en vægteren med et tal.
+
+1:29
+Og det lavede vi forskellige eksempler på på tavlen, og det tror jeg også lige lave nogle eksempler i med Georg Cobra og den slags.
+
+1:39
+Da vi havde indført de to grønnere arter, så var vi i stand til at lave de otte regneregler, der står dér, hvoraf de første fire.
+
+1:50
+Det handler mest om addition, og at de sidste fire handler mest om multiplikation med tal eller skalaer, som man kalder det.
+
+2:00
+Det var det andet step, da vi så havde gjort det. Så kunne vi begynde at lave noget, vi kaldte for Leynaud kombinationer.
+
+2:06
+Vi kunne lave noget, der hed lineær uafhængighed.
+
+2:09
+Så kunne vi lave noget, der hed Basserne, og så kunne vi laver noget, der hed coordinator, og så havde vi gang i et koordinat metoder.
+
+2:18
+Så det er en teori vi har udviklet inden for de geometriske vektorer, og nu er vi parat.
+
+2:27
+Nu laver vi et kæmpe step, for nu skal I se, hvad vi gør.
+
+2:36
+Vi laver en definition. Hvor vi siger.
+
+2:49
+En værre, men det vil. Hvor er.
+
+3:01
+Er addition. Og multiplikation.
+
+3:19
+Med skalaer eller tal. Det må I selv om vi kalde det for det ene eller andet.
+
+3:25
+Det kaldes et vektorrum. Hvis punkt et.
+
+3:46
+Hvis V opfylder de to stabilitets krav.
+
+4:03
+Og hvad mener jeg med det mener jeg. Hvis.
+
+4:09
+A og B, hvis de tilhører vægter rummet.
+
+4:17
+Så gælder det os at solen tilhører væk til rummet.
+
+4:27
+Og hvis en vægter at se tilhører, vægter rummet.
+
+4:33
+Så hvis jeg tager en skalaer og ganger med se vægteren.
+
+4:40
+Så ligger. Så ligger den nye væg tager os i væg til rummet.
+
+4:46
+Så det var de to stabilitets krav. Og det andet er.
+
+4:56
+V opfylder. De otte regneregler.
+
+5:12
+Kendt fra. Geometriske vektorer.
+
+5:26
+Sådan så har vi defineret et vektorrum. Og lad mig lige knytte et par kommentarer til dette for det værste.
+
+5:41
+Læg mærke til om jeg er så bare en hver, men det vil.
+
+5:48
+Jeg sagde ikke noget om hvad det var for en mængde. Jeg siger bare det er en mængde af et eller andet.
+
+5:55
+Det vil sige at det er sådan en somatisk teori vi laver en tom skal.
+
+6:02
+Og så skal vi se bagefter, om vi kan bruge det til noget. Udgangspunktet er altså taget i de geometriske vektorer.
+
+6:09
+Så lad mig lige se det, jeg kalder for de to stabilitets krav på lige læg mærke til dem.
+
+6:17
+De bliver nemlig. De er lige vigtige, fordi de er rigtig vigtige, når vi kommer til det begreb, der hedder underrum.
+
+6:25
+Så er det godt at få fat i hvad det betyder. Lad os nu se.
+
+6:28
+Hvad betyder det for eksempel for de planer vektorer? Kan I se jer to, en væg så og en anden vægtere og lagde dem sammen?
+
+6:39
+Og så blev det så til en tredje vægtere af samme type. Det blev en vægt, der ligger i planen.
+
+6:45
+Det var for eksempel ikke sådan en, der strittede ud fra tavlen. Den ligger inde i tavlen stadigvæk.
+
+6:51
+Og da jeg garnede C med en konstant, så fik jeg en ny vektor.
+
+6:57
+Så det vil sige, at det jeg nu tager ind her som noget jeg ikke har set før.
+
+7:03
+Det er så noget, der helt naturligt er opfyldt af de geometriske vektorer.
+
+7:08
+Det lægger vi nu ind som et krav. Det er det ene krav.
+
+7:13
+De 8 regneregler. Dette andet krav hvis en mængde opfylder det her.
+
+7:17
+Jamen så er det et vektorrum. Sådan.
+
+7:24
+Så lad os gå i gang med konkret og kig på nogle til rum og ja, nu vil jeg i hurtig rækkefølge indføre fem nye vektorrum.
+
+7:39
+Som jeg tror I allesammen for svindel i dag, fordi I kommer rundt i væg til rummenes verden, og lad os starte med at kigge på.
+
+7:56
+Alle. Så mit første eksempel.
+
+8:06
+Det er matrix rum. Og lad os tage et konkret eksempel.
+
+8:29
+Nemlig. Det matrix rum, der består af to kryds tre matricer.
+
+8:44
+Der har jeg set at vi. Da vi arbejdede med det, da indførte vi addition.
+
+9:05
+Og hvordan gjorde jeg det? Jo, jeg sagde vi skal bare plads vist lægge dem sammen.
+
+9:12
+Så jeg siger en plus noget. Det giver en.
+
+9:17
+Og så har vi to, og så har vi tre her, der skal lægge dem her sammen.
+
+9:22
+Plads viste og så får vi 2 2 2.
+
+9:28
+Og jeg lavede også multiplikation med skalaer.
+
+9:38
+For eksempel hvis jeg garnede en matrix med et tal, så skulle jeg garang tallet ind på hver af pladserne, sådan jeg fik K to på tre K, K, K, K.
+
+10:07
+Læg mærke til det, jeg gjorde det, og det var jo, at når jeg lagde to af denne type sammen, så fik jeg en ny type.
+
+10:15
+Altså en slags eller ej.
+
+10:18
+Den blev stemt, giver igen 1 2 plus tre Matrix', så det vil jeg så sige, at den addiction jeg har lavet, den er stabil og ligesådan.
+
+10:28
+Når jeg ganger matricen med en skalar, så får jeg en ny 2 3 matrix.
+
+10:34
+Denne er stabil. Det er en egenskab ved den egne operation.
+
+10:39
+Det var jo noget helt andet, da vi lavede det matrix matrix product.
+
+10:45
+En matrix af den slags blev gange med det, der fik noget helt nyt.
+
+10:50
+Så der var ikke noget med stabilitet, men den addition og multiplikation den er altså stabil.
+
+11:03
+Så vi kan konkludere. Igen, da vi har arbejdet med det her for nogle uger siden, da undersøgte jeg også regneregler for man matricer og læg mærke til.
+
+11:23
+Det var faktisk lige præcis de otte regneregler dér, vi kunne opstille for matricer.
+
+11:29
+Når vi havde lavet de to rayner operationer her de samme regneregler.
+
+11:56
+Den er stabil og opfylder de otte regneregler. Fra nu af, da er det her et vektorrum.
+
+12:04
+Så en matrix i denne optik er altså en vektor.
+
+12:16
+Og så skal vi have et eksempel 2. Det for så vidt nemmere det er tal.
+
+12:35
+Rummet er en. Eller for den sags skyld kunne det også være.
+
+12:42
+Se M. Og eksempel.
+
+12:59
+Se det vi kalder for alrummet er fire. Det består af nogle tal set i tal set, hvor der er fire elementer.
+
+13:21
+Nu kan jeg lave sådan en mængde klamme på for at gøre det rigtig fint her.
+
+13:25
+Sætter en lodret streg, der betyder hvor det gælder, at hver af de fire elementer det er reelle tal.
+
+13:40
+Så her har vi altså en mængde. Og vi indfører addition.
+
+13:56
+Ved Place Whist og læg dem sammen, så får vi 2 3, 3 6.
+
+14:13
+Og jeg ganger sådan et tal sæt med en konstant flere gange en på hver af pladserne.
+
+14:34
+Konklusionen her er når jeg lægger to vektorer sammen eller undskyld to tandsæt.
+
+14:40
+Jeg kom tidligt med konklusionen i. Først og skal selvfølgelig se et tal sæt af den her type.
+
+14:47
+Plus et tal sætter den type giver et nyt tal sæt af den type.
+
+14:51
+På samme måde når jeg ganget med en konstant. Jeg bliver indenfor er fire, så det vil altså sige stabilitets kravet opfyldt.
+
+15:07
+Så den er jo så stabil og. Opfylder de der regnede eller.
+
+15:29
+Så nu har vi fået en masse nye vigtige rum her, nemlig alle tilråbene uanset om de reelle eller komplekse, så er det også vektorrum.
+
+15:38
+Det var måske ikke så mærkeligt. Så er vi videre til næste eksempel.
+
+15:57
+Så måske er lidt mere overraskende. Forsøger her nu kigger vi på det der hedder PM.
+
+16:12
+Det er mængden. Polynomier.
+
+16:24
+Akvariet. En. Læg mærke til dette højst.
+
+16:40
+Så nu kigger jeg på det eksempel.
+
+16:54
+Hvis jeg kigger på den mængde der hedder P2 over er, så mener jeg og dermed mængden af alle polynomier, der har gravet højest.
+
+17:04
+2. Så vil jeg sige det nul graders polynomium.
+
+17:09
+Det er alle først og fremmest polynomier og det al anden grads polynomier set sammen.
+
+17:15
+Altså et dybt den mængde. Det er den, vi kalder for P2 er.
+
+17:20
+Og nu laver vi, så indfører vi addition. Hvis jeg for eksempel siger.
+
+17:30
+En Kluges ex +6 Jane. Den kære kælet for.
+
+17:39
+Den kender jeg forpinte. PX.
+
+17:45
+Det har jeg en. Og så har jeg q x.
+
+17:51
+Skal vi kalde den for. To plus tre x plus fire x i anden.
+
+18:02
+Så siger vi Nu indfører vi.
+
+18:10
+Et. Et. På nålen, så vi kan kalde for er.
+
+18:22
+Som er summen af de to givne polynomier. Hvordan indfører vi det så det gør vi ved, at vi siger que a ex.
+
+18:38
+Og nu gør vi så sammen, men nu tager vi noget begravedes lederne.
+
+18:42
+Det er et boost to. Og lægger sammen, og så tager vi første grads leddene.
+
+18:50
+De giver i alt 4 x. Og så tager vi anden leddene.
+
+18:58
+Det giver +5 ikke, siger Anne. Ja, det skal der.
+
+19:18
+Og så kan vi også indføre. Så indfører vi også en polynomiet der hedder ex.
+
+19:41
+Ved at vi siger Elsa Ex. Den skal jeg så være to gange med Q.
+
+19:48
+Og det vil jeg sige nu ganger jeg hvert af de led med 2. Så får jeg 4 plus 6 x plus 8 x i anden.
+
+20:05
+Så jeg har altså alle indført en addition. Er polynomier i denne mængde, og jeg har indført en multiplikation med tal.
+
+20:20
+Og de to de to regner operationer, de fører til et polynomium, der ligger i den samme mængde som den jeg startede ud med.
+
+20:31
+Jeg risikerer ikke. For eksempel når jeg lægger to polynomier af denne type sammen, så kan jeg ikke få et tredjegrads polynomium.
+
+20:38
+Vi bliver inden for P2. Så vil jeg sige den er stabil og på samme måde her, når vi ganger med et tal.
+
+20:45
+Den er stabil. Ja.
+
+20:51
+Hvis du skal være. Med det var hvad det kan være en hvilken som helst konstant.
+
+21:00
+Ja, så. Altså det jeg giver her, hvad du gør.
+
+21:04
+Du er en af dem, der godt kan lide abstrakt, fordi her har jeg bare taget nogle eksempler på, hvad jeg mener med det.
+
+21:11
+Men du er der fuldstændig ret. Jeg kunne lige så godt have sagt tusind extender tusind, og så gange det første polynomium her.
+
+21:18
+Så ved du altså har fået at SF Extender tusind plus tusind expos tusinde ikke, siger Nick.
+
+21:23
+Så jeg laver det sådan lidt love. Tjek her. Jeg går også fordi jeg synes, det er abstrakt nok i dag.
+
+21:29
+Men du har fuldstændig ret. Og opfylder de øvrige regneregler.
+
+21:57
+Så nu skal jeg så vende jer til at et andet grads polynomium eller et ottende grads nummer.
+
+22:03
+Det kan være en vektor og indgå i et vektorrum. Fjerde eksempel.
+
+22:39
+Se når jeg ikke skriver i et index på altså her ved foden Apple.
+
+22:46
+Så betyder det mængden af alle mulige reelle polynomier.
+
+22:53
+Det vil sige, at hvis der ligger to polynomiet sammen, så får et nyt polynomium, hvis jeg ganger et polynomium med K, så får jeg et nyt polynomium.
+
+23:02
+Så den er stabil og den opfylder de otte regneregler.
+
+23:08
+Det er klart, når jeg nu har jeg gjort det her lidt hurtigt, når jeg bare siger, de opfylder de otte regneregler.
+
+23:16
+Altså de pointer her oppe, de skal vi altså tage alvorligt.
+
+23:21
+For eksempel denne her fireren. A Plus Nul er lig med A.
+
+23:29
+Så skal vi jo i hvert af de væk til ro. Der skal vi jo have noget vi kalder for nulvækst, John.
+
+23:35
+Ligesom jeg heller ikke geometrien. Der var nulvækst, så det var jo den vektor, der ligger fra et punkt til det samme punkt.
+
+23:42
+Altså a vektoren var nul vektoren. Og sådan skal vi jo have nulvækst ture over det hele.
+
+23:48
+For at den giver mening. Altså op ik og her i mængden af.
+
+23:58
+Altså nu bør tage dette som eksempel. Hvad er nulvækst som her?
+
+24:11
+Jamen, det er det er vægteren. Hvad skal vi kalde den?
+
+24:22
+Det kunne jeg altså også har kaldt alt muligt andet, men nu bare for sjovs skyld kalder den for fra ende ex.
+
+24:28
+Den er noget + 0 6 plus 0 er ikke sige anden plus osv.
+
+24:39
+Og sådan har jeg hver af de mængder jeg indført her. De har en nul vektor.
+
+24:47
+Og så er mit sidste eksempel det er. Det som der står her ser nul over er.
+
+25:07
+Det betyder mængde. Af alle.
+
+25:15
+Continuo det. Reelle funktioner.
+
+25:31
+Fordi. Og det vil jeg gerne.
+
+25:33
+Jeg lærte i gymnasiet, men altså har man to kontinuerte funktioner lægger dem sammen, så er summen funktion og kontinuert.
+
+25:42
+Og hvis jeg tager en kontinuert funktion, vil jeg sige funktionen er her, vi har, har vi.
+
+25:48
+Her har vi første aksen, der har I så grafen ganger jeg dem med tre.
+
+25:53
+Så kommer den i stedet for derop.
+
+25:56
+Så når jeg ganger en en kontinuert funktion med tre, jamen så er det så den også kontinuerte stabilitets kravene opfyldt.
+
+26:04
+De 8 regneregler er opfyldt. Så nu skal jeg også vænne jer til, at dette er et vektorrum.
+
+26:12
+Så altså for eksempel dette vigtige rum her. Det kan være sige nu seks hjerne.
+
+26:20
+Og det kan være tankens ex. Det to vektorer vi kan lægge dem sammen.
+
+26:25
+Så får vi en ny kontinuert funktion, så nu kan vi se.
+
+26:29
+Nu har vi altså udvidet et begreb, som kommer fra geometrien til noget, der kommer fra analyse og den slags ting.
+
+26:38
+Vi har givet militariserede. Analysen.
+
+26:43
+Det her er simpelt hen et et kommandoraid fra os kilometer ind over analysens område og siger Nu er det os, der bestemmer her.
+
+26:53
+Det er også det, der ligger reglerne her. Og du havde spørgsmål som.
+
+26:59
+Ja, fordi hvis du lægger to differentiable funktioner sammen, så får du en ny differentiabel funktion.
+
+27:06
+Hvis du ganger en differentiabel funktion med en konstant, så får du en ny differentiabel funktion.
+
+27:11
+Den opfylder stabilitets kravene, og den opfylder de otte regneregler.
+
+27:16
+Det du kommer med er, at det er en rigtig god pointe, fordi det viser nemlig.
+
+27:23
+At de differentiable funktioner er et underrum i mængden af kontinuerte funktioner, fordi du kan jeg godt huske reglen,
+
+27:33
+at enhver differentiabel funktion er kontinuert, så sige at de differentiable funktioner en delmængde af alle de kontinuerte.
+
+27:41
+Så har du et lille underrum derinde et underrum. Det betyder nemlig en delmængde, som i sig selv er et vektorrum.
+
+27:49
+Og det var det, du spurgte om. Er de differentiable funktioner et vektorrum?
+
+27:53
+Ja, det er de, og dermed er de et underrum i mængden af kontinuerte funktioner.
+
+28:14
+Så det var. Det var de fem eksempler, som jeg gerne vil vise, og som jeg tror I får gang i dem alle sammen i dag.
+
+28:22
+Og der er også gang i dem i det næste hjemmeopgaver.
+
+28:25
+Sæt hjemmeopgaver, sæt tre, hvor er i hvert fald en af opgaverne, der handler om et funktions rum.
+
+28:33
+Altså noget med med kontinuerte og differentiable funktioner osv. Så der er rigtig meget her og at sætte sig ind i, og det er virkelig vigtigt.
+
+28:44
+Altså for eksempel I vil kunne se igen. Især dem af jer, der interesserer sig for rigtig abstrakt matematik.
+
+28:52
+Da vi kunne se, at dette værktøj rums begreb får afgørende betydning, når vi skal studere differentialligninger, så husk det her,
+
+29:02
+at da vi får virkelig nogle pointer ud af det her, og jeg håber I synes, at det er sjovt at følge med i udviklingen af teorien.
+
+29:13
+Se, nu går vi altså hen til at se hvad. Hvad kan vi så gøre ved de andre begreber?
+
+29:18
+Vi havde derfra. Altså fra geometrien. Hvad med sådan noget som lineære uafhængighed?
+
+29:24
+Den slags ting. Så nu overfører vi de begreber, som vi havde sidste gang.
+
+29:33
+Og nu skal vi se. Med.
+
+30:02
+Så det er altså mit hovedpunkt nu. Begreber for geometrien. Ud spænding.
+
+30:26
+Også om man også som vi også kalder for spændende. Se hvad forstår vi ved udstillingen eller spande?
+
+30:45
+Af for eksempel er for eksempel er fire reaktorer. Nu har jeg valgt fire vektorer.
+
+30:59
+Jeg kunne lige så godt have valgt syv eller eller gjort det helt abstrakt og siger jeg vælger helt vektorer op.
+
+31:06
+Skal jeg så indføre det begreb, der hedder spanden?
+
+31:09
+Og det bygger på det der hedder Lenore kombinationer, fordi spændingen det alle de mulige vindere kombinationer vi kan tænke os ud fra.
+
+31:22
+Altså ud fra de fire vektorer, så spænd. Er alle tænkelige.
+
+31:34
+Det narrer kombinationer. Er de fire vektorer.
+
+31:53
+Så det bygger altså lige på den der med ligner kombinationer, og vi kan bare tage et eksempel.
+
+32:01
+Her. Hvis vi siger 7 ved ét blues gøre noget ved.
+
+32:09
+2 minus tre ved tre plus ved fire.
+
+32:21
+Dette er bare en vinder og kombination. Det er bare et eksempel.
+
+32:38
+Altså en Dinart kombination består altså i. Jeg tager de her fem.
+
+32:43
+Jeg tager de her fire vektorer, ganger dem alle sammen med et tal og lægger hele molevitten sammen.
+
+32:50
+Så har jeg en Lenau kombination, og nu skal jeg altså forstå ud spændingen.
+
+32:55
+Det betyder, at alle dem man kan lave. Godt.
+
+33:09
+Så er der det. Vigtige begreber omkring lineær uafhængighed.
+
+33:38
+Og her er I nødt til at vænne sig til, at der er to måder man kan sige det på, som er fuldstændig ækvivalente.
+
+33:51
+Som vi siger her. Ved et veto op til ved P-vagter.
+
+34:07
+Er lineært uafhængige. Hvis.
+
+34:23
+Og så kommer den første måde at sige det på. Det er bedst.
+
+34:30
+Ex 1 det EP Loose X2 V 2 News.
+
+34:37
+Og så videre. A ex. P gange ved p lige med nul vektoren.
+
+34:50
+Kulde er mulig. Jeg bor før er kun muligt.
+
+35:05
+Når ex et er lig med nul, X2 er lig med nul og så videre op til x p er lig med nul.
+
+35:17
+Så for at dette regnestykke kan lade sig gøre, at en vinder har en kombination af de pi vektorer, kan være det samme som nul vektoren.
+
+35:28
+Det kan kun lade sig gøre, hvis hver enkelt af dem der er slået ihjel af konstanten nul.
+
+35:35
+Hvis det er tilfældet, så er det lineært uafhængige. Man kan også sige.
+
+35:45
+Og det er en anden måde at sige det på. Det er vist ingen af vektorerne.
+
+36:01
+Er en vinder kombination af de øvrige. Så det er en anden måde at sige det på, at de vektorer jeg har skrevet op her, at de er lineært uafhængige.
+
+36:31
+Og så kigger vi på lineær afhængighed.
+
+36:59
+Lena afhængighed er selvfølgelig det modsatte af lineær uafhængighed, og det vil jeg nu giver et lille eksempel på.
+
+37:11
+Og det er et eksempel fra fra er fire.
+
+37:17
+C Jeg har. Jeg har her.
+
+37:26
+Tre forskellige vektorer. Den første 1 komma 1 komma 1 kommer 1.
+
+37:34
+B væk, så den er to komma nul komma nul komma nul.
+
+37:43
+Og se vægteren. Den er fem komma in komma 1 komma 1.
+
+37:57
+Og nu vil jeg gerne vise at de er at de tre vektorer er det er et lineært uafhængigt vektor set.
+
+38:08
+Og skal vi prøve at bruge begge de to kriterier for at vise, at de er ækvivalente.
+
+38:15
+Er der nogen af jer der kan foreslå? Hvordan en af disse vektorer for eksempel at se hvordan den kan skrives som en narkoman nation af de øvrige.
+
+38:27
+Hvad siger du? Du det der bliver sagt.
+
+38:33
+C er lige med A plus to.
+
+38:39
+B. Derfor.
+
+38:48
+Er det et binært afhængige? Se, vægteren er skrevet som en akkumulation af de to andre.
+
+38:56
+Hvordan kan vi nu meget nemt gå fra det er et kriterium hér.
+
+39:03
+Og så til det og vise at det kriterium der heller ikke var opfyldt, kan vi også få et forslag til det.
+
+39:15
+Derfor ser du ofte. Ja, pung og gør det.
+
+39:24
+Udfra ud fra den det er op hvordan vil du gøre det? Du bruger bare den linje her.
+
+39:39
+Jes. Trækker se fra på begge sider bliver det foreslået.
+
+39:49
+Og så har vi jo fået opskrevet nulte vægteren sammen med en DINARA kombination af de tre vektorer.
+
+39:55
+Vi har nemlig ikke set er lig med en X2 er lig med 2 og x 3 er lig med minus 1.
+
+40:08
+Så hermed har vi altså set det. Set afhængigheden med begge kriterier.
+
+40:25
+Så endda. Og så kan jeg få en lille en lille hoste pause, fordi jeg går videre.
+
+40:36
+Om 45 sekunder jeg nødt til at skaffe mig noget plads på tavlen til det næste.
+
+41:14
+Intet. Toft.
+
+41:34
+Flere mener at.
+
+42:07
+Er ikke så. Forkæl dig så Aarhus får ryddet færdigt, fordi nu skal vi nemlig have stillet følgende spørgsmål.
+
+42:30
+Men hvad er en basis for vil?
+
+42:46
+Og svaret er. Vektorerne ved et V-2 op til VM er en basis.
+
+43:07
+For at vil. Hvis sættet opfylder to krav.
+
+43:28
+Det første krav er at de skal være lineært uafhængige. Og det andet hav er.
+
+43:52
+De skal udspillene hele vægge til rummet. Det skriver vi simpelt hen som her.
+
+43:57
+Spanden. Af de her n vektorer.
+
+44:17
+Er lig med hele væg til rummet.
+
+44:23
+Så når jeg laver alle tænkelige Leynar og kombinationer af de investorer her, så betyder det, at alle de andre vektorer.
+
+44:33
+De kan fås som en kombination af dem her. De udspænder hele, vi alle ved kommer i spil, når vi danner alle de narkoman.
+
+44:41
+Nationerne er dem her. Og det er kodeordet til mit næste spørgsmål.
+
+45:04
+Det er hvad betyder koordinater? Hvad mener vi med det?
+
+45:12
+Og det tager udgangspunkt i det jeg lige var inde på før en. Hvis.
+
+45:22
+A, som består af de n a vektorer.
+
+45:32
+Kort skrivemåde for en basis den det et a uden understregning.
+
+45:38
+Her har vi så det jeg nu siger, hvis det er en basis.
+
+45:49
+For vi. Så kan en sværvægter.
+
+46:02
+Som ligger i venterummet. På en måde.
+
+46:11
+Skrives. Som en fin kombination.
+
+46:26
+Af Basix vektorerne. Så har jeg altså en væg, så.
+
+46:39
+Det er lige meget hvilken vægter i dette vektorrum og A er en basis,
+
+46:44
+så ved vi jo herfra at udspændt ingen Bayezid er hele vægge til rummet, så derfor kan.
+
+46:55
+Det vil altså sige, at hvis jeg bare finder nogle rigtige tal x et ganget med A et plus x to gange a 2 plus og så videre x 1 gange med a 1.
+
+47:18
+Der har vi altså opskrevet vil som en linere kombination af Basisbank turen.
+
+47:25
+Og læg mærke til at jeg skriver at det her kan kun ske på en måde.
+
+47:32
+Det vil altså sige at den vil narre kombination. Jeg har skrevet, at den er entydig.
+
+47:39
+Det kræver selvfølgelig et bevis, og det bliver i endnu råderummet kaldt for entydighed.
+
+47:44
+Sætningen denne er helt afgørende for, at vi kan indføre coordinator.
+
+47:48
+At dette ikke lader sig gøre på flere forskellige måder. Der er kun én måde når den basis det er den der.
+
+47:56
+Og så siger vi Exit X2 og så videre op til X1.
+
+48:05
+Er koordinaterne? For at.
+
+48:15
+Med hensyn. Med hensyn til af basen.
+
+48:30
+Det var også noget jeg understregede i forelæsningen lige før efterårsferien.
+
+48:36
+At coordinator. Er ikke nået absolut koordinaterne de altid relative i forhold til den basis man har valgt vektoren selv.
+
+48:47
+Den er fast. Den forandrer sig aldrig, men dens koordinater forandrer sig, når man vælger nye baser, og det snakker vi om.
+
+48:56
+Jeg tror, at det er jeg det i næste uge.
+
+48:59
+Der har vi en hel dag, hvor vi skal snakke om basist skifte, og vi havde også nogle enkelte øvelser dér lige før efterårsferien.
+
+49:07
+Hvad sker der med koordinaterne for en bestemt vektor, der ligger dér?
+
+49:11
+Hvis vi lige pludselig går hen og skifter basen, så læg mærke til det her.
+
+49:20
+Så det er altså koordinaterne, det er koefficienterne i Lenau at kombinationen af basis vektorerne, og så kan vi skrive sådan her.
+
+49:39
+Hvis vi skriver sådan her. Det her det betyder eksperternes a koordinater.
+
+49:47
+De er altså ikke x1 x2. Så det er altså et symbol DDR index.
+
+49:59
+Det betyder hvad det er for en basis jeg har brugt, og den søjle jeg har skrevet her, kaldes.
+
+50:08
+Koordinat bag Tom. For nej, hvad var det jeg skrev?
+
+50:21
+Undskyld. Her skal der selvfølgelig dem, vi snakker om. Det er jo den hvide væg, der står her.
+
+50:27
+Så det skal altså være ville væk som et lille a møde foran. Her, som har de koordinater.
+
+50:34
+Det er så koordinat, pligtsejren får ved. Med hensyn til a bassen.
+
+50:50
+Og således har vi altså fået indført. En række begreber, og det sidste vi skal indføre, det er nemlig dimension.
+
+51:23
+Så nu skal vi altså snak om om dimension er et vektorrum, og der plejer at fortælle den lille historie,
+
+51:34
+at en af de første gange jeg skulle undervise i det her med generelle vektorrum og dimension af den slags ting.
+
+51:41
+Så gjorde jeg det, at jeg har spurgt min mor og andre ikke matematikere om det dér med dimensioner,
+
+51:48
+så sagde jeg altså Hvad mener man egentlig, når man siger rummet?
+
+51:52
+Det er, at det er tredimensionelt, og så sidder hun jo og tænker over det jern.
+
+51:58
+Det var, så kunne godt, det vil jeg om noget. Det har ligget der.
+
+52:02
+Det har bredde og højde meget fint. Så prøvede så også med visse hvad mener man, når man siger, at planen er todimensional?
+
+52:11
+Det var lidt sværere. Men så går vi dem der var der var længde og bredde og så sjovt nok det, der var sværest.
+
+52:19
+Det var så en dimensionalt. Altså hvad vil det sige, at noget af egentlig?
+
+52:24
+Men det kunne så også til sidst, da jeg pressede Henning. Jamen, det er noget, der kun har længde.
+
+52:29
+Det nemmeste var, da jeg spurgte. Men hvad er så den fjerde dimension? Så sagde han noget.
+
+52:34
+Jamen, det er jo det der med, at der er nogle mennesker, der kan se noget, som andre ikke kan se.
+
+52:38
+Altså Aura har den slags ting. Og det var jo, for det er jo, det er jo rigtig nok.
+
+52:45
+Men vi ville jo gerne være mere præcis. Er her i matematikken ikke sandt?
+
+52:48
+Så nu skal vi se, om vi kan få afklaret det spørgsmål her dimension.
+
+52:55
+Hvad er der så i planen? Der har vi brug for to basis vektorer for uspændende.
+
+53:03
+Hele planen. I rummet er så det rum det geometriske rum.
+
+53:09
+Der har vi brug for tre basis vektorer. Så hvad mener vi, når vi siger at et til rum er 4 dimensionalt?
+
+53:21
+Hvad mener vi så? Hvad siger du skal rode i Lees?
+
+53:31
+Så dimensionen af vil det så det nødvendige antal basis vektorer.
+
+53:38
+Og når vi taler om et 4 dimensionalt vektorrum, så er der bare brug for fire basis vektorer i et endimensionalt vektorrum.
+
+53:46
+Da er der brug for en basis vektorer, så dimensionen af et vægtet rum.
+
+53:57
+Det er antallet, og der bruger vi tit symbolet N.
+
+54:15
+Så fik vi løst det mysterium. Nu har vi klarede dimensionen for et hvert vektorrum, og så har vi pause.

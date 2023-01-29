@@ -1,0 +1,698 @@
+0:00
+Morgen er erklæret slut. Vi begynder på et vi begynder på et nyt emne i dag.
+
+0:10
+Vi skal nemlig i gang med at lave integralregning.
+
+0:14
+Vi er væk felter, og i dag, da indfører vi vægter felter i rummet og i planen at så få det definerede.
+
+0:25
+Hvad betyder det? Hvordan tegner vi dem, og hvad kender vi egentlig til fægter felter i forvejen?
+
+0:32
+Jo, vi kender jo gradient begge felter, og derfor er det et vigtigt spørgsmål for os i dag at få afklaret,
+
+0:39
+om alle væk fra felter er gradient begge felter.
+
+0:44
+Og så skal vi derefter tale om flove kurver i vægteren felter, og det er specielt i første år den svigter felter,
+
+0:57
+så det vil altså sige vi skal også have indført noget, der hedder første ordens vector filter.
+
+1:02
+Og så snakker vi lidt mere om begreberne nabla, som vi jo har brugt i forvejen.
+
+1:09
+Og så skal vi have indført begreberne divergens og rotation.
+
+1:17
+Jeg sætter en streg under her for de ganzen. Det er et tal for rotationen.
+
+1:23
+Det er en vektor. Jamen, så er det også i dag, hvor vi har besøg af universitetet, der hedder Kajs i Sydkorea.
+
+1:35
+Et elite universitet, og de er i dag for at se lidt om matematik.
+
+1:43
+Et hvordan det bliver kørt og specielt med e-læring og den slags ting.
+
+1:47
+Hvor skal også med i det? Og vi kommer ud og går en tur i landskabet i eftermiddag.
+
+1:55
+Dér vil cirka kl. Halv to tiden om at gå går lidt rundt omkring og kigger på, hvad I laver.
+
+2:01
+Og det kan godt være, at nogle af gæsterne gerne vil sludre lidt mere og stille nogle spørgsmål om, hvad der er, hvad I laver, og hvad I synes om osv.
+
+2:09
+Så tager venligt imod dem. Ja, men som sagt, så skal vi tale om vægtere felter og lad os først få indført vægtere felter i rummet.
+
+2:28
+Og et vigtigt felt det skriver vi sådan her. Ved X kommer y command z.
+
+2:38
+Er V et af x komma y kommercielt. V 2 x komma y kommercielt, og endelig vil 3 af x komma y kommercielt.
+
+2:57
+Så kigger vi lidt nærmere på det her. Så ser vi at første koordinaten her.
+
+3:03
+Det er en funktion af tre variabler. Og på samme måde med anden koordinaten og tredje koordinaten.
+
+3:09
+Så det er så at sige tre funktioner. At tre variable og et eksempel kunne være.
+
+3:27
+At ved x komma y kommercielt at den er y gangen cosinus til AK's det var første koordinaten x i anden y anden sæt i anden.
+
+3:41
+Det var anden koordinaten og ex z plus y.
+
+3:50
+Så det vil altså sige at i et hvert punkt, da kan vi så evaluere en vægter,
+
+3:58
+altså Torjäger for eksempel punktet 1 kommer ind kommer ind, ja, så indsætter jeg jo bare en på alle de pladser, der står her.
+
+4:05
+Og så får jeg altså en vægtere ud af det. Så er det jo sådan set altså et vægteren felt ud i rummet.
+
+4:13
+Og i planen, da er det selvfølgelig nemmere.
+
+4:20
+Der har vi ved x kommet Y, og jeg sætter en streg under hvide.
+
+4:26
+Jeg understreger, at det jo er en vægter, vi har med at gøre.
+
+4:32
+Og det er så en funktion af to variable på førstepladsen og ligeledes en funktion af to variable på andenpladsen.
+
+4:46
+Altså to funktioner af to variable.
+
+4:53
+Og hvis vi også skal have et eksempel på det, jamen så kunne det være vi x kommer y er y huske os x og y +1 f.eks.
+
+5:08
+Som da. Sådan.
+
+5:16
+Det vil altså sige, at når vi har et vigtigt felt, så forestiller vi os, at der til ethvert punkt i rummet eller planen, der er der knyttet en vægter.
+
+5:30
+Og når vi tegner dem, så tegner vi vektoren ud fra det punkt, som den nu er bestemt ud fra.
+
+5:38
+Så i virkeligheden skal vi altså tegne uendelig mange lektorer for at antyde væk feltet.
+
+5:44
+Og det kan vi jo ikke.
+
+5:45
+Der er uendeligt mange lektorer i hvert eneste punkt er der en vægter, så den måde man gør det på, er som regel, at vi laver et kridt.
+
+5:56
+Og så tegner vi nogle repræsentanter for vækst og feltet, og så kan vi måske Danners en forestilling om, hvordan at Vectra feltet ser ud.
+
+6:05
+Det er også sådan, computerprogrammer gør det. Og hvis man er usikker på, hvordan altså ikke så feltet, er man kun har nogle få pile.
+
+6:15
+Jamen, så kan man bare få øget Gritt antallet og så få tegnet endnu flere.
+
+6:20
+Og så se hvordan dette vigtige felt, hvordan det bevæger sig.
+
+6:25
+Så lad os lige prøve at lave nogle eksempler på det.
+
+6:31
+Og det er jo nemmest at tegne planen. Så nu tager jeg altså nogle eksempler på plane vægge, så felter som jeg tegner.
+
+6:43
+Altså har jeg et vægttab felt. Der hedder 1,2 i planen og jeg skal tegne.
+
+6:55
+Jamen så laver jeg mig lige et grin. Og så altså V er 0,0.
+
+7:11
+Den er 1,2. Så den tegner er her V i 1,0, ja også 1,2, så den tegner jo her, og der kan vi altså se.
+
+7:27
+At i alle disse steder. Hvad er det den samme vægter jeg skal afsætte?
+
+7:38
+Vægteren er ikke afhængig af elskere ry, så derfor er de jo ens over det hele, og det er det.
+
+7:45
+Det kalder vi for et konstant vector felt. Så det er selvfølgelig et af de aller simpleste.
+
+8:07
+Hvad så hvis vi har vægtet feltet der hedder. Der hedder ved at elskere med Y er lig med eksformand Y.
+
+8:28
+Igen tegner jeg mit lille gris her. Se om jeg bliver klogere af det.
+
+8:39
+Og jeg starter her ved 0,0. Den er 0,0.
+
+8:43
+Så det er bare nulvæksten. V. V.
+
+8:50
+1,0 Den er 1,0, så der skal altså tegne den væk her ved 1,1.
+
+8:57
+Den er 1,1, så det er altså den vektor der er her og 0,1.
+
+9:04
+Det er vektoren 0,1. Vektoren er minus 1 kom endnu sent, det er vektoren minus 1 og så fremdeles.
+
+9:18
+Sådan her. Sådan er så at for et hvert punkt.
+
+9:27
+Ekskong Mary da kigger jeg altså får forbindelseslinjerne 2'er i går.
+
+9:33
+Og så tegner jeg en væg, som er den samling der her. Så har jeg altså her vektoren eksformand.
+
+9:43
+Og I kan altså se det stråler ud fra origo her.
+
+9:49
+Og jo længere væk står jeg her op til 2,2. Så får jeg en vektor, der er længere, og de bliver altså længere og længere.
+
+9:56
+Jo længere væk jeg kommer, og det jeg kalder for et explosions midterfelt.
+
+10:19
+Og så lad os prøve. Hvis vi nu sætter minus foran, altså at i ethvert punkt x kom y, da er der altså knyttet en vektor der hedder minus ex komma.
+
+10:34
+Ozzy. Og vi kigger igen her på kridtede, det vil altså sige i punktet 1,1, der svarer der.
+
+10:52
+Altså en vektor der hedder minus 1 kommer minus 1. Og den går så herfra og ind til origo.
+
+11:00
+Og på samme måde i 0,1. Der går der en vektor ind til origo.
+
+11:14
+Og altså i et vilkårligt ex Karmøy.
+
+11:20
+Da skal jeg altså tegne en væg så her. Der hedder minus ex komma, mener Sy.
+
+11:32
+Og et vægter felt af den type. Det kalder vi for et inklusions væk felt, hvor hele planen implodere forsvinder i 0,0.
+
+12:01
+Så lad os tage væk, så feltet ved jeg ikke kom ud.
+
+12:09
+At lege med miner 7,6. Jeg har tegnet her til sammen med Grit.
+
+12:28
+Så til vægteren jer så i en kommer ind, der skal jeg tegne sværvægteren, scenen kommer ind, så det vil altså sige held til her.
+
+12:38
+Der hyrder den vektor, der ligger her. Og til vægteren, der skal tegnes i en, kommer en der hører sværvægteren Tin Homann.
+
+12:49
+Sådan ligger det. Og til det punkt der ligger her sværvægteren til den.
+
+13:01
+Og så får vi altså her. Sådan er.
+
+13:13
+Så her kan jeg måske nok fornemme.
+
+13:16
+At der altså en bevægelse i det her væg så fælt, da er en positiv rotation, så det her, det kalder vi for et tydeligt rotations felt.
+
+13:38
+Så hermed har jeg altså tegnede forskellige eksempler på vægtere felter i planen og.
+
+13:50
+Selvfølgelig på samme. På samme måde gør vi i rummet.
+
+13:59
+Altså har vi ved elskere Mary kommer, Z er lig med eksformand Y kommer z.
+
+14:08
+Jamen så vil de jo også være et vægtere felt.
+
+14:16
+Som stråler ud fra origo i alle retninger nu altså set altså med 3D, så her har vi altså virkelig en eksplosion, der vil noget.
+
+14:37
+Se, så har vi fået tegnet nogle og lad os nu se på, hvad er det egentlig vi ved om vægteren felter i forvejen?
+
+14:48
+Og der har vi jo indført. Gradient væg felter.
+
+15:08
+Og et eksempel. Altså har vi givet en funktion af to variable.
+
+15:31
+Så har vi jo indført gradient inden for F.
+
+15:39
+I ethvert punkt ved den partielt afledet efter ex komma den partielt afledet efter y.
+
+15:54
+Og det vil så sige at. Differentierer vi hele dette udtryk efter ex.
+
+16:00
+Så får vi minus sinus til ex som første koordinaten for gradient vektoren,
+
+16:08
+og så får vi altså cosinus til ex som anden koordinater, så den type af Vectra felter har vi altså set før.
+
+16:21
+Og lad os lige prøve at se hvordan sådan et kan tage sig ud.
+
+16:33
+Men. Og her har jeg den funktion jeg lige har skrevet op på tavlen med en funktion af jeg to variable.
+
+17:02
+Og da vi arbejdede med det her i efteråret, da indførte vi sådan en en nabla funktion,
+
+17:11
+der, som vi dannede ud fra store dele differentiation, smurte den i midten og kunne så.
+
+17:23
+Altså her får udregnet gradient ind i et hvert punkt.
+
+17:28
+Ex company nu kan I se.
+
+17:31
+Nu indfører vi her en lidt enklere kommando til brug her fremover, som bare hedder graet af f a.
+
+17:39
+Ex Karmøy. Og så får vi altså det samme. Så kunne vi ved hjælp af Mabel kommandoer en grad plot, så kunne vi plottet det gradient væk så fælt.
+
+18:00
+Og der kan jeg altså se her. Der har vi altså væk.
+
+18:04
+Feltet tegnede i sådan et tydeligt Gritt, som er lagt på her med en bestemt finhed, nemlig 10,9.
+
+18:15
+Og da jeg så vektorer, er der altså et der stråler i alle mulige retninger.
+
+18:24
+Og så har vi jo prøvet og tegne niveau Q over for denne her funktion.
+
+18:34
+Og der har vi altså holdt kortet niveau kunder for denne her funktion.
+
+18:39
+To variable. Og så husker en bump.
+
+18:52
+Har vi glemt en flot Comando? Med.
+
+18:59
+Prøv igen. Og gav.
+
+19:16
+December det liget han. Så kan I altså se dette her i England.
+
+19:27
+Og her får vi jo lidt system i den der vægter galskab, som var der før for 9.
+
+19:35
+Nu kan vi nemlig se, at de her gradient vektorer. De forholder sig på en helt særlig måde til niveau kurverne.
+
+19:43
+De står nemlig vinkelret på dem, og I kan godt huske, at de har gradient vektorer.
+
+19:48
+De havde jo en hel masse egenskaber, vi kunne, at de har gradient,
+
+19:52
+og der kunne vi aflæse en hel masse ting, både om tangent, planer og og altså niveau, kurver og så videre.
+
+20:00
+Og specielt så konstaterede vi altså, at gradient kun i et givet punkt altid peger i den retning, hvor vækst farten den er højest.
+
+20:13
+Så Gradient fik følte jeg var virkelig en stor hjælp for os i studiet af funktioner af to variable.
+
+20:27
+Og altså her landskabet. Det er altså sådan her ud, og det var derfor, at vi ligesom havde de dér cirkulære niveau kurver, som vi så på før.
+
+20:38
+I. Og så siger vi at.
+
+21:13
+Hvis. Altså det her med gradient effekt felter.
+
+21:23
+Det generaliserer vi. Til rummet.
+
+21:37
+Har jeg for eksempel en funktion af tre variabler som hedder X i anden plus y anden plus sæt i anden.
+
+21:50
+Jamen så danner jeg gradient den af F.
+
+21:59
+På samme måde må jeg så differentiere partielt efter eks.
+
+22:06
+Og for to ex partielt efter y og for tonen.
+
+22:10
+Og endelig partielt efter Z og får to sæt som nu har vi så et gradient midterfelt, som består af grumme vektorer.
+
+22:24
+Og ligesom vi før kiggede på niveau kurver, så kan vi jo nu i rummet kigge på niveau flader.
+
+22:36
+For vi kan nemlig kigge på niveau fladen som et eksempel.
+
+22:46
+Svarende til en konstant funktionens værdi.
+
+22:59
+Og hvad er det selvfølgelig for en niveau flade der svarer til højden, men.
+
+23:11
+Med det. Nej, det var den imod.
+
+23:14
+Hun spurgte først om fladen så får du den anden vej efter. Og det er enhedsskolen i rummet.
+
+23:26
+Altså ikke sige andet fuzzy andet sæt i anden halvleg med en.
+
+23:41
+Og her har vi altså tallet et så enhedsskolen det niveau flaget for denne funktion er tre variable svarende til den konstante funktion,
+
+23:54
+så de lig med en. Og så kan vi jo så kigge på gradient her og der, tror jeg du gør det jeg hørte før det var.
+
+24:04
+Kom med din pointe igen. Præcis.
+
+24:09
+Altså tager jeg nu et punkt der hedder X komma Y kommer z.
+
+24:18
+Et vilkårligt punkt på fladen hér, og betragter jeg så gradient den, så kan jeg altså se den er to gange den vektor, der går ud herfra.
+
+24:29
+Så jeg går altså direkte fra ord i går. Fortsætter herudfra og skal så bare tage længden.
+
+24:35
+2. Her. Så her har jeg altså gradient hen af f g punktet x komma y kommer z.
+
+24:45
+Og den står vinkelret på tangent planen.
+
+24:49
+Her så vi ser altså at gradient ind i rummet står vinkelret på niveau fladen, altså helt svarende til det, der gælder i planen.
+
+25:12
+Altså. Og så af samme grund netop fordi den er fladen angiver dér hvor funktionen er konstant.
+
+25:39
+Der sker altså ingen ting med funktionens værdien. Hvis jeg bedst, hvis jeg befinder mig her på fladen.
+
+25:45
+Og så er det jo klart, hvis de er interesserede i det, at for funktionens værdien så ændrer sig mest.
+
+25:51
+Så skal jeg jo gå. Otto Grundahl får alt det, der er konstant, og derfor ser vi så også her, at der også i rummet.
+
+25:59
+Der kan vi se, at gradient den peger i den retning, hvor funktions værdien svarer det.
+
+26:06
+Denne er højest. Og det er en direkte konsekvens af det her.
+
+26:30
+Når vi har talt om. Vægter felter generelt.
+
+26:34
+Vi har talt om gradient væk felter, og nu opstår der selvfølgelig et naturligt spørgsmål er,
+
+26:42
+om alle vægter felter, og om de er gradient fægter felter.
+
+27:04
+Og kort sagt. Så spørger vi altså givet et vægtet felt ved.
+
+27:22
+Findes der så en funktion f.
+
+27:29
+U. Således at gradient inden for EF i ethvert punkt er lig med vægt, så feltet.
+
+27:46
+Så det er det spørgsmål vi lige skal beskæftige os med.
+
+27:58
+Og du. Og her tager vi altså udgangspunkt.
+
+28:11
+I noget som altså i det faktum.
+
+28:25
+Altså at få en værre glat funktion.
+
+28:36
+F der gælder der. Og det er noget I for eksempel har set, når vi har lavet de matricer, vi brugte til at reducere kvadratiske former med,
+
+28:52
+og det faktum er altså, at rækkefølgen af de partielle differentialligninger er ligegyldig.
+
+29:01
+Altså kort sagt. Så gælder det så at tager jeg funktionen differentiere først efter ex og derefter efter Y.
+
+29:18
+Så kunne jeg lige så godt have differentieret partielt i den modsatte rækkefølge.
+
+29:22
+Selvom det ser mærkeligt ud, når man rent faktisk gør det, så er det altså på den måde og jo altså ikke smerte.
+
+29:30
+Ikke mærke efter X og Z. Er det samme som at sige sæt og så X og til sidst.
+
+29:42
+By og sæt er lig med.
+
+29:50
+Z og Y. Så dette faktum her skal vi prøve at trække lidt på, altså i dag og de kommende gange.
+
+30:06
+For eksempel. Jeg betragter nu vægt topfeltet v af x komma y komma z.
+
+30:20
+Som er er hedder x komma min nu z komma i.
+
+30:35
+Hvad? Og det betyder jo så.
+
+30:44
+Altså dette værktøj felt det er givet godt, og så siger vi antag.
+
+30:54
+Der findes f. Så gradient den af F er lige med det vægter felt.
+
+31:04
+Jeg har sat op her. Jamen så har vi jo at EHF mærkede efter exit.
+
+31:20
+Taget i Ekstra Molly kommercielt skal være lig med ved ét funktionerne.
+
+31:34
+Og skal være lig med ex. Og på samme måde den partielt afledet efter y skal være lig med veto funktionerne.
+
+31:49
+Som er min nu set. Og så til sidst, så har vi så at den partielt afledet efter Z skal være lig med vi et tre funktionerne.
+
+32:06
+Som altså er i. Og så prøver vi nu.
+
+32:16
+Og tjekke dette faktum. Og så har vi altså at et fedt extend har vi her.
+
+32:26
+Den differentierer vi efter by, så får vi nul. Og så tager vi, og så tager vi et mærke Y differentierer med hensyn til ex.
+
+32:43
+Og den giver også nul. Så det gik fint.
+
+32:52
+Og så tager vi altså igen den, og nu skal den differentieres efter sæt. Den giver 0.
+
+33:00
+Og så tjekker vi sæt differentieret efter ex den giver også nul, så vi har altså o.k.
+
+33:09
+Her. Og så mangler vi kun et mærke af Y, som vi har stående her.
+
+33:16
+Den skal nu differentieres efter Z, og den giver som minus en.
+
+33:23
+Og så tager vi det modsatte mærke efter sæt F mærket efter by.
+
+33:32
+Det vil altså sige, at det er den størrelse her vi skal differentiere efter Y, og den giver en norlige.
+
+33:44
+Jeg antog altså at der fandtes en ved sådan et gradient den efter en, der var lige ved og er nået frem til en modstrid.
+
+33:56
+Så deraf kan jeg altså konkludere Der findes ikke nogen funktion som har det væk så fælt som Gradient fik Staffeldt, så her med har besvaret.
+
+34:07
+Mit spørgsmål er alle vægtere. Felter er de gradient felter, og svaret er nej, det er de ikke.
+
+34:18
+Og næste gang skal vi kigge mere på.
+
+34:25
+Altså på vigtige felter, og vi skal finde en metode til at afgøre om et givet væk så fint om det er et gradient bliktage felt,
+
+34:36
+og det er en vigtig opgave, fordi er gradient væg felter.
+
+34:40
+De har en stor betydning inden for altså fysiske anvendelser.
+
+34:45
+De kaldes også for konservative vægge og felter, og vi skal se på, hvorfor det er spændende vækster, felter og at beskæftige os med.
+
+34:55
+Og der skal vi altså se på, hvordan vi kan afgøre det her, og hvordan vi kan finde en stamme funktioner.
+
+35:02
+Vi kan selvfølgelig godt sige, at i visse tilfælde, så kan vi jo bare gætte.
+
+35:11
+Altså har jeg her et vægtere felt der hedder. At den er lig med.
+
+35:21
+2 x komma z komma y.
+
+35:28
+Det er ikke fordi der er så forskellig fra den, der står her hen. Skal vi i form?
+
+35:37
+Vi kan. Skal forestille at vi kan gætte et.
+
+35:46
+En funktion af tre variabler. Så når jeg tager Grete Jensen af den, så får jeg det væk fælt, der da står her.
+
+35:57
+Og jeg hører gerne om der skulle være et bud. På sådan en funktion har tre variable.
+
+36:07
+Du har et forslag jeg ikke stjerne. Du skal jeg tror du mener plus.
+
+36:18
+Sådan da det. Så her har vi altså udtrykket vi differentierer den efter eksport, to differentierer efter Y, så får vi set differentiere efter Z.
+
+36:32
+Så får vi så okay. Altså i det her tilfælde.
+
+36:38
+Der kan jeg set der kunne jeg godt bestemme en stambord motion, hedder det.
+
+36:43
+Til dette vigtige felt.
+
+36:49
+Så kan jeg også støtte det, så det eneste vigtige felt som er et er, at det er den eneste funktion, som er en stamme funktion til det her ekstra felt.
+
+36:58
+Kunne du pege på et oplagt andet? Jeg skulle gå direkte op ved Shittu.
+
+37:07
+Ja. Så med andre ord kan I se at vi har fundet en stam funktion.
+
+37:17
+Og samtlige stam funktioner er så den vi har fundet og så pludselig en vilkårlig konstant.
+
+37:22
+Måske kommer I tanke om noget, jeg har hørt før.
+
+37:25
+Når vi snakker om samme funktioner nu, er det altså stamme funktioner til vækster filter, vi er inde på.
+
+37:34
+Har. Men skal vi prøve at sætte det her op som et nødvendigt kriterium for, at et vægtet felt er et gradient væk såvel.
+
+37:50
+Så det er sådan set bare det samme som står her. Nu skriver jeg det bare lidt mere tjekket op.
+
+37:57
+Incorporated er en nødvendig betingelse. Altså en nødvendig betingelse for at et vægter felt.
+
+38:11
+Lad os nu tage det i rummet. At det er et grade felt.
+
+38:25
+Det er. At vi ser differentieret ved to funktioner.
+
+38:38
+Partielt efter eks. Skal det være det samme som vi ser de en siger ved et funktionen efter y.
+
+38:51
+Så det var den første betingelse. Og så skal vi altså have, at vi er tre funktioner efter eks skal være lig med ved et funktionen efter set.
+
+39:09
+Og så til sidst. Vi 3 funktionen efter Y.
+
+39:19
+Skal være lig med veto funktionen efter det sæt.
+
+39:29
+Så det er bare de her tre betingelser der skal være opfyldt.
+
+39:41
+Og den her er nødvendige betingelser. Den er tilstrækkelig.
+
+39:50
+Hvis definitionsmængden. For at vække topfeltet.
+
+39:58
+Hvis det er hele rummet. Eller en.
+
+40:11
+Så stærk en betingelse behøver jeg ikke engang at have for at vise bare at definitionsmængden forveksler feltet.
+
+40:21
+Det er. Stjerneformet.
+
+40:31
+Så det er altså her har vi altså mulighed for at tjekke, når vi er i gang med at undersøge,
+
+40:36
+om et vægttab fedt er et gradient ægtefælle, så kan vi altså afprøve det her.
+
+40:41
+Hvis det så viser sig, at jeg vil det her og gælder det her, gælder det her gælder, så ved vi altså, at det er et gradient væk felt.
+
+40:50
+Men vi mangler altså at finde den funktion, den kommer fra.
+
+40:55
+Stamme funktionen. Det snakker vi om næste gang, hvordan vi gør det.
+
+41:05
+Og så tror jeg, at vi tager fem minutters pause her.

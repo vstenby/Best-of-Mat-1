@@ -1,0 +1,674 @@
+0:04
+Matrix algebra skal vi i gang med, og det er nået helt ned på jorden igen.
+
+0:10
+Ikke noget avanceret, og det er simpelthen Hvordan regner vi på det her matricer?
+
+0:19
+Nu tænker vi overhovedet ikke over ligning. Systemet er noget som helst, siger vi bare.
+
+0:23
+Her er en matrix formet matricen med en masse X1 skyld, så vi skal være op af i lidt af et tungt af et træ er et andet a end et a 2 og a end n.
+
+0:47
+Sådan jeg lige inden vi går i gang. Så skal vi se, ligesom at det er vigtigt, når man skal lægge tal sammen.
+
+0:55
+Så er det vigtigt at vide, om det man har at gøre med.
+
+0:57
+Er det et tal, eller er det en væg tager noget for pengene, lægge et tal til en væg, hvad vi har en vægtere pålægge, talte.
+
+1:04
+Hvad skulle vi gøre det? Bliver godt gange en vektor med et tal. Man kan ikke lægge to bag en væg så tæt tal som på samme måde er det med matricer.
+
+1:13
+Vi kan ikke lægge to matricer sammen med zink på.
+
+1:16
+En anden måde er ens, dvs. Det vil sige, at denne her a er af type M.
+
+1:27
+Kryds 1 og det første tal man skriver her, altså.
+
+1:36
+Det refererer til antallet af rækker af matricen og det andet tal, der refererer til antallet af søjler.
+
+1:42
+Så her EM rækker og søjler. Hvis alle disse hvis alle de her a i J er reelle.
+
+1:54
+Så siger vi også nogle gange at a tilhører er n cos.
+
+1:59
+1. Det er altså ligesom vi havde talt.
+
+2:06
+Rummet er N. Vi startede med. Det var jo noget vi var inde koordinater.
+
+2:11
+Nu er der EM gange EM koordinater. Her støder tilhørende tal.
+
+2:14
+Rummet er EM gange en. Ja.
+
+2:24
+Godt, så lad os prøve at gå i gang.
+
+2:27
+Lad os se, at vi har en matrix af. Der er så her ud af et ét af 2 af 3 af et hav af rituelt atom tog.
+
+2:44
+Denne type 2 påstår.
+
+2:52
+For og bag den sejhed billet det tog Beethovens og Beethoven, tog den også af type 2 forstår.
+
+3:11
+Hvad er så A plus B?
+
+3:18
+Ja, det definerer vi simpelthen bare som et plus baglæns. En første indgang værd af et 2 plus b et 2 derhen á 2 et plus et og A 2 2 plus B 2 2.
+
+3:40
+Dvs. At A plus B viste sig også at være type 2 på 2.
+
+3:47
+Det er også bare en to gange 2 Patrick. Altså hvis to matricer af samme type.
+
+3:51
+Så kan vi lægge dem sammen ved at lægge indgangene sammen hver for sig.
+
+4:00
+Hvad? Hvis vi skulle tage et hurtigt eksempel.
+
+4:06
+Hvis vi tager to matricer og lægger sammen 1 2, 3 4 plus 5 6, 7 8.
+
+4:16
+Hvad giver det? Det giver 6 8, 10 12.
+
+4:22
+Vi lægger simpelthen bare 1 til 5 2 til 6 3 til 7 og 4 til 8.
+
+4:31
+Sådan. Ligesom vi kan gange en vægtere med et tal, kan vi også gange en matrix med et tal, så hvis vi siger, at vi har.
+
+4:51
+K gange en eller anden matrix.
+
+5:01
+Og på bare et tal, så giver det K gange let k guide to k gange a to et a k gange a to to.
+
+5:17
+Det giver os anledning til at finde ud af hvordan kunne vi trække to matricer fra hinanden?
+
+5:24
+Hvad kunne vi mene med A Minus bag målet?
+
+5:28
+Det var at sige det af plus minus én gang bad.
+
+5:34
+Nu ved vi, hvordan vi ganger en matrix med et tal, og så ved vi, hvordan vi lægger to og to sammen.
+
+5:39
+Så nu kan vi altså giver det mening at vende hver en sten, og i praksis vil vi jo ikke skrive det sådan op.
+
+5:45
+Den anden forklaring vil man bare trække indgangene fra hinanden. Nok aldrig været slukket.
+
+5:51
+Sådan kan jeg jo se, om den er egnet i øvrigt.
+
+5:57
+Det ved jeg ikke lige var, den gør. Når man så sker der nogle ting man ikke er helt.
+
+6:10
+Det må vi leve med, og jeg tror, at lige så snart den er varmet op, så bolden i miljøet igen, og så slukker billedet, da det er det godt.
+
+6:22
+Sådan nogle faktorer matricer hinanden. Vi kan også bruges til noget hér. Hvis nu vi prøver, ser på det let, at et tog er i toilet á 2 2.
+
+6:37
+Det er A plus B. Jeg vil se på plus a b.
+
+6:45
+Et B 2 bag tog et bag 2 2.
+
+6:51
+Hvis jeg lægger dem sammen. Det har de gjort. Ovenover det. Plus B.
+
+6:56
+A 2 plus base 2 A.
+
+7:02
+2 et plus b toilet og A 2 2 plus 5 2 2.
+
+7:09
+C Alt det der står her. Det er jo bare reelle tal, og der vil være mere reelle tal at gøre.
+
+7:14
+Så kan vi jo bytte om på rækkefølgen, inden vi lægger dem sammen.
+
+7:18
+Så jeg kan i stedet skrive b et et plus a et bæger tog plus a 2, B 2, et plus a, to et og B 2 2 plus a 2 2.
+
+7:36
+Og hvis vi ser på, hvad det egentlig står her og deler ud på to matricer igen, så står der bag et et bag et 2.
+
+7:44
+B tog et bag 2 2 plus a á 2.
+
+7:49
+Hej Annette. 2. A tog et a 2 2, og det er det samme som B plus AA.
+
+7:59
+Så vil jeg skrive sådan, lave den meget, skrive for ingenting. Men dette viser køn.
+
+8:05
+Dette viser er, at når man siger a plus B. Eller man siger b plus af det giver det samme.
+
+8:13
+Man må altså gerne bytte rundt på, og man ser Abou spiller B Plus.
+
+8:17
+Det ved vi også godt fra tal. Det er jo ligegyldigt. Få tal gælder også, at to gange 3 er tre gange 2.
+
+8:23
+Og nu skal vi lige se, at det gælder ikke for matricer. Så lad os prøve at komme i gang med det.
+
+8:31
+Ja, for jeg vil ikke sige mere om det med at lægge 2 og 3 sammen. Det giver fuldstændig selv, for det arver alle de der regler for de reelle tal.
+
+8:37
+Så det minder meget om bare at lægge tal sammen. Men når vi ganger to matricer, er det noget helt, helt andet.
+
+8:49
+Har jeg tror jeg hellere vil tage de to hold over hinanden, så jeg kender.
+
+9:07
+DR's. Natten. Og hvad sagde jeg?
+
+9:27
+For at starte ud med det her, så må vi se på en matrix, der som vi kalder af.
+
+9:39
+Det kan vi kalde, at event er en tung står, der mangler.
+
+9:43
+Et N a er mest optaget af mn denne type m Koresand.
+
+9:56
+Så vil jeg se på en speciel matrix der kan be eller en lille bag.
+
+10:02
+Den har kun en søjle bate ved tung og tilbage.
+
+10:09
+Den denne lille bede. Den kalder jeg en den type.
+
+10:17
+Hvad hedder det, der er inde og M.
+
+10:21
+Hvem ved end? Undskyld, det var mig der. Denne type end kryds et.
+
+10:33
+Enden rækker en søjle, sådan en kalder vi kort en søjle matrix.
+
+10:42
+Og der kan man gætte på hvordan mon en række Manzarek ser ud derinde, hvor der kun er en række og et vist antal søjler?
+
+10:52
+Ja, hvorfor end det ser jo lige om lidt. Det er jo EM. Der er jo EM her.
+
+10:57
+Væk. EM rækker op, men nu er det enhver i bad.
+
+11:01
+Hvorfor det? Det kommer en forklaring på. Nu vil jeg definere Matrix produktet mellem dem.
+
+11:14
+Heller gange A Guide B defineres som vi laver en ny matrix, så tager vi.
+
+11:30
+Vi skal lige se om af dem vil vi skrive den første søjle i af dem vil vi bare kalde a ét.
+
+11:39
+Den næste søjle vil vi kalde a 2. Og den sidste sejlivede vi kalde a ind med streg under hvilke to.
+
+11:46
+Der er jo en elementer i a ét i A2, så søjlerne. Det vil sige at en søjlen dem består af de elementer der her og plagsom søjler.
+
+11:57
+Så vil vi definere produktet her som et METAR bagest den første i B.
+
+12:06
+Og ganger med a søjlen her plus B-2 det næste element i B og ganger med A2 segl plus plus b n og ganger med a l søjlen.
+
+12:28
+Se her kom. Her kom den første forklaring, for hvorfor skulle den være?
+
+12:34
+Hvorfor skulle det være n elementer i? B. Ja, det skulle være af den simple grund, at hvis der er elementer i B.
+
+12:42
+Så passer det med antallet af søjler i A. Ellers havde vi jo ikke kunne lave det her valg.
+
+12:47
+Ikke godt se til hver. B skal jo høre en søjle her op, så der skal være lige så mange eller hvæssede rækker i B som der søjler og.
+
+12:56
+For så går vi i stå, når der enten ikke nok eller for meget. Så det skal passe lige præcis.
+
+13:04
+Så hvis vi ikke må skrive under A, var Type Empress L. Og så skulle BT meget type end kryds ét, der gælder, når man skal gange siden tog jer sammen.
+
+13:13
+Så skal det bogstav, der står hér, altid passer sammen til én, og endelig skal det være.
+
+13:21
+Og så blir, så bliver resultatet. De tog uden om, når det bliver en matrix af type M kryds et.
+
+13:31
+Der bliver altså EM rækker, men kun en søjle.
+
+13:36
+Og det gør det jo, hvis vi regner det. Jeg kan godt se, der står plusser i mellem alt det her.
+
+13:40
+Hele rækker blev lagt sammen til ét element, og så får vi EM af dem, fordi der var EM rækker herover.
+
+13:49
+Det er svært at se i sådan noget. Det er derfor først nu, vi gør her. Det er straks at kaste os ud i et eksempel.
+
+13:57
+Hvordan gør man det her i praksis? Hvis du?
+
+14:11
+Vi ser da at der er noget 1 2. 3F mener sagen.
+
+14:18
+Hvad mener du? 2 1, 1, 0, 1 og B.
+
+14:27
+Man kan hedde 1 2 3. Og så skal vi se på a gange B, og måden vi skal regne ud på, står der jo her.
+
+14:43
+Hvis vi skal følge definitionen op, så skal vi tage første element i bind ét og gange på den første søjle i AF, som hedder et mindretals et.
+
+14:57
+Så skal vi tage det næste element i B og gange på den næste søjle af, som hedder 2 minus 2.
+
+15:13
+2. Ja. 2 mere. 2 0. Jeg vil ikke gå i stå.
+
+15:17
+Jeg skal jo tage den senest med tre omgange på den sidste søjle.
+
+15:23
+3. Et et. Ja, alle var på den.
+
+15:33
+Så kan vi jo prøve at leje det her sammen. Så står der, vi skal tage en gang.
+
+15:38
+Det giver én plus to gange, 2,4, fem plus tre gange, 3 1, 9 5 plus 9 14.
+
+15:48
+Så skal vi tage den næste række. Minus en gang 1 minus 1 minus 4 det minus 5 plus 3 det minus 2.
+
+15:56
+Så skal vi tage en plus nul plus 3 4, så A ganget B giver det der.
+
+16:14
+Sådan kan man altså gange sine matricer ud, da det er defineret indtil videre Hvordan ganger vi en eller anden matrix med en søjle matrix?
+
+16:25
+Vi har ikke sagt om, at matricen B er mere.
+
+16:29
+Sådan gør vi så, men det kommer nu. Men lad os gøre det her færdigt sager.
+
+16:38
+Lad os tage et eksempel mere. Hvad nu hvis jeg kunne finde på og brygger?
+
+16:44
+Hvad vil jeg bede gang af? Jeg synes, det er en god ide.
+
+16:52
+Nej, det kan man ikke. Det tror jeg ikke. Vi tænker lige.
+
+16:56
+Hvad var det nu, vi kunne gøre for at tjekke det? Jo, det var jo en tre kryds, tre matrix og B.
+
+17:03
+Det var en tre kryds. En matrix, der lige skulle passe sammen, og ud af det fik vi så 1 3 gange en matrix.
+
+17:11
+Det passer 3 rækker en søjle. Hvis vi gør det modsatte her, så har vi jo en tre gange en gang sammen med en 3 gange 3.
+
+17:18
+Den går ikke. De passer ikke sammen, og det der bliver problemet, det bliver, når vi skal prøve, at gange dem er sammen.
+
+17:24
+Så passede sejlere og rækker alle kampe godt.
+
+17:32
+Den sidste ting med de søjler matricer, inden vi går til det. Det rigtige matrix får lov.
+
+17:39
+Nej, vi kan også. Lad os bare med det samme, for det får det defineret.
+
+17:43
+Lad os tage det matrix nu. Kommer altså den egentlige generelle definition, som indeholder den her start.
+
+17:57
+Definitionen her Hvordan ganger jeg to matricer med hinanden?
+
+18:05
+Ja. Endnu bedre rustet før der bliver skruet op i diktatorerne, tager drengene igen en bonus nede i tabellen med et guide 1-2-3.
+
+18:20
+Bøfler, søjler eller søjler. Søjlerne indikerer at en strid op søjlerne ligger ikke, drengene bør ikke række den vej.
+
+18:31
+Det søjlerne, vi gyden her ikke. Et godt.
+
+18:43
+Vi skal have defineret den generelle Matrix lov her, og hvordan gør vi det?
+
+18:48
+Ja, vi har en matrix af den her type improvisation, og jeg har en Matrix B.
+
+19:00
+Den er af type 1 på et S. Så kan jeg gangen om sammen.
+
+19:06
+Jeg kan i hvert fald gange af med B. Og værre.
+
+19:15
+Hvordan skulle ideen være?
+
+19:17
+Ja, ideen er, at vi vil prøve at gøre ligesom før det prøver at se, om vi kan gøre noget, der minder om det, vi lige har lavet over.
+
+19:24
+Jamen, vi skriver vores nat.
+
+19:26
+Vi skriver vores af alt sammen som en matrix hér og skriv A, der er i dens optælle A i et land a m et optag af mænd, og så ganger vi den med b.
+
+19:44
+B skriver Vi er sådan nogle søjler her beide, ligesom vi gjorde, før det tog op til bageren og Tebas advarede.
+
+19:55
+Lisa sagde Jamen, det var en en tilbage. Så lad være, hvad kan vi så gøre nu?
+
+20:06
+Ja, jo, så definerer vi det generelle Matrix produkt, som er det første søjle herinde der står a gange b et.
+
+20:16
+I næste søjle står af gangen. 2 og i sidste søjle står a gange b an.
+
+20:26
+Ja, hvorfor? Hvordan? Hvordan laver vi så de her enkelte søjler? Ja, det står jo.
+
+20:31
+Hér får vi nu vi jo i en situation, hvor vi har a gange en søjle af matrix.
+
+20:35
+Vi kan også sætte et ret stort projekt. Hvis er bare lidt sort. Så skal vi til at lave denne her udregning hér for hver eneste søjle.
+
+20:46
+Så det tager tid, hvis matricen bare bliver lidt stor.
+
+20:52
+Derfor vil vi også indskrænke os her til at prøve at gange 2 2 gange to matricer sammen.
+
+20:57
+Jeg vil gøre det nemmere. Det hjælper ikke når gang en gang, inden man sætter sig sammen, for det er det samme som at gange med tal.
+
+21:02
+Det hjælper, og det viser ikke noget nyt. Men vi er godt gang 2 2 gange 2 matricer, og det tog jeg jo prøve gang sammen med.
+
+21:11
+Er af gangen. B Der er A, der hedder a 2, 1 1 minus 1, og det er en der hedder B er lig med 1 0, 2 1.
+
+21:29
+Og hvordan ganger man dem sammen? Ja, det står jo herover, hvordan vi gør det.
+
+21:35
+Hvordan gør man det? Det står simpelthen nær a gange, B er lig med.
+
+21:43
+Jeg skal tage af matricen hér, og så skal jeg gange med den første søjle herover i bind, som hedder 1 2.
+
+21:54
+Og i næste. Det er den første søjle i denne her, og næste søjle læser af matricen.
+
+21:59
+Jeg skal gange med den anden søjle bag, som hedder noget.
+
+22:06
+Hvordan var det, at jeg garnede en matrix med en søjle matrix?
+
+22:11
+Ja, jeg tog jo elementerne i B hér og ganget på søjlerne.
+
+22:17
+Ja, så nu tager jeg elementerne i bad.
+
+22:23
+Jeg tager sig en og ganger på den første søjle i AF, som hedder to et plus to pakker, den anden søjle af, som hedder 1 minus 1.
+
+22:36
+Og det er den første søjle i af den anden søjle. Den anden søjle bliver dan.
+
+22:43
+Den bliver nul gange af ét, to et, at den første nul giver en første højlig af og en gang.
+
+22:52
+Den anden søjle i af, som hedder 1 minus 1. Det er simpelthen definitionen på hvordan laver jeg det matrix produkt?
+
+22:59
+Og så er det bare at regne ud. Er det noget er eller vil jeg påstå, at der skulle være noget at have?
+
+23:12
+Nej, nej tak. Da jeg kløver noget, var det for dårligt.
+
+23:20
+Han måtte gøre mig mere umage. Se to plus 2.
+
+23:28
+Det giver 2 1 plus minus to.
+
+23:33
+Det kan være minus 1 0 gang, og det giver nul.
+
+23:37
+Indgår én, der giver én en gang minus 1. Det giver minus 1.
+
+23:42
+Så her står produktet af A og B. Det var da et forholdsvis stort arbejde for at finde produktet, men 2 2 gange to matricer.
+
+23:52
+Forestil jer det har været 2 5 gange fem matricer. Ja, ja.
+
+24:02
+Partiet er det første splitter eller to der ikke lige giver tro på her og nu, må de forklare, hvad der ser en gang to ved at to plus to gange.
+
+24:19
+De to herrer, der begge er fire, er, så for mig, så handler her kun i scenen.
+
+24:31
+Jeg vil jo igen. Jeg kan ikke få armene ned. Tak se.
+
+24:35
+Jeg vil meget gerne se sagerne, fordi nu kommer vi til det interessante for ikke at se denne metode og gøre det med.
+
+24:42
+Den er tung og besværlig. Hvis nu man skal gøre sådan noget i hånden og ikke bare i Mabel, så kan vi jo prøve at finde for sjov en gang af.
+
+24:53
+Så skal vi bagvingerne til. Han giver en nul to gange.
+
+25:00
+Det var B. Og adding her to 1 1 minut sagen.
+
+25:10
+Det kunne man gøre det lettere at se. Det kan man faktisk godt, hvis man gerne vil have den første indgang her.
+
+25:20
+Nu går han sammen på den anden i den anden rækkefølge. Hvordan gør sig så?
+
+25:24
+Skal man have det godt efter. Hvis man, så tager jeg den første række herover og prikker med den første søjle.
+
+25:31
+Det vil sige to gange af én. Det giver 2 på noget, der giver nul, altså to plus nul.
+
+25:38
+Det giver 2. Man kan også se, hvis jeg skal have den indgang og stå her.
+
+25:45
+Så skal jeg have den sidste søjle og den første række først række her sidste søjle.
+
+25:51
+Her en gang en +0, gang minus 1. Det giver en 2,29 giver 4 plus indgange.
+
+26:03
+1. Det giver 5 2 gang 1 2.
+
+26:10
+Nu kan den sidste vinge allerede sidste række sidste række sidste sejle to gange ingenting.
+
+26:15
+2 minus 1. Det giver en lidt nemmere, hvis man skal sidde.
+
+26:22
+Gør det en bastard, man ikke laver igen?
+
+26:26
+Ja, tænk det, der er vigtigt at forstå.
+
+26:29
+Det er, at hvis jeg skal have den første indgang her, så skal jeg tage den første række og den første søjle her.
+
+26:37
+Og så kan man gøre sådan her. Det er den, man kan huske, når man går ned af trappen, som går hen af to gange en bluse eller en.
+
+26:45
+Det giver en tung, så der skal være denne handel så jeg hen i anden søjle.
+
+26:51
+Første række. Anden søjle. Første række. Første række. Anden søjle.
+
+26:56
+En gang en bluse, der giver en. Og så skal vi have to gange.
+
+27:02
+2. Altså siesta.
+
+27:09
+Her findes der sidste række. Første søjle.
+
+27:13
+Det giver denne her to gange 2 4 plusser. En der giver 5 pct.
+
+27:18
+Før pausen, når man skal med. Hvis du kan have det der i den første søjle her, skal du bruge den første søjle af gør det.
+
+27:26
+Anden søjle, anden søjle her. Og så vil rækkerne indenfor. Forstå det sådan.
+
+27:30
+Man skal have det egentligt. Var selvfølgelig tænkt som først sig, og så var det, jeg fik, at man går hen med fingeren nedad med den samme tid.
+
+27:36
+Det gør man i begge matricer og rykker fremad. Så kan man hullet ned. Nej, det der var interessant her.
+
+27:43
+Hvorfor ganget jer? A med B og bede med? Det derfor dette står jeg i gang med.
+
+27:51
+Her står og blinker af den samme matricer er jeg ved.
+
+27:57
+Det vil sige der gælder altså generelt at a gange b er generelt forskelligt fra b gange f.
+
+28:07
+Det er jo ret besværligt at skal huske på,
+
+28:09
+at det nu engang beder eller bede gang i vant til at man kan grine sammen, lige som det passer ind næsten alt.
+
+28:15
+Det er kun krydsproduktet og så videre, man ikke må bytte rundt på dem. Men her går det rigtig galt.
+
+28:19
+To vidt forskellige ting og med matrixmultiplikation, der gælder endnu.
+
+28:24
+Endnu værre ting. Lad os lige prøve at lave en rigtig grim ting, der også kan ske af alle lige med 2 1 minus 6 minus 3.
+
+28:43
+B er lig minus 4 1 8 minus 2 2 matricer, der ser forholdsvis uskyldigt ud.
+
+28:56
+Hvad sker der, hvis jeg ganger af med B? Lad os prøve A gange B 2 1 minus 6 minus 3 gange.
+
+29:07
+Er nu med minus 4 1, 8 minus 2 minus 4 gange.
+
+29:12
+2 giver 8 plus, der giver nul 2 gange 1 minus to gange 2 2 gange én gang plus en gang i minus to bliver også nul og minus 4 gange 6.
+
+29:27
+Det giver mening, og det giver plus 24 minus drikker giver minus 24 genuin og til sidst 6 minus 6 plus 6.
+
+29:36
+Det giver nul ja ganger altså 2 ikke nul elementer sammen og får nul elementet.
+
+29:43
+Så er det heller ikke noget der minder om nulre eller kavalergange. To elementer som er forskellig fra nul elementet i matricer.
+
+29:49
+Det er nul elementer. Med 3 elementer vi lægger det til, sker der ikke spor.
+
+29:54
+Her kan jeg gange to ikke nævne elementer og få nul elementer. Er det næste spørgsmål er, hvordan en elementet mon egentlig ud i matricer?
+
+30:02
+Og det kan da godt røbe en elementet for to gange 2 med 3, så det hedder 1 0 01.
+
+30:09
+Den. Svare til et 1 tal. Hvis jeg ganger den på en hvilken som helst to gange to matrix, så sker der ingenting.
+
+30:15
+Men det vil jeg overlade til jer at prøve. Og der findes selvfølgelig et ét element i to gange to matricer, der findes i de tre gange 3 4 gange 4.
+
+30:24
+Det er en speciel eksempel præget af kvadratiske matricer, som jo er emnet for næste gang.
+
+30:30
+Men matrixmultiplikation. Det gælder for alle matricer bare at det opfylder de her ting.
+
+30:35
+At deres typer skal passe sammen, så vi skriver det op, som vi gjorde det.
+
+30:39
+Altså en EM gang endda skal gange sammen med én indgang S for eksempler.
+
+30:44
+Men er det kvadratiske, ja, så kan man gang samme på begge veje, selvfølgelig. Ja, så kan tiden desværre alt.
+
+30:51
+Vi havde jo et Mabel eksempel, vi mangler, så det bliver selvstudium. Og jeg kan anbefale, at når I kommer op til øvelserne.
+
+30:58
+Jeg kan bare spørge jeres klasselærer. Jeg kan op til øvelserne. Så er det vigtigt at læse det eksempel, før jeg går i gang med den opgave.
+
+31:04
+Hvordan Matrice med et A i S kan være en af mine.

@@ -1,0 +1,698 @@
+0:04
+Med en interaktiv vellyd, som vi kalder for en e-mail.
+
+0:10
+Problemet var det, at vi havde en del af fejlene, noget da man bestemt selv opløsningen.
+
+0:21
+Så fører det de nye hvad det. Så vil jeg altså få en gennemstrømning.
+
+0:30
+Også med en vis salgs indhold. Og så var spørgsmålet Hvad er så koncentrationen til tiden?
+
+0:38
+Ex. Eller til tiden t.
+
+0:47
+Dexter the det betyder altså saltkoncentration til tiden T og Der Zogby, når vi arbejdede med den her problemstilling.
+
+0:56
+Så opstod der en differentialligning af den type, som vi kalder for en første ordens lineær differentialligning og en af de store pointer.
+
+1:08
+Det er sidste gang. Det var jo, at nu fik vi sandelig brug for lineære afbildninger og struktur sætningen.
+
+1:19
+Og vi satser også på eksistens spørgsmålet, og vi vidste, at hvis der er givet et eller andet bestemt punkt,
+
+1:28
+så findes der netop en løsning til de differentialligningen, som går igennem det punkt i dag i øvelses programmet.
+
+1:39
+Da er der en ny e-mail, og her ser situationen sådan her ud.
+
+1:54
+At nu er der givet to tønder og her godter at røre en.
+
+2:03
+Her går der er der et rør der forbinder de to.
+
+2:10
+Her er der et rør. Og så får vi altså.
+
+2:17
+Et inden flux ved at ske her med en bestemt salt opløsning.
+
+2:24
+Og så fortsætter vi den vej ud her. Men der er altså lige en lille komplikation på, fordi der er faktisk også et røre, der sidder her.
+
+2:37
+For det betyder altså, at vi har et vist tilbage flow her.
+
+2:42
+Så vi får altså indstrømning og nåede går ud noget går tilbage igen, og så fortsætter den vej der, og det vi interesserer os for her.
+
+2:51
+Det er. Hvad er Saltum løsningen til tiden t.
+
+2:58
+I den første? Og hvad er salt opløsning i den anden til tiden ting.
+
+3:09
+Og dem skal jeg altså arbejde med helt fra bunden af.
+
+3:13
+Og da vi så se at her opstår der så differentialligninger af den type her.
+
+3:36
+Og der kommer faktisk der opstår to differentialligninger. Så det vil altså sige at det problem der står her.
+
+3:57
+Hvis I følger denne guide ning der i e-mailen, så vil jeg altså se, at der opstår 2 differentialligninger af den type her.
+
+4:08
+Og ret beset så er de faktisk af samme form som dem vi snakkede om sidste gang.
+
+4:15
+Hvis vi kigger på den første her. Lige trækker den herovre, og det her led over på den anden side af lighedstegnet.
+
+4:24
+Så kan I se det vi kaldte for en lille PRT. Det er bare en konstant og det der hedder Quote.
+
+4:30
+Det er så det, der står her hen. Og sådan er det også med denne hernede.
+
+4:36
+Her skal der lige stå X2. Hvis jeg flytter det her led over på den side, så har vi altså en første ordens lineær differentialligning.
+
+4:46
+Problemet er bare det, at QT var ukendt i de differentialligninger.
+
+4:54
+Det var en kendt kontinuert funktion. Her er den ubekendte, fordi det jo den anden, vi skal vinde.
+
+5:00
+Og på samme måde hernede, så er jeg så ubekendte funktioner i dem begge to.
+
+5:05
+Det er det, der er problemet. De her differentialligninger. Dem kalder man for forbløder.
+
+5:13
+Fordi funktionen hedder exit. Den indgår hermed funktion X2 indgår heroppe, og man kan ikke løse den ene uden at man også løser den med den anden.
+
+5:24
+Det er to ligninger med to ubekendte funktioner. Og det er det der gør det besværligt, men selvfølgelig også sjovt.
+
+5:36
+Så lad os lige prøve at se, hvordan vi hvad vi kan gøre ved det her.
+
+5:46
+Vi starter med at her og skrive de differentierede versioner op.
+
+5:55
+Exit et mærke og X2 mærker. Og så har vi altså på et ex et the blues på 2 x 2 og 10 for oven, og så har vi på 3 x et R10 fortsat plus på 4 X2 og til.
+
+6:24
+Og hvis vi kigger lidt på det. Så kan vi se at det her kan skrives som et Matrix' vektor produkt.
+
+6:40
+Nemlig på et CO2. På tre og fire.
+
+7:01
+Så nu har vi altså fået opskrevet de to ligninger her to ligninger med to ubekendte som et matrix
+
+7:09
+vækster produkt og vi altså her har de differentierede funktioner og her de differentierede funktioner.
+
+7:17
+Og det er altså det problem vi skal arbejde med. Og denne her kalder vi for A.
+
+7:29
+Og den kalder vi for et system matricen. Og den første vægtere her hende.
+
+7:40
+Den kalder vi for ex mærke ting og så den vægtere, da jeg er her.
+
+7:45
+Den kalder vi for ikke så ting. Så har vi fået lavet den indledende analyse for at kunne komme i gang med løsningen.
+
+8:08
+Hvad er det nu der er problemet? Med lyset har.
+
+8:19
+Og gav Obama hvad var efterlyser jeg, nu skal jeg se, om det er noget jeg kan styre her fra podiet.
+
+8:47
+Pas vil du være mandag.
+
+8:53
+Børnenes. Lys fik godt når vi er allerede i gang.
+
+9:09
+For nu er vi parat til den indledende definition.
+
+9:17
+Og hvor vi siger at et lige magert.
+
+9:24
+Første ordens differentialligning system med konstanter.
+
+9:38
+Kofi Center. Har formand man eller kan skrives på formen.
+
+9:53
+X mærke at ting er lig med en matrix A og så X og ting.
+
+10:12
+Altså hvor ex. Det betyder en vægt der består af en masse funktioner Exeter the X2 og Ting og så videre x end at se.
+
+10:30
+Og ex. Mærke at se. Betyder en vægter med de tilsvarende differentierede funktioner.
+
+10:49
+Og af matricen er en farbrødre disk matrix en 1 hos en matrix.
+
+11:14
+Så nu kommer vi så til hvordan vi skal løse det.
+
+11:19
+Og hvor er jeg så struktur sætningen. Sidste gang var pointen.
+
+11:25
+Så er pointen denne gang egenværdier og egen vektorer.
+
+11:30
+Det er den store pointe i dag. Den anden pointe i dag er eksponentielle funktionen.
+
+11:37
+Specielt den komplekse eksponentiel funktion. Altså se hvordan.
+
+11:43
+Den komplekse eksponentiel funktion hænger sammen med de trigonometriske funktioner, som er sinus og cosinus.
+
+11:52
+Men det vender vi tilbage til lidt senere.
+
+11:55
+Først så skal vi se hvordan kan vi løse differentialligningen systemer ved hjælp af et diagonale i sikkerheds metoden.
+
+12:04
+Og her har jeg et eksempel med. Tre koblede differentialligninger af den type vi taler om her.
+
+12:19
+Undskyld til Vesten. Lidt ned en fondant.
+
+12:32
+T r skriver nu et differentialligningen system op. Hvor vi har x et mærke er ting, den er begge sider ting.
+
+12:56
+Plus 2 x 2 og til plus 2 x 3.
+
+13:05
+Og så har vi X2 mærket til, som er lig med sexlegetøj til.
+
+13:15
+Plus 2 X2 ægsortering minus x 3 at the.
+
+13:24
+Og ex tre mærke at det er minus ikke til plus X2 og the.
+
+13:36
+Kluges 4 x 3 at se.
+
+13:44
+Så vi har altså arbejdet med en eller anden fysisk problemstilling, og så har vi altså fundet ud af, at det at finde de tre ukendte funktioner ex.
+
+13:54
+Et X2, X3 vil sige, at vi skal løse de her koblede differentialligninger systemer.
+
+14:04
+Hvis vi nu skriver Car System matricen op.
+
+14:13
+Så kan I se. Så har vi en to Panopto.
+
+14:19
+Vi har en minus to. Og her skal det faktisk være plus, så det er altså plusser og minusser.
+
+14:29
+Og så har vi minus 1 og 1 og 4. Så.
+
+14:40
+Altså hvis jeg skriver mig op på den her måde, så kan jeg altså skrive mit differentialligning system sådan her, at ex.
+
+14:49
+At se mærket er lig med system matricen.
+
+14:58
+Og så ganget med vægteren, som består af de ukendte funktioner.
+
+15:10
+Nu havde jeg kigget hjemmefra på den matrix der står her, og jeg har fundet dens egenværdier, og det viser sig, at.
+
+15:24
+At den har egenværdier. Lambda 1 den er in og Lambda 2.
+
+15:35
+Den er 3. Hun.
+
+15:41
+Og ydermere så har jeg fundet egen rummet, der hører til den første.
+
+15:49
+Og det viser sig at det er vægteren 2 minus 1 og 1.
+
+15:59
+Mens egne der hørte til egenværdi 1 3.
+
+16:05
+Det er udstillingen af to vektorer den første.
+
+16:09
+Den hedder en komme 1,0, og den anden hedder en komma nul komma.
+
+16:21
+Og vi ser selvfølgelig at de to vektorer her er lineært uafhængige.
+
+16:29
+Vi ved at egenvægt 2'er da hører til forskellige egenværdier, at de også er lineært uafhængige.
+
+16:36
+Det vil sige at vi har tre lineært uafhængige egenvægt ture for A, og det betyder at den kan diagonalt i Ceres.
+
+16:44
+Vi kan også se det ved at den biometriske multiple sitet.
+
+16:48
+Hvis vi tager summen af dem, så giver dem tre. Kun.
+
+17:09
+Og så er den gamle historie jo at.
+
+17:14
+Hvis vi sætter. Altså hvis vi danner en matrix, som vi kalder for V, som består af de tre vektorer her på højkant, så har vi 2 minus 1 og 1.
+
+17:36
+Vi har 1, 1 og nul, og så har vi en nul og 1.
+
+17:44
+Og så tager vi en anden matrix, som vi kalder for Lambda, som består af egne værdierne i diagonalen.
+
+17:53
+Det vil sige, at vi skal have en nul og nul, fordi egenværdi i 1:1 hører til den der egenvægt.
+
+18:01
+Og så har vi nul tre, for den hører til den anden.
+
+18:05
+Her. Og så har vi igennem tre, fordi den har hørt til egen rummet i tre.
+
+18:17
+Hvis vi altså gør det dér, så ved vi jo, at vi kan kanalisere hvis simulatoren transformation.
+
+18:33
+Atlas V i minus 40 næste. Den inverse tv gange a ganget ved at det er lig med Lambda matricen.
+
+18:44
+Det var forelæsningen fra U10. Hvad skal vi bruge dette til?
+
+18:54
+Se nu gange og jeg med matricen V på venstresiden.
+
+19:03
+Og det skal jeg så også gøre her om lidt på højresiden her jo ikke.
+
+19:07
+Og så her fra højresiden. Gange med den inverse til VM.
+
+19:12
+Så får vi bare her på venstresiden af i tilbage, som så er lig med V, Lambda og V i minus første.
+
+19:31
+Hun. Jeg ved jo at eks mærke er T.
+
+19:39
+Den kan jo skrives som a. Ex er til.
+
+19:46
+Det var jo. Sådan vi netop havde omskrevet differentialligningen systemet.
+
+19:57
+Nu byder jeg af matricen ud med det der står på højsæde.
+
+20:02
+Her. Så har jeg til den ved Lambert ved i Minos første.
+
+20:13
+Og så ikke så til. Og vi bliver ved med at lave noget matrix algebra her, fordi nu ganger jeg med V i minus først på venstresiden her og her.
+
+20:37
+Også højre v i minus frost, altså den inverse til v.
+
+20:43
+Gange med vækstrater som er lig med.
+
+20:48
+Og så forsvinder denne her jo. Og så har vi lam der.
+
+20:53
+Og vi har været i minus farce og vi har ikke sig til.
+
+21:09
+Her har jeg et Matrix' Vectra produkt, hvor det her består at den differentierede funktion, så nu kommer der en vigtig pointe.
+
+21:19
+Se istedet for at jeg de France seere først og så ganger på bagefter.
+
+21:27
+Da kunne jeg også have gjort det, at jeg først gyngede.
+
+21:35
+Den her matrix med denne her funktion svigter også er differentierede bagefter.
+
+21:42
+Det vil give nøjagtig det samme i sig selv. Hvad siger du? Jo.
+
+21:50
+Ellers sker det slet ingen mening. Det var det jeg mente. Så det vil jeg så bare se.
+
+21:55
+Vi venter med at differentiere til efter vi har lavet med et tryk.
+
+21:58
+Svigter produktet. Det giver den nøjagtig det samme resultat. Og så har vi altså her påført på højresiden lambda v minus første.
+
+22:13
+Og så X er til. Og så hvorfor har jeg gjort det her om?
+
+22:26
+Det har jeg nemlig gjort fordi at nu er det der står her, differentierede leg med det, der står her udefra, håndteret.
+
+22:41
+Så hvad er pointen i det? Det bliver lidt tydeligere hvis jeg nu.
+
+22:50
+Indsætter en ny funktion, svigter som ikke hedder exciting, men den hedder Yeti.
+
+22:58
+Så kan vi definere. Dyre the.
+
+23:09
+Som altså består af tre funktioner i ét til i to til og i tre til.
+
+23:21
+At det er lig med ved Milos første ekstra ting.
+
+23:32
+Det er klart det her der står her. Det er jo kun det giver tre tre vektorer eller et eller altså tre funktioner her.
+
+23:41
+Nu kalder jeg dem bare for Y. Hvorfor gør jeg det? Det gør jeg, fordi den ligning, der står her, kan jeg nu omskrive.
+
+23:56
+Så er der står by mærket RT er lig med lam, der gange med Y til.
+
+24:13
+Og det vil altså sige at den differentialligning jeg havde her i forhold til ex funktionerne,
+
+24:21
+har jeg nu omskrevet til den differentialligning, der står her ved hjælp af øy funktionerne.
+
+24:28
+Skal vi kalde den for dobbeltstjerne? Så vi skriver nu situationen op.
+
+24:41
+Det vil sige at. At de her tre funktioner Y er et mærke til de to mærke til de tre mærke er til.
+
+24:58
+Er lig med min lambda matrix, 1 0 0, 0 3 og 0, 0, 0 og 3.
+
+25:08
+Og så gange med y funktionerne Y Eter T i 2 år til og i 3 RT.
+
+25:27
+Nu ganger jeg sammen matricen her med by funktionerne, og det er meget nemt, fordi det her er en diagonal matrix, og så får jeg simpelt hen ny et RT.
+
+25:41
+Og så får jeg her tre i to år til, og så får jeg tre y 3 rt.
+
+25:53
+Sådan her. Igen. Det her differentialligning system har jeg nu omskrevet til det her differentialligning system.
+
+26:03
+Her har vi mærket vektorerne. Her har vi vektorerne selv.
+
+26:09
+Pointen er Nu er de ikke koblet mere. Fordi nu står der jo bare at vi mærke at se differentieret er lig med funktionen selv.
+
+26:23
+Det har vi da hørt før. Så hvad er det for en funktion? Selvfølgelig. Som du også hjælper med sidste gang, tror jeg fint tak.
+
+26:38
+Så vi har altså ét at se.
+
+26:44
+Er lig med en konstant ganget med eksponentielt funktionen.
+
+26:51
+Og så har vi her, at her skal vi dem her skal vi også lige differentieret en funktion som differentieret, alt lige med tre gange så selv.
+
+27:04
+Og det vil sige i to arter. Altså en vilkårlig konstant skal vi kalde den.
+
+27:12
+Se 2. Og så har vi endelig om den tredje funktion her.
+
+27:23
+Den er også tre gange med sig selv.
+
+27:28
+Og så får vi også her, at de tre funktioner byen en vilkårlig konstant gange med eksponentielt funktionen opløste til det der står her.
+
+27:49
+Så nu har jeg altså løst dette differentialligningen system der står her,
+
+27:54
+som er det koblet var meget nemt at løse ved hjælp af de mest elementære differentialligninger, vi næsten kender.
+
+28:04
+Men det var jo den her vi skal løse. Så hvordan kommer vi fra den løsning, vi har lavet her og så til den?
+
+28:14
+Vi jo i virkeligheden er interesserede i at løse.
+
+28:22
+Og her er vi nødt til at. Gå tilbage til her hvor vi indførte by funktionerne, fordi vi skrev Yo y rt ved dem, forstår vi.
+
+28:39
+V i minus varsler. Også at gange med æg så the.
+
+28:50
+Hvis jeg nu ganger med, vil funktionen fra venstre her og fra venstre.
+
+28:57
+Her kan vi se, at dette er så ensbetydende med at ex er til funktionerne.
+
+29:04
+Det er ved matricen gange med y funktionerne.
+
+29:14
+Så lad os udnytte det. Jeg skal jo have løst den differentialligning der står her.
+
+29:23
+Vi skal have fundet ekstra funktionerne ex funktionerne er så lig med min.
+
+29:32
+Min v. Matrix som står. Der.
+
+29:39
+2 minus 1 1, 1 1 og 0, 1, 0 og 1.
+
+29:48
+Og sagt gange med y funktionerne som var c et in it.
+
+29:54
+C 2 E i tre t set tre gange med e i tre t.
+
+30:12
+Og så slutter jeg lige denne her løsning ved at opskrive den på en særlig form, som er smart.
+
+30:24
+Det vender lige tilbage til jeg husker det, der i et Matrix vægtere produkt består i.
+
+30:28
+Vi tager det øverste element. Ganger med den første søjle, så har vi altså set et e i it!
+
+30:40
+Gange med 2 minus 1 og 1. Plus det andet element set to ind i træ til.
+
+30:53
+Ganget med 1, 1 og 0 og så pludseligt tre ind i tre til ganget med én og nul point.
+
+31:17
+Så kan. Hermed har vi løst.
+
+31:29
+Det her differentialligningen system er fundet. Exit x2, x3.
+
+31:33
+Lad os lige dvæle lidt ved hvor den er ind i strukturen er den løsning, jeg har fundet her.
+
+31:42
+Og kø. Den er skrevet op ved hjælp af nogle vilkårlige konstanter her, så det vil altså sige,
+
+31:49
+at der er en 3 dobbelt uendelighed af løsninger, der viser det, at vi har tre frihedsgrader.
+
+31:57
+Men hvad er der så ellers? Så er der her eksponentielle funktioner.
+
+32:03
+Hvor koefficienten til T. Det er den første egenværdi. Og dér står dens egen vægter.
+
+32:12
+Her har vi den anden egenværdi. Det var tre. Det jeg står dens egenvægt for.
+
+32:19
+Og i det her tilfælde havde vi dobbelt egenværdi, så her har vi egen værdien tre knyttet til, den anden er vektorerne i en 3.
+
+32:29
+Er dette ikke smukt? Her har vi altså anvendt teorien omkring egenværdier og egenvægt vektorer.
+
+32:37
+Nu er vi i gang med at løse differentialligninger, og det viser,
+
+32:41
+at egen værdierne og egne vektorerne får så smuk en betydning, at vi direkte kan skrive løsningen op her.
+
+32:49
+Hvis bare vi kender egenværdier og egne lektorer for system matricen.
+
+32:59
+Så punkt 2. Hvis en af matricen højere end lineært uafhængige vektorer.
+
+33:24
+Skal vi kalde dem vi et. Vi er to. Og op til ved en.
+
+33:34
+Som hører til. End.
+
+33:43
+Og ikke nødvendigvis forskellige. Egenværdier.
+
+33:57
+Lang dag, et lam DR 2 og så videre op til lam, da en.
+
+34:09
+Så er den fuldstændige løsning. Givet ved at det er funktionerne.
+
+34:31
+Hvor vi altså her har først en vilkårlig konstant se et.
+
+34:37
+Så har vi e i Lambda et dating. Forså gange med den første egenvægt som.
+
+34:46
+Plus. Og så videre.
+
+34:50
+Hele vejen op til en vilkårlig konstant se m gange med eksponentiel funktion.
+
+34:59
+I den sidste af egen værdierne er lambda en gange maté og så ganget med den sidste af.
+
+35:09
+Egen vektorerne. Så det her er altså en løsning af.
+
+35:17
+Et differentialligning system ved hjælp af et diagonalt settings metoden jeg hermed har gennemgået.
+
+35:26
+Og nu vil jeg lige tilføje. Hvor C et.
+
+35:35
+C 2 og så videre op til scenen.
+
+35:43
+Tilhører Det er tandlæge Emma, som der er gang i i øjeblikket.
+
+35:52
+Og vi ved det, når jeg skal vores store held, så er det fordi i visse sammenhænge, så er det så betyder det altså ja, reelle tal.
+
+36:03
+Og i andre sammenhænge kan det betyde komplekse tal.
+
+36:08
+I det eksempel jeg vidste, at jeg er her. Der var jeg så heldig at eje værdierne.
+
+36:16
+De var reelle og så egen vektorerne også reelle.
+
+36:22
+Og så kom. Og så betyder det bare, at så kunne jeg opskrive løsningen her, hvor jeg ved, at de konstanter, der står her, ser et stort set tre.
+
+36:37
+At det er reelle tal. I en vis forstand, så var jeg heldig her.
+
+36:49
+Fordi jeres egne værdier der var reelle. Så er det nemt lige et øjeblik.
+
+36:55
+Men de tekniske videnskaber. Når man arbejder med differentialligning systemer, så er det meget tit de komplekse tilfælde, som der er de interessante.
+
+37:07
+Det er det, der giver svingninger. Dem med eksponentiel funktioner, DNA år altså over dem har man også brug for sommetider.
+
+37:16
+Men hvis man interesserer sig for svingninger i bygninger eller i elektricitet eller hvad som helst,
+
+37:22
+det kan være, så er det de komplekse tilfælde, som er de rigtig, rigtig sjove.
+
+37:27
+Og nu har du lige et spørgsmål lige om lidt. Men det skal vi kigge på efter pausen.
+
+37:34
+Så ser vi hvad hvis egen værdierne, hvis de er komplekset?
+
+37:39
+Hvad gør vi så? Og de spørgsmål bliver ofte.
+
+37:44
+Pastor Johannes Due eksistenser som veksler. Hver eneste excellence.
+
+37:51
+Det syntes jeg er meget svært at svare på generelt, for det kommer helt an på, hvordan opgaven er.
+
+37:57
+Hvad nu kan du se i den opgave, jeg løser med komplekse egne værdier?
+
+38:02
+Efter pausen her der kan du se dig. Vil jeg skrive funktionen exit op, så du kan se hvad er den?
+
+38:07
+Og så bagefter funktion X2 op. Hvad er det? Og så kan jeg for eksempel.
+
+38:12
+Så kan jeg tegne hver af dem i en fart, hvis jeg ønsker det. Så vil det i vejr være være meget tydeligt, hvad der går ud på.
+
+38:19
+Men det kan godt være, du er inde i en meget kompliceret udregning, hvor det her,
+
+38:24
+det er et mellemled til noget andet, hvor du bare vælger at støtte op på Victor Foremans.
+
+38:28
+Men det vigtige er at forstå, at det her er den her.
+
+38:32
+At der så er en vægtere, der består af funktioner. Det var noget af en nyser her og tænke lidt over det.
+
+38:45
+Og så går vi tilbage til eksemplet med de komplekse tal efter pausen, og at de eksempler, der kommer efter pausen, er 2+2 systemer.
+
+38:56
+Og det er også dem, I kommer til at arbejde med i dagens program, da en enkelt at varen står opgave.
+
+39:03
+Der er 3 gange 3. Men ellers er der to CO2 matricer, for det er svært nok det vi erfarede efter pausen hvor.

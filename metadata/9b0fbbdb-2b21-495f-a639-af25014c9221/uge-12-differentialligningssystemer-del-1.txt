@@ -1,0 +1,935 @@
+0:04
+Hvor fuldkommen komme til.
+
+0:07
+Det er så hver anden sidste uge i DR Semestre, og vi skal tale om det, jeg har talt om et par gange eller henvist par gange selv ved siden.
+
+0:21
+Det vi ser på første år onsdag, en ligninger, men det vi ser på, at det er så mange, som vi sidder på et helt system af 40 år.
+
+0:29
+Steffan Seals ligninger. Og da vi så skal gøre det, er faktisk ret spændende på den måde,
+
+0:40
+også fordi vi kommer til at fremføre masser af ting, vi har lært og begreb i den her forløsning.
+
+0:50
+Vi taler om i komplekse tal.
+
+0:53
+De trigonometriske funktioner på linie H, hvor gene glidning systemer og vi kommer til at røre for kernen af dem, hvor vi ser på, at de øger de fans.
+
+1:05
+Alene systemer kan skrives ved hjælp af en lineær afbildning, og vi kommer til at se,
+
+1:12
+at vi kan bruge diagonal i Ziering, Matrix eller den her afbildning matrix tilhørende den.
+
+1:22
+Afbildning fra beskriver til holsteinische systemer til ofte offentlige foranstaltninger selvfølgelig er også med,
+
+1:30
+når vi smider alt det sammen, så får vi denne her forelæsning. Vi kommer til at erklære systemer af lineære differentialligninger.
+
+1:40
+Vi kigger på, hvordan de kan analyseres og vil forklare begyndelser, fordi problemet for sådan et system og hvordan vi finder frem til en løsning.
+
+1:51
+Så det er det, der foregår i den første time. Denne er fri mere teoretisk, så flyet gennemgår værktøjerne, og i den anden time,
+
+2:02
+for kigger vi så på tre forskellige eksempler, og hvordan dette kan foregå og lade sig gøre.
+
+2:10
+Og det er det, der sker på tavlen. Så er det da også en Mabel demo, og her på fredag, så er der altså ingen forelæsning.
+
+2:20
+For er den sidste time øvelse i det her år.
+
+2:25
+Og så kan jeg også lige fortælle.
+
+2:28
+Næste uge har vi så programmet, for vi kigger på anden ordens ved fjernsalg, ligninger, ikke systemer, bare en enkelt ligning og hviledage.
+
+2:39
+På fredag vil jeg så gennemgå en eksamen fra et af de forrige år.
+
+2:47
+Bukket, men i dag er der så lineare.
+
+2:50
+De fandt Sahlin i systemet, og de beskriver tiden afhængig af processer, som alle de særlige vinger jo gøre,
+
+3:02
+og om det vil sige, at i det her tilfælde vil vi kigge på et helt sæt af uafhængige variabler.
+
+3:09
+Der vil være en stærk sagen. Her er den første, og så smider vi flere, end vi får ind og afhængigt af variabler, og de er kun syner der.
+
+3:21
+Og det fandt serbere. Og problemstillingen er så formuleret således, at vi ikke ved noget andet, særligt meget om de funktioner andet end de.
+
+3:33
+De skal løse en helt bestemt differentialligning. Så her er der angivet, at den er afledt her på venstre side.
+
+3:41
+Det er ikke et mærke, den er.
+
+3:44
+Den skal følgende opskrift til at få højreside, hvor vi kan se, den er afhængig af både X1 og Exeo og alle andre X1 og afhængigheden.
+
+3:55
+Den varieres så med. Af en koefficient, det vil sige ah et, et og et, to og så videre.
+
+4:03
+Lidkoeb forsætter. De fortæller os, hvor stærkt så denne her vækst, der er givet af exit, og afhængig af de andre er vi andre afhængige variabel.
+
+4:18
+Og selvfølgelig er der så ikke kun én.
+
+4:21
+Folk kan godt se, at denne her ligning giver os kun en opskrift for ikke så mærke, og det dukker op her, som jeg ikke set.
+
+4:29
+Men X2. Og så videre til eksamen skal selvfølgelig også have en eller anden regel, de skal.
+
+4:35
+Følge. Så hvis vi. Smider alle dem her sammen, så får vi en stor kasse med en det sagde ligninger.
+
+4:46
+Og I kan se, at de er muligvis afhængige af det.
+
+4:51
+Koefficienter er i øjet her. De er koblet på kryds og tværs af hinanden, og det er det, der gør en større udfordring end det vi havde.
+
+5:02
+Men den vi havde, da vi kiggede på en enkel lineær differentialligning.
+
+5:08
+Så det kan jo så virke lidt specielt at se på det her.
+
+5:12
+Men er det egentlig ikke som sådan? Det er måske en lille klase af differentialligninger, vi ser på.
+
+5:20
+De er ligeglade. Men de dukker op i enormt mange forskellige sammenhænge og anvendelser.
+
+5:30
+For eksempel inden for matematik kommer jeg til at få det igen og igen og igen.
+
+5:35
+Men altså også i anvendelse til nye anvendelser.
+
+5:38
+Hvis jeg kigger på mekaniske systemer, så dukker de op også i form af anden orden, så det får en særlig ligning systemer, hvor elektriske ledninger,
+
+5:49
+kredsløb med aktions ligninger, og hvis I kigger på dynamiske systemer i det hele taget for dem, der forandrer sig i tiden.
+
+5:58
+Så vil jeg bruge denne her slags analyse, som går håndværktøj.
+
+6:05
+For at man kunne forestille sig at fodre nogle år højere dens love her på højre side
+
+6:11
+noget med ikke siger anden eller eks en gang at sige nu ser så ikke et og så videre,
+
+6:19
+og så kan jeg måske huske, at vi kunne tilnærmelserne nogle funktioner med selvopfundet mere,
+
+6:26
+og så kunne man lave en række udrykningen også her på højre side. Hvis man gør det op til første år for det, der bliver tilbage.
+
+6:33
+Det sådan lige med, at de fans ser et lignende system, som vi sidder på i dag.
+
+6:40
+Der er måske også nogle sofaer jeg hører så meget bekendte som Google Play Kid i gamle dage havde for nogle algoritmer,
+
+6:48
+der kan afspejles i et sommerhus differentialligninger. Det er måske sjovt at læse op på en.
+
+6:59
+Så vores opgave for hvad består dagen i den består i, at vi skal finde alle de her afhængige variabler,
+
+7:10
+det vil sige løsninger, funktioner et stykke af dem, og de skal løse de endelige handlinger samtidigt.
+
+7:17
+For det skal de jo på frugt på grund af den kobling, der fremstår her,
+
+7:20
+ved at jeg ikke ser en ligning, altså også afhænger X2, X3 og ikke siger og så videre.
+
+7:28
+Det kan godt virke lidt uoverskueligt, men.
+
+7:33
+Det kan sagtens lade sig gøre, og det der er fedt ved det, er to ting.
+
+7:39
+Det kan vi kun finde en komplet løsning, en fuldstændig løsning.
+
+7:44
+Så det er også dette, at Smukfest linker til koøjer.
+
+7:48
+De kan som regel altid løses, og det hænger for selvfølgelig også sammen med alle de ting, vi har lært fra lineær algebra i de forrige uger.
+
+8:00
+Så jeg håber, I vil kunne se, det har betalt sig.
+
+8:06
+Okay, jamen så lad os komme i gang. Hvad kunne vi tænke os at gøre ved sådan et system?
+
+8:17
+Og før vi gør det. Hvad pokker har der overhovedet at gøre med længere at se?
+
+8:21
+Og lige dér algebra. Det at det jeg alligevel forklarer her som I kan se, så har jeg så taget de her ligninger,
+
+8:31
+der står her og proppet med ind i vægtere format, så grønne venstre og højre side.
+
+8:37
+Det er måske det allerførste skridt. Hvad fremstår det som for jer, hvis I ser på det?
+
+8:49
+Ja. Det er et. Der er noget med en matrix og hvor ser du den?
+
+8:57
+På højresiden. Ja, det er da rigtigt.
+
+9:01
+Så vi kunne opskrive det her, så man matrix væk, så multiplikation hvor.
+
+9:10
+De så er de her krydset centre i øjet og proppet i en matrix, og så ganger vi op med en søjle væk,
+
+9:17
+så som indeholder ikke slet ikke så x frø og så videre til eksamen,
+
+9:23
+hvor vi kan se, de fremstår her i hver søjle, så det passer perfekt med en matrix væk, så holdes implikation.
+
+9:33
+Det har jeg så skrevet kort på her, så skal vi lige forklare, hvad X og vores matrix A er så således de ser ud, men vi kan se, hvis ganger den her.
+
+9:46
+Ja, hvis vi fatter denne her vægt, så ikke, så bliver det til en løsnings.
+
+9:51
+Vægter det, at den ikke umiddelbart før ved kender løsningen, men det andet er at få denne her masse, som jeg ganger denne her på.
+
+10:00
+Så får vi højere siden, og starten af afleder den væk.
+
+10:03
+Så beklager Wilson, at jeg ved, at element tager den afledede af.
+
+10:08
+Så det er faktisk det her system, vi får.
+
+10:12
+Hvor svarer så det, vi har her i begyndelsen? Så det er meget smart måde.
+
+10:17
+Selvfølgelig som altid.
+
+10:18
+Det var en af vores gamle pointer med masser i vægte, og så bliver det hele nemmere at skrive ned, og vi ikke behøver at blive særlig snavsede.
+
+10:30
+I hvert fald når man arbejder, forklarer hun med blyant og papir.
+
+10:36
+Så alligevel. Det er godt, for vi forberedt.
+
+10:40
+Så kan vi lige se på noget af det her på tavlen og dermed se på det.
+
+10:48
+For det første, så tror jeg har overbevist om, at han kan skrive det hele med matricer og vektorer.
+
+10:54
+Det er i den forstand har noget at gøre med lineær algebra, men det vil jeg nu også sætte i sammenhæng med lineære afbildninger.
+
+11:04
+For det var da emnet, vi havde det her. Det var. Vi kunne skrive ting med matricer og vektorer, og vi lærer for senere, der også er afbildninger.
+
+11:13
+Og så lærte vi at ligninger afbildninger, der kan skrives om ved hjælp af en afbildning matrix.
+
+11:21
+Hvis vi afbilder en basis i et væk.
+
+11:25
+Så ville vi få en tilsvarende afbildning smag frisk.
+
+11:30
+Og sådan er det også her bare at vi lige skal forstå, hvad er den her afbildning?
+
+11:42
+Så dine ben først ser ledningen system. Der skrives ville være lineær afbildning kan som sagt først en påstand.
+
+12:02
+Vi har jo en vægtere, og det var der en der hed 5 6 m og afhængig at se.
+
+12:12
+Og det er den, jeg kan afbillede.
+
+12:17
+Det vil sige, jeg kan forklare en afbildning, der tager sig en væk, så.
+
+12:24
+Og det vil jeg nødvendigvis skulle skrive sådan at jeg har det her bedste år af kontinuerte funktioner.
+
+12:34
+De er mindst en gang, det standser bare, og de lever altså i det, selv om der er EM, og det jeg får tilbage.
+
+12:44
+Det er så mindst. Kontinuert står 0 Malta, og selvfølgelig kan vi også bare gøre det for funktioner og uendeligt gange er sandt, siger jeg bare.
+
+12:58
+Det kunne man også have gjort, men det er jo som sådan ikke nødvendigt.
+
+13:04
+OK, så nok med matematiske finurligheder.
+
+13:08
+Og hvad er så denne afvikling? Vi kan skrive f.
+
+13:12
+Eks. Nogle ideer med. Da kunne man skrive.
+
+13:20
+Hvordan kunne jeg proppe dagen? Det er fans alene med en linie afvænning.
+
+13:32
+Jeg kunne jo gøre noget der kunne ske når om så den anden.
+
+13:42
+Ser anderledes ud. Det vil sige jeg tager højre side til venstre side, så får er lige det, der ser sådan her ud.
+
+13:54
+Og så kunne jeg skrive, at jeg vil af venstre side.
+
+13:59
+Det svarer til en lineær afbildning. Det er egentlig noget, vi har.
+
+14:05
+Gjort tidligere. Da vi tidligere på 40 år.
+
+14:09
+Stefan Salina der var der kun en enkelt. Så jeg ikke svarede igen væk, så det var en skalar funktion x mærke minus en eller anden konstant gange.
+
+14:23
+Skalaer funktion af excited er det der fødte for barnet til dette, så vi kan skrive x mærke minus a matrix a danger.
+
+14:34
+Eks. For det er faktisk en linie afbildning.
+
+14:41
+Hvad er det vi skal vise, hvis vi vil vise det? Så skulle vi vise, at X F eksplosive er det samme som en vægtere for eksklusive f a.
+
+14:57
+I den anden vinder af SETs betingelse er, at vi gange denne her funktion x op med en skalar,
+
+15:08
+og det er det samme som at gange funktionen, altså afbildningen af denne her.
+
+15:16
+Væk, så eks. Det kan vi godt sige, det er sådan, at hvis vi ganger Avakov 1, så kommer der kog under.
+
+15:24
+Det fandt salt farin, og her kan vi tage ud. Det her er en lineær funktion.
+
+15:29
+Så kan vi også se det hele alene her. Og det er også en ting vi kan huske.
+
+15:34
+Er det fandt Seal operatoren, det er den, der tager den afledte her.
+
+15:38
+Det er i sig selv en lineær afbildning, så det er ikke så forbavsende.
+
+15:45
+Og vi kan også sige, at hvis vi tager sådan en super position som blødhed og altså eksplosivt og propper der herind,
+
+15:50
+så vil det være x mærker plus mærke minus gange et plus y.
+
+15:55
+Og så kan vi også gang ud og sætte det sammen, så vi får den første betingelse, for det er en lineær afbildning.
+
+16:09
+Og. Det der også er vigtigt det her, så det vi er ude efter her.
+
+16:20
+Det er selvfølgelig den situation, hvor vi får en lighed med nåle på højre side.
+
+16:27
+Det svarer så til at ligne krummer bleen.
+
+16:38
+Linnés system. Det vil sige det er også differens her ligner system.
+
+16:45
+Men lige netop i denne sammenhæng, hvor især få linjer gør bare så vigtigt det er at ligne Homo Gießen lignende system.
+
+16:56
+Uden det er fald serie. For det var ligesom pointen med, at vi kom af med den.
+
+17:02
+Det fandt Ziering her og skriver om lineær afbildninger stod for, så det er primært det, vi skal se på i dag, og det vil sige inden vi vil finde.
+
+17:19
+Hvad er det, vi vil finde? Hvis vi skal løse den her drejning?
+
+17:33
+Det er en lineær afbildning der afbilleder på 1 0. Ja.
+
+17:40
+Med. Nu var det ikke, så vil vi gerne finde det helt rigtige sted.
+
+17:45
+Det korrekte svar x. Således at f.
+
+17:51
+Eks. Er lig med 0. Der var også en kærkommen.
+
+17:57
+Det er jo det alle mængden af alle de x, der opfylder den her ligning.
+
+18:03
+Det er kernen af. Og oftes så ser vi, at også alt hvad jeg siger, er det, jeg håber at give en løsning for.
+
+18:21
+Til den her lille. Okay, så har vi ca.
+
+18:29
+Det var et af de KMB greb vi fik fat i, da vi diskuterede lineære afbildninger.
+
+18:37
+Så kan man jo så selvfølgelig også udvide det her system.
+
+18:42
+Det her er et homogent differentialligning system. Lyst salg.
+
+18:49
+Overgaden findes selvfølgelig også i nummer G, og det vil så svarer til den situation, hvor vi så har noget forskelligt fra nul her.
+
+18:58
+Det vil sige, at vi har en vigtig funktion q rt.
+
+19:03
+Ganske vist er den uafhængige af vores ubekendte med ekstra funktion x.
+
+19:13
+Så det kunne man også se på. Jeg vil dog lige skrive det ved siden af som en særskilt seng, så det er klart det her, vi ser på idag.
+
+19:23
+Men de kan også se på denne her situation.
+
+19:36
+Minus A gang X er lig med Q RT, og det er så nogle funktioner her for uafhængighed af X.
+
+19:49
+Og hvis vi så har fat i en hormonbehandling løsning.
+
+19:55
+Hvad så? Hvad må så være den? Denne den løsning der hvad mængden af løsninger der løser den her, det førte handling som er 1H, må give.
+
+20:16
+Ja. Ja.
+
+20:21
+Plus en partikulære løsning med, og det har jo meget, rigtig meget at gøre med, at det her er en lineær afbildning.
+
+20:31
+For det hvorfor? Hvis nu jeg skriver er T.
+
+20:39
+Det er en homogen løsning flås hvor er indhold må give før, så kan jeg jo proppe det her ind.
+
+20:52
+Det vil sige jeg får. At der står x for eksisterer så f.
+
+21:00
+Eks H.M. Flås af den partikulære eller enorme vagina nogle engang kalder vi det også x0 her.
+
+21:14
+Jamen, hvad ved jeg så den hårde Megane løsning den går ud mod 0.
+
+21:20
+Og hvis det virkelig er E-nummer Gate eller Partille køling og løsning, jamen så må det nok også give mig Q rt, h.
+
+21:29
+Det vil sige højresiden. 40 spørgsmål har jeg selv.
+
+21:41
+For så. Det er det samme nogle lånene er skrevet op her på skærmen.
+
+21:51
+Så. Ja, det er simpelthen det vi har her, og det der vægtes i dag, er altså, at vi prøver at få fat i løsningen former til den homogene ligning her.
+
+22:06
+Det vil sige den her, det vil sige den, hvor der står nul her.
+
+22:10
+Og det er det, der svarer til kernen af S. Jeg skal være helt klar over det at.
+
+22:18
+Får mod til den her afbildning. Det er ex mærket minus A Grand Ex er lig med nul.
+
+22:25
+Det er ikke løsningen frem, så denne her system føles det noget andet.
+
+22:30
+Så derfor skrev jeg ikke a. A. Okay, så det er det vi ser på.
+
+22:46
+Og så har vi forklaret sammenhængen tidslinje, Aceh og så videre.
+
+22:52
+Men det egentlige spørgsmål er Hvordan kan vi løse den her problemstilling?
+
+23:00
+Vi har set, at jeg ikke står lige med nul. Det svarer til de fatale seneste system, som vi skal få fat i en løsning.
+
+23:07
+Strategi er nogen, der har en ide. Så kan vi lige stak den ind gennem.
+
+23:17
+Vi har en koblede differentialligninger systemer. Det der er problemet, er at de koblede med hinanden.
+
+23:29
+Det er det, der gør det uoverskueligt. Så måske.
+
+23:36
+Nu giver et hint, hvis der findes en basis med egenvægt til vore system Matrix A.
+
+23:44
+Hvad sker der så? Eller hvad kan man så?
+
+23:49
+Ja, du kan analysere af det rigtigt.
+
+23:54
+Lad os se på det, for der findes en basis med egne ord den hårde ved såkaldte a diagonal seeres.
+
+24:04
+Hvis A kan nemlig se at Svend besidder hvad en.
+
+24:11
+Bare skrevet om eller formuleret i andre ord ja, sig nye veje i den nye vase, der optræder.
+
+24:22
+Der er kun en bekannt i den nye ligning. Det er jo smart. Du har gennemskuet det hele, så det er netop det.
+
+24:30
+Men først lige forklare, hvad det betyder, kan de jo kanalisere.
+
+24:34
+Det er også lidt en gennemgang og repetition af jer. Det betyder jo, at der findes en basis skifte matrix.
+
+24:45
+Den hedder. E m.v. Vil sige at vi håber egenvægt sårene her et vi ved allerede vi eller vi har sagt de seneste uger.
+
+24:54
+Det vil sige, at vi kan transformere vores system står nedskrevet i standere Basses for eksempel her til.
+
+25:04
+Noget der ligner en diagonal matrix, hvorfor de her værdier ligger på diagonale.
+
+25:13
+Og hvis det er sådan. Skal vi også lige huske og minde os om hvornår kan vi overhovedet gøre det?
+
+25:21
+Der er flere kvarterer man kan se på. For smid bare ideer ud.
+
+25:30
+Tak, hvis du skal være kvadratisk. Det er meget vigtigt hvorfor det?
+
+25:36
+Palæstinenserne en verden. Det er også rigtigt. Ja, fuldstændigt.
+
+25:43
+Den inverse af Basses skifte matricen må findes. For hvis den her matrix ikke er kvadratisk, så kan det ikke lade sig gøre.
+
+25:52
+Der kan vi også se det samme. Vi skal faktisk have en egen vektorer, ellers indgår det overhovedet ikke.
+
+26:00
+Hvor andre kritiserer for at vikarer diagonalt se. Det er måske ikke nødvendigt kriterium.
+
+26:07
+Det kan skal lige siges lidt stærkere. Den skal være regulær, det ikke svømmeland ved at sige at.
+
+26:19
+Rangen er maksimal, så denne her matrix M.
+
+26:23
+Det vil også være ensbetydende med, at determinanten af den matrix er forskellig fra 0.
+
+26:32
+Det er alt rigtigt, men når jeg nu taler meget specifikt om diagonale i se og egenværdier og
+
+26:40
+egenvægt to ordene hvad er så direkte krav vi må dele for at kunne kanalisere.
+
+26:48
+Der lige så mange. Der var ligeså mange egenvægt over som udgør dimension af værktøjet rummet.
+
+27:00
+Det er det vi sagde at stige. Der er forskellige egenværdier.
+
+27:05
+Hver egenværdi har et eget rum, hvis eget rum har tilstrækkelig mange egenvægt.
+
+27:12
+Ord for kan dimensionerne af de egne rum. Til sammen en, to, tre, fire og så får vi N.
+
+27:21
+For har vi så mange egenvægt 2'ere, som der overhovedet kan findes, og det vil sige, at vi kan udspændte vores svigter år.
+
+27:30
+For lige skrevet noget af altså den inverse findes, når rangen V er maksimal.
+
+27:36
+Det vil sige der er en linje uafhængig egenvægt af den seksuelle.
+
+27:42
+Så ved vi, at A er diagonal i Cerbère, og hvis A er de banaliserer varer.
+
+27:48
+Det kan vi også udtrykke ved at sige, at den geometriske multiplicere et sted i det, der svarer til dimension egen.
+
+27:56
+Rummet er lig med den algebraiske for enhver egenværdi.
+
+28:02
+Eller anderledes udtrykt det jeg sagde før, at dimensionerne af de adskillige egne år det er lige magen.
+
+28:09
+Det vil sige, at der må være inden forskellige egen vektorer.
+
+28:19
+Så ved stranden ved ikke er tilstrækkelig stor.
+
+28:24
+Det vil sige, at hvis vi ikke kan finde nok egnede to ord, så virker det her.
+
+28:29
+Vi kommer og ser os lige om lidt. Ikke. Men der er håb.
+
+28:36
+Vi har øje for og vi kommer til at se et eksempel i den anden time, hvor vi får en situation, hvor vi kan alligevel finde en løsning.
+
+28:48
+Og det hænger sammen med at måske igennem ikke altid. Transformeret den matrix til en diagonal form, men hvis man kan finde forskellige egenværdier,
+
+29:01
+så vil man altid kunne danne noget der hedder en trekant matrix, hvor alle nedenfor er nul.
+
+29:08
+Så vi får en trekant og får. Og om det snakker vi senere var ok.
+
+29:16
+Så det er en væsentlig betingelse, at vi har tilstrækkeligt mange investorer, hvis vi skal kunne undgå Annalise.
+
+29:24
+Og i hvertfald så skal jeg også lige bemærke, at alt det her, det virker også på komplekse tal.
+
+29:31
+Men lige her og nu for en gang er vi også tilliden til de regler teaterrum.
+
+29:39
+Spørgsmål som for. Det er helt klar, og ellers er der masser af tid og snakker om det i pausen, så vi skal have fat i en komplet fuldstændige løsning.
+
+29:59
+Det. Jeg kunne se at folk taler om en fuldstændig løsning.
+
+30:04
+Det syntes jeg var måske en smule forvirrende, for jeg tænker altid på at fuldstændig løsning,
+
+30:10
+når jeg kigger på en hård mogi med ligninger, for man kunne måske også kalde det en komplet løsning,
+
+30:15
+men med fuldt med dukker fuldstændige løsninger op her,
+
+30:18
+så mister vi den komplette løsning til økologiens system her, så vi kan gøre, hvis vi har en Basel skifte med seks.
+
+30:28
+Det er jo, at vi kan transformere vektorer x til m y koordinat væk her.
+
+30:35
+Og det er så V, der forklarer den basis skifte. Det kan vi smede i, hvor også de fandt, sagde ledningsnet steg.
+
+30:45
+Det er ganske enkelt som popper det her. For får vi da dette sammen som det her, fordi V er en konstant matrix.
+
+30:54
+Den afhænger ikke af tiden, og på højre side får vi så det tilsvarende udtryk a ganger ved i gangen i.
+
+31:03
+Det vil vi så. Se på. Og hvis vi ved at den inverse eksisterer her tv og det gør vi jo, så kan vi guide dem på venstre side her og her.
+
+31:15
+Så får vi så y mærke det vil civile kan opløse det her lignende system efter y mærke, hvor borgeren seks der fremstår som B i univers.
+
+31:25
+V. Og det er det, der er fedt. Det er vores diagonale matrix sti, og det er lige det, du så før.
+
+31:33
+For hvad sker der så? Så får vi et helt andet Benning system.
+
+31:37
+Ser sådan her ud. Og det smukke er så at mærke det afhænger kun af Lambda 1 og Y, et nyt 2 mærke lammet af sorg og i 2.
+
+31:51
+Og så videre. Hele vejen igennem, så vi får de her en del foranstaltninger.
+
+31:57
+Kan vi så løse dem? Ja, det er piece og skak.
+
+32:01
+Det har vi mere før. For få uger siden, så vi får de her eksponentielle funktioner her på højre side.
+
+32:10
+Server koordinat ind til en. Det er jo så godt.
+
+32:17
+Vi skal også have fat i den originale løsning i vores eksport finaler, og det ved vi jo.
+
+32:24
+Det er jo bare det, vi sagde Helle i begyndelsen, at vi har den sammenhæng, så vi smider vores y væk.
+
+32:30
+Så efter vi har lysten og en her og ganger den op med vores Basel skift med sex og det vi så vil få her.
+
+32:41
+Det kan vi se. Det er altså denne her y vægt her der ganget med den basis, og når vi gøre det,
+
+32:49
+så får vi så en kombination af de adskillige egenvægt zoner, som forandrer sig eksponentielt med eksrødderne selv hastighed i tid.
+
+33:01
+Det vil jeg sige hvis nu egenværdi er reelle.
+
+33:07
+For kan de component enten vokse eller de kan.
+
+33:11
+De kan aftage og gå hen imod noget som bliver nul.
+
+33:21
+Så det er denne her løsning vi har. Der er så nogle problemer ved.
+
+33:28
+Stadigvæk står herremode. Hvad kunne det være?
+
+33:37
+Er det her nok? Så færdige.
+
+33:45
+Jeg skal lige minde om at vi startede med at måske vil ville finde.
+
+33:52
+Når regler og løsninger. Får vi det her?
+
+33:56
+Alle får. Det kan jo være at vores egne værdier er komplekse.
+
+34:06
+Så ryger vi tilbage til de første par uger. Så må vi se på næste side om, hvad vi kan huske derfra.
+
+34:13
+Det er rigtigt. Så er der også noget andet, der er.
+
+34:17
+I år er det en bestemt løsning, vi har fået her.
+
+34:22
+Da han nogle kontanter vi skal i det konstant var indstøbt, står der lyder ubesværet, og for der er to problemer.
+
+34:32
+Det ene er, at hvis vi har den bestående af Basses bestående af reelle egenvægt, så over egne værdier, så er vi selvfølgelig færdige.
+
+34:41
+I den forstand at vi får også reelle løsningsmodeller, men at regne værdien af kunne være komplekse.
+
+34:49
+Og det gider vi måske ikke, for de vil gerne have et reelt svar den reelle verden.
+
+34:54
+For at sige det sådan lidt fjollet. For hvordan får vi fat i en regel?
+
+34:59
+Det er den ene udfordring, vi står med, og den anden er, at der så.
+
+35:10
+At hvis vi, hvis vi nu regner på de komplekse tal for for findes, står altid en kompleks egenværdier.
+
+35:19
+Det gør der ikke nødvendigvis på den regel at Xanax. Vi ender jo med at skulle bestemme rødderne, så det karakteristiske polynomium.
+
+35:30
+Derved vil komplekset få findes altid. Det er dejligt nemt, men det er ikke nødvendigvis som de reelle tal.
+
+35:39
+Og så løber vi egentlig. En situation er antydet lidt før.
+
+35:43
+Hvis vi ikke kan finde tilstrækkelig, altså selv at stille det ene problem at finde i egenværdier,
+
+35:50
+så kan vi selvfølgelig altid gå til de komplekse tal. Så kan vi godt gøre det.
+
+35:55
+Og det er fint. Men det er så ikke ensbetydende med stadigvæk, at vi også skal finde en egnet vektorer.
+
+36:02
+For måske er der ikke nok. Er du? Og så kan vi ikke diagonal i se, og så må vi gøre noget.
+
+36:07
+Det ser vi på i næste time. Så er der.
+
+36:13
+Det er ligesom programmet. Så er der også det tredje problem,
+
+36:18
+som jeg som vi nævnt før er så at vi skal have fat i de forskellige konstanter og se et set up og så videre til at se an.
+
+36:30
+Og det er det der danner begyndelse siffredi problem.
+
+36:34
+Det vil sige bare for at gøre det klart de her punkter. Dem ser vi på bagefter.
+
+36:40
+I den anden time, når vi går igennem eksemplerne. Men først ser vi så nu begyndelse.
+
+36:45
+Hvad er problemet? Hvad har vi her? Vi har denne her situation.
+
+36:50
+I har fat i en fuldstændig løsning med de her løsninger.
+
+36:55
+Fritog I kende og egenværdier ned i kinden og egenvægt.
+
+36:59
+Sorgerne for masse sved. Men I ved ikke, hvad de forskellige værdier for se er.
+
+37:08
+Og det er jo faktisk lidt vækst. Folk vil gerne have en bestemt løsning.
+
+37:18
+Og. Det er måske det, det er det der er vigtigt, og det kan jeg se er ved siden.
+
+37:28
+Så indsætter tidspunktet nul her. Det er begyndelsen. Tidspunktet.
+
+37:34
+Og her så får et lignende system. Og der er en ubekendt.
+
+37:38
+Og den kan vi opløse efter.
+
+37:42
+Og det vil sige at de konstant afhænger absolut af, hvor vi starter hende i verden, og det ville bare lige illustrere med det her billede.
+
+37:53
+Dette er en kort er en del af en stor del af verden og det at Afrika foregår over Europa og Nordamerika for Atlanterhavet.
+
+38:06
+Og der er forskellige strømninger.
+
+38:10
+Så hvis vi tænker på det her kort som opstød mod to coordinator eks EF og ikke to, så kunne man jo forestille sig at.
+
+38:20
+Bevægelserne her på overfladen af årsagen.
+
+38:25
+Det minder om, at differentialligning system med to koordinater forstår noget der hedder.
+
+38:37
+Ikke mærke er og det skulle jeg ikke skrive her.
+
+38:45
+Det er eller er en funktion. X'et og sår og en anden funktion afhænger af et S og exo, der giver os, hvordan vores koordinater ændrer sig i tiden.
+
+39:01
+I det hele. Det vil jeg se på, og det vi kun ser på i dag, er, når disse funktioner her på højre side har en lineær form.
+
+39:12
+Det behøver det ikke at have i realiteten, så det er måske mere, som det forholder sig her.
+
+39:17
+Men det der er vigtigt, hvis du er strandet her på en eller anden øde, øde landevej og ikke sendt en flaskepost af sted.
+
+39:27
+Så kan der altså gå der afhængig af hvor den flaskepost ender henne i verden.
+
+39:32
+Det kunne godt afhænge af, på hvilken side af møde I smider den i vandet, for dagen sidder her,
+
+39:38
+så ryger når langs med de strenge muslinger se sted i Skotland, men dernede ender med, hvad De Kanariske Øer så.
+
+39:48
+Løsningerne ser anderledes ud afhængig af de konstanter, og de faktiske havde en meget enkel besked.
+
+40:01
+Så måske skal vi hellere få gang i har den her ligning system,
+
+40:06
+og hvis vi nu sætter tal lige med 0 på venstre og højre side, så får et snigende system, som jeg godt kan løse.
+
+40:18
+Og det er selvfølgelig vigtigt at fatte det først. Men da vi vil have det også denne her og det er begyndelsen svære betingelser,
+
+40:26
+som resulterer i den betingede løsning, og vi ved, vi kan løse det system op, den inverse ved findes.
+
+40:35
+Så hvis vi ganger det på venstre og højre side, så får vi nye legeting.
+
+40:40
+Så får vi noget her, der afhænger af et ganget med en konstant til nul.
+
+40:46
+Det er også en konstant værdi. For eksempel kan en selv 0.
+
+40:51
+Så bliver det bare en søjle væg bestående af se et tal.
+
+40:55
+Se en hær. Og så bliver det super enkelt.
+
+41:00
+Gå væk fra tillige med noget, så skal vi selvfølgelig dividere hele ledningen med de tilsvarende konstanter her,
+
+41:08
+det vil sige det, der står lige foran. Foran sidder et.
+
+41:16
+Og det løser sig.
+
+41:20
+Løsningen lå så løsningen fast til bestemt begyndelse, svær de.
+
+41:28
+Så det at den gennemgang af teori jeg vil lave her i dag.
+
+41:35
+Så tror jeg vi kan lave en pause til klokken 11.
+
+41:40
+Og går alle de regneeksempler i gaten og får når praksis ind over det hele.

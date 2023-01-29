@@ -1,0 +1,845 @@
+0:05
+Jeg go morgen. God morgen så.
+
+0:16
+Jeg har sagt det før orkede lineær algebra, det handler om flotte bygninger.
+
+0:21
+Der er basis der fundament. Der er rum, der er dimensioner og uendelige vid der, der er lyst.
+
+0:27
+Der er højt til loftet. Det er logisk, men det nye i dag er, at vi har også hemmeligheder.
+
+0:36
+Der er også mystik, og det er lidt ligesom i Egypten i pyramiderne.
+
+0:41
+Lige pludselig, så har arkæologerne fundet nogle nye mystiske underjordiske gange.
+
+0:47
+Der kan være skatte og døde konger, der ligger dernede osv.
+
+0:51
+Det er problemet i dag, fordi vi skal kigge på kvadratiske matricer, og så skal vi finde nogle helt særlige underrum, som hedder egne rummene,
+
+1:02
+egenvægt, tårne, rummene og de er enormt vigtige, og hvis de kigger på en matrix, det er næsten umuligt på forhånd at sige har nogen.
+
+1:12
+Altså hvor mange har den altså? Hvad kan vi bruge dem til? Og det er altså det, vi skal kigge på i denne uge her.
+
+1:20
+Så vi går i gang, og vi kigger på en lineær afbytning f, r, v ind i V.
+
+1:36
+Så jeg bemærker her Vi har altså det samme vægt rum her og her.
+
+1:40
+Og ja, situationen er jo så på følgende vis.
+
+1:46
+Vi tegner her en dobbelt udgave af de to eller er vektorrum.
+
+1:51
+Og det er altså, hvis vi har her. Og det ved vi har her.
+
+1:56
+Og så har vi altså en lineær afbildning F.
+
+2:02
+Det er spørgsmål vi stiller i dag er Kan vi finde en vægtere her?
+
+2:11
+De er kassen forbi, sådan at det spillede ser ud på følgende måde.
+
+2:21
+Der har vi efter vi så det vi spørger er altså kan vi finde en vektor, som er parallel med sit billede.
+
+2:33
+Og når vi siger parallel, jamen så betyder det, at den kan have den samme retning.
+
+2:38
+Men den kunne i virkeligheden også altså have den modsatte retning.
+
+2:43
+Så er der sådan en parallelitet. Så egenværdi er problemet.
+
+2:55
+Det lyder sådan her. Findes der en.
+
+3:05
+Altså en vektor V, som ikke må være nul vægteren og et tal lambda således at vi opnår denne her situation.
+
+3:21
+At EF ved denne er lige med Lambda gange vi så kaldes v taler.
+
+3:32
+Vi starter med lambda lambda en egenværdi og v en tilhørende egen vektor.
+
+3:50
+Og det er ugens problemstilling.
+
+3:57
+I kan så se. Hvad er det vi ser billedet? Det skal være en konstant gange vektoren selv og den konstant.
+
+4:06
+Den kalder man sig traditionelt for lambda. De syntes måske det lyder lidt selvhøjtideligt at kalde det for et problem.
+
+4:16
+Så hvorfor gør man egentlig det? Jamen, det var fordi, at den linde.
+
+4:21
+Den er lidt tricky, fordi at det er en ligning.
+
+4:25
+Men der er sådan set to ubekendte. Altså det er jo både vektoren, vi er ude efter, og det er lamper, vi er ude efter samtidigt, og de hører sammen.
+
+4:34
+Det er dem, vi skal prøve at finde, og det er det, der gør, at det er lidt kringlet at finde dem.
+
+4:42
+Vi tager et eksempel. Og det eksempel vi kigger på det er spejlingen i ægge saksen.
+
+5:00
+Se her. Vi kigger altså her i planen og hvor vi her har.
+
+5:11
+Enheds vægteren i. For her vanrøgt på og lodret.
+
+5:18
+Der har vi. Der har vi så at j vektoren.
+
+5:25
+Hvad betyder spejling i ikke saksen? Ja, det betyder jo, at hvis vi har givet en eller anden vektor.
+
+5:33
+Den ligger dér. Jamen, så skal vi jo spejle den væk.
+
+5:39
+Så I ikke saksen? Og så har vi det er billedet FR-V.
+
+5:45
+Og det er lidt ligesom en konjugerede tallets, når vi snakker om komplekse tal.
+
+5:51
+Så. Nu skal vi se om der i dette eksempel findes nogen egenvægt 2'ere.
+
+6:04
+Altså om der findes nogen vektorer som når de bliver spejlet i saksen, så sker der ingenting med dem.
+
+6:11
+De bliver liggende på ikke saksen. Og det tror jeg godt de kan se allesammen er den der i den skiller i hvert fald ikke noget med.
+
+6:20
+Så når vi spejler den bliver liggende fast, så vil jeg altså sige, at vi kan skrive f af i vægt, som det er i vektoren selv.
+
+6:32
+Den kan vi skrive som en gange med med i vektoren.
+
+6:37
+Og så har vi fundet vores første egenværdi i vores første egenvægten.
+
+6:43
+Så vi har altså lammet dør. Et er lig med en.
+
+6:48
+Og så kan vi sige til den, der hører dig, altså i vektoren.
+
+6:58
+Den var nem, så kommer den næste. Den er heller ikke så svær, fordi er der nogen, der bliver produceret parallelt med sig selv.
+
+7:08
+Udover den? Ja, det er selvfølgelig alle dem, der er lodrette.
+
+7:12
+Hvis jeg spejler J vektoren ikke saksen, så ryger den jo her.
+
+7:19
+Så dér har jeg f. R.
+
+7:22
+J. Og det vil altså sige jeg kan nu skrive efter J.
+
+7:29
+Den er med min nu showet, det vil sige det er minus 1 gange med J og så kan jeg se egenværdi.
+
+7:41
+Det er min Museen og egne vægteren, det J. Så vi kan altså her skrive lam der.
+
+7:47
+2 er lig med minus 1 og en egenvægt der hører til den.
+
+7:53
+Det er j vektoren. Så har vi lavet en lille analyse af, og har vi så fundet alle egne værdierne?
+
+8:06
+Ja, det tror jeg. Spørgsmålet er Så har vi nævnt alle egenvægt turene, så er svaret nej.
+
+8:13
+Og nu kommer vi til det der med de hemmelige karle og drenge dernede.
+
+8:16
+Ikke også popkongen, der hersker dernede, for det samme dør, hvis den har en egenvægt,
+
+8:24
+for så har den uendelig mange så lam, der er konge i et stort kongerige med uendeligt mange egne doktorer.
+
+8:33
+Og hvordan kan I se det? Kan vi se, at vi har fundet en.
+
+8:37
+Men så kan I også sagtens se, at så vil det være alle de andre, der ligger på.
+
+8:42
+Ikke saksen. Det er ikke kun J. Eller vægterne. Det er også den.
+
+8:46
+Den bliver liggende, så det vil sige, at hele den linje her den tilhører egne værdien 1,
+
+8:53
+og derfor kalder vi den for egnet rummede, der hører til egen værdien 1.
+
+9:01
+Og på samme måde kan vi se alle de vektorer, der ligger på Øyer aksen.
+
+9:06
+Altså den ryger ned her, men tager jeg nu en, der går her og afbilleder den.
+
+9:11
+Så havner den her op, så det vil sige, at alle de vektorer, som fra origo havner i et punkt på aksen, det er også egne.
+
+9:20
+Det også egne lektorer vil altså sige, at by og aksen her.
+
+9:25
+Det er egnen, rummet der hører til min muse.
+
+9:30
+Så hvis det ligesom skal afslutte her den første analyse, så kan vi altså sige ord med, da den hører til egenværdi 1 1.
+
+9:39
+Det er os spande af de vægteren og det EJM rum, der hører til egenværdier.
+
+9:51
+Lige nu seen. Det er så udsendingen af J.
+
+9:56
+Vektoren, så fang lige den fra starten af.
+
+10:04
+Det er nemlig et udtryk vi bruger rigtig mange gange. Der skriver vi et helt eget rum.
+
+10:10
+Det her er et underrum. Og dér står der egenværdier, og dér står der en egen vektor, som hører til egen værdien.
+
+10:19
+Og på samme måde er altså her nu. Serien hører til J.
+
+10:24
+Men når vi skriver det på denne her måde, så er det et underrum. Det er dem alle sammen, der hører til Minos sind.
+
+10:28
+Vi skal op på den måde her. Og kan.
+
+10:37
+Se, nu har jeg skrevet min indledning op som FR-V at lege med lamper.
+
+10:43
+Vi har også en Matrix version. Og den lyder sådan Her findes der Lambda og QV.
+
+11:05
+Således at a gange V er lige med Lambda V.
+
+11:18
+Så hilser vi vi laver et Matrix Vectra produkt og det der kommer ud, det er parallel med vægteren selv.
+
+11:26
+Matrix versionen af egne værdier er problemet, og der skal lige lægge mærke til, at den fyr, der står dér.
+
+11:36
+Det er i dag en yndet kryds, en matrix. Altså en kvadratisk matrix, og det skyldes jo altså, at vores afbildning er fra V og individ.
+
+11:48
+Altså de to rum har samme dimension. Og så bliver der altså kvadratiske matricer, som vi snakker om.
+
+11:56
+Så lad os nu tage et eksempel. Og vi kigger på.
+
+12:06
+Vi kigger på matricen. Vi kigger på matricen to noget fem.
+
+12:17
+Om endnu 3. Og vi skal altså nu vil vi, så den er lidt nem, fordi der står nul på det sted her,
+
+12:28
+så derfor er den nemmere end andre matricer, så nu prøver jeg sådan at snuse mig lidt frem.
+
+12:32
+Vi skal selvfølgelig finde en systematisk metode bagefter. Men det jeg tænke over nu.
+
+12:42
+Det er, at hvis jeg sætter et nul på det sted, så skal jeg jo lave nogle prikproduktet, og så går det ud af.
+
+12:54
+Så går de to ligesom ud af mellemregninger, fordi de går i nul begge to.
+
+12:58
+Så det er sådan set kun to tallet, det handler om, så vi prøver lige her.
+
+13:05
+Så vi prøvede at gang ud, så får vi altså prikproduktet to gange en +5 gang med nål det 2.
+
+13:15
+Og her får vi nul gange 1 0 minus tre gang med nul.
+
+13:19
+Det nul. Og okay, så kan vi da bare sætte det to tal ned foran.
+
+13:36
+Så står der en og nul dér, og så kan jeg altså se. Så er det den samme vægt, der står dér og dér og i midten.
+
+13:46
+Her. Der har vi så nej bestået bøvet lambda det år, så tallet dér, så vi har altså nu fundet i hvert fald en lam, der 1 er lig med tallet 2.
+
+14:06
+Og til den der hører sig egne vektoren 1,0.
+
+14:17
+Og så igen er det jo ikke kun en danser har.
+
+14:21
+Så ved vi, at hvis den har en start uendelig mange, nemlig alle dem, der er parallel med den vi har fundet.
+
+14:28
+Så vi kan altså her skrive. Aymaraer mad der hører til egenværdi værdien 2.
+
+14:36
+Det er spande af vægteren.
+
+14:42
+1,0. Så vil jeg lige undersøge om jeg kan komme lidt videre.
+
+14:58
+Den første. Den var nem at gætte. Den anden egenværdi er faktisk også nemmere.
+
+15:05
+Gæt så nu siger jeg lige et trick til.
+
+15:10
+Og det er, at de en trekant matrix.
+
+15:24
+Der står Lambda lambda y'erne i diagonalen.
+
+15:36
+Så det vil altså sige vi har faktisk hvis I lægger mærke til det, fordi der står et nul her, så er det her jo en øvre trekant matrix.
+
+15:47
+Og når vi har det tilfældet, så står egen værdierne pænt i diagonalen.
+
+15:53
+Vi fandt jo allerede 2. Og det vil sige, vi kan sige minus hej mordsagen egenværdi.
+
+16:07
+HA ha, så er det var jeg ser det for sig.
+
+16:12
+Vi ved, vi ved i hvert fald, at det er en egenværdi mere, og den hedder minus tre.
+
+16:19
+Hør nu er det store spørgsmål var før, at egne rum hører til den.
+
+16:29
+Prøv at se her. Nu laver vi et lille scenario, hvor vi altså handler om plan vektorer, hvor vi ligesom tegner de to ved i samme koordinatsystem.
+
+16:49
+Så nu vil I se, at vi både tegner vektoren V og dens billede.
+
+16:59
+Så hvis jeg tegner her vægteren V med blot.
+
+17:08
+Og så kan vi tegne billedet dér med rødt.
+
+17:16
+Det er en anden væg, der udgår fra ordet går.
+
+17:21
+Og hvis jeg er sådan lige som nu, har jeg fundet ud af, at det er sådan set ikke kun er vektorer, men det er parallelle linjer, vi er ude efter.
+
+17:30
+Altså hvor er de parallelle henne? Så kan vi lave en Skævinges metode.
+
+17:36
+Prøv at se, hvis Honor siger, at jeg tegner lige en cirkel her.
+
+17:44
+Det er en indercirkel, og nu kigger jeg altså bare på de værktøjer, som har længden.
+
+17:49
+1. Så kan vi prøve at scanne planen for egen vektorer.
+
+17:54
+Hvis jeg nu langsomt kører den blå vægtere hele vejen igennem og kigger på, hvor den røde er hende, så kan jeg altså se så på nogle steder.
+
+18:06
+Der vil da komme, hvor de er parallelle, og på den måde kan vi scanne hele planen for fare for egenværdier egne vektorer.
+
+18:15
+Og jeg ved i hvert fald om denne her, at den har.
+
+18:20
+Den har altså her. Selv hvis jeg tegner den blå dør, så ved jeg den røde.
+
+18:28
+Den er dobbelt så lang. Så nu synes jeg, at vi skal prøve at lave sådan en scanning, og det gør vi så på en Mabels demo.
+
+18:50
+Bank. Og såvel Gud humper sjovt.
+
+19:05
+Så okay måske ser. Se, det var så den matrix som jeg har brugt i eksemplet her og den blå vægtere som ligger her.
+
+19:25
+Den kan vi jo bare kalde for cosinus. Til kommer sinus til.
+
+19:30
+Og hvis vi så lader til gå fra nul til to ppi, så vil den blå vægtere bare køre rundt i hele intet enhedscirklen her.
+
+19:37
+Og det er så det, vi prøver at gøre nu. Og så y vægteren billede.
+
+19:43
+Det er jo så bare matricen gange vektoren selv. Så kan vi lige lave et lille scenario her, og det første vi viser, det er jo dér, hvor tilligemed nul.
+
+20:05
+Det var den situation, som vi allerede har fundet ud af.
+
+20:08
+Men jeg har forudsagt, at vi skal have en egenværdi på minus tre, så hvis vi nu lader den blå køre rundt,
+
+20:17
+så må der være et sted, hvor der er en egenvægt, som peger i den modsatte retning, og som har længden minus 3.
+
+20:41
+Der var den. Og der var den én gang til.
+
+20:51
+Så nu har vi fundet den. Så I kan se.
+
+21:00
+Vi fandt altså at det var faktisk der vi da vi var her.
+
+21:16
+Da fik vi så, at så fik vi så et billede vægteren, der gik dernede til den, var tre gange så lang.
+
+21:25
+Barbara er modsatrettet, og vi kan nu altså sige, at nu har vi fundet dette eget rum.
+
+21:34
+Det ville være at sige den spande af vægteren.
+
+21:41
+Den kan vi kalde, for den kan vi kalde for minus 1,1.
+
+21:51
+Så altså i øvelserne i dag skal jeg prøve for en række forskellige matricer.
+
+21:57
+Det skal jeg prøve at lave sådan en scanning og se, hvor forskelligt det kan falde ud.
+
+22:01
+Det er forskellige matricer og finde egen vektorerne egen værdierne osv.
+
+22:09
+Gør. T.
+
+22:17
+Vi skal nu i gang med den. Ja, hvad siger du? Det var fordi kolossalt.
+
+22:28
+Det jeg så på på animationen, det var jo, at du havde parallelitet lige præcis.
+
+22:36
+Når jeg så har den linje her, som hedder by, er lige med minus ex.
+
+22:42
+Og så kan jeg jo se, at at den må jo have en koordinat her, som hedder minus 1,1.
+
+22:49
+Så det er altså den vægtfordeling, jeg har brugt som et eksempel på en egenvægt, der hører til egenværdi 1 minus 3 snart.
+
+23:04
+Nu kommer så et hoved kapitel i dag finde egne værdierne.
+
+23:17
+Inden jeg går i gang, så er der lige to spørgsmål, som jeg vil tage op, som vi skal afklaret,
+
+23:24
+inden vi rigtig kan få fundet ud af dette, og mit første spørgsmål er altså Hvad betyder det symbol?
+
+23:36
+Jeg skriver op nu, nemlig a minus larm da det.
+
+23:50
+Se det udtryk her. Det vil nemlig set rigtig mange gange.
+
+23:54
+Det ser meget nørdet ud, men I er nødt til at forstå det fra starten af, hvad det egentlig handler om,
+
+24:00
+når I ser det derfra, der optræder i alle mulige ligninger, der handler om egne værdier.
+
+24:07
+Skal vi lige prøve at lave et eksempel Se vi siger jeg har en to go to matrix, A, B, C, D og så siger jeg altså minus lamper.
+
+24:23
+Og I kan godt huske den dér. Det betyder jo enheds matricen. Så hedder jeg så 1, 0, 0 og 1.
+
+24:38
+Og nu prøver vi så bare at regne det sammen. Det vil sige først og gangene lambda ind på det sted, så der står der altså lam, da der står lam dér dér.
+
+24:48
+Og så skal vi jo trække de to matricer fra hinanden. Det vil sige, at det kommer til at hedde a minus lamper.
+
+24:59
+B minus nul. Der sker ingenting med B. Set har vi også et nul.
+
+25:05
+Der sker ikke noget med se, men her får vi det minus lambda.
+
+25:18
+Så kan I se hvad betyder dette? Det betyder, at kun vi har trukket Lambda fra i diagonalen.
+
+25:33
+Så er det afmystificeret. Det andet spørgsmål vi stiller.
+
+25:43
+Det er kun tallet nåede van egenværdi.
+
+25:59
+Jamen, det må komme an på en prøve. Så hvad vil det egentlig sige?
+
+26:04
+Det vil jeg sige, at hvis jeg tager F af en væg, så vil.
+
+26:11
+Så skal det være lige med nul ganger vi. Så har vi opfyldt vores egenværdi ligning.
+
+26:24
+Så spørger vi, men hvad er nul et tal? Nul gange ganget med V.
+
+26:29
+Ja, da får vi jo bare nul vektoren.
+
+26:40
+Jeg synes at vi har set den ligning før. Her spørger vi efter Hvad er det for nogle vektorer, som går år i nulvæksten?
+
+26:50
+Derfor ser du, det er kernen for jer. Så nu har vi fundet egen rummet, der hører til egenværdier nul.
+
+27:00
+Det er kernen af. Det er vigtigt mellem resultat.
+
+27:09
+Men altså vi gider ikke, hvis der kun er nul vektoren.
+
+27:15
+Det er for tyndt. Det er ikke et kongerige, så det vi vil kræve, er selvfølgelig, at dimensionen er kernen.
+
+27:26
+Det skal ikke bare være nulvæksten, der skal ikke bare være noget, som vi kan sige.
+
+27:31
+Vores svar her er i ja. Hvis dimensionen er kernen.
+
+27:42
+Den skal være større end nul. Og så er det jo altså herligt at kernen og egnen rummet hører til noget.
+
+27:53
+De er altså identiske. Nu kan vi begynde at snakke om at finde egenværdier, for prøv at se.
+
+28:06
+Dette drejer sig om. Det er a.
+
+28:11
+Ex. Skal være lige med Lambda ex.
+
+28:19
+Nej, vi plejer at bruge det. Lad os bruge V i stedet for A.
+
+28:24
+Det skal være lamper ved. Nu kan jeg ikke huske jeg brugte er brugt.
+
+28:29
+Kan I huske det, da jeg skrev? Det er lige meget.
+
+28:34
+Det er lige mig. A. Vi skal lege med lamper, ganger vi.
+
+28:39
+Det er egentlig problemet. Så tager vi venstresiden og sætter over på højresiden.
+
+28:44
+Så har vi a v minus larm der V skal være nul vektoren.
+
+28:58
+Ja, så vi går et skridt videre. Så skriver vi a v minus lambda.
+
+29:10
+Og ve den kan vi jo skrive som enheds matricen gange ved.
+
+29:15
+Vi ved jo enheds matricen giver bare ve tilbage. Så det har vi altså en.
+
+29:24
+Gange med vi. Det er simpelthen fordi det ved der står her, er præcis det samme som det der står her,
+
+29:33
+for det er jo enedes matricen, der bare altid giver vektoren tilbage.
+
+29:37
+Så det må være tilladt. Og nu kan vi så sætte V udenfor en parantes, så har vi a minus lambda e gange med.
+
+29:57
+Det skal være lig med nul. Hvad har jeg lavet her?
+
+30:10
+Kan I se? Jeg startede med egenværdi problemet. Nu må jeg lige lave nogle omskrivninger, og nu er jeg kommet ned til en hovedorgan indledning.
+
+30:19
+Der er et homogent line dining system. Vi har nul par år siden, og der har vi den dér matrix, hvor jeg har trukket Lambda fra i diagonalen.
+
+30:29
+Så vi er ude efter at finde nogle rigtige løsninger på denne her på dette homogene lineære lille system.
+
+30:38
+Det er det, der står her. Det er jo koefficient matricen.
+
+30:53
+Hvornår er det at dette ligende system, at det kun har nulløsningen?
+
+31:00
+Det vil sige der er nul frie parametre. Hvad skal der så gælde om den matrix?
+
+31:09
+Bestil nu. Den skal være regulær. Hvis det er en matrix er regulære, så er der kun 0 løsningen.
+
+31:20
+Og så siger vi euro, fordi så har vi ikke nogle rigtige egenvægt to år,
+
+31:24
+så er der kun nul vektoren, der opfylder den ligning der, og den er totalt uinteressant.
+
+31:31
+Så det vil jeg sige. Der skal ikke være regulære.
+
+31:35
+Den skal være det modsatte af det sekulære. Og hvornår er den?
+
+31:38
+Det er den og dens. Determinanten er nul. Så vi har altså den dér a minus lambda 1.
+
+32:06
+Den skal være nået, så har vi egenværdier. Den sætter vi i glas og ramme.
+
+32:21
+Eksempel. Jeg kigger på matricen, der hedder 5 minus 6 3 og mener.
+
+32:48
+Det jeg skal kigge på er åbenbart determinanten. Skal vi kalde den for A.
+
+32:58
+Determinanten af a minus lambda e. Det vil sige determinanten af den matrix jeg har stående dér, og det vil altså sige.
+
+33:16
+Fem mener Slam, da beholder endnu 6.
+
+33:23
+Beholder tre. Her i diagonalen skal jeg foretrække lam da.
+
+33:38
+Så nu prøver vi at udregne denne her determinanten.
+
+33:43
+Det er jo fem minus. Andre gange med det andet diagonal element minus 4 minus lambda.
+
+33:56
+Og så skal vi så sige minus tre gange med minus 6.
+
+34:02
+Det giver minus minus 18. Det giver plus af dem.
+
+34:15
+Så prøver vi at lege og garang det her ud. Så får vi Lambda i anden.
+
+34:21
+Det kommer herfra, og så har vi minus fem lambda og plus fire lamper.
+
+34:29
+Det giver minus larm der. Og så har vi plus af den.
+
+34:46
+Nå nej da noget. Lad os lige se her. Nej, så galt bliver det ikke.
+
+34:53
+Fordi altså vi har faktisk. Vi har minus 20 herfra, og så bliver der plus 18.
+
+34:59
+Så det bliver bare minus 2. Han.
+
+35:08
+Så I kan jo se vi ude efter find lamper. Vi startede med den dér determinanten, hvad vi havner ude i.
+
+35:15
+Vi har havne ud i et andet grads polynomium, og det kalder man altså for det karakteristiske polynomium.
+
+35:34
+Og det er klart når I har en 2+2 matrix den måde jeg regner ud på, så er det karakteristiske polynomium for en to krypto matrix.
+
+35:43
+Det er altid en anden grads ligning. Så vi skal have fundet rødderne på den, så har vi egne værdierne, så vi har.
+
+35:56
+Det skal man enten være bliver den den bliver en +8, altså den er ny.
+
+36:04
+Og så har vi altså lam, der er så lig med en plus minus tre divideret med 2.
+
+36:19
+Og det det må betyde, at vi har en.
+
+36:25
+Så har vi altså alarm, da en som vi får den, er 2.
+
+36:32
+Og så har vi en anden, hvor vi trækker ind. Det vil sige, at den giver minus to divideret med 2.
+
+36:38
+Sådan. Så nu har det altså fundet 2 egenværdier.
+
+36:45
+Den er 2, og den er minus ét eksempel nummer 2.
+
+36:59
+Se nu hedder A. Den hedder nøgle en nul minus 2, 3, 0, 0, 0 og 1.
+
+37:14
+Vi vil gerne finde egenværdi, hjørne, og så skal vi opskrive determinanten. Og det gør vi ved at trække Lambda fra i diagonalen registeret.
+
+37:45
+Pris af den med traktere skrevet her er jo bare den samme som her, bortset fra jeg har trukket lamper fra alle de steder, som I kan se det.
+
+37:56
+Så prøver vi at udregne determinanten, og det kan vi jo gøre efter selvfølgelig tredje søjle.
+
+38:04
+Her har vi kun ét element, der er forskellig fra nul. Så hvad bliver det?
+
+38:10
+Plus minus plus minus plus. Og så ganget med determinanten er det vi har tilbage her.
+
+38:21
+Det vil sige i gang med determinanten af minus lambda gange med tre minutters lamper.
+
+38:29
+Og så skal vi se i minus, og det bliver så plus faktisk plus 2 til at rive den der.
+
+38:43
+Og så får vi minus slam der gang i den. Og så minus minus to S.
+
+38:50
+Og så har vi en plus lamper, og så prøver vi lige at regne den ud.
+
+38:56
+Der har vi lambda i anden. Og så får vi minus tre lamper.
+
+39:06
+Og så får vi plus to. Er det må du nok spørge.
+
+39:18
+Så det har vi den. Det skal være nul og se, nu vil jeg ikke rejse videre ud.
+
+39:25
+I kan godt se, at det her er jo det, vi har her.
+
+39:28
+Det er et tredjegrads polynomium, fordi I kan se, at hvis vi ganget videre ud, så vil vi jo få lamper i tredje og kan se det.
+
+39:41
+Og det er altså det karakteristiske polynomium, som vi sådan set har fundet nu.
+
+39:48
+Så har I 1 3 kryds tre matrix, så er det karakteristiske polynomium altid et tredjegrads polynomium og har i enden cos en matrix.
+
+40:00
+Så er det karakteristiske polynomium endt grads polynomium.
+
+40:07
+Og skal vi lige, skal vi også lige løse denne her.
+
+40:11
+Vi bruger selvfølgelig nåede reglen her. Vi gider ikke at regne det derud.
+
+40:14
+Vi ved, det er tredje gang omnium, men vi skal jo sørge for det, for det er jo Factory Céret.
+
+40:20
+Det vil vi gerne have, så vi har så enten skal have første faktoren være nul.
+
+40:25
+Så vi har allerede fundet en egenværdi. Denne hedder lam, der med en. Og nu skal vi så finde ud af, at det her angrebspunkt har vi så.
+
+40:39
+Vi prøver igen det komponenten. Mon ikke det er 9 minus 8, den er 1.
+
+40:44
+Og så har vi altså lambda er tre plus minus 1 divideret med 2.
+
+40:51
+Og så har vi altså her Lambda er lig med.
+
+40:58
+To og en. For der var jo dobbeltskrog.
+
+41:08
+Her ser vi havde fundet en.
+
+41:12
+Den har vi fundet en gang. Man sværmer om en ikke også.
+
+41:17
+Den er også groet her. Så det vil altså sige at den har alt.
+
+41:22
+Et britisk multiplicere Ted 2. Dette er altså algebraisk multiple sitet.
+
+41:48
+Og så har vi altså fundet den anden her, som vi kan kalde for Sam, der 2.
+
+41:57
+Som altså jeres tilfældigvis også den var tallet 2, og den har altså algebraisk multiplex sitet er 2.
+
+42:08
+Denne er så en. Så når vi lægger de algebraiske multipliceret sammen, så har vi jo i alt tre.
+
+42:23
+Så det vil jeg sige nu er vi faktisk nået et fantastisk godt mellem resultat er at få det, at vi kigger på en kryds, en matrix.
+
+42:43
+Så ved vi at Ayn værdierne er rødder i det karakteristiske polynomium og det karakteristiske polynomium der endte grads polynomium.
+
+42:55
+Og da ved vi jo fra den teori, at vi havde omkring polynomier i den af i de første fire uger.
+
+43:02
+Der så vi jo et ændret grads polynomium har altid n rødder.
+
+43:07
+Hvis vi regner dem med multiple sitet og selvfølgelig husker de komplekse tal, så det vil sige nu ved vi,
+
+43:15
+at den matrix der, den har præcis en egenværdier, når vi regner med multiplex set.
+
+43:46
+Og pause.

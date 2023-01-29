@@ -1,0 +1,884 @@
+0:09
+Så kommer vi til en lidt sjovere del af forelæsningen, for nu skal vi finde ud af hvordan finder vi de der egenværdi egne lektorer.
+
+0:18
+Og vi viser det ud fra, hvordan vi finder det via deres afvænnings matricer.
+
+0:22
+Fordi har vi et endelig dimensionalt vektorrum. Altså med en basis endelig basis, så kan vi jo altid finde afvist matricen.
+
+0:30
+Med hensyn til de koordinater, vi nu vælger. Men Basso vælger så.
+
+0:34
+Det vil sige, at hvis vi ved, hvordan vi gør det for matricer, så ved, hvordan vi gør det altid.
+
+0:39
+Så vi bruger de og ser hvordan kan vi egentlig klare os og finde de tal, egenværdier eller flere af dem, vi skal finde.
+
+0:46
+Først når de er foldet, så må jeg finde, hvilket rum de egne vektorerne de udspænder.
+
+0:55
+Og lad os prøve at se lidt på problemet, da vi ser vi ved hjælp af matricer.
+
+1:00
+Og bum bum bum bum bum. Otte. For det ene er det egentlig ikke så galt lige umiddelbart kunne det jo virke mærkeligt,
+
+1:08
+man skulle være en chance for at finde de dér tal, der udnytter nogle af de ting, vi har lært indtil nu.
+
+1:12
+Blandt andet skal vi bruge noget determinanten, som vi siger her.
+
+1:17
+Først har vi en afbildning fra V til V. Den har en afvænnings matricer med hensyn til en eller anden basis.
+
+1:25
+Jeg skriver ikke nogen små egentlig sats på, for jeg har jo ikke sagt noget om, hvilken basis deres exit var.
+
+1:30
+Men heltinder en basis har vi afvænnings matricen F. Så nu er spørgsmålet Hvornår er f.
+
+1:37
+Gange en eller anden væk? Tager Ved Lima konstant. Ganger vi?
+
+1:45
+På høje venstresiden står en stor matrix efterhånden efter kan vand fire gange firmaet tricks, for eksempel gange en søjle vektor.
+
+1:51
+Hér med fire elementer skal vi lege med en konstant Kongshøj elevator for at kunne
+
+1:56
+skrive om på det så observerede ligelige lige at det kan også skrives som f.
+
+2:01
+Gang ved at lege med lambda gange.
+
+2:06
+Enheds matricen, der ingenting gør, har samme dimension som f ganger.
+
+2:11
+Ved bølger ganger ved Méndez matricen, så får jeg bare ved. Så umiddelbart virker det lidt fjollet.
+
+2:16
+Men nu ser vi, hvorfor det er en god måde at varme på. Det er det samme som at skrive.
+
+2:21
+Jeg rykker alle deres stunder over på denne side her år f minus lambda gange en gang.
+
+2:28
+Eve er lig nul. Vi ser altså, at Lambda gange lambda ved rykker.
+
+2:36
+Vi tror vi sætter ved Gud fra en parentes og får det her. Det der står her, jeg vil sige for at tænke over, hvad det egentlig er her står vi nu.
+
+2:44
+F er en fjerde gang firmaet, så står der 1 4 gang firmaet, så ser man indgangen derfra.
+
+2:49
+Den trækker vi Lambda gange ind, og I var også en fjerde gang firma tricks med et tal ned i diagonalen.
+
+2:55
+Nul uden om. Og så ganger vi alle amter på land. Det vil sige, når jeg så trækker to matricer fra hinanden, får jeg en ny 4 gange 4 matrix,
+
+3:01
+og det vil sige alt i alt er stående del af en matrix ganget en vektor.
+
+3:05
+Skal man lige nulvæksten? Det er et homogent system og det her, det er matricen.
+
+3:12
+Hvornår er det egentlig lige præcis hvilke løsninger kan være tilsnit? Jamen, et homogent system har altid en nulløsning, men lige præcis nul løsning.
+
+3:20
+Det er den, vi ikke er interesserede i her, fordi den siger ikke noget omkring, om der skulle være egenvægt to egenværdier.
+
+3:25
+Så hvornår er det egentlig lige, at der er ikke nul løsninger til sådan et her?
+
+3:30
+Det er det jo hvis, at det er denne her. Massevis der står her, er sekulære, fordi den er regulær.
+
+3:37
+Altså har netværk så alt det der. Jeg har fuld rang. Jamen, så er der kun nul løsning, for så er der et entydigt løsning, og vi ved nul løsning.
+
+3:44
+Er der kun noget løsning, så den eneste måde vi kan spille, skaffes ved. Og her som ikke er nul.
+
+3:48
+Hans egen værktøj er at sige, at determinanten af denne her er så at sige, at den her matricer skal være.
+
+3:58
+Så enkelt er. Og det er det samme som at sige, at den ikke er regulære ikke og det samme som at sige hvis der er masser sekulær,
+
+4:13
+har fokuseret f mener slam er en determinanten af vand, skal man lig med nul.
+
+4:27
+Når det er simpelhen det vi skal gøre, hvis der skal være mulighed for at finde egenvægt Thor, så skal den da matrix.
+
+4:36
+Det tager man vel i nul. Ellers er der kun nulløsningen fordi det er værd.
+
+4:40
+Og så er der ikke så spændende, og så har vi ikke, så jeg kan ikke sige, om de vil egne vektorer.
+
+4:44
+Så lad os prøve at se, hvad fører det egentlig til? Og nu går vi så tilbage og regner på den her.
+
+4:50
+Det her eksempel igen, siger han. Lad os se på et konkret eksempel. Det.
+
+5:02
+Og nu kommer altså selve metoden til at finde de her egenværdi egen vektorer.
+
+5:20
+Egenværdier. Og egenvægt gjorde.
+
+5:29
+Nej, hvad er betingelsen betingelser er det terminalt skal være nul. Lad os nu se på vores afbrødes matrix fra før, altså den vi har for eksempel her.
+
+5:38
+Den hed 1, 4 2 minus 1. Og det er sådan I skal gøre nu er det jo to gange to matrix, det er dejligt for mig.
+
+5:48
+For to gange to matrix. Den er nem at regne med. Den opgave, jeg måske får i dag, kan være 1 4 gange 4 matrix.
+
+5:54
+Det er værd for jer, for noget med at regne i det. Men I har jo selvfølgelig også Mabel til at hjælpe jer med nogle ting.
+
+6:01
+For lige nu står der faktisk en opskrift på, hvordan vi kommer i gang. Jeg skal lige undersøge, hvornår den determinanten.
+
+6:07
+Så jeg ser lige på determinanten er f. Miner slam, der ikke giver den det samme land.
+
+6:16
+Det er jo så determinanten af hvad? Dette til manden er den hedder EF.
+
+6:21
+Den står her og skal jeg sige mine ord slam, der ikke skulle skrive det her op.
+
+6:25
+F minus slagteri. Jamen f.
+
+6:29
+Det er jo så 1, 4 2 minus 1 minus og lam der lambda gang enheds matricen der kommer så vil altid af sted.
+
+6:36
+Lambda i diagonalen på det ene sted hedder egentlig nul nul.
+
+6:40
+Når jeg ganger med Lambda, kommer der en lampe, så trin 3 i de to matricer fejl der står 1 minus lambda, så står der 4.
+
+6:50
+Så står der to, og så står der minus 1 minus Lambda. Så det skridt.
+
+6:54
+Her behøver man ikke at skrive op hver gang. Hvis man lige ser på, hvad det egentlig er, der sker.
+
+6:59
+Så det der sker, er, at vi tager vores Matrix F. Og trækker Lambda fra i diagonalen.
+
+7:09
+Selv trækker lamper fra i diagonalen. Så vil jeg tage determinanten.
+
+7:17
+Det var her jeg bliver særligt glade for, at det her er en to gange atommasse fra det etablerede. Det er jo den gang den i en mine hos Lambda Guide.
+
+7:24
+Minus 1 minus Lambda minus dengang gang i den minusser under denne.
+
+7:30
+Determinanten var den der skulle sættes identisk lig med nul. Hvad får jeg ud af det?
+
+7:37
+Jeg får noget meget spændende ud af det, fordi der står her. Det kaldes karaktere ligning.
+
+7:50
+Og det der står hér. Det kaldes det karakteristiske Panopto.
+
+8:04
+Er det det samme som der står her? Det er også karakteristisk for lummer det på.
+
+8:08
+Dette bliver til en ligning, fordi vi er lig med nul. Det der står her, er jo en ændret stigning og en anden grads ligning til bestemmelse af hvad?
+
+8:18
+Ja. En anden der er set til bestemmelse af Lambda. Det vil sige, at rødderne i den anden, der er ejet værdierne, så høje værdierne fundet i et hug.
+
+8:27
+Hvis man kan løse deres ligning. Vi ganger ligeud. Vi kan se, at det dobbelte produkt forsvinder Dencker end den vi justere.
+
+8:33
+Det forsvinder, så alt i alt får jeg her. Lambda i anden omgang, men det er minus 1 min og sorte minus ni er lig nul.
+
+8:45
+Det er et andet sening. Den er til at løse. Jeg kan med det samme se, at røveren er.
+
+8:50
+Der er to egne værdier. Der er to egenværdier.
+
+8:59
+Lambda lig med 3. Der er da ikke live 3 og Lambda 2 9 med minus 3 på.
+
+9:14
+Ikke overraskende at da de 2. Fordi hvis vi lige husker på hvad var det vi så herover?
+
+9:22
+Og det var de to samme egne værdier, vi fandt her.
+
+9:26
+Men det er altså metoden, og det er en is, man gøre, når de kommer op til øvelserne i dag, når de skal finde de egne værdier.
+
+9:34
+Jeg skal simpelt hen få skrevet den her karakteristiske Polo op.
+
+9:39
+Så skal især den lige med noget tid bliver til karaktertegningen og løse karakterer ligningen,
+
+9:44
+og det giver jo lige præcis betingelsen for de konstanter, hvor denne bliver sekulær, og det vil sige, hvor der ikke er nul løsninger til problemet.
+
+9:52
+Vor egen vektorer. Så hvis det havde været en 4 gange 4 matrix her, så havde dette karakteristiske polynomium hér.
+
+10:00
+Det er blevet til en fjerkræet feeling. Havde det været en syvende 7 gange 7 Maastricht, så var det ventet at syvende ligning.
+
+10:07
+De der ligninger dem behøver ikke at bo på division og gerne rød, når man ikke også skal holde på dansk lyste.
+
+10:14
+Anden, tredje, fjerde og femte stilling næppe. Ja.
+
+10:21
+Svampen. Den er der. OK, jeg har ikke travlt.
+
+10:29
+Vi skal nok nå det. Det er jo sjovt det her, for ved næste at spørge om hvor og hvor er jeg så egenvægt turene henne.
+
+10:39
+Hvordan findes det?
+
+10:42
+Der var altså to egenværdier, og det vidste vi jo også godt at der kunne ikke være flere, fordi det var jo fra en afbødet fra 2 til 2.
+
+10:51
+Så der kan højst være to, ja, ellers er der ikke op, hvor man kunne blive større inden for en rimelig tid.
+
+11:02
+Det gør det jo. Det kommer vi til, men så skal der adskiller sig.
+
+11:08
+Så det er rigtigt, hvad I siger, fordi de er to rødder. Har jo algebraisk multiplex til et 1.
+
+11:15
+Når vi har. Vi har ikke nogen dobbelt rødder i den handelspost linje. Vi har ikke nogen diskrimination, for vi har nul.
+
+11:22
+Vi bor lige og ser. Vi regner videre, og så siger vi når egenværdi lambda et lig med tre.
+
+11:28
+Nu findes egen værdierne egen regnemetoderne. Jeg skriver med vilje egenvægt tårerne, for der er ikke bare en valgdag.
+
+11:40
+Hvis I har en, var der uendelig. Mange kan være endnu flere. Hvad gør vi dér?
+
+11:46
+Jo, det står jo faktisk også op fordi Egenvægt 2'erne Vario løsning til den her matrix ligning f minus slam, der en gang ved er lig nul.
+
+11:57
+Så nu prøver jeg og skrive den op. Og nu er det jo for egenværdi. En lam, der endelig med tre så det jeg skriver op hér.
+
+12:03
+Det er f minus lambda ét. Der var enheds matricen, guide m.v.
+
+12:11
+Er lig nul. Det er jo heldigvis som vi kender det, at det er et homogent linjer ligning system med kun lige sat en hvad der står f.
+
+12:18
+Matricen. Der er jo den der hedder 1 4 2 minus 1.
+
+12:24
+Og fra den skal vi lige trække. Lam datamat 3 0, 0 3.
+
+12:33
+Ganget ved er lig nul. Hvis så trækker de to fra hinanden.
+
+12:37
+Så får jeg jo. Det tager Mattias, som hedder minus 2 4.
+
+12:43
+Og her får vi så to og tre mistænkte gennem mine fire gange ved.
+
+12:52
+Er lig nul se, nu skete der noget godt, og det vidste jeg også godt finde ske, fordi dette er 2.
+
+12:59
+Hvis jeg ganger den igen med minus 1, får den samme ligning, og da vil vi se Gauss og denne matrix er.
+
+13:08
+Minus 2 4 2, minus 4 gør det vi lægger den øverste række til nederste, så bliver den der egentlig hedder minus to fire.
+
+13:17
+Nul nul. Det skal altid ske. Fordi hvis der ikke sker det, at den ene ligning her bare var en kommission af den anden, så ville vi have et problem,
+
+13:28
+for så ville vi have en entydig løsning, og kun nul løsninger er vel lige billigt konstruerede.
+
+13:31
+Det har altid vil ske, at der vil blive flere løsninger. Hvad kan vi gøre ved det lige ved indgangen?
+
+13:37
+Denne her igen med en halv. Måske hvis I synes. Og så færdig for hvad er løsningerne til den?
+
+13:48
+Kalde dem ved lige med.
+
+13:51
+Ja, hvis vi siger at ex 2 den rt, så står der at vi skriver lige den løvers linie herude minus 1 gange ex et plus to gange X2 er lig nul.
+
+14:04
+Så kan vi se at vi sender til. Er der så ikke et klima? To ting vi kan skrive ud til ud fra en anden planet.
+
+14:11
+Så står der to 1. Se den væk, så der står, at her er en egenvægt.
+
+14:17
+Og der står, hvordan alle egen vægteren ser ud, fordi alle sammen udspændt.
+
+14:21
+Her kan enhver konstant gang i gener.
+
+14:25
+En vektor, så alle egenvægt, turene til den egenværdi så egen vektorerne.
+
+14:32
+Egen rummet. 1 3, som er det der hører til livet i 1 3, er lig med spand og den vækster, der hedder touring.
+
+14:53
+Ja. På samme måde kunne vi gøre med den egenvægt, der hed blandt da 2 lige minus 3 regn det hele på samme måde igen.
+
+15:04
+Og så vil vi se, hvis vi gjorde det at regne rummet. A Minus 3 er udspændt af den vektor der hedder minus 1 1.
+
+15:18
+Som også er den vækst vi havde heroppe.
+
+15:22
+Det kunne ligeså godt være udspændt af den væg der hed en Minos, en fordi jeg kan jo altid gange en væg med en konstant.
+
+15:29
+Så går jeg som for eksempel lige gange denne her vektor med minus én.
+
+15:32
+Det kunne også være udmattende, ikke forbedres, mener 7 og 7, fordi det igen ligger i det samme spand.
+
+15:37
+Så der er ikke nogen entydige svar her så det ikke sådan. Hvis en har regnet ud og fået et svar, er det ikke sikkert, at de er så forkert.
+
+15:43
+Ja, hvordan får du den idé? Et ekskludere forskellige, når man går så og to ting?
+
+15:51
+Ja. Så det er denne lille, mener Jakob, når du skriver, at hjernen er, så det jeg siger først af et X2 løsning herved.
+
+16:02
+Den skal være set over X2. Så siger at hvis X2 den RT så sætter ind i den ligning her minus x et plus to tal er lig nul.
+
+16:17
+Men så rykker jeg ikke over på denne side, så to ting er lige ægte. Og så kommer det.
+
+16:24
+Så pas på med at hoppe for hurtigt fra dette og over til løsningen, for det kan nemt.
+
+16:30
+Man kan nemt blive forvirret af fortegnelser. Godt.
+
+16:36
+Ja, det var det. Så skal vi lige se et andet eksempel for hvordan kan det være, at vi nu siger Hvorfor er de der egne rum?
+
+16:44
+Hvorfor bliver de ikke altid endimensionale? Det var sådan lidt sjovt.
+
+16:48
+Her blev de jo endimensionelle begge to. Det var udspændt af være en døgnvagter. Hvordan ser det ud for dit eget rum?
+
+16:54
+Faktisk bliver flere dimensionale, når det tager vi et nyt eksempel.
+
+17:01
+Det bliver belyst. De har eksempel tager de vil lette, fordi jeg skal jo lige kunne regne med at vi tavle.
+
+17:11
+Jeg har ikke Mabel lige her. Det har jeg måske nok med simpelt hatte.
+
+17:14
+Men jeg ser på en ny afbildning smag, hvis jeg igen på en afbødet af den går fra 3 til 3.
+
+17:26
+Og den har en afvænnings matrix, der hedder 1 1, 0 0, 0 0, 0 3.
+
+17:36
+En køber skal da leverancer. Hvad med den der?
+
+17:41
+Hvad er egentlig dens egenværdier og egne vektorer?
+
+17:50
+Jeg skulle have stået en mast mellem to ved denne. Så jeg skal være egentlig determinanten af f, mener slam der en.
+
+18:01
+Og det kan vi skrive op for determinanten af vejret. Det er jo tre kampe fra et detonatorer minus lambda nul nul.
+
+18:08
+Så står der nul 1 minus lambda nul, og så står der 0 1, og så står der 3 minus lambda determinanten af den set den øvre.
+
+18:17
+Der står kun nuller over diagonalen.
+
+18:19
+Determinanten var produktet af diagonale elementer, så den er en minus lambda gange 1 minus lambda gange 3 minus lambda.
+
+18:29
+Som er egentlig loftslamper i anden gang, er 3, mener Slagter.
+
+18:36
+Nu kan man jo så hvis man ikke fandt på bedre gang. Alt det derude, og så fik man en flot tredjegrads ligning.
+
+18:42
+Når nu vi sad lige med noget lige om det ville være en rigtig dårlig idé lige med nul, så skal denne her.
+
+18:49
+Det tager man lige nul, fordi den er faktor i Céret. Så vi kan med det samme se, at røveren er en og tre.
+
+18:57
+Så der er to egenværdier her. Vi siger her, at lambda.
+
+19:04
+Et lig med et. Har og skriver her a LG Algebraisk støvler alle alle.
+
+19:14
+G bra ISG Multi Multiple sitet.
+
+19:22
+2. Hvorimod Lambda 2 som er den anden egenværdi som er lige med denne 3.
+
+19:29
+Den har algebraisk multiple sitet.
+
+19:32
+En algebraisk multiplicere siger bare hvor mange gange den er rod i polynomiet, og det kan vi se ud fra fakturering.
+
+19:39
+At Lambda led med en den går op to gange er jo peanuts.
+
+19:44
+Division. Den indgår to gange i Fakta, altså altan.
+
+19:47
+Dobbelt råd. Han har og hvad sker der så ved det?
+
+19:54
+Hvad kommer det til at betyde for egen vektorerne? Det er da interessant.
+
+20:02
+Hvordan finder vi aldrig Thorne, når vi har fundet egenværdi hans egen vagttårn, det er jo bare at løse den der.
+
+20:07
+Det homogene system, som vi gjorde før, så det vi gør nu.
+
+20:12
+Det har vi siger. Hvordan ser egentlig hvad er løsningen? Til f minus 1 gange eller ved sit minus lambda indgange.
+
+20:21
+En gang med vores væg.
+
+20:24
+Som hvis man live 0, Værløse indtil det homogene system. Jeg ser om denne er god med farisæer F minus Lambda 1 1 og Lambda 1.
+
+20:34
+I det her tilfælde. Den er jo et til trækker trække fra i diagonalen, så indefra i diagonalen, så får jeg 0 0 0 0, 0 0.
+
+20:45
+Det er dog en tavs vinder. Jeg får nul ind og skal trække ind for tre, og det giver to.
+
+20:51
+Nu er trukket et fra i diagonalen. Du skal bare løse det her.
+
+20:55
+Ja, det er jo faktisk lige til Skive løsningen op, fordi vi kan ikke Gausland mere.
+
+21:00
+Det er jo også godt se, hvad en del af løsningen når ud til det her. Så løsningen er iklædt X2, X3.
+
+21:09
+Vi kan jo sige i første omgang, at X3 der med the. Hvis X3 den er til, så får vi fra den sidste ligning her.
+
+21:15
+Der står jo x 2 plus 2 x 3 skal være lig med nul.
+
+21:21
+Fuldstændig hormonsystem. Så kan vi med det samme se, at hvis X3 er t, så X2 lige minus to ting.
+
+21:28
+Hvad med ex? Der er ingen betingelser på den. Så den kan være mod hele landet.
+
+21:32
+Det kan være S. Nå, hvad så?
+
+21:38
+Det kan skrives om s gange en vægteren hedder en nul nul plus ti gange i en anden vektor hedder nul minus to en,
+
+21:49
+hvor de der stikker af til tilhørte, tilhører det reelle tal.
+
+21:53
+Det vil sige at agn rummet hørende til egen værdien et.
+
+21:59
+Altså den vi kalder etc. Denne er udspændt af to vektorer en nål nul og nul minus to en.
+
+22:14
+Det tog det emotionelt eget rum det her, det vil sige alle vektorer, der ligger i det spand.
+
+22:21
+De andre to hører ind til egne Varðin.
+
+22:24
+For sådan ser det ud, når vi er i en situation, hvor der bliver, hvor på vejen rummet har en større dimension end en, hvis man ser på den sidste.
+
+22:32
+Hvis vi finder egenvægt turen er hören til egnen værdien. Anden egenværdi er den der var 3.
+
+22:39
+Jamen så ville vi opdage det endimensionalt og det her udspændt af en eller anden vektor, som skal vi skrive op.
+
+22:47
+Hvis du nogle seere gå hjem og regner, så er det udspændt af vektorerne.
+
+22:55
+001 så det eget rum der hørte til egenværdi 1.
+
+23:01
+3. Det er udspandt. At eje værdien 0,0 kommer en.
+
+23:11
+Det vi ser her eksempler på er at nogen hvordan må den biometriske mål til?
+
+23:18
+Blev sitet hustand geometriske model blive set. Det var jo dimensionen af egne rum.
+
+23:23
+Den er to af matcher den algebraiske multiple listes.
+
+23:26
+Der gælder faktisk, at den algebraisk hulspil set altid er større end eller lig med den geometriske målbevidsthed.
+
+23:33
+Og når de to bliver ens, altså når den algebraisk og geometriske bliver ens husstand, gjorde mindst muligt det dimensionen regnorme.
+
+23:40
+Når de bliver ens, så har vi en basis bestående af egen vektorer.
+
+23:46
+Det vil sige vi kan godt være i en situation, hvor den her algebraisk, multiple set tung,
+
+23:50
+den egen værdi, men hvor vi kun kan finde én, det kun er udspændt af en egen vektor.
+
+23:54
+Jamen så er egn rummet, har det en mindre Gomez måtte bestille for eksempel linjer.
+
+23:59
+Men den algebraisk altid stønner lige geometrisk. Og næste gang på torsdag skal vi ser det meget.
+
+24:06
+Vi er meget glade, når den algebraisk geometri dybest set stemmer ind, og så bliver alting let.
+
+24:13
+Med hensyn til det her er den bedste regn derfor egne rum, og vi har også en basis for hele er 2 nemlig den,
+
+24:21
+der står, og den vægter den vektor og den vektor eller hele den basis for for hele vores rum.
+
+24:27
+For vi ved jo, at hvis jeg tager den egenvægten sammen med de to linier, du hænge egenvægt for, så bliver så mængden af alle tre.
+
+24:36
+Ammentorp bliver ligner du jo helt selv. Og så har vi en basis, og det er lige præcis det, vi søger.
+
+24:42
+Det er en basis bestående af egenvægt toer, for så bliver afbøjes matricen meget, meget simpel.
+
+24:48
+I den basis skal vi lige kort se, hvordan den ser ud inden Mabel kommer Mabel.
+
+24:52
+Vi skal nok nå Mabel. Det er så kort Mabel også meget nedslående, at det kan gøres så let.
+
+24:59
+Der var for nogle år siden. Kunne man ikke bruge Mabel. Så var man nødt til at lære lidt. Helt på fingrene.
+
+25:09
+Jeg vil elske lige det her. Jeg ved godt, at det er vores plan, men er den hurtigste og mest det sidste, vi skal set jer.
+
+25:16
+Hvorfor taler hele tiden om den der basis bestående af egenvægt 2'er?
+
+25:21
+Og det gør jeg det simple grund, at jeg lige prøve at skrive en si.
+
+25:24
+Her er en afhøringen af Hero fra V til V, og lad os sige, at ved et optælle ved EM er en basis af egen vektorer.
+
+25:44
+For F. Nu har vi altså fundet.
+
+25:49
+Altså ligesom vi har et eksempel her, hvor vi havde tre linjer uafhængigt tur. Det er fundet.
+
+25:53
+Hvordan ser afbildningen matricen ud med hensyn til denne her basis, der består egne vektorer?
+
+25:58
+Det vil sige hvordan ser f vv ud fra basis af egne vektorer og tilpasser?
+
+26:05
+Det ved vi godt, for der skal vi jo tage.
+
+26:07
+F er første basis vektor opskrevet i basis ved som første søjle af hver anden basis vektor opskrevet i basis V som anden søjle.
+
+26:17
+Og til sidst skal vi tage f af sidste basis. Vektorer opskrevet i basis svedte som sidste søjle.
+
+26:24
+Jamen F er ved et hvad er det nu lige er? Ja, F er vel ét.
+
+26:29
+Det er jo lam der en gang I ved for livet, da var en vektor. Men da de skrev det her f v et, er jo lambda et ved et.
+
+26:41
+Men hvordan ser den her ud opskrevet i denne her basis?
+
+26:45
+Ja, så skal jeg talte om da et er vel. Et nul er vel 2 0 ved 3 0 og vend så den første søjle, der kommer til at hedde Lambda ét og så bare nuller.
+
+26:56
+Næste denne hvordan ser FR-V 2 ud, at det hedder lam, der to gange blev 2.
+
+27:04
+Jeg vil gerne egenvægten, så skal jeg tage en nulre vintrene ned, så skriv den op i denne her basis.
+
+27:08
+Det er det, jeg skal som sig obskøne i basis ved nogle af vennerne. Jeg fortalte om.
+
+27:12
+To af vektorerne og nulre resten. Sådan kan jeg blive ved indtil at nå op til den sidste, for der står noget uden om.
+
+27:19
+Så når vi har en basis, består en egenvægt. Så bliver alle afmeldt matricer til diagonalt matricer, og de er utro.
+
+27:26
+Let regnvejr, og de har også nogle egenskaber, som er meget vigtige for os, når det kommer til differentialligninger.
+
+27:31
+Fx hvis jeg vil opleve den der matrix her i syvende potens, så kan jeg bare opløftet diagonal en international potens.
+
+27:39
+Og altså ikke behøver gange matricen sammen med sig selv søgang. Så det skal vi se nogle eksempler på næste gang, hvad det kan bruges til.
+
+27:46
+Nu skal vi til Mabel, og den er helt nyt, fordi jeg har ikke computer med.
+
+27:50
+Det er en PDF fil, jeg konverterer mælken til. Derefter putte den ind på maskinen her, og så kommer den ud på projektoren.
+
+27:57
+Forhåbentlig. Jeg skal bare trykke her. Ja, det virker, og så kan jeg skal I se, nu kan jeg skrive på Mabel.
+
+28:14
+Ja da nogle ikoner nede, men det gør ingenting. De går nok også væk, når jeg begynder.
+
+28:19
+Så tager jeg denne her pen, så jeg kan se, og jeg kan pege.
+
+28:23
+Skal jeg se den, der så er? Ja. Vi har klar.
+
+28:30
+U førstedagen at gøre hverdagen lettere.
+
+28:35
+Det er såmænd når jeg tog Mount ASO, men dér som skal jeg bare skal.
+
+28:42
+Sådan er sandt er jeg, når jeg shopper.
+
+28:51
+K. Ben Når skal jeg væk for der ikke er derop, og så kan jeg gå igen.
+
+28:56
+Ja, så lær at se egenværdi egen vektorer.
+
+29:03
+Hvordan gør vi det? Ja, vi fortsætter som før.
+
+29:05
+Vi har en egen vægtere eller en lille aflevering fra træ til træ, og den har en afblæst matrix, der står der som.
+
+29:17
+Nu vil vi så prøve at finde egenværdier, egenvægt tur fra den, hvis simulerede Holmris ulighed holder.
+
+29:22
+Det er jo den acceptable form for regning, når man prøver ligesom at lade som om, at man regner.
+
+29:31
+Yes, nu har jeg lige et lille problem, da jeg forleden kørte op denne her.
+
+29:37
+Det Kongelige. Højre hånd når den dør s når jeg møder andre bøger.
+
+29:48
+Jeg er fin. Jeg fandt ud af det. C.
+
+29:55
+Den afviste Maastricht villa. Hvad skal vi først gøre, ligesom før vi trækker Lambda fra i diagonalen?
+
+30:02
+Så tager jeg determinanten. Af den masse.
+
+30:07
+Det svarer jo til f minus Slam, da en determinanten af den dem vi kalder ku lambda.
+
+30:13
+Og så får vi et tredje vers med mod, og det var også det, vi ville forvente at få ud, fordi at den jo er en 3,3 matrix.
+
+30:23
+Det løser vi sammen med Solve, og så får vi tre rødder, og vi kan se det igen.
+
+30:28
+En situation hvor og hvor vi har en rod, der hedder tre, som har algebraisk multiple sitet ét.
+
+30:34
+Den står dermed, og så har vi en rod, der hedder minus 6, som er en britisk målbevidsthed.
+
+30:39
+2. Og da det gode med Mabel er, at den fortæller os det, vi har angivet minus 6 2 gange.
+
+30:45
+Hvis nu vi ikke troede på Mabel, kan vi skrive kommandoen faktor, og så kan vi se det med egne øjne, at den faktisk indgår to gange som rod.
+
+30:53
+Minus 6 er her står det her i Jan. Ja.
+
+30:57
+Så det var præcis det vi gjorde i hånden. Det var det med først at finde rødderne, så tager jeg hånden igen.
+
+31:03
+Samvær. Så skal jeg finde egenvægt, 2'erne.
+
+31:09
+Det gør jeg jo så ved nu. Nu kan man sige courgette matricen.
+
+31:12
+Prøv at se, den er defineret på en lidt sjov måde, fordi denne er jo defineret som denne K, som tager lambda sæde når i Effe den der står heroppe.
+
+31:21
+Minus Lambda ganget identity med et 3x3 altså enheds matricen med tre gange tre søjler, tror jeg.
+
+31:27
+Det er fordi så kan man bare skrive lang kort. Lambda bliver dette. Når man har egenværdi 1 milliard fundet til at være 3, så skal man bare kunne 3.
+
+31:35
+Så selv den 1.
+
+31:37
+Men jeg synes ikke det er noget man skal lave stort nummer ud af, for blyanter ville måske komme i pacet agtigt, så her er egenværdi 1 træ sat ind.
+
+31:45
+Så linje Solvej vi denne her fredelige ting,
+
+31:49
+og så får vi og kan vi se at og undskyld indrømmet til minus 6 og så kan vi se, at der bliver to frie variable.
+
+31:56
+Det vil sige, at den gjorde mindst muligt, bestiller to egne rum, er thulium.
+
+32:00
+Så må I selv sætte til et ud foran en parantes, så bliver til ét gang en vektor der hedder 1 minus 4 0 1 minus 4 0 og så får en anden vektor,
+
+32:11
+der hedder til 3 gange 0, er den minus 4, 1 0 minus 5 og de to vektorer, der står hér som guld.
+
+32:20
+De to vektorer står der. De udspænder så en langt eller 1 minus 6 rummet, altså egne.
+
+32:26
+Rummet hører ens egen ved de minus 6, og vi ser dimensionen af egne rum med A2, og det kan bare geometriske multipliceret, der passer sammen.
+
+32:35
+Så finder vi lige egne ord med hören til egenværdi 1 3. Og på samme måde så vi denne her finder matricen er.
+
+32:41
+Og så løser jeg det endimensionelle.
+
+32:44
+Det kan heller ikke være højere fordi at vi jo kun må Alkibiades muligvis ind, som de gjorde mest, kan højst være 1, og da den er i.
+
+32:50
+Har vi så fundet den og den har så der hedder minus 3 minus 1 1 Spandet.
+
+32:55
+Den er hele vejen rundt. Det er egentlig smalt. Når nu kommer, så få lær at finde egne ved de egne tog med stærke kommandoer.
+
+33:05
+Det kan gøres meget let her. Next. Vi skriver hvis man lige sætter enheder Ragnvald stand giver egen vurdering.
+
+33:12
+Den er lidt kedelig, bruger man faktisk aldrig. Det er meget sjældent i hvert fald, så man bruger i stedet for igen væk.
+
+33:17
+KTO's skriver matricen En afd på list.
+
+33:21
+Så må man jo vide. Første egenværdier er minus 6.
+
+33:25
+Den har algebraisk multiple sitet 2, og der er to egne V12'er til den som gjorde mindstemål bestilte også to.
+
+33:32
+Den anden er at få at vide, at vi har en egenvægt og egenværdi 3 algebraiske multiple set 1 og gjorde mindst muligt bestilt en stor egenvægten.
+
+33:39
+Så denne her linje giver os alt. Hele molevitten i ét hug. Og så kan vi skrive ned.
+
+33:44
+Så ja. Så jeg vil foreslå jer.
+
+33:47
+Øvrige er lidt i begge metoder, altså jer i hånden. Der kan altid votum kontrol, men jeg skal lige sige, hvor meget vægtet som vil forvirre jer.
+
+33:54
+Mange vil forvirre mig. Se når Mabel gør dette, så giver jeg jo to vektorer her.
+
+34:01
+De to vektorer udspænder egen rummet.
+
+34:04
+Men der findes uendeligt mange andre måder at udvælge to vektorer, der udspænder end et thulium selv underrum på.
+
+34:10
+Så at I har fået noget helt andet i håndtegninger er ikke ensbetydende med, at I har regnet forkert.
+
+34:14
+Det er meget nemmere at tjekke om den rigtige. Der skal bare en konstant gang i den give den væk, så jeg har fundet,
+
+34:19
+men et tog dem til et rum er der er mange måder at udvælge en basispoint, så man kan derfor kan godt få forskellige svar.
+
+34:26
+Og I vil få forskellige svar med godt jeg ikke forstyrrer. Tak for i dag kontakten.

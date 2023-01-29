@@ -1,0 +1,2099 @@
+0:01
+Godt er klar, sure middag er det store juletræ, og vi skal ligesom tallet løbe mere komplekse tal.
+
+0:14
+Det kommer til at handle om Paulino mere, og det har jeg så skrevet ned.
+
+0:22
+Så utryg. Kigger vi mere på komplekset på linier mere, og de ser billigt set af både reelle og komplekse funktioner.
+
+0:32
+Og det er det, vi kigger på.
+
+0:35
+Så vi kommer til at introducere nogle begreber, som er komplekse og reelle på linier med noget, jeg begyndte at skrive her op.
+
+0:44
+Og så kommer vi til den egentlige og væsentlige Bodil. Det er hvad det vil jeg se på en mews ligninger, så pr.
+
+0:52
+Sæt er lig med noget. Og vi ved at kigge på og forstå hvad er deres rødder?
+
+0:57
+Hvor mange? Hvordan ser de ud? Og til det formål kommer vi til at kigge på fundamentale sætningen og nedstigning sætningen,
+
+1:06
+der fortæller os mere om, som som giver os svar på de spørgsmål.
+
+1:13
+Og selvfølgelig skal vi også se på nogle eksempler, hvor vi udregner hovederne på linier med anden til fjerde orden.
+
+1:22
+I den anden side med den sidste del, kommer vi til at indføre nogle begreb omkring det stabilitet, som vi så vil kigge videre på her på fredag.
+
+1:36
+Så jeg vil bare lige lære nogle flere kommentarer.
+
+1:39
+Det er snart færdig med omregning og om en uge i stedet serie, og vi begynder at introducere software programmet.
+
+1:48
+Mabel er manden, og det skal være en fast bestanddel af forelæsninger.
+
+1:54
+Men glem nu endelig ikke indvejning. Alt det I lærer her i de første par uger, er enormt vigtigt, at vi kan det.
+
+2:03
+Det er der forskellige grunde til. Nummer ét er, at faktisk sætter vi meget pris på, at I kan det, og derfor er det også del af eksamen.
+
+2:16
+Så for en del af testen får ikke brug af nogen som helst midler.
+
+2:20
+Det foregår med papir og blyant, og derfor er det sikkert godt at holde fast i at kunne holde øjne og da også mange studerende.
+
+2:32
+Måske synes, det er smart at bruge metoder og skabeloner.
+
+2:37
+Men det fraråder vi stærkt, fordi eksamenerne bliver skrevet, som de skulle kunne vise, at de forstår teorien bag det og også udregninger.
+
+2:47
+Metoderne selvfølgelig og kan give svar for det.
+
+2:50
+Men vi har også selv at skabe mening som ingeniører, så jeg ikke bare er og bruger værktøjer for at finde ud af en løsning.
+
+2:59
+I skal også kunne forstå, hvordan man kommer frem,
+
+3:02
+så løsningen måske ladet opføre et eksempel med forestillinger i varen kork og blandede bare tilfældige ting,
+
+3:11
+fordi jeg ikke ved, hvad det er, og så servere det og forventer at skal smage godt.
+
+3:16
+Og så siger gæsterne Det gør det ikke at spørge Hvad har smidt den, og I siger Jamen, det var bedre og kommer med fyring.
+
+3:23
+Og jo, hvad ved jeg gylle. Jeg troede, det smagte godt, men det gjorde det jo så ikke, fordi kokken ikke vidste,
+
+3:30
+hvad det var for noget, der kom ind i den her sukke og ligeglad med ingeniører løsninger.
+
+3:37
+Man kan ikke bare smide noget ind i en maskine og dreje rundt og så håbe, det rigtige kommer ud.
+
+3:42
+Det er godt at kunne følge med der hvor.
+
+3:47
+Det er nok, er filosofien af denne art. Lad os komme i gang med Paulino mere.
+
+3:56
+Jeg vil først forklare, hvad linier om en lærer for noget af et komplekst paulino, så det er første dag, vi går i gang her.
+
+4:09
+Det er skrevet ned. Her er et komplekst bål i nogen grad, end det ser således ud.
+
+4:14
+Det er et udtryk play, som jeg kan opfatte som funktion af sets, og da Gedved A en gang er set rejst hjem.
+
+4:22
+Plus minus en selv i en mine C++ plus og så videre en svag ender i første og 03 åbent møde her.
+
+4:33
+Og det skal så forstås på den måde.
+
+4:35
+Er det i det her tilfælde, så må og argumentet her selvfølgelig være komplekst, og det må de adskillige koefficienter også være.
+
+4:44
+Så det er komplekse tal. Man kan så tænke over, hvad er det for noget?
+
+4:51
+Hvis vi nu opfatter det her på linier som en slags funktion, så er det jo sådan,
+
+4:58
+at vi kan skrive, at den funktion p den afbilder, er komplekst tal og giver os komplekse tal.
+
+5:08
+Eller man kan skrive det her møde og denne her smartere måde.
+
+5:15
+Vi tager et komplekst sæt, smider da denne her form, og vi får også komplekst sølv og neuro i og for sig ikke noget vi er vant til.
+
+5:25
+Vi plejede at have at gøre med reelle funktioner, hvor der var en regel funktionens værdi.
+
+5:30
+Og så kunne man tegne en graf fan, hvis man floppet x mod f.
+
+5:36
+A. Eks. Her har vi så at udvide eksamens metoder noget komplekst.
+
+5:44
+Så kan vi måske godt have at gøre med, hvad vi siger. For så man tal plan her med X og Y.
+
+5:54
+Men det der kommer ud, er også komplekst sejlplan. Det har to dimensioner.
+
+5:59
+Men jeg kan ikke tegne fire dimensionale plaffer, og det tror jeg heller ikke, nogen af jer kan.
+
+6:06
+Men det du kan gøre det ved at følge, hvad du tager p.
+
+6:12
+Z, lime ekspres i Y og plotter og absolutte værdier.
+
+6:18
+Det er noget, man kan noget andet man kan. Det ville selvfølgelig være at se på argumentet.
+
+6:28
+Så det er det, vi ser på. For.
+
+6:35
+To begreber jeg lige vil få møde i vores bagage, hvor der reelt på linier med det jeg så det tilfælde hvor koefficienterne a m altså i de er reelle.
+
+6:54
+Det gælder selvfølgelig for alle.
+
+6:55
+Er du så fra 0 til 1 for et reelt på linier med i en reel variabel levetid og så at vi indskrænker set til at være reelt?
+
+7:11
+For det er det her tilfælde, og det er det, vi kender helt fra gymnasiet.
+
+7:26
+For ikke fordi det skal være specielt indviklet, det er bare tre forskellige begreber at holde styr på,
+
+7:32
+så vi ved, hvad de snakker om i ris og i resten af dagen.
+
+7:35
+Her får læserne. Så hvorfor er det da vi kigger og er så ophidsede over Paulino?
+
+7:43
+Det er måske ikke nu, men jeg håber I bliver på et tidspunkt i hvert fald.
+
+7:50
+Det er jo sådan, at hele den ballade vi startede med, kom slet ikke.
+
+7:56
+Så salen gik jeg ud fra, at der var nogle paulino mere, for hvilket vi ikke kunne finde rødderne.
+
+8:03
+Men jeg husker måske, det var dagen, hvor der hed sædelige en af mine sag.
+
+8:12
+Så kunne vi jo ikke løse de reelle tal. Men nu kan vi ved, hvad det var.
+
+8:18
+Sæt lige med I for. I anden halvleg må minus 1, for der er faktisk to løsninger.
+
+8:26
+Her skal jeg have sådan her og skydes så højt, så det er sammenhæng, og det,
+
+8:35
+vi ser i dag, er jo, at vi vil kigge på mere almene paulino med vores ligninger.
+
+8:43
+Det vil jeg sige ved polynomier og sætter det lige med lidt.
+
+8:47
+Og vi vil løse det for sent. Så kan man selvfølgelig spørge Hvorfor er det noget vigtigt at kunne?
+
+8:55
+Ja. Det ene er hvis vi har diverse problemstillinger.
+
+9:03
+Det skal være en seng og I udregner noget. Så får jeg set et algebraisk udtryk.
+
+9:11
+Det vil sige på nogen, der ser sådan ud, med mindre der om flere indviklede funktioner som sinus og cosinus.
+
+9:17
+Men hvis vi bare gøre sådan noget for, får I det og tit skærmen.
+
+9:21
+Her der lige noget andet. Så får et polynomium er lig med andet, og det kan vi opløse og fremstille til at få nøjagtigt den her form.
+
+9:32
+HPR set er lig med nul, og det kommer igen og igen og igen.
+
+9:39
+I dette semester kommer vi til at tale om det, når vi snakker om matricer og lineære ligning.
+
+9:47
+Systemer, der vil være på linje med, at vi skal løse.
+
+9:52
+Og det kommer også til sidste forlængelse, når vi skal løse differentialligninger i flere dimensioner.
+
+10:02
+Bortset fra det sørger Paulino mere også en smart måde.
+
+10:07
+Hvis vi ser bort fra ligninger, så på et endnu mere smart måde og afprøvede mere den reelle funktion.
+
+10:14
+Det er det, vi kommer til at tale om i næste uge. Hvad taler ser for dette store billede?
+
+10:28
+Så hvad er det vi vil gøre her? Vi vil først sige noget om på rødderne af Paulino mellem signinger, og der har vi et meget,
+
+10:41
+meget vigtigt resultat, og det hedder fundamental sætningen i algebra.
+
+10:56
+Og. Og det siger at ethvert polynomium.
+
+11:15
+Og det er komplekst og har mindst altså af grad.
+
+11:23
+Vi skal også sige, at det her svar er en side større eller lige end en af os.
+
+11:33
+Det var graden på det enorme her. Det er givet, at den her eksponent sat i end er den højeste eksponent og denne her koefficient, der hører til.
+
+11:46
+Det er det man tid og skader for den ledende koefficient.
+
+11:58
+Så vi kigger på at Paulino mindre grad end det har mindst ét råd, og den råd den er, vil vi tit kalde for sølle 0.
+
+12:18
+Og det kan være komplekse tal. Det behøver det ikke at være.
+
+12:24
+Og det er det. Sætningen siger den vil vi ikke beviser det, vi sagde for længe.
+
+12:30
+Men I kan jo se, at det måske er en meget stærk stat, men at lave på de reelle tal og så kigget på regler på de numre, en regel variabel.
+
+12:44
+Hvor var der ikke altid den mulighed for, at der altid er råd.
+
+12:48
+Men når det komplekse tal altid. Og det kan jeg så også se på et eksempel.
+
+13:03
+Så nu tager det. Jeg vil lige illustrere det, jeg har sagt, og så at anden morgens polynomium.
+
+13:12
+Så har vi den her ligning fra tilhører. Så ved vi, at Løsnings former.
+
+13:19
+Den serier så nu ud af sagen, for man tog en DVD med to af mændenes B.
+
+13:26
+Og nu vil jeg skrive det lidt anderledes, end jeg plejer at gøre.
+
+13:33
+Jeg skriver ved her w på hvert det W er.
+
+13:38
+Det er givet med den her enorme ligning.
+
+13:46
+Og det er jo det der hedder. Det skal min anden. Og det tal det udgør jo hvor mange løsninger vi har for på på de reelle tal i vores gamle verden.
+
+14:11
+Så skulle vi bare trække roden af det her tal. Og hvis det diskrimination var positiv, så kunne vi gøre det.
+
+14:19
+Og ellers var det et problem med nu. Men det komplekse tal har vi så altså muligheden for at finde frem til med råd for de her løsninger.
+
+14:30
+Det vil sige, at den her enorme ligning, som vi så på i sidste uge.
+
+14:36
+For det er jo det, det handler. Og det jeg mener er hvis det tal er negativt, så får vi altså ikke reelle råd.
+
+14:49
+Og så må vi opfatte den her ligeløn som en enorm ligning i det hele taget.
+
+14:58
+Og det er det, vi har lært at løse. Det kommer vi til at se på lidt senere end af de mere detaljer.
+
+15:10
+Så de her batterierne får spørgsmål her til. Ikke lige nu.
+
+15:17
+De kommer måske hen ad vejen. Så vil jeg kigge på det meget vigtige spørgsmål.
+
+15:24
+Her kan vi måske frigive den her tavle, så jeg kan begynde at bruge mindre tavle mere.
+
+15:36
+Det spurgte han. Og da vi vil se på, er altså.
+
+15:49
+Råder man vil sige løsninger.
+
+15:58
+Selv på Leino med smilende piger set er lig med nul.
+
+16:04
+Det vi vil vide er nummer et. Hvor mange rødder er mig?
+
+16:13
+Det er nok det første spørgsmål, vi skal få svar på på mødet.
+
+16:17
+Når vi ved, hvor mange rødder der er, så behøver vi ikke at udregne flere og flere, hvis de ikke findes.
+
+16:24
+Så kan jeg vel heller ikke udregne og så nummer to, hvor der er en sikker ligeud.
+
+16:38
+For vi starter med nummer ét, og så er nummer ét for mange.
+
+16:52
+Og der har vi så her et resultat, der hedder nedstigning sætningen og hvad med at støve hæren op?
+
+17:15
+Og det vil her, for som S. S når det kommer.
+
+17:21
+Så er det I kommer til at snakke om. Det er jo, at nu har vi fundamentalt set.
+
+17:27
+Den fortæller, at der er mindst én råd, og nu vil vi se på, om der kan være flere rødder, for det, der har givet os det, er at ændre grads polynomium.
+
+17:45
+Og det ser sådan her ud som sædvanligt.
+
+17:51
+Da 1. Sæt i 1. Plus et 6 plus 0.
+
+17:57
+Og det må godt være et komplekst polynomium. Det er det, vi alle ser på i dag, medmindre jeg siger noget anderledes, for sætningen siger 17 0 i sæt.
+
+18:13
+J. P. Sæt hvis og kun hvis.
+
+18:27
+P kan faktorer som har sin base P Factory.
+
+18:38
+Se også. Hvad hedder det altså denne her farce, hvis og kun hvis det betyder, at du kan gå den ene vej,
+
+18:57
+men også den anden, så skal vi fortælle, hvad vi mener med faktor i serien.
+
+19:06
+Det har så en seng ved, siger her, og fakturering faktor i serien betyder, at vi må skrive, at det er set er Z minus Z 0.
+
+19:25
+Der er noget andet på et år, som jeg vil kalde Q.
+
+19:37
+Så mange at være cool er. Og.
+
+20:01
+Så det er det vi mener med en faktor i serien, så vi kan tage det her polynomium.
+
+20:06
+Og hvis vi finder en eller anden råd, der hedder 5 0, så må vi skrive det på det nummer.
+
+20:12
+Så produktet er den fra SE, der vil sige noget godt.
+
+20:16
+Så jeg vil sige sætter selv nogle af jer. Så går det ud mod nul.
+
+20:20
+Så er det også med råd. For så kommer denne her rest Foligno med om Q.
+
+20:27
+Og det er så givet ved at ændre en minus første grads Foligno med.
+
+20:32
+Så vi startede med et endt grads polynomium, og vi får aktualiseret en måneds første grads polynomium ud.
+
+20:47
+Vi mangler så at fortælle hvad er de adskellige koefficienter her for at kunne udføre den faktor i serien?
+
+20:56
+Og det er der også en opskrift for. Det kan være, jeg lige kan skrive det.
+
+21:07
+5. Så b. N minus et flere lige med det end så den ledende koefficient af det oprindelige bundniveau.
+
+21:20
+Og så kommer alle andre koefficienter for at vælge.
+
+21:26
+Vi har en lidt anden opskrift denne året før.
+
+21:33
+A og b K, der hedder a K plus 1 plus CL 0, der havde med BK +1 og DK så hele vejen ned, så man er nået herned til den sidste koefficient,
+
+21:54
+for den her regel gælder for K lig med 0 til end minus to, fordi for minus 40, så havde vi jo den her specielle opskrift her.
+
+22:16
+Det er måske stadigvæk lidt langhåret, så lad os så se på det eksempel og se om det duer og sådan noget.
+
+22:28
+Har du nogle spørgsmål til denne opstilling? Ja, jeg siger, vi har den fjerde part.
+
+22:36
+Ja, aktualisere? Ja, det må op i to.
+
+22:43
+Det kan man også. Så kommer vi til at se på om lidt.
+
+22:48
+Det vi gør her, er vi mænd, siger afspejler spalter.
+
+22:51
+Første grad spolere normen, som du har set.
+
+22:55
+Og du spørger, så kan det også være, at anden grad sproglige normer for vil være tilfælde, hvor det er sådan.
+
+23:01
+Men det er ikke det nedstigning. Sætning siger Den siger noget om det her.
+
+23:05
+Og det kan man så bruge igen og igen og igen. Det er så det, vi ser efter det eksempel igennem.
+
+23:10
+Og så får du svar på det. Så sort ser frem til.
+
+23:15
+Ja, netop godt spørgsmål. Der er også noget værre.
+
+23:19
+Jeg løber fra mig selv nu. Hvordan går det, før du er K?
+
+23:24
+Det er denne her indeks i Q K lige med 0 1, 2, 3 4 op til minus 1.
+
+23:33
+Det var det, jeg skrev her. Det skal du jo bruge, så den her form for koefficienterne.
+
+23:40
+Jeg tror, at det blev klart, at hvis vi kan gå og gemme det eksempel, det gør nøjagtig det her.
+
+23:46
+Hvad hedder det på linier? Mere om og derved. Så sæt et tredje minus tre sæt i anden plus nedsat plus 13.
+
+23:59
+Så hvad ordene er ved. Ja, træder nemlig det også.
+
+24:09
+Og der er nogen der kommer og fortæller os, at Z 0 lige med minus 10 er der her er råd til P er set er nehmen nul.
+
+24:25
+Det er måske et gæt. Man kan jo godt sætte et ind og minusser.
+
+24:29
+Det er ikke så svært at udregne nogle gang. Jeg kan da ikke når.
+
+24:34
+Men hvis det er set rigtigt, så gør vi så bruge i sætningen.
+
+24:40
+Hvordan siger så, at P er Z?
+
+24:46
+Det er lige med den France's, der er noget der hedder Q.
+
+24:53
+Et er Z. Og hvad skal der stå her i Parken?
+
+25:01
+Hvad? Jeg en af jer eller begge mine ting.
+
+25:10
+Minus minus en hjemmel. Det her er råderum og skriver alle får set lige nu selv målet os.
+
+25:26
+Så er det så bare, og her er svaret et.
+
+25:34
+Og det er det, der bliver tilbage. Det må være grad tog for det på højre side af venstre side.
+
+25:42
+Det ved jeg grad træ, og det er så også derfor, det hedder nedstigning selv.
+
+25:48
+Ingen stiger mod fra tre til to og så videre.
+
+25:56
+Så kragerne næste spørgsmål være koefficienterne er tallet endnu et.
+
+26:02
+Der har vi altså den regel. Hedder. Lad os lige få talte varer, så graden af den endelige mad, tøj og vores opskrift fortæller os herover,
+
+26:19
+at vi skal have fat i den ene minuts første FSN, og så er alle dem bare lavere.
+
+26:28
+Hvis så Gedved den ledende koefficient er P. Er her, forstår egentlig en gange, så det må være b to dejlige med a tre lige må ind og så kommer b et.
+
+26:44
+Så bliver vores opskrift lidt mere indviklet for skæres. Stå af to plus selv 0 ganget med to a to.
+
+26:57
+Hvad er det? Står et minus tre herrer og sæt 0.
+
+27:04
+Det var minus 1 gang mod B to og så været ved lige.
+
+27:10
+Udregner flyver ind, som jeg skriver det her.
+
+27:14
+Og det må være minus fire. Så mangler vi lige den sidste.
+
+27:20
+Den hedder Bay Nul, og gør vi det samme bare med en dags mindre.
+
+27:28
+Det vil sige et plus selv 00 gange b et.
+
+27:35
+Hvad A s er 9. Hør Plus selv 0 er minus 1 og B.
+
+27:43
+S den farve den er. Minus 4 så der må stå plus minus en jakke.
+
+27:50
+Minus 4 plus fire, så det bliver 13.
+
+28:00
+Så det er måske indgå et sted i det at starte med at skrive koefficienterne ned og få det oprindelige polynomium,
+
+28:08
+der skulle have gjort det, var altså alt fri. 1 2 var minus 3 1.
+
+28:17
+Det er ni for af med 11 mål.
+
+28:21
+Men jeg skriver den alligevel ned her, som er resultatet her.
+
+28:27
+Altså dér. Det skriver bare noget. For måske går skidt, og jeg sidder og skal veje noget.
+
+28:32
+Er det lige at skrive det ned, fordi man må stå lidt længere på linier?
+
+28:35
+Men kan man godt lige blive forvirret og tage fejl af en frygtelig centret?
+
+28:40
+Så ja, jeg stod for en til to eller noget. Så hvad er konklusionen?
+
+28:48
+Det er at kue A-Z. Den hedder så B to gange set i andet sæt.
+
+28:56
+I anden plus spil et gang og sæt.
+
+29:00
+Det var minus fire lange sæt og så plus spil 0 til bleer.
+
+29:07
+13. Så det er faktisk sandt hvad jeg sagde, da her er gravet to, så kan vi også se her.
+
+29:46
+Og det er så netop derfor det hedder noget stillingsændring. Det har jeg allerede fortalt jer, så det er jo fint.
+
+29:57
+Så det vil jeg sige, at her må jeg sammenfattende skrive, at det er 6 minus minus 1 ganget med det her polynomium.
+
+30:15
+Hvad ved vi om det her polynomium, der hedder kl.
+
+30:23
+Ja, det kan man godt. Det er rigtigt. Og hvis vi tænker på en af de to sætninger, vi har snakket om måske fundamentale saltningen.
+
+30:36
+Så kan jeg også sige noget. Ja, jeg har en god den har en råhed nemlig, og væsken har råd.
+
+30:43
+Så kan vi jo bruge noget stigning sætningen en gang til. Det vil sige, vi kan skrive denne her om et produkt af to første grads polynomier.
+
+30:59
+Så. For mens Don Ø råd.
+
+31:23
+Og til sidst. Ja, det gør jeg så måske på, skal vi ud og det her?
+
+31:30
+Det tror jeg ikke, vi gør. Men så kan jeg sige at fået hjælp af nedstigningen sætningen, så kan vi, så skal jeg jo, at Q.
+
+31:41
+Et er z. Det må være et produkt af den råd, og det der til bliver tilbage, er jo så første grads polynomium.
+
+31:57
+Og længere kan vi slet ikke gå rundt.
+
+32:09
+Så er konklusionen her er den endelige konklusion Det må være, at P.
+
+32:17
+Kan skrives som et produkt der hedder sæt minus minus A s, flanger z minus Z A Grand Z minus Z.
+
+32:34
+Så det er det, vi kan gøre med vidensdeling. Se med det skal vi selvfølgelig tænke over det i lidt mere almenhed.
+
+32:41
+Hele verden består af, tredjegrads på med, men af noget, der er større, og det vil jeg så gøre her.
+
+32:54
+Måske er det på tide, vi kører herover møder.
+
+33:19
+Og det kan vi gøre her. Så kan jeg se det hele ved siden af hende.
+
+33:31
+Hvordan ser det almindelig ud? Det er. Det vil sige at geder er øget integral spurgte nogle med.
+
+34:02
+Jeg skriver bare P og Z, og det er sådan at mænd skriver P er set, og jeg ved at det er et komplekst på det enorme, så fundamentalt set.
+
+34:19
+Ingen der siger, har mindst én råd og også nedstigning.
+
+34:24
+Sætning Så får jeg, at jeg må skrive per sæt som dette produkt af en første ordens polynomium garnet med en minus 40.
+
+34:39
+Det er så godt skrive det.
+
+34:46
+Det. Grad end minus en.
+
+34:53
+Og så kan vi selvfølgelig gøre det en gang til. Det har man råd, og jeg må bruge noget stigning selv.
+
+35:11
+Det har så gravet endelig News tog, og det kører så videre.
+
+35:19
+Så jeg har fået pillet aller rød og ud, og så ender jeg med et produkt, der ser sådan her ud.
+
+35:35
+Hvor er en?
+
+35:42
+Så det må være. Sæt et minus i. Jamen, skal jeg lige passe på?
+
+35:51
+Kan det være helt rigtigt? Jeg har skrevet noget der sidste. Hvis vi sammenligner med vores generelle form for polynomium af grad, mangler der noget.
+
+36:10
+Marcelo kunne selv nøjes med.
+
+36:17
+Der mangler vel noget lige her. Måske en konstant der mangler den.
+
+36:23
+Der mangler en koefficient. Hvilken én? Ja, hvad end den ledende koefficient, så nu kan man jo godt se, hvorfor den hedder lederne.
+
+36:38
+Det er den allervigtigste på den måde. Hvorfor mangler den først og fremmest?
+
+36:44
+Hvis jeg ganger det her ud, så vil jeg få den højeste portalen Sveriges første gang.
+
+36:51
+Første element og så videre. Så er det set i 1.
+
+36:56
+Det har jeg og stiller op. Men der er den glødende koefficient på, og den hedder altså A 1 og den indledende koefficient, så den mangler her.
+
+37:05
+Altså, nu mangler den ikke længere, men det gjorde før.
+
+37:14
+Og det er så på den måde det her virker som jeg vil sige at ethvert komplekst polynomium kan i princippet skrives op af sådan et produkt.
+
+37:31
+Det vi har herinde, det er sæderne er vores variabel eller argument, og at de her seiten undlader at sætte ind,
+
+37:42
+så alle koefficienter, som er faste, og det er netop den, der definerer hvad er vores brød eller rød?
+
+38:00
+Spørgsmål her. Ja, det er vores sidste form.
+
+38:07
+Ja, det er de andre. December, hvor bliver de dog af, men gået væk.
+
+38:18
+Det er jo et godt spørgsmål. Se hvor vi er kommet hertil.
+
+38:23
+Så har KU et koefficienter. Hvor mange hjerter?
+
+38:31
+Ind i en mindre per havde den plus en kryptisk scene for af en 3 0, da et plus i q høje.
+
+38:40
+Men nej hvor n det kan vi se på denne opskrift. Min egen.
+
+38:47
+Så gør jeg det en gang til. For har den en minus, to koefficienter og den næste end minus tre og på det tidspunkt er nået i bunden.
+
+38:56
+Og så er alle gået væk. Den. Altså bortset fra den måde man kunne det selv.
+
+39:07
+Og det er så derfor nu kan vi forstå igen. Hvorfor er den glæde mig?
+
+39:11
+Er det den, der bliver tæpper over her? Det er bare i den forstand det vigtigste.
+
+39:19
+Gør op.
+
+39:20
+Jamen, når jeg forstod det, så er det ligesom, at vi er nået så langt, at vi forstår noget meget, meget vigtigt, og det er ligesom hovedbudskabet.
+
+39:33
+Jamen, hvis vi har komplex på linier med europæere sæt, så må det have en forskel end råder.
+
+39:42
+Og det er så mange for jer, og det er det spørgsmål, vi starter ude med, hvor mange der.
+
+39:47
+Der er en, og der kan vi faktisk sammenfatte.
+
+39:53
+Det er det, man kalder, for det er så svaret på det spørgsmål.
+
+40:00
+Hvor mange år? Det er så fundamentalt.
+
+40:05
+Sætningen version 2. Jeg skriver det her, fordi der simpelthen er dage.
+
+40:13
+Vi startede 0. For dem der er med ved Matzka Dybbøl, ser jeg tit serberne også, at man har huller,
+
+40:27
+fordi det er en sætning, der følger fra den oprindelige sætning og i ensbetydende med at være utro.
+
+40:36
+Far frasiger sig et komplekst kort.
+
+40:46
+Når skriver Peter Z. Har en dårlig spøg.
+
+40:56
+Det er vores gode resultat. Det er jo godt at vide, der er inden, for så kan vi stoppe, når vi er nået frem til nummer 1 og 1A.
+
+41:05
+Graden af polynomiet. Og det er så det.
+
+41:10
+Vi skal forstå, at bedre for dagen ser de røde. Hvor overhovedet ud?
+
+41:30
+Som jeg holder fast på det her. Det er ligesom den bedre version af fundamentale sætninger.
+
+41:35
+Og så må vi godt ved, at det her ud og kigge på hele den her historie.
+
+41:45
+Lidt flere detaljer. Så hvad er egentlig der foregår der?
+
+42:39
+Det er jo egentlig superstærk, vi startede med at skue, introducerede komplekse tal og føles den.
+
+42:46
+Det er et fjollet living, ikke, siger Ane lige med minus én.
+
+42:50
+Og nu er vi nået frem til, at vi faktisk kan løse Paulino med stigninger på de komplekse sale komplet.
+
+42:59
+Det vil sige ved en ro, at der er så mange, der er. Det har vi aldrig kunnet før.
+
+43:04
+Og der er ingen tilfælde, men i princippet i hvert fald ikke kan løse, så det derfor er et stærkt resultat.
+
+43:15
+Men lad os se på, hvordan de rydder ud. Det kunne jeg godt tænke sig at Ullerød og ens.
+
+43:37
+Det er den første bemærkninger. Ja, hvad vil det sige?
+
+43:56
+Hvis der er nogen af ens hjem. Vi ved, at vi kan skrive vores polynomium som produkt.
+
+44:06
+Hvordan var det nu vi kunne skrive? P er set?
+
+44:12
+Det ville vel se sådan her ud og set en.
+
+44:22
+Starten fejres med nogle steder som være. Så hvis der toner.
+
+44:39
+Så må jeg jo kunne skrive det her om, hvis CPR set stikker ud nu.
+
+44:45
+Så jeg her ud. I anden udestår den råd, der dukker to gange op og så videre.
+
+44:57
+Det vil jeg nu generalisere og sige. Dreje maden er eksponent hér.
+
+45:01
+Den hedder M. Et så må du måske også kaldet for sat ind her.
+
+45:10
+Og så kommer den næste eller en måneds tid vel? Så svarer det til den her form et.
+
+45:19
+Og så videre til jeg er nået. Du skal selvfølgelig have set en minus ind her.
+
+45:25
+Det var helt forkert. Jeg er kun Android og ikke indføres en råder.
+
+45:34
+Så se vores faktor i serien af polynomiet.
+
+45:39
+Måske Solrød. Og det vi mener er at de forskellige områder.
+
+45:47
+De er også forskelligt. Skal vi måske sige.
+
+45:54
+Og desuden røre produktet herover. Giv os et integralet på linier.
+
+46:01
+Og det vil sige, at summen af alle de her eksponenter snorkle i en.
+
+46:16
+Varley indfører et vigtigt begreb. Det er at de her eksperimenter er malet for delelige med nåle til folket.
+
+46:31
+Det er selvfølgelig lidt mærkeligt. Hver gang dukkede en fejl.
+
+46:38
+Heroppe kan jeg se, hvad jeg. Jeg går fra 0 3 1 minus 1.
+
+46:47
+Dette ændrer grad på de normer, men jeg sagde lige, at der ville være flere røde,
+
+46:51
+og der dukker flere ganger op, så derfor kan der ikke være en produkter.
+
+46:57
+Ja, det kan der måske være, hvis flere råd dukker ikke ganger op.
+
+47:00
+Det vil sige eksponenter med 1 1, men alment så vil jeg gerne skrive det her.
+
+47:09
+Så går det hele fra 0 til K.
+
+47:15
+Så har jeg altså K plus en råder, og det her skal stadigvæk være sandt med alle de her koefficient på eksponenter for og tæt på og bag er vi færdige.
+
+47:39
+Det. Den er eksponent siger den fortæller os hvor mange gange dukker den samme rod op?
+
+47:46
+Det er derfor vi kalder den for den algebraiske politibil sitet.
+
+47:59
+Og det er så af rådene set på.
+
+48:11
+Det er meget vigtigt begreb skal I se og få møde, når vi snakker om matricer og lineær algebra?
+
+48:20
+Om et par uger. Så det vil sige, at hvis for eksempel to at lege med tog her eller Mate Limassol, så dukker den råd to gange op og er der oploadet.
+
+48:39
+Så vil vi gå lidt videre for at forstå noget om den slags linier mere vi også havde snakket om.
+
+48:53
+Men hvis vi går ikke tilbage til starten af vores forelæggelse for kicket,
+
+48:57
+ved vi komplekset på linier mere med grad end vi fandt frem til den endelige version af vores fundamentale sætning, at nemlig sådan et har en rødder.
+
+49:08
+Og nu vil vi gerne se på, at specielt på den anordning er det reelle paulino med, om det vil sige dér, hvor alle de koefficienter er reelle tal.
+
+49:19
+Hvorfor? Det er simpelt hen fordi de har specielle videnskaber i så reelle polynomier.
+
+49:33
+6. For ja, pænt og sæt, det vil sige vi har fået der ser sådan ud.
+
+49:51
+Og det er altså som at alle de koefficienter er regler, men set må godt være komplekst og er fundamentalt set inden den gælder.
+
+50:06
+Stadigvæk er der regler på de normer, der kommer af komplekse løsninger.
+
+50:13
+Så det vil sige, at det har en rød. Og det er jo fint.
+
+50:26
+Men måske er der noget andet, vi kan sige om dagen. Der skriver lige Det er noget der er en rod, og lad os sige.
+
+50:44
+Vi ser på følgende situation. Der findes eller der er sige vi kender råd.
+
+50:55
+Skib hedder Z 0, og det betyder at P er reguleret i Z.
+
+51:04
+Nul. Er lig med nul. Det er definitionen på en rød. Men hvis vi kigger på denne her lige nu, så kunne vi jo bare prøve at komplex korn.
+
+51:17
+Den her ligning får venstre og højre side på venstre side.
+
+51:21
+Det reelle tal er nul for, skriver Strain herover.
+
+51:27
+Så kan vi skrive alt det her ud af en sætning, der har bastant sjov.
+
+51:40
+Må jeg godt trække stregen ud? Koordinering fordi individuelle er så muntre.
+
+51:48
+Men nu sker der noget a m. Det er jo reelle tal komplekst.
+
+51:54
+Konjugerede er det bare a m garnet det her produkt, sagde de.
+
+52:02
+Jamen, hvordan er det nu med kun gæring og produkter?
+
+52:13
+Sæt gange sæt i anden konjugerede. Hvad er det? Jeg tager imod alle bud, men ja.
+
+52:31
+Du siger at passer os selv. Vi er en konjugerede er lige med.
+
+52:39
+Sagde en anden. Det kunne måske være sandt, hvis det var det reelle tal bizarre om.
+
+52:51
+C Real. Han ser jo andre bud. Ja, så minusser de ende.
+
+53:02
+Ork ja. Nej, det tror jeg ikke.
+
+53:09
+Der er lige den anden idé bagved dig. Ja. Sælgerne konfiskerede det samme som sendte Konjugerede hjem med gaver, have sat gang af hånden funderet.
+
+53:24
+Og for at sætte konjugerede gange sendte kunder billigere.
+
+53:31
+Er det noget vi kan genkende? Det jeg håber er bevægelig, noget jeg har gjort her med af engang at sætte jer ind.
+
+53:42
+Jeg skrev det her, men jeg sagde så direkte, at det er et reelt tal.
+
+53:46
+Så jeg kan godt komme ud og slæbe med kun regerings. Justeres han, så må det også gælde at det er en gange sat.
+
+53:58
+Kompleks fungerer i en. Fordi jeg bare skriver satiren her, og så må jeg blive nødt til at køre videre her.
+
+54:12
+Så er jeg nået til en produkter, og det er så det her.
+
+54:23
+Flere vi får det færdigt. Ja, dag kan jeg lige skrive det her over, fordi jeg gerne vil få den her opstilling færdig på den samme tavle det her.
+
+55:05
+Det svarer til at få linier, men det er ganske klart.
+
+55:10
+Det har samme struktur som det her. Men det er evalueret i set kun markeret.
+
+55:22
+Men hvis den leger går hele vejen igennem, så må det jo også være nul, og derfor må Z konjugerede også være en løsning til vores paulino med.
+
+55:42
+Det hed Sæt 0 over jeg startede her. Det må I undskylde.
+
+55:48
+Det var jo polynomiet ude devalueret i den her råd.
+
+55:54
+Og det betyder så, at selv nogle kun gider og også er en rod.
+
+56:01
+Og det er det, vi vil finde frem til. Det vil lige opsamler det her.
+
+56:17
+Og så holder vi pause lige om lidt. Det var her, vi gerne skal huske.
+
+56:42
+Der gælder flere ting. Det første har vi lige fundet frem selv.
+
+56:57
+Så jeg skriver hvis P er tredjeældste polynomium. Det var altså det tilfælde, hvor koefficienterne er reelle.
+
+57:08
+Der har vi der først. Det er hvis P er z 0.
+
+57:15
+Er med råd. Jamen, så ved vi også at p af selv 0 konvergerer Børnerådet og det går som følge af begge veje.
+
+57:30
+Så skriv er det lige hvis selv nåleøjet selv nåede kun og også råd.
+
+57:43
+Sealand venner matematisk og mindre eksakt måde at sige det på.
+
+57:48
+Men måske nemmere at huske, så er der en anden ting, man kan finde frem til.
+
+57:56
+Nogle kigger på Doyle Paulino Mio. Og det har den grad og den grad.
+
+58:09
+Den er ikke to eller fire. Det er noget ulige som tre eller fem.
+
+58:18
+Så kan vi sige at der findes banearealet råd.
+
+58:33
+Når. Ja, det er vel at mærke.
+
+58:38
+Hvordan fandt han frem til det? Nå ja, det kan vi prøve at forstå.
+
+58:48
+Hvis vi kigger på et polynomium en grad.
+
+58:56
+Vi kan argumentere, at hvis graden af ulige eller Veltz, lad os starte med en lige grad fire for eksempel,
+
+59:09
+så er der plads til to gange to komplekst konjugerede rødder.
+
+59:16
+Altså sæt 0 og Z. Noget større eksempel.
+
+59:20
+Her. Det var det første to komplekse komplekst par, og der er plads til et andet.
+
+59:49
+Det er her vi skal have stregerne. Så vil skaren af firlinger så være plads til en ekstra og alle råd her.
+
+1:00:00
+Men hvis vi har hvert femte år, så må vi have et mere møde, og der skriver jeg et tog, hvor eks tog er reelle selv.
+
+1:00:17
+Fra vest varsel om at alle gør og har to.
+
+1:00:22
+Altså vi ved, at der reelt på linier med om det har komplex. Hvis vi har råd, så findes der også den kompleks konjugerede.
+
+1:00:29
+Det er der ligesom ikke plads til her, for så må vi lægge et tal her.
+
+1:00:35
+Og det kan vi ikke. Så derfor må det være en regel råd her.
+
+1:00:45
+Til allersidst kan flere sæt skrives som et produkt, og det ved vi ved hjælp af nedstigning sætningen og af hvad er produkt af første ordens,
+
+1:01:11
+når første grads og eller polynomier og andenrangs komplekser?
+
+1:01:29
+Hvordan ser det så ud? Vi har den ledende quaife sans, der er lavet, så sæt os selv ind her.
+
+1:01:39
+Ganger man op og sæt to, så kan det gå videre her, og det er de første år.
+
+1:01:48
+Dens første grads reelle paulino er alle forskelle og rødder.
+
+1:01:52
+Her dukker Quorning gang op, og så har vi her en.
+
+1:02:00
+Noget der må se sådan her ud. Hvor er det komplekst konjugerede råder.
+
+1:02:14
+Det giver en anden grad end det der sker.
+
+1:02:21
+Og det er faktisk ideen, at det også er et reelt paulino.
+
+1:02:27
+Men der kommer jo lige selv. Og så kan det være det går videre og sådan er.
+
+1:02:47
+Der vil vi se på det, og så er vi færdige og holdt os lige om lidt.
+
+1:02:55
+Det her er første ordens og på polynomier.
+
+1:03:10
+Og det her og så videre og det her.
+
+1:03:16
+Det er anden ordens øgle på det enorme.
+
+1:03:27
+Hvordan kan dette være reelt hedder på Foligno mod måtte ikke sådan at det her set koger de enorme komplekse tal.
+
+1:03:37
+Det skal vi lige se set på. Så vi så netop et af det her udtryk.
+
+1:03:51
+Det kan vi udregnes til at sætte et andet minus sæt.
+
+1:03:59
+Kog gerne sæt og minus, sæt konjugerede gang og sæt, og så siges det, at det er klogest K gange 6 K.
+
+1:04:15
+Så kan vi lige omforme den del. Her har vi en fælles faktor, og så hedder det.
+
+1:04:34
+Så er der sat gang af sædekorn, og det giver os absolut værdi i anden.
+
+1:04:40
+Og her finder vi denne her faktor ud af det her Durrells polynomium af anden grad.
+
+1:04:51
+Jeg hører at et ja skal være en afstemning.
+
+1:04:55
+Ja, nej. Er der nogen der synes det er det ikke?
+
+1:05:00
+Måske. Du er ikke helt overbevist, så lad os se på det.
+
+1:05:09
+Er det o.k. Med denne her? Denne læk?
+
+1:05:13
+Det har vi sådan set. Det skal vi se på den her.
+
+1:05:23
+Z K plus Z K kun G og måske er sat går som i rektangulære form.
+
+1:05:34
+Hvad jeg pludselig i B. Hvad nu kan du se et minus i b stænger overhovedet?
+
+1:05:40
+Så få er to gange af, det vil sige det.
+
+1:05:44
+Her tales det også loyalt, og det her med alle koefficienter reelle, og derfor har vi et reelt polynomium.
+
+1:05:54
+Jeg tror, jeg trænger til en pause. Er der spørgsmål lige med det samme, som jeg mener, alle kan gavne?
+
+1:06:02
+Ellers holder vi fem minutters pause. Og ellers kommer I bare op til mig.
+
+1:06:09
+Tak for nu var det.
+
+1:06:17
+Eksempler herpå. Kinas.
+
+1:06:24
+Den. De tre.
+
+1:06:36
+Jeg havde et spørgsmål 95. 20 år.
+
+1:06:43
+Max på efter information. Jeg tror, at min video med den sag er 15 år, så det passer med streaming nu psykiaterne.
+
+1:12:22
+Det er bare. Ja, hans.
+
+1:13:00
+Vi skal jo også selv stå. Igennem det.
+
+1:13:59
+Hvad? Januar.
+
+1:17:27
+December. Den danske film er.
+
+1:17:43
+Vi kender hende godt.
+
+1:17:48
+Vi kører videre med Adam Dahl, men bare lige kort sammenfatte hvad vi har set på,
+
+1:17:57
+hvad jeg klikkede på komplekse polynomier, og vi har kigget på regler på linoleum.
+
+1:18:04
+Vi fandt frem til både sætninger eller fundamentalt sat ned i kamera, og den siger er det komplekst på?
+
+1:18:12
+Vi har en rød. For det er svaret på det spørgsmål.
+
+1:18:16
+Hvor mange rødder kan der i hele taget vejret?
+
+1:18:19
+Og så startede vi med at kigge på, hvordan de rød og ser ud, og vi fandt så for ham selv, at at få linier med opad er sets.
+
+1:18:30
+Faktor i seeres, og det fandt vi frem til med hjælp af nedstigning sætninger,
+
+1:18:36
+så det kunne for eksempel se sådan her ud for for et komplekst polynomium.
+
+1:18:57
+Og det vil sige at vi får de her faktorer og råd at se den kan så dukke EM en gang og opsat to EM to gange og kog ind to gange.
+
+1:19:11
+Og det var så det tal vil kalde den algebraiske Monty citat.
+
+1:19:16
+Og det går så sådan op, at summen af de multiple citater, det må Skive og os.
+
+1:19:26
+N nemlig fra, og hvor også hurtigt nogle.
+
+1:19:34
+Den sidste del, så kikkede vi ser på reelle linier mere og det at det ikke har visket ud endnu her på denne tavle.
+
+1:19:44
+Der kigger vi på PrL Paulinho øvelse i koefficienterne regler, og der fandt vi,
+
+1:19:48
+at hvis vi har en råd, der hedder 5 0, så er der alle for os anden råd, der hedder Sæt 0.
+
+1:19:57
+Kun Javier med mindre grad.
+
+1:20:01
+Når P er ulige, så vil der være ekstra råd, som kun er reelle, og dermed endte vi så frem til denne her form,
+
+1:20:12
+alle med en form for regler rødder, der ville være, at produkt af enkelte regler råder.
+
+1:20:20
+Det er det, der giver os først ordensregler på Linum første år på et nummer og det og så videre og så de år, som er komplekse.
+
+1:20:31
+Det vil så altid dukke op i kompleks, kun afgivet over par.
+
+1:20:35
+Det vil sige sæt på og sæt kun i kog, er også råd.
+
+1:20:39
+Og hvis vi ganger det sammen, så fik vi et andet ord ordenes reelt med.
+
+1:20:48
+Det er så der vi står. Jeg vil gerne afrunde kapitlet om på en enorm ære ved to eksempler.
+
+1:20:55
+Og så ser vi på den sidste emne, da de ja, de fandt stabilitet.
+
+1:21:08
+Så der er flere eksempler på teori. Eller ikke for polynomier og derved SR vil se på.
+
+1:21:19
+Det var to eksemplarer af for anden år dens fortjener mere.
+
+1:21:31
+Vi kender jo løsnings formen for anden ordens eller anden grad polynomier.
+
+1:21:39
+Det er. Sved kigger på anden ordens polynomium, så ser det sådan her ud for økonomiens ligning og løsningen for to nødløsninger.
+
+1:21:56
+De glider en dvd'ere af to aa, der er med minus B plus minus W og dette W.
+
+1:22:07
+Det er Gedved er en benhård ligning for hovedvej B.
+
+1:22:13
+Minus 4 af C, så kan godt se det bliver til den får offenliggjort kender fra de reelle tal.
+
+1:22:19
+Her står kvadratroden af b jernmine og siger Se, men vi skriver det sådan her på det komplekse tal,
+
+1:22:27
+fordi vi ikke som sådan bare kan trække hovedet af sådan et salg.
+
+1:22:33
+Så. Det er også at stikke hovedet vinum ledninger.
+
+1:22:44
+Det var hvad vi så på i sidste uge, og det vil vi lige gennemføre med hjælper eksempel et og to, så vi har polynomium.
+
+1:22:58
+Det bedste vi havde set på det sidste.
+
+1:23:04
+Time før havde vi nemlig tredjegrads polynomium og brugte så nedstigning sætningen selv eller finde frem til den faktor i se og form,
+
+1:23:16
+hvor der var en råd der hed minus sagen, så vidt jeg husker garnet.
+
+1:23:21
+Det her paulino, som jeg så i dette tilfælde kaldet for pil for opgaven består i at forene de to rødder.
+
+1:23:34
+De har allerede løsningen, får nu her op og.
+
+1:23:41
+Det vi skal gøre, er selvfølgelig at finde frem til de her koefficienter.
+
+1:23:46
+1 det er minus 4, og C er lig med 13.
+
+1:23:55
+Og så sagde jeg, at der så kunne jeg gå hen og proppe de krydse selv, varer ind og prøve at udregne, hvad diskriminationen er.
+
+1:24:11
+500 år med Jane. B minus 4 C.
+
+1:24:18
+Og så er det sikkert en god idé lige at finde ud af, hvad det er for et tal for B minus 4 minus fire gange A, 1 og C er trætte.
+
+1:24:33
+Der bliver så minus fire. Minus fire gange 13.
+
+1:24:45
+Der bliver minus fire i hjernen hvert sted du lige vil sige.
+
+1:24:51
+Ja, det er 16 minus 4 gange 13.
+
+1:24:55
+Det er 52, og det bliver så mens 36, og det er jo mindre end noget så dør.
+
+1:25:05
+Har vi fået den situation. Det er et negativt syn, og det lærte vi på de reelle tal.
+
+1:25:12
+Det kan vi ikke snart trække med råd fra. Men i det mindste kan man sige, at minus 66.
+
+1:25:24
+Dette der er et reelt tal. Det er jo altid gået, og vi ved også, at man kan skrive det her som produkt.
+
+1:25:40
+Det er minus a grand 36 minus.
+
+1:25:48
+Så kan vi skrive som i anden ganger seks anden.
+
+1:25:56
+Og faktisk så må vi godt skrive kun plusser i den her, men også.
+
+1:26:02
+Plus eller minus i.
+
+1:26:09
+Så hvis vi beskrive denne her løsning, få med noget med vores tal, og får vi altså en divideret med to a a, er 1 minus B det af 4 plus minus W.
+
+1:26:29
+Og hvad får vi så at sige? Plus minus seks side.
+
+1:26:35
+Så kan vi selvfølgelig forkorte. Og så får vi se to plus tre i eller to minus tre i samme løsning.
+
+1:26:50
+Og det bekræfter vores teori altså vi sagde, at hvis der er en kompleks rod, så må der være en anden ind, som er komplekst konjugerede, og det passer.
+
+1:27:01
+Også her. Så vi er ikke i dette specielle tilfælde hvor min verden var negative.
+
+1:27:10
+Det reelle tal benyttede vi os ikke af Løsnings formand for Beinov ligning direkte,
+
+1:27:18
+men vi sagde Jamen, det må være det her produkt er noget ganget med plus minus i.
+
+1:27:25
+Og det kan vi godt gøre her. Alment set, så er det så let være når vi har en kompleks diskriminering.
+
+1:27:37
+Der skal vi også lige se på. Er der også spørgsmål, så er det første eksempel.
+
+1:27:52
+Så har vi her altså noget der ser sådan her ud.
+
+1:28:02
+Dette polynomium har et komplekst konjugerede rødder.
+
+1:28:19
+Hvornår var det den sætning gælder, at man har komplekse konvergere rødder.
+
+1:28:27
+Ja. Ikke bare viste. KL.
+
+1:28:37
+Det taler vi også om det er rigtigt. Og et andet bud derover.
+
+1:28:45
+Hvis polynomiet er reelt og vi fandt en plads, så var der også en kompleks konjugerede råd.
+
+1:28:54
+Er det her? Et rent Pulido mio. For andre for jer.
+
+1:29:05
+Det er det ikke. Hvorfor? Tredje plus i dette.
+
+1:29:12
+Det er det der svarer til 0 og det er ikke reelt får er med en sten koefficient i det polynomium som ikke er reel,
+
+1:29:22
+og dermed er det ikke et reelt polynomium. Og derfor må vi ikke indse, at der er kompleks konjugerede rødder.
+
+1:29:34
+Men. Vi kunne så gå hen og bruge denne her løsning for.
+
+1:29:43
+Og lad os så lige skrive noget, men jeg, så vil jeg skrive det for den almene form her.
+
+1:29:52
+Så var det jo som så kan jeg bruge den her løsning form, hvor det skal.
+
+1:30:00
+Nu er det her. Det kan vi måske lige udregne.
+
+1:30:06
+Hvad er det nemlig A, B og C er a er lig med 1.
+
+1:30:11
+B er minus 3 og C er plus tre plus i.
+
+1:30:20
+Det var den komplekse koefficient og b ja, minus tre minus fire gange 1 ganget med C.
+
+1:30:34
+Så det kan vi måske lige udregne amid minus minus 4 gange 3 12 minus 4.
+
+1:30:46
+Der bliver altså tre minus fire i, og der har vi den.
+
+1:30:50
+Det er altså en kompleks diskrimineret. Hvilket vi ikke havde i det forrige tilfælde.
+
+1:31:00
+Det vil sige jeg bliver nødt til at.
+
+1:31:05
+Nødes dagen før vinum ligner en.
+
+1:31:18
+Det vil jeg gøre nu. Det har vi talt om i fredags, men jeg vil vide hvorfor sælger, hvad de to røde ører finder frem til.
+
+1:31:27
+Det hedder nemlig. Her hvad hed det?
+
+1:31:31
+De hedder en plus i. Men nu.
+
+1:31:42
+Hvad er der galt? Skal være til eller andet. Mål tak Thorkild.
+
+1:31:56
+Hvor den anden runde af den første runde var en plus i den anden hed og.
+
+1:32:02
+2 minus I. Det ville så ikke udregne det række.
+
+1:32:07
+Men hvad er der for ting vi kan gøre for at tjekke, at det er sandt?
+
+1:32:15
+Ja. Jeg kunne ansætte dem her, men så få noget for har han råd.
+
+1:32:27
+Eller andre ideer. Nu skal vi lige prøve det først. Skal vi lige prøve det først?
+
+1:32:34
+Så. Vi kan gøre det med den ene plus i den sikre lidt nemmere.
+
+1:32:41
+Så får vi en + i det lille regne opgaver.
+
+1:32:45
+Da jeg blev syg i anden minus tre gange plus i og så plus tre plus i.
+
+1:32:54
+Det er en plus to i plus i Alm.
+
+1:33:01
+Det er minus 1 minus tre her minus tre i Hør.
+
+1:33:08
+Plus tre plus i. Jeg er en min sag gik ud og tog i plus i det her tre minus tre.
+
+1:33:20
+De går også ud og minus tre plus høj sikkerhed, for det er rigtigt, og det samme kan vi selvfølgelig gøre med den anden råder.
+
+1:33:29
+Og så har vi det her.
+
+1:33:32
+Hvor andre ideer, hvordan man kunne tjekke det virkelig røde.
+
+1:33:38
+Der er nogle der noget. Hvad synes du?
+
+1:33:43
+Nede stillings metode og hvad siger den? Ja.
+
+1:34:04
+Så jeg skriver lige dagen at jeres kollega siger Det her var vores polynomium, så jeg sagde ja minus tre sæt plus tre i tre plus i og ved stillingen.
+
+1:34:18
+Sætningen det sagde vi kan få aktualisere det andet på linier og med som produkt af to første graders.
+
+1:34:29
+Polynomier, som er givet ved de her to røvere.
+
+1:34:36
+Og hvad hed det? Det er en. Ja ja, for det hedder jeg skrev da endelig på den måde, så laver jeg ingen fejl.
+
+1:34:47
+Det er en plus i. 2 minus i stater, hvor der kan opstå fejl.
+
+1:34:54
+Sådan lyder nogle skriver det her? Det er forkert, fordi vi skal vende om på de foretrak.
+
+1:35:03
+Hvis det skulle være rigtigt, så ville det være det her.
+
+1:35:09
+For den første, men det er så lidt svært at aflæse, hvad råderummet er, det er nemlig nemt til at rådet over en plus i ikke minus et minus i.
+
+1:35:23
+Så det kan vi også udregne for får vi set i andet, da de to år minus ganger i en plus ydelse og.
+
+1:35:36
+Minus sat gang af to minussiden og så det sidste to par en 3 ganger, så bliver min New Skørringe minus.
+
+1:35:44
+Det bliver plus en pludselig gokker med to minus side.
+
+1:35:49
+Det er det. Og det er jo forfærdeligt, for det er måske ikke så slemt.
+
+1:35:57
+Vi sammenfatter fælles faktorer til søs.
+
+1:36:01
+Her bør vi altså dagen minus 1 minus to, der bliver minus tre og plus i minus i DK.
+
+1:36:11
+Så det har det hele. Og det er det, vi har minus tre sæt her og sidst.
+
+1:36:18
+Så skal vi i gang ud. Ja, en gang er to plus to i minus i plus i gerne minus i minus i hjernen.
+
+1:36:40
+Og så har vi hvad har vi her? Det er kompleks der blænder Royal I er med minus én plus én plus to plus tre.
+
+1:36:49
+Det minder mig om noget plus minus side. Der bliver plus i og dermed fare ved det.
+
+1:36:55
+Det er rigtigt. Så det er også måder nogle gange kan man gætte sig frem til råd.
+
+1:37:05
+Så kunne hun bukke nedstigningen sætning for at finde ud af hvad jeg ku er set er.
+
+1:37:10
+Og så komme engang ud for at tjekke om det virkelig passer.
+
+1:37:14
+Det er måske lidt besværligt, men med anden grad fulgt enorme mængder kan man godt gøre noget.
+
+1:37:24
+Det var sådan set det jeg vil sige om anden ordens på det nå mere, og vi kommer så til den sidste del, da de fandt stabilitet.
+
+1:37:35
+Er der spørgsmål hertil? Lige nu? Hvad fangede vi, da jeg kom frem til?
+
+1:37:45
+Jamen, det fortalte at der ikke er noget nogen har fundet.
+
+1:37:51
+Hvis du går ind og løser den enorme ligning. Hvor står den henne her?
+
+1:37:59
+Så kan du så bruge løsnings for at bindner omlægning og smid endelig tandlægen, og så vil du få netop de to løsninger.
+
+1:38:08
+Det sagde jeg. Det gider jeg ikke lige at gøre nu.
+
+1:38:11
+Jeg stod for at tjekke, at det er rigtigt, fordi der er nogle øvelser, hvor I kommer til at bruge den slags tankegang, som jeg lige har lavet godt.
+
+1:38:24
+Det findes jo habilitet. Det er et begreb, som dukker mange gange op i kurset, også i næste semestre især.
+
+1:38:33
+Og det år er det vigtigste spørgsmål altså om en funktion.
+
+1:38:40
+Og nu kigger vi på funktioner. For eksempel kunne vi opfatte jeres polynomium som en funktion, da det jeg snakkede om Hagel i starten.
+
+1:38:48
+Du tager et komplekst tal set snyd med en pulje neuron, hvorfor foran talværdi, der kommer ud.
+
+1:38:53
+Det er en funktion. For sådan nogle funktioner kan man beregne den afledede.
+
+1:39:01
+Så er der også spørgsmål. Hvis den afledede kan udregnes, betyder det også, at den vil definere.
+
+1:39:10
+Hvad er veldefineret? Det kunne være at man.
+
+1:39:15
+Udregner. Den afleder på to forskellige måder for det samme svar eller forskellige svar.
+
+1:39:23
+Hvis det er det samme svar, så er det vel definere. I dag vil jeg så gennemgå nogle af Basses begreberne for reelle funktioner og tal,
+
+1:39:35
+og sidst skærer vi lige emnet om nogle specielle komplekse funktioner,
+
+1:39:41
+vi kan studere, og på fredag kigger vi så lidt mere på det i flere detaljer og med masser af eksempler i sager.
+
+1:39:55
+Godt. Første tredjedel.
+
+1:41:01
+Det førte til at ville se. Og vi vil gerne se på reelle funktioner.
+
+1:41:20
+Først. Og hvad betyder det, at vi har en reelt funktion?
+
+1:41:29
+Det er så en funktion. Hvad kan F. Den fare?
+
+1:41:34
+Alle fra disse regler taler og afbilleder det end på det reelle tal.
+
+1:41:41
+Det er den slags funktioner, jeg kender fra gymnasier og helt tilbage til den tid og det jeg gøre nu.
+
+1:41:53
+Det er det. Jeg vil bare smide en definition op på tavlen, for hvad de ser billigt set, er.
+
+1:42:00
+Og så vil jeg diskutere, hvordan man kan forstå den på basis af det.
+
+1:42:05
+I Rødovre kender fra gymnasietiden, så der er noget, vi skal bruge, der hedder en epsilon funktion.
+
+1:42:20
+Epsilon af X, og den har følgende egenskaber.
+
+1:42:34
+Der skal gælde to ting, og det er at epsilon af X går mod nul, hvis x altså argument x og også går mod noget.
+
+1:42:49
+Så det var et sværd og epsilon af noget. Det er også lig med noget for hvidt.
+
+1:42:57
+To ting. Det er en sjov lille funktion.
+
+1:43:00
+Det der gerne vil kaldes den lille, og det er normalt det, vi tænker på, når vi bruger de tilhørende funktioner.
+
+1:43:13
+Og hvad skal jeg gøre med den? Den skal jeg prøve en den næste definition for kigger vi også på en reel funktion?
+
+1:43:33
+Den hedder det for en serie. Nu skriver det her en forkortet form det førende Sabo i et salg af x0, medister gjelder, hvoraf og i et af x0 møde.
+
+1:43:59
+Siden fører rejerne records, khorasan eller download.
+
+1:44:11
+Mærke i x0 lige med A vestre Gellerupbadet, nemlig at.
+
+1:44:27
+Denne her difference er x0 plus delta x minus f x0 er lig med a grand delta 6 plus epsilon af 5 6 kobraen, der ejede noget delta ex.
+
+1:44:48
+Og når. Faldet i det.
+
+1:44:54
+Vej, så derfor kigger vi lige på det. Hvad betyder det?
+
+1:45:01
+Og kan vi forstå det på baggrund af noget, vi måske har hørt om tidligere?
+
+1:45:09
+For nogle af uspændende afledede betyder og er en funktion.
+
+1:45:18
+Bør selv. Tangent og handling, ja hældningen til en funktion.
+
+1:45:25
+Ja. Det kan jeg ikke genkende godt.
+
+1:45:30
+Der er også lavet en skitse. Nu kommer han igen med de her skitser, men det er jo fordi det forhåbentligt bliver nyttige.
+
+1:45:43
+Der plejer det i hvert fald. Så.
+
+1:45:57
+Men tegnere. F på y aksen og x herrer fra for dig at sige en funktion der hedder sådan her, så det vil sige graf på x f.
+
+1:46:11
+X. Nu vil vi kigge på to særlige punkter Der er det her, der hed x0 herover.
+
+1:46:23
+Og så var der noget, der hed x0, plus at lille taler for hårdere eller lidt større eller måske bare noget, der ikke er gigantisk stort.
+
+1:46:35
+For et stykke hen ad vejen får jeg ikke saksen. Og hvad sker der så, når vi hæver op?
+
+1:46:43
+For vi sige, vi kan tildele funktions værdien af x0 og f.
+
+1:46:51
+Eks. 0 flodens delta et andet.
+
+1:46:58
+Og. Gør måske noget vi godt kan se.
+
+1:47:05
+Vi kender måske en definition.
+
+1:47:14
+Fra gamle dage. Og vi vil se på noget der hedder på.
+
+1:47:23
+Vi vil se på det før, siger han. Konsulenten. Og den danner vi ved at kigge på to funktionens værdier.
+
+1:47:41
+Hvem lærte denne her for dem? Og dem sammenligner vi.
+
+1:47:53
+Så hvad det betyder er, at vi får den her længde.
+
+1:47:59
+Det er det, der svarer til. Det ved jeg ikke freeware til og denne her længde.
+
+1:48:08
+Det er et deltaets, den del vi der med. Det her er differentialkvotienten.
+
+1:48:19
+Og det kan vi jo godt lige se på.
+
+1:48:24
+Så det vil gøre, at vi forbinder de to. Vi sammenligner de to punkter.
+
+1:48:29
+Det vil sige, vi har egentlig udregnet, hvad en hældning på.
+
+1:48:35
+Dagen før. Hverken fra eller ud.
+
+1:48:40
+Den lige linje der går,
+
+1:48:42
+gennemskærer de to punkter hér og hér og stedet Dan Y og Aksel med stemme X og Aksel segment som jeg deler stemmer give mig hældning.
+
+1:48:57
+Og nu siger jeg, at det må give mig et tal.
+
+1:49:02
+Med sig tager det her deltaets og laver dem mindre og mindre, jamen så kører det, så bliver det punkteret.
+
+1:49:09
+Det ligger stille mellem deltagernes blev mindre, og den kører han fokusere på, når jeg selv når herhen.
+
+1:49:17
+Og det er så. Det der giver mig.
+
+1:49:24
+Hældningen lige der, og jeg tror jeg skal have en anden farve for det desværre eller lad mig gøre det sådan som jeg oprindeligt havde tænkt mig,
+
+1:49:38
+da jeg laver det her. Den stiplede linje der da vi startede med.
+
+1:49:45
+Og så er der tænkt den her, en forvirrede kollega sagde jeg hældningen i det her punkt x0,
+
+1:49:55
+og definitionen for den avlede er, at dette tal faldt særlig for serien.
+
+1:50:03
+Den går gang hen imod et tal A. Hvis jeg kigger nemlig på det her tilfælde hvor deltager ex det vil sige det er skum og mod nul,
+
+1:50:18
+så får jeg et tal, og det er det, jeg vil anse som den afledning i x0.
+
+1:50:31
+Er det ikke klart. Soleklart det er dejligt at høre slige.
+
+1:50:42
+Hold fast ved den her sang. Hvis det er en lige linje, så må jeg da jeg kunne beskrive denne her lige linje.
+
+1:50:53
+Som en funktion. Og den hed og jeg afsættet.
+
+1:51:00
+Den er afstemt. F. 6 0 og så er den her hældning hed A garnede model 3 X.
+
+1:51:11
+Så ryger her op, så det var a gange.
+
+1:51:16
+Deltag i sagen. Det vil sige. Hvis jeg opfatter det her som en funktion, så er det tilnærmelsesvis det samme som os indleder f.ex.
+
+1:51:30
+Funktion. Det passer meget godt her.
+
+1:51:35
+Det er et støttepunkt jeg ikke stået. Men så vil jeg fra, at vi er her, så bliver der større og større forskel er Y, der kører på den lige linje.
+
+1:51:44
+For eksempel sær, men det kan godt se, hvor en fejl.
+
+1:51:53
+Men dette giver os. Det er jo at vi kan sige, at det her er Helmand.
+
+1:52:03
+Og dette er et støttepunkt. Og denne her har proklameret.
+
+1:52:16
+Det er også noget man taler for. I øvrigt den lineære.
+
+1:52:23
+Har brugt signering af funktionen. Den stammer jo helt nøjagtig måtte deltage, ikke så når og det er det vi mener med den navnet.
+
+1:52:37
+For det her salg væk, svarer hældningen af den her lige linje nøjagtigt til hældningen af Frederiksberg på den krumme kurs.
+
+1:52:51
+Sorgen og programmeringen kommer til at falde på i næste uge, når vi tilnærmer funktioner med Paulino mere.
+
+1:52:59
+Det var taler fra Proxima young. Det svarer faktisk til den første del af den zimeray man så sætter man højere fortalt i et delta ex på.
+
+1:53:12
+Og hvor kan man godt se at få et polynomium igen?
+
+1:53:16
+Det vil jo bare lige en sidebemærkning. Men det vil sige se ja i det næste?
+
+1:53:22
+Eller viser det sig, at denne her definition, som jeg kender, altså den siger hvis f.
+
+1:53:32
+F. De Chablis x 0. Hvis den her grænseværdi A eksisterer og med entydige.
+
+1:53:39
+Det er den definition.
+
+1:53:41
+Nu vil jeg lige vise, at det svarer til det vi har herover på tavlen, og om det jeg sagde, var jo, at folk kan godt se på den her.
+
+1:53:53
+Det faldt særlig kommercielt i klan.
+
+1:53:57
+Den hed sådan her, og det var så lige med A.
+
+1:54:07
+Hvordan er det nu? Altså, hvis vi er herude, så stemmer denne her heller ikke altid.
+
+1:54:11
+Den er faktisk lidt stejlere, så hvis jeg vil få det til at være helt rigtigt, så må jeg lægge noget på.
+
+1:54:23
+Og det er så det jeg at gøre her. Altså, det er faktisk den fejl, jeg laver her, hvis jeg ikke ser på situationen, hvor Delta ikke er lig med nul.
+
+1:54:35
+Men noget at spørge noget. Så må jeg lægge noget til. Så får jeg noget ekstra.
+
+1:54:40
+Her kan jeg godt omforme to gange, så ganger med den, så ex.
+
+1:54:53
+Det er svært. Det begynder at ligne noget vi har set før, nemlig.
+
+1:55:10
+Det ligner det udtryk vi har herovre på definitionen, for det er en simpel et sæt af større sten, så eksmandens er for x0.
+
+1:55:19
+Delimo a ganger den 6. Plus. Det her. Og det vil jeg gerne lige skrive om, så vi får det udtryk, vi kan forstå.
+
+1:55:34
+Jeg sagde måske noget her før med, at jeg skal det her for form, får jeg tour.
+
+1:55:39
+Det er måske stadigvæk mystisk. Og så skrev jeg lidt for meget skrevet af x0 denne ryger herover.
+
+1:55:51
+Plus a Grand Delta X+. Epsilon af Delta S ganger med delta x fonde.
+
+1:56:01
+Norge. Det kender vi måske godt forstå, for det er den, at der får den svale til det her, f.ex.
+
+1:56:11
+0. Det var vores støttepunkt. Det er i vores tegninger, så hader dem, og så vil vi gå i den retning og øge vores del af ex.
+
+1:56:28
+Så lægger vi noget på med den hældning. Det var altså alt det her.
+
+1:56:38
+Det var Warsaw charmeret. Er det klart hvad jeg mener med det.
+
+1:56:49
+Det var den her deling, det vil sige jeg føler den blå kurve.
+
+1:56:53
+Her støder mine opråb mere, for det var det, jeg lægger på til støttepunkter.
+
+1:57:01
+Det vil sige alt det her. Men nu kan jeg godt se, at hvis jeg er herude, og det må jeg godt med den form.
+
+1:57:11
+Dels er der jo ikke nær sagt. Den sag skal gå mod nul. Så må jeg lægge noget på.
+
+1:57:19
+Og det er nøjagtig det her udtryk.
+
+1:57:33
+Det er ikke noget jeg skal kalkulere sure, men i nogen sammenhæng kalder man det, og det er på den måde, man kan forstå det her.
+
+1:57:40
+For det er støtte, pumper for kommer, afprøves normering her.
+
+1:57:44
+Tal er noget højere. Og så skal jeg lægge noget til. Nu håber jeg på en anden definition giver mening, fordi man kan så ske.
+
+1:57:56
+Se hvad der sker når det her deltager ikke bliver mindre, så bliver også den del mindre.
+
+1:58:04
+Tiden går mod nul før, og så får vi netop, at A svarer til hældningen i punktet x0.
+
+1:58:21
+Spørgsmål Og så slutter vi med et lille eksempel.
+
+1:58:26
+Ja. Ikke. Hvad det betyder hvis den funktion ikke er for en serie på, så kan du ikke skrive det her.
+
+1:58:41
+Så vil der ikke findes. Så vil du selv finde frem til, at der nok findes det her møde eller en epsilon funktion som går.
+
+1:58:50
+Har netop de her egenskaber i det eksempel.
+
+1:58:54
+Alligevel giver det ikke særlig lang. Der vil jeg illustrere, hvad det betyder, at der findes de to ting.
+
+1:59:01
+Og så kan du forestille dig måske at der er tilfældet hvor det ikke er som.
+
+1:59:12
+Sådan. Det er ganske enkelt eksempel.
+
+1:59:22
+Det er nemlig bare ikke se andet, og vi skal vise at synes, at der findes.
+
+1:59:37
+Epsilon funktion. Og det er for hans hjerne kommercielt.
+
+1:59:49
+Af. Og det forstår vi som arveloven og.
+
+1:59:56
+Således at der gælder i nemlig den her ligner.
+
+2:00:20
+Så er vi i den situation. Nu har spurgt om. Jamen, vi har jo den funktion for, hvad vi kan gøre.
+
+2:00:29
+Det er værd at skrive op, at vi har på venstre side af det herude. Folk der ved, hvordan vi gør.
+
+2:00:35
+Så får vi X+ delta ex, og det skal vi tage i anden, og det samme skal vi gøre her og fra højreside.
+
+2:00:46
+Der gør vi intet.
+
+2:00:47
+Indtil videre kan vi udregne Excel Jane Sluse to delta ex x0, deltagernes hjerne på minus x0 i hjernen, hvor det samme her fik nul Jane.
+
+2:01:07
+Den går ud, og så har vi to felter x.
+
+2:01:14
+Det vil skrive lidt anderledes to x 0 mod.
+
+2:01:17
+Dels er X og deltag i eksamen ved at skrive om her.
+
+2:01:25
+Godt. CIA. Nu kan vi så begynde at tænke over hvad der står her.
+
+2:01:33
+Det er a grand delta eks. Er der noget på venstreside, som er en konstant gang at deltage?
+
+2:01:41
+Eks. Det er dig der sidder der konstant, og det er det her også.
+
+2:01:53
+Så kommer med en app epsilon produktion her.
+
+2:02:00
+Gerne med 6 jamen lettere at tage over. Er det her udtryk svarer hver morgen til en epsilon funktion?
+
+2:02:22
+Men var der en epsilon funktionen skulle kunne. Ja.
+
+2:02:30
+Hvis at det vil sige at jeg ikke ser det, er argumentet er nul.
+
+2:02:35
+Så går det, så får jeg nul. Det er rigtigt. Og Epsilon Delta X dk som en grænseværdi til 0, hvis Delta X går mod nord.
+
+2:02:55
+Så det betyder. Hvad er det det betyder? Det betyder, at jeg ikke sige andet.
+
+2:03:00
+Det kan skrives, for den her får at føle definition.
+
+2:03:05
+Så må vi godt kalde det her, de fandt, siger. Så vi skriver A og C er to x0 apps, selvom x.
+
+2:03:24
+Det er bare X, og hvis vores funktion er de fans serier, så må vi også fortolke vores A som hældningen.
+
+2:03:40
+I x0, det vil sige. Den afledede i er ikke x0 eller to x0.
+
+2:03:53
+Spørgsmål. Ikke lige nu, så vil jeg sige tak for i dag, og næste gang prøver vi at overføre det til komplekse funktioner.
+
+2:04:05
+Tak for nu.

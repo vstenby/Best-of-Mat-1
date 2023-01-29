@@ -1,0 +1,2147 @@
+0:03
+Okay, velkommen til store dage i uge 7. Vi er tilbage fra efterårsferien.
+
+0:09
+Jeg håber I har haft en god tid på sofaen skulle løse hjemmeopgaver.
+
+0:13
+Men nu har vi så her, og i dag skal vi taler om vektorrum.
+
+0:20
+Der bliver lidt lettere forelæsning for jeg.
+
+0:26
+Og i dag indfører vi så flere begreber, så der være delte definitioner, som jeg vil illustrerer med masser af eksempler for jeg.
+
+0:36
+I næste uge kommer vi så til at tilføje flere med abstrakte redskaber med linjer og afbildninger.
+
+0:45
+Og således kan de se som en forberedelse for at forstå matricer som afbildninger, som kan dreje og vende på vektorer i et vektorrum.
+
+0:55
+Og det er det henne ved skal for at undersøge det. Lad os så fokusere på vektorrum i dag.
+
+1:02
+Det første jeg vil gøre, er at indføre vektorrum.
+
+1:06
+Så vil vi se lidt mere på lineære kombinationer og begreber, der hedder spahn, og ligninger og uafhængighed skal vi også set sammen her.
+
+1:17
+Med hensyn til vektorrum. Og i den anden time, hvor jeg så går hen for at definere basis, dimension og koordinater på vektorer i så vigtige rum.
+
+1:32
+Og som sagt vil der være mange eksempler. Mabel demo til sidst.
+
+1:39
+Så lad os prøve at gå i gang og her aviser alle definitioner på slottet for alle eksempler.
+
+1:46
+Jeg laver for at illustrere vil foregå på tavlen, så vi kommer til at kigge på de ting her var op.
+
+1:56
+Så vi skriver her, at et vektorrum egentlig ikke er noget andet end en kæmpestor mængde af matematiske elementer.
+
+2:04
+Det er jo det, der plejer at være. Specifikt har vi vektorer i den mængde, og de er udstyret med en zone,
+
+2:13
+så vi kan lægge den sammen, og vi kan også strejke og stille dem med en skalar større.
+
+2:19
+Og det er det, vi egentlig allerede kender fra Geo mest sårbare.
+
+2:24
+At vi nu definerer sådan en meget overordnet og lidt mere nøjagtigt med henblik til, at vi kan udstyre dit vektorrum med en basis osv.
+
+2:38
+Så formelt ser det så sort ud at et vektorrum V så ser vi på påkaldelse vektor rum øgle elements ord.
+
+2:49
+Elementerne er vektorer. Hvis for alle de eksempel vektorer og skalaer, værdi og k.
+
+2:57
+Der gælder to ting, og det har jeg steen i flere ting.
+
+3:01
+Men jeg opdelte dem her i to kategorier. Det første er egentlig intet andet.
+
+3:07
+Hvis vi har en vægt, så lægger en anden vægt sig selv. Så skal vi forblive inde i det her.
+
+3:13
+Hvert år så det ikke nytte noget, at vi tager væk for og lægger en selv.
+
+3:17
+Og så er vi pludselig i et andet rum, som vi jo ikke startede med.
+
+3:24
+Og det samme skal også gælde med strækninger med en skalar værdi,
+
+3:28
+og så er et mellem den reelle størrelse en kompleks størrelse, som har ét element, og det er det, vi kalder for stabilitet.
+
+3:41
+Skarver stædigt eller gøre væk, så rummer stabilt, så vi ikke pludselig skrider ud af det.
+
+3:48
+For meget for regneregler. Med hensyn til sunde værdier.
+
+3:53
+For så vidt meget vi selv kommer i gennem på hvordan vi lægger dem sammen,
+
+3:58
+og om vi tager den ene først eller den anden først med et eller to med står flere frø, så kan vi begynde.
+
+4:05
+Det får vi vel at associativt hvor.
+
+4:09
+Vi har også et neutralt element med nul vægteren, hvor enhver at smelte, men som er det, som har skiftet fortegn.
+
+4:18
+Det er ikke særlig forbavsende. Der er heller ikke så forfærdelig meget forskel.
+
+4:24
+Pas på med. For multiplikation er skalaer med vægt så ganget på med to værdier er Corvette kort so.
+
+4:33
+Her kunne vi os først trykke arket og de to skalaer sammen og så med vektoren.
+
+4:40
+Det produkt hedder Distributed, så vi kan lægge skalaer Larne først sammen eller ved at multiplicere dem op på væg Tornved.
+
+4:51
+Og omvendt skal vi også lægge så vægt sover sammen først eller bagefter, efter vi har multipliceret med den her konstante.
+
+5:03
+Det neutrale element er så bare et salg en gang er det, hvad vi så kan se.
+
+5:08
+De regler er forholdsvis eller egentlig meget lige.
+
+5:12
+Selv der er ikke noget mærkeligt dér. Det er ikke som for eksempel multiplikation af komplekse tal, hvilket var lidt mere indviklet.
+
+5:20
+Da vi indførte det. Det er alt. Med andre ord regler, som er meget kendt.
+
+5:28
+Så hvis man skal tjekke, at man faktisk ser på et vektorrum, så burde man jo tjekke alle de her ting.
+
+5:37
+Men som regel så ved alt det her være automatisk givet for det tilfælde, vi ser på.
+
+5:44
+Så vi plejer kun at skulle nøjes med at se på de her stabilitets krav.
+
+5:49
+S et og to, så lad os borgere illustrere det og gåturene eksempler er vektorrum igennem.
+
+6:02
+Jeg har allerede nævnt det første eksempel.
+
+6:08
+Det var, at vi kunne tage mængden af geometriske vektorer, og vi kender dem for eksempel med plagen.
+
+6:26
+Så hvis vi har mellemvægtere her på tavlen, følger vores plan, og vi er dér en anden væg.
+
+6:33
+Jamen, så ved vi det stadigvæk. Er det så i plan for det?
+
+6:39
+Det er først Stabilitets krav for sikker gælder.
+
+6:43
+Vi ved også, at det her er spildt. Vi ved også, at ved sved har væk, så af kan vi strejken.
+
+6:53
+God gang. Den ligger stadigvæk i plan. Så kan vi selvfølgelig udvide ferien, så jeg brummer.
+
+7:02
+Så kan vi gå ud af farve. Der gælder det samme.
+
+7:07
+Se at dér geometriske vektorer strækker sig spir vi stadig ved.
+
+7:11
+De rummer ingen fjerde eller femte dimension, der pludselig dukker op.
+
+7:20
+For selv mængder, som vi allerede har talt lidt om, har vi også Panopto, og det er konkret Rn og se ind.
+
+7:36
+Vi taler om de er, så de har elementer, og dem kalder man, hvor mærkeligt det end supplerer med det.
+
+7:56
+Det skal ikke opnåelige over. Hvis vi har det element, I er inden for eksempel.
+
+8:03
+Så vil det se sådan her ud for et står.
+
+8:09
+Og så videre. Så jeg. Og det er så det element i af og for gælder at alle de her elementer.
+
+8:21
+De skal selvfølgelig være element i den reelle tal mængder.
+
+8:25
+For bare en stærk den. Og de danner et vektorrum.
+
+8:42
+Jeg skriver bare Wadi Rum fra vægteren, og det er ikke sådan, at vi skal opfatte.
+
+8:51
+Sådan en. Sådan et element som coordinator. Det er faktisk det element en vigtig element.
+
+9:01
+Som vi kan regne med, så det bliver klarere senere i forelæggelsen, hvad vi mener med koordinater og vektorer, så vi kommer tilbage til det eksempel.
+
+9:14
+Men for nu at slige forklarer hvordan er det så den arkiv, vi har?
+
+9:25
+At vi bare er dér. Vi har et værktøj eller en hær og er det andet søm, så vi ved, at Ellemann ser i det her ensemble som stykke hver for sig.
+
+9:48
+Det er som briketterne og multiplikation med.
+
+10:10
+Bryder en konstant. For bedre med konstant skal Rojer.
+
+10:21
+Det er så på ganget med seks og så videre til eksamen, og det er sådan, at kortet går ind i hvert element.
+
+10:37
+Og K gange x f.
+
+10:45
+Og vi kan se, at efter vi har trukket et tog, så får vi igen en vægt, så den har samme form som det her vil jeg også det element.
+
+10:57
+Efter vi har strakt denne vægt, så får vi noget, der har samme form som det her ligger stadigvæk i vejen,
+
+11:10
+så vi kan se, at de to stabilitets krav er opfyldt.
+
+11:23
+De er opfyldt for alt det her. Alle de her regler skal for alle ved et veto.
+
+11:31
+Og ved et træ og kog og KF og så videre.
+
+11:34
+Det skal gælde for alle slags værdier, og hvis det går tilbage, så får vi jo lov til at bruge alle slags værdier,
+
+11:41
+og folk kan have indset det her, og vi få det her på højre side, hvilket stadigvæk er det element af vores fik ro.
+
+11:52
+En. Vi kan også se at addition er vektorer og multiplikation af.
+
+12:04
+En vægter med denne skalar de følger alle de regneregler ved kæler for tandlæger.
+
+12:11
+Er eller vil jeg se. Vi regner på, for de vil automatisk være opfyldt for at blive det.
+
+12:18
+Jeg nævnte lidt tidligere. Kan selvfølgelig også tjekke.
+
+12:26
+Der er også nogle element. Med hensyn til addition.
+
+12:38
+Det er denne her nulvækst så. Som vi kender udmærket, står det andet eksempel Jeg får måske lidt nyt om lidt mere abstrakt på en måde.
+
+12:56
+Det er mængden af matricer, så mængden af indgange n matricer.
+
+13:04
+Det er et vektorrum.
+
+13:06
+Det vil vi gerne lige se på ved eksamen, hvor af sorg ganger to matricer, så vi kan skrive to matricer, når enighed om, at et af får to et af to får.
+
+13:25
+Og tilsvarende bag matrix sådan der.
+
+13:37
+For hvad er det? Vi vil tjekke Stabilitets krav et.
+
+13:41
+Dér tjekker vi om A plus B.
+
+13:47
+Men det er der ved vi. Skal vi være element for det.
+
+13:51
+Men det her med dette her og så videre, for vi får.
+
+14:12
+Er det stadigvæk. I mængden af alle to ganger to matricer.
+
+14:19
+Ja, det er det så det gælder.
+
+14:25
+Og ligeledes kan vi gange en af de matricer med en ko værdi.
+
+14:30
+Så det ved vi også, for den gør.
+
+14:46
+Det er også to gange 2 6, men går man konkurs, går alle de ting ind efter addition af de her matricer, som vi nu opfatter som en vektor væk.
+
+15:02
+Så brum. Af sted.
+
+15:13
+Det lyder jo mærkeligt når jeg siger det. Matrix er en vektor, men declare vedkender disse matricer så matricer.
+
+15:21
+Det har det godt med. Men nu tænker vi om mængden af alle de her matricer.
+
+15:30
+Ved denne mængde indeholder de her matricer, og i den sammenhæng så kan vi opfatte dem som vektorer.
+
+15:38
+Det vil sige elementer af det her vektorrum, vi sidder for. Vi kan regne med de her elementer A plus B, lige som om at komme i gang og så videre.
+
+15:49
+Ligesom om de er vektorer i et vektorrum, så det på den måde, vi skal opfatte det her på.
+
+15:59
+For selvfølgelig skal vi også tjekke, at der er noget element.
+
+16:04
+Det er jo ikke automatisk klar i nogen tilfælde, men vi ved, det er 0.
+
+16:11
+Og vi ved, at hvis vi lægger denne her nul matrix på, jamen jamen, så får vi den samme.
+
+16:16
+For det er i hvert fald indeholdt her. Okay, så er der lige.
+
+16:27
+To tre eksempler tale. Den ældste næste er.
+
+16:37
+Det her. Det næste er mængden af kontinuerte.
+
+16:48
+Funktion. Og den mand der hedder se opløftet i nuet, hvor er.
+
+17:03
+Så nu taler vi om få missioner. Før taler vi om matricer, og det var dem, der var elementerne i værk til rummet.
+
+17:12
+Her er det funktioner. Og det viste sig at rummet som vi allerede har navngivet, det var det her at se ud i 0 og 1.
+
+17:41
+Det er mængden af kontinuerte funktioner, vi ser på.
+
+17:44
+Det er det, vi skal teste om. Det er et vægtere år, hvor funktionerne er elementer.
+
+17:51
+Så hvis vi siger, der er to funktioner F og f to, som er element, er det her rum, eller det håber vi, det er.
+
+18:03
+Så skal vi se om, så skal vi spørge om Stabilitets krav.
+
+18:09
+Et vil sige Hvis vi lægger to funktioner sammen, er det stadigvæk en kontinuert funktion.
+
+18:20
+Vi kan overbevise os med et eksempel hvis vi nu tager x f.
+
+18:25
+Jeg ikke så lige med x den kontinuert funktion og nedlægger en anden kontinuert funktion FM sinus.
+
+18:35
+Men hvordan ser den ud? Det er X. Det er sinus og svedigt lækkert nemt sammen.
+
+18:43
+Ja, komma ville få Explosives X, der ser ud som en sinus, som bare stiger i X.
+
+18:56
+Det er underforstået, at det her er x og eksplosive nu så kan se.
+
+19:01
+Det er også en kontinuert funktion. Det giver god mening. Det er noget vi skal tjekke.
+
+19:09
+Det var kampen og hvor strejke.
+
+19:13
+Denne her funktion. Stakkels funktion med en.
+
+19:19
+Men værdi kone og det første var og at hvis vi lægger dem sammen for det stadigvæk.
+
+19:28
+Det er det her. Om det stadigvæk en kontinuert funktion. Og nu skal vi se, hvad vi ganger.
+
+19:34
+Det ganger ex med en konstant. Er det så stadigvæk en kunstig funktion?
+
+19:39
+Ja. Det samme gælder for sinus. Så det ser ud til, at vi godt kan sige det, så begge stabilitets krav tikker.
+
+19:50
+Og så kan man selvfølgelig også gå hen og tjekke alle de her addition og multiplikation fra regler.
+
+19:57
+Det vil vi ikke gøre lige nu. Så der også særtilfælde af kontinuerte funktioner, som vi snakker meget om, idet jeg kursusdag paulino mere.
+
+20:13
+Det er altså mængden. Er Paulino mere.
+
+20:24
+Og den mængde den kalder vi for. Og det mængder af Paulino er grad højest.
+
+20:37
+Den. Og det hårdere end der er defineret på det reelle tal.
+
+20:48
+Der kan vi også se på de to stabilitets kravene. At sige at vi har to Borodino med PET og PET, så forliget skal være indeholdt i det her.
+
+21:05
+Den mængde er pænere er det vil sige for eksempel p et.
+
+21:12
+Det ser sådan her ud. Så du har gravet højst inde.
+
+21:25
+Det kan også være, at det her forsvinder, fordi a 1 er nul.
+
+21:29
+Så ved grad 1 minus 1, for det er stadigvæk indholdet i det her.
+
+21:35
+Skal man lige passe på noget for at tjekke det? Vi har det et plus to, så får vi to paulino med og lagt sammen.
+
+21:46
+Kan graden blive større, end hvis vi gør det lige skrive det han.
+
+22:02
+Så ligger sådan to polynomier sammen, så får vi stadigvæk et andet anden rundens hold.
+
+22:11
+Så det gælder. Det var ellers et brag, S-tog.
+
+22:17
+Det kan også ganget op med en eller en konstant. Så ligger vi stadigvæk inden for det her rum.
+
+22:27
+For det gælder også, for vi kan jo faktisk tjekke, at mængden af Paulinho man RP 1.
+
+22:34
+Det kan også opfattes som en detektor rum, vægt, år, hvor elementerne.
+
+22:40
+Det vil sige vektorerne er paulino mere, og i det forrige eksempel var det mere alment.
+
+22:47
+Disse numre er kontinuert, fordi indholdet i denne mængde af kun signalet funktioner, og det er det indre af elementerne dér.
+
+22:58
+Vi kan også tjekke. Det er jo selvfølgelig muligt, hvis vi lægger to af de paulino med og sammen,
+
+23:04
+hvis steder står pludselig her og minus én her, jamen så går 1/3 ordenen væk.
+
+23:09
+Så får vi stadigvæk at Paulino med højest grad 1, nemlig med grad 1 minus i.
+
+23:20
+Så kommer lige det sidste tryk. Coachen er den her mængde af det er et vektorrum.
+
+23:42
+Hvad mener. At sige har to elementer x et.
+
+23:50
+Og X2, der er indeholdt i den mængde. Hvad skal vi teste skal teste.
+
+23:58
+Hvis vi lægger dem sammen, er det stadigvæk inde. Det spørgsmål.
+
+24:14
+Faktisk en smart måde vi kan tjekke, da de to stabilitets krav samtidig siger Gå gange Grand Prix sæt +6 tog er det indeholdt i.
+
+24:31
+Den her mængde for alle. Kog alle sad og sov.
+
+24:39
+Hvorfor? Med scorer negativt, og det må den jo, fordi vi har sagt, at K.
+
+24:51
+Det må være alle værdier vi er.
+
+24:57
+Det vil sige det også er negative værdier, som for eksempel K er negative.
+
+25:07
+Så får vi noget for negativ her også. Så svaret må være nok.
+
+25:19
+Kunne så også lave et slags. Er det må vi bare for alle positive.
+
+25:26
+Dele intervaller i alle retninger. Det ville heller ikke være vektorrum, for vi mangler alle de negative sider, hvor G.
+
+25:36
+Det var altså vægtere unge. Så har vi en repetition der skal kort.
+
+25:47
+Det er limen i Linnea kombinationen. Vi skal se på af et sæt vægge, torve i et tv.
+
+25:52
+Det er så summen af de til ord og gange med tilfældige konstanter trukket fra handlingen er og.
+
+26:05
+Det vi ved. Det vil vi minde os på for at indføre denne her definition med det der hedder spandet af mange er væk, så ordvalg i tv.
+
+26:16
+Så det er mængden af alle mulige linjer og kombinationer vi overhovedet modellen med ved et tv en.
+
+26:25
+Og det underforståede kodeord til det er så enten regler eller komplekse konstanter det der står her med L.
+
+26:34
+Så det er det, der står for enten det reelle eller komplekse tal.
+
+26:41
+Og om så man kan så spørge sig Er jeg mon det her spand?
+
+26:47
+Er de væk, så vektorer også med det vægtere år. For nogle der nikker nogle der vil har lyst til at begrunde.
+
+27:00
+Mens vi tænker på stabilitets kravene fra før. Ja, spandet, det er jo sættet af alle mulige linjer og kombinationer af de vektorer.
+
+27:12
+Hvad betyder det vi er dér og dér vektorer lige som vi vel, og vi må gange med konstanter.
+
+27:19
+Corvette til kroaten. Ligesom vi vel. Og de er stadigvæk indeholdt i den mængde.
+
+27:24
+Så ja, det må være, men det er ikke så.
+
+27:30
+Og så er det måske heldigt at spand på dagen måske også noget hvor vi vælter alle slå Ajax med ekstra kombinationer,
+
+27:41
+linjer og kombinationer, ja endda altså spand. Med det kunne man tænke på søvn.
+
+27:46
+Men det går jo for engelsk. Vores band betyder at spille, som man siger tit, at de her vektorer, som har gidet have siddet ved et til ved en.
+
+27:58
+De spæner væk, tager rum op. Orca.
+
+28:15
+Så vævsprøver set fra dem.
+
+28:21
+Selvcensur. 6.
+
+28:27
+Per. Okay.
+
+28:32
+H. For varer der ikke larmer.
+
+29:04
+For eksempler fra spand. Det kunne være ganske enkelt.
+
+29:13
+Har set på. Vi havde tæt på de tal rum, og der var elementer der hed 0 kommer ind og ind kommer 0.
+
+29:27
+Det var elementer, der er indeholdt i det, der hedder er to, så vi får at alle mulige Linnéa og kombinationer af det element.
+
+29:39
+Men det her, det må danne det vi kalder for, er to.
+
+29:47
+Det kan vi også lige tjekke. Så spørgsmålet er Hvorfor kunne dukke op?
+
+29:55
+Så lad os lige prøve det. Hvad er definitionen for det her spand?
+
+30:00
+Kan vi altid skrive her til højre sider? Det var altså alle mulige narko nationer, hvor på S og K tog regler.
+
+30:21
+Vi ved, hvordan vi skal i gang. Det her er ok. Det vil sige, at det bliver K et.
+
+30:29
+Og få tog som en talpa. Og vi kan straks se at det er her det må være.
+
+30:44
+Alle elementer, ja to. Så kan vi se på en spand af polynomier for eksempel 1 og ex.
+
+31:06
+Hvad er det her? Så hvad svarer det til? Så vi propper igen definitionen for bandeord.
+
+31:16
+Det er mængden af alle lineære kombinationer af de to elementer, det vil sige K.
+
+31:23
+Et gakket a plus på to gange eks.
+
+31:29
+Små skal gælde kl.dk. To er r er.
+
+31:37
+Og derved vil det barcode et plus altså så lidt trivielt at skrive til hende igen.
+
+31:47
+Men lørdag alligevel.
+
+31:52
+Det er altså mængden af alle 40 storkens polynomier, så det må svare til et.
+
+32:05
+Ditto. Hvad så med det her?
+
+32:20
+1 x og minus X.
+
+32:29
+Altså ikke og minus S er det ikke ligesom nærmest farme hvert år, bortset fra fortegn.
+
+32:37
+Jo, så måske kunne vi forenkler den her mængde.
+
+32:41
+Så kan vi bare skrive justerbare nu bare spandet, så vi sætter X og kigger på komme med det sunde index.
+
+32:56
+Så kunne vi jo bare vælge sådan, at Koed er nul og K tog er minus en.
+
+33:03
+Så får jeg det andet. Så det behøver slet ikke at tage noget.
+
+33:13
+Og det er det ved at jeg vurderer så hvad vi lige har fundet ud af, er unge digtere og unge af første grad højst første grad.
+
+33:25
+Polynomiet så. Det var lidt det interessante eksempler og tænke lidt videre på hvad vi vælger.
+
+33:34
+I sidste ende indføre coordinator og basis i vores år.
+
+33:41
+Og når vi snakker om coordinator, så bliver vi jo nødt til at være i stand til at skrive endnu en vægt og noget.
+
+33:51
+Vi kan opfatte det her, som man vægter indhold i det her vektorrum.
+
+34:00
+Så bliver vi nødt til at kunne skrive denne vægt ned med entydige koordinater, og koordinaterne opfatter vi som K et og kort to.
+
+34:10
+Hvis vi gør det, så kan det ikke nytte noget, at måske vi skal frygte dem her.
+
+34:19
+Det her sæt af vektorer et x og minusser.
+
+34:23
+Sådan vil det så se ud. Skulle så se sådan her ud ks gange 1 plus to gange x plus k tre ganger minus x.
+
+34:38
+Det ser ud til at gå galt, hvis vi vil bruge ensidighed.
+
+34:43
+For ja, kaosset skrev K to og K tre om, så jeg matcher en anden talværdi.
+
+34:49
+Altså konkret, så kan jeg omforme det her. Til at hedde K 2 minus to tre gange ekstra.
+
+35:00
+Det var dér, vi endte herovre, men nu får jeg lidt som en fri parameter.
+
+35:05
+Hvis det er, hvis det skal være en eks, som jeg skal beskrive, så er man eksempel for en vægt.
+
+35:12
+Så jamen, så får jeg lov til at vælge den på to og tre helt frit, og det er ikke tilsvarende til nogen i en tidligere coordinator.
+
+35:26
+Så det er. Krav at Basses hvis hvis dette skal danne basis som opspind og at vægte år, så må vi kræve at de er lineært uafhængige.
+
+35:40
+For ligesom at gøre koordinaterne kan skrives entydigt.
+
+35:50
+Så spørgsmålet overordnet er Hvilke vektorer behøver vi for at beskrive et vektorrum, hvilket er unødvendigt.
+
+35:58
+Kravet er at vektorer i en basis er lineært uafhængige.
+
+36:03
+Det vil sige at ingen af dem kan bare omskrives. Som en anden kunne vi her med x og minus 6.
+
+36:10
+Der kunne vi skrive dem om i forhold til hinanden.
+
+36:17
+Så vi kommer her til definitionen af lineær uafhængighed farlige for at genopfriske det Z er væk,
+
+36:24
+så ord er lineært afhængigt hvis spændst en af reaktorerne kan skrives som via kombination af de øvrige og den Altena.
+
+36:34
+Alternative definition er jo, at man beskriver linere uafhængighed ved side.
+
+36:40
+Hvis vi har set at vektorer i vores vektorrum V, så havde det altså lineært uafhængigt, hvor vi kan kigge på det her linings system, som indeholder.
+
+36:52
+Lige nu er kombinationen af de her vektorer, hvor vi kan ikke skrive.
+
+37:01
+For eksempel ved et som en linear kombination af de andre, medmindre vi sætter alle de her koordinater lig med nul.
+
+37:09
+For lige at se på dette, for det lyder lidt mystisk, hvad jeg siger.
+
+37:12
+Måske i første omgang her. Bare lige for det.
+
+37:22
+Få det på plads. Eller jeg kan også spørge jer hvad tror?
+
+37:35
+Hvorfor er de to definitioner? Hvorfor betyder det besatte? Der er nogle ideer om det.
+
+37:45
+Hvad så hvis vi starter fra denne her kombination?
+
+37:53
+Og lad os bare sige det var tre vektorer. Så skal du vælge mellem nulvækst.
+
+38:02
+Og vi ved er to tilfælde af 18 kan vi skrive for eksempel ved EF, som er en kombinationen af de andre, så får vi,
+
+38:13
+at det skal være et minus på to gange ved et så minus quo tre gange tre, og så må vi flytte K et på den højre side for gøre det.
+
+38:28
+Bestemt muligt for blev jeg nødt til at have nogle enlige koge værdier og nogle som ikke er noget jeg ser for kort,
+
+38:39
+så beskåret tog divideret med KS skal være indladt, så må det være ensbetydende med, at Koed ikke må være noget.
+
+38:48
+Og den øvelse kan vi gøre med alle forskellige ord, og det betyder så, at.
+
+39:00
+Hvis hvis de konstant vil stige koordinater højere er lig med 0, jamen så betyder det at hvor Z er lineært uafhængigt.
+
+39:17
+Spørgsmål. Så for eksempel standard basen i herretøj.
+
+39:28
+Det er de her tre.
+
+39:33
+Elementer 0 nogenlunde S 0 og 00 S de er lineært uafhængige trøjer med de selv sagt kig på nogle mere konkrete eksempler eller mindre mamet måske.
+
+39:53
+Så er en for en.
+
+39:57
+Og noget der kommer ind. Indhold i.
+
+40:01
+Er to af de vine jeres uafhængige eller afhængige?
+
+40:14
+Jamen, vi må se på de her lineære kombinationer.
+
+40:19
+K et ganger med første element. Plus go to ganger med det andet.
+
+40:27
+Det kan vi udregne, men det er først før set krav.
+
+40:32
+Den kiten system baseret på der skal være lig med 0 elementet, det vil sige 0,1 nul.
+
+40:41
+Så ved vi hvordan vi har lært hvordan vi kan regne med det. Fodgængere ks færre end for få v k et komma får et plus nul komma k to,
+
+40:54
+og dette kan vi også lige lægge sammen, for får vi K et på S Pluskort, så er lig med nul komma nul.
+
+41:09
+Som jeg så i går aftes, scorede det lige med ind lige med 0 undskyld, beskåret eller lige med 0,
+
+41:20
+men så må Coteaux også være lig med nul, og det betyder, at sættet er.
+
+41:31
+Vi mener, at et uafhængigt. Støj som man gør.
+
+41:49
+Hvor mange eksempler idag i forberedelserne som jeg lidt sværere ud, men i sidste ende er det det I prøver at vise.
+
+42:01
+Så se på det andet eksempel. Her har vi et sæt en mængde paulino mere.
+
+42:09
+Det hedder en minus 6, så en plus x. Og de er inde for indhold i dette vægtere år.
+
+42:21
+Vi ved nu, at mængden på enorme ordenen højst en et vektorrum med det skal finde ud af,
+
+42:29
+om det her sæt af vektorer er en basses, eller om de er alinea uafhængig.
+
+42:35
+I første omgang. Kan lease dem.
+
+42:47
+Hvem siger jeg er hvem siger nej? Orkestret går opbevaring I vil ikke gøre det som trossamfund matematik.
+
+42:58
+Således mødrene forstår hvorfor er det ikke noget vi får før vi ved det?
+
+43:02
+Så lad os se på det. Ah ja, hvad skal vi dagen?
+
+43:07
+Jeg mener, at kombinationen af de tre elementer kor et gakket,
+
+43:11
+en på to gange 1 minus x klods på tre gange en +6 og den skal være lig med nul elleman ud af Paulino mener.
+
+43:24
+Hvad er det? Hvad er et nulpunkt enorm?
+
+43:30
+Jamen, det er bare nul. Det er nul.
+
+43:39
+Og kan så samle de diverse krisecentre op.
+
+43:45
+Vi taler om enorm. Så vil jeg gerne skelne leddene, der har forskellige grader og for eksempel 0 grad et tallet.
+
+43:55
+Du skriver kl. Pluskort to plus CO 3 ganget med 1.
+
+44:04
+Og så kommer ikke. Så når det er 40 grader, har vi plus K 3 og minus kort, så der er noget med ex, der er lig med nul bukki.
+
+44:22
+Så nu er det jo. Hvad er det nu, vi ser på det bål i november?
+
+44:26
+Og det vil sige, jeg må proppe alle mulige x værdier og her ind, som jeg vel så det her ligninger skal gælde.
+
+44:42
+For alle x og vælges jamen, det er dem der er I er.
+
+44:50
+Det er de reelle tal vi må prøve af. Hvis det er Alex, så må man også vælge ex lige med nålen for eksempel.
+
+45:01
+Når man så får en enkelt ligning som hedder K et plus CO 2 plus kort tre er lig med nul.
+
+45:14
+Men det må også betyde, at den del må være lig med 0 for sig selv.
+
+45:24
+Og så får jeg med det samme, at jeg er coteaux at lege med kort tre.
+
+45:34
+Og. For jeg lavede en fejl her eller ikke vil finder.
+
+45:48
+Hvor ok det er fordi mit eksempel oprindelig var det andet af et, der hed to æg sager.
+
+45:56
+Så det er det samme. Det er det samme. Det var lige det kombinationen her.
+
+46:01
+Vi skriver tog et stykke togafgange kort, for så må du stå to kort, tre her og her.
+
+46:12
+Så har vi rettet på det. Og. Det er altså de her ligninger der skal gælde for alle X, og derfor får vi de her ligning system.
+
+46:34
+Så vi kan se der er kun to ligninger for tre ubekendte Cowells kort, to og kort tre, så det.
+
+46:41
+Hvis man skriver det om, må det svarer til at ligne et lignende system med rang.
+
+46:46
+To på to betingelser, og det betyder, at der i et fri parameter er.
+
+46:53
+Og det giver god mening at vælge for eksempel et k træ som fri parameter.
+
+47:09
+Hos K 3 er t. Så ved vi med det samme hvad k to, ja, det er to på tre er lige nu to t og k et.
+
+47:22
+Det er så. Minus skov tog fra den første ligning minus K tre, og det er minus tre tid, så det at løsningerne på de her k et kort so og co.
+
+47:38
+3. Og at det er så ligning er et uafhængigt.
+
+47:47
+Det her sæt af frygt sorg. Ja, der er mere end én løsning.
+
+48:01
+Og specielt denne er forskellig fra nul. Så må den jo ikke være.
+
+48:08
+Så svaret er nej. Fucking.
+
+48:20
+Farlige et eksempel til og.
+
+48:27
+Det kommer helt. Vi vil kigge på.
+
+48:40
+Matricer igen så er at selv. Og det hedder.
+
+48:52
+Hedder det Det hedder side to gange af to matricer og denne diagonal.
+
+49:00
+Der er denne her. Og.
+
+49:12
+Siden er. Spørgsmålet er om det er mere uafhængigt.
+
+49:25
+Så godt se at de konceptet linje er uafhængig det er ikke nyt for jer som sådan.
+
+49:31
+Dette er nyt, og vi skal prøve at forstå, at vi bruger noget vektorrum, som er meget mere abstrakte for denne her.
+
+49:39
+Hvad er elementerne for det vægtskålen, vi bør se på? Sved siger det er indholdet i et vektorrum for elementerne, så to gange to matricer.
+
+49:54
+For vi skal ikke tænke så meget over hvad det er, vi skal bare anvende denne her funktion, som vi siger.
+
+50:00
+Det her er smeltet væk, så ved et tog og ved et træ.
+
+50:09
+Vi har allerede sagt, at to gange to matricer danner et værktøj.
+
+50:14
+Og så siger vi, at elementerne bare vektorer, og så glemmer vi lidt om det indtil videre.
+
+50:20
+Og vi vil tjekke det nære urawa. Hvad skal vi tjekke? Byttede et frontlinie og kombination af de her elementer.
+
+50:28
+K Et 1 0 0 A knuse K tog dem klods kort tre gange dem.
+
+50:46
+OK! Og det skal være lige med 0 ml elementet.
+
+50:53
+Og det er så den matrix, som den indeholder noveller for.
+
+50:57
+Så lægger den sag af manden med at få den samme fri igen.
+
+51:09
+Vugge, for nu må jeg gerne huske at jeg matricer med ser på, for den ved jeg, hvordan de skal regne med.
+
+51:18
+Så nu går vi tilbage og tænker udregner. Jeg bliver så foran med, at folk, hvor der står en ko, et i.
+
+51:31
+Og her står vagt på to og tre sprog tre på tre fra 0.
+
+51:43
+Og det kan vi også udregne, for må jeg lægge hvert element sammen for at kåre et plus på to plus k tre?
+
+51:57
+Med få 0 +0, Pluskort 3 får sendt større.
+
+52:05
+Får 0 0 og CO 3, der bliver matchfixerne for Corvette +0 0.
+
+52:16
+Okay. Og det skal så stadig være lige med denne her 0 matrix, så skal vi finde frem til vedlægge kode tre,
+
+52:25
+kort to og kåre et kan de af ligninger, forsvar og til indledning.
+
+52:31
+Her er lige med noget, der er lig med 0 lige med 0 0.
+
+52:36
+Og så kan jeg se med det samme. K Atrium være lig med nul og tre må være lig med nul.
+
+52:48
+Så vil stige 0 her ende så kort, så også lig med nul.
+
+53:00
+For det vil sige at der kun findes en løsning for den her ligning, hvor Linnéa kombinationen er lig med nul,
+
+53:08
+og den er over at gå et, to og tre er lig med nul, og derfor kan de ikke være lineære og afhængige.
+
+53:16
+De er lineært uafhængige kilder fra før.
+
+53:22
+Hvor kan. Hvad er.
+
+53:28
+Spørgsmål. Ikke tilstrækkeligt forvirret endnu af abstrakte vægge, så det er godt.
+
+53:37
+Men det kan jo altid være der og flere spørgsmål, der dukker op.
+
+53:42
+Så kom fra og spørger Hvad ellers? Jo, jeg ved det.
+
+53:49
+Vi så ind, da jeg nåede til enden af første del.
+
+53:52
+Nogle minutter til en, og den anden dag bliver kun længere, så vi kunne komme frem til målet før pausen.
+
+54:04
+Om fem minutter. Og introducerer det vi egentlig er ude efter bliver snakket om.
+
+54:12
+Den er Basels. Og det vil vi definere nu.
+
+54:18
+Vi havde snakket om at vores basis. Den må ikke være lineær og afhængig ind med større linjer, afhængige elementer.
+
+54:28
+Så kunne jeg ikke opskrive entydige koordinater for en vægt.
+
+54:32
+Så det er den ene betingelse. Dvs. Vi har set, at væg til ord for basis vil stige.
+
+54:39
+Linie er uafhængig z, og det andet er selvfølgelig at spandet altså alle linjer og kombinationer af de to ord.
+
+54:49
+Det må være i stand til at opsparerne det her væk.
+
+54:54
+Hvis vi har kun to vektorer i hjemmeplejen, som jeg gjorde mest, skal vektorer.
+
+55:00
+Så kan jeg lige op spænde en plan, men ikke kommer.
+
+55:04
+Så skal vi have en fodermester, der peger. Ud af plan.
+
+55:10
+Og så har vi et lineært uafhængigt sæt.
+
+55:16
+Hvis vi har fundet en basis for, så gælder også en meget simpel sætning, og det er egentlig den, vi har snakket lidt om før.
+
+55:27
+Men hvis vi har en basis med et CV inden for V, så kan vi skrive et eller andet væk, så indeholdt ved en seddel.
+
+55:35
+Men en kombination af ved et CV en vil jeg gerne lige vise, og så fortsætter vi med eksempler på bagefter.
+
+55:46
+Efter pausen.
+
+56:01
+Vi plejer jo ikke at bevise de her sætninger, men for mange er beviser som illustrerer hvorfor er hvornår og kan give en dårlig forståelse for det.
+
+56:11
+Så i det her tilfælde er det sådan, at vi bedre forstå det.
+
+56:17
+Og beviset eller forklaring, hvis vi vel? Den er.
+
+56:27
+At vi beviste i første omgang antag at sætningen er forkert.
+
+56:45
+Det vil sige hvad vil det sige det er forkert. Altså vi tror stadig på antagelsen.
+
+56:52
+Isætning nemlig at hvis ved et CV er basis for v, h.
+
+56:58
+Så kan. Så sker der noget. Og hvor står det der sker?
+
+57:02
+Det skrives entydigt, at Irakkommissionen er ensidig, og det er en sag, at der ikke findes en entydig linje kombination,
+
+57:14
+eller at der findes to forskellige linjer og kombinationer, der kan gøre det samme.
+
+57:40
+For en så i rum, hvorved det skal være jeg skal have lidt mere plads.
+
+57:47
+Faktisk så. Så vi skriver det her ned.
+
+58:42
+Det vil sige jeg har den første denne kombination af.
+
+58:52
+Den. Af denne vægter.
+
+59:00
+Det ser sådan her ud. Hvis der findes en anden en jamen så må jeg vælge.
+
+59:07
+Der er selvfølgelig de samme rektorer på her. Man bliver nødt til at vælge nye konstanter.
+
+59:17
+Som udgangspunkt. Men det kræver altså stadigvæk at de tog væk, så det er den, der skal sige, jeg kan se, jeg kan knuse dem og fragte dem her fra.
+
+59:35
+Så får Ved min smag. På Venstre flyver.
+
+59:39
+Det er lig med nul reaktorer.
+
+59:42
+Og på højre side får jeg noget der hedder en kurv, et minus et jeg stokke med et plus kort sort minus to gange ved et sår og så videre.
+
+1:00:05
+Og så får vi det her. Men.
+
+1:00:12
+Ved et, så vil der også en Basses per definition pr antagelser for at sælge selv,
+
+1:00:20
+og hvis vi har som basis for den linje uafhængig og det vil sige den eneste løsning på denne her ligning, så står 0 her og den Linnéa kompensation.
+
+1:00:32
+Den må jo så være, at K et minus S er lig med nul og så videre.
+
+1:00:44
+Se alle de her tal skal være nul og derfra følger at.
+
+1:00:57
+De her. Det er med andre kombinationer faktisk kun kan være de samme ved antagelse er forkert.
+
+1:01:11
+Og. Dermed gælder alene i kombination af og ensidigt.
+
+1:01:35
+Det er jo sådan en vigtig egenskab, fordi det vi kommer til at opfatte her, er at koge et kort over Korine.
+
+1:01:43
+Det svarer til coordinator og ved et veto ved en ja basis, og sammen beskriver det denne væg, som vi er interesserede i på en entydig måde.
+
+1:01:56
+Der er ikke forskellige måder at gøre det på. Kan.
+
+1:02:01
+Så fyret, og så går vi i pausen spørgsmål.
+
+1:02:06
+Kom bare frem. Så diskuterer vi det, der starter kvart over elleve igen.
+
+1:14:23
+Det går dog i. Og lad os se at komme videre.
+
+1:14:32
+Jeg blev lige spurgt om. Er en af jeres små studerende, det er.
+
+1:14:42
+Det er lidt forvirrende at skelne afhængighed og lineare uafhængighed af et sæt koordinater.
+
+1:14:48
+Jeg Varley igen sagde det engang så fint som en opstilling, så hvis I har gidet.
+
+1:14:56
+Det her sæt af vektorer forskellige kik på denne kombination.
+
+1:15:04
+Sæt den lige med 0. Hvis den eneste løsning for den ledning det svarer til lignende systemer er,
+
+1:15:13
+at alle de kort hvor de skal være 0, så hedder altså sættet lineært uafhængige.
+
+1:15:21
+Det er den eneste løsning der findes på den anden side for rød.
+
+1:15:26
+Ved at ligne afhængighed betyder alt.
+
+1:15:30
+Du kan tage en af de her vektorer og skrive det som en linear kombination af en leder vektorer, for eksempel kokainsag pille ved et herud.
+
+1:15:41
+Så skriver vi, hvad civile skriver det om, så får vi summen af de andre på højreside.
+
+1:15:50
+Og en morlille, en kombination vi kan se på er, at KS bare lige med én forstår dig ved et ja,
+
+1:15:58
+så kan vi straks se at den so er de andre, og det skal være en egentlig væk.
+
+1:16:04
+Det vil sige det, der kommer ud af en væg, som er forskellig fra nul og ved kun i, hvis K 2 til kn er forskellig fra nul.
+
+1:16:15
+Ligeledes så smider skriver det kj på højere side, så kunne man jo også finde på at dividere det her ud.
+
+1:16:24
+Forstå det hernede. Hvis nu det set ville være linje uafhængig, så var den eneste løsning, at alle de hvor de er lidt med nul,
+
+1:16:35
+for dividere med 0 her, for så får en vægt fra højre på højre side, som går mod uendelig.
+
+1:16:43
+Det er ikke. Et tal som er indeholdt i vores tandlægen uanende og får ingen vægt, så han.
+
+1:16:52
+For det giver os et problem.
+
+1:16:57
+Jeg vil bare lige gentage det vi har lært om basis for vil vi se på nogle eksempler fra baser i forskellige vækster rum for at
+
+1:17:07
+vi kan blive kendt med de her ved bedre at kende og med de her abstrakte vektorrum for vi en basis for et vektorrum ved dette.
+
+1:17:17
+Overordnet set er vektorer foldet, så de er opspind og hele væk, så rummer.
+
+1:17:23
+Du skriver tilstrækkelig mange vektorer, og de skal være lineært uafhængige,
+
+1:17:28
+således at vi kan skrive vores vektorer på den ene side med, men er entydige linjer og kombinationer af de her basis vektorer.
+
+1:17:41
+Jeg siger det er ordnet, hvis vi skifter orden på de her vektorer, og så får vi en anden basis, og det vil vi se på det.
+
+1:17:49
+Eksempler lige om lidt. Og som sagt hvis vi har emballage, så kan vi skrive enhver vektor som en ensidig Eleni kombination falder ind over.
+
+1:18:06
+Så lad os lige se på det. Vi har.
+
+1:18:12
+At skrive har været fremført. Så kom i gang med den.
+
+1:18:37
+Vi har allerede nævnt er planen og rummer to væk.
+
+1:18:42
+Vi kender udmærket en standard basis.
+
+1:18:47
+Det skal vi bare lige forklare, hvad det er, for vi ved, hvad vi snakker om.
+
+1:18:54
+Så når prærien og vi bruger typisk det her symbol e.
+
+1:18:59
+Forstandere basis i forhold til det rum vektorrum vi har valgt og det hedder sig i og J.
+
+1:19:08
+Er de ord, der peger langs koordinaterne. Vi er ikke forandret, for nye retninger har længe været ind og former.
+
+1:19:19
+Hvad er der så tilsvarende? 3.
+
+1:19:23
+Og det hedder i og fra K. Så har vi.
+
+1:19:34
+Så har vi vores. Standard basis for er en grund.
+
+1:19:50
+Kigger jeg på, danner basis det de er de typisk de nemmeste eller bedste valg for.
+
+1:19:56
+Om Basses med mindre andet valg af en basis er mere nyttigt i visse sammenhænge eller for problemer, er givet i en anden basis.
+
+1:20:10
+Sådan ser jeg dagen ud. Der ser jeg så noget, at den har første element, og det indeholder en elementer i elementet.
+
+1:20:24
+For det andet nul komma 1 0 og så videre 0 og så videre.
+
+1:20:30
+Så et tallet flytter bare til næste position hver gang, så vi er nået til det sidste, som har ud, og som ender med et salg for sidst.
+
+1:20:42
+Det er vores stemme, der har basis, så hver.
+
+1:20:54
+Bøde er der også numbers begrebet skal have indført, og det har jeg glemt.
+
+1:21:00
+De kommer for at skære mig her. Det ene er at.
+
+1:21:09
+End man kan se på antallet af basis vektorer, og så her har vi så en styks og en sætning,
+
+1:21:18
+der siger, at det er antallet af Basses, så det er uafhængigt af hvilket hvilken basis man vælger.
+
+1:21:26
+Man kunne også have valgt en anden basis for det, der får lige så mange og bestil lige så mange.
+
+1:21:32
+Så kan man også erklære dimensionen af et vektorrum, som svarer nøjagtig til det antal Basses vektorer.
+
+1:21:39
+Så hvis vi har en for, skriver vi, at dimension er 1.
+
+1:21:46
+Ja, altså lige med en. Og vi skal også se på coordinator.
+
+1:21:58
+Altså hvis vi har en basses ved et, ved en og en eller anden for givet for den lineære kombination af de basis vektorer,
+
+1:22:05
+så som vi nu ved, at den kan skrives entydigt. Det vil sige k et til korean har kun én og kun én værdi skrevet koordinat væk, så af V med hensyn,
+
+1:22:18
+så den basis vi har valgt som sådan, er en søjle væk, så som indeholder de her tal k et til K1.
+
+1:22:25
+Det her koordinat med et tårn. For sørøvere anvendte da 1.
+
+1:22:33
+Men nu bruger man for eksempel ser på.
+
+1:22:42
+3. Det er mere overskueligt. Så har vi en stander basis.
+
+1:22:55
+Nu, og det hele starter med 1,0 og med 0 0 kommer 1,0 0,0 for mig i.
+
+1:23:17
+Så kunne man jo spørge. Eller man kan jo gearede man kan citere en vægt guide, der hedder ved lige med X, Y og z.
+
+1:23:37
+Og så spørger man. Hvad er koordinaterne?
+
+1:23:57
+Med hensyn til stemmeret basis.
+
+1:24:04
+Det skal man altid skrive med hensyn til hvad. Og.
+
+1:24:20
+Vi kan skrive hvad det er lige meget.
+
+1:24:27
+6 gange den første basis svigter de ganger ex med den her formiddag fyres der her og ligeledes en ganget med 0 kommer ind,
+
+1:24:44
+kommer nul og så os plus sæt gakkede.
+
+1:24:50
+0,0 kommer en tredje gang det her EM og her og han.
+
+1:24:57
+Og så lægger vi alle en drage sammen for få os x y z et sek.
+
+1:25:06
+For om så koordinat væk som for V med hensyn til Basses.
+
+1:25:13
+Det må så være eks ganger. Første fase svække sig, så der står ikke seere forstå og y koordinaten på anmeldelser og til sidst får vi selvfølgelig set.
+
+1:25:33
+Så nu kan jeg måske bedre se hvorfor.
+
+1:25:36
+Når vi ser på elementer i det her værktøj rum er tre, så hedder vi sådan noget som x, y z, og det er der i basen med et 0'er.
+
+1:25:46
+Det er ikke skal og skal ikke opfattes som koordinater i den sammenhæng.
+
+1:25:50
+Det er faktisk vektorer. Så kan vi vælge den basis, der danner basis, og i den kan vi så aflæse x, y og Z og opfatte dem selv som koordinater.
+
+1:26:02
+Men som det her par at alle eller Triple A tal, så er det ikke koordinater, der skal forstås som et element i rummet.
+
+1:26:14
+Når citrustræer, da vi kan vælge en. Anden basis var den her og nu.
+
+1:26:32
+B tog, og der skriver vi.
+
+1:26:45
+For det jeg gjorde er at bytte rundt på de to fases vektorer.
+
+1:26:50
+Hvordan ser så koordinat væk så noget? Ja, vi kan bare kalde det for B.
+
+1:26:56
+Så har vi for den samme vægt, så ved den, så kan jeg så skrives som summen af de værktøjer, som vi ganske vist i første omgang ikke skal nå den her.
+
+1:27:09
+Vi har et hér, men så står tallet her. Så der må man sætte gang i den her.
+
+1:27:16
+Plus den sidste. Og det dér ydre dukker op, for vi får en anden koordinat der i det her tilfælde.
+
+1:27:27
+Dele stryger også at ordenen for basis vektorer spiller en rolle.
+
+1:27:32
+Koordinaterne ser anderledes ud i og med at vi vælger at skrive for eksempel med sit bytte om på vægen og ved et,
+
+1:27:44
+så må vi også bytte rum for K et og kl.
+
+1:27:52
+Hvis vi ikke gjorde det, så kunne man jo også bytte rundt på koordinaterne for koordinater vægteren, og det duer jo egentlig ikke til noget.
+
+1:28:01
+Håkan. Så laves.
+
+1:28:08
+Kigge på Paulino med igen, men også om.
+
+1:28:15
+Denne er vores yndlings eksempel, så lad os prøve at blive mere venner med dem,
+
+1:28:21
+og så ser vi på vægge, så rummet bestående af Paulino med højst en grad.
+
+1:28:41
+Og der kan man så indføre Basses som hovedret.
+
+1:28:48
+Ja, det er ikke så Paulino, men vedkender det. Et selvmål for eks.
+
+1:28:54
+Seerne og X I endte højst en orden, der giver os en basis.
+
+1:29:05
+Bemærk i øvrigt også selv bruger operaen søges for her, så har vi overordnet set.
+
+1:29:09
+Det vil sige, at man ikke må bytte rundt på de her. Hvis jeg havde skrevet det med mængde klar, mon så må man godt skide storm på elementerne.
+
+1:29:22
+For et specielt navn for den her Basses hedder M, og det er fordi man kalder dem for mono mere Basses.
+
+1:29:34
+Det skal forstås som hvis vi har Pauly. Så har jeg som sum af alle de her termer.
+
+1:29:41
+Besidder mange form for græsk monomerer.
+
+1:29:45
+Det er en mono en, for der har man kun et enkelt møde på.
+
+1:29:52
+Det er måske gjort for at huske. Det er ikke fordi, det er vigtigt. Så kan man spørge sig.
+
+1:30:00
+Nu har vi jo det dimensions begrebet på den her privatsag år.
+
+1:30:09
+Så hvad er det min solen på? Det her er vel ikke så.
+
+1:30:17
+Ja. Inklusive en.
+
+1:30:21
+Det er rigtigt, for det ender med en hær, så det er måske det, der driller mere end det ene.
+
+1:30:28
+Her står 1 1 mod, hvad der kommer før sådan noget, så vi får en plus en berygtet for Vikær.
+
+1:30:40
+Kig på et eksempel her. Det hedder polynomium 5 x et tredje minus 7 x i anden plus x.
+
+1:30:55
+Og så kunne man spørge sig Hvad er koordinat så?
+
+1:31:02
+Og det skriver vi sådan beskriver stadigvæk p. Eks. Det er sådan jeg skriver vektorer i det her vektorrum.
+
+1:31:08
+Sådan er det. Og så skriver vi. Med hensyn til hvilken basis vil vi vide, hvad koordinaterne er, og nogle der kan aflæse dem her.
+
+1:31:24
+Ja. Den. Det er fem gange eks et forøvede, så hvis vi kigger på de her rum, så kunne man indføre en basis med tre fra fire.
+
+1:31:45
+Dimension 4 Var det måske bedre at skrive tre her?
+
+1:31:49
+Så har man en x eksamen og et tredje som Darker Exit prøvede.
+
+1:31:57
+Den første Basses viste sig Grand A5, og den skal den sidste med, så den først ind dukker et år op her.
+
+1:32:05
+Maj, så det er 0. Det første.
+
+1:32:10
+Så har vi x. Dukker det op, dukker en op.
+
+1:32:17
+Og X Jane er lige nu syv og fem er den sidste.
+
+1:32:26
+Så det var rigtig nok.
+
+1:32:28
+Du sagde bare at afhænge af, hvordan ordenerne du havde byttet ordenen rum jeres kammerat havde tænkt sig at have den bageste strasser og noget.
+
+1:32:40
+Jamen, hvis vi vil kalde de her versioner noget forskelligt m et og to, så er det ifølge.
+
+1:32:49
+To mænd har skrevet om til dem.
+
+1:32:55
+Først skulle jeg bare vende rundt på rækkefølgen, for der fandt en vej 5 mine 7 A og nu som helst.
+
+1:33:08
+Hvor kan. Men fuldstændig rigtigt altså.
+
+1:33:15
+Det viser sig bare definere først deres basis. Først så kan vi tale om koordinater eller godt tale om og ikke hvad de er optaget om bord for.
+
+1:33:33
+Et eksempel tilbage er det mere udførligt, som hvor vi forsøger at få alt det sammen, vi har lært i dag.
+
+1:33:49
+Så. Ja, jeg tror at vi kan stå op herovre.
+
+1:34:00
+Det kræver lidt mere underrum, det den længere.
+
+1:34:12
+Men begynder at skrive her i midten for at jeg ikke skal flytte så langt væk.
+
+1:34:19
+Og hvad er problemet? Problemstillingen er nummer A.
+
+1:34:26
+Der er to dele, nemlig Call Me A og B, og første del er et sæt givet, som vil jeg kalde B, og det hedder minus Jane.
+
+1:34:42
+6 og y +6 18.
+
+1:34:48
+Og vi vil spørge om det set er basis for.
+
+1:35:00
+Ud af hullet af er højest grad. Og hvis det er sådan.
+
+1:35:19
+Hvad er koordinaterne? Spurgt vægter det element der hed og a x er lig med op 3 x plus to x plus en.
+
+1:35:42
+Med hensyn til det vigtigste med næsten glemte at sige det, men du skal bare se.
+
+1:35:52
+Så hurtigt går det for i andre ord. Dan vil skrive.
+
+1:36:16
+P a s som denne kombination.
+
+1:36:30
+Sektorerne i vores indehold i sættet.
+
+1:36:34
+B. Glem med det og om.
+
+1:36:47
+Så det vil vi starte med, og vi starter med det samme møde.
+
+1:36:56
+Indføre basis og coordinator.
+
+1:37:09
+Med det samme. Så det giver mening.
+
+1:37:15
+Vi bliver nødt til at vide, hvad vi snakker om. Så hvad er det, vi gør?
+
+1:37:20
+Vi starter med at nedskrive vores polynomium.
+
+1:37:28
+Så en Linnéa kombination af de højere vektorer, det vil sige k, et gakket med en mine og så jeg ikke ser andet skal gå efter den her rækkefølge.
+
+1:37:40
+Selv om jeg måske ikke bryder mig om den er nemme at regne med med et minus.
+
+1:37:46
+Jeg kan sige ja.
+
+1:37:47
+Det er måske ikke så forfærdelig, men hvis der nu står et kæmpe lang Foligno med, jo mere med cykler, så ville jeg ikke synes, det var helt så.
+
+1:38:03
+Okay man. Det så bare om line i højre kombination for P.
+
+1:38:09
+Med hensyn til den Basses. Ja, så skriv det ned tidligere her.
+
+1:38:20
+Så kan vi skrive dem basis med hensyn til standard basis m.
+
+1:38:25
+Hvad var der lige denne vej? Det var en XX i anden.
+
+1:38:32
+Vi skal op til anden orden, for det er tilstrækkeligt. Det er den vej, så med hensyn til øen skriver kog over for det lidt nemmere ledes.
+
+1:38:47
+Forhåbentligt. Og det gælder også på venstresiden.
+
+1:38:55
+Altså hvis jeg har denne her basis M med et X, og jeg ikke sige jamen så har jeg et tal her som første koordinat.
+
+1:39:07
+Nu vil jeg skrive denne her søjler værk som om koordinater væk.
+
+1:39:13
+Jeg har to gange X og tre gange x Jane.
+
+1:39:20
+Svarene til den rækkefølge og beklagede selvfølgelig også gøre herover.
+
+1:39:25
+På den anden side, så får I så er, at et salg skal stå her i første del, hvor ingen x serien, så der er noget jeg ikke siger.
+
+1:39:37
+Jamen så står der at K et fair. Plus.
+
+1:39:49
+Så starter han med to eks dolke første og eller 03 år for et salg her.
+
+1:39:57
+Der står nul. Så står der kort sagt ko to polske 0 KO tog som er.
+
+1:40:15
+Står kort tredje gang en kort, tre eller nul gange X og K tre gange S i anden halvleg.
+
+1:40:26
+Hvor kendte statslige omformulere det her.
+
+1:40:31
+Denne her problemstilling. Og gav hvad har vi gjort ved at erklære vores standard basis for den her måde vi har det?
+
+1:41:07
+Hvordan? Niks, det er K et.
+
+1:41:28
+Og det vil vi skrive op som her. Det var altså koordinaterne på.
+
+1:41:35
+Så har vi. At skrive denne her Basses væg sig op, det skulle jeg måske have gjort.
+
+1:41:44
+Altså vi har en vinders eksil hjemme, der svarer til coordinator i følge mono med basis 1 0 og minus 1 småkager, skriver Ex.
+
+1:42:04
+Det svarer til den her koordinat væk. Og til allersidst.
+
+1:42:14
+Dagen her. Alle med det mål kan godt få skrevet det her noget.
+
+1:42:30
+På denne her måde. K to gange nul, et nul loose k tre ganget med 1 0 i frygteligt.
+
+1:42:43
+Det genkender vi. Det er en matrix ganget med en vektor, så vi kan skrive det her om du står dig selv.
+
+1:42:53
+Fylder disse søjler vektorer ind i en matrix? Så får vi den her skiderik lokket med på KFK tog kort tre.
+
+1:43:10
+Og det skal være lige med en, to, tre var fire år at meningsløs dag.
+
+1:43:15
+Det har vi lært alt om. Det er jo dejligt. Hvilken slags homogent sige nummer 1.
+
+1:43:26
+Forstå noget på højere niveauer, som nu er venstreside,
+
+1:43:31
+når den ukendte går et godt to kilo tre ganger med matrix er lig med noget, som er forskellig fra nulvækst.
+
+1:43:39
+Det er en ommer. Det er fedt.
+
+1:43:57
+Nu kan vi gøre alt, men er ved at lære at få betalt for, at de har fået her og hjemme og i ugen,
+
+1:44:03
+som har regnet som vi har med, at tryksager forlader skidtet.
+
+1:44:07
+Drag fordi vi mangler original.
+
+1:44:12
+Et besøg for kalder vi den var af format. Får. Og spørges der ved spørger Er det lykkedes Bart system?
+
+1:44:21
+Vi vil gerne vide, om vi kan skrive de her koordinater for vores Paulinho, men husk vi startede med, at der var på Linum.
+
+1:44:30
+Her prydes opskrive med hensyn serien basis B her.
+
+1:44:35
+Gedigen mærkelig facon. Så havde vi omskrevet hele øen for vores mor Naomi Bays og med et lignende system.
+
+1:44:45
+Her. Hvis der findes en løsning på et CO2 kvote træ, så det her system få svaret ja.
+
+1:44:54
+Vi kan skrive coordinator ned med hensyn til den her basis.
+
+1:45:02
+Leros Basel sejr hedder egentlig jeg ikke siger X og 1 plus jeg ikke siger han skrev i
+
+1:45:07
+coordinator under med på de her mærkelige basis vektorer badesøen til vores ikke mærkede,
+
+1:45:14
+hvor standret blæses. Så med blod. Hvordan virker?
+
+1:45:19
+Og så ender vi med et lignende system her, som egentlig er helt afhugget og uafhængigt af spørgsmålet.
+
+1:45:27
+Hvilket Basses system? Snakker vi om? Vi får bare stedet med et kort so cut 3, hvilket vi forstår som koordinater.
+
+1:45:37
+Med hensyn til vores basis spil, så vil vi lige kigge på.
+
+1:45:44
+Vi har så opgaven at se på en total matrix, der hedder redderen 1 0 1.
+
+1:45:55
+0 0 og minus 0 1.
+
+1:46:01
+Og så var den højreside eller Venstre. Her er det tilfældigheder.
+
+1:46:04
+1. 2 3. Hvordan skal vi gøre now forklare.
+
+1:46:10
+Vi kan ligge 40 til anden og tredje række.
+
+1:46:17
+Så får vi både vished for en have og for om det er det samme.
+
+1:46:25
+Så får vi nul for en nul ved for en plus i, der tog, og vi får fire lykkelige ideer en og tre.
+
+1:46:38
+Så kan vi dele den sidste med to. 0 0 A.
+
+1:46:55
+2. Er det her trappe form? Mig.
+
+1:47:01
+Jeg ryster på hovedet. Selvfølgelig ikke, for vi kan stadig komme af med det her nul terror, og for at møde, så skal der være noget eller observans.
+
+1:47:10
+Derfor skal der også være nul. Du skal vi for væk, så vi søgte højere tredje fra første række.
+
+1:47:19
+Så får vi er en minus er tre.
+
+1:47:24
+Så får vi en 0 0 med minus to.
+
+1:47:29
+Det er minus ét, og det samme rækker fem.
+
+1:47:35
+Som før for. OK, så glemmer vi at aflæse løsningen her, for så ganger KFK to kort, tre på koefficient matricen som reduceret trappe.
+
+1:47:50
+For så kan vi aflæse de her koordinater her.
+
+1:47:58
+For vi får simpelt hen den her løsning, der hedder minus 1 tog over to.
+
+1:48:17
+Godt se mange andre ting. Randen af denne her matrix er lig med tre.
+
+1:48:29
+Og det er den samme som rangerne Rogers Total Matrix, så det her system er løs fart,
+
+1:48:35
+og det har nøjagtig en løsning, og sådan skal det jo være, for hver Coed går to kort tre.
+
+1:48:41
+Vores koordinater ville vi ikke have at gøre med noget, som ikke er ensidigt for koordinat løsningen.
+
+1:48:53
+Så det kan man også lige belyse. Måske man kan spørge sig selv.
+
+1:49:02
+Er det er, så er den her basisfødevarer givet 1 6 siger 1 x en +6.
+
+1:49:10
+Det andet spørgsmål er det basis for p 2 er. Ja, hvor er det nu vi har skrevet de basis vektorer op.
+
+1:49:24
+Med hensyn til vores standarder Basel servil proppet dem ind i en matrix.
+
+1:49:29
+Det er en svarer det til koordinater. Vektorer er de linjer uafhængige.
+
+1:49:36
+Det kan vi nemt teste hvis vi skriver. Der står jeg måske klar for mange allerede, men lad os guldbogstaver og det.
+
+1:49:57
+Men lad os endelig gøre det som I har spørgsmål Er det siden at forbrug og afhængighed?
+
+1:50:13
+Sæt koordinator. Og testen for det må være at nu kan vi så denne her matrix A det du som sagt den hvor vi havde propfyldte søjler vektorer.
+
+1:50:35
+Det vil sige Basels vektorerne. Her og oppe fra kommer der noget, der skal vi skrive som Kenya kombinationer vil sige.
+
+1:50:46
+Vi så først hvad jeg svarer. Sættet svarer siden første række her her.
+
+1:50:52
+Den anden om fryder sig her, og det ganger vi på med K et sekund tre, og det skal være lige med den nulvækst.
+
+1:51:07
+Det havde vi så også Gausel med, og vi fandt, at det ser Gausel innovation.
+
+1:51:16
+Den kan jeg se som herud. Og derudover ved vi at den masse klarer sig.
+
+1:51:31
+Der var tre og den eneste løsning, hvis rang af den Masik sag er maksimal fromhed, så ved vi at.
+
+1:51:45
+Eneste løsning. På dette ledningsnet steg når du godt kan se, at det svarer til en kombination af de investorer, der er.
+
+1:52:11
+Den her vin i kombination. Det er det vi skal starte med, når vi skal se på, om den eneste løsning til det her være lig med 0 nul er, at K.O.
+
+1:52:29
+Et kor, to kort, tre lige med nul er den eneste løsning. Det havde vi omskrevet The Matrix.
+
+1:52:37
+Med hensyn til Basses, som er skrevet, opskrevet i stampe og stemmer bag sig,
+
+1:52:43
+så får vi med succes har vi reduceret, når den havde maksimal rang, og det vil sige, at de her søjler sover.
+
+1:52:53
+De kan kun producere en løsning, hvor q et kort og kort tre er lig med nul.
+
+1:53:04
+Få svaret må være ja, så det sæt er væk, så ord er linjen uafhængigt,
+
+1:53:11
+er der tilstrækkelig mange for at opsparerne et vektorrum for polynomier grad to.
+
+1:53:18
+Der er tre styks. Så ja, det er der. Så vi har faktisk den basis i det her tilfælde.
+
+1:53:25
+Men nu ud fra det her alene. Så kan vi altså sige, at B.
+
+1:53:35
+Bestående af en minusvækst Jane ex +6 Jane degenererer at spand.
+
+1:53:44
+B, og det er lige med p to.
+
+1:54:01
+Og det første spørgsmål var om I kan skrive koordinaterne for det polynomium op.
+
+1:54:10
+Det kan vi gøre om basis, og vi fandt også frem til løsningen.
+
+1:54:15
+Det var så de her koordinater, inden sagen tog og to.
+
+1:54:22
+Så er det her eksempel. Spørgsmål Så det dig?
+
+1:54:31
+Så bare lige for at ende med den bemærkning. Hvis nu drengen er vores matrix A her havde været mindre end tre.
+
+1:54:42
+Jamen så ville vi ikke kunne få noget af en entydig løsning her.
+
+1:54:46
+Så ville der være en fri parameter, og det vil svare igen til, at vi ikke har en entydig koordinat for det her system før.
+
+1:54:55
+Det illustrerer igen, at det er meget vigtigt, at det, der svarer til helt sund, er basis for vektorerne.
+
+1:55:02
+Hertil skal være signeret uafhængigt. Så hele de her fremgangsmåder de år på en måde uafhængigt af Basel svaler.
+
+1:55:13
+Altså når vi er nået frem til at opskrive det her i som Matrix problemer eller endda total matrix, så ser vi ikke længere på hvad der.
+
+1:55:24
+Hvilken basis vi har. I kunne være godt valgt en anden Basels vi arbejder med.
+
+1:55:30
+Vi ville have en med en let anden matrix, som også ender med at svare til et lignende system,
+
+1:55:37
+som skal løses, hvorpå vi skal finde en ensidig løsning og ved koordinater så det.
+
+1:55:44
+Det fortæller os, at vi har et meget stærkt redskab, man kan bruge.
+
+1:55:51
+Det er slutningen af tavle forløsningen for legen med æblet damer, jeg vil gå igennem mere.
+
+1:56:00
+Den er gået i stå. Starter vi det lige op.
+
+1:56:19
+Der. For klage.
+
+1:56:22
+Så fulgte vi lige igennem. For det første handler om at finde ud af om en væg forsøgte lineært uafhængigt, hvor tre vektorer er til tre.
+
+1:56:39
+Og i det her værk er der to fremgangsmåder, der illustrerer de ligner sig selv,
+
+1:56:47
+hvor meget den anden synes, at der er bare lidt fokus på nogle forskellige spørgsmål.
+
+1:56:53
+Så det vi gør, er, at vi opstiller et lignende system igen.
+
+1:56:57
+Hvor på venstre side står linjer kombination af to og tre.
+
+1:57:02
+Det skal testes folk i afhængighed, for vi kigger jo på den her.
+
+1:57:07
+Det her linings system, der opsætter vi så forcerede så noget,
+
+1:57:13
+og så spiller vi manuel højre koefficient matricen ud her på venstresiden og skriver side ind i en total matrix.
+
+1:57:25
+Det kan vi Gauss noget. Og I får denne her form med to ledere med et salg, og det vil sige, at drengen er to.
+
+1:57:33
+Det er mindre end antallet af ubekendte, så vi sætter uendelig mange løsninger.
+
+1:57:39
+Der er to frie parameter, og det betyder også, at der må være en løsning for eks et til to og tre.
+
+1:57:46
+Det er jo de ubekendte, som er forskellig fra 0, så de tre vektorer må være lineært uafhængige.
+
+1:57:58
+Den anden fremgangsmåde til der fare for med det samme.
+
+1:58:04
+De her vektorer og propper dem ned i en koefficient matrix og trapper bare den ned, så man ansætter en.
+
+1:58:17
+De er vektorer som vektorer med hensyn til standard basen, som beskriver dem bare én med det samme.
+
+1:58:25
+Hvad sidder de her golfcenter? Forstår indtog i nul. Bare for første søjle står han.
+
+1:58:33
+Trapper ned. Men igen ser vi randene er to, og det betyder, at vektorerne enden i den matrix er lineært uafhængige.
+
+1:58:43
+Man kan så også fortolke det lidt videre, og det er egentlig meget smart, at man kan skrive,
+
+1:58:50
+hvis man opfatter det her som en matrix bestående af en koefficient masse, som bare har to søjler dagen her og denne her.
+
+1:59:00
+Og det var højre side som, men som vi ved svarer til tre, så ville der være en del i højre kombination af første eller heroppe.
+
+1:59:09
+I første og anden exit ganger a f +6 to gange at to svarer til tre.
+
+1:59:19
+Det har så en enshed i L løsning, så vi kan skrive den i kombination ned med glidende ubekendte X, S og X2.
+
+1:59:33
+Det kan man også kontrollere. Så hvis vi tager minus ét.
+
+1:59:38
+Det er jo det, der svarer til et plus to får. Så får vi ikke a tre, for det er, som det skal være.
+
+1:59:47
+Så faktisk glemt at vise noget før det går helt hurtigt.
+
+1:59:53
+Det er det der hedder, at så store rum har. Vi indfører noget, der hedder underrum.
+
+1:59:59
+Intuitivt var klar, hvis jeg for eksempel tænker på det geometriske rum her for at underrum, klagen et eller andet plan vi vælger inden for rum.
+
+2:00:11
+Så definitionen er, at en delmængde af et værk af rum V det hedder u indhold i V, og det skal være ikke tomme mængde.
+
+2:00:21
+Det kalder vi et underrum, hvis du selv er et rum.
+
+2:00:27
+Så vi husker vores stabilitets krav. De skal også gælde her så ud og uge indholdet i EU.
+
+2:00:35
+Det skal igen være indholdet i undergrunden og estragon.
+
+2:00:38
+For så skal det også være indholdet i der, hvor alle de andre krav med, er det sorgen og multiplikation, de galal over.
+
+2:00:46
+I det store værk Humphrey moar automatisk skel i underrum, så dem behøver man ikke at tale.
+
+2:00:55
+Smagen er planlagt for at rumme det, men det har været nævnt.
+
+2:01:00
+Det er et underrum af Rom.
+
+2:01:07
+Er det tredimensionale rum. Denne øvelse.
+
+2:01:11
+Den handler netop om og det har vi både gode og skæve, symmetrisk 3 gange 3 med.
+
+2:01:19
+6 den ser sådan her ud. En sympatisk matrix ville være bygget sådan op, at der ikke var nogen minus fejring her.
+
+2:01:28
+Noget i den nedre tryk. Han vidste, hvad den skifter fortegn og så skæve smask.
+
+2:01:36
+Vi kan se alle dukker her op og her og ligesom spejlet hen over diagonalen.
+
+2:01:40
+Og hvor er forsvarsløs? Så hvis det skal være underrum, altså mængden af alle de her skæve, symmetriske matricer,
+
+2:01:51
+så må vi være i stand til at tage sådan en matrix og en anden, at det er den samme, og vi får stadigvæk en skæv, symmetrisk matrix.
+
+2:01:59
+Så får vi det her, og vi kan straks se, det er en skæv somalisk Matrix kyststrækning med en kog værdi.
+
+2:02:06
+De og vi får stadigvæk en skæv, symmetrisk matrix.
+
+2:02:13
+Spørgmål. Høj. Til allersidst som basis for den uden spænding er vektorer der det handler.
+
+2:02:24
+Så om. Et vektorrum hvor vi har som er opbygget af to gange to matricer.
+
+2:02:33
+De er givet her A, B, C og E. Og man kan så opstille en koordinat matrix for de fire vektorer med hensyn til at forstå den sædvanlige basis.
+
+2:02:49
+Hvad er det for man? Så nej.
+
+2:02:55
+Der har med den igen. Så I har meldt sig under.
+
+2:03:21
+Stående. To gange to matricer.
+
+2:03:33
+Og fraser som danner basis.
+
+2:03:41
+Og landet over den består også af to gange to par trusser og bh, og det hedder sig 1 0, 0 0.
+
+2:03:53
+0 1 0 0. Det er et sted, hvor der kun er et enkelt tal på én af de forskellige matrix elementer,
+
+2:04:18
+for vi kan tage så meget tryksager og skrive koordinat væk, som man føle den her basis ned, så vi har et tal her oppe i hjørnet.
+
+2:04:29
+Indgange bander jeg. Jamen, det er smidt noget i første søjle.
+
+2:04:35
+Så har vi minus seks gange dem der står minus seks to gange.
+
+2:04:42
+Dagen og nul gange en del, og det kan jeg se, det er det, der har fyldt på her i søjle.
+
+2:04:49
+Så i søjlen af denne her matrix. Om det så er den, tager vi en koordinat matrix, fordi her vækster i rummet af matricer.
+
+2:05:03
+Det kan vi gøre os noget igen. Vi får to ledende et salg.
+
+2:05:08
+Og det vil sige at dimensionen er en ud af alle mulige vranten af den her matrix er sorg,
+
+2:05:17
+og man siger så, at dimension er spanner A, A, B, C og E kun kan være to, fordi opspilede er større.
+
+2:05:30
+Så A, B og C og E er for mange vigtige ord for opspind vækstform.
+
+2:05:38
+For et rum, som I kan se, må være fire demensen alter og fire basis vektorer.
+
+2:05:47
+Og man kan så også se at koordinat hvor jeg er, så vil jeg gerne gøre den samme vej som vi gjorde her før.
+
+2:05:57
+I første eksempel er vi opdeler vores koefficient med to dele.
+
+2:06:04
+Den hvor der levede et salen og opfandt det sidste som højre side.
+
+2:06:10
+Det gør vi også her, og så kan man se at A og B er svarene til de første søjler er signeres uafhængige,
+
+2:06:20
+og man kan opskrive de anden tog som en linear kombination for de første.
+
+2:06:26
+Så kan jeg lige se på bagefter og afviser,
+
+2:06:32
+at koordinater så kan aflæses her på som minus trekvart minus fem kvarter har koordinaterne, som hedder Sune.
+
+2:06:42
+Med hensyn til den for de her to vektorer a og b vil sige sæd kan skrives som kinarejer kombinationer af væv, men netop de her koordinater.
+
+2:06:53
+Og omvendt har en så eller sælfangere har i de her koordinater, så det er det vi vil se os tjekket her.
+
+2:07:03
+Og det er det hele. Vi vil sige dig. Tak for du.

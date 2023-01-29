@@ -1,0 +1,1124 @@
+0:04
+Kan I høre noget? Er der. Sådan nogenlunde.
+
+0:11
+Velkommen tilbage efter overstået eksamen. Jeg håber det er gået godt, i hvert fald altsammen med nu, og det vil jeg gøre nu er,
+
+0:25
+at vi skal faktisk lave noget helt andet, end vi har lavet i efterårs semester.
+
+0:29
+Der kommer lidt lineær algebra ind, men det er minimalt, hvad der bliver det i år.
+
+0:33
+Det handler om funktioner af to variable i år og integrationen af dem hovedsageligt.
+
+0:40
+Der er faktisk kun sådan at vi kører 1 8 uger her med forelæsninger.
+
+0:45
+Så kommer projektperioden, men det kan jeres klasselærer også fortælle mere om, hvad det vil sige.
+
+0:51
+Så hvis de kigger på oversigten, så skal I ikke undre sig over, at det ser ud som om det ikke er så mange forelagdes, for det er faktisk før.
+
+0:57
+De ligger næsten allesammen. I havde de første otte uger, og så er det ved at være slut. Emnerne i dag, det vil være et lidt hårdt program i dag.
+
+1:04
+Det tror jeg nok, jeg kan sige, for vi skal lige i gang.
+
+1:11
+Men jeg vil prøve at undgå det der med at tale hurtigt, som også flere jeg har skrevet.
+
+1:16
+Og så tager vi den tid, det tager. Så min emner er funktioner af to variable.
+
+1:28
+Og så er det Apples niveau o.k. Så kommer der noget omkring kontinuitet differentiel minoritet.
+
+1:50
+Så kommer noget om gradient der. Og redningsholdet.
+
+2:04
+Og så lidt Mabel til sidst, som også er vigtige, fordi lige præcis det vi skal i gang med nu,
+
+2:09
+bliver Mabel et vigtigt redskab for at den kan meget nemt visualisere, altså tegne grafer, funktioner for funktioner af flere variable som flader.
+
+2:18
+Det var næsten umuligt at gøre i hånd. Tjah, det skal vi prøve at se.
+
+2:23
+Alle disse begreber, der står på tavlen her, illustreret med Mabel og set hvad betyder det sådan rent grafisk?
+
+2:31
+Ja, vi starter funktioner af to variabel. CM.
+
+2:45
+Nu skriver jeg to variabel, og det er sådan set ikke så vigtigt. Det er to variable.
+
+2:49
+Nu gør vi det for tog variabel dag, for jeg skriver unødig meget.
+
+2:52
+Men man kan oversætte stort set alt, hvad vi laver i dag til funktioner af flere variable end 2.
+
+2:57
+Power er en funktion af mere end to variable.
+
+2:59
+Så kan vi ikke tegne den ved at trække nogen grad, for kom vi op i fire for at få plads til at tegne den.
+
+3:06
+Så derfor ser vi hovedtale på fusionen af to variable, og vi starter lige ud med et eksempel på sådan funktion.
+
+3:12
+Så for at forstå, hvordan fungerer sådan noget, vi ser på en funktion f.
+
+3:18
+Ex kommer e 9 x i anden plus sky an.
+
+3:22
+Det er klart en funktion af to variable, da en variabel ikke sådan vejer bly,
+
+3:26
+og da kan man sætte nogle værdier ind, så ikke plads, og så får man nogle værdier ud herover.
+
+3:33
+Det kunne man så vælge at plotte ind i et koordinatsystem, og den tror jeg lige akkurat, vi kan sådan nogenlunde illustrere, hvordan de ser ud.
+
+3:43
+X y z. Fordi det er jo ligesom med et.
+
+3:49
+En funktion af en variabel. F. Eks. Hvis FN ikke ser og så er det en funktion f.
+
+3:54
+Eks. Jamen så skal være en eksakt samme nuance for at tegne den.
+
+3:58
+Nu har vi så to variable end x y plan, og det vil sige de værdier funktionen antager i punkter ned i planen.
+
+4:05
+De skal tegnes op af z aksen. Denne hvordan ser den egentlig ud?
+
+4:11
+Ja, vi kan jo forestille os, hvis vi ikke hele tiden var nul, så er den pape. Såvel syge er konstant 0, så den drabelige i.
+
+4:20
+I blandes og dermed kan være fordi enten i.
+
+4:26
+Sonder i den by z planen, da det også en Perrault V6'er nul og.
+
+4:33
+Så svarer det til simpelt hen. At jeg har drejet denne her parabel rundt.
+
+4:40
+Omsætter Aksel. Hvorfor det forholder sig sådan?
+
+4:44
+Ja, det er måske let nok at se fordi. Det der sker her er, at uanset.
+
+4:55
+Hvad siger denne funktion i virkeligheden, der angiver den jo afstanden.
+
+5:01
+Ind til. Nulpunktet.
+
+5:05
+Altså hvornår den have nul. Den angiver afstanden indtil nulpunkt, og fordi exil anden cozy and det er jo afstanden ned.
+
+5:11
+Det ved jeg ikke. MyPlanet til et punkt hjemmesygeplejen. Indtil når der kommer dårlige eksempler.
+
+5:17
+Så vi kan se den når vi er inde i 0,0, jamen så er den der afstand i anden her.
+
+5:22
+Den er nul, og jo længere vi kommer ud og fra, hvis vi er ude i en afstand ét, jamen så er vi oppe i en højde på denne.
+
+5:28
+Her er vi ude i en afstand. 2. Så er vi oppe i en højde fire på den her, for det er afstanden i hjernen, der står her.
+
+5:36
+Sådan ser grafen ud for denne her. Det er altså en flade, der er sådan en paraboler.
+
+5:42
+Flaget her. Så må vi se, er der nogle værdier vi ikke må sætte ind i denne her?
+
+5:47
+Nej, det er da ikke så definitionsmængden for denne funktion. Den er faktisk alle de.
+
+5:54
+Der er hele to. Vi må altså på enhver værdig en ekstra mil på denne her.
+
+6:01
+Der er ikke noget der konflikter med, og det andet er lidt det samme. Hvad så med værdimængden for denne funktion?
+
+6:07
+Jamen, er det meningen? For eller at foreslå det vi ser, er så alle tal fra nul og så til uendeligt.
+
+6:14
+Det kan skrives i intervallet fra nul til uændret.
+
+6:21
+Så præcis som for funktionen af endnu ældre kan vi tale om det sjovt ting vi tager med de mængder.
+
+6:25
+Eneste forskel er her definitionsmængden nu bliver punkt mængder nede i planen og ikke mere intervaller som værdimængden er stadig den til Valther.
+
+6:35
+Jest. Som da.
+
+6:42
+Skal vi lade den stå ti sekunder? Jeg ved ikke om vi lige skal Phil, eller jeg skal trække ned lige om lidt, men lad os lige prøve at.
+
+6:48
+Og lige se på et andet eksempel for så en fusion er.
+
+6:54
+Lad os se på en der ligner denne. Nemlig Fàbregas kom en lige med kvadratroden af fire minus eksamen hviler sin hjernen.
+
+7:09
+S. Hvordan ser denne her mon ud? Ja, igen ligesom den foregående vi havde herovre.
+
+7:22
+Så er den der konstant på cirkler omkring 0,0.
+
+7:29
+Hvorfor er den det? Ja, det kan vi i hvert fald skrive som kvadratroden af fire minus ekser,
+
+7:35
+anden plus i anden og ikke sige andet i anden afstand i anden indtil 0,0 nede i ægge syge.
+
+7:41
+Planen tager rundt på en cirkel i fjerne tarmen. Afstanden 12,0 så de konstant, og så er det hele altså konstant.
+
+7:49
+Det vi kan se her er, at den har sit maksimum, når det her er mindst muligt.
+
+7:54
+Det vil sige, at der er nul. Sådan kvart mod fire, så er vi oppe i to på z aksen, så vi igen prøver at illustrere grafen kort.
+
+8:05
+X y planen og så z aksen her.
+
+8:10
+Så kan vi se, at når vi er oppe i to på z aksen, så har denne her sit maksimum for både eksamen i nul henover 0,0 i exit plan.
+
+8:20
+Og hvis de begge to har nul, så står det kravet 4 2. Men så kan vi så se hvad det mindste land den kan blive.
+
+8:29
+Jamen når dette endda giver fire.
+
+8:33
+Så stort det firmaet 4, så giver det nul, hvis der bliver mindre end fire eller rettere investeringen bliver større end 4.
+
+8:42
+Så tager vi mere fra en 4 partnere negativt. Det kan vi ikke.
+
+8:46
+Så det mindste den kan blive det nul, og det er den når ikke sit andet bluesy andet lige.
+
+8:50
+4. Det er en cirkel med radio, står der nede i byplanen her.
+
+8:55
+Der har vi altså en funktion for på nul ved Franchell på radio.
+
+8:59
+To af eksemplerne. Det kan igen tegne den.
+
+9:04
+Den er konstant på sådan nogle cirkler her, for det er denne her ligesom før.
+
+9:10
+Parabol viden der bare vender og nu ligner populært, da vender nu bare spidsen op af.
+
+9:16
+Hvad er dens definitionsmængde? Ja, det er lidt sværere at skrive.
+
+9:20
+Det er ikke svært at se, hvad det er, fordi vi kan på et hvilket som helst ex comme y en, der ligger i denne her cirkel skive blanding.
+
+9:29
+Det vil sige den cirkel skal i planen ærgrer os definitionsmængde. Det skriver man, hvis man skriver det pænt som de ex.
+
+9:36
+Comme øer tilhørende 2. Hvorom der gælder at exit er anden plus Y i anden er mindre end eller lig med 2.
+
+9:46
+I anden. Og det giver også god mening, at hvis dette udtryk er mindre end eller lig med 2.
+
+9:54
+Jamen så er vi der før må sige skal det ikke være lig med nul?
+
+9:58
+Er der et eller andet? Nej, det skal det jo ikke, fordi det er det automatisk XL and beauty and ærestegn manual.
+
+10:03
+Så dér checker skiven med radius. 2. Det er en dør, hvad værdimængden af denne her, og det kan vi også set over.
+
+10:11
+Værdimængden af tager alle værdier mellem to som sin maksimale værdi og ned til planen, hvor sæt værdien er nul.
+
+10:18
+Så den går fra 0 til 2. Sådan. Så funktioner jeg tog, var jeg blevet lidt sværere måske at visualisere sådan en funktion er en variant,
+
+10:30
+hvor man nemt kan kigge på grafen, hvor den største og mindste værdi så lidt med at tænke over her.
+
+10:36
+Hvordan kunne man så illustrere funktion af to variabel her, hvis man ikke var så god til at tegne,
+
+10:42
+eller at man skulle være helt sikker på, at modtageren forstod hvad man lavede?
+
+10:47
+Ja, så ville man faktisk gøre typisk som man gør, når man laver et atlas.
+
+10:51
+Hvordan laver man et atlas? Jamen, tegner et fladt billede af Danmark for eksempel.
+
+10:57
+Og så laver man nogle streger, og på den streg, der mandag er højden over havets overflade 12 meter,
+
+11:04
+så laver man en streg inde i land og da højden over havets overflade 20 meter, og så kan man godt se, at der er voksne datter.
+
+11:09
+12 meter er der tyve med. Der går det altså opad i landskabet. Andre steder går der måske ned af disse streger.
+
+11:15
+Der står nogle tal højt kuren, vi har lært det vi kalder niveau, koger, så hvordan kunne man illustrere sådan et grafisk forløb ved hjælp af Nivågård?
+
+11:34
+Ja, lad os prøve at se på den graf vi så på.
+
+11:38
+Lad os bare tage denne op. Hvordan vi niveau kurven ser ud, hvordan det er at.
+
+11:45
+Ja, så tager man altså hér. Sine æg sygeplejen.
+
+11:51
+Og så tegner man cirkler på cirkler der. Den der funktion hjertet konstant som på denne cirkel med radius 2.
+
+12:06
+Der har den svarer til et niveau, altså en højde over køreplanen på nul, kaldes den nul niveauet.
+
+12:14
+Det her. Så kunne vi fortsat, og så går vi så se hvad det næste niveau.
+
+12:29
+Ja, så kunne vi gå en tak eller sige hvornår den 1.
+
+12:31
+År og hvor den måske 1,9 år, og så vi få en hel masse af koncentriske cirkler hér, der svarer til præcis bare en prik ind i midten, der svarer til.
+
+12:47
+De forskellige højde Hvis vi skærer denne her parabel af stumper med planer, så får vi de her cirkler her, og det vi kan se her, er,
+
+12:58
+at hvis nu vi siger, at vi har lige stor afstand mellem niveauerne her, så vi har et nul niveau, så den der svarer til niveauet måske 1,8.
+
+13:06
+Den svarer til niveauet 1,6 og hele vejen ind til et niveau nul.
+
+13:09
+Hvis vi investerer, hvis vi tager de niveauer, så angiver afstanden mellem disse niveauer linjer.
+
+13:15
+Den angiver, hvor hurtigt den stiger. For jo større afstand der er, jo langsommere vokser den.
+
+13:22
+Frida går længere tid før vi går fra ferie fra 2 op til 1,8, og der er langt ind, hvis de springer lynhurtigt fra fra 0,2 indtil nul.
+
+13:30
+Så den voksne. Dette er afstanden hævet, den vokser. Det angiver altså en det siger noget om, hvor hurtigt vi vokser mellem de høje niveauer.
+
+13:38
+Nu er det ikke ret godt. Tegnede det her for, at den vokser rent faktisk rigtig hurtigt.
+
+13:44
+Ude i evigheden parabel den vokser hurtigt herude, hvor langt væk kommer en meget flad op i toppen, så det burde have været fuldstændig omvendt.
+
+13:51
+Altså med stor afstand. Her en ganske lille afstand ud ved den yderste Korea mellem Nivå grunden.
+
+13:59
+Så derfor plejer man heller ikke at skrive nul Ivo og 1,89 om det kunne man gøre.
+
+14:03
+Men altså mavens barakbyer om Nivågård. Så får vi bare en stribe kurver med med lige stor afstand mellem niveauerne.
+
+14:11
+Og det er sådan det er.
+
+14:12
+Det er jo en måde at anskue denne 3D figur på ved hjælp af en plan tegning, og det er det, Nivågård går ud på, og vi skal se yderligere ting i dag,
+
+14:20
+når det hedder gradient vektorer, vi også skal indtegnet på denne her, som også forsker i planen, og som siger noget om 3D grafen.
+
+14:27
+Så det er den kobling mellem den plane figur og så vores rigtige tredje graf.
+
+14:32
+Rigtig meget. Det vi laver, handler om i dag. Ja.
+
+14:37
+Så hvis vi så global hvert niveau koger helt præcist. Ja, hvis vi har en funktion f.ex.
+
+14:42
+Kommer en. Være sig en på.
+
+14:53
+Han Nivågård. Den kalder vi typisk Corse, hvor SE svarede til se niveauet og hvad vil det sige?
+
+15:01
+Ja, det vil sige det. De kommer ikke. Herinde nede blandt tilhørerne er 2.
+
+15:09
+Hvorom der gælder at f. F. Eks kommer ind er lig med se.
+
+15:17
+Så alle de x kommer ryger ned i køreplanen, som giver funktionen værdien se samlingen af alle de punkter jeg ikke byplanen er o.k.
+
+15:28
+Og det er altså også det, vi står her, at hvis vores funktion her op skulle give, have niveauet 2 her.
+
+15:36
+Jamen. Så hvad hedder det?
+
+15:41
+Så kan vi se, at hvornår er f.ex. Kommet? Y her?
+
+15:45
+Hvornår den egentlig lige med 2. Det er den.
+
+15:49
+Når både X og Y er lig med nul, så i det tilfælde A-niveau, kunne jeg simpelt hen bare et punkt det punkt der her.
+
+15:57
+Og hvis vi spørger hvornår er denne her lige med nul? Ja, så svarer det til at det deroppe skal være lig med nul og det lig med nul.
+
+16:04
+Den er ikke stjernen på sit andet liv med fire. Det er det på en det med Radio 2, så da vi niveau kun herude.
+
+16:10
+Hvad en cirkel var, desto så er selv med det niveau Korea.
+
+16:15
+Og hvis man ikke overvejede så meget. Måske tænker jeg meget indviklede det her, men tænker bare over det.
+
+16:20
+Hvad er det? Ligesom på et atlas. Det betyder, at I på Nivågård har vores skafter også den samme højde.
+
+16:27
+Jamen, så er det ikke andet end ogå. Godt.
+
+16:35
+Jeg bruger tid på det første og bare lige for at den næste ikke bliver fuldstændig abstrakt,
+
+16:39
+når nu vi lige om lidt bygger taler om kontinuitet og differentiabel teater, som kan have de her figurer inde i hovedet.
+
+16:47
+Så er vi kommet til kontinuitet der over med, inden vi kommer autoritet ved at sortere to funktioner mere, som vi skal bruge flere gange i dag.
+
+16:57
+Og som er vigtig. Vi skal lære at dosere afstands funktionen.
+
+17:05
+Bang. Ro.
+
+17:17
+Og hvordan ser også deres funktion ud neuroser, afstands funktionen, timeplanen.
+
+17:25
+Jeg gider ikke at tegne grafen for den, men bare forklar hvad den gør.
+
+17:29
+Selv hvis vi har et fast punkt x nul komma øen nul og et variabelt punkt x komme y,
+
+17:35
+så angiver afstands funktionen simpelthen bare afstanden mellem de to punkter.
+
+17:40
+Så ro, lær i virkelighed, burde man skrive sådan her? Ro.
+
+17:43
+Den er lige med, og det gør de også i en, der var så præcis, at den skal tage et eller andet udgangspunkt.
+
+17:49
+Og sådan en funktion af det løbende punkt. Og så angiver den den afstand der, og den kan vi jo se med afstand.
+
+17:56
+Formen er den så bare er ex minus 6 0 i andet plus minus med nul i alt det, der er en funktion af to variabel.
+
+18:05
+Og grafen er igennem noget, der minder om som en. End hans drabet.
+
+18:10
+Der er røde som før, men den er konstant på cirkler omkring 0,0, og det er den jo af den simple årsag, at der er afstand den samme.
+
+18:18
+Indtil 0,0 eller hvad hedder det?
+
+18:22
+Cirkler omkring x0 kommer ikke i nul, og det er den jo fordi,
+
+18:24
+at afstanden på en cirkel omkring x0 Karmøy nul er den samme hele vejen rundt og derfor afviste resolutionen der konstant.
+
+18:34
+Så det er afslørende funktionen, og vi vil ikke skrive dette som man gør i noterne.
+
+18:38
+Her vil forlagene bare skrive ro for ikke at have alt for mange bogstaver med.
+
+18:44
+Men det er klart man skal sige hvilken punkt tager denne her afstand tog udgangspunkt i?
+
+18:51
+Når det er den ene funktion der var vigtigt vi skal bruge i dag. Den anden funktion der er vigtig.
+
+18:55
+Der kan måske have på den samme tavle faktisk. Det er en funktion vi kender.
+
+19:00
+Nu skal vi helt tilbage til fireårsperiode nær, nemlig epsilon funktionen.
+
+19:10
+Epsilon funktioner eller kald og være en epsilon funktion.
+
+19:15
+Jeg er en epsilon funktionen. Er en funktion.
+
+19:25
+Defineret. På en åben.
+
+19:32
+Mængde. Ja, hvad sidder en åben mængde?
+
+19:40
+PR det betyder det siger vist med det vi sidder, og det vil sige en åben mængde.
+
+19:48
+Indeholdende. Punktet.
+
+19:57
+0,0. Også skal gælde to ting Kampen, der skal gælde epsilon er 0,0, da den defineret i det skal være nul.
+
+20:07
+Og 2. Epsilon af ex kommer ikke.
+
+20:13
+Altså inden for den datamængder den er defineret på. Den skal gå mod nul for ex komma y.
+
+20:23
+Gående mod nul komma nul, altså hvis vi nærmer os det der er 0,0 for en eller anden side.
+
+20:31
+Jamen så skal den grænseværdi det er når vi kommer tættere og tættere på 0,0.
+
+20:35
+Der skal altså også er grænseværdien nul. Det er jo lige det med den åbne mængde.
+
+20:41
+Det er et af temaerne på på torsdag vil uddybe mere.
+
+20:45
+Det betyder simpelt hen bare. Vi går forbigår forstæderne.
+
+20:49
+Et eksempel på en åben mængde. Vi kunne se på exit er anden plus øget i anden mindre end fire.
+
+20:56
+Det er altså en cirkel skive med Radio 2, hvor kanalen lige akkurat ikke er med, fordi den skal være skarpt mindre end 80 sek.
+
+21:03
+Der må altså ikke være fire. Man må godt være 3,9 milevidt ind i en sådan mængde.
+
+21:08
+Ser sådan her ud. Stemplede den som band Logan.
+
+21:15
+Det vil sige det er alt det indfriet, den her. Det er vores mening, der er åben, fordi den ikke indeholder nogen brændpunkter.
+
+21:22
+De punkter den er ude i kanten, er den direkte med, og det gode ved sådan en mængde er, når vi laver det her.
+
+21:28
+Det er, at så kan vi nærmer os ethvert punkt i sådan en mængde.
+
+21:31
+Det kan vi nærmer os fra alle sider, for vi kan altid komme fra en hvilken som helst side.
+
+21:35
+Det vil vi ikke kunne, hvis vi stod på randen. Så ville det være nogle punkter, vi ikke nogen retninger.
+
+21:38
+Vi kunne nærme os punkt for dem. Nu kom vi udefra uden for vores mængde.
+
+21:43
+Det kan når en åben mængde, så i hvert punkt herinde. Det vil vi kunne nærme os punktet fra alle sider, for vi kan aldrig være på randen.
+
+21:50
+Vi må altid være lidt inden for rammen, og så kan vi så sige, at afstanden fra det punkt herude til randen,
+
+21:55
+der er et lille stykke hen, bare tage det halve, der cirkler omkring. Så har vi en mængde, vi kan nærme os punktet fra.
+
+22:01
+Fra alle sider. Så åbne mængder har så lidt, at vi ikke har noget brand.
+
+22:05
+Til sammenligning så kan man se et åbent interval på den reelle akse af det, der svarer til en åben mængde i planen.
+
+22:13
+Så det var jo også det, vi gjorde, når vi defineret. De Fraser Benitez tidligt skal være et åbent interval.
+
+22:17
+Vi definerer det på, fordi vi definerer ikke differentiabel tilbud i endepunkter, for der har vi et eller andet.
+
+22:21
+Men vi kan ikke tage en grænseværdi, når vi står i dette punkt. Så er der scener med de grænser for højre og venstre og sådan noget.
+
+22:29
+Men det vil du ikke tænke over nu. Vi siger bare vores mening er åben her, og så er det overstået.
+
+22:36
+Godt, så der er to vigtige funktioner. Det er klart det her er også en funktion af to variable, så man ser hvordan ser den ud da?
+
+22:43
+Altså alle funktioner der opfylder det her, er næppe en funktion, så det kunne være for eksempel funktionen ikke sige anden bluesy anden.
+
+22:49
+Vi så på denne epsilon funktion. Den er 0 0, og når vi nærmer os 0,0 fra alle sider, så går.
+
+22:54
+Den her grænse bliver nok. Der er masser af andre rigtig meget de funktioner der har værdien nul nul er Epson funktioner.
+
+23:02
+Hvis bare de er der skaffer penge sammenhængen de continue der.
+
+23:08
+Når. Dem skal vi bruge lige om lidt.
+
+23:13
+Dette. Og hvis nogen kan huske helt tilbage til fire ugers periode, ville jeg også være klar over, at de efterhånden funktioner.
+
+23:20
+Dem brugte vi, da vi definerede kontinuitet og teambuilding i en variabel.
+
+23:28
+Diaz kontinuitet for funktioner af flere variable. En funktion.
+
+23:44
+F. Er kontinuert.
+
+23:53
+I x0 kommer øen nul. Underforstået at dette punkt ligger i funktionens definitionsmængde.
+
+24:02
+Et internt definitionsmængden. På dette punkt.
+
+24:09
+Hvis. Der findes. Det er en epsilon funktion.
+
+24:19
+Således. At vores funktion f.ex.
+
+24:26
+Karmøy en lille åben.
+
+24:31
+Omegn, altså en lille åben område omkring x0, Karmøy nul, der kan vores funktion f.ex.
+
+24:36
+Tromøy skrives om. F. Ex. Nul komma nul plus en epsilon funktion af ex minus ex.
+
+24:45
+Nul komma minus nul. Det vi gør her, det er bare at vi rykker epsilon funktionen hen i punktet x0 kommer noget.
+
+24:54
+Dette det der siger dette er altså, at hvis jeg kommer tilstrækkeligt tæt på x0 kommer nye nul herover, så er det her noget der er meget småt.
+
+25:02
+Det er tæt på nul, og så får funktionen her værdien som f.ex.
+
+25:10
+0,10. Så når vi nærmer os ikke, så øen nærmer sig x0 og nul, jamen så vil disse to også stemmer overens.
+
+25:18
+Det er ligesom consultant i en variabel, hvor vi sagde Jamen, den skal have funktions værdien, og grænseværdien skal være det samme i punktet.
+
+25:25
+Der må ikke have et spring. I må ikke have sprængt derpå, hvis den skal være konserveret og det samme.
+
+25:35
+Altså når når ikke så nytåret nærmer sig. Eller når ikke så nervøs, at jeg ikke slår nytåret, skal den også nærme sig for lignende.
+
+25:45
+De visse funktioner vi kender er kontinuert la vil jeg give et eksempel.
+
+25:53
+Og vi giver et eksempel på en koncert og der ikke er kontrol, da der ikke er konturerne af et noget bizart eksempel, som vi skal sælge lidt.
+
+26:03
+Eksemplet. Ja, hvis vi ser på vores funktion fra før f.ex ekstra egentlig ikke sige andet blev syg hjerne.
+
+26:11
+Er den mon kontinuert? Ja, vi kan jo bare prøve at skrive vores definition op hér, så skal jeg så skrive f.ex.
+
+26:17
+Karmøy. Det er ægte anden. Jozy hjerne skal være lig med, skal jeg sætte vores punkt.
+
+26:25
+Men når nu ser jeg hvor i hvilket punkt jeg siger bare i et hvilket som helst punkt hér.
+
+26:29
+Grene vælger et punkt, men hvis jeg ikke siger noget om om om ekstra lyn nul, så er det jo bare et vilkårligt punkt i et definitionsmængden for F.
+
+26:37
+Som var hele to, så det kan være et hvilket som helst punkt. Ja, det var et fast punkt. Plus epsilon af Exmoor.
+
+26:44
+6 0 kom ydermere til nul. Det der egentlig skal undersøges nu, findes der næppe en funktion, så det er opfyldt,
+
+26:52
+og det er der jo flere kan jo trække dette over på den anden side. Og så står der, hvad den er, så lad os dog ikke sige andet.
+
+26:57
+Min musik snorlige an traktatændringer plus y i andet stræk en anden når minus yderligere 1 er lig med epsilon x minus ex nul komma i minus.
+
+27:09
+Spørgsmål Er det der står her? Det er næppe en funktion, og det er det, når X går mod x0.
+
+27:15
+Så nærmer sig x0, og y nærmer sig jo nul det år det går mod nul.
+
+27:22
+Og hvis ex er x0 og y er jo noget, så er det nul. Så de to betingelser for at være en efter en funktion er opfyldt.
+
+27:29
+Jeg vil gerne gøre lidt mere ud af dette argument, men det ville vi ikke gøre. Vi skal bare se, at det ser rimeligt ud der.
+
+27:38
+Der skænker prøv at se på et eksempel på en funktion som ikke er kontinuert, og lad os bare tage et noget specielt eksempel.
+
+27:53
+Så måske burde sagen skal funktion. Har stort standard godt nok, da det er lidt irriterende, for så skal jeg rulle ned for enhver gang, men nok er.
+
+28:16
+Passer. Det vi skal se her, er et eksempel på en funktion, hvor vi vil prøve at finde ud af det der ikke flere 0,0.
+
+28:31
+Så lad os sige forskellene op. Eksempel 2. Vi har altså en funktion f eks Karmøy, lige med funktionen her hedder ex.
+
+28:47
+Hvad hedder den? Den havde jeg ikke set anden gange y divideret med exit fjerde plus y i anden.
+
+28:58
+Så lad os se denne funktion her.
+
+29:03
+Den er defineret for alle værdier, ikke så for liv på nær når nævneren her bliver nul.
+
+29:09
+Den eneste måde nævneren her kan blive nul på er, at 2. Begge to og nul forstå to positive lagt sammen.
+
+29:15
+Tog på sølvet eller 0 langsomt. Kun når jeg ikke søger noget.
+
+29:18
+Samtidig er den ikke defineret, så gør vi lige det. Vi laver en ny funktion. Vi siger, når den har denne værdi.
+
+29:25
+Når ex kommer ny, er forskellig fra 0,0 og når ex kommer.
+
+29:30
+Y er lige 0,0. Så tillægger vi den værdien nul.
+
+29:35
+Det kaldes faktisk nul udvidelsen af sådan en funktion, så udvides den.
+
+29:39
+Det gør, at man tager funktionens udtryk her i hele det område, hvor den er defineret.
+
+29:45
+Der giver man denne her værdi af funktionen. I alle punkter, hvor den eventuelt ligger, er der flere der.
+
+29:50
+Siambugten er nul. Det kan man gøre fra en hvilken som helst funktion. Det kalder man nul udvidelser.
+
+29:55
+Så nu er spørgsmålet denne udvidelse. Her. Er den mon kontinuert og deraf og punkt der er problemer i, kan jeg godt røbe det er punktet 0,0.
+
+30:06
+At nogen kontinuert i 0,0. Det vil jo prøve at undersøge, for det er jo klart, at den har værdien nul i 0,0.
+
+30:15
+Så spørgsmålet er Hvad sker der, når denne her nærmer sig? Når vi nærmer os 0,1 nul, altså vi uden for 0,0 nærmer os 0,01 fra alle mulige sider.
+
+30:24
+Hvad er så grænseværdien af det, der står en? Og det vil gøre det har vi jo lige som Pröll og nærme os 0,0 langs alle rette linjer.
+
+30:33
+Der findes simpelthen hele vejen rundt. Nu går vi langs standeren inden og går langs den røde linje indtil 0,0.
+
+30:39
+Og så vil vi se, hvad er værdien af funktionen?
+
+30:42
+Det er heldigvis forholdsvis let, fordi vi så gerne vil nærme mig sådan en funktion langs en ret linje, så skal jeg jo se på.
+
+30:49
+Så må Y altså mere ned i køreplanen.
+
+30:54
+Og nu vil jeg gerne nærme mig 0,0 langs en ret linje der og på rette linjer.
+
+30:59
+Der er sammenhængen mellem X og Y. Den er lige y er lig A Greggs.
+
+31:05
+Hvor Henning. Så hvis vi har lige adgang 6, så befinder jeg mig på en linje her og ved så at lade ex gå mod nul.
+
+31:14
+Det er godt tænkt. Jamen så nærmer jeg mig en langs linjen her indtil 0,0.
+
+31:20
+Så nærmer jeg mig nulpunktet. Det får deres ind i mine udtryk, så jeg ser i virkeligheden på denne funktion hedder f, a ex komma ex.
+
+31:29
+Nu er jeg på kun få punkter, der ligger på den linje her.
+
+31:38
+Hvis jeg, hvis jeg strangulere mit nye til at hedde a ex.
+
+31:43
+Fordi jeg ikke løbe landet, er jeg i på disse punkter på linje og så på landet med min funktion.
+
+31:48
+Så hvis overskrævs flaget lægger her op, jamen så ser vi kun på et snit programfladen hen over de punkter.
+
+31:55
+Her taler jeg så bare ikke scorer mod nul. Så suser ind langs denne linje, og så sker der.
+
+32:00
+Hvad sker der med mine fusionsmad heroppe? Går de mod 0,0? Eller sker det noget andet?
+
+32:06
+Der var niveauer på ideen. Det vil altså sige at denne her hedder så ikke sige anden gange a ex divideret med exil fjerde plus a ex.
+
+32:18
+Ja. Vi skriver lige en tak herned.
+
+32:23
+Vi skal her opstår der så a gange exit tredje dvd'er.
+
+32:27
+Så her står så exit fjerde. Det bliver der i øvrigt også her. Der kan tallet for en parentes og tilbage bliver en loose a.
+
+32:36
+Af Jan påskeøl.
+
+32:40
+Her kan vi godt se at de er ægte for korte ud, så alt i alt står der en ex gange et eller andet bryg, som hedder a over en plus af and.
+
+32:49
+Og vi kan også godt se, at uanset hvilken værdi a den har. Så er det her et et et tal.
+
+32:56
+Det kan eventuelt være nulvækst eller nul. Men vi kan også se, at når extend går mod nul.
+
+33:05
+Vandglade letter. Har det været en fejl. Ja, er der lavet en fejl var.
+
+33:19
+PIAT gløder et. Når undskyld ja, ja.
+
+33:40
+Undskyld. Have det sjovt. Sådan er undskyld.
+
+33:47
+Nu handler det jo ikke. Jeg kan ikke selv lavet for en barn, Texas eller eks.
+
+33:52
+Jeg ved ikke, hvad vi gør lige her igen.
+
+33:57
+Eksil Fjerde plus a anden eksil action. Nu kan vi så se hvad sker der nu?
+
+34:04
+Nu kan vi i hvert fald dividere med ægte hjerne. I tæller og nævner ikke, hvad man ellers skulle gøre det.
+
+34:10
+Så står der af over ex. Så står det her med Excel hjernen plus af hjernen og spørgsmålet Hvad går denne imod, når extend går mod nul?
+
+34:20
+Det vi kan se med nævneren. At uanset hvad hedder det.
+
+34:27
+Nej, den er ikke sådan. Går man, så får vi et eller andet hernede, som er af anden.
+
+34:32
+Så hvis bare A ikke er nul. Altså hvis det ikke er en meget linje, svarer jeg forskellig fra nul.
+
+34:37
+Så ville nævneren hernede ikke blive nul. Tælleren op mod dem går mod nul.
+
+34:42
+Det vil sige at det vil gå mod nul, når bare a er nul for a forskellig fra nul.
+
+34:50
+Så langs enhver ret linje. Eller mod 0,0 der har funktionen hér.
+
+34:56
+Grænseværdi er nul. Her kan vi sige hvad så med de to ting vi har sprunget over?
+
+35:01
+Hvad med den lodrette linje? Jamen, den lodrette linje. Hvordan ser det ud med en lodret linje her?
+
+35:07
+Det er da ikke konstant nul. Hvis ikke så er konstant nul, kan vi se vores udtryk hæver op.
+
+35:12
+Så bliver den nul. Den bliver nul. Så bliver det nul funktionelle. Bare y ikke lige nul.
+
+35:17
+Men nu er vi jo ikke i 0,04 ved at undersøge hvad sker når vi nærmer os 0,0.
+
+35:22
+Hvad så hvis vi har et langs den vandrette linje endda øge konstant nul? Der har vi samme ting, da denne have konstant nul.
+
+35:28
+Så uanset hvilken ret linje jeg bevæger mig ind mod 0,0 her.
+
+35:34
+Selv akserne, alle rettede linjer. Jeg ikke kan finde på noget nærmere mig 0,02 satte en grænse ved nul den her funktion.
+
+35:42
+Det tyder umiddelbart godt job. Fordi så vil grænseværdien af denne funktion være det samme som fusionsmad værdien ville være kontinuert.
+
+35:50
+Problemet er bare, at den er ikke kontinuert fordi at jeg kunne prøve en anden måde end ved 0,09 langs alle rette linjer.
+
+35:59
+Jeg kunne tage en tur langs en parabel. Y er lige ægte hjerne.
+
+36:05
+Nu syntes jeg altså en mod 0,0 langsom parabel. Lærke MyPlanet. Hvis jeg gør det sidste jeg står lige her, så får jeg at f.
+
+36:13
+Ex. Karma ikke sige andet til.
+
+36:16
+Nu er jeg jo på parabel stykket ekspedienterne ex og y værdierne.
+
+36:20
+Den er hyggelig ex. Hjerne. Det sætter jeg ind. Så får jeg ikke sige anden gang.
+
+36:26
+Y som er ægte hjerne. DVD'er med ægte fjerde.
+
+36:32
+Plus jeg ikke sige andet en. Og nu står der altså exit fjer i tælleren i nævneren hernede.
+
+36:39
+Der står to exil fjer. Alt i alt. Hvis jeg får forkorter ikke slud, så får en halv.
+
+36:46
+Så funktionen er konstant. Vi en halv langs stier Bramble stykker.
+
+36:52
+Faktisk kan vise ved at nærme mig langs alle mulige parabel stykker, nemlig y li a x i anden.
+
+36:59
+At jeg kan faktisk komme ind mod 0,1 lunge langs enhver værdi.
+
+37:04
+For vi kan se her går vi ind mod 0,0 konstant med konstant med den konstante værdien.
+
+37:10
+Så det vil sige vilkårligt tæt på 0,0. Da antager denne funktion både værdien nul grænse langs de, og den antager også værdien en halv.
+
+37:21
+Og hvis jeg lagde op, hvis jeg nærmede mig langs end af en anden papstykker, at jeg ikke sige andet.
+
+37:28
+Ja, det der ville ske, hvis jeg gjorde det. Det ville få et A.
+
+37:31
+Her og da hér. Og det tal her som jeg får i et land der hed A Over, inklusive i anden og vi så gennemløbe af alle værdier.
+
+37:41
+Jamen, så kunne jeg altså vise dem til, at jeg kunne nærme mig 0,0 langs enhver værdi.
+
+37:46
+Jeg ville så lige endog 0,02 Anton, faktisk samtlige reelle værdier der findes.
+
+37:51
+Så den er meget vild. Men alligevel er den så tilstrækkelig smart indrettet, at slaver langs en ret linje.
+
+37:57
+Jamen, så laver vi altså 0,0. Sådan nogle grafer, det kan jo være sjove at se.
+
+38:02
+Man kan vel ikke se den i virkeligheden, fordi det er jo meget vildt omkring 0,0.
+
+38:06
+Man kan ikke blot det, men da er man kan godt slå op på nettet og findes nogle grafer og se, hvor sjove de ser ud.
+
+38:12
+Jeg vil godt se, at de faktisk nærmer sig en ret linje, men sidder faktisk meget plausible, lod den gå med 0,0.
+
+38:19
+Men den kommer på den måde, at vi ser nærmere en langsom parabel, om så har den faktisk en noget højere værdi.
+
+38:24
+Men lige en 0,08 erkendelse af at antage samme de reelle værdier på hele aksen kan vi selvfølgelig ikke se.
+
+38:30
+Som vi altid nødt til at klippe det mest spændende sted væk. Det kan vel aldrig at.
+
+38:35
+Så jeg kan se det der vil vise mig dette eksempel, hvorfor toiletter?
+
+38:39
+Eksempel med det gjorde jeg hovedsageligt for at vise, at det at tage grænseværdier i to variable det ikke helt simpelt.
+
+38:45
+Jeg kan godt se hvis man prøver at tekst her er ligesom gået indlagt samtlige rette linjer 1.
+
+38:50
+Maj 0,0 og det var altså ikke nok.
+
+38:52
+Der skal mere til, så det er vanskeligt, og man skal bare vide, at når man tager grænseværdi, er det lidt kompliceret i to valg.
+
+38:59
+Det er det sådan set også en. Så ja.
+
+39:06
+Han kigger lige på uret, og vi kan godt lide den lidt mere.
+
+39:09
+Vi kan lige nå at tage hul på differentiabel taget i to variable, og vi kan nå at skrue op.
+
+39:17
+Hvad er egentlig definitionen? Og lad os gøre det i en variabel først bare lige for at se noget vi kender har lad os gøre det, som vi kender det.
+
+39:39
+Helt klassisk. Lad os sige. F er en funktion.
+
+39:48
+Af en variabel, altså en f, a, ex.
+
+39:55
+Den kender vi fra fra gymnasiet, den er vi helt trygge ved, og vi ved også, hvordan vi finder sådan trang gentænkning fra den.
+
+40:02
+Det er et eller andet med, at vi siger. F. Eks.
+
+40:07
+Minus f. X0. Divideret med x minus.
+
+40:14
+6 0 og så har vi x går mod x0. Det har vi skrevet op her.
+
+40:20
+Det er jo hældningen af en. Det er jo handlingen er en kant.
+
+40:26
+Her ligger x0, og så laver vi altså en trekant. Han lægger ex.
+
+40:32
+Og så ser vi på hvad sker der når eks'en nærmer sig x0?
+
+40:35
+Jamen, så rykker denne her kant tættere og tættere på og Isabel til en tangent dør, så den kender vi denne, og det er hvis den har en grænseværdi.
+
+40:44
+Når ikke skum og 0. Så kalder vi den f. Mærke er x0. Den går altså mod.
+
+40:50
+Et værk af x0, hvis den grænseværdi eksisterer. Det er den klassiske måde at tænke over differentialkvotienten på.
+
+40:57
+Som I kender, så gjorde vi det lige før, da vi var i fireårsperiode, så vi må lave en definition,
+
+41:03
+hvor der ikke indgår burger, og det gør vi fordi, at vores variable jo in et punkt x komme i sygeplejen.
+
+41:10
+Det kan vi ikke. Det vil dermed, så den kan vi godt omskrive til noget, uden at jeg ville være definitionen på på de faksimile,
+
+41:17
+at det var, at F ikke skulle være lig med f a x0 plus a gange ex minus 6 0 plus x minus x nul gange epsilon a ex.
+
+41:33
+Minus x0. Hvorfor det? Det er faktisk det samme der står her, for hvis Qatar rykker f.ex.
+
+41:40
+X0 herover og dvd'er hele ligningen med eksaminer 6 0, så kan jeg jo omskrive denne ligning til f.ex.
+
+41:49
+Minus f.ex. X0. Divideret med x minus x0, hvad er der så tilbage?
+
+41:55
+Har rykket den herover, og så har jeg divideret med den her. Eller med en anden faktor fra begge led haver.
+
+42:01
+Tilbage er et A og en epsilon funktionen, og det vi kan se her er, at det er jo faktisk det samme, hvis den er A.
+
+42:10
+Så det er dem vi kalder differentialkvotienten i x0.
+
+42:14
+Det er dem, vi kalder et mærke x0. Så står der præcis det samme, fordi den er der ikke.
+
+42:19
+Skum må x0. Så går den epsilon funktionen på nul og tilbage bliver bare samme grænseværdi.
+
+42:25
+Vi havde her. Det har jeg opskrevet uden der er grænser for pilen, nemlig med en identitet,
+
+42:30
+for grænsesten er indbygget i efterlønnen funktionen, og det sker opskrevet uden brøker.
+
+42:36
+På den anden side kan man sige, at denne her division er også lidt smart, fordi man kan også sige hvordan skal vi opfatte differentiere procent?
+
+42:43
+Ja, før i tidsopfattelse opfatter vi derfra service som noget med en tangent hældning.
+
+42:46
+Men man kunne også bare sige det må de faktisk i. Det handler i virkeligheden om at skrive en funktion.
+
+42:52
+Som en lille funktion, altså at charmere vores funktion med en lineare funktion og den lineære funktion,
+
+43:00
+som også kaldes derfor aksiomerne første græsbøll.
+
+43:03
+Denne er magen til funktionen på nær en fejl, og den fejl skal altså helst blive lille, da vi er tæt inde omkring punktet.
+
+43:11
+Vi har voksne symmetri, så det er den måde, vi ligesom med vil tage nu og sige Nu opfatter vi den mere som en.
+
+43:16
+På en lille approksimation er vores funktion som tryg nu have, hvor vi går til flere variabel.
+
+43:22
+Og der tror jeg vi venter lige efter pausen med at introducere det, selv om vi holder lige pause.
+
+43:30
+Det kan være lidt lang pause med cirka en til hel.

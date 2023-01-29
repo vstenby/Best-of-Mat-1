@@ -1,0 +1,758 @@
+0:03
+I morgen. Der er cirka tre gange i løbet af matematik et kurset.
+
+0:15
+Hvor tingene rigtig fortætter sig. Og en af gangene.
+
+0:20
+Det var i uge 10 i efteråret, hvor vi kunne se, at da vi stod midt i differentialligninger, skulle løse differentialligningen systemer,
+
+0:31
+så kunne vi lige pludselig bruge alt det,
+
+0:33
+vi havde lært om komplekse tal for alt det vi havde lært omkring lineære afbildninger, diagonal isolering osv.
+
+0:41
+Den anden gang er i dag. Fordi i dag, da stiller vi os eller det er hvad skal vi sige?
+
+0:50
+Det vi fokuser ind på i dag, er at sige. Hvis vi har et stationært punkt for en funktion af to variable, kan vi så afgøre,
+
+0:59
+om der er et egentligt lokalt maksimum eller eventuelt et egentligt lokalt minimum.
+
+1:05
+Det lyder simpelt, men så simpelt er det heller ikke.
+
+1:09
+Da vil I se at her får vi igen sonden nogle områder at matematik der går sammen, og det er matematiske analyser repræsenteret ved Talas formler.
+
+1:23
+Det er lineær algebra repræsenteret ved symmetriske matricer og til Ronal substitution.
+
+1:32
+Og så er der endelig også noget geometri i det vi kan huske sidste gang.
+
+1:36
+Da dyrkede vi keglesnit fladere, og i dag er der to keglesnit steder, der kommer ind og bliver særlig interessante.
+
+1:45
+Så det ville vi altså prøve at kæle lidt for her i forelæsningen,
+
+1:48
+altså de teoretiske pointer, og derfor bliver der heller ikke så meget tid til eksempler.
+
+1:54
+Men vi får altså mindst ét afsluttende eksempel her i løbet af forelæsningen.
+
+2:01
+Så vil vi også gøre det. For at man skal sige lette forståelsen, så gør vi sådan, som vi ofte har gjort før.
+
+2:10
+Sammenligner med situationen for en variabel, og vi starter hermed planken.
+
+2:17
+Det var den første forelæsning her i foråret, hvor vi behandlede Tellers formler for en funktion af en variabel.
+
+2:26
+Og vi kan se, at vi fik opstillet.
+
+2:29
+Det er proklamerede første grads polynomium, som jo allerede kender fra gymnasiet, og det er eksamenerne angår polynomium og så videre.
+
+2:39
+Og hvor vi her havde en typisk situation. Grafen for funktionen selv og var det og derfor charmerende første Kongrespolen.
+
+2:51
+Hvem skrev Graff? Var tangenten og grafen for?
+
+2:55
+Det er smigrende ankomst. Om det var en parabel er i Børnefonden.
+
+3:03
+Se tjeners grænsebomme fik vi så også skrevet op, der siger, at vi ikke bare at funktionen er tilnærmede af, men vi siger, at funktionen er lig med.
+
+3:16
+Det er praksis, at folk charmerende først og fremmest får en nogenlunde plus x minus 6 nul gange en epsilon funktionen af x minus 6:0.
+
+3:25
+Og vi kan jo få fine analysen ved at skrive grænsebom op for anden grad, hvor vi altså fik x minus x0 i anden og så gange med en epsilon funktion osv.
+
+3:41
+Og det vi nu starter ud med det er til os formen for funktioner er to variable.
+
+4:12
+Og for at gøre selve forudsætningerne så nemme som muligt, så siger vi bare, at den her funktion af to variabler.
+
+4:25
+At det er en glat funktion.
+
+4:33
+I det åbne område, som vi betragter altså det betyder denne er differentiabel lige så mange gange som vi ønsker det.
+
+4:41
+De partielle afledede de eksisterer, spørger vi kan tænke mere over det. Og lad os så starte med at se på de proklamerede polynomier.
+
+4:56
+Altså de approksimant Erna polynomier.
+
+5:05
+Og som sædvanlig så vælger vi det faste punkt, altså udviklings punktet som ex 0,70.
+
+5:15
+Og der har vi så. Det er Proxima Aarene første grads polynomium.
+
+5:23
+P ét af Ekskong med Mary. Det er funktionens værdi i x0 family nul.
+
+5:36
+Og så er plus den partielt afledet efter eks i x0 og Molly nul, og det er så gange smed x minus gnocchi.
+
+5:46
+Og så har vi den partielt aflivet efter y taget i x0 komma y 0.
+
+5:53
+Og så gange med y minus nul. Og hvis vi vil, så kan vi skrive det lidt mere sammentrængt.
+
+6:11
+Fordi vi bemærker at de sidste to led.
+
+6:16
+Det kan blive opfattet som et skalar produkt,
+
+6:19
+nemlig har enten af F taget i X 0,70 og sagt ganget med den vægtere som hedder x0 minus nul og by minus nul.
+
+6:35
+Og her. Har vi så et fedt produkt?
+
+6:45
+Og så ved vi at grafen. For et.
+
+6:55
+Er det samme som tangent planen. For grafen.
+
+7:05
+For F. I det røddings punkt x0 komma nul komma f a x nul komma y nul.
+
+7:20
+Og så lad os tage en speciel situation.
+
+7:30
+Hvis de hjemhavn for.
+
+7:35
+F. I eks nul komma nul. Hvis den er nulvækst som.
+
+7:49
+Så er tanken planen. Hvad Murat. Over vi kalder.
+
+8:05
+Eks nul komma nul. For et stationært.
+
+8:18
+Punkt. Så det jeg har skrevet op her, det er jo noget vi har været inde på før.
+
+8:27
+Dels før jul og så dels i forelæsninger, som vi har været inde på tidligere.
+
+8:33
+Altså når de er partielt aflede. Begge to er nul.
+
+8:37
+Så har vi et stationært punkt og de stationære punkter.
+
+8:41
+De er jo interessante. Det er jo derfor, vi har en vandret tangent plan, og det er dér, hvor der kan være mulighed for lokale max og lokale min.
+
+8:53
+Så derfor er det et vigtigt punkt. Igen i dag.
+
+9:13
+Se nu skriver vi så det er Proxima y'erne anden parts polynomium op, altså stadig væk med udviklingens punktet i nul komma nul.
+
+9:26
+Og for at gøre det lidt kort, så siger vi at.
+
+9:32
+Når vi opskriver P2. Så starter vi altså med ét.
+
+9:40
+Det vil altså sige den smøre, der stod dér op. Sådan indleder vi ballet her.
+
+9:47
+Men så kommer der så tre yderligere lyde. Fordi nu skal vi have den partielle afledede efter et to gange taget i x 0,10.
+
+10:01
+Divideret med 2. Og så gange med x minus x0 i anden.
+
+10:10
+Og så plus f dobbelt mærket efter Y.
+
+10:18
+Divideret med 2. Og så by minus 0 i anden.
+
+10:25
+Og så har vi den partielt afledede. Først efter ex.
+
+10:30
+Derefter efter y i x nul komma nul, som er ganget med x minus x0 og y Vinos nul.
+
+10:43
+Jeg så det proklamerede først og grads polynomium. Plus nogle nye lede.
+
+10:51
+Hvor det partielt dobbelte afledede hvor de optræder.
+
+10:57
+Altså i analogi med situationen for en variabel, hvor vi havde den dobbelte afledet.
+
+11:06
+Og her har vi altså de dobbelte partielt afledet optrædende her i tale os anden græspollen opium.
+
+11:21
+Og det her kan vi også skrive på en lidt smartere måde.
+
+11:28
+Vi beholder af funktionærerne første grads polynomium. Og så skriver vi en halv.
+
+11:39
+Og nu sætter vi hele dette. På matrix form.
+
+11:46
+I Vi jo ser her, at det er et andenrangs led i den variable, der hedder x minus x0.
+
+11:55
+Der har vi et andet pres variabel i by minus 0, og her har vi også en anden grads variabel.
+
+12:04
+Så det vil sige de tre nye led, vi har skrevet op her. Det er jo en radar disk får.
+
+12:12
+Så derfor skriver vi dem nu på matrix form med de variable repræsenteret, så vi får altså en banneret vækster der hedder x minus x0 by minus nul.
+
+12:29
+Og så får vi en to kryds to matrix. Der består af de dobbelte ledet.
+
+12:58
+Sådan der har været så den dobbelte afledet efter x.
+
+13:03
+Den dobbelte afledet efter y. Her har vi afledet først efter x efter x og efter det første efter Y og derefter efter X.
+
+13:12
+Og så skal vi have en. Lummert vægter her også med de ubekendte i en søjle.
+
+13:22
+Så er der den dér. Og så er vi færdige.
+
+13:29
+Og den matrix som optræder her. Det er jo Hesse matricen.
+
+13:45
+Hov. Og vi kan godt tilføje masser af heste matricen udregnet i punktet x 0,10 c2.
+
+14:05
+Jo altså. Nu skal du høre. Kan du huske det vi allerførst gør, fokuserer vi har her et dobbelt mærke og ganget eller divideret med 2.
+
+14:14
+Det er denne her også. Den sætter vi uden for en parantes.
+
+14:21
+Og som det ses, skal vi i gang. Det her ved med 2. Og så kan I huske, om vi laver en kvadratisk får.
+
+14:27
+Så skriver vi koefficienterne til anden grad ledet op her og her.
+
+14:33
+De rene og så skal den størrelse her med de blandede.
+
+14:38
+Dem deler vi på de to steder her. Så er det simpelt hen fordi vi har her et i en kvadratisk form,
+
+14:47
+som vi skriver oppe på samme måde som vi har gjort hvad vi betragtede ligninger i Eksjö.
+
+14:55
+Nu er de variable bare eksaminer 6:0 og y minus i nul.
+
+14:58
+Det er det da lidt svært her og her. Se.
+
+15:13
+Hvad er så hemmeligheden ved de her bokse?
+
+15:17
+Merethe Polynomier. Hvordan kan det være at de ligner?
+
+15:23
+Funktionen f. Så godt som de nu gør. Hvad er hemmeligheden ved det?
+
+15:28
+Det er udfoldet i en orden, hvor man ligesom nærmer sig de er proklamerede polynomier ved at betragte rest funktionen.
+
+15:39
+Her vil jeg sige det lidt kortere, nemlig på den måde at.
+
+15:45
+Hvis vi. Tager de hvor vi har altså det her.
+
+15:52
+Hvis vi tager de partielle afledede efter, altså af f.
+
+15:58
+I punktet x0 company nul. Så har dem nøjagtig de samme partielt afledet som det er på charmerende andenrangs polynomium.
+
+16:08
+Altså hvis vi udregner de størrelser, der står der optræder i i polynomiet her.
+
+16:16
+Hvis vi udregner dem for F i x 0,20, så har de altså de samme partielt afledede.
+
+16:22
+Og man kan udvikle denne her form. Nu går vi i dag kun op til anden grad, men vi kan ligesom med funktioner for.
+
+16:33
+En variabel, så kunne vi gå op i endte Grace F proklamerede polynomier af anden grad også at vi alle de partielt afledet op til en.
+
+16:44
+For polynomiet der er programmeret og får funktionen selv de vil være ens i udgangspunktet.
+
+16:50
+Det er derfor de ligner hinanden så meget.
+
+16:52
+Det er det, der er hemmeligheden bag ved approksimation, og her hvor vi ser en fantastisk eksempel på anvendelse af analyse af de Franchell procenter.
+
+17:09
+Men det kan I selv prøve at regne ud. Det.
+
+17:14
+C Vi har jo gang med trailers fumler. Og i den sammenhæng her altså.
+
+17:21
+Vi ved vi har jo når vi snakker om tjener, så er det jo formler, for de er proklamerede polynomier.
+
+17:26
+Det er en og taler tingene.
+
+17:29
+Den anden ting, vi har dyrket, og som jeg selv har dyrket i forbindelse med den hjemmeopgaver, jeg afleverede med rest funktioner,
+
+17:35
+det er den, vi kalder folk for form med retsstridigt, som vi kan bruge til at bestemme fejl med.
+
+17:42
+Det er den anden form af tjeners formler, og så endelig, så har vi grænse formlen.
+
+17:49
+Som vi bruger når vi tænker over grænseovergangene, og dér har vi altså grænse formlen.
+
+17:56
+For så vidt det er en variabel, og nu skal vi så se på Tellers grænse for med, når vi taler om to variable.
+
+18:43
+Og for at komme i gang med dette emne, så skal vi først have indført det vi kalder for afstands formlen.
+
+18:53
+En. Altså afstanden formlen.
+
+19:00
+Eller afstands funktionen. Som vi kalder forurolige af x0, kommer Yo noget.
+
+19:13
+Altså dér har vi ligesom et index, og det har vi så at funktionen er en funktion af ekskone.
+
+19:21
+Og hvad gør den her? Den måler afstanden fra Udviklingsforum ex.
+
+19:27
+0,50 til det bevægelige punkt ekskl.
+
+19:32
+Altså grafisk set, så har vi altså her.
+
+19:47
+Hvis vi her har han det faste punkt udviklings punktet og her et.
+
+19:56
+Variabel punkt. Så har vi altså afstanden her.
+
+20:08
+Altså ro afstanden imellem x0 og nul.
+
+20:13
+Og I kan se når jeg flytter x y, jamen så ændrer denne her funktion sig.
+
+20:20
+At lægge mærke til i resten af forelæsningen gjorde jeg overhovedet kort.
+
+20:26
+For dem af mode. Opskrevet på lige noten, der så bare en kort skrivemåde.
+
+20:32
+Ro afstands funktionen. Og så har vi altså her grænse formlen.
+
+20:58
+Altså F er lig med sit første kongrespolen om.
+
+21:05
+Hvis vi blot ligger i en størrelse til nemlig afstanden og sagt ganget med en epsilon funktionen x minus x0 y minus indhold.
+
+21:24
+Og den vil jeg gerne bede om at sammenligne med det vi har stående her hende,
+
+21:30
+for dér har vi jo netop f opskrevet visit af proklamerede første højskole med fru linoleum plus afstanden.
+
+21:41
+Og så gange med en epsilon funktion, så det her er sådan set bare en generalisering af det, vi har været inde på for en variabel.
+
+21:53
+Men går vi nu op og i stedet for at bure P2. Som vores approksimation.
+
+22:00
+Hvad er så resten? Hvordan kan vi opskrive den? Så skriver vi altså at funktionen er det samme.
+
+22:14
+Som dens at bokse mere et polynomium med udgangspunkt i 0,1 nul.
+
+22:22
+Også plus. Afstands funktionen i anden.
+
+22:28
+Altså ligesom vi har det repræsenteret her hende.
+
+22:35
+Og så gange med en epsilon funktion der x minus x0 og y minus i nul.
+
+22:43
+Så det er altså til os grænse formet for to variabler op til kravet to.
+
+22:56
+De epsilon funktionen er selvfølgelig lidt mærkelige, fordi vi ved jo ikke, hvordan de er defineret.
+
+23:05
+Vi kender ikke deres egen forskrift. Vi ved bare det ikke eller andet rest.
+
+23:10
+Og det eneste vi ved om dem er altså, at hvis ex kommer ny DK langt væk fra x 0,20, jamen så kan det der måske være et stort tal.
+
+23:22
+Det ved vi ikke.
+
+23:23
+Det eneste vi ved, er bare, at hvis vi lærte dette variable gå tættere og tættere på det faste punkt, jamen så vil de dér gå i mod nul.
+
+23:35
+De her epsilon funktioner her og det er jo ikke engang den samme, der står dér og dér.
+
+23:41
+Også selv om jeg gør, som i noterne sætter et index på her.
+
+23:45
+Så så er det altså bare en en særlig funktion af den type, der er skrevet op her, og en anden, der er skrevet op her.
+
+23:55
+Men nu skal I se om lidt. Hvorfor de er interessante.
+
+24:05
+En. Så skal jeg i øvrigt sige, at i den første Mabel Dimmu i dag.
+
+24:13
+Der kan i se eksempler på hvordan det er proklamerede Anders polynomier.
+
+24:21
+Og også polynomier af højere grad, hvordan de bliver brugt til at proklamere funktionens værdier i bestemte punkter.
+
+24:30
+Og der er illustrationer og så videre, som forhåbentlig er gode, og hvor I kan få en god fornemmelse af det.
+
+24:35
+Og det indgår også i øvelses programmet i dag. Jeg vil ikke komme mere ind på det nu, men gå videre med de emner her, som vi har været inde på.
+
+24:47
+Og altså det spørgsmål jeg nu stiller.
+
+24:53
+Og som resten af forelæsningen altså kører på, er. Altså hvordan afgør vi?
+
+25:13
+Om. F. Har et egentligt.
+
+25:24
+Ekstremer. I et givent stationært punkt.
+
+25:46
+Det er det spørgsmål, som vi som vi skal prøve og studere og forstå.
+
+25:54
+Husk at ekstremer er en fællesbetegnelse for.
+
+26:00
+Altså når jeg siger ja, jeg vil endda have sagt lokalt ekstremer. Altså et egentligt lokalt ekstremer.
+
+26:10
+Det dækker over, at jeg spørger om egentligt lokalt maksimum eller eventuelt et egentligt lokalt minimum en fælles betegnelse for max og min.
+
+26:27
+Og nu vil vi først studere situationen med en variabel.
+
+26:48
+Kun. Og vi giver en definition. Og vi siger F.
+
+27:04
+Har du egentligt? Lokalt minimum.
+
+27:14
+De gav nul. Hvis forskellen imellem F.
+
+27:24
+Og x0, hvis den er positiv i en omegn.
+
+27:33
+Af x0. Og omvendt.
+
+27:48
+Så har F et egentligt lokalt maksimum i x0. Hvis forskellen imellem f.
+
+27:58
+Og f a x0 er negativ i en omegn af x nul komma nul.
+
+28:23
+Og skal vi lige prøve at se, så hvordan situationen er.
+
+28:39
+Ved egentligt lokalt minimum. Og vi har jeg så antaget.
+
+29:03
+At det er et stationær punkt B kigger i differentialkvotienten procenten er nul.
+
+29:08
+Så lad os prøve at forstå denne her definition med at forskellen mellem f.
+
+29:14
+Eks. Og f er x0. Den er altså positiv i en omegn af x0.
+
+29:18
+Hvis vi har et lokalt minimum. Se der er givet et x0.
+
+29:35
+Det har vi funktions værdien. Og vi ved at.
+
+29:50
+At her har vi en vanrøgt tangent. Så siger definitionen altså, at f.
+
+29:56
+Eks. En lille omegn omkring x0 der skal f.
+
+30:02
+Ikke være større. Så hvis jeg for eksempel går til venstre her.
+
+30:09
+Så skal vi altså have f eks. Skal være større end F.A.
+
+30:14
+X0. Og det skal den altså også være.
+
+30:18
+På den anden side. Så kravet er altså lad os lige se her.
+
+30:32
+Så er det vi de kan se er kravet er, at vi har en grafisk situation der ligger her, altså i en omegn omkring x0.
+
+30:41
+Der skal der altså gælde, at funktions værdierne af folk i vækst er større end x0.
+
+30:48
+Og her kan vi måske godt sige, at her er der en. Altså en relativt store områder, hvor det faktisk gælder.
+
+31:02
+Men altså pointen er jo bare, at hvis vi kan finde en lillebitte omvejen omkring x0, hvor det gælder, jamen så har vi et lokalt minimum liggende der.
+
+31:16
+Som jul altså ikke behøver at være et globalt minimum, fordi vi kan have menigmand, der ligger uden for denne omegn.
+
+31:24
+Hvor var den selvfølgelig har endnu lavere værdi, men sådan er den grafiske situationer altså.
+
+31:34
+Når spørgsmålet er hvordan afgør vi så i en given situation analytisk, om der er et lokalt maksimum?
+
+31:45
+Eller min mor. Se, jeg er opskriver Tellers grænse former til orden.
+
+32:05
+2. Er der til et ja til grad? 2.
+
+32:08
+Vi har altså f. Eks. At lege med EFA x0.
+
+32:26
+Plus. Så kommer det lidt her.
+
+32:32
+Men differentialkvotienten her den er over nul, så det de lede, det forsvinder.
+
+32:41
+Nu skriver det bare lige op her, så jeg husker, at der var et led, der da smuttede væk.
+
+32:47
+Og så har vi så dobbelt mærke i x0. Gange med x minus x0.
+
+32:57
+Og så plus. X minus x0 og så epsilon funktionen.
+
+33:08
+X minus x0. Dem har jeg nu skrevet om, og nu er vi jo interesserede i at se, hvordan denne her forskel, hvordan den opfører sig.
+
+33:23
+Så nu skriver jeg det alle sammen står her. Det her er nemlig ensbetydende med, at forskellen vi studere mellem f.
+
+33:32
+Eks. Og f. Er x0. Den kan altså skrives som.
+
+33:43
+Og det er der skal vi lige have i anden på som i formen der hende, fordi nu kan vi netop sætte den her størrelse uden for en parantes.
+
+33:54
+Og så står der dobbelt mærke i x0 divideret med 2 plus epsilon funktionen.
+
+34:05
+Forsagt guide med eks Milles x0 i anden.
+
+34:16
+Og det er lige præcis den form vi skal studere, når vi skal besvare spørgsmålet.
+
+34:25
+Et dobbelt mærke i x0, det er jo en konstant. Hvis I nu siger at den er positiv.
+
+34:34
+Så har vi så et positivt konstant tal stående her.
+
+34:39
+Og så har vi en epsilon funktion, og så har vi her et led.
+
+34:43
+Der er positivt ideer i anden. Så hvad er hele højresiden her?
+
+34:50
+Ja, det ved vi ikke. Jo, det gør vi, hvis vi.
+
+34:53
+Eks går imod x0. Så ved vi jo at den bliver mindre.
+
+34:59
+Og så på et eller andet tidspunkt. Så uanset om den er positiv eller negativ, så vil dens numeriske værdi være mindre end denne her.
+
+35:08
+Så er det altså dobbelt mærke, der afgør situationen. Hvis den er positiv, så er denne forskel positiv.
+
+35:17
+Og så har vi et egentligt lokalt minimum. Omvendt, hvis dobbelte mærke i x0, hvis den er negativ.
+
+35:31
+Og villa er ikke skåret mod x0, så ved vi denne her kan blive vilkårligt lille, og så har vi altså et negativt tal ganget med et positivt tal.
+
+35:42
+Og så bliver hele højresiden negativ i en omegn af x0, og så må det være den anden situation, som er givet.
+
+35:53
+Så nu kan vi altså opsummere. At hvis jobbet mærke i x0.
+
+36:08
+Hvis den er større end nul, så er der et egentligt lokalt minimum i x0.
+
+36:25
+Og på samme måde hvis den dobbelte afledet hvis den er negativ.
+
+36:35
+Så har vi et lokalt maksimum. I x0.
+
+36:51
+Og så er der desværre en anden situation. Hvis nu.
+
+37:00
+Et dobbelt mærke, hvis dem er nul. Så er det hele jo er hele fortegnet for for højresiden og afhængig af epsilon funktionen.
+
+37:14
+Så er der altså epsilon funktionen der bestemmer om hvorvidt der er et lokalt minimum eller lokalt maksimum eller måske ingenting.
+
+37:24
+Så her må vi altså sige. Ved indbød alt afhænger.
+
+37:41
+Af Epsilon funktionen. Og så må man jo se. Kan vi så komme videre med vores studier af det her, kan vi lære at lave en serie undersøgelse.
+
+37:49
+Og det kan man tit. Og det er da også en aktivitet øvelser, der handler om den dag.
+
+38:09
+Og jeg kan lige se altså lige fortælle at.
+
+38:22
+Hvis vi nu prøver at undersøge sinus æg, som vi kender så godt, men bare for eksemplificerer her, så kunne vi jo.
+
+38:39
+Så kunne vi jo undersøge den i Peg halve. Og vi har altså.
+
+38:54
+Hvis vi nu tager differentialkvotienten i epi halve, så bliver det jo altså cosinus til de halve, det vil sige nul.
+
+39:12
+Så det vil altså sige at de halve er et stationært punkt.
+
+39:23
+Som jo er det vi interesserer os for i dag. Der er et stationært punkt.
+
+39:29
+Vi er så interesserede i kan vi afgøre noget om lokale ekstremer her?
+
+39:34
+Jamen, så må vi op og differentiere to gange, så vi differentierer altså nu cosinus.
+
+39:41
+Så får vi min nu sinus. Og den er så minusser i.
+
+40:02
+Og så ved vi så nu helt på analytisk grundlag, at der er et.
+
+40:09
+Lokalt. Maksimum. I de halve, hvilket giver stemmer perfekt.
+
+40:19
+Fordi vi ved jo netop. At grafen for sinus.
+
+40:28
+Har vi liggende dér, så det punkt vi har undersøgt det, altså her hvor vi har vandrør tang gemt.
+
+40:39
+Og da det er Proximus Erna polynomier.
+
+40:45
+Det er jo et andet grads polynomium som må altså grafen for.
+
+40:58
+Så må grafen for P2. Det er proklamerede på No Mio.
+
+41:03
+Det må altså være en nedadvendt parabel som har toppunkt i pi halve komma en eller 1,4 halve.
+
+41:15
+Så der er en tæt sammenhæng imellem det geometriske, at frasen for dig er fascinerende polynomium.
+
+41:24
+Det er en nedre, men parabel. Og så har vi et lokalt maksimum dér, så derfor har jeg skrevet et dobbelt i kvarteret.
+
+41:35
+Der har vi så set, og det kan vi altså sammenligne med et geometrisk kriterium.
+
+41:40
+Altså hvis vi i det stationære punkt har en et et andet grads polynomium, som er nedadvendt,
+
+41:48
+jamen så er der selvfølgelig et lokalt indledt lokalt maksimum i det punkt.
+
+41:53
+Og så tager vi lige en hvilepause her og går i gang for fuld kraft her om fem minutter.

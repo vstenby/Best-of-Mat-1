@@ -1,0 +1,902 @@
+0:05
+Så er man med til at. Så vi skal i gang og i dag i dag kommer der meget lidt nyt i virkeligheden.
+
+0:20
+Vi skal prøve at udnytte prikproduktet skalaer produktet. I er hjemme til at kigge på, hvad man kan gøre med vektorer, der står vinkelret på hinanden.
+
+0:30
+Det er sådan set det det, det handler om. Så lad os gå i gang.
+
+0:38
+Så der er sådan lidt lidt forskellige ting. Skal produktet og det så I?
+
+0:53
+I er en. Og så skal vi kigge på det.
+
+0:58
+Ja, hvad skal vi kigge for? Vi skal kigge på ortogonale vektorer. Og vi skal kigge på, det hedder overtog normalpriser og to normale baser.
+
+1:25
+Og så er her ortogonale komplement herunder.
+
+1:40
+Og hvad er der så, ved jeg. Så er der ortogonale matricer. Gud hjælpe mig.
+
+1:53
+Og hvad skal man bruge dette? Det skal man bruge, når man skal dyrke og realisere symmetriske matricer.
+
+1:59
+Det går med lige sikring af symmetriske matricer.
+
+2:20
+Så det er sådan programmet, så lad os få i gang.
+
+2:30
+Jeg tror ikke at kigge på det. Så skal afprøves i I er det her.
+
+2:45
+Hvad skal man? Der skal man selvfølgelig have to vektorer.
+
+2:50
+Det er i vente. Og hvad betyder det altså, at de ligger er i vente?
+
+2:57
+Jamen, det betyder, at for eksempel er væk, så den må se sådan her ud den ned end et end tåbeligt.
+
+3:06
+Forstået på den måde, at der står en sal her. Det ved vi jo godt. Ser sådan ud og bag.
+
+3:14
+Ser sig helt tilsvarende ud. B. B tog til B.
+
+3:21
+1. Læg mærke til, at det er her.
+
+3:26
+Det betyder så bare for eksempel, at hvis du tager væk i den sædvanlige basis, så dens koordinat, så det er bare det her.
+
+3:40
+Så er der det vægteren og det her demenskoordinatorer, at det er de samme, så alle forstår det sådan set lige meget.
+
+3:46
+Det hænger hænger bare på, at det er denne basis, vi har valgt. Når vi skriver det her.
+
+3:51
+Okay. Men hvad skal produktet? Jamen, det er så det, vi kalder prikproduktet.
+
+3:58
+Og I kender det fra gymnasiet også for jer? Eller er det I to og tre dimensioner?
+
+4:04
+Det er jo bare det her, hvor man ganger koordinat, vis og lægger sammen.
+
+4:12
+Sådan er. Og man kan også, og det skal vi slet ikke gøre med masser, man har også skalaer produkt i sig.
+
+4:25
+Hvis det her kunne være komplekse tal, men så ser det bare lidt anderledes ud, for så skal man kun agere Brende.
+
+4:34
+Men det skal vi slet ikke tænke på her. Det er helt reelt, så det ser bare sådan derude.
+
+4:38
+Og det man skal lægge mærke til. Det er selvfølgelig, når man prikker for to vektorer med hinanden.
+
+4:47
+Så får man et reelt tal, og helt specielt hvis man nu tager en vægt og prikker den med sig selv.
+
+4:58
+Men så får man jo et ganger et plus to gange to blods og så videre er engang en.
+
+5:04
+Og det er jo lige præcis længden af vores væg, så bare i anden.
+
+5:10
+Det er bare Pythagoras sætning, man fjerner lige kvadratroden ved at sætte den anden, og så har man vægten af en vægt.
+
+5:18
+Så længden af en vektor er vægteren tricket med sig selv eller liggende at lægge sig ned.
+
+5:23
+Og hvad kan man bruge det her til?
+
+5:29
+Ja. For det første, så har jeg muligvis i gymnasiet set bevis for,
+
+5:33
+at hvis man tager for eksempel i planen eller rummet og prikker to vektorer med hinanden,
+
+5:41
+så får man det samme som længden af den ene væg, så gange længden af den anden gang cosinus til denne vinkel, som nu er imellem disse vektorer.
+
+5:51
+Den kan vi kalde til ETA sådan. Hvis det nu var de her vigtige ord, så bestiller det væk af det, da det var Vectra B.
+
+5:59
+Så er tagetage bare den vinkel der står imellem.
+
+6:05
+Og det giver i hvert fald mening i tog og trædemølle sjovere.
+
+6:09
+Der kan man bevidst ud fra sådanne geometriske argumenter, men i højere dimension i 27 dimensioner,
+
+6:15
+der har det lidt svært at snakke om, hvordan vinklen mellem to vektorer sådan set ser ud.
+
+6:19
+Men så definerer man det simpelthen på den måde. For man ser bare vinklen mellem to vektorer i vilkårlig dimension.
+
+6:29
+Jamen, det er den. Det er den detalje, der skal stået for, at det er her, det er rigtigt.
+
+6:37
+Og længderne og prikproduktet, der skal dukke ved alt det her på højre side, jo vel definerede.
+
+6:42
+Jamen så er det vel defineret. Så kan man definere vinklen mellem vektorer i vilkårlig dimension.
+
+6:49
+Og hvad er specielt interessant?
+
+6:54
+Jo, det specielt interessante er jo det der tales, vil gå ind og blive noget.
+
+6:59
+Og hvis vektorerne ikke er nulvækst, så det er ikke noget, der står her, og det vil sige så cosinus til vinklerne åbenbart nul.
+
+7:07
+Og det betyder så, at vi har 90 grader eller minus 90 grader.
+
+7:11
+Men i hvert fald står de vinkelret på hinanden. Og det vil altså sige, at hvis der ikke er nulvækst over det, er det ikke.
+
+7:19
+Så hvis dette er hvad hedder det alligevel? 0.
+
+7:24
+Så er det simpelt hen ensbetydende med, at de to vektorer står vinkelret på hinanden, og det vil vi skrive sådan her.
+
+7:31
+Og så ser vi, at vektorerne er ortogonale. Så det her er ortogonale vektorer.
+
+7:43
+Og man ser. Man kan også sige indbyrdes ortogonale. Der er kun to vektorer er ortogonale og.
+
+7:52
+Så nu har man sådan et et begreb, der holder i hele april, da man ser to vektorer ortogonale, hvis de ikke er nulvækst.
+
+8:00
+Børn og deres prikproduktet nul. Hvad kunne man så også finde på at lave?
+
+8:08
+Ja, det første man. Det første man bruger det til det er væk.
+
+8:16
+Tøjproduktion. Fordi hvis vi nu for eksempel har en væg af liggende her, og vi så har en væg så beliggende her, så laver vi en væg.
+
+8:33
+Hernede, sådan at den vinkel er ret, og den er væk, så der ligger her.
+
+8:41
+Det vil sige, at så lige præcis så meget vægt bag med, så den vinkel bliver ret svarende til,
+
+8:47
+at man lyser med en lampe op, så dens skygge den kaster, når man lyser lige præcis lodret oppefra.
+
+8:56
+Så den væg, der kalder man produktionen, er væk.
+
+9:03
+På vægge trappe blev vi mærket. Det er vigtigt med rækkefølgen her.
+
+9:07
+Også fordi det er skyggen, som kaster forbi. Ikke det modsatte.
+
+9:13
+En anden notation, for det er nogle steder, at man skriver af og så et lille B som index.
+
+9:20
+Men det vigtige er sådan set, at der er en form for det, som er relativt nemt og mulighed, at den har givet vis sprog i gymnasiet.
+
+9:28
+For det er sikkert også 17 bevise, man så prikker af mel B, og så deler man med længden af vægttabet i inden det er taget.
+
+9:38
+Og det ganger man så med vægttabet. Så det tal der står her, det er det man skal gange vægttabet med for at få den der vægt dér.
+
+9:51
+Jamen, hvad så? Jamen, så kan man jo jo lige kigge på den vægtere, som står der.
+
+10:05
+Hvad er det for en? Jamen, det må være væk sig af minus den lille vægt her.
+
+10:12
+Det vil altså sige produktionen af A for B.
+
+10:19
+Det er da en væg der og produktionen af EPO er givet på den måde.
+
+10:25
+Den er lavet sådan, at den vil inkludere skal være ret, og det vil sige den vinkel på vægttabet.
+
+10:32
+Og det vil altså sige, at jeg lige sætter en pause i sager for denne vægt, så er ortogonale på vægttabet.
+
+10:43
+Og hvad er hvad er fidusen her?
+
+10:50
+Jamen, fidusen er, at hvis I nu forestiller jer,
+
+10:53
+at vi har brugt vægte af og vægttabet som basis for planen for eksempel, det kunne man jo godt forestille sig.
+
+11:01
+Og så er vi lidt utilfredse med, at vores basis vektorer ikke står vinkelret på hinanden.
+
+11:08
+Jamen, så ser for fanden da. Så skifter vi bare én af dem ud. Det kan også.
+
+11:12
+Så kunne jeg for eksempel vælge at beholde vægttabet, og så bruger jeg bare den dag i stedet for kan I det.
+
+11:19
+Så har jeg igen en ny BA, der så har en ny basis, hvor Basses vektorerne nu står vinkelret på hinanden.
+
+11:25
+Og så kunne jeg lave den til enheds vektorer, hvis noget det jeg ville, fordi jeg kunne bare det, ville jeg med deres længder.
+
+11:30
+Det hedder, og når jeg dem ketsjerne, det jeg så gøre, havde den proces at erstatte den med den.
+
+11:40
+Det er noget, vi skal kigge lidt på, for det svarer til, at vi retter vektorerne ud.
+
+11:45
+Vi har også nogle vektorer, der ligger underligt krøllede sammen.
+
+11:48
+Så retter vi dem ud og får et pænt retvinklet koordinatsystem ud af det, og det skal vi gøre helt systematisk.
+
+11:54
+Om et øjeblik. Læg mærke til en lille ting.
+
+12:01
+Det er, at hvis noget af den vækster, som vi starter med vores vægt, så beder jeg har længde.
+
+12:15
+Så vil det jo være sådan, at produktionen på Bali.
+
+12:22
+Hvordan ser så dagen ud? Jamen, så står der jo en hær.
+
+12:28
+Kan jeg se det? Så er det bare prikkerne bag rask gang væk bag.
+
+12:38
+Kan se dem. Det bliver meget simplere. Og tilsvarende her gøres der den væk, bliver også meget simplere, fordi den bliver simplere og kan.
+
+12:54
+Det var sådan en ting vi kunne tegne. Lad os nu lige prøve at gå sådan lidt mere generelt til værks her.
+
+13:04
+Det er et cellevæg til ord. Et sæt af vektorer.
+
+13:16
+Og hvad kan vi kalde dem vi kan kalde dem ved ef veto.
+
+13:21
+Og op til. V K kan alle.
+
+13:27
+Ja, okay at det er selvfølgelig et sæt af vektorer i R.
+
+13:32
+Men det vil det hele tiden være. Det skriver jeg ikke eksplicit. Vi er i R i det.
+
+13:39
+Så du tager jeg dette coke tåger ud i? Er det så det her kaldes et og to gode nagels sæt, hvis vektorerne er indbyrdes så indbyrdes ortogonale.
+
+14:17
+Og hvad betyder det? Jamen, det betyder bare, at hvis jeg tager et vil i og prikkerne med et vil j.
+
+14:29
+Så får jeg noget, når I det ikke er lige med J.
+
+14:38
+Forstået på den måde at f.eks. Ved et prikket med ved 2 0 ved et prikket med ved 3 0 ved et prikket med alle de andre, råbte der op.
+
+14:48
+Jeg giver nul. Men selvfølgelig når jeg prikker ved ét med sig selv, så får jeg ikke noget, for så får jeg længden af ved et i anden kasse.
+
+14:59
+Men vektorerne står indbyrdes vinkelrette på hinanden. Decibel to står vinkelret på alle de andre covers, der vinkler på alle de andre.
+
+15:06
+Det er det, der står her. Okay, så er der en sætning der siger at et ortogonale sad.
+
+15:25
+Og maaske moskéer. Altså for at sådan noget med Folk, der kom totalt flove, knepper mig idag.
+
+15:32
+Så det også det jo ikke nulvækst og nogen af dem da så er det ikke interessant.
+
+15:37
+Så det egentlige vektorer allesammen I kigger på, så et ortogonale sad der egentlig vektorer er lineært uafhængigt.
+
+15:58
+Og det kan vi jo så godt forestille os det gør også,
+
+16:00
+at vi i hvert fald i to og tre dimensioner også hvis jeg har to vektorer så vinkelret på hinanden.
+
+16:05
+Altså de kræfter er ikke proportionale i hvert fald indtil da. Men altså helt generelt, så gælder det i vilkårlig dimension.
+
+16:11
+Så lad os nu prøve at kigge på det. Jeg skal se, om der vil et Clowes lambda tog tog, jeg tog, klodes osv.
+
+16:21
+Og så havde jeg k vektorer.
+
+16:26
+For skal der så lamper, korvet døre og så skal sætte lig nul vægteren og så skal tjekke om dette er det kun at tilfældet,
+
+16:36
+når alle lambda erne er nul, lig tallet nul og måske varsel, og fordi det er skide smart.
+
+16:50
+Det man gøre med denne her ageres, det er bare.
+
+16:54
+Jeg starter med at prikke starter med at prikke med ved et på begge sider.
+
+17:02
+Prik med V.
+
+17:07
+På begge sider. BS Christiansen vil kækt lukke eller ej, og vi prikker med et på begge sider også.
+
+17:19
+Hvad står der så? Så står der lam, der vil prikket med ved.
+
+17:25
+Clowes Så står der lam, der tog vel to prikkede med ved et Clowes og så videre.
+
+17:32
+Lambda k, v, k. Tricket med vil blive med nulvækst.
+
+17:40
+Søren Prikket med B. Et ja, men det er ortogonale.
+
+17:47
+Jamen, så står alle de her vinkelret på hinanden, og det vil sige dette er den nul.
+
+17:51
+Alle disse er nul. Tilbage står der glam, der ved et prikket med vil det i længden er vil det andet skal være lig nul prikket med ved et nul.
+
+18:05
+Jamen, lagkage. Længden er ikke nul. Så må der være nul.
+
+18:12
+Først fik vi taget Hvide lam, der et slogan.
+
+18:17
+Jamen altså, så tager jeg den. Og så prik ved 2.
+
+18:22
+Klasse det. Og så kører vi væk.
+
+18:26
+Så nu prik møde med et tog ved et tre op til VK.
+
+18:40
+Og så er vi færdige, fordi den næste gang viser alarm.
+
+18:47
+2 0 for lang til 3 0 osv. Og så er vi færdig.
+
+18:51
+Det er jo genialt. Jeg kan også fordi det betyder jo, at hvis jeg har en.
+
+19:00
+Ortogonale vektorer. I er det, så har jeg en basis kristendom, så det kan vi lige konkludere.
+
+19:16
+Konklusion har jo heller ikke sådan at føle sig.
+
+19:31
+End overtog går nag væk tog over i april.
+
+19:43
+Det kan bruges som basis.
+
+19:57
+Så skal bare nok af dem der har egen basis og gab.
+
+20:02
+Det minder lidt om det, jeg havde for i hende. Hvad kan vi ikke gøre os lige?
+
+20:07
+Jamen, vi kan rigtig godt lide, at vores vektorer er enedes vektorer.
+
+20:13
+Så. Så hvis det og Tove går Nagel, så lad os kalde det.
+
+20:27
+Nu vil et vel et tove opsat ved ende når med.
+
+20:39
+Og hvad gør man, når man når det? Jamen, det gør man ved at se en DVD med længden af et V tog DVD med længden af WTO og så videre op til ved en dvd.
+
+20:58
+Med længden af vil en så har normerede sættet.
+
+21:06
+Så opnår jeg et sæt af enheds vektorer, som er indbyrdes overfor Grøndal.
+
+21:15
+Har vi en overtog kommunal basis af Enhedsliste ord, så.
+
+21:43
+Så det er en ortogonale basis at enheds vektorer lægge mærke til.
+
+21:47
+Her havde vedvarende ortogonale basis, så laver I disse eneste vektorer, så har vi så selvfølgelig en ortogonale basis af enheds vektorer.
+
+21:56
+Når man har det, så ser man at man har en anden. Dette kaldes dagen og overtog normalt basis, og ofte skriver man det.
+
+22:17
+Et ord overtog normalt basis, og fordi det er langt over, så plejer man bare at kalde det en orden.
+
+22:29
+Så det er jo vældig smart, hvis vi, hvis vi laver et lille bitte bitte eksempel.
+
+22:48
+Så kan vi, hvis vi nu er jer to, så kan vi tage vektorerne plads og senere en ind og så bare en væg, så der står vinge var et sådan.
+
+23:00
+Det kunne for eksempel være en minus 1 de to vektorer, da de står vinkelret på hinanden.
+
+23:09
+Noget skrevet med koordinater, søjler af prikker med hinanden, der giver nul.
+
+23:14
+Dengang vandt du dengang, det gav nul. Så det her den ortogonale basis?
+
+23:20
+Hvor lange er det? Jamen, længden af den ene eller anden plus Eniig er anden kvadratrod, kvadratrod to, og det er den, der også.
+
+23:28
+Så laver det op og deler med længden. Det giver sig en overgæret, der tog en af kvadratrod, toget og den næste.
+
+23:41
+Den havde så ind over for drab på tog og metro sagen og kvadratrod tog.
+
+23:47
+Dette er så. End hvad kan jeg nå, når jeg bare et ortogonale eller ortogonale bagest, så har jeg en normal også normal basis.
+
+24:03
+Så er det ganske simpelt. Og spørgsmålet er så om der er.
+
+24:10
+Hvad skal man sige? Smarte metoder til at gøre sådan noget her?
+
+24:16
+Fordi i højere dimension, så kan du godt være, det var sådan lidt mere tricky.
+
+24:21
+Så hvordan? For da Anne Skare for med en sejr overtog som normalt.
+
+24:46
+Nu vil jeg bare sige sæt, og det betyder bare, at altså det er ikke sikkert det, jeg gider tage.
+
+24:53
+Hvis jeg er 27. Jeg har lyst til at lave 27 mand, hvordan laver er et år som normalt sæt?
+
+25:00
+Det er det, jeg skal gøre, for hvis jeg gør det med alle, så jeg har nok af dem, så har jeg også en normal basis.
+
+25:06
+Nu vil jeg bare vise, hvordan man skaffer et over to normalt sæt,
+
+25:10
+og hvis man så gør det inden gange, så har man også en over normal basis, og det må man gøre.
+
+25:18
+Det er man bruger det, der hedder Graeme Smith Graben.
+
+25:26
+Smith proceduren og Gram var udover ja udover det navn på drømte køleskab.
+
+25:36
+Så var det faktisk også en matematiker fra Danmark. Det skal man jo være stolt af.
+
+25:41
+Desværre ser dette det fuldstændig banale, for det er ikke noget man måske vil heller hellere forbindes med noget andet, der snakker om det.
+
+25:51
+Prøv at se her, så lad os nu se. Lade Bo et og to år op til o.k.
+
+26:04
+Være et ledende ur og have et sæt.
+
+26:22
+Og vi ønsker. Et overtog normalt sats og vores overtøj normaliseret.
+
+26:40
+Skal vi ikke kalde det ved jeg, vil et bredt tog op til VK.
+
+26:49
+Så til sidst Spanien er det sammen, det vil sige Spanien af vores hue.
+
+26:58
+Et tog op til Gudkov skal være det samme som Spanien.
+
+27:08
+Med et v tog og til Weco.
+
+27:15
+Så det skal forestille jer, jeg gøre nu. Det er, at jeg i virkeligheden gør det, som jeg havde fat i helt hen til højre.
+
+27:24
+Jeg har nogle vektorer, som ligger sådan lidt skæve i forhold til hinanden med de dog lineært uafhængige.
+
+27:32
+Og så ser jeg. Nu vil jeg gerne lave et almindeligt koordinatsystem ud af dem,
+
+27:38
+så jeg retter mod sådan at vektorerne her står indbyrdes ortogonale og er enheds sektorer.
+
+27:47
+Så jeg vrider dem ud og laver dem til enheds vektorer. Og det er det, som kom Smith proceduren at gøre, og jeg tror, vi skal have en fin ny tavle.
+
+28:01
+Så Gram Smith G.
+
+28:08
+Og når nu vi ser det, så vil vi blive meget glade for, at der er en kommando i maven, der hedder Graham Smith.
+
+28:17
+Fuck. Hvad gør man da?
+
+28:22
+Vi ser vores første prøve. Først vil jeg ikke vælge.
+
+28:27
+Den laver vi ved at tage den første væg i vores sæt, vores bus og den når mere vi bare passer.
+
+28:40
+Sådan. Så jeg ser. Der hvor vi starter.
+
+28:45
+Det har været den første væg, så i det, som vi kender, som skal rettes ud, så når jeg lige der et Ağca, så laver alleen 11, vil jeg ikke.
+
+28:56
+Sådan hedder W tog. Og hvad er det for en fisk?
+
+29:02
+Ja. Det her udtog minus udtog prikket med endnu et garnet med undskyld ved et kamera, der vrøvler alle et, og så vil et.
+
+29:26
+Prøv lige at se engang. Dette er jo i af det der står her.
+
+29:33
+Det er jo produktionen af uge to på væge, som vi havde fat i hende.
+
+29:39
+Og når jeg så trækker den fra U2, så får jeg noget, der står vinkelret på vedhæftet.
+
+29:46
+Bare Reconstruction og yoga. Jamen så laver min vektor med tog ved at tage den dobbelt ved et tog og normeringen, og for er det smart,
+
+30:01
+for så har jeg to vektorer, som er eneste vektorer og som står vinkelret på hinanden og udspænder de to vektorer det samme.
+
+30:10
+Ja, for ved et er jo bare et skaleret. Og W 2.
+
+30:14
+Jamen, det her det her ligger jo i Spanien.
+
+30:19
+Er ETA utro? Fordi det her er jo bare en skildring af et, og her står der U2.
+
+30:24
+For jeg ligger i det samme Spanien. Det er David Smart.
+
+30:29
+Og nu kan I se. Fordi nu kører toget bare. Jeg laver lige det næste skridt i 11.
+
+30:34
+Vægteren W 3. Det er simpelthen en uge, tre Venus.
+
+30:39
+Og så ser jeg udtog prikket med Veto.
+
+30:45
+Gerne veto manus. Det skal simpelthen være U3.
+
+30:48
+Sådan er Venus, og så skal det være tre her prikket med ved ét og så garnet med valget af, hvad det vil sige.
+
+31:01
+Jeg tager bare U3 og prøve. I sidder nede på tog og på ind.
+
+31:05
+Det er bare produktionen på to vektorer, og så trækker det fra ud tre.
+
+31:09
+Jamen, så får jeg her en vægtere W 3, som står vinkelret på både veto og ved et svar.
+
+31:17
+Er det genialt. Og så kan I næsen gætte. Se hvordan laver V 3.
+
+31:22
+Det kører vi bare og når mere end jeg lige har fat i.
+
+31:25
+Og dette altså det er ikke spor sjovt at lave i hånden.
+
+31:36
+Det er helt forfærdeligt. Altså for det første fordi sådan noget med at når mere her, ikke at det er jo altid sådan noget med.
+
+31:43
+Så får man grimme kvadratrod og sådan noget lignende ikke sker det her. Disse bliver jo længere og længere.
+
+31:48
+Altså. Så det er ret omstændeligt, som man skal være rigtig glade for, at der er en kommando i Mabel, der hedder Gramm Smith.
+
+31:57
+Så når man gram smelter gram, smelter et sæt af vektorer.
+
+32:01
+Så ser den lige, så får man nyt sæt af vektorer, som udspænder det samme, men som er et også normalt sæt kinsella og på den led med tryk på den led.
+
+32:13
+Så kan man jo, hvis man har en basis, altså vektorer, der ikke nødvendigvis står vinkelret på hinanden.
+
+32:24
+Så kan man bare grahamsmel den. Så får man også normalt basis det skide smart og ja, så den der kommer til at lege lidt med.
+
+32:37
+Nu skal I så ikke, er jeg ikke i år.
+
+32:49
+Lad os lige. Lad os lige tjekke det her overtog Gunvald komplement.
+
+33:08
+Hvad er det for en fisk i år?
+
+33:12
+Hvis jeg nu tager en eller anden mængde, som ligger inde i I, er der en eller anden delmængde af efter få dage.
+
+33:26
+Så kan jeg lave denne mængde.
+
+33:30
+Man siger det nogle gange u, ortogonale eller u vinkelrette.
+
+33:35
+Det hedder ortogonale komplement til U overtog Gyldendal.
+
+33:45
+Nagel kom klage, men tørt til mængden.
+
+33:55
+Og hvad er det for noget? Jo, ortogonale komplet med intet.
+
+34:02
+Det er væk. Tore X. I er i ende, hvor om det gælder, at X prikkede med bue er lig med 0 for alle.
+
+34:18
+Det her betyder for alle fuger i mængden.
+
+34:26
+Så det er altså de vektorer x, som står vinkelret på alt fra mængden u og ligegyldig.
+
+34:35
+Hver uge er så vil dette u vinkel har det vel altid været under år.
+
+34:56
+Og det er helt afsindig nemt at bevise. Altså det er bare at gå ind og vis.
+
+35:02
+Denne her betingelse opfører sig som den skal. Spørgsmålet er Kan vi sige noget om, hvordan sådan nogle ortogonale komplement, der ser ud?
+
+35:18
+Jamen f.eks. Hvis vi nu er her i. Vi er to, som vi forestiller os, som vi kan tegne her i planen ligger også lad os,
+
+35:30
+så lad os så som mængde u prøve at tage denne linje, som jo faktisk selv er et underrum.
+
+35:42
+Hvad så overtog A komplementere? Jamen, det er alle de vektorer, der står vinkelret på.
+
+35:49
+Det må være dem, der ligger her kasser.
+
+35:56
+Så det er simpelthen over så banalt. Humble være intet. Det er den det underrum, der står meget på.
+
+36:02
+Det er jo meget smart. Vi kan også lave DNA eksempel, så lad os nu tage.
+
+36:23
+Lad os nu tage to vektorer. Lad os tage to vektorer med ekspertise.
+
+36:34
+Ind kommer indkommet a, 1 og y være lige i.
+
+36:40
+Der er indkommet nul komma to sådan at for eksempel.
+
+36:48
+Og så lad os nu se.
+
+36:59
+Lad nu være den mængde. Det kunne være smagen af det tog vektorrum.
+
+37:04
+Det kan også bare være de to vektorer, der nu følger de to vektorer.
+
+37:11
+Og så kunne jeg godt tænke mig at bestemme over så banale komplementær til de to.
+
+37:26
+Og ja. Jamen altså hvis hvis jeg har en eller anden vægt, så sæt besat skal ligge i ortogonale komplet med intet hva så?
+
+37:44
+Så skal jeg ikke prikket med suppe, lære noget og øge prikket med set være.
+
+37:55
+Noget af det er jo det der definerer at ligge ortogonale om Levante.
+
+38:02
+Men lad os nu skrive sat som sagde et komma tog komma sat tre, fordi vi er åbenbart det glemte de at skrive.
+
+38:16
+Men er det ret oplagt? Jeg har tre koordinater, så vil jeg af jer tre.
+
+38:22
+Jamen, så kan jeg bare skrive dette ligninger op, fordi den ligning er den vægtere prikkende eks.
+
+38:29
+Det giver jo en engang sætte et Clowes engang sæt tog Kluges engangs 3.
+
+38:38
+Der skal være noget, så det er det der står dér og det der står hér.
+
+38:46
+Det er jo af indgange set ét plus noget igangsat to plus to gange tre skal være nul.
+
+39:02
+Så den hormonelle learning system.
+
+39:07
+Og der ved vi, at Løsnings Smatten bliver altid underrum, så det passer passer meget fint.
+
+39:13
+Lad os lige prøve at finde ud af. Lad os lige prøve at finde ud af, hvad det er for en fisk.
+
+39:18
+Så jeg laver lidt total matricen. 1 0, 1 0, 2 0, og så vil jeg bare trække fra hernede.
+
+39:30
+Jeg ser bare et tog minus bakke, et smut et 0.
+
+39:38
+Og så får jeg noget, mener sagen. 1 og 0.
+
+39:45
+Sådan da. Og hvad giver det? Der vil jeg lige lægge den til det og op.
+
+39:55
+Det vil sige, jeg ser række et klods pakket tog og skifter lige fortegn.
+
+40:00
+Jeg griner alligevel minus 1.
+
+40:05
+Så får jeg 1 0 tog, og så får jeg noget et minus.
+
+40:12
+0 0 og nu står den på.
+
+40:18
+Hvad skal man sige i fuld reducerede form? Matthews får af køleren form, så vi kan se igen.
+
+40:27
+Her er vores frie variabel beskrevet her X3.
+
+40:32
+Den kan hedde T eller S, så jeg ved ikke hvad.
+
+40:37
+Og så løser vi ligningen nedefra. Her står undskyld med stråler.
+
+40:44
+Det er sært. Undskyld, hvor der fuldstændig rat. Jeg er altid vant til, det hedder ekstra.
+
+40:48
+Det sætter vi leder efter her, så sæt tre af vores fødevarer.
+
+40:52
+Den kalder vi S og den ligning. Den må hedde z minus Z.
+
+41:00
+Tre skal være 0, og det vil sige at Z tog hedder det samme som Z 3, som altså også hedder S.
+
+41:11
+Og så er den øverste ligning den ser af et plus to z 3 skal være 0 og det vil sige z et alle med minus to sæt 3, som altså så hedder minus to.
+
+41:28
+S.
+
+41:29
+Og så kan jeg skrive op over Sokolov med Intet er for noget, for det er vektorer af formen sætte et sæt tog sæt tre som kan skrives som s ganget med.
+
+41:44
+Og lad os se en gang z 3 sandhed.
+
+41:48
+S z tog hed også s h.
+
+41:53
+For der skal stå 1 og sæt et minus to.
+
+41:57
+S. Og det er jo det samme som Spanair da.
+
+42:08
+Så hvis jeg vil skrive det sådan, så er det Spanair vægteren.
+
+42:16
+Vi skriver som så alle minus to 1 1.
+
+42:23
+Så har vi vores radiokanal Komplement ved relativt simpelt at finde, og læg mærke til, at jeg kunne have gjort noget meget, meget simpelt.
+
+42:33
+Fordi hvis jeg har to vektorer i rummet og skal finde en vektor, som står vinkelret på dem, så krydser dem bare med hinanden.
+
+42:45
+Kigger også hvis så krydser de to vektorer med hinanden for alle vækster, som står vinkelret på hinanden, og den kan helt sikkert skrives på den måde.
+
+42:54
+Så den anden måde at gøre det på, så at lægge jo ikke mærke til begynder at tælle, hvis man nu kun hvis man nu kun havde haft en væg tager.
+
+43:10
+Så havde vi jo kun haft en ligning af erhvervene, og det vil sige,
+
+43:19
+så havde vores total ikke se sådan her ud, og denne havde jo allerede været på, ja reduceret køleren form.
+
+43:26
+Og hvad betyder det? Jamen, det betyder så bare. Så har jeg to frie variable.
+
+43:31
+Nemlig S og T for z to og tre.
+
+43:36
+Og det betyder så, at hvis man kun har én væg, så I er tre, så vil også gerne koble nettet til den ene væg.
+
+43:45
+Så hvad er todimensionelle underrum? Men det kender vi jo også, for fordi man har en væg, så så er alt det, der står vinkelret på en væg.
+
+43:54
+Og det er jo den plan. Som vægteren er normalvægt for gældsatte, og det er lige præcis det vi udnytter,
+
+44:01
+når vi skriver planens ligning op, og sådan nogle ting er græs, så det er ikke spor mystisk.
+
+44:06
+Men ved hjælp af disse overvejelser kan man meget hurtigt se, hvad dimensionerne er, ikke også.
+
+44:11
+Så lad os holde pause nu, så et kvarters pause, folkens.
+
+44:24
+En.

@@ -1,0 +1,932 @@
+0:04
+Er nu på vej ind i det sidste kapitel af efterårs semesteret, og det handler om differentialligninger.
+
+0:13
+Det skal vi have i de næste tre forelæsninger, og derefter er der en tema øvelse i differentialligninger, og så kommer eksamen.
+
+0:23
+Det lyder sådan, at programmet nu hedder fremover. Og det er, som vi kan nyde det.
+
+0:33
+At det, vi har lært i den foregående del af kurset.
+
+0:37
+Det får vi rigtig brug for, selvom det jo sådan set er et helt nyt emne.
+
+0:43
+I dag kigger vi særligt på struktur sætningen. Vi har snakket om den før, men det er i dag, vi skal se kraften af struktur sætningen.
+
+0:55
+Jeg kan også godt se, at emnet er første ordens lineære differentialligninger.
+
+1:00
+Det er noget, jeg har set i gymnasiet. Formålet i dag er at få stående på et dybere niveau,
+
+1:07
+sådan at jeg er parat til også at snakke om anden ordens differentialligninger og differentialligningen systemer.
+
+1:15
+Som sagt kultur. Sætningen er fokuseret jeg på i dag, at vi rigtig får fat i dem, og hvordan vi kan bruge den og så de næste gange.
+
+1:24
+Der vil vi se, hvordan vi får brug for de komplekse tal og den komplekse eksponentielt funktion.
+
+1:33
+Det er et hårdt program, og derfor har jeg taget en kop kaffe med her i dag, og jeg skal ikke tegne denne her.
+
+1:51
+Og den er jeg lige skænket den. Den er 100 grader varm.
+
+1:57
+Det bliver den ikke ved med at være, og grunden er selvfølgelig den, at luften udenfor er koldere.
+
+2:09
+Der er nemlig 20 grader her i lokalet. Og nu spørger jeg så om hvordan udvikler kaffens temperatur sig?
+
+2:23
+Vi skal jo kalde den for et eller andet. Så skal vi sige, at ekstra te.
+
+2:29
+Det er kaffens temperatur. Til tiden t entitet er altså temperaturen.
+
+2:44
+Ja, der glider processoren ned. Jo, jo, det gør vi lige her.
+
+2:49
+Ja, for lidt. Kan du se det godt?
+
+2:56
+Se, når jeg stiller dette spørgsmål, så er det altså fordi jeg kan rigtig godt lide varm kaffe.
+
+3:02
+Og erfaringen viser mig altså, at. Hvis man kan lide varm kaffe, så skal man bryg den hurtigt.
+
+3:10
+For det varer ikke ret lang tid, før den blev halvlunken, og faktisk er det meget bedre, hvis man kan lide lunken kaffe.
+
+3:19
+For det bliver den ved med længe. Faktisk var det rigtig lang tid før, at den bliver helt kold, før den bliver 20 grader.
+
+3:26
+Så hvis jeg lige skulle prøve den erfaring jeg har, og at tegne en graf af den, så vil jeg sige, at.
+
+3:36
+At hvis det her har te, og så har vi da ikke sorte, og har vi her de hundrede grader, og her har vi de 20 grader.
+
+3:52
+Så vil jeg altså.
+
+3:55
+Så vil jeg mene, at temperaturen den falder kraftigt i begyndelsen, og så flader dem ud, og så bliver den tættere og tættere på de 20 grader.
+
+4:08
+Og hvad er det egentlig der karakteriserer den grafer?
+
+4:13
+Det er jo, at den er meget stejl i begyndelsen, og så flader den mere og mere ud.
+
+4:22
+Er jeg så, hvis jeg tegner en tangent her? Så er den meget stejl.
+
+4:30
+Den flader ud. Og sådan går det altså.
+
+4:36
+Så min observation er altså kun at stege nyheden af grafen, dvs.
+
+4:44
+SI ex mærket rt. At den er vigtig for det vi snakker om her og I kan se.
+
+4:51
+Jo længere temperaturen kommer på 20 grader, desto mindre er exciting.
+
+4:57
+Så nu vil jeg prøve at lave en model af dette. Og min første konstatering er at så ex mærke RT afhænger af forskellen mellem ex rt og de 20 grader.
+
+5:28
+Og der er altså en eller anden afhængighed af X mærke, og til denne forskel skal vi prøve at lave en model.
+
+5:43
+Det vil være at stejlhed er grafen.
+
+5:48
+Den er proportional med den her forskel mellem kaffens aktuelle temperatur og så rummet temperaturen i auditoriet.
+
+6:02
+Og. Nu vil jeg lige skrive lidt om på det her, og så får jeg ikke mærke at te, og så ganger jeg ind.
+
+6:12
+Så får jeg K gange med ekstra til, er lig med K gange med 20 og her med det jeg spurgte om det var hvad?
+
+6:31
+Hvordan udvikler temperaturen sig? Er kaffen? Og nu er jeg altså havnet oppe i en ligning af den type her, hvor eksalteret er differentieret.
+
+6:42
+Det er den funktion, erkender eller jeg ikke kender, og som jeg ønsker at finde.
+
+6:48
+Så her har vi set et eksempel på, hvordan en differentialligning den opstår.
+
+6:54
+En differentialligning er jo en ligning, hvor det er en funktion, som er ubekendte.
+
+7:00
+Det er den, vi skal prøve at finde. Jeg har givet jeg et eksempel her i øvelses programmet i dag.
+
+7:06
+Da er der en såkaldt i Mabel, hvor det er jer der ud fra en fysisk problemstilling.
+
+7:13
+Altså helt fra bunden af. Skal løse en problemstilling.
+
+7:17
+Og lige pludselig så opstår der altså en differentialligning, som I så skal begynde at løse og eksperimentere med.
+
+7:27
+Som sagt så er differentialligninger noget I kender til i forvejen.
+
+7:38
+Håber og tror. Kun.
+
+8:02
+Er der nogle af jer der har set det her før? Hvor kommer det fra?
+
+8:09
+Er Jeg ved ikke om du har set den bog, hvor det her står i år?
+
+8:13
+Det tror jeg ikke. Men jeg arbejder med med det godt, det her.
+
+8:17
+Det har jeg. Jeg ved ikke, om du har den bog selv derhjemme. Det er formen, samlingen for STX og fuga.
+
+8:25
+Der har ikke været, du har haft en lignende form med, som der garanteret nogen, der har set den her side før.
+
+8:29
+Og det er jo for forskellige typer på differentialligninger, og I kan så se her.
+
+8:36
+Det aller simpleste er jo, hvis vi skal finde en stamme funktion.
+
+8:41
+Jeg ved ikke, hvorfor de ikke har skrevet en arbitrært konstant på her. Her har vi en den simpleste.
+
+8:53
+Hvad det hedder første ordens differentialligning, og det er en løsning vi har snakket om også her på godset mange gange,
+
+9:00
+hvor eksponentiel funktion opstår, og det har vi.
+
+9:04
+Dér har vi to forskellige typer. Anden ordens differentialligninger, som jeg tror, jeg måske haft i Theme.
+
+9:10
+Hvad det hedder sammen med et tværgående projekter i gymnasiet.
+
+9:15
+Og så endelig, så har vi dem her, som er den, vi skal arbejde med i dag, og den tror jeg også, mange af jer har arbejdet med.
+
+9:23
+Men hvor I har brugt pass værktøjer til at løse dem?
+
+9:27
+Og det er altså dem, vi kigger på i dag. Vigtigt føjer er jo så at forstå, at.
+
+9:36
+Med hensyn til notationen, så har vi altså i gymnasie formen sammenhængen.
+
+9:42
+Der har vi så at den ubekendte funktion kaldes y eller y og x og den variable den f.
+
+9:50
+Eks. Mens her på det 20. Da er det altså ekstra t, som er den ukendte funktion, og så t er valgt som standard.
+
+10:01
+Vi kunne selvfølgelig også skifte lidt engang imellem, men er valgt som parameter og står ligesom for tiden.
+
+10:08
+Differentialligninger handler jo om, hvordan ting de udvikler sig.
+
+10:14
+Godt. Vi skal nu have indført en definition ud fra vores notation.
+
+10:26
+På en første ordens lineær differentialligning. Og nu sluger jeg dagens printere op på den tavle her.
+
+10:42
+Og der kommer fem pointer. Her har vi den første. Det er selve definitionen.
+
+10:52
+Hvor vi siger at ved en første år hvis.
+
+11:03
+Lineær differentialligning. Derfor står vi.
+
+11:24
+En ligning af denne her type, hvor vi siger x mærke til Kluges p er ti gange med x rt er lig med q rt.
+
+11:44
+Og ex dating er ukendt funktion som vi ønsker at finde.
+
+11:56
+Og P er t og q a, t er hente kontinuerte funktioner.
+
+12:14
+Så der optræder altså i alt tre funktioner i denne ligning.
+
+12:19
+Det er den ukendte funktion og så p og t og q.
+
+12:24
+A10 skal så være kendte funktioner.
+
+12:32
+Og denne her vinder vi selvfølgelig tilbage til Fyn, og så siger vi Hvis Q RT er lig med nul, er ligningen homogen.
+
+12:56
+Og så har vi altså ligningen ex mærke at the clouds p rt gange med ekstra t er lig med nul, og den kalder vi dobbeltstjerne til senere brug.
+
+13:19
+Så hvorfor hedder den første ungens? Det er fordi den ukendte funktion kun er differentieret én gang,
+
+13:30
+hvis den ukendte funktion var differentieret tre gange, jamen så var det en tredje ordens differentialligning.
+
+13:39
+Og så står der jo en ting mere her at den er lineær, og at det er vigtigt, at vi forstår, hvorfor det er vigtigt, og hvad vi kan bruge det til.
+
+13:53
+Og her får vi brug for struktur sætningen som jeg nu giver en.
+
+14:00
+Hvad skal vi sige for første gang en rigtig gennemført udgave af structure sætningen.
+
+14:06
+Med nogle meget nemme eksempler, så det ikke bliver for tungt. Og Structure sætning Den handler om forholdet.
+
+14:35
+Mellem L inden H og L H altså forholdet forholdet imellem en.
+
+14:49
+Den fuldstændige løsnings mængde til en enhed move en ligning overfor den tilsvarende homogene ligning, og lad os kigge på to eksempler.
+
+15:09
+Eksempel ét. Det er et almindeligt lineært linningen system.
+
+15:15
+2 x minus to Y er lig med 4 og minus x plus.
+
+15:22
+By er lig med minus 2. Og vi skriver totalt matricen op to, minus to og fire.
+
+15:38
+Og så har vi minus 1, 1 og minus 2.
+
+15:47
+Vi laver Gauss Jordan elimination og finder trappe matricen.
+
+15:57
+DVD'er igennem med et 2. Så har vi en minus 1 og 2.
+
+16:07
+Og så lægger vi den til den nederste ligning og får nul 0 0.
+
+16:15
+Så det vil sige at là indhold. Som altså betyder den fuldstændige løsning alle løsninger betragtet under ét.
+
+16:27
+Den er så givet ved at X og Y er lig med, og så har jeg jo første søjle her to over nul plus og så bliver det den frie parameter.
+
+16:43
+Gange med ind over en. Sådan en havde jeg opskrive den fuldstændige løsning, men det er jo ikke den eneste måde, jeg kunne opskrive den på.
+
+16:57
+Jeg kunne jo også vælge at prøve med ting lige med én.
+
+17:04
+Så får jeg en plus en eller to procent. Det giver tre, og jeg får nul plus 1 gange 1.
+
+17:10
+Det giver en, så jeg kunne lige så godt have skrevet, at løsningen den er tre over en flux t over en komma.
+
+17:28
+Og på den måde vil det altså sige at denne løsnings mængde kunne jeg have skrevet op på mange forskellige måder.
+
+17:36
+Om hvad er det, der karakteriserer alle de måde, jeg kan skrive dem op på?
+
+17:40
+Det er strukturen af løsningen, fordi hvis det er nu, lige først prøve at finde.
+
+17:53
+Hvad er løsningen til den tilsvarende Hurrungane ligning?
+
+17:59
+Det vil sige dér hvor der stod 0 0, så ville der også har stået nul og nul dér, og når Gauss elimination, så kommer den til at stå nul og nul dér.
+
+18:10
+Det vil sige, jeg kan se bort fra den. Det er første led i løsningen, og så har jeg så, at L.
+
+18:17
+Ham den er ti gange én over i.
+
+18:24
+Det vil sige uanset på hvilken måde jeg vælger at præsentere L en H, så er L ham repræsenteret.
+
+18:36
+Og så er der altså forskellige muligheder for hvad der skal være det første led i løsningen.
+
+18:42
+Det skal bare være en eller anden løsning. Den her er jo en løsning til det her ligner, og ligningen står system svarende til at lig med nul.
+
+18:52
+Denne her er også en løsning.
+
+18:54
+Så når vi opskriver løsningen for den enorme vuggende ligning, skal vi bare have en anden løsning, og så smækker vi hele Elham på.
+
+19:06
+Så det er dét som struktur. Sætningen siger, at l benhård Kahvi skrives som en.
+
+19:16
+Det kalder man en partikulære løsning. Plus L ham.
+
+19:37
+Det var mit første eksempel. Andet eksempel. Det handler om en lineær afbildning f, a, p ét over er det E, f og to.
+
+20:02
+De øgede ved at afbilde mængden taget af et første Kongrespolen, nogle rum er lig med det tal bare der hedder to a minus to.
+
+20:17
+B komma minus A plus b.
+
+20:25
+Altså et første grads polynomium bliver afbilledet på et tal Z.
+
+20:31
+På den måde jeg har skrevet op her. Og nu lyder opgaven så løs ledningerne.
+
+20:46
+F a day plus b. X lig med fire komma minus to.
+
+20:56
+Det var den første opgave og den anden opgave find.
+
+21:02
+Kernen for afbildningen. Så først har jeg altså her det vi kalder for en lineær ligning, som handler om det.
+
+21:17
+Altså en væg til rums ligning, der er skrevet op her. Og skal vi prøve at løse opgaven et.
+
+21:31
+Vi skriver da opgaven op i koordinator for det hvis en af dem skal være lige med det her.
+
+21:41
+Eller er den lige med, og det skal være lige med det her. Så får vi altså ligningen.
+
+21:45
+Systemet 2 A minus to B skal være lig med cd'er.
+
+21:54
+Jeg skal være lige med fire. Og så får jeg at minus A Plus B skal være lig med minus to.
+
+22:09
+Så nu kan jeg altså se, at denne her lineære ligning jo faktisk bare er det samme.
+
+22:16
+Eller ækvivalent med det lineære ligning system jeg har skrevet op her hende.
+
+22:23
+Og sådan gælder det altid, når det handler om lineær afbildning mellem endeligt dæmon journal vektorer.
+
+22:30
+Så nu kan jeg med det samme skrive. L indhold.
+
+22:38
+Og det får vi i coordinator. Den får vi herovre fra.
+
+22:48
+Ja, de kan vælge at tage den dér, at A og B er lig med.
+
+22:58
+3 over 1 Kluges te gange med over i.
+
+23:10
+Og så skal vi have. U.
+
+23:18
+Tak. S.
+
+23:33
+Sådan. Og når vi skal finde kernen for F.
+
+23:43
+Jamen, så snart det var fuldstændig til at vi skal løse den tilsvarende homo gena ligning.
+
+23:49
+Og det vil altså sige at kernen for f er givet ved at polynomiet coordinator af over by skal være 10 over én over én.
+
+24:05
+Så vi ser altså at. Dér har vi altså kernen for EF, og så har vi den fuldstændige løsning på den.
+
+24:18
+Det er en homo gøende ledning. Det var den, vi skrev her. Det er en partikulære løsning plus kernen for EF.
+
+24:31
+Så det var altså anden gang i kurset, at vi røg direkte ud i struktur sætningen denne her enestående sammenhæng.
+
+24:41
+Det er for løsnings mængden i lineære tilfælde.
+
+25:00
+Men nu var det her jo en særlig type af Lina afbytning, som jeg gav eksempel på her.
+
+25:08
+Nemlig mellem benene dimensionale vektorrum, det vil sige dem, der kan beskrives ved hjælp af matricer.
+
+25:15
+Men vi har jo flere gange set, at vi somme tider har brug for at ligne afbildninger.
+
+25:21
+Hvor da ikke hvor det ikke er muligt at lave en basis og dermed at lave matrix regningen på det, så nu skal vi have brug for.
+
+25:30
+Nu har vi brug for dette resultat. Helt generelt. Så en sætning.
+
+25:44
+Vi skriver Gide, Lena og afbytning af et eller andet væk to rum en i et eller andet andet væk ro.
+
+26:02
+Og vi betragter da ligningen. Som hedder f.
+
+26:11
+Eks. Er lig med B, altså der er givet et B i væg til rummet W, og nu skal vi finde alle de x i enkelt vind, som har bedt om sit billede.
+
+26:27
+Og så skriver vi og lavede X noget værre.
+
+26:35
+En anden løsning. Så gælder.
+
+26:52
+Der at ellen en hånd er lig med x0 knus elholm.
+
+27:07
+Og det her er så vigtigt et resultat, at jeg laver et bevis for det.
+
+27:13
+Det er heldigvis meget enkelt, forbavsende enkelt. Så først så antager vi, at vi har en vægt så u, som ligger i.
+
+27:29
+Dette vil jeg også gerne skrive som ex. Nul plus kernen for EF det en og samme sag.
+
+27:38
+Så nu antager jeg så at vi har et u i kernen.
+
+27:43
+For EF. Og så siger jeg så.
+
+27:53
+Så har vi f. Ex noget.
+
+27:59
+Vi har antaget at et x0 det er en løsning til den ligning her og så plus ud.
+
+28:11
+Og så på grund af Line i teten, så er det Keld F.
+
+28:16
+Så det f.ex 0 Plus er jo. Og F.A x0, den er jo lige med B fordi det er en løsning.
+
+28:29
+Og F er u den er nul vektoren, for den ligger i kernen.
+
+28:37
+Og så bliver det altså lig med både vægteren. Og så har vi vist at det er ikke noget plus U ligger i L indhold.
+
+28:57
+Vi har jo netop set at afbildningen af denne sum giver bede vægteren.
+
+29:04
+Denne er altså med i l indhold. Og nu har vi altså set første del af den sætning.
+
+29:11
+Her tager jeg en vægtere, for kernen lægger den til x0.
+
+29:16
+Så har jeg l en indhold. Nu skal vi vise den modsatte vej.
+
+29:21
+Vi tager nu en vilkårlig vægt topfolk l indhold og viser os så, at den kan skrives på den form, der ligger her.
+
+29:34
+Vi antager at en vektor V ligger i L indhold.
+
+29:46
+Og det jeg nu gør er så tager jeg f. V minus x0 på grund af de naiviteten er det f.
+
+29:57
+RV minus f af x0.
+
+30:05
+Og der er både V ligger i alle indhold, som så vil altså sige at den er lige med B.
+
+30:14
+X0 var også en løsning. Så billedet er den væk, så her bliver altså nul vektoren.
+
+30:26
+Det vil sige at V at der findes en vektor u i kernen for f.
+
+30:42
+Som opfylder at ved minus x er nul er lig med bue, og det vil så sige at min ved vægt, så den kan skrives på som x0 plus o.
+
+31:03
+Altså givet en vilkårlig vægtere i L 1 ham.
+
+31:08
+Nu har jeg vist, at den vægt så kan skrives som den løsning jeg havde i forvejen.
+
+31:15
+Plus en vægter, der ligger i kernen af. Og hermed har jeg så nu bevist.
+
+31:22
+Den generelle sætning, som vi har brug for i dag, ja.
+
+31:30
+Som da det var anden del af beviset. Når du skal finde ud af hvad har alt det her, som jeg nu har sagt.
+
+31:49
+Hvad har det egentlig med disse differentialligninger at gøre? Så det skal vi have afklaret nu.
+
+31:58
+For. Så vi siger.
+
+32:19
+Der er givet en funktion p t.
+
+32:38
+Det jeg har skrevet her betyder bare at det er en kontinuert funktion, som har definitionsmængden intervallet fra A til B,
+
+32:45
+og den er kontinuert, ja ikke andet prioriterer en kunstner jeg funktion.
+
+32:53
+Og vi betragter afbildningen.
+
+33:06
+Er at de at de skal vi bare sige at de differentiable funktioner.
+
+33:19
+Ind i det differentiable funktioner. Dette er jo et væg til ro.
+
+33:27
+Alle de funktioner der er definerede fra A til B, og som kan differentieres uendeligt mange gange.
+
+33:33
+Det er et vektorrum, så det er altså en afbildning af et vektorrum ind i sig selv givet ved.
+
+33:47
+At afbildningen af en funktion x og rt den er funktionen differentierede plus den givne funktion p og 10 gange.
+
+34:04
+Det er ikke så tit. Så nu smider jeg så denne her afbytning ind.
+
+34:16
+Den er lineær. Jeg vil ikke bruge tid på at vise det, for det er noget, jeg selv har arbejdet med,
+
+34:27
+øvede jeg på det her netop for at have forståelsen parat til i dag.
+
+34:32
+Jeg ved godt, hvordan man skal vise det her. Vi skal tage.
+
+34:35
+Det er to forskellige funktioner, en der hedder ekstra t og ingen bad og bygger til og så vise, at ét og opfyldt.
+
+34:43
+Bagefter skal vi se en konstant gange. Funktionen er lig med konstanten ganget med funktion.
+
+34:52
+Og det vil altså sige for fordi L ét og L2 er opfyldt.
+
+35:15
+Og så siger vi så. Nu betragter vi den en homo homogene ligning.
+
+35:31
+Som hedder f. A. Eks. RT er lig med Q af ting, hvor af til er en anden konsumeret funktion.
+
+35:50
+Så vi betragter altså denne her E-nummer Gene vægterne. Og hvad er det ensbetydende med?
+
+35:57
+Det er jo ensbetydende med at x, rt plus P er ti gange med x rt er lig med Q og Tjek.
+
+36:12
+Og hermed er vi nået frem til det, som sagen i dag handler om.
+
+36:19
+Vi kan nu se, at den differentialligningen type vi arbejder med i dag.
+
+36:25
+Det er en lineær ligning, og derfor opfylder den betingelserne for struktur.
+
+36:34
+Sætningen så er det andet hovedresultater i dag.
+
+36:43
+Det er. At.
+
+36:50
+Hvis x0 RT er en anden løsning.
+
+36:57
+Det kalder vi en partikulære løsning. Til den fotogene ligning.
+
+37:16
+Så er den fuldstændige løsning.
+
+37:29
+Til den differentialligning vi kigger på lig med.
+
+37:41
+X0 er ting. Plus den fuldstændige løsning.
+
+38:00
+Til den homogene ligning, som er den jeg har kaldt dobbeltstjerne heroppe.
+
+38:10
+Så vi har altså brugt hele teorien omkring lineær algebra og lineær afbildninger
+
+38:17
+til at finde et vigtigt resultat for første ordens lineære differentialligninger.
+
+38:38
+Så lad os lige prøve her og kig på tre differentialligninger. Det har jeg altså en første ordens differentialligning.
+
+39:06
+Her har jeg en anden ex mærke, at te plus t i enden ex.
+
+39:15
+RT er lige med t i tredje +1 og den tredje ligning.
+
+39:21
+Jeg smækker op her. Det er at x differentieret i anden plus t i tredje gange ex rt er lig med C i tredje +1.
+
+39:45
+Det her er tre første ordens differentialligninger.
+
+39:51
+Vi kan se de er alle sammen enheder morgana. Det er en dag den samme funktion der står på højresiden.
+
+40:00
+Men der er kun én af dem her, som er i overensstemmelse med den jeg har kaldt for stjerne døre hende.
+
+40:10
+Og hvad er det for en af dem? Du har et bud.
+
+40:21
+Ja. Bh'en, fordi det i nu skal, når I begynder at arbejde med dem med differentialligninger.
+
+40:29
+Det er de skal kun klare identificere. Hvad er min p funktion, og hvad er min funktion?
+
+40:38
+Og I kan altså se hende. Den er der har vi PET funktionen.
+
+40:47
+Den er ganget med funktionen selv, så den er så i overensstemmelse med den, der står derovre.
+
+40:54
+Hvis de kigger op på denne her, så er der godt nok en konsumeret kendt kontinuert funktion, men det har vi ikke så til i anden.
+
+41:03
+Og hernede da er problemet, at her da er den ukendte funktion differentieret og derefter sat i anden.
+
+41:12
+Det er ikke i overensstemmelse med det, der står hen. Det vil altså sige det er kun banen her, som er i overensstemmelse med min definition.
+
+41:26
+Og det er kun denne der er lineær.
+
+41:34
+De andre to. De er ikke alene, og den måde jeg kunne vise det på, det var, at her i midt i mit bevis for sætningen to.
+
+41:50
+Da viste sig der og for det her denne her venstre side, da jeg her.
+
+42:00
+Den opfylder alle et og L2. Det gør de to ikke.
+
+42:06
+Det er altså kun denne her type vi taler om i dag, og hvor vi får et kæmpe fif til, hvordan vi kan løse differentialligninger af denne type.
+
+42:16
+Jeg vender tilbage til denne her. Lidt senere. Og hvor vi skal udnytte strukturen her.
+
+42:36
+Og lad os lige se hvor langt vi er nået i programmet. Vi er så nået til, at nu skal vi have løst den homogene ligning.
+
+43:07
+Før det jeg betragter nu, er jeg altså denne her ligning.
+
+43:12
+X mærke at t. Plus en kendt funktion p er t.
+
+43:18
+Gange med æg sig til at den er lig med nul.
+
+43:24
+Det er det vi skal snakke om.
+
+43:31
+Det første jeg bemærker det er, at det kan jeg jo her lige i denne her sammenhæng ved at omskrive det til minus P af ti gange med æg,
+
+43:44
+så tjek har altså bare sat det her udtryk hen på højresiden.
+
+43:55
+Og I kan se det her er jo noget med at en funktion differentieret er et eller andet.
+
+44:02
+Gange med funktionen selv. Og nu får vi brug for den sætning omkring eksponentielle funktioner,
+
+44:11
+som vi havde oppe på tavlen for lidt siden, fordi det var jo det her tilfælde nemt tilfælde.
+
+44:26
+Er jo hvis ex. Mærke at T er lig med en konstant gange med exciting.
+
+44:37
+Fordi der ved vi fra gymnasiet, at den fuldstændige løsning på denne her er x,
+
+44:45
+at T er en vilkårlig konstant frase gange med eksponentiel funktionen opløftet til kog og ting.
+
+45:01
+Så det vi altså bemærker er at den konstant dør der står foran funktionen.
+
+45:11
+Den kommer op hér i som eksponent for eksponentielt funktionen.
+
+45:19
+Lad os bruge det som inspiration til at finde en løsning for denne her, hvor det ikke er en konstant.
+
+45:26
+Og det vil altså sige at vi får brug for en stambord mission til det her.
+
+45:31
+I kan se K RT. Det er en stamme funktion til kog.
+
+45:35
+Lad os prøve at generalisere det. Ja.
+
+45:46
+Og min påstand. Det er at dæks at se lig med en vilkårlig konstant gange i minus P er.
+
+46:06
+Er den fuldstændige løsning. Og hvor den funktion der står her op.
+
+46:24
+Store p rt er en stam funktion til et lille p der til dt.
+
+46:42
+Og det er så inspireret af den nemme form her, og så hvis det her er korrekt, så er det jo alle tiders.
+
+46:50
+Så skal vi prøve at se, om det er korrekt. Hvis X RT er lig med en konstant gange med ét i minus store prioritet.
+
+47:19
+Så ganger jeg på begge sider med ét i plus store PR ting.
+
+47:24
+Og så får jeg ex af ti gange det i store p er t er lig med C.
+
+47:42
+Og Car not different serier på begge sider af lighedstegnet.
+
+47:47
+Her. Det vil sige at differentiere.
+
+47:58
+Det er et produkt vi skal differentiere i husker produkt reglen.
+
+48:04
+Hvem differentierer den første funktion ganget med holdet?
+
+48:08
+Den anden. Plus det modsatte.
+
+48:13
+Ex er ti gange den differentierede.
+
+48:17
+Det eksponentielt funktionen selv. Gange eksponent eksponenten differentieret, dvs.
+
+48:24
+En lille pr ting. Og.
+
+48:34
+Skal vi se hvor langt vi er nået nu? Det er, at vi har nu.
+
+48:47
+At det her skal være lig med nul.
+
+48:51
+Fordi jeg differentierer konstanten her på højresiden nu, er det ved at dividere med eksponentielt funktionen på begge sider.
+
+49:00
+Så har jeg at dette er ensbetydende med at x mærke RT plus x rt gange p rt er lig med nul, og det var lige præcis det jeg skulle vise.
+
+49:17
+Så det her er det tredje resultat vi skal have på tavlen i dag.
+
+49:27
+Fordi nu har jeg fundet den fuldstændige løsning til den homofil ligning.
+
+49:40
+Altså den fuldstændige løsning. Til den humor gene differentialligning.
+
+50:01
+Er givet ved. At X at the.
+
+50:10
+Er lig med en vilkårlig konstant gange eksponentielt funktionen opløftet til minus store PET er til.
+
+50:22
+Hvor store p rt er en anden stamme funktion.
+
+50:30
+Til lilleput. Skal vi på at tage denne her inden pausen som et eksempel.
+
+51:07
+Vi kigger på differentialligningen x mærke til Kluges te i hjernen.
+
+51:35
+Det er en homogen, først over den senere differentialligning vi skal løse.
+
+51:40
+Sådan nogle har I løst på jeres lommeregner, Graeff regning eller hvad de nu har haft.
+
+51:45
+Så vi ser om vi gør det lidt smartere. Skal vi se, om vi kan starte med at gætte en eller anden løsning?
+
+52:04
+Så vi skal altså differentiere funktionen. Så tager vi til i anden ganger funktionen selv.
+
+52:10
+Det skal give ting et tredje plus en. Det er faktisk ikke så svært.
+
+52:19
+Hvordan får vi for eksempel The Jane lavet om til te i tredje? Det gør vi ved at gange den med te.
+
+52:29
+Så jeg vil altså hævde, at den enkle funktion der hedder t r, er en løsning til differentialligningen.
+
+52:37
+Prøv at differentiere dem. Det giver en plus til hjernen ganget med 10.
+
+52:44
+Det giver til i tredje. Og så passer det. Så jeg har gættet en løsning til den her differentialligning.
+
+53:00
+Og så ifølge min teori, så behøver jeg jo kun nu at finde.
+
+53:07
+Og løse den homogene ligning. Og det er så at X mærke at T plus T i anden ekser t.
+
+53:25
+Skal være lig med nul. Og nu skal jeg identificere min p funktion.
+
+53:36
+Det er altså den, der står der viser sig at P er t.
+
+53:44
+Den er lig med t i anden. Og nu kan jeg så finde den store P, som indgår i løsningen.
+
+53:58
+Og nu er det det der med jeg skal have tavlen lidt op, så store P er til.
+
+54:08
+Er så lig med en 1 stamp funktion til Teen Jane til B.T.
+
+54:13
+Og det er jo en tredjedel til i tredje.
+
+54:23
+Og nu kan jeg løse differentialligningen.
+
+54:35
+Den fuldstændige løsning er så at ex.
+
+54:40
+T. Er den jeg har gættet. Plus.
+
+54:48
+Se også Så skal vi altså have en opløftet til den store P.
+
+54:54
+Vi har fundet. Altså minus en tredjedel t i tredje.
+
+55:04
+Det er den fuldstændige løsning på den enorme vuggende ligning fundet ved hjælp af den fantastiske struktur sætning Faxe.

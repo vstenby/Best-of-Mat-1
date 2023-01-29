@@ -1,0 +1,1223 @@
+0:07
+80 af kæden.
+
+0:12
+Vi skal fortsætte. Vi startede sidst nemlig det lille a living systemer, og på et tidspunkt i dag glemmer vi faktisk lidt, de ligner i systemet.
+
+0:21
+Så tager vi matricer med ud og ser på matricer med som selvstændige objekter.
+
+0:26
+Altså i virkeligheden glemmer lidt, at der ligger nogle ledninger bag.
+
+0:29
+Og så vil de også opdage, at jo længere vi skrider frem her de næste gange, bliver det Matheson, der er i centrum,
+
+0:35
+og det er ikke altid, vi tænke over dem som noget, der har noget som helst med et lineare, at ligning systemer gør.
+
+0:41
+Men vi starter ud med at have stadigvæk have i baghovedet, at en med en matrix,
+
+0:45
+der hænger nøje sammen med en linje af udligningssystem og emnerne for i dag.
+
+0:51
+Det er først noget om struktur sætningen. Og hvordan han med.
+
+1:01
+Struktur sætningen så er der noget om.
+
+1:09
+Rang er matrix. Og så kommer der noget Matrix'.
+
+1:22
+Hvad hedder det med matrix algebra? Det vi skal se her, er kunne vi på en eller anden måde.
+
+1:30
+De har matrice. Kan vi lægge dem sammen, ligesom vi kan lægge tal sammen. Kan vi trække ind fra hinanden, kan vi gang med konstanter.
+
+1:36
+Og kan vi i givet fald også begynde at gange matricer sammen? Her en matrix af en masse i gang om lige sammen hvad?
+
+1:43
+Hvordan skal vi tillægge det en mening, og kan det altid lade sig gøre ved en masse ting i det her matrix?
+
+1:48
+Hvilket barn. Sådan noget vi gør, sætter meget overraskende ting som måde de opfører sig på, og til sidst kommer der noget Mabels.
+
+1:58
+Undskyld. Og det er programmet.
+
+2:03
+Og som altid er det jo sådan, at vi i den første del her bruger lang tid på at forstå begreber endnu dem.
+
+2:08
+Og så opdager vi, at stort set alt, hvad vi har lavet, kan altså lynhurtigt foretages i Mabel.
+
+2:14
+Hvis man ved, hvad man gør det derinde i morgen, har måske set den første aflevering af næste aflevering kommet op,
+
+2:19
+og da skal man i hvert fald bruge maven med forsigtighed, hvis man vil have den rigtig.
+
+2:24
+Så der er masser af matricer med bogstaver egentlig, og det var der jo i vi sidste.
+
+2:29
+Det giver altid anledning til problemer, hvis man bare bruger Mabel ukritisk væk end en smart måde at bruge Mabel på.
+
+2:36
+Så kommer man nemmere igen. Nick er ung, og jeg skal lige ud på, at der skal afleveres lige efter efterårsferien,
+
+2:45
+så på store dage i næste uge er jo en af de gange, hvor der er konsulent.
+
+2:49
+Sådan set den eneste på nær så store dag tirsdag opstart.
+
+2:54
+Ja, vi skal i gang med den struktur sætning og begynd indviet går i gang med struktur og handling.
+
+3:01
+Så skal vi lige tale lidt om lignende systemer sidst og her i starten ved at skrive dem op for ligesom at være helt sikker på, hvad jeg mener.
+
+3:07
+Så vi skriver først et homogent linje af Linksys. Det er nok. Et homogent lille ligning system ja, hvad mon det er?
+
+3:26
+Vi ved godt fra sidst jeg har været vidne, at et lignende system blev var. Men nu sker det pludselig.
+
+3:30
+Homo delen der har lad os se hvad det er der er ligeså slemt på formen.
+
+3:35
+A et et a cvet plus A i to x2 nu plus a et n x1 med nul.
+
+3:47
+Sidste gang der stod sådan en ligning har så stod der betager hende i den første linje.
+
+3:51
+Nu står nul. Og den næste ligning vi har i vores system, der hedder sig jo af to et sæt plus a to 2 x 2 bluff plus a to n ex n lig med nul.
+
+4:06
+Og på samme måde kunne vi så skrive hele vejen ned at a m n a m.
+
+4:12
+Undskyld et afklædt Louise hele vejen hen til a m n x n lig nul.
+
+4:22
+Det homogene ved at er det dette gør det homogent er det der står på vores højre side, det vi kaldte B.
+
+4:28
+Sidste gang. Der står kun 0, og nu når der kun står indenunder derovre, så kalder vi licenssystemet homogent som her.
+
+4:39
+Jo, selvfølgelig. Fint nok er der noget særlig grund til at udnævne dem som nogle særlig venlige stemme.
+
+4:44
+Der er flere grunde, vi blandet skal sælge lidt, men en af de gode ting ved de homogene line alene i systemet er, at der er altid en løsning.
+
+4:53
+Vi har altid løse en system, for ikke hvis vi sætter alle eksterne lige med nul.
+
+4:56
+De ubekendte erkendte X2 op til X1 alle sammen lige med nul.
+
+5:00
+Så alene systemer fulgte altid en løsning. Vi kan aldrig komme i den situation, som vi så sidst.
+
+5:04
+At der faktisk ingen løsning var det, der skete. Sidste var jo fikset en målrettet leg med et eller andet tal herover, og det gav noget knas.
+
+5:11
+Det kunne ikke lade sig gøre, og så var der ingen løsning. Det er et homogent et vindende system.
+
+5:18
+Ork ja, det vi så på sidst. Du skriver Mange bruger gerne lidt plads her på tavlen, selvom jeg lige gør her den første gang snart.
+
+5:29
+Ja, vi gør det hver eneste gang. Det vi så på et sidste, hvad var så det? Det var et endnu homogent.
+
+5:42
+Nye med et lignende system. For hvad er et indhug i en linie alene i systemet?
+
+5:52
+Det er et der ser sådan her ud af et a klædt plus a en to X2 blues blues a et n a n er
+
+6:02
+lig med b et og hele vejen ned til a m et x et og hele plus hele vejen hen til a m n,
+
+6:14
+a end v, b m. Da m linjen.
+
+6:20
+Og hvad er så det der gør det her endnu er det ikke.
+
+6:24
+Her er alle. Det er ikke alle beviserne er lig med.
+
+6:36
+Nul, altså bare et af dem er forskellig fra nul, så er det inhumane, hvis slog de allesammen tilfældigvis lige var lig med nul.
+
+6:43
+Så er det bare et homogent ligner det nye system. Så nu har vi skrevet to licenssystemet op.
+
+6:49
+De ser meget ens ud, og hvad er det, der gør dem ens? Jeg er, at ligningerne jo er de samme, men højresiden er forskellig.
+
+6:56
+Det vil sige, at hvis vi lige tænker på terminologien fra sidst. De to Leiningen systemer har samme koefficient koefficient matrix.
+
+7:04
+Den hedder jo er et et af et tog og så videre. Men de har forskellig total.
+
+7:10
+Matrix er fire at huske på. Hvad er matricen herovre?
+
+7:19
+Er det lidt dårlig stil at skrive det herovre? I kan skrive det nedenunder, hvis de tager noget, Erik aldrig fat skal levere.
+
+7:24
+Man må aldrig gå tilbage til en tavle, hvor der er total panik i alting, så vi ikke tager en helt ny tavle.
+
+7:38
+Det giver lidt sig selv hvad det er alfa koefficient matricen for de to systemer er.
+
+7:53
+Den samme mand kaldte vi sidste gang A hed A, et ét af et tog og til et EM og så hernede a m.
+
+8:03
+Et apotek. A m n. Det er samme koncept matrix.
+
+8:12
+Hvad med deres totale matricer her? Jeg total matricen for det her, og for eksempel da man sarthed er lidt af et tog.
+
+8:24
+Ideen bag et a m et a, men beam som hver, og hvis det var totalt matricen for dette år, jamen så ville der bare står en nul søjle her.
+
+8:38
+Den dropper vi nogle gange at skrive, så der vil totalt.
+
+8:41
+Matricen og matricen ser ens ud, for når vi begynder Gauss, eliminere eller Gauss Jordan eliminere den her,
+
+8:48
+jamen, så er hvis der bare står en nul søjle haves, så sker der jo ikke.
+
+8:51
+Det spor ved, vi ligger, rækker sammen og bytter rundt og ganger en række med en konstant, der ligger til os videre.
+
+8:57
+Ja, hvorfor bruge så lang tid på at skulle alle de lige systemer op og matricer og dem skal vi tale om lige om lidt.
+
+9:03
+Og så har man den stående her, så det ikke bare sende et eller andet mærkeligt,
+
+9:06
+for nu kommer der en masse snak om løsninger, og så videre kan man kigge op på sin leder, sige noget i den dur.
+
+9:11
+Og hvad betyder det? Ja. Så vi starter med at se på et 1 homogent linie at ligne det er nok det her,
+
+9:23
+og nogle gange holdt vi så tale om det tilhørende homogene line alene system Nem-ID.
+
+9:28
+Når vi sætter alle billeder med nul, så vi skal jo her så her lade Y bliver syg med streger under.
+
+9:48
+Og hvad det betyder ikke med streger under byens barndom betyder så by et bytorv.
+
+9:56
+Op til alle. Hvad er løsninger?
+
+10:06
+Hver løsning til. Det homogene.
+
+10:14
+Winning system, der står her. Og ja, sådan en findes jo vel diskutere om den findes eller ej.
+
+10:29
+Det gør den. Der findes nogen løsning, men lad os sige, at vi har en anden.
+
+10:32
+Det kunne være omvendt bare være den samme, men også bare sige, at vi har en løsning med nye tiltag, som så i et telt med to telte og tv and telte.
+
+10:45
+Hvad er en anden løsning eller værre? Endnu en løsning.
+
+10:53
+Til det homogene system. Jeg gælder dig.
+
+11:04
+Så gælder der. At by plus byen til det, men hedder tilbedende de to summen af de to, der er en løsning til det homogene system.
+
+11:35
+Når hvorfor gælder det? Det må jeg lige tænke over. Det vil sige, hvad det betyder.
+
+11:39
+Det er en løsning, der betyder, at hvis jeg tager Y et optø N og sætter ind på excess plads i mit første system i stedet,
+
+11:46
+forstår jeg ikke til at lave et alsidigt stykke Susanna i teorien op til Yanal.
+
+11:51
+Så opfylder alle linjer bliver de allesammen lig med nul. Dels er det en løsning.
+
+11:55
+Hvis jeg tager et tiltag, som måske er den samme som så ny løsning til det, så kan jeg jo igen sat ind.
+
+12:02
+Og den løsning, det går desværre en anden. Så ser jeg mig summen igen, hvad en løsning til det homogene system.
+
+12:10
+Det er meget let at se hvorfor. Pas på at gøre det.
+
+12:22
+Det er jo bare at sætte summen ind. Og hvad betyder summen?
+
+12:24
+Det så vi i starten med sidste gang, hvor vi lægger to, så nogle tal ved de tal vektorer her sammen.
+
+12:32
+Vi er et op til jan og tilde vektoren sammen. Så ligger dem bare sammen.
+
+12:37
+Koordinat eller engangsservice deroppe. Så denne her vægtere by plus lyt til det der hedder y et plus y et tiltag komma y to plus to til det nul.
+
+12:50
+Nej komma y n plus by n til det.
+
+12:58
+Så er det bare sat ind og se om de passer ind i line systemet, der absolut lader sig let.
+
+13:01
+Jeg gider kun er vist fra den øverste ligning bestemt passer. Så kan vi se, hvordan vi viser det først.
+
+13:06
+Nu tager vi nu også det, selv om den faktisk bliver nul, og indtil den løsning den,
+
+13:09
+så står der en et øget plus y et childe plus et tog y to plus y to delta blues a et n y n pludselig antændte.
+
+13:30
+Og hvad er det lige med? Det ved jeg ikke noget om endnu. Ja, vi kan jo gange vores ligning og ud her.
+
+13:36
+Der er sat lighedstegn hermed.
+
+13:39
+Vi kan jo gange stigninger ud, så stopper er her eller ligningen ud af et dyrt blues har jeg brugt dette den gang i den.
+
+13:47
+Så kunne jeg tage den herover. A 1 2 i 2.
+
+13:50
+Blues. Nu tager den her af en anden by an.
+
+13:55
+Og så mangler at tage alle de andre alle dem med. Children er et nyt tiltag.
+
+14:01
+Blues er et tungt Vito Delta blues a et n by byen Childe.
+
+14:11
+Og hvad er det? Ja, den første hér.
+
+14:15
+Der ved vi jo, at en by et optøet indebar en løsning til vores system.
+
+14:20
+Så hvordan passer egentlig den øverste ligning, der ofte vil sige det nul? Jeg ville en løsning til det hungrende system.
+
+14:27
+Så vendte nul plus. Hvad med den anden her?
+
+14:31
+Ja, chilierne var også løs til et homogent system, så de passer også ind i den første ligning der op.
+
+14:35
+Det er også nul. Nul plus nul er jo nul.
+
+14:41
+Og så har vi jo vist, at hvis vi har summen af to løsninger, så igen en løsning.
+
+14:46
+Så det vil sige, at hvis vi har vist nu, at vi forestiller os, at alle nye tiltag er to forskellige løsninger, bliver fundet.
+
+14:52
+Jamen, så har vi en tredje løsning på den måde. Vi kan bare lægge dem sammen.
+
+14:55
+Vi har også en fjerde og en femte og sjette, og det kan vi allerede nu se.
+
+14:57
+Hvis vi har to forskellige løsninger, så har vi uendeligt mange fik konstruere lige så mange, vi lider.
+
+15:05
+Det var heller ikke nogen kæmpestor gåde for os, at der var uendeligt mange løsninger.
+
+15:08
+Hvis der var én for hvordan, er nu lige strukturen? Hvis vi forestiller os det, er der ingen sølvsteen her.
+
+15:14
+Hvis vi ser, at der er tre ubekendte, så er den tre plan nej. Hvordan er nu lige, at de kan skære hinanden?
+
+15:19
+Sende alle tre planer? De kan jo skade hinanden alle tre en linje.
+
+15:24
+Så er det i hvert fald uendeligt mange løsninger. Alle må lave blinde.
+
+15:26
+De kan skære hinanden i et punkt, men tre planer kan ikke skære hinanden i to punkter.
+
+15:30
+De kan ikke lige krumme ned og så kom til skade.
+
+15:32
+Der er kun ingen skæring, et punkt eller en linje eller en helt plan, hvis de sammenfattende eventuelt så på samme måde er det, vi ser her.
+
+15:43
+Det er også det, vi ser, når vi Pam interesserer sig for, at vi jo er på samme måde indførte frie variabler.
+
+15:48
+Det giver jo egentlig mange løsninger. Enten er den entydige eller også gør det. Vi indfører fri variable, og så kommer der uendeligt mange.
+
+15:54
+Ja, det var en. Det ved vi nu, at summen af to til det homogene er igen løsning.
+
+16:00
+Så er det næste spørgsmål, hvor vi kunne stille os, det var. Jamen nu vi er kommet godt i gang.
+
+16:06
+Kunne vi så tage to inhumane løsninger til det endnu homogene system og lægge sammen og så få en ny løsning til det indhold,
+
+16:11
+modellen system og svarede på? Det er vi jo selvfølgelig.
+
+16:16
+Nej, vi kan jo tænke over her, hvis du vil siger, at de er.
+
+16:21
+De var løse indtil det inhumane Guinness system. Det, der er sket, ved det, jeg gjorde her.
+
+16:27
+Nu ser vi øge en lyst til inhumane gener og i Thailand lytte til det inhumane gener.
+
+16:31
+Hvis jeg så lægger dem sammen og gør det her, så bliver alt står her jo til b et og alt det, der står herovre.
+
+16:40
+Det er jo også nyttigt endnu en vinder. Det bliver igen. B Et B et plus bet er to b et.
+
+16:46
+Og det er jo som sagt kun en løs. Er summen kun løsning, hvis et var nul, og så er vi tilbage i home.
+
+16:52
+Gennem tilfælde er det endnu en tilfælde, kan vi ikke lægge to løsninger sammen og igen for en løsning.
+
+16:59
+Det skriver vi lige op for at huske også på det. Det er vigtigt. Og.
+
+17:06
+Og så skal jeg fjerne. Han nænner næsten ikke at fjerne noget som helst.
+
+17:14
+Og. Vi tager simpelthen dem her, der er ikke noget at gøre i Hammel, og nu må have noder som vi.
+
+17:27
+Og kan. Det.
+
+17:42
+Så summen af to løse er til det endnu anvendte system er ikke en løsning.
+
+17:50
+Summen af to løsninger. Til det endnu homogene.
+
+18:05
+Er det ikke en løsning selv?
+
+18:14
+Det er en homogen system. At vi altid er blandt homo og inhumane en af barberen er noget, Bayern ikke er noget.
+
+18:25
+Det samme kunne man betjener med. Hvad så, hvis vi nu tog summen?
+
+18:35
+Af en homogen. Og en indbo må være en løsning.
+
+18:48
+Ja, hvis vi gør det, kan vi også godt se Hr.
+
+18:54
+Hvis hun siger Y her er en løsning til det homogene system.
+
+19:00
+Og telte er en løsen til det inhumane gennes system, og jeg tager summen af de to og sætter ind her og gang ud som før.
+
+19:08
+Så ville da øerne var en løsen til det homogene system, vil dette blive nul.
+
+19:13
+Da ikke chilierne var en hel løsning til det inhumane gen, vil der blive B, og det vil de.
+
+19:17
+Tilsammen bliver dette bind, og det viser, at summen af de to er han lysten til det indhold Morganas system.
+
+19:22
+Så summen af en homogen løsning og en homogen giver en løsning til det enten mod en.
+
+19:42
+Her kunne vi blive ved. Vi kan også spørge om differencen, hvis vi trækker 2 inhumane gener løsninger fra hinanden.
+
+19:52
+Hvad så hvis jeg trækker to endnu små gener løsninger fra hinanden?
+
+19:57
+Så står der her y et minus y et tiltag og to mere cytokiner for minus herfra minus hele vejen igennem.
+
+20:03
+Det er altså minus derfor minus der. Fra minus det minus kunne jeg flytte ud foran hele den her linje her og der.
+
+20:09
+Minus her. Og det vil sige denne her bliver B. Øerne bare en lyst til det.
+
+20:13
+Endnu en kvinde. Det var i thailænderne os. Så får du bede minus bag det nul.
+
+20:17
+Så differencen mellem to inhumane løsninger er en løsning til det homogene.
+
+20:23
+Det gør til alle de her ting generaler at vide, hvis nu man brænder meget til eksamen og får at vide her,
+
+20:28
+tog Inhuman ved en løsning at løse det homogene system.
+
+20:31
+Nogle vil faktisk ser temmelig rentable alene linjerne i Hvem stikker fået mig ned, andre vil bare trække.
+
+20:35
+To tal fra hinanden er to vektorer fra hinanden og så i hvert fald da deres bare lige et kvarter.
+
+20:42
+Så der er mange. Det er godt at kunne disse strukturer her, altså hvordan løsningerne hænger sammen.
+
+20:46
+Så det gælder altså her, at branchen. Mellem to inhumane løsninger.
+
+21:04
+Giver en homogen løsning Når nu vi vist ikke ligeværd og traver mere rundt i det her kontor, er vi i stedet til at sige hvad er struktur?
+
+21:19
+Sætningen for noget? Og den siger noget om, at struktur er der nogle løsninger her?
+
+21:36
+Men det er altså vigtigt at holde sig for øje.
+
+21:40
+Hvad betyder en homogen løsning og en endnu ukendt?
+
+21:45
+Eller lyt til det Holi SF Megen lyst til det endnu mere. Det er altid en god idé at holde sig i.
+
+21:49
+Dette er offentligt for øje, når man tænker over noget.
+
+21:52
+Kan man overskuelige linjer, så er det ret let at se, hvornår går det godt og nu hvor, hvornår bliver det da nul og nok bliver det B.
+
+21:57
+Hvornår bliver det to b os giver ingen mening at svede, så man kan tænke over det.
+
+22:01
+Af disse. Det er jo bare en af linjerne er pillet ud. Så giver det faktisk et ret godt overblik også at man ikke tør fare rundt i det.
+
+22:07
+Men vi tager struktur sætningen hér. Figuren.
+
+22:22
+Struktur sætning Natsir. Hvad Elholm kalder, vil den være den fuldstændige.
+
+22:35
+Løsnings. Løsning til det homogene.
+
+22:45
+System, og jeg skal altså ikke ligeså stille op igen, dem har jeg jo skrappe en gang for alle.
+
+22:50
+I dag lider tog, ligesom vi taler og har lavet.
+
+22:59
+Eller indhold. Hvad er den fuldstændige og?
+
+23:12
+Løsning. Til det inhumane VM system.
+
+23:24
+Altså løsnings mængden. Mængden af alle løsninger, så gælder jo skrive og lavet af x0 være en partikulære.
+
+23:39
+Løsning. Til det en homogen.
+
+23:51
+System. Hvad mere med en paradiso lade lønnen, der mener er bare en tilfældig løsning, altså bare en løsning.
+
+23:58
+Egentlig måske har gættet og ser den passer ikke. Nåede ikke at lægge den fuldstændig løsningsmodel, bare en eller anden løsning.
+
+24:03
+Så gælder det alt alene om hvor.
+
+24:13
+Er lig med Elham af sollys, men til hulen, hvor vi til hver løsning skriver lidt symbolsk op,
+
+24:19
+lægger x0 altså lidt noget sludder er skrevet og skrevet en mængde lige en mængde +6 0.
+
+24:25
+Hvis jeg nu skal ud, hvilken kort notationer i ental lige glade for den som syntes at skrive det rigtige AUB,
+
+24:31
+så skulle jeg jo skrive l indhold om herhen. Er lig med mængden af alle i mængden af de løsninger på formen, der hedder x0 plus ex.
+
+24:49
+Hvorom der gælder at X tilhører Elham.
+
+24:57
+Så enhver indhug i løsning kan skrives som en løsning til politiassistent plus den der lave løsning x0.
+
+25:06
+Denne notation kan være meget god ledelsen tidligere husk når det er struktur.
+
+25:11
+Sætningen her giver os også svaret på alt det vi lige har stået talte om her, fordi den siger noget om, hvordan strukturen er.
+
+25:17
+Man siger netop her, at hvis jeg har en enorm ved, at hun vil en løsning, så er det en løsning til det inhumane Guinness system.
+
+25:28
+Så det batter jo også, hvis jeg tager en endnu homogen løsning af x0 og trækker fra en eller anden tilfældig endnu en ved en lysning her.
+
+25:36
+Så har jeg løsningen til humlebien system. Det der står tilbage, tænker de så struktur.
+
+25:42
+Den siger, at det siger noget om lønstruktur løsning, og den skal vi se lige om lidt struktur.
+
+25:45
+Sætningen kan være fantastisk nyttigt, når vi skal løse linjer linje systemet.
+
+25:52
+Jest nok om struktur sætning. Altså forestil jer en situation vi på en måde har vist,
+
+26:00
+at en eller anden tilfældig løsning er løsning til det inhumane i ens system bare ved direkte indsættelse i linjer.
+
+26:05
+Se den passer. Vi har tidligere i opgave måske løst de tilsvarende homogene systemet.
+
+26:09
+Jamen, så har vi den fuldstændige løsning ved at tage den ene løsning at lægge til den fuldstændig til homogen.
+
+26:15
+Det er ikke den rækkefølge, vi som regel ved bosætning. Det er lidt den anden vej, men det gør vi lige om lidt.
+
+26:21
+Jes. Det var det lad os gå videre til rand.
+
+26:31
+Og nå ja, nu har jeg altså godt nok nået til tavle 8, men fordi de matrice.
+
+26:38
+De fylder kolossalt meget på hver tavle. Håber at alle kan høre, at jeg har gjort mig rigtig umage for at sætte tempoet ned.
+
+26:45
+At jeg virkelig tænkt over det, da jeg kom. Jeg vil ikke prøve at skrue op og så videre.
+
+26:49
+Jeg håber, det lykkedes hele vejen igennem, men jeg kan jo gå i panik til sidst, og så jeg ikke kan nå det, jeg gerne vil sige sandheden.
+
+26:58
+Rank rangen. Af en matrix A Java er det randen af en matrix af er antallet af rækker.
+
+27:23
+Som ikke er nulre, ligger.
+
+27:32
+I den totalt. Gauss.
+
+27:40
+Han. Jordan. Elimineret.
+
+27:51
+I den totale gauthier, der eliminerede den.
+
+27:57
+Men hvad svensker branden i massevis af er antallet af rækker, som ikke er nulre i den totalt sorte, indignerede matrix, hører antal af.
+
+28:13
+Når indtil videre ser hvad planerne, hvordan skal jeg forstå det her?
+
+28:18
+Der er jo en masse ting i det. Vi tager et eksempel lynhurtigt, og så tænker vi også sidste gang, da vi lade det Gauss elimination.
+
+28:26
+Så vi startede med en eller anden matrix af. Så Gauss jorderne nede ved den og så ud af det.
+
+28:35
+Hvis en pil vil forsvares ved I maven havde skrevet med Dust Row et til lang form,
+
+28:42
+så fik vi den totale elimineret matrix ud, og det var sådan en, der havde nogle.
+
+28:46
+Et tal, der kan have et tal, der skulle have et tal der, så man skal have to tal.
+
+28:49
+Der er 60 halv, der havde et nul nul, nul nul og havde et nul værd.
+
+28:56
+Og vi kan også godt selv lave en total matrix ud af det. Når du af matricen har skrevet her.
+
+29:02
+Den, som skal lave det, der er vigtigt at forstå, er, at man skal Gausland helt til bunds, skaffe sig indtaler så mange steder, man kan.
+
+29:11
+Her i diagonalen. Samtidig skal der altid være nul over og under ét tag navnene.
+
+29:16
+Her kan jeg ikke gøre mere, for jeg har jo ikke rigtig noget at fjerne det.
+
+29:20
+To og tre med, så den er totalt elimineret den her.
+
+29:26
+Branden af Vangen er denne matrix af.
+
+29:31
+Det skal jo også nogen have set ro og så af så tæller vi antallet ikke.
+
+29:37
+0 rækker hæren ikke er nul række hæren ikke er målrettet hæren under Lavangen med denne her.
+
+29:41
+Den er tung. Det havde regnet med.
+
+29:50
+Det viste sig at et fantastisk nyttigt til at sige noget om løsningerne,
+
+29:54
+og for lige at forstå det, så vil jeg prøve at finde den fuldstændige løsning til denne her.
+
+29:58
+Den er jo pæn Gausel mindre. Hvad er det? Hvad mener med den fuldstændige løsning til denne her?
+
+30:03
+Jeg har ikke nogen ledninger, når jeg bare tager coachen. Matricen A, som her siger løsningen, men er i dag lys ind til det homogene system.
+
+30:11
+Altså det system, hvor der i virkeligheden står. Vi skal skrue det helt præcist op.
+
+30:14
+Men hvor det hører en total matrix til der, så hede og Gauss elimineret.
+
+30:19
+Den ville hedde 1 0, 3 0, 1, 2 0, 0 0 og så her nul.
+
+30:27
+Nul nul. Den derude er lidt overflødig følger bare med i Gaudin.
+
+30:32
+Der sker ikke noget ved den nul sejlet til sidst. Men skal løse ligninger.
+
+30:37
+Det er jo vigtigt at have en ligning havde jo ikke nogen ligning. Her var det den her der var højresiden med hver.
+
+30:41
+Højresiden er nul højresiden. Når vi taler om, har man lyst til det homogene system.
+
+30:46
+Hvis jeg ville skrive en fuldstændig løsning op til det her, ja så kan I se at løsningen er ekskong.
+
+30:53
+Komme Y og Z. Og hvad skal vi sige?
+
+30:57
+Vi kan jo i hvert fald sige med det samme her, at Z godt vil tage den lidt.
+
+31:03
+Det er lidt hårdt bare at skrive, og det vil vi gøre snart. Men i dag tager vi det igen. Vi siger Z, den kan vi ikke rigtig sige noget til.
+
+31:09
+Og undskyld X3. Den kan vi ikke rigtig gøre noget ved.
+
+31:13
+Den kan vi jo sætte til hvad som helst. Der kan vi afstemt med Excel der X2. Så vi sætter ikke tre til at være ting.
+
+31:18
+Så kan vi se, og så skal X2 her være. Hvis det her står til to ting.
+
+31:22
+Det kommer på den anden side. Der skal X2 være minus to ting. Ikke set her.
+
+31:28
+Skal jo være minus tre ting. Så kan vi skrive det pænt op, som vi gjorde sidst, erkendte X2.
+
+31:36
+X3. Alle med en fast vægt og plus white guide er en fast vektor.
+
+31:43
+Og den der er ikke nogen ting her, så den bliver nul af den faste vektor.
+
+31:47
+Og så ti gange den vægt står her iværksættere. Dem har vi minus tre X2, og dem har vi minus to af og X3.
+
+31:54
+Dem har vi en af, og så har vi altså den fuldstændige løsning til tilhørerne.
+
+32:01
+Her var jeg nødt til at indføre en fri variabel. Jeg var nødt til at indføre en fri variabel, fordi jeg fik nul række her.
+
+32:10
+Så jeg havde ikke. Jeg kunne ikke. Jeg ved ikke hvad X3 skulle være. Den er fri, excellent til hvervet, og der gælder faktisk.
+
+32:18
+At antallet af ubekendte. Minus Vangen.
+
+32:26
+Det er antallet af frie variable er nødt til at indføre.
+
+32:29
+Så hvis nu er det af denne af matricer denne havde været tre, så havde det jo stået 1 taller hele vejen.
+
+32:35
+Ja, så havde vi ikke været nødt til at indføre nogen som helst fri variabel, for sad vi tre ubekendte minus renten 3.
+
+32:40
+Det giver nul. Der skulle ikke indføres nogen fri variabel, og så vil der kun være én løsning, og det ville være den, der stod her.
+
+32:46
+Nul løsning. Det skal vi ser flere eksempler på det, men vi skriver lige op som et resultat, der er rart at have.
+
+32:57
+Når. Var det den?
+
+33:03
+Hvorfor fik du værdierne til eksport? Nej, for det går stærkt.
+
+33:09
+Hvorfor netop ikke den? Hvorfor fik du værdierne til eks sådan fra når eksterne?
+
+33:17
+Ja. Hvor fik du værdierne til eksterne fra? Mon det er dem, der menes tøjet?
+
+33:25
+Jamen, jeg siger bare det har det jo virket. Nogle ledninger det godt være at sprænge lidt for hurtigt.
+
+33:29
+Her står en, der hedder a ex et plus. 3x3 er lig nul.
+
+33:33
+Her står ex et plus 2 x 3 eller X2 Blue.
+
+33:36
+Storrige 3 er lig nul. For så har vi ikke noget som helst information. Hva så?
+
+33:40
+Siger vist X3 kaldes for ting. Jamen så kan jeg jo så bare sige visse ekstreme ting.
+
+33:46
+Så kan vi ser så stort et plus. Tre ting er lig nul. Så har jeg ikke set lige minus tre ting osv.
+
+33:52
+Ja, det var den ene. Men så kom der endelig noget svar. Så var ny. Hvorfor er X2 lige minus to?
+
+33:57
+Og hvorfor er ekstra i minus 3D? Vi vil alligevel lige.
+
+34:01
+Jeg er jo stadig nyt. Ganske kort siger Når jeg har denne her.
+
+34:06
+Hvad betyder det så? Det skriver ligningen tilbage.
+
+34:10
+Nu går jeg fra matrix til ligning. Total så af X.
+
+34:14
+Et plus 3 x 3 er lig nul, og den næste linje siger X2.
+
+34:20
+Plus tre med mig sund. 2 x 2 er lig nul.
+
+34:26
+Så er der jo et ex et hvis så x3 den rt.
+
+34:31
+Og hvis ikke den er RTÉ, så gælder der vel ikke ét plus tre ting er lig nul, og så gælder ikke alle i minus tre ting.
+
+34:41
+Er det ikke nogle af jer der har spurgt? I kan jo sagtens kan ikke penge nok af.
+
+34:50
+Det er et mærkeligt system, ikke? Man ser afkalke. Mandag morgen får ingen svar stiftelsen.
+
+34:55
+Det er sådan lidt underligt. Nogle gange videre. Og det det, der menes.
+
+34:59
+Ja. Og det skal jeg sgu.
+
+35:07
+Han af lige inden jeg går videre.
+
+35:11
+Så vil jeg lige bemærke, at det der står her.
+
+35:18
+Det er jo den fuldstændige løsning til det inhumane Gena system. Ja, det var.
+
+35:28
+Og dem er jeg, men det var måske bare fjollet at skrive dem, men det bliver, siger Calista, et næste eksempel, så vender tilbage til det.
+
+35:35
+Så skal jeg sige, hvor jeg skrev dem. Det var åndssvagt at skrive dem der mig, så tror jeg på det tidspunkt.
+
+35:43
+Så vi ser på den samme en ny total med et trekløveren til det samme system, og lad os bare at skrive op, hvad den hedder.
+
+35:51
+Den hedder 1 0 3. Vi har vel Gauss reducerede ned til 1 0, 3 0, 1 2 0, 0 0.
+
+36:03
+Men nu er der nu. Er det ikke et endnu move eller et homogent system nu endnu mod 1 systemet.
+
+36:08
+Sådan højresiden. Banerne mod fulde Malta vil være Gausel med det her. Den kunne hedde 5 3 og minus to.
+
+36:18
+Så siger vi igen hvad er er egentlig?
+
+36:24
+Hvad er egentlig randen af det her? Den matrix, der står her? Ja, der kan vi se, at rammen er den her Matrix hær.
+
+36:31
+Det er antallet af ikke. Alle er ikke nulre i, hvad der er så en hær.
+
+36:35
+Der er en hær. Jeg burde nok have Gausdal ned til et et tal denne her.
+
+36:41
+Da 3 ikke 0 rækker. Men det er totalt matricen.
+
+36:46
+Så hvis nu, at vi i stedet for at sige, at hvis vi kun ser på matricen hér.
+
+36:51
+Hvad så rammen af den? Den er tung, så vi kan skrive her, at her rangen er kursen matricen, som vi plejer at kalde lave.
+
+36:57
+Den er 2, men rangen er total matricen. Den er tre.
+
+37:04
+Den situation vil vi nødig, vil vi nød støde ind i, fordi dette tidspunkt er der.
+
+37:08
+Ingen løsninger er jo, for der får vi jo netop hernede 1 0 række lige med et tal, og så er det da ingen løsning.
+
+37:19
+Så der er altså med det samme, hvis vi kan tage bare rangen af courgette matricen rent resultatmæssigt, se at den er større for totalt matricen.
+
+37:27
+Jamen, så er det færdigt. Så er der ikke nogen løsninger.
+
+37:30
+Det er klart, at vi har allerede en situation, hvor matricen Dreng bliver større end total matricen.
+
+37:35
+Det kan ikke lade sig gøre. Så det var et nyt eksempel.
+
+37:42
+Jeg var et dårligt eksempel, for eksempel 2. Eksempel.
+
+37:46
+3. Lad os så prøve at lave det samme eksempel en gang til her, nemlig 1 0 3 0 1 2 0 0 0 5, 3 0.
+
+38:04
+Det er jo bedre nu. Nu er vi i en situation, hvor randen er kommerciel.
+
+38:08
+Matricen her har samme rang som totalt matricen. Den er helt Gauss elimineret, denne og løsningen kan man samme opskrives b løsning må være som før.
+
+38:20
+Nemlig at X3 kalder vi. Så er X2.
+
+38:25
+Det kan vi tage her. X2. Den er tre minus to the.
+
+38:31
+Og exit. Der er altså fem der står på rejsen i forvejen, så er mine tre år til den som det fem minus tre ting.
+
+38:40
+Vi kan skabe løsninger op klædt X2, X3 er lig med.
+
+38:49
+En fast vægter her. Vi har fem af eksperterne. Vi har tre er eksterne.
+
+38:54
+Vi har nul registrerende, faste tal plus ting, og så har vi her en, der hedder.
+
+39:02
+Én ting er Ekstremerne er historien har vi minus to og er eksemplerne har minus tre.
+
+39:10
+Ja, det er jo det vi talte om den igen.
+
+39:15
+Vi ser, at det er jo den samme som før.
+
+39:19
+Rangen er stadig 2 af vores totale matricer, og det gør, at vi må indføre en fri variabel hér.
+
+39:26
+Lad os så tænke over struktur sætningen fra før struktur.
+
+39:30
+Sætningen sagde jo er til. Enhver løsning var på formen den fuldstændige dans, dens fuldstændig lysten til et inhumane ved ens system er på formen.
+
+39:40
+Den puster lysene til det homogene plus en partikulære løsning, altså en tredje løsning.
+
+39:45
+Så her står en tilfældig i stedet for et hvert 10. Er det her en løsning til det inhumane VM system, der står her?
+
+39:53
+Hvis vi sætter tillige nul, så har jeg en til en partileder løsning 5 Tre nul.
+
+39:59
+Hvis det nu fjerner den, trækker den fra 5 0. Fjerner den løsning at stå her?
+
+40:04
+Ja, så har jeg den fuldstændige løsning til et tilhørende homogene system, der står der.
+
+40:13
+Så på den måde vi ofte bruger skulpturs sætning siger, at hvis vi har en løsning,
+
+40:19
+vi har fundet på en måde den fører, fået eller fundet, er den fuldt af lysten til et intelligent system.
+
+40:24
+Så skal vi lige huske, at det der står, er den fuldstændige løsning til det homogene system.
+
+40:28
+Der skal ikke gives os til forfra og finde.
+
+40:32
+Hvis vi tænker over det i Gauss elimination, så er det jo egentlig også klart frit, at vi laver en Gauss elimination og fører det frem til den.
+
+40:39
+Eller fører the frem til denne her? Så sker der når agtigt det samme med matricen H og højresiden, hvor den er nødt til at følge med fra.
+
+40:48
+Når vi lægger en række til hinanden, blev to regnet til følger dette opvarmede. Vi gør ikke noget ved det.
+
+40:52
+Så i virkeligheden løser vi jo bare en hel stribe system.
+
+40:55
+Vi docerede, stod flere højere, sidder denne søjle og en til, og så når vi Gauss herned, så løser vi her det homogene og herover der,
+
+41:01
+ligesom vi så det inhumane, hvinende mad, og så får vi altså strukturen, som en struktur sat er.
+
+41:11
+Så det ved vi nu, at når vi kigger på sådan en løsning her, så står der i virkeligheden den fuldstændige løsning til det homo.
+
+41:19
+Kan en ledning her plus en partikulære løsning? Vi skal lige se et par eksempler mere med må rangen der er vi færdige med rang og struktur,
+
+41:30
+sætning og resten af det, der så kommer, er noget lidt mere lige ud af landevejen.
+
+41:34
+Hvordan lægger vi ting sammen, og hvordan gør vi dit og dat? Er det ikke noget så meget teoretisk snak, men mere end en en metode?
+
+41:45
+Og hver gang man bliver i tvivl, er det rigtigt, at summen af den løsning et eller andet tage den første ligning, sætte det ind.
+
+41:52
+Se hvad det bliver og så konkludere derefter. T.
+
+42:02
+Ja, vi tager lige et eksempel mere rank.
+
+42:06
+Lad os bedst vælge at se nogle forskellige eksempler. Jeg har Gauss eliminerede en matrix her.
+
+42:11
+Vi kan godt sige det et enormt ens system. Der er desværre sket det, at det ser sådan her ud nu.
+
+42:19
+Det viste sig, at de to nederste linjer bare forsvandt, da Günter Gausel dominerer.
+
+42:24
+Som en total matrix stick er blevet en gausel med noget til det her. Hvad kan vi sige om randen af denne her?
+
+42:32
+Ja, siger drengen, alting er i øvrigt lig med rang med poesien, matricen, koncept, musikken, den der står her.
+
+42:40
+De begge to. Et antal ikke nul rækker.
+
+42:45
+Hvor mange frie variable er nødt til at indføre for at løse det her system?
+
+42:48
+Ja, det er jo antal variable, som jo er søjler i matricen, der ikke sendte exo frem.
+
+42:54
+Så der er 3 minus 2 så antal frie variable. Er.
+
+43:07
+Hans frie variable er. Er maden end min og trenden er A og det er så lig med tre var hvad hedder det søjler minus renden som er ét og det to.
+
+43:26
+Vi skal indføre to frie varer hjem for at løse det, og det kunne vi egentlig også godt se, når de får det gjort en gang for alle.
+
+43:31
+Hvis jeg sætter ikke tre til at være te, så hjælper det mig ingenting.
+
+43:36
+Fuck to af except de. Enhver har ikke flere linjer til at finde ud, hvad det er der hjemløse i exo af sig s.
+
+43:41
+Men så ved jeg altså ikke set lige med 7 minus tre til minus to S.
+
+43:52
+Og så har vi det. Og hvis nogen fulgte den løsning op som x 1 x 2 x 3, er pedaler så nær?
+
+44:06
+Og ja. Hvad kan vi gøre?
+
+44:10
+Vi tager en fast vægt, og først. Vi har syv eksperter. Vi har nul og er historisk tre.
+
+44:15
+Så tager vi te og tager te her. Først så kan vi se at registrere ting, så der er en af dem.
+
+44:22
+Der er ikke nogen i eksterne teer, men hernede altså minus tre ekstremerne plus S.
+
+44:31
+Hvor mange har vi ekstra, har vi ingen af. Vi har en af historierne, og vi har minus to.
+
+44:39
+Hensigterne har været en fuldstændig løsning op, og jeg har sjusket lidt, for jeg bør altid skrive være Thérèse.
+
+44:44
+De kunne jo være komplekse eller som i dette tilfælde har vi altså sagt det reelle tal er vores eksempel.
+
+44:52
+Igen kan vi se struktur. Sætningen siger, at vi har den fuldstændige løsning til det inhumane gældende system.
+
+44:59
+Står en hær. Og så har vi en partikulære løsning.
+
+45:05
+Løsningen til det homo endnu muligt inden system.
+
+45:07
+Sandt at den fulgt af lønnen til det homogene system der står her, og så en partikulære løsning til det indhold nuværende systems dunder der.
+
+45:17
+Så det er vigtigt at lige vænne sig til de der terminologi og hver gang med en matrix.
+
+45:23
+Og hvad har den med mængden af løsninger at gøre?
+
+45:29
+Hvis man ikke har det helt på plads, så får man det inden næste aflevering, for det kredser en omgang for meget om.
+
+45:36
+Det har altså den sammenhæng mellem rang og antallet af løsninger eller antallet af frierier blev indført i løsningerne.
+
+45:43
+Ja, så portal lidt årets liste.
+
+45:45
+Et sidste eksempel inden vi hopper videre den aller aller sidste, for det er jo tit dér, hvor det aller letteste, at man bliver mest i tvivl.
+
+46:03
+Så lad os tage et meget simpelt eksempel. Og I kan være opmærksom på, at alt det vi har lavet her, de datere og epilog i det betyder,
+
+46:21
+at jeg i virkelighed har startet med en total mattrick, som har en masse tal i, og den har jeg Gausel.
+
+46:25
+Men jeg ringer selv, når de får opgaven. Så får jeg ikke sådan en her.
+
+46:29
+Så får I et tag, og så tager I mig, blev skrevet med dusk sprog,
+
+46:32
+efterlod en form for i denne her sag i gang med at kunne konkludere Jeg har sprunget skridtet om at Gausel.
+
+46:38
+Det var emnet for sidste gang. Det gør jeg ikke igen i dag.
+
+46:43
+Sidste eksempel lader vi har Gauss elimineret en ny total matrix og fået.
+
+46:54
+Fået til randen af den både randen af og totalt matricen er træ, da træ ikke nogen rækker her.
+
+47:08
+Hvor mange striber varer skal indføres, der er tre ubekendte. Minus renten som.
+
+47:12
+3. Der skal indføres. Der skal ikke indføres nogle frie variable her.
+
+47:16
+Der er nul frie valg, og det ved vi også godt, for her kan vi direkte aflæse, at der er et.
+
+47:26
+Han et og ikke to af 2. Og især 3 hvad er nu det for noget?
+
+47:29
+Jeg har lige sagt, at teserne end lysten til det endnu ukendte system,
+
+47:37
+der kan vi altid lægge en løsning til det homogene og så igen for en løsning, så vi kunne løse det homogene, som er vel ingen løsning.
+
+47:44
+Til dette er det jo lidt mærkeligt, at hvis der kun er én løsning der lykkes, er nemlig en to tre løsning.
+
+47:49
+Men svaret er Hvordan ser løsningen, der pludselig løser til homo gener? Jamen, det er det homogene system.
+
+47:54
+Så står der jo nul nul nul her. Hvis jeg løser det. Så får jeg jo en ensidig løsning nul løsning.
+
+48:01
+Så nu skriver denne her lidt symbolsk som T giver den fuld af lyst til det homogene, der ellers bliver til junglen.
+
+48:09
+Så kan du måske se, at det der sker her, prøve lyster. Homo vielser er der kun én løsning.
+
+48:12
+Nul løsning. Og derfor har vi selv gerne ventet med et homo. En løsning til en vis, men nul løsning til.
+
+48:17
+Så ændrer jeg ikke ved den, indtil lysten til det, der er til det inhumane wind system, er.
+
+48:23
+Godt. Det håber jeg er det giver op selvom prøvet øvelsen af både struktur, saltning og rang.
+
+48:29
+Begrebet herskaber bliver gennem øvede og igen til afleveringerne, for i Bog og Tinggården anden halvdel af forelæsningen masse salgbare Mabel.
+
+48:40
+Det bliver noget noget med at regne tingene steder, man nemt godt vil holde lidt pause.

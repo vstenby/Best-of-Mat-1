@@ -1,0 +1,899 @@
+0:02
+Og for hver gang der går morgen, går formiddag hvor der var.
+
+0:11
+Så kører vi. Sidste gang snakker vi om kurve og integraler i forbindelse med vægt faldet, og det var sådan ved tanken selv.
+
+0:22
+Coveret Integral, hvor man altså havde blandingen, hvor man havde en væg, der faldt i planen eller i rummet.
+
+0:29
+Og så sammen med en kurv. Og nu fortsætter vi fuldstændig efter.
+
+0:35
+Bogen er ikke fordi nu hopper vi et niveau op. Både ikke på flade integraler og vægge.
+
+0:41
+Følelser, hvordan det kan spille sammen. Og det er hverken nemmere eller sværere, end det hele tiden har været.
+
+0:49
+Det eneste problem igen er parat med forsikringerne og alt andet.
+
+0:56
+Alt andet er på en eller anden måde triviel. Forstået på den måde, at det er den rene vare en teknik, så lad os gå i gang og komme i sving.
+
+1:06
+Så det som vi skal kigge på. Det hedder fluks Integrated flux integrated.
+
+1:23
+Og det hedder at hvis man hvis man ser det måske i andre bøger, så kalder man det for det ortogonale eller overfor Canal fladede integral.
+
+1:43
+Sådan, men vi bruger vi bruger ordet flux integral, og hvad er det for noget?
+
+1:50
+Det skal vi lige snakke om, og så er der en forbindelse til noget, der hedder volumen ekspansion.
+
+2:02
+Og det er egentlig egentlig bare en en teoretisk overvejelse i forbindelse med de her ikke integraler eller anden måde.
+
+2:12
+Måske jeg forstår det på. Og så er der en af de dyre drenge, nemlig Gausel Divergent sætning.
+
+2:32
+Og det er en af de lidt fede sager. Det er en meget, meget berømt sætning, og den skal vi kigge lidt på, hvordan man bruger den.
+
+2:42
+Og beviset er at temmelig langt og omstændeligt, så det overlader vi til en.
+
+2:47
+Jeg kan faktisk engang huske, om det er fuldstændig med i noterne. Men altså, vi skal bruge sætningen.
+
+2:54
+Den er heldigvis nem at bruge. Så lad os prøve at komme i gang.
+
+2:59
+Hvis vi nu laver en lille motivation, er det her.
+
+3:10
+Hvis I nu forestiller jer, at I har et vindue? Måske skulle vi jo bare se i vinduet sådan ind fra siden.
+
+3:20
+Så I skal forestille jer, at det gør en her.
+
+3:25
+Så har vinduer typisk sådan et eller andet rektangel. Og så har vi et eller andet lysindfald ind igennem vinduet og det lysindfald.
+
+3:33
+Det kunne man jo lade repræsentere.
+
+3:36
+Hvis netværk sofaen til at landets lad os sige lyset kommer ind i denne retning, så antager vi jo typisk, fordi solen er så langt væk,
+
+3:43
+at de stråler, som kommer af, at de er parallelle, og længden af dem repræsenterer så den energi, der er i i lyset af den varmestråling.
+
+3:55
+Og hvis vi så tegner vægge feltet på ruden, så vil det måske se sådan her ud.
+
+4:03
+Og så kunne vi egentlig godt tænke os at måle, hvor meget af varmestråling, der kom ind i lokalet,
+
+4:10
+og det gør man jo så typisk ved at lave sådan en normalvægt her, og så se den i forhold til væg feltet.
+
+4:19
+Og hvor meget kommer så ind? Jamen altså okay, det ordner vi så ved at kigge på.
+
+4:27
+Hvor meget hvor lang er produktionen af denne her væg så ind på denne her?
+
+4:32
+Og det vil altså sige, at vi kigger simpelthen på væg feltet. Prikkerne ved årets normalvægt, altså størrelsen, størrelsen af det her.
+
+4:42
+Det er jo længden af vektoren hver gang længden af den væg, som er et et tal og hver gang cosinus til vinklen her imellem.
+
+4:54
+Det er så meget den størrelse, der er så meget varmestråling, der kommer ind lige præcis i dette punkt.
+
+5:02
+Okay, jamen altså, hvis vi nu vedtager, at den retning så den positive retning, så kan vi fjerne det numerisk tegn.
+
+5:16
+Det vil sige, når vi snakker om sådan noget som for eksempel varmestråling, som er flux, så skal man lige orientere fladen rigtigt.
+
+5:25
+Det vil altså sige den retning, man gerne vil have til at være den positive retning.
+
+5:29
+Der skal man lægge sin normale vægt der, for jeg kunne jo sådan set lige så godt have lagt den her godt, og så var alt, hvad der kom ind.
+
+5:35
+Det ville blive regnet negativt. Så der er en konvention for, hvordan man vælger, når alle vægteren.
+
+5:42
+Men okay, hvis jeg er interesseret i den samlede varme strøm endelig gennem dette vindue,
+
+5:48
+jamen så skal jeg summerer det hele op over hele den flade, som vinduet nu engang er.
+
+5:58
+Og pludselig kom der så et flade integral ud af det. Ikke også. Men den funktion, der står her.
+
+6:06
+Den funktion, der står her.
+
+6:08
+Det er jo sådan, da funktionen i virkeligheden den kommer med hjælp væk, så faldt, så vægter saltets tricket med normalvægt,
+
+6:17
+der giver anledning til en funktion, og så integrerer vi overfladen, så det er en helt almindelig flade integral.
+
+6:23
+Funktionen kommer bare fra et væg felt, så det var sådan motivationen altså.
+
+6:30
+For eksempel hvis man skal regne ud, hvor meget energi der afsættes i en solfanger.
+
+6:35
+Så er det lige præcis sådan noget, det man skal regne ud. Nå, okay.
+
+6:43
+Lad os nu se en gang. Lad os nu se en gang.
+
+6:47
+Nu skal vi lave en en rigtig definition af det her. Så når vi skal definere vores flow integral, hvad har vi så?
+
+6:56
+Jamen okay, så har vi en eller anden flade, som har en eller anden parameter i.
+
+7:04
+Så dette er det vores parameter friserede flade og kampen og parametre sidder flade, og vi har selvfølgelig en parametre.
+
+7:23
+Seeing er at kommer. Vi skal. To variable, når når det er en flade.
+
+7:30
+Og vi har ikke afhænger af kommer med.
+
+7:34
+Vi har et ying-ying, der afhænger af U kommer vi, og vi har også et sæt, der afhænger af upcoming V.
+
+7:44
+Det er sådan, som vi hele tiden har gjort, og vi er selvfølgelig nødt til at specificere, hvor uafhængige løver så ud.
+
+7:52
+Laver igen fra A til B og hvide løver fra XE til dag og igen.
+
+8:03
+Det er her, det her desværre er, og det springer vi lynhurtigt hen over.
+
+8:09
+Det ser vi. Det har vi klaret, og det kan jeg godt. Så skal vi have for at gøre det her.
+
+8:16
+Hvad skal vi så have? Jamen, okay. Vi skal selvfølgelig have et ekstra felt, og det vil jeg ikke tage fejl.
+
+8:23
+Det har så nogle værdier. Her kunne det være i hele rummet, men jeg afsætter dem bare på fladen, og det vil måske se samme herude også.
+
+8:36
+Og hvad har jeg så også? Jamen, så skal jeg jo have min flade normalvægt, så det er sådan, jeg tegner her.
+
+8:48
+Og okay, hvad er flade normalvægt, sådan er en typisk.
+
+8:55
+Du kan bytte rundt på det her. Det er naturlige valg også.
+
+9:13
+Så vores flade, når man så. Ja, okay.
+
+9:17
+Der vil vi simpelt hen at mærke kysset med at mærke ve og vel.
+
+9:24
+Windermere den er mærket over krydset med, er mærket V.
+
+9:30
+Længde, og det er jo det.
+
+9:35
+Hvorfor det? Ja, fordi dette er en vektor, der står vinkelret på fladen, og her gør vi det til en enhed svigter.
+
+9:41
+Når man nu laver sådan nogle parameteren zähringer, så kan man godt komme ud for, at der lige præcis i enkelte steder.
+
+9:48
+Der vil det her være nul vægteren og så for ikke at komme til at dvd'ere med 0.
+
+9:53
+Så skriver vi er flade normalvægt, så er nul vægteren vist, at det er sådan at mærke u krydset med,
+
+10:02
+at mærket V er lig med nul vægteren, og dette er altså helt hypotetisk, fordi det kommer I slet ikke til at opdage.
+
+10:10
+Altså det kommer ikke til at ske. Så bare tag det roligt fremad.
+
+10:16
+Det er hypotetisk. Kan det ske? Maven vil aldrig lægge mærke til det, fordi maven integrere let og elegant hen over sådan noget.
+
+10:24
+Hvis det sker i enkelte punkter, så Belém med en Govert.
+
+10:33
+Jamen, hvordan regner vi så vores flux integral ud?
+
+10:38
+Og vi skal selvfølgelig have vores vægt følt, så vores vægt faldt.
+
+10:43
+Det hedder sig eks. Jeg ved at x komma y komma z og det hedder så vil ét komma komme af et komma ved to at ex komma komma sad og v 3.
+
+11:07
+Da X kommer ind kommer Z fordi der er tre typisk tre koordinat funktioner i de her rumlede væg felter.
+
+11:15
+Og hvad skal vi så gøre? Jamen altså det vi gerne vil regne ud.
+
+11:21
+Det er det, der hedder fluks. En er vores vægt føles gabende.
+
+11:27
+Denne her parameter interesserede flaget. Det skriver vi sådan her, og det er et flagede integral, som vi så over den parameter.
+
+11:37
+Forcerede slaget er vores vægt faldet. Prikket med den normale vægt, så hvem og hvordan regner man det så ud?
+
+11:50
+Jamen, det ved vi jo faktisk også, for det er jo bare et flagede integral. Så du løber fra A til B og vil se til.
+
+11:59
+Og hvad skal vi så gøre? Så skal vi tage vores vægt. Følte en værdi på par med forsikringen, som giver mit x, Y og Z som funktion af uger med.
+
+12:16
+Og så skal jeg så prikkerne med den normalvægt, så sådan står her.
+
+12:22
+Det vil sige at mærke øv krydset med at mærke V divideret med længden,
+
+12:32
+at mærke u krydset med at mærke v, k sætte være med låret, og så skal jeg gerne købe funktionen.
+
+12:41
+Og hvad er det nu? Jeg kan ikke funktionen er. Jeg vil altså.
+
+12:51
+I det her tilfælde må man aldrig gøre sådan. Fordi vi skal bruge noget plads.
+
+12:57
+Så nu fortsætter jeg her op. Jeg kan håbe, funktionen får sådan en parameter, sejrede jeg.
+
+13:08
+Det er jo heldigvis bare længden af at mærke krydset med at mærke det.
+
+13:17
+Det vil sige, når den kommer til at stå dér, så forkorter det jo så lige så elegant ud med hinanden.
+
+13:24
+Det vil sige, at vi har noget på den måde.
+
+13:28
+Vi skal regne vores fluks integral ud på overfladen, men forkortet ud her gør også andre glade integrated a til b c.
+
+13:41
+Til dag er vores vægt faldet på alle parametre.
+
+13:48
+Ingen har dækket med at mærke.
+
+13:51
+Øv kysset med at mærke med og så det u det ved.
+
+14:01
+Det er simpelthen den måde, som man regner fluks integral ud på og igen.
+
+14:11
+Afhængig af hvad vægter feltet er som måler der hvor meget af vægt der strømmer igennem en flade i den retning,
+
+14:21
+som er defineret ved dette kryds på jokes. Det er jo alt sammen meget fornuftigt og igen, og jeg kan ikke.
+
+14:32
+Altså, jeg ser det mange gange er meget vigtigt at forstå, at det der står her også.
+
+14:36
+Alt det her er jo nemt nok at regne ud. Altså forstå mig ret.
+
+14:41
+Når man har mave, hvis man har kunnet konstruere den, er parat med frasering af fladen, og det er jo så dér, der sker sådan lidt.
+
+14:56
+Ikke kunstig intelligens, men med den rigtige intelligens, så lad os få nogle eksempler på det her.
+
+15:16
+Og bare for ikke af hele tiden at skulle regne for meget, så lad os få lad os prøve at vælge en forholdsvis simpel,
+
+15:25
+dog ikke alt for simpel figur, og så prøve den af i forhold til nogle forskellige vægte felter.
+
+15:31
+Så er det sådan, jeg godt kunne tænke mig, at det var en cylinder flade.
+
+15:41
+Med radio et eller andet kaldt den store er.
+
+15:46
+Og så skal den have centrum. Her ser man centrums centrale akse Santer akse, men med z aksen.
+
+16:07
+Og det er I virkelig nok nemmere af jer. Jeg prøver at tegne, så hvis dette er en sag der akse, så er det her min eksakte.
+
+16:19
+Og så har vi y aksen her. Hvad er det så, jeg har gang i?
+
+16:23
+I hernede tegner bunden hernede. Det er en cirkel med radius r hernede i sygeplejen.
+
+16:36
+Og så løfter jeg den så op her.
+
+16:43
+Sådan er det, så den kommer op i højden på.
+
+16:47
+Det vil altså sige, at det her sted. Det er højden på hvad? Og det er jeg interesseret i den flade jeg vil kigge på.
+
+17:02
+Det skal være den krumme overflade, den samlede overflade.
+
+17:07
+Det inkluderer også en toppen og bunden. Dem ser jeg bort fra lige nu.
+
+17:12
+Så nu kigger jeg kun på den krumme overflade. De parametre, jeg eller vi kigger.
+
+17:30
+Kom på den krumme flade og.
+
+17:41
+Jeg ved jo godt at valget noget andet. Men altså nu er det bare den vi tager fat i idag og parameter placeringen af dagen.
+
+17:54
+Er udkommet v om det. Hvordan gør vi det?
+
+17:59
+Når det er en cirkel, jeg ikke synes landet. Og den kan vi se, at den hedder er kort og komma er sinus.
+
+18:09
+Og så kom man noget læring. Det var også ikke. Og så skal jeg jo bare løfte den lodrette op langs z aksen.
+
+18:17
+Det kan jeg jo bare gøre ved at skrive med her. Og så skal jeg bare fortælle at udelukke løbere fra hele vejen rundt.
+
+18:27
+Der er altid to ki og hvide løver. Og så fra 0 til Hov.
+
+18:32
+Så har jeg fået parameteren, siger den. Chrumme Ideen er at pisse.
+
+18:39
+Det er forholdsvis simpelt parameter sikring, hvis vi skal til at lege med den.
+
+18:45
+Så er vi jo nødt til at finde. Hvad hedder den?
+
+18:48
+Vores normale værktøj. Og det vil altså sige, vi er nødt til at finde at mærke uden at mærke ved at krydse den med hinanden, så det gør jeg lige her.
+
+18:58
+Så lad os se en gang at mærke ups, der udkommer vel?
+
+19:04
+Lad os se en gang om det ser med hensyn til u korps, og det menes senere.
+
+19:10
+Det vil sige mine ord er senere pseudo og dem der med hensyn til det bliver korsene, så det er korrekt censur.
+
+19:22
+Og så ved med hensyn til det heldigvis nul. Og så er mærket ved at U kommer vel?
+
+19:35
+Det er jo heldigvis dejlig nemt, fordi det bliver nul og det bliver nul, og det bliver en.
+
+19:45
+Og så skal vi have den værktøj, som vi skal bruge i vores egen grad.
+
+19:53
+Det er nemlig krydsproduktet, de tog ferie fra døren. Så er mærket.
+
+19:59
+Sig med at mærke vinden og gider ikke skrive de her uger videre. Så lad os se en gang.
+
+20:07
+Mon ikke vi kan gøre det her. Først hinanden, så skal jeg holde hånden over denne.
+
+20:12
+Så skal jeg se den gang den mindst en gang. Den bliver bare er kokosnød som.
+
+20:22
+Så hver anden koordinaten skal holde hånden over anden koordinator.
+
+20:27
+Så skal jeg se denne gang den mindst en gang den. Og så skal jeg give fortegn.
+
+20:33
+Det vil sige, at for Venus er sinus out. Og så skal jeg give fortegn.
+
+20:37
+Det er sinus out sidste omgang, og så er den, at det giver 0 er ikke fordi der står 2 0, og det er sådan set bare sådan derude.
+
+20:56
+Så har vi alt det vi skal bruge for at putte ind i det her integral.
+
+21:01
+Når nu jeg kommer rendende med væg, tage fat og Gazala på alt det her arbejde.
+
+21:06
+Det kan man bare lave, og nu kan vi så vælge nogle forskellige vægte felter. Lad os prøve.
+
+21:12
+Lad os prøve at tage et meget simpelt væk faldt, så vores vægt faldt.
+
+21:25
+Vælger jeg nu til bare havde en kom nul komma nul.
+
+21:32
+Meget, meget, meget simpel. Har.
+
+21:39
+I skal også lægge mærke til bare at jeg ikke glemmer at sige det.
+
+21:44
+Det her er hele den krumme overflade, der parametre sidder på denne her måde, fordi jeg løber hele vejen rundt fra nul til to ppi.
+
+21:51
+Men jeg kan jo bare vælge forskellige vinkler.
+
+21:55
+Hvad eller hvis jeg nogen skulle have en kvart sjællænder, flade eller en halv cylinder slaget i hver en retning,
+
+22:01
+der nu skulle være, så går jeg bare ind og piller ved det her. Kiksene har kørt, så jamen lad os prøve at se på det.
+
+22:11
+Så hvis vi nu vil have flow øksen, er vores værktøj til at bryde igennem den krumme overflade.
+
+22:20
+Hvad skal jeg så gøre? Så skal jeg sige du løber fra nul til to p ved løver fra nul til H.
+
+22:31
+Og så skal jeg da min vægt, så kan. Og relativt simpel et med 0,0.
+
+22:38
+Det afhænger overhovedet ikke af Uwe. Og så skal jeg prikke det med den.
+
+22:46
+Der vil jeg ikke være. Det vil sige, at kokosnødder sig jo komma er sinus, jo kom noget, og så er det jo det, vi har.
+
+23:02
+Og hvad kan jeg det? Ja, men det giver den en gang.
+
+23:06
+Den giver kokosnødder sug, resten giver 0'er, og det vil sige, jeg får fra 0 til H og fra 0 til to PPI er kokosnød, slår det ud.
+
+23:21
+Og det ved. Okay.
+
+23:27
+Jamen, lad os se en gang en start funktion til cosinus.
+
+23:35
+Det må vel siges hun kan ikke. Og så skal jeg tage og i to p og træk senest noget fra H.
+
+23:42
+Det giver 0. Klasse det. Og hvorfor var det lige det blev nul?
+
+23:47
+Ja, det jo fordi at integrere over hele perioden. Jeg kan se det, og det er klart, at hvis vi nu havde stoppet noget en.
+
+23:54
+Hvor den ikke antog den samme værdi, så var det ikke blevet nået, men her blev det noget bør ikke fortsætte, så flugten er nul.
+
+24:04
+Og som altid, når man får nul, er ikke karakterer, måske.
+
+24:09
+Men altså når det i den udregning af noget, der minder om fysik.
+
+24:15
+Så kunne man måske overveje, hvorfor det blev 0 nul og der har.
+
+24:27
+Og ja, lad os se om vi kan blive en lille smule klogere.
+
+24:36
+For hvis vi nu vedtager at kigge på situationen sådan lidt fra oven, skal man kunne sige,
+
+24:42
+jeg også, da jeg kigger ind, stiller mig nu op i toppen af z aksen og kigger ned.
+
+24:49
+Så har jeg her min ex. Og her har jeg mit øre.
+
+24:53
+Og så gør z aksen ud her, og så kigger jeg ned på denne her cylinder, som på en eller anden måde må se sådan her ud.
+
+25:01
+Eller også hvordan ser min vægtforøgelse ud?
+
+25:06
+Jamen altså vækster. Feltet hedder jo hele tiden en kommer 0,0, og det vil sige, det er fuldstændig fladt.
+
+25:13
+Det ser sådan her ud over det hele. Det er en lang og i den retning og ligger fuldstændig fladt nede i Tyskland.
+
+25:24
+Og det er selvfølgelig rummeligt. Ser ligesådan ud, når vi gør sådan her.
+
+25:30
+Men så lad os lige prøve at se her. Hvis vi nu stiller os her andre, hvordan ser fladere normalvægt så ud?
+
+25:38
+Og det var det eneste værktøj, der stritter ud her. Det må også normalvægt det her.
+
+25:44
+Og hvordan er væk så følt sig ud? Det ser sig sådan derud.
+
+25:50
+Og hvad er det så? Indmaden er integralet, ja, det lag af den produktion.
+
+25:59
+Så når jeg tager vores værktøj og producere ned på den, det vil sige, det går i modsat retning og har en størrelse,
+
+26:07
+som er den længde, da jeg kører derfra og dertil, og det er den negative tal.
+
+26:14
+Det er det, jeg får lige præcis i det punkt. Og så skal jeg summerer op hele vejen rundt over hele den flade.
+
+26:23
+Men prøv lige at lægge mærke til, hvad der sker diametralt modsat. Her har jeg min normalvægt, så ligger her, og der ser ikke feltet igen sådan derud.
+
+26:37
+Overproduktionen på, hvad der gør vores årets hvad hedder det?
+
+26:44
+Der går vi ned her, og fordi de peger i samme retning, så får jeg et positivt tal, som er den længde der.
+
+26:50
+Men kig lige på tegningen. Den, der inkluderer, og den mængde, der er numerisk fuldstændig liste over påklage.
+
+27:01
+De har bare modsat fortegn, fordi normalvægt sårene peger i modsat retning. Så hæver de hinanden, og det sker overalt.
+
+27:10
+Jamen, det forklarer måske meget godt, hvis man sådan ud fra et fysisk synspunkt skulle se på det og sige hvis nu det, der vægter sølv præsteret.
+
+27:18
+Præsens repræsenterer noget der strømmer igennem denne cylinder, så det der kommer ind her.
+
+27:26
+Kommer jo ud her. Fuldstændig identisk kriser.
+
+27:31
+De bliver regnet med modsat fortegn. For her peger normalvægt så ind den vej, og her peger den den anden vej, så de må have hinanden.
+
+27:39
+Så det er helt klart, at det må være sådan okay, det skal ikke overraske os.
+
+27:47
+Men lad os nu tage. Og der kunne man selvfølgelig så også se sådan ud lade andre inddelinger af denne cylinder.
+
+27:53
+Så kunne jeg sagtens opnå, at det ikke bliver nul komma med bare at ændre på vinkel.
+
+27:59
+Intervallet så ud. Godt, lad os nu se lidt mere interessant væk må vi dog stadigvæk kan regne det ud i havnen,
+
+28:07
+så hvis jeg nu svarer væk fra feltet, ved jeg ikke om at komme af sted til at være.
+
+28:13
+Dex kommer i nykommer af.
+
+28:18
+Det er så igen vores.
+
+28:20
+Det vi kalder eksplosionens væk, tager feltet, og der skal man altså forestille sig, at her indefra peger det ud som et bundt af vektorer,
+
+28:33
+som hvis jeg står i et punkt, så peger væk, faldt fra nul vægteren og en bod til punktet, der kalder det Explosions væk fra feltet.
+
+28:41
+Det strømmer altsammen væk fra, når det kommer 0,0 ragga.
+
+28:47
+Jamen altså, så lad os prøve at gøre os flove accept af, at det her vel ikke faldt ud igennem den krumme overflade og gerne.
+
+28:57
+Husk nu, at det er den krumme overflade alene, vi kigger på.
+
+29:03
+Og at vi skal gøre på præcis samme måde fra nul til to p og fra 0 til H.
+
+29:09
+Og så vores vægt fælles værdi på parameter i søgningen.
+
+29:15
+Ja, men lad os lige se en gang parameter.
+
+29:18
+Seedningen står jo her, så den er da x y, og det er BSF og det vil sige vægtforøgelse hedder bare herrer og god kundeservice.
+
+29:32
+Komma er scenens komma ved det væk.
+
+29:37
+Feltet taget på parametre sikkert bare for at forebygge.
+
+29:43
+Altså er det ved er, at U kommer vi, som vi har her.
+
+29:51
+Det skal vi så ikke med vores normalvægt, så der står deroppe i hjørnet.
+
+29:58
+Det vil sige den hedder er i kog. Jo, komma er og senere solo commando.
+
+30:09
+Og så det. Det vil. Og lad os fluks regne videre rammer den er rettet.
+
+30:21
+Nå Pon. En femte har det heller ikke.
+
+30:27
+Så lad os se, hvad får vi? Vi får denne gang børn.
+
+30:32
+Det må Moggi er i anden. Kortenes bliver anden gang låst denne gang.
+
+30:39
+Dan. Det må være der i anden omgang.
+
+30:44
+Senere i anden uge. Og så får vi denne gang.
+
+30:48
+Det vil sige, der er ikke mere det u det ved.
+
+30:53
+Og her kan jeg jo bare sætte jer ind inden for en parentes.
+
+30:59
+Og så endelig parentesen står der Kokosnød, Jane du sinus, Jane og kage.
+
+31:04
+Det vil sige alt det her. Det sagde jeg bare til Jane. Og det betyder, at det, der kommer ud af det her, jeg bliver fra 0 til gå fra nul til to.
+
+31:17
+Det er anden gang, og så er det jo det, vi er.
+
+31:24
+Er masser af bankerne konstant. Der er hjernen så også. Det vil sige, vi skal bare, og vi skal bare sætte konstanten.
+
+31:33
+Er Jan udenfor og så gange med en vandmængderne, fordi der står et salg herinde, og det giver to ti gange på en gang.
+
+31:45
+Sådan så det fluks ud at den krumme overflade.
+
+31:53
+Og det kunne vi godt regne ud.
+
+31:58
+Glimrende, så lad os lige. Lad os lige gemme det.
+
+32:07
+Og ja, nu har vi prøvet at regne nogen fluks eller to fluks integraler ud, og der er egentlig ikke så meget mere at sige om det.
+
+32:20
+Så jeg vil gøre noget, da jeg vil prøve at prøve at forklare, hvad det har med volumen ekspansionen at gøre.
+
+32:29
+Så vi trækker.
+
+32:34
+Ligger det egentlig ned her, og så snakker vi lidt om volumen med ekspansion. Kunne jeg have gjort det i virkeligheden?
+
+32:52
+Den virkede en lidt sjovt og så det man skal forestille sig, er, at vi har en eller anden flade.
+
+33:04
+Lad os nu nu forsøger nu, at det går altid galt. Så nu har jeg en eller anden flade.
+
+33:14
+Meningen var, at det skulle være sådan en eller anden fladede tegnede perspektiv som dette.
+
+33:21
+Det er den flade, som så hedder EHF er. Og okay, hvad har vi så også?
+
+33:29
+Jamen, så har vi et eller andet væk.
+
+33:31
+Så faldt vores vægt og faldt hér, og så forestiller vi os, at vi nu har flove kurverne for det her væk fra felt og flow.
+
+33:44
+Kurverne løber jo i hele rummet, og det vil sige, at de løber specielt igennem denne flade.
+
+33:50
+Så hvis jeg nu tegner en flok, der løber her.
+
+33:56
+Og så kunne jeg tegne en anden flok. Og nå ja, og så kunne jeg tegne en tredje flok, der løber her.
+
+34:06
+Og så skal jeg måske afholde mig fra at fejre den sidste, men den kunne så løbe løbe herinde.
+
+34:14
+Lad os nu bare cykelløb og sådan her. Så kigger vi på fladen, ham til tiden tillige 0.
+
+34:26
+Og så forestiller vi os nu at Sladen hele fladen altså fladere end alle alle flove løver ind igennem fladen.
+
+34:34
+Det er ikke tegn, jeg kun tegner nogle udvalgte.
+
+34:36
+Nogen der laver igennem nogle alle punkter i fladerne af det, som I skal forestille jer, er, at vi nulla hele fladen flyde langs med flower kurverne.
+
+34:48
+Og igen altså man kan tænke på det som det her med, at man mand man laver og laver en flade,
+
+34:54
+en røræg, niggers, og så puster man den, og så bevæger den sig i det væk.
+
+34:58
+Så følte man lige havde lavet ved at puste, og så prøver vi at se, hvad der sker, når der er gået et eller andet tidsrum.
+
+35:05
+Så vil det på. Måske være royale her. Dét punkt er nok royale.
+
+35:10
+Her hænger det på højre. Det ligger måske stadigvæk her det punkt.
+
+35:15
+Det ligger så her. Og så kunne vi så forestille os, at billedet var sådan et eller andet i denne stil.
+
+35:23
+Den kan sagtens være deformerede mere end det her.
+
+35:30
+Okay, så det her er op til tiden?
+
+35:35
+Se. Godt.
+
+35:39
+Jamen, det vi kan se er at Sladen her.
+
+35:45
+Den har gennemstrømmet et rummeligt område. Og det rummelige område det må være det som afgrænses af den flade dér og så fladen til tiden.
+
+35:56
+Se også det der ligger udenom. Men det er alt i alt et rummeligt område, som afhænger af tiden og så dette.
+
+36:09
+Det er et rummeligt og rummeligt og massivt område.
+
+36:20
+Og det er det område, som fladen nu kalder.
+
+36:27
+Vi er gennemstrømmer. Jeg ved ikke rigtig om det et godt ord, men bare vi forstår hinanden til siden og se at forstå, hvordan den flaget,
+
+36:46
+vi starter med, er til tiden 0 og så lade tiden gå, og så kigger vi på den til et eller andet tidspunkt.
+
+36:52
+Og så har vi denne her figur, for eksempel vores cylindere herover.
+
+36:59
+Hvis man nu havde et værktøj, der strittede lodret op, så kunne den jo fremkomne ved at lade være.
+
+37:04
+En cirkel strømme igennem vægge eller med flove.
+
+37:10
+Hvis det var en lodret væg. Staffeldt, Ağca.
+
+37:16
+Fin nok. Så laver vi sådan forsøgsvis forsøgsvis vi har defineret, hvad det er vi snakker om,
+
+37:26
+og det, som man selvfølgelig skal lægge mærke til eller huske at skrive,
+
+37:29
+er, at det jeg tegner her og der, og alle de streger, der er forskellige flove kurver fra vores væg felt.
+
+37:41
+Man skal jo huske, at der vil altid være nogle konstanter, som definerer, hvor de gør i gabet til til tiden.
+
+37:47
+Se lige et eller andet. Så disse forskellige forskellige flove kurver jeg har tegnet.
+
+37:54
+De svarer bare til forskellige valg af konstanter vi kan.
+
+37:58
+Vi laver et eksempel om et øjeblik med lagkage. Hvad siger volumen ekspansion?
+
+38:04
+Sætningen så den siger, at hvis jeg nu kigger på det mål, lunede og at dette massive område.
+
+38:16
+Så er det jo helt klart en funktion af tid. Og det vil ovenikøbet være en voksende funktion af tiden.
+
+38:26
+Kunne man godt forestille sig en volumenet vokse og formentlig når noget når når vi flyder længere og længere væk,
+
+38:34
+med mindre vi begynder at flyde baglæns igen. Men altså, det bør man ikke overveje så meget med det her.
+
+38:39
+Det er en funktion. Den afhænger af tiden, og det, vi kan tillade os at gøre, det er, at vi kan faktisk differentiere den funktion.
+
+38:49
+Og hvis vi så stiller os selv tiden til nul.
+
+38:57
+Så ser Okay hvor er vi så hende i tidsregningen? Altså ved et nulpunkt.
+
+39:02
+Jamen, så står vi jo her med flaget og så det, der kommer nu.
+
+39:07
+Det må være et eller andet udsagn, der involverer fladen. Jamen, det er faktisk fuldstændig rigtigt.
+
+39:12
+For det er lige præcis det her. Det er simpelthen Fluxus, at vores væg faldt ud igennem fladen.
+
+39:24
+Det er relativt dybsindigt klasse det her. Og det er jo ikke oplagt, at man kan bruge det her til ret meget.
+
+39:31
+Men det fortæller levende noget om, hvad flux er.
+
+39:36
+Jeg kan også fluks nogen forstå ordene som hvad skal man sige?
+
+39:41
+Strømmen af en væg faldt igennem en flade. Men man kan også forstå det som hvor meget volumen ændringen er lokalt.
+
+39:54
+Fuldstændig ligesom en almindelig afledet hældning skriver patienten for en eller anden funktion.
+
+40:00
+Altså hvis jeg tegner, hvis jeg tegner grafen for denne funktion.
+
+40:04
+Den funktion af en variabel har og så interesserer mig, for hvad er hældningen til tillige nul?
+
+40:13
+Jamen, så er det åbenbart Fluxus. Det er lidt spøjst.
+
+40:18
+Prøv at nævne et eksempel efter pausen, hvor vi må prøve at regne det her igennem, og det kunne være,
+
+40:26
+at vi virkelig bare skulle holde pause nu, fordi jeg skal bruge noget mere plads.
+
+40:31
+Så skal vi ikke bare skal ikke bare holde pause, og så starter jeg på denne fra farvel efter pausen.
+
+40:38
+Så lad os holde et kvarters pause nu, folkens rammer.

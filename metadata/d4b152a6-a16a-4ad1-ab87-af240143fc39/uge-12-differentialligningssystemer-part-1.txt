@@ -1,0 +1,1148 @@
+0:01
+Ja, go morgen Danmark, ja man se, jeg har taget sådan en to tanke med her, og da er salt opløsning i hver af dem.
+
+0:13
+Men koncentrationen er forskellig. Så på et tidspunkt, så kobler vi de to tanke.
+
+0:23
+Sådan er det altså kommer nåede indstrømning her. Og så kommer der noget udstrømning.
+
+0:30
+Og så sætter vi os det her i gang, og så begynder de der os selv blændinger og påvirke hinanden.
+
+0:36
+Og vi vil gerne vide, hvordan salt koncentrationerne, hvordan de udvikler sig.
+
+0:42
+Og så kan vi kalde denne her for Exeter te.
+
+0:48
+Og så kan vi kalde denne her for ægsortering. Og så skal vi jo have fundet ud af, hvordan vi kan.
+
+0:55
+Altså hvordan kan vi finde frem til, hvad de saltkoncentration er?
+
+0:59
+Hvordan kan vi få et funktions udtryk for dem? Og når man så tænker over det her problem, så når man frem til nogle differentialligninger.
+
+1:09
+Og det er altså selve det fysiske system. Der vil jeg kalde for koblet af ved at skille beholdere.
+
+1:16
+Og når vi så forestiller nogle differentialligninger, så er det jo klart, at de to.
+
+1:22
+De hænger nøje sammen, så derfor så får vi et koblet differentialligning system.
+
+1:28
+Vi kan ikke løse den én, uden at vi løser dem manden. De hænger ud.
+
+1:32
+Det hænger jo ikke sammen. Så det man kommer op i, er så et system af to ligninger, og det bliver det, vi skal arbejde med i dag.
+
+1:49
+Og de kommer så til at se sådan her ud. Jeg kan godt røbe, at mange af jer kommer til at arbejde med den problemstilling her.
+
+1:57
+Det opdager jeg nok senere i eftermiddag, og da opstår der altså sådan et differentialligning system.
+
+2:05
+Except mærke, at det altså er den, man faktisk godt kan udtale sig lidt om.
+
+2:11
+Den vil så være a ex etter 10 plus B, X2 og t.
+
+2:19
+Og så har vi at X2 mærket og til den kan vi så kalde se og så x et og til plus det X2 årti.
+
+2:36
+Og A, B, C og D.
+
+2:42
+Det er reelt den reelle konstanter. Og så.
+
+2:50
+Ét for to. Det er ukendte funktioner.
+
+2:57
+Det er dem, vi gerne vil finde. Så det er så dagens problemstilling.
+
+3:18
+Og det her er jo et emne fra matematisk analyse, kalder man det, det handler om differentialligninger.
+
+3:24
+Men er jeg så i dag? Det er sådan lidt af et klimaks i dette kursus, fordi nu for alvor matematisk analyse og lineær algebra.
+
+3:32
+De brager sammen i dag, og det håber jeg, vi kan få noget rigtig spændende ud af.
+
+3:37
+For I kan se her. Vi kommer altså til at skulle skulle studere?
+
+3:42
+Ja, der er sikkert nogle af jer, der da allerede er det.
+
+3:47
+Og tak. Jamen, hvorfor skriver vi ikke det her op på matrix form? Det har vi så har I her?
+
+3:54
+Så har I her x etter T, X2 og T.
+
+4:02
+Og så kan vi se, hvad er det for en matrix, vi får her? Det er jo bare den, der hedder A, B, C og D, der så er ganget med denne her vektor funktion.
+
+4:16
+Kalder man det. Så har jeg har vi den på almindelig form og det der er sat på asap på matrix form,
+
+4:26
+og hvor vi selvfølgelig lige skal have differentieret de to funktioner, der den matrix, der står dér.
+
+4:36
+A. Den kalder vi for system matricen.
+
+4:46
+Og det er altså sådan som jeg gerne vil overbevise om, at den er rigtig spændende, og det bliver altså rigtig spændende at se.
+
+4:54
+Hvad betyder dens egenværdier? Og hvad betyder dens egenvægt så?
+
+4:59
+For det er et problem, som vi arbejder med her. Så glæd jer til det sete.
+
+5:08
+Det var den første form. Det her var den anden form. Og så kommer vi her på, når vi skal skrive den på kortform.
+
+5:14
+Også det er få at se. Hvis vi sætter på scenen, laver sådan en en funktion, som er fed streg under set.
+
+5:30
+Den har to coordinator funktioner. Det er ex ét og x2 altså netop saltkoncentration i den ene selvkontrol fraktionen i den anden.
+
+5:41
+De bliver stillet op på den måde. Her kan vi så skrive dette på en kortform, og den lyder sådan her.
+
+5:50
+Så har vi, at den der vægter funktion differentieret.
+
+5:57
+Den er lig med A. Gange.
+
+6:01
+Med ekstra ting kan vi se det her, så her har vi den differentierede funktion og a.
+
+6:12
+Det var jo system matricen. Og så har vi her den differentierede funktion, så det er altså dette system, som vi kan nå frem til.
+
+6:21
+Og det er den matematiske model af den problemstilling, vi har her.
+
+6:25
+Så det er det, man laver i ingeniørarbejde. Man har et problem, og så tænker man over det.
+
+6:32
+Så kan man lave en matematisk model, som ligesom samler den information, der er i problemet.
+
+6:38
+Og så kommer Panopto kan vi løse den? Og det er det, vi skal i gang med nu.
+
+6:52
+Så nu udvikler vi her metoden til at løse det her alene system.
+
+7:03
+Og vi siger vi antager at a at den har to lineært uafhængige egne vektorer.
+
+7:25
+Som hører til lam der og lam der 2. Sådan for så vi sætter de deres egen med to år.
+
+7:42
+Dem kan vi kalde for ved et job i 2. Og så vi sætter nu en matrix ved legen med de to egne vektorer stillet op på højkant.
+
+8:02
+Så har vi en meme matrix, og så laver vi også en lambda matrix.
+
+8:11
+Som jo, så er de tilsvarende egenværdier her i Dorte Diagonalen og Søren nulre andre steder.
+
+8:24
+Så ved vi fra tidligere at have A.
+
+8:29
+Den kan skrives som V lambda v minus første.
+
+8:44
+Så det er altså den version vi skal bruge i dag. Hvor altså a denne er facto Factory serie i tre matricer.
+
+8:52
+Den er et produkt af de tre matricer her. V Det er basis skifter matricen, som består af egen vektorerne.
+
+8:59
+Det er dørene og så ved minus første og det vi sparer i dag.
+
+9:03
+Er det rigtigt, at egnen værdierne er matricen spareiver.
+
+9:09
+Og hvilken rolle spiller de her egne vektorer i differentialligning systemer?
+
+9:15
+Det skal vi studere. Når se hvad har vi gang i?
+
+9:23
+Vi har gang i at den er væk, så funktionen som består af Exeter X2.
+
+9:31
+Den har vi opskrevet på. Denne her får kortform sondern.
+
+9:41
+Og A er jo et produkt af de tre, så nu kan vi altså skrive Uwe, larme der ved i minus første og så ikke så tit.
+
+9:56
+I stedet for. Det jeg nu gør, er at jeg ganger med ved mine første fra Venstre hér og fra venstre her, så har vi V i minus.
+
+10:14
+Første ex mærke er til at lege med, og så går vi her hen.
+
+10:23
+Og så kan vi se, at det bliver så til Enes matricen. Den forsvinder, og så har vi her lambda.
+
+10:30
+Og så har vi V i minus 40 gæster. Og så har vi ikke så ti.
+
+10:40
+Så når dertil, så kommer jeg til at tænke på hvad er det vi har stående her?
+
+10:45
+Det er en matrix, der er ganget med de to eller med en søjle, der har disse to differentierede funktioner.
+
+10:53
+Jeg kan lige så godt garnet V og eksamen og så differentiere bagefter.
+
+10:57
+Det ville selvfølgelig give nøjagtig det samme.
+
+11:00
+Så i stedet for at have mærket hér, så gør vi sådan her ved i minus första og ganger den med ekstra til uge differentierede.
+
+11:10
+Og så differentierer vi det bagefter. Og så har vi her lambda.
+
+11:17
+Og så har vi. Så sætter vi lige her en parentes om her.
+
+11:28
+Se også har. Kan I se, nu er det sådan set det samme, der står i den parantes her på venstresiden.
+
+11:39
+Som der står her, og det vil jeg gerne udnytte nu, og det gør jeg ved at indføre nogle nye hjælper.
+
+11:47
+Funktionen af sådan et system er at hjælpe funktioner, som også er ukendte med.
+
+11:51
+Dem skal vi nu arbejde med. Det vil sige det, jeg laver her.
+
+11:58
+Så vi laver lige nogle hjælpe funktioner. Og dem kalder jeg for by et t for y to og.
+
+12:14
+Og de skal så være ved i minus første gange med ekstra t.
+
+12:24
+Og det er altså her gængs og ting og så ikke sorte.
+
+12:31
+Sådan så I kan se, at vi inden vi siger bare den der er sendt, skal betyde,
+
+12:37
+at prikproduktet af de to og den der skal byde, betyder prikproduktet af de andre.
+
+12:42
+Og så er man med med den anden af. Så det er altså dér ideen i det.
+
+12:46
+Og hvad får vi så? Så får vi her. Så får vi her.
+
+12:52
+Fy mærke at te står der så her på venstresiden, og så står det alle lige med Lambda og så de dér nye funktioner, der differentierede y rt.
+
+13:20
+Derfor skal vi lige prøve at se Hvad betyder det egentlig? Det betyder jo så at by et differentieret finito differentieret.
+
+13:35
+At de er lig med Lambda 1 0 0 og lange der 2 gange med Fy ét t og y 2.
+
+13:49
+Og 10. Og så regner vi lidt videre på det, og så kan vi se.
+
+13:59
+Så regner vi lige dette ud. Altså den der gange med den.
+
+14:04
+Og så har vi jo bare y mærke fattig, at den er så lig med min lamme der et gange y et årti.
+
+14:17
+Og så har vi to mærke ting, som er lig med lam, der to gange med y, to og ti.
+
+14:33
+Og. Sådan set hvad var pointen her?
+
+14:44
+Nu skal I bare se jer. Se de oprindelige funktioner.
+
+14:51
+De var vanskelige, fordi kan vi se, at vi har differentierede except.
+
+14:56
+Men der står både ex ét og x2. Det er derfor den er koblet også hernede.
+
+15:02
+Når vi så ser den, så har vi både den og den med. Det er det, der gør det her uhyre vanskeligt.
+
+15:08
+Og hvad har vi nu opnået?
+
+15:09
+Ved hjælp af vores basis skifter, at nu er de blevet koblet de nye funktioner, de det koblede pc, der står bare her i første linje.
+
+15:21
+Der står der kun noget med y ét, og i anden linje står der kun noget med i 2.
+
+15:27
+Og endnu flottere ved at dreje koordinatsystemet rigtigt.
+
+15:32
+Så har vi fundet strækningens faktorerne, kan vi se.
+
+15:37
+Hvis vi differentierer denne her, er billedet da den ingen konstant gange den den selv.
+
+15:42
+Det er en egen funktion. Vi er fundet egen funktionerne og den og den.
+
+15:52
+Strækningens retningerne. Planen er her blevet offentliggjort.
+
+15:57
+Forrest med at vi har brugt vores egen.
+
+16:04
+Ja, og den ved vi jo godt hvordan vi skal løse.
+
+16:09
+Altså en funktion, da differentieret er lig med en konstant ganget med sig selv.
+
+16:14
+Hvad er det for en funktion? En funktion differentieret med sig selv.
+
+16:26
+Altså at det er så dens differentialkvotienten er lig med funktionen selv.
+
+16:30
+Det er der ikke mange fusioner, der nu gøres af.
+
+16:35
+Ja, jeg må altså i hvert fald. Altså åler os eksponentielt funktionen med, så dette kan du godt sige det er.
+
+16:42
+Det er en kompleks eksponentielt funktion, men her skal kigge på, fordi nu kan vi nemlig skrive, at et rt den er så en vilkårlig konstant.
+
+16:57
+Og så e i Lambda Eter. Og så har vi altså løst den, hvor funktionen er søgefunktion og på samme måde med 2.
+
+17:08
+Det er c2 og så E i Lambda to party.
+
+17:18
+På den måde har vi så fundet de nye hjælpe funktioner her.
+
+17:23
+Men vi vil jo gerne. Altså, vi vil jo gerne tilbage til det problem, vi startede med.
+
+17:27
+Vi skal have fundet eksklusionerne. Vi har fundet funktionerne nu, og da kan vi se, hvordan får vi ex et og X2?
+
+17:36
+Det gør vi ved at gange med V fra Venstre på begge sider, så vi får altså her at ex ep og X2 er så lig med vores v funktion.
+
+18:01
+Og så gange de her by ét er til folk i to ting.
+
+18:11
+Og så får vi her vores VIP funktion. Det var jo egentlig tårnet ved ét og vi 2 for y et årti og to år til.
+
+18:22
+Det var jo c et E i lam, der et årti.
+
+18:26
+Og så var det set to e i da to og t. Og så er vi næsten færdige.
+
+18:37
+Når I har sådan to søjler, der I skal ganget med to tal, så svarer det til I tager det første tal og ganger på den første.
+
+18:45
+Og så. Plus det andet tal gange med den anden. Og så har vi her formlen.
+
+18:50
+Nu er vi hjemme. Så vi tager dette tal C et E i Lambda et af ti gange den første egenvægt så og så er plus c2 e i lambda 2 t.
+
+19:12
+Sådan her. Og den skal så ganget med ved to, og det er det vilkårlige konstanter,
+
+19:26
+og dem er vi lige nu i første omgang og sige, at det er vilkårligt komplekse konstanter.
+
+19:34
+Men ser så her formlen. Det er der, hvor løsningen.
+
+19:38
+Vi har nu fundet på dette kemiske problem, vi har arbejdet med dér.
+
+19:43
+Der har vi nu fundet løsningen formlen og kan I se hvor Tylers egen værdierne og egne vektorerne der indgår i den løsning her.
+
+19:52
+Og det er derfor man skriver den op på denne her måde.
+
+19:54
+Det kan godt være, at i begyndelsen syntes jeg, denne form er lidt mærkelig, fordi så er det jo en vektor, der står på højkant.
+
+20:02
+Men hvorfor man skjorten på denne her måde? Det er for at I skal kunne nyde det syn.
+
+20:06
+Her er et hvor har vi øjne værdien. Den står der.
+
+20:11
+Det er ånden i eksponentiel funktionen pct.
+
+20:15
+Der står i eksponenten. Og så har vi altså vagten her.
+
+20:19
+Det er det er den egenvægt, der hører til Lambda 1.
+
+20:23
+Og det har jeg altså den anden power og så dens tilhørende egen digter, der står der.
+
+20:29
+Så det her er altså den fuldstændige komplekse løsning, der står her. Så skal jeg jo lige tilføje, at hvis jeg nu havde taget i den tegning,
+
+20:41
+jeg starte med at sige til, hvis jeg havde taget tre tanke og havde forbundet dem med hinanden,
+
+20:48
+altså tre koblede visket beholdere, så var jeg nået til 3 ligninger med 3 ubekendte funktioner ikke?
+
+20:55
+Så har det været et X2 X3 vi skulle have fundet. Og så var så hvorved det blev til en 3 kryds 3 matrix system matrix og så det der ville være sket.
+
+21:05
+Det ville så har været, at så er det bare været en koordinat mere på her.
+
+21:10
+Og så havde vi haft altså et lidt mere hermed. 3. Og så Elam der tre til og plus videre.
+
+21:16
+3. Så ville sige. I dag arbejder vi kun med to kultur systemer, for det er svært nok.
+
+21:23
+Men der er måske nogle af jer, der har gemt lidt i hjemmeopgaver.
+
+21:28
+Z4 opgave. 2. Der kan jeg se, at der er fejl, da det faktiske system af tre ligninger med tre ubekendte som I skal arbejde med det.
+
+21:39
+Men det var altså formlen, som vi skal arbejde med. Og så foreligger der jo altså tre ret forskellige tilfælde.
+
+21:48
+Og det er om disse egne værdier, om de har Rielle, eller om de komplekser i begge tilfælde er der.
+
+21:58
+To af dem, eller om det er en dobbelt rod. Og hvor vi ikke kan kunne realisere, så er de tre eksempler, som vi skal have gennemgået nu.
+
+22:26
+For det første er der kan jeg sige jeg laver et eksempel.
+
+22:32
+For der er to og i alle egenværdier sådan her.
+
+22:48
+Og den Matrix' jeg har med. Ja, jeg kan godt Li skriver, at det altså passer systemet op, så det ser sådan her ud ex et mærke og t.
+
+23:01
+Den er 10, 6, 10 og så minus 12 ikke sorte, så det var den ene mening, og den anden ligning er at x2 til denne er 8 6 ep rt og så minus.
+
+23:23
+Nej, det var vi 6 6, Exeter 10 og minus 8 ægsortering.
+
+23:30
+Det er altså dette differentialligning system, det her koblede system, som vi skal have løst, og vi ser jo straks, at vi kigger straks på systemet.
+
+23:41
+Matricen A. I kan så se, den må hedde 10, og den hedder minus 12 og så 6 om endnu sjovere.
+
+23:57
+Og denne så det kun reelle rødder. Den tillader jeg mig altså bare.
+
+24:02
+Jeg har løst den hjemmefra, så I får altså bare hvad den har egne værdier og egne vektorer.
+
+24:09
+Og vi har, så vi har to egne værdier, og så har vi denne her.
+
+24:20
+Altså vi har den enhed og fire og den anden hedder minus 2, og så er egen rumlede, der hører til fire.
+
+24:31
+Den er spanden er vektoren 2 over 1.
+
+24:40
+Og så har vi det andet eget rum, som for baben bare hedder 1 minus 2, og den er spande af vektoren ind over i.
+
+24:58
+Set med de oplysninger er jeg i stand til at opskrive den fuldstændig reelle løsning.
+
+25:07
+Fra i dag skal vi jo virkelig tænke på det.
+
+25:11
+Hvornår er det reelle, og hvornår er det komplekse løsninger, vi taler om her, fordi egen værdierne er reelle.
+
+25:20
+Da er det nemt, fordi nu kan vi nemlig skrive, at ex ep, rt for X2 og t er så en vilkårlig konstant se boks, så e.
+
+25:37
+Og så skal vi egenværdi en perron op med dig her.
+
+25:41
+Abbot Sæt gang i IT og så her.
+
+25:46
+Der skal vi så have den tilhørende egenvægt, som var to over i en.
+
+25:50
+Og så har vi så plus C2 og så E i minus to ting.
+
+25:58
+Og så ind over en. Og her hvor både se et og se 2 dem kan vi bare nøjes med at kigge på inden for de reelle tal.
+
+26:18
+Det var der ikke svært ved, da også det nemmeste eksempel er, når der er to forskellige reelle rødder i det karakteristiske polynomium.
+
+26:28
+Men lad os lige bruge det her til at løse et begyndelsen færdige problem.
+
+26:40
+Og vi kan altså skrive her. Find den løsning som opfylder begyndelsen.
+
+26:56
+Det er betingelsen. Vi vil gerne have, at ex 1 0 skal vi sige, at den skal være en og begge to og nul.
+
+27:16
+Den skal bare være lig med nul. Så det er altså det vi skal.
+
+27:23
+Vi skal have fundet her også, og det vil jeg sige, at her ville jeg nok gøre det.
+
+27:28
+Altså specielt hvis det er første gang, jeg arbejder med det.
+
+27:30
+Og så vil jeg lige prøve at trække de to funktioner ud hver for sig, som vi skriver dem på normal form.
+
+27:36
+Så tror jeg, vi bedre kan styre det, så det vil altså sige, det er jo noget med, at den her.
+
+27:42
+Når vi kigger på exit, så skal den, der ganges op på den og den der skæring, så op på den.
+
+27:48
+Og når vi bagefter kigger på exo, så skal denne her ganges ned dér, og den dér skal ganges ned.
+
+27:53
+Der skal vi se, om vi kan hitte ud af det selv.
+
+28:04
+Men får vi, så så får vi her at eksport af te den bliver, så hvad var det vi sagde?
+
+28:13
+Se ét. Og så var det i 4. T. Og da havde vi så et to tal.
+
+28:20
+Det må vi hellere få med. Så står der altså to gange set.
+
+28:26
+Og så skal man sige plus, og så bliver det bare se 2 1 i minus to til.
+
+28:37
+Og så har vi her ikke sorte. Og nu er det bare nu, vi er heldige, der kun står ettaller nede i kælderen.
+
+28:44
+Og så får vi altså bare at se et E i fire T plus c to D i minus to ting.
+
+28:54
+Så nu har vi altså fået skrevet løsningerne ud på almindelig form. Altså få den ud af matrix formen.
+
+29:00
+Og så kan vi sige hvad var det, vi skulle sige? Det var sgu en sætter vi begyndelsen vejrbidt ved er betingelsen.
+
+29:08
+Vi sætter nul en dør, og så ser vi, hvad der kommer ud af det her.
+
+29:14
+Der får vi så to, se et, og da 10 er nålen.
+
+29:21
+Så går hele eksponenten i nul, og så bliver det bare til en. Og på samme måde går denne her væk.
+
+29:29
+Der står så det dér. Og det var den, vi har sagt.
+
+29:32
+I begyndelsen var betingelsen, at den skulle være lig med en.
+
+29:37
+For så har jeg så X2 er nul, og nu kigger vi bare her ned på denne her linje, hvortil jo igen er nul, og det betyder, at vi får se her og se et plus.
+
+29:48
+C2 skal være lig med nul. Og så har vi lige fået her to ligninger med to ubekendte.
+
+30:00
+Vi behøver vist ikke at lave matrix ligning. Vi kan bare lige se, at C2 ud fra ligning nummer 2, den må være lig med minus ét.
+
+30:13
+Og det indsætter vi så for oven. Der har vi så da 2.
+
+30:17
+C et. Og så får vi i stedet for minus C et skvat lige med én og så det betyder jo så bare simpelhen at så er c et lig med 1.
+
+30:33
+Så har vi fundet den første konstant og das set to den er det modsatte af set.
+
+30:40
+Så har vi her den anden konstant at se.
+
+30:42
+Den er lige med minus 1, og nu har vi så fundet den betingede løsning, som så er skal vi skal uden for den almindelige form.
+
+31:02
+Her fik set dig ting, og så blev det 2 1.
+
+31:07
+De fire ting og som minus E i minus to ting.
+
+31:13
+Og så x2. RT er lig med den bliver solgt i 4 t og så minus E.
+
+31:24
+De eneste to ting. Så har vi fået løst systemet her.
+
+31:29
+Så er det. Se.
+
+31:39
+Hvis man skal illustrere det her og det gør jeg lige på Mabil om et øjeblik, så vil jeg gerne fortælle jer,
+
+31:48
+at når vi har fundet nogle løsninger på differential på sådan et differentialligning system, så er der to måder, at I kan vælge og illustrere det på.
+
+31:56
+Nogle gange er det det eneste, der er det ene, der er mest naturligt.
+
+32:00
+Vi vil godt sige, at hvis det er altså, hvis det er de her to tanke, vi kigger på, så vil jeg nok gerne tegne.
+
+32:09
+Altså i et koordinatsystem, hvor jeg kan se hver af de to grafer.
+
+32:14
+Det giver mest mening. Men andre gange, så betragter man altså pause.
+
+32:20
+Se, hvor var det vi. Vi skrev det. Det var her.
+
+32:25
+Så betragter man det som nogen, jeg har haft i gymnasiet.
+
+32:29
+Jeg tror, det er med i den nye reform. Tidligere da havde folk på hugst kort tekst.
+
+32:34
+I havde det der med vægte og funktioner. Så kan vi også betragte det her, altså som en knude i panden,
+
+32:41
+hvor der hele tiden fortæller hvad skal første koordinaten være, og hvad skal anden koordinaten være?
+
+32:47
+Og så får man sådan en samlet kurve af disse to, altså enten to kurver, som vi sagde.
+
+32:56
+Altså hvor den ene har en begyndelse betingelser. Den, der skal gå igennem nul, kommer ind og den der skal gå igennem origo.
+
+33:04
+Eller også hvis vi betragter det som en vigtig funktion, så skal de samlede gå igennem punktet 1,0.
+
+33:12
+Og det er det, jeg lige vil illustrere føjer nu. Så altså det var de to differentialligninger når.
+
+33:51
+De kom igennem. Vi havde den op lige før jeg. Og social.
+
+34:04
+Skal prøve Ryszard det godt og prøve.
+
+34:09
+Så. Opbygget som en hund der var mærket.
+
+34:17
+Og. Så selvfølgelig er der.
+
+34:43
+Modsat asocialt. Da og frygtet skifter den historik der ligger nær.
+
+34:57
+Og hvad fanden der stikker ud. Hvorfor?
+
+35:06
+Gå i gang når den tid. Måske også lidt om stedet.
+
+35:10
+Jeg ved ikke, om det er det, men det tror jeg ikke. Og ej fordi de er, så vil man opdage det fyring.
+
+35:18
+Når man læser altså så må vi droppe det, da vi har.
+
+35:22
+Vi dropper det altså. Det kan være hvis. Hvis vi finder ud af det i pausen, så vender vi tilbage til det.
+
+35:27
+Og jeg har også en illustration senere, som jeg meget gerne vil vise. Men nu vi går videre uden denne her?
+
+35:36
+Ja. Det er det vi har lavet nu.
+
+35:54
+Det var den nemme og komplekse rødder, og det er altså meget vanskeligere.
+
+36:01
+Og det er det, vi skal kigge på nu, så vi.
+
+36:05
+Vi kan altså sige, at vi går i gang. Nej, jeg tror, jeg tager den her.
+
+36:10
+Vi går i gang her med. Der er to der to komplekse rødder, og det er altså vores andet tilfælde to komplekse værdier.
+
+36:33
+Og nu jeg ikke skrive larm, da ét ord larmer til to. For hvordan?
+
+36:38
+Hvis den ene hedder larm, hvad den anden så. Den er det nu.
+
+36:44
+Det er den konjugerede, fordi vi jo kun arbejder med syv.
+
+36:52
+Undskyld med alle matricer. Så det er på denne her måde, så lad os få at se her, hvad vi har af system matricen.
+
+37:00
+Nu skriver jeg ikke. Du skriver jeg ikke selve differentialligning systemer op.
+
+37:04
+Det har vi prøvet, men vi går direkte til det, det handler om, nemlig systemets system matrix, og denne hedder minus 1 minus tre tre om endnu set.
+
+37:24
+Og vi skal altså finde dens egenværdier og egne vektorer.
+
+37:29
+Og det starter jo med, at vi kigger på determinanten af den matrix, der fremkommer, hvis jeg trækker lam derfra i diagonalen.
+
+37:50
+Det er altså den determinanten jeg gerne vil have regnet ud.
+
+37:56
+Og I kan se vi får den ganget med den det minus 1 minus lamper i anden.
+
+38:05
+Og så får vi minus den gange med dem og den gang med.
+
+38:08
+Den er minus 9. Og der var altså et minus foran. Og så bliver det pludselig.
+
+38:17
+Så vi regner videre, og den her er jo kvadratet på et tullede størrelse, der kunne, lige så godt havde vi heddet plus.
+
+38:28
+Resultatet giver det samme, fordi der er minus på begge steder,
+
+38:30
+og det skal i anden så det være sig lambda i anden plus det dobbelte produkt to lamper.
+
+38:39
+Og så får vi ind i hjernen. Det giver en, og vi havde ni i forvejen, og så får vi altså her.
+
+38:46
+Dér har vi det karakteristiske polynomium, og vi finder det skal man enten den er b i anden.
+
+38:57
+Den er fire boksere minus fire og så gange med 10.
+
+39:07
+Det er minus 40, og det giver så en minus 36.
+
+39:15
+Og så er det jo, at dem skriver vi lige om på den form her. Min nu 36.
+
+39:21
+Det er sex i anden. Fordi nu kan vi så skrive løsningen op.
+
+39:27
+Der har vi så Lambda er lige med, og så skal vi have.
+
+39:37
+Så skal vi her. Minus to. Og så plus minus Ditte forsigtig.
+
+39:47
+Og det skal divideres med 2. Og så får vi altså to der skal op i minus 2.
+
+39:55
+Så får vi minus 1 og så to op i 6.
+
+40:00
+Det giver plus tre i og så den anden.
+
+40:05
+Det blev jo bare den konjugerede. Skatten blev jo. Og det kan vi se.
+
+40:08
+Det passer os. Så vi har altså disse to egne værdier, og så skal vi jo have fundet de egne vektorer, der hører til lambda.
+
+40:22
+Og der skal vi jo så kigge på en total matrix. Og altså vi kan altså kun kigge på denne her.
+
+40:37
+Altså vi siger vi siger det er det tal minus den egen værdi vi har fundet.
+
+40:46
+Og så er det jo noget med. Så skal vi skifte fortegn i tallet, gå væk, og så får vi minus tre i.
+
+40:55
+Og så havde vi minus tre i forvejen. Og så får vi tre her, og så får vi her minus tre i.
+
+41:11
+Sådan er.
+
+41:15
+Og så selvfølgelig de trivielle nuller, som jeg altid skriver med for en ordens skyld, så vi kan se, at det er en total matrix når denne her.
+
+41:26
+Vi kan se, at hvis vi lægger den her og nu, skal det da et eller andet.
+
+41:39
+Foruden. Skal ikke være forskellig fortegn konkluderede.
+
+41:49
+Nej, for det. Altså det er jo kun denne vi. Det er kun denne her vi kigger på.
+
+41:56
+Og for den skæve værd. Man giver noget. Hvis nu man gik over stregen.
+
+42:02
+Ja, det er det. Det er dette. Det er det, vi gør. Og sådan lægger vi den til.
+
+42:07
+Og så går den ud. Det er derfor, at den skifter fortegn, og så får vi altså her.
+
+42:13
+Så får vi trang til at lege med.
+
+42:18
+Og så ganger vi den med den, der ganger med en tredjedel.
+
+42:22
+Så går man til, står en min nu se og så 0.
+
+42:27
+Og det var netop det dér, vi skulle gange den dermed. I så lægge til, og så skifter den fortegn, og så får vi se om nul, nul og nu.
+
+42:35
+Og så har vi altså her. Hvad er så? Hvad får vi ud af det her?
+
+42:38
+Der får vi, at vi ét. Den er lige med i gange med veto.
+
+42:46
+Skal du sige, når vi skriver egne vægteren op?
+
+42:51
+Så har vi altså her ved et veto veto.
+
+42:55
+Den er fri. Så bliver den altså en vilkårlig parameter.
+
+43:01
+10. Og så får vi i år en sådan.
+
+43:08
+Og så har vi altså fundet nu. At at eje rummet, der hører til minus en plus tre i den, er spændende at den vektor, der hedder solgt i over en.
+
+43:33
+Og selvom vi har den, så har vi også straks det andet egne ord før den hedder MI nu scenen minus tre,
+
+43:46
+der så skal være spahn af den kun gearede egenvægt. Og det vil jeg sige.
+
+43:52
+Det er jo kun den. Der kan vi jo ikke kun kommunikere. Det er bare et reelt tal, så vi får altså her et minus i ori over en sådan her.
+
+44:00
+Så har vi løst ejd med problemet.
+
+44:07
+Så når vi har løst egenværdi problemet, så har vi også den fuldstændige komplekse løsning fuldstændig kompleks løsning.
+
+44:25
+Set den er det jo så at vi nu får ved at skrive sagen på parameter for.
+
+44:37
+Hekse inviterer ikke sorte og hvor vi i så fald her skal have en vilkårlig konstant.
+
+44:43
+Se også Så skal vi have en. Og nu har vi så pighvarren her.
+
+44:55
+Der skal ganges egen vægteren. Og så har vi her set to og så en, og så har vi den konjugerede power og så gange med den kommende fungerede egenvægt.
+
+45:13
+Sonder. Og her er det vigtigt, at vi husker, at dette skal være vilkårlige komplekse konstanter, der skal være der.
+
+45:31
+Så det her vil jeg sige. Det er det, der hører med til den nemme orkan, der var lige lidt med at finde dit eget regnvejr, de egne vektorer.
+
+45:43
+Men nu kan vi altså skrive den op på den der form. I sådan nogle problemstillinger, vi arbejder med.
+
+45:50
+Altså for eksempel tanker og den slags ting udefra. Så når vi når frem til et endeligt problem, så vil vi gerne have de reelle løsninger.
+
+45:58
+Så det, der nu er rigtig tricky, er og så sige, at hér har vi en kæmpestor mængde af komplekse løsninger og nogle af dem.
+
+46:10
+En lille delmængde af dem er altså de reelle. Og det er det, vi nu gerne vil prøve at finde frem til.
+
+46:16
+Hvordan kan jeg finde ud af den fuldstændig reelle løsning, når jeg ved, hvad den fuldstændig komplekse løsning er?
+
+46:23
+Og det er det, der er sådan lidt tricky. Og ja, det jeg nu vil introducere, er den metode i en noten, der hedder 17 5.
+
+46:48
+Så vi skriver altså her metode 17,5.
+
+47:00
+Og der er tre punkter. Til det første punkt hedder det, at vi siger, at vi har så her in London, som vi skriver på formen alfa plus i beta.
+
+47:25
+Og så da det egne ord når disse to foto, et matricer jeg også dette egne rum.
+
+47:32
+Det ville jo være en dimensionalt. Skal vi sige, at den vektor vi bruger denne hedder bare film.
+
+47:42
+Sondern så har vi de benævner som vi skal bruge. Så indfører man to hjælpe funktioner siden man indførte en funktion der hedder u et rt.
+
+48:06
+Og det her er jo altså nået. I bliver nødt til at afprøve, fordi det er lidt det tekniske jeg ikke også.
+
+48:12
+Den er så e i al fatty også sat ind sinus til B.
+
+48:22
+Nej, den er cosinus til beta 10 og sten skal ganges med 3 af værdien af ved vektoren.
+
+48:37
+Og så skal vi sige minus sinus til beta ting, og den skal ganges med imaginære delen af vores egen digter.
+
+48:52
+Det var den ene hjælpe funktion. Og så her der indfører vi så den anden, der hedder U2 RT.
+
+49:01
+Den starter også med E i al for t. Men nu har vi så sinus til beta ti gange.
+
+49:12
+Real delen af VM vektoren og plus cosinus til beta ti gange med imaginære delen af denne vektor her og sådan der.
+
+49:29
+Så hvis man har fundet de to hjælpe funktioner dér, så har vi den fuldstændige løsning.
+
+49:41
+Så fuldstændig reelt. Denne er så givet som en vilkårlig linere kombination af de to dér.
+
+49:57
+Så har vi altså at løsningen ikke Sarti.
+
+50:01
+Nu skriver vi den som en vektor, at den er så en Leynar kombination.
+
+50:06
+Det vil sige K et gange med u et årti. Plus en anden konstant vilkårlig forsagt gange.
+
+50:16
+Den anden hjælper vektor funktion.
+
+50:20
+Her og nu er vi i de rene tal, så de her to giver såvel for de reelle tal.
+
+50:31
+Så det er altså den metode, man kan prøve at bruge, når vi skal have fundet den rene delmængde af de komplekse løsninger.
+
+50:41
+Og det er det vi lige prøve at se om vi kan hitte ud af nu. Og.
+
+50:56
+Så vi prøver lige se hvad har vi? Vi har jo, vi har jo fundet vores lam, da den var i plus alle minus 1 plus tre i.
+
+51:08
+Så i vores tilfælde har vi så, at alle før den er minus 1 og betaget.
+
+51:16
+Den var tre og den tilhørende egenvægt, så den var lige over en.
+
+51:27
+Så er det ok.
+
+51:32
+Så skal vi prøve at se, om vi kan finde den. Finde ud af den her uge, et vektor. Og der skulle vi jo starte med eksponentielt funktionen.
+
+51:47
+Det er minus 10, og så har vi en funktion her.
+
+51:55
+Og så skulle der stå cosinus til beta ting.
+
+52:05
+Og den skal så gange smed se her. Den skal ganges med røg.
+
+52:11
+Andelen af den vektor der står der og kan se denne, og den har reelt værdien nul, og den har reelt værdien 1.
+
+52:22
+Så det bliver altså nul over 1. Her. Og så skulle vi sige minus sinus er altså beige, så den kan vi jo godt lige kvalificere, for den var jo 3.
+
+52:37
+Lad os bare skrive god sig selv tre ting. Og nu har vi så sinus til 3D, og nu skal vi så have imaginære dele af denne her.
+
+52:50
+Og det er det sådan, at I den har imaginære delen ind, mens den har nul.
+
+52:57
+Så nu bliver der altså i stedet for her en over nul. Og så får vi her en it.
+
+53:11
+Og så kan vi godt lige prøve at se den, der skal gange så op her, og det giver bare nul, og så får vi minus, siger tre ting.
+
+53:33
+Så da det var så det hårdeste regnestykke, og så skal vi lige have det neddrosler, der får vi så cosinus til tre ting.
+
+53:44
+Og den der går, skal ganges med nul, så den går bare i nul. Så det var altså Minuit funktion, og vi går straks videre til U2 funktionen.
+
+53:56
+Så starter igen med i minus alle for.
+
+54:06
+Se nu skulle der i stedet forstås sinus tre t og så 1 0 over 1.
+
+54:12
+Det var jo reelt værdien den reelle delen af egne vektoren proshop plus cosinus 10 og så en over nul.
+
+54:29
+Så der har vi så den, og vi er nu prøver vi igen her, så regn samme får og ikke har set den, der går i nul.
+
+54:37
+Og så får vi her fra oven. Der får vi så cosinus til tre ting, og for neden, der får vi bare sinus til tre ting.
+
+54:53
+Se det her. Det var så step ét. Det var ligesom at finde ud af, hvad er det, for den har vi løst, inden der er problemet.
+
+55:02
+Punktum. Det var at opstille de her hjælpe funktioner. Og nu har vi så den fuldstændige løsning fuldstændige reelle løsning.
+
+55:21
+Den har vi så her på, så vi kan godt skrive den her.
+
+55:29
+Er hatten på vektor form eller almindelig form vaziri? Illegalt vækstform.
+
+55:38
+Væk tager form i os, og så får vi altså her at exciting.
+
+55:46
+Den skal så være en vilkårlig konstant ganget med den første. Det er k et.
+
+55:52
+Og så har vi en minoritet. Og så var det minus sinus til tre ting.
+
+56:01
+Og så var det cosinus til tre ting for sig plus en anden konstant CO2 e i minus.
+
+56:13
+Og nu har vi sagt posens tre ting foroven og sinus tre ting fundet.
+
+56:24
+Og hvor de her konstanter her det er vilkårlige reelle tal.
+
+56:32
+Så sådan ser den fuldstændige løsning altså ud. Vi sover altså.
+
+56:38
+Denne her var nem at få fat i på komplekse form, men kun for den komplekse form og så til den reelle form.
+
+56:47
+Det var lidt mere tricky. Se denne her vil jeg gerne lige have, at I husker det lige før pausen, men nu stiger lige et par ting her.
+
+56:59
+Jeg vil gerne have, at de husker den her. Og hvorfor?
+
+57:04
+Fordi den bruger jeg. Jeg genbruger den dér. Den er af Matrix bagefter, fordi på et tidspunkt.
+
+57:13
+Hvad har vi lavet nu her inden pausen? De to særtilfælde. Nu skal vi have dem, der ikke kan diagonal i Ceres.
+
+57:19
+Den tager vi efter pausen, og så skal vi kigge på en homo Guinness systemer.
+
+57:24
+Og det jeg gerne vil understrege, føjer nu, og som I vil forstå.
+
+57:28
+I anden halvleg. Her er, at de systemer, vi har arbejdet med indtil nu.
+
+57:32
+Det er homogene lineære systemer. Og. I skal også lære.
+
+57:36
+Hvad er en homogen system for noget? Og det her har vi altså løst.
+
+57:42
+Den homogene ligning og den bruger vi til at kigge på en homogen ligning.
+
+57:47
+Og her har vi altså. Eller har kernen fået en afbildning.
+
+57:53
+Og den får vi brug for, når vi skal op, når vi skal løse det enorme vuggende system.
+
+57:58
+Husk et enormt Morgans system. Der bruger man nemlig struktur sætningen da skal vi bare have fat i en partikulære løsning.
+
+58:06
+Hvis vi har en løsning, så smækker vi hele kernen på eller hele Elham.
+
+58:11
+Det er denne her. Så har vi den fuldstændig homogene løsning, så det kan godt glæde jer til.
+
+58:17
+Men nu fortjener I en pause.

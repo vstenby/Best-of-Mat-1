@@ -1,0 +1,515 @@
+0:04
+Så som sagt hedder Anders Gorm Petersen.
+
+0:07
+Jeg kommer fra en sut for Systembiologi i Center for Biologisk Sekvenserne, Lyset og jeg skal forsøge på 15 minutter og giver bare ét eksempel på,
+
+0:16
+hvordan vi rent faktisk bruger matematik og matematiske metoder i noget, som rent faktisk er biologisk interessant.
+
+0:24
+Og det, som jeg interesserer mig for det, som en gruppe arbejder med, er, som der står,
+
+0:28
+der må ligge mig, hvor lusene altså bliver interesserede i at forstå evolutionen,
+
+0:33
+og vi er interesseret i at bruge viden om evolution specifikt i min gruppe til at forstå
+
+0:38
+sygdomsfremkaldende organismers livsforløb og bruge viden om deres evolution til at bekæmpe sygdom.
+
+0:43
+Vi arbejder en del med malaria og hiv, og jeg for eksempel. Men lige præcis her er det så et lille bitte hjørne af det, vi arbejder med.
+
+0:50
+Jeg ved snart noget om det, nemlig hvordan bruger vi sekvens data til at tænke os frem til, hvordan et evolutionært træ ser ud?
+
+0:58
+Og for at forstå det, skal man måske lige tænke over, hvordan det egentlig er at måle flere evolutionen foregår.
+
+1:05
+Hvis man nu forestiller sig, at man kunne skrue tiden tilbage og se på den evolutionære proces nede på molekylært niveau,
+
+1:12
+så kunne man måske forestille sig, at man for et par millioner år siden havde en eller anden bakterie eller en anden organisme,
+
+1:19
+hvor vi havde et et genom, hvor der så er et lille stykke af DNA sekvensen et i den organisme.
+
+1:26
+Den organisme den vokser og formerer sig og cellerne deler sig og en gang imellem,
+
+1:30
+når cellen deler sig og dermed bliver kopieret, bliver redigeret, så sker der mutationer.
+
+1:36
+Det vil sige underkuet kopi processen. Så blev nogle af nukleotider ændret.
+
+1:40
+I dette tilfælde er der ting, der er blevet til et gen for eksempel. Det er den proces der foregår løbende.
+
+1:46
+Der bliver hele tiden kopieret, cellerne deler sig, og en gang imellem, så opstår der.
+
+1:50
+Ud fra en oprindelig art opstår der to nye art.
+
+1:54
+Det sker typisk ved, at organismen eller en population af organismer bliver delt,
+
+1:58
+og de to nye populationer udvikler sig i hver sin retning, indtil man har to forskellige arter.
+
+2:04
+Under alle omstændigheder, efterhånden som hver af disse arter udvikler sig, vokser, så optræder der flere og flere mutationer undervejs.
+
+2:10
+Nu har vi nogle nye mutationer, der er at se her. Der er kommet hjem. Bliver til to nye arter den vokser.
+
+2:16
+Der kommer to mutationer på denne jord, så man er fed deroppe.
+
+2:20
+Den anden art vokser os og formerer sig. Der kommer en mutation og den sidste der.
+
+2:25
+Der kommer så tre mutationer. Så dér er den evolutionære proces man har nogle organismer, der vokser og deler sig.
+
+2:32
+Undervejs opstår der fejl ved DNA kopieringen, og da der opsamles mutationer undervejs.
+
+2:40
+Nu ved vi jo ikke, hvordan denne her proces er foregået, fordi der ligger tilbage i tiden 10.000 eller millioner år, måske.
+
+2:46
+Det eneste vi har at gøre godt mod, er faktisk de. Den ældste sekvenser på de nulevende organismer, som er dem, der er på bladene, er det er her.
+
+2:55
+Hele øvelsen i det problem, som jeg snakker om i dag.
+
+2:59
+Her er altså, hvordan man kommer fra et datasæt,
+
+3:03
+som består af DNA eller som her protein sekvenser på nulevende organismer og ud fra det datasæt tænker sig frem til,
+
+3:12
+hvordan den evolutionære historie har været, som har ført frem til de nulevende organismer, vi har, og som har hver disse punkter på træet.
+
+3:19
+Har vi en sekvens heroppe, og spørgsmålet er Hvordan bruger vi den sekvenserne funktion til at tænke os frem til, hvordan det evolutionære træ ser ud?
+
+3:28
+Det er der faktisk mange forskellige måder at gøre på.
+
+3:30
+Jeg har et kursus i molekylær motion, hvis interesserede hvor vi gennemgår det i uhyggeligt særlig grad.
+
+3:37
+En af måderne, man kan gøre det på, er, at vi hjælper noget.
+
+3:40
+Der er maksimum langt gjort. Og for lige at forklare, hvordan man bruger maksimum lægeligt set fra rekonstruktion,
+
+3:47
+så vil jeg lige tage en lille sidevej her og forklarer generelt om om maksimum,
+
+3:53
+fordi den metode, som benyttes til mange andre statistiske spørgsmål også.
+
+3:59
+Eller rettere den generelle statistiske metoder, som kan bruges til at løse mange forskellige slags problemer,
+
+4:06
+hvor man har nogle data om man gerne vil lære noget om. Om et eller andet system, hvor man har samlet de data op fra.
+
+4:12
+Så man kan sige grund elementet i en maximum analyse er,
+
+4:17
+at man starter med og bliver interesseret i et eller andet system, der kan være et biologisk system en selv.
+
+4:23
+Det kan være som hos mig et evolutionært system, hvor man er interesseret i at forstå Blossoms historie, men det kan være mange andre problemer.
+
+4:30
+Også det system man har interesseret sig for, har man selvfølgelig indsamlet nogle data,
+
+4:35
+og fra man er gået ud og lavet nogle eksperimenter og i det hele taget samlet data.
+
+4:40
+Ideen er maximum lige jo derfor, at det er baseret på sandsynligheder, og for at man kan lave udveksling om analyse,
+
+4:49
+så er man nødt til at beskrive det system man nu interesseret i med en matematisk model.
+
+4:55
+Det skal ikke bare være en hvilken som helst slags matematisk model, der skal være en såkaldt bilists model af det system, man kigger på.
+
+5:02
+Og hvad vil det sige at have en promille propagandistisk model af et biologisk system?
+
+5:06
+Jo, det vil sige, at man er i stand til, men har en model med nogle forskellige parametre,
+
+5:12
+som beskriver hvordan elementerne i dette biologiske system agerer og idelig maximum large slut og en proper liste.
+
+5:19
+Model er, at man for et givet sæt af parameter fordi og i denne model man nu har,
+
+5:24
+skal man kunne udregne sandsynligheden for et hvilket som helst datasæt og hvem.
+
+5:29
+Nu har vi jo ikke et hvilket som helst datasæt.
+
+5:31
+Vi har et konkret datasæt, og ideen er altså, at vi skal være i stand til at udregne gyset sætter parametre.
+
+5:37
+Hvad er sandsynligheden for det datasæt? Der bliver jeg formentlig på gulvet, og det er derfor jeg har de ligge sammen.
+
+5:44
+Hvis hun nu kigger på et simpelt, ikke biologisk eksempel.
+
+5:47
+Vi forestiller os, at vi har smidt en mønt op i luften ti gange, og vi har fået plat 7 ud af de ti gange.
+
+5:55
+Hvad end hvad en simpel model for sådan en rimelig og simpel model er nok, at vi kunne sige, at vi har en eller anden sandsynlighed p for at få plat.
+
+6:05
+Og så er sådan noget ikke minuspoint p for forbrugerne, og det vil bemærke, at det strengt taget er en simpel legation af virkeligheden vi gjorde her.
+
+6:13
+For eksempel ved at mønten måske i princippet kunne stå på højkant. Eller mønten kunne blive væk eller mange andre ting.
+
+6:19
+Vi fokuserer på de to mest interessante udfald, nemlig at vi får enten plat eller krone.
+
+6:26
+Og som tydeligt begge fra jeres gymnasietid. Så sandsynligheden for at få 7 platts ud af 10 kast den udregnes på denne måde.
+
+6:38
+Og husk på at vi ved hvad peer hele målet her. Vi vil gerne finde ud af hvad pr.
+
+6:43
+Men lige præcis mønterne, måske nok ret sindssygt. Den ligger i nærheden af 0,5, men glem lige det et kort øjeblik.
+
+6:48
+Det kan være den bøjede sandsynlighed for at få 7 ud af ti kast som plat.
+
+6:55
+Det er denne fætter, som er normalt kun den 7. Hvordan?
+
+6:59
+Hvor mange måder man kan vælge syv ud af ti ganger med p, hvor den så end er i syv gange et minus p.
+
+7:05
+I tredje det der er sandsynlighed for at få lige præcis 7.
+
+7:10
+Plat hvis pincet uden for plat eller p om målet i hele det her.
+
+7:15
+Det er, at vi gerne vil finde ud af papir. Vi samler nogle dage sig ind ud fra vores data.
+
+7:20
+Så vil vi gerne komme med et bud på, hvad der er tilfældet. Sandsynligheden for forklædt.
+
+7:28
+Under det der var maksimum lagt lort,
+
+7:30
+der benytter man ikke overraskende langt hår den som indgangen til at finde ud af, hvad det bedste parameter var.
+
+7:36
+De var ikke lort. Det har faktisk en meget specifik definition.
+
+7:40
+Langkilde horden af en parameter værdi eller et sæt parameter bliver den nemlig
+
+7:45
+sandsynligheden for at ens data i øvrigt de parametre ligger WM under maksimum lige nu.
+
+7:51
+Der er hele ideen om, at man opstiller en proper bilists model af det system, man kigger på.
+
+7:56
+Den model har nogle parametre. Og ideen er så, at man siger, at de bedst det bedste bud på, hvad de ukendte parameter hvad er.
+
+8:04
+Det er dem, som giver den højeste Gluud, altså den højeste sandsynlighed at hendes data.
+
+8:09
+Måden man gør det på det via den likvide funktion,
+
+8:12
+som vel mest er et eksempel på før man har en funktion, hvor man kan udregne sandsynligheden af data.
+
+8:18
+Og jeg kan se, at et givet datasæt 7 platte ud af 10 kast for eksempel, så er lejligheden faktisk en funktion af ens parameter og værdier.
+
+8:27
+Måden man finder det bedste parameter på er altså optimeringen spørgsmål.
+
+8:31
+Man skal finde toppen på kurven i det her potentielt set multi dimensionelle parmiddag rum.
+
+8:39
+Lige præcis for Møns eksempel har vi kun én dimension en parameter rummer nemlig parameter om p langkniv funktionen,
+
+8:47
+som jeg nævnte før den tages nærved sandsynlig. Sandsynligheden for data, der er givet ved det her udtryk.
+
+8:51
+Hvor P var den ukendte parameter, altså plot og det p ligger man under ét.
+
+8:56
+Så får man sin kurve her, og der vil nok ikke overraske nogen. Maksimum er vel 0,7.
+
+9:02
+Men dette er generelt princippet. Man har et system, man har nogle data.
+
+9:06
+Man opstiller en model for hvordan systemet fungerer, og den model skal gøre en i stand til at kunne udregne sandsynligheden for sine data.
+
+9:14
+Og ideen er så, at man får udtrykt den sandsynlighed som en funktion af sin parameter værdier.
+
+9:20
+Og hvad var det lige der gør man jo.
+
+9:25
+Man kan også opstille nogle her propagandistiske modeller for fylogenetiske spørgsmål.
+
+9:30
+Ideen med den er, hvad der er det samme modeller. Jo, det er en model, der er ligesom jeg vist i starten.
+
+9:36
+En model af, hvordan en oprindelig sekvens over tid har udviklet sig til de i dette tilfælde tre sekvenser, vi har på levende organismer.
+
+9:45
+Parametrene modellen. Der er nogle lidt mystiske parametre, for eksempel formen på træet, kunne man sige var en parameter.
+
+9:51
+Længden på grenene. Altså hvor mange mutationer der er sket undervejs.
+
+9:55
+Det er også parametre. Hvilken gren har en vigtig parameter? Andre parametre i modellen kunne være frekvensen af DNA klubturné.
+
+10:04
+Dem kalder vi lille pi her. Og nok så væsentligt nukleotider nu klub syd substitution.
+
+10:11
+Sandsynlighederne. Hvor sandsynligt er det, at A bliver til et se hvor sandsynligt at et set bliver til et givet osv.
+
+10:17
+Bemærk at de er sandsynlighed. Det er selvfølgelig en funktion af tiden.
+
+10:20
+Jo længere tid der går, jo mere sandsynligt er det, at vi får en substitution.
+
+10:25
+Men bottom Magnette er så, at vi har en model af, hvordan en sekvens, en en eller anden antiisraelsk sekvens bliver til de nutidige sekvenser.
+
+10:32
+Modellen har nogle parametre, som vi selv er i stand til at udregne.
+
+10:37
+Sandsynligheden for, at vores data altså klubben så vil bruge maximum lige nu til at finde de bedste parameter og værdier, og hvordan vi gør det.
+
+10:46
+Det har vist her. Vi har foroven et måltid på vejen, mens vores optimerede data.
+
+10:52
+Målet er, at vi har en model for, hvordan disse sekvenser udvikler sig en mod en model,
+
+10:58
+og hvordan en oprindelig sekvens har udviklet sig til disse sekvenser. Vi har nu, og som vi har megen man ved.
+
+11:04
+Den model har en række forskellige parametre. Vi sætter os i stand til at udregne sandsynligheden for,
+
+11:09
+at dyret sætter parameter på de kvægbrug maksimale Blackfoot til at finde det bedste parameter.
+
+11:14
+Så hvis vi nu et kort øjeblik antager, at vi ved, at denne er en efter den, er noget af denne hoppede af de andre, jeg kender.
+
+11:21
+Fordi det er vores nutid sekvenser. Og lad os antage, at vi ved hvad de fire nukleotid frekvenser er.
+
+11:27
+Og lad os antage, at vi ved, hvad alle grene mængderne er.
+
+11:30
+Hvor lang tid der er gået på de forskellige grene, så vil man kunne udregne sandsynlighed for dage, så på den måde, der står herned.
+
+11:38
+Vi starter med en hver sandsynlighed for dag. Det kunne man vist ret sige.
+
+11:43
+Bare at frekvensen af sandsynlighed for at a i en eller anden tilfældig sekvens.
+
+11:47
+Det må være lige med frekvensen af hvad, så er sandsynligheden for at have et a her og da her jo er sandsynligheden for,
+
+11:57
+at jeg da til at starte med ganget sandsynligheden for, at det i dag bliver ved med at være da over så lang tid.
+
+12:03
+Og hvem? Det er dog den værdi som stod i. Matricen her opførte en.
+
+12:10
+Og hvad er så sandsynligheden for at a. A. Her og et cd opnå?
+
+12:14
+Det er jo bare som for et dag som forleden dag bliver ved med at være da gammel.
+
+12:18
+Sandsynligheden for at et a bliver til et se over så lang tid.
+
+12:22
+Og sådan fortsætter vel sådan set bare. Så ganger vi på hver sandsynlighed for at A bliver til et C.
+
+12:29
+På denne gren. Hvad er sandsynligheden for, at æg bliver til et G på denne gren?
+
+12:33
+Og hvad er sandsynligheden for at A til et af? På denne erfaring.
+
+12:37
+Så hvis vi kender alle parametre, hvor de når hvis vi vælger sætter parameter,
+
+12:40
+var de tre nogle grene længder, nogle nukleotid frekvenser og nogle substitution som synoder.
+
+12:47
+Så kan vi udregne sandsynligheden af denne ene søjle i vores alignment ud fra vores parameter værdier.
+
+12:57
+Nu ved vi jo ikke at søsteren har billeder af. Det var bare noget jeg.
+
+13:03
+Jeg har slynget ud i luften. Strengt taget kunne jeg ikke se, give eller se dette på, som hed det i sne eller ting.
+
+13:09
+Så i virkeligheden er jeg nødt til at lave denne beregning.
+
+13:11
+For alle de 16 mulige kombinationer af, at strandede nukleotider vejer for hver af dem, gør som det vist på få Islay.
+
+13:19
+Og så læg dem sammen. Så har vi som snydt noget for denne søjle.
+
+13:23
+Jeg var en mand. Bagefter gør vi det samme for de andre solrige og lange.
+
+13:27
+Og så ganger vi disse sandsynligheder sammen. Så har vi sandsynligheden for hele vejen.
+
+13:31
+Men altså som noget af hele vores statsansat.
+
+13:35
+Og det er altså ligesom essensen her hos på det jeg sagde, var, at ideen i maksimum lige nu er vi har et system.
+
+13:42
+Vi har en model for, hvordan systemet fungerer.
+
+13:44
+Modellen er en form, hvor vi kan udregne sandsynligheden for data, givet et eller andet sæt parameter værdier.
+
+13:51
+Og hele øvelsen består så i at finde de parametre værdi som maksimere den lagte funktion.
+
+13:56
+Den det sæt af parameter, som bringer os til toppen af lic.jur funktion, er per definition det bedste bud på parameter værdierne den.
+
+14:05
+I modsætning til dette møntkast lignende eksempel var det vist før, som man kunnet løse analytisk ved at differentiere og sætte hældningen nul.
+
+14:13
+Så kan man typisk ikke løse nogle her problemer analytisk. I stedet for er man nødt til at benytte numeriske metoder.
+
+14:19
+Typisk er den type, vi kalder for timing. Ideen er, at vi starter et eller andet tilfældigt sted i parmiddag rummet.
+
+14:26
+Vi vælger tilfældigt tre selvfølgelig grene mængder tilfældige nukleotider sekvenser,
+
+14:30
+tilfældige substitution, sandsynligheder og for lige præcis det start punkt.
+
+14:34
+Et parameter hvormed udregner så ligaklubben vi udregner sandsynligheden af data.
+
+14:39
+På den måde er det vist på de få i Schweiz. Så prøver vi at ændre alle parametre værdierne.
+
+14:45
+Vi flytter lidt rundt på træet. Vi tager en gren og flytter rundt. Vi inddrager grønlænderen en smule.
+
+14:50
+Vi ændrer nukleotid sindssyg noget, og når vi ændrer substitution sindssyg, når den en smule på en anden måde, så vi får en lidt bedre lic.jur.
+
+14:58
+Og det bliver vi ved med. Trin for trin for trin for trin ændrer vi parameter for DNA på en måde, så vi hele tiden forbedrer mig i klubben,
+
+15:05
+indtil vi til sidst kommer op på sådan en top, hvor uanset hvad vi gør ved vores parameter, det kan vi ikke få ind ved de, der beder.
+
+15:12
+På det tidspunkt har vi fundet et om ikke noget lokalt maksimum i det her Hut rum.
+
+15:18
+Et parameter rummet med lokalt maksimum på Hut, overfladen over parameter rummet i virkeligheden,
+
+15:25
+og hvis ellers der kun er én top, så er det også et et globalt maksimum.
+
+15:29
+Det kan man ikke altid være sikker på. Men man kan så starte på flere forskellige steder og se, om man ender på samme top.
+
+15:35
+Men bottom Magnette er altså. Vi har nogle data, dit måltid, beder regner.
+
+15:40
+Vi har en model for, hvordan en sekvens udvikler sig til de nutidige sekvenser.
+
+15:45
+Vi har en måde, så vi dyret parameter, hvor man kan udregne sandsynligheden af data og det vi gør her, det altså.
+
+15:51
+Så vi finder det bedste bud på parameter værdierne ved at maksimere denne funktion ved at finde ud af hvilke parametre.
+
+15:57
+Hvad er det, der giver os maksimum for det vi kommer ud af?
+
+16:02
+I den sidste ende er så altså et bud på, hvordan træet ser ud, som jeg nok er det, de fleste vil være interesserede i.
+
+16:07
+Men vi har sådan set også en række andre parametre i modellen, som vi også får nogle estimater af Grækenland.
+
+16:13
+Der kan være interessante nok substitution. Som noget andet kan også fortælle os noget.
+
+16:17
+Og hvis den mere raffineret model. Så er vi selvfølgelig mange flere parametre, som vi har lært noget om.
+
+16:22
+Sidst men ikke mindst har vi også et bud på, hvor godt denne model passer til data.
+
+16:26
+Nemlig nej gluten. Og hvis man er interesseret i den slags,
+
+16:30
+så kan man faktisk stille alternativ hypotese op og bruge lejligheden til at sammenligne de forskellige hypoteser.
+
+16:35
+Men den er en historie, for jeg tror ikke, at stoffet.

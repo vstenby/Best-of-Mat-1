@@ -1,0 +1,635 @@
+0:04
+Jeg går morgen semester 10.
+
+0:11
+Vi nærmer os slutningen på jeres lynkursus i lineær algebra, og vi er nu kommet til faktisk.
+
+0:23
+Grunden til vi har prøvet alt ved lineær algebra ned i det er store til for at I skal forstå hvad jeg siger til jer i dag.
+
+0:35
+At læse og det er som at stå i en arm i dag og alle de andre måder, vi formidler teksten på.
+
+0:42
+Man får, at I skal indse, hvad der foregår omkring det her emne.
+
+0:48
+Dagens emne er egenværdier. Og egen mad gjorde.
+
+1:15
+Det er det som det handler om i dag. Jeg vil snakke lidt, når allerførst om det, som man kalder for Aymen problemet.
+
+1:30
+Men så vil jeg gå over til mere specifik og definere de to ting vi skal snakke om egne værdier og egne vektorer.
+
+1:47
+Der er nogle særlige underrum i vektorer, som har lov til at kalde sig egne rum.
+
+2:01
+Og så får Inge 2 at alle emnerne i dag begynder med ordet egen. Så kommer der et emne som hedder mål 10 pct.
+
+2:16
+Skulle jeg nå til sidst og vise lidt Mabel, så tager vi det som.
+
+2:25
+Krydderi på tilværelsen. November er over os en mørk grotte uden for.
+
+2:37
+Og det var så i dag i lærde om egne i Probleme egne.
+
+2:40
+Problemet er ret generelt den situation, at man har en afbildning.
+
+2:52
+En lineær afbildning. Af et eller andet væk til over en i sig selv.
+
+3:05
+Jeg vil sige, at det er det sammen med det rum, man starter i og slutter i.
+
+3:14
+Det kan man nogle gange tegne med sådan en sjov lille hund pile, som går i negere.
+
+3:21
+Det får man ikke specielt meget indsigt ud af, andet end det minder én om, at man har ét og det samme ord.
+
+3:26
+Man kan også dig og at tegne to kopier af det, og det kan altsammen være lige meget det, som egentlig er.
+
+3:32
+Problemet her handler om det, at eftersom man jo direkte kan sammenligne vektorer, så man starter med og slutter med,
+
+3:43
+så kan man spørge Er det muligt, at resultatet af sådan en lineær afbildning bare bliver, at en investor ender med at blive strukket?
+
+3:57
+Men altså at man siger at det er muligt, at der findes fra nul forskellige vektorer,
+
+4:04
+sådan at når man afbilder den, så bliver den proportionale med sig selv og ikke andet.
+
+4:12
+Ofte ser vi jo væg til at ryge over i en anden ved et vinkelrette borgere af alt mulig egenvægt gjorde.
+
+4:20
+Det er vektorer, der under den lineære afvænningen bare bliver ganget med én faktor.
+
+4:26
+Og hvis hvis en vægter vil. Kan det her så egentlig er problemet?
+
+4:33
+Det siger, at findes der. Vektorer og v som ikke er nulvækst, så er det klart nulvækst.
+
+4:44
+Det er sådan der selvfølgelig bliver nulvækst varme år ført over i Norge.
+
+4:50
+Vi snakker om vi snakker om vektorer, som ikke er nul. Egen vektorer er aldrig noget regn, men gjorde aldrig noget.
+
+4:57
+Regnvejr gjorde aldrig noget. Det har vi gjort forskellige, men når vi snakker om, findes der det.
+
+5:01
+Gjorde vi noget, som vi har strukket med sig selv. Hvis der gør, så kaldes sådan en vægtere, som fandt det for en egen lektor.
+
+5:17
+Og den værdi som den bliver strukket med, kaldes for egen værdi.
+
+5:29
+Og de to bliver klar. De to hører sammen for det. De indgår begge to i denne her i denne her ligning, så man snakker om egenvægten,
+
+5:41
+der hører til den egenværdier, man snakker om egen mad vin, der hører til den egenvægt.
+
+5:48
+Det ser ud som en sjov lille ting i en sjov lille spidsfindighed, som jeg har fundet på.
+
+5:57
+I bussen på vej ud.
+
+6:00
+Dette er den vigtigste line overhovedet i lineær algebra, og I vil blive forbavset over, hvor ofte den dukker op i alle mulige sammenhænge.
+
+6:12
+I teknisk fysik rejemad.
+
+6:13
+I er simpelthen en allestedsnærværende problemstilling, og derfor derfor har man brugt så meget tid på at lade alle mine angribere sådan.
+
+6:25
+I kunne følge med i hvad der sker i tekniske bøger.
+
+6:32
+Nu er det meget abstrakt at eje, men problemet og man snakker bare om en afbildning, men I ved og jeg ved.
+
+6:40
+Jeg ved af livet, at hvis der findes en basis, så bliver tingene en lille smule mere konkret, så lad da være givet.
+
+7:00
+En basis. I venterummet og lade være afbildningen matricen.
+
+7:22
+For den lignede afbildning. Hvorfor kalder I nitte f.
+
+7:29
+Jeg kalder den er jeg, fordi alle de andre kalder den for A i denne her sammenhæng.
+
+7:35
+Så så det er bare tradition. Hvorfor sætter jeg ikke en lille basix på her og her?
+
+7:42
+Det kan jeg da også godt med. Om lidt så glemmer jeg gør det igen. For det er egentlig ikke basen så meget, vi fokuserer på.
+
+7:49
+Som afvænnings matricen. Men det er det selvfølgelig. Man vælger sig en basis i sit venterum, så skriver man billederne op.
+
+7:56
+Basil vektorerne som søjler i Mabel og det afvænnings matricen.
+
+7:59
+Vi har tit kaldt den for Store F. I denne sammenhæng kalder vi den bare for A.
+
+8:04
+Så er. Aymen er problemet.
+
+8:12
+Eller så ja. Ej, med det brev pludselig blevet til en matrix lignende,
+
+8:24
+så spørger man findes der vektorer v sådan at når man ganger vektorer vektoren v 1 på den matrix.
+
+8:33
+Så bliver resultatet proportionalt med vektoren selv, så er det lige pludselig blevet til sådan en en matrix ligning.
+
+8:44
+Og lad mig skynd jer og vise, at det ikke er et tomt begreb vi snakker om.
+
+8:50
+Det kan man nogle gange komme til. Hvad butik, men det er det sandelig. Eksempel Hvis vi tager en to gange 2 matrix 1 minut, så vi er nu tre og nul.
+
+9:10
+Så påstår jeg. Lamper lige med mine tog er en egenværdi.
+
+9:22
+Med vægteren vil en som egen læser.
+
+9:39
+Og om lidt skal jeg vise hvordan jeg fandt ud af det. Men for nu så tallet varer som anden, puffer konceptet og skal vi tjekke.
+
+9:52
+Så er vores matrix en vindersag. Minus tre noget, så ganger vi ikke ind på.
+
+10:01
+Hvad kommer der ud af det? Det kommer bare ind på at lægge de to rækker sammen.
+
+10:10
+Minus to og minus to. Og det er jo netop tallet minus to gange den originale vætter, som jeg startede med.
+
+10:22
+Det har serie egenværdi i ligningen. Man tager en der bare er på.
+
+10:26
+Og så er der et tal. Sådan er det. Resultatet bliver proportionalt med den oprindelige vægter.
+
+10:36
+Så det er sådan set.
+
+10:39
+Sagen er, som vi skal snakke om i dag og næste gang og under en åges over resten af jeres liv i en i hvert fald hvad matematik angår,
+
+10:53
+også uanset hvilken retning vi hører til. Så glemte børn en hel masse hel masse dejlige og smuk matematik, der knytter sig til det emne.
+
+11:06
+Ja, vi kan starte med at konstatere. Hvis man til en bestemt egenværdi.
+
+11:21
+Lambda kigger på alle de værktøjer der har Lambda, som egentlig er samlingen.
+
+11:36
+Af alle egne lektorer. Et underrum.
+
+11:55
+I vektorrum. Som markerer på alle egne vektorerne, og de laver faktisk et lillebitte venterum i sig selv.
+
+12:08
+Kan I huske, hvordan man tjener for nogle værktøjer, som man udstyrer med nogle egenskaber?
+
+12:13
+Hvordan tjekker man, at disse vektorer udgør et underrum?
+
+12:18
+Der er to ting svar. Ja, der er noget stabilitet, så hvilket vover vore beviser.
+
+12:27
+Det er faktisk engang bevis. Ja, der er to ting man skal kunne gange med et ord med et tal.
+
+12:37
+Og så skal den beholde sin den egenskab, der sender den i underrum.
+
+12:41
+Og man skal kunne lægge to vektorer sammen, og så er de stadigvæk i.
+
+12:46
+I underrum. Så hvis vi kan starte med mailen, hvis vi er nøgen med klare.
+
+12:58
+Så er Corcom vel også egenvægt eks'er hørende til amter.
+
+13:10
+Men rent formelt så checker vi, det vil jeg sige.
+
+13:16
+Heraf vil matricen A. Nu prøver vi at anvende den på K gange V.
+
+13:23
+Nu er det så med det tal K. Her er det forstørrer varer ved hjertestop.
+
+13:29
+Forstå mig effekten af deres virkning på V, så ved viden så får man ud af det.
+
+13:35
+Kog gange. Hvad er det nu varer gjorde ved?
+
+13:41
+Men denne er vi godt. Det jo antaget, at det skal blive.
+
+13:46
+Lamper af gangen. V Nu står der to tal og ganger på Lambda.
+
+13:52
+Rækkefølgen af de to tal er ligegyldig. Så vi kan lige så godt skrive det som Lambda gange k gange v på.
+
+14:02
+Fra første til sidste ligning. Så ser vi i netop den ligning, der sikrer os at K ganger V må have lov til at kalde sig for egenvægten.
+
+14:14
+Tilsvarende den anden. Det andet tjek det siger vist ved ét og vi 2 egne lektorer.
+
+14:30
+Så er. Virkende på deres sorg.
+
+14:42
+Ja, hvad ved vi, kender vi reglerne fra matrixmultiplikation. Jeg skal ind og virke på hver af dem, så det bliver på et blusede, hvor vi i 2.
+
+14:56
+Vi antager, at de begge to er egnede 2'ere, så det bliver lam.
+
+15:00
+Hver gang er vi et, og det andet bliver lam. Der gange vi i 2.
+
+15:05
+De egentlig gjorde hørende til en og samme egenværdi.
+
+15:10
+Her må vi selv eller andre uden for parentes. Og så er vi færdige, fordi lige nu står der så fra første til sidste linje, at væge pludselig 2.
+
+15:21
+Opfører sig som en egenvægten. Så stabilitets betingelserne er opfyldt, og alle regnemetoder hørende til en bestemt egenværdi danner et underrum.
+
+15:33
+Nu kan det jo altsammen være meget interessant, hvis der nu hvis jeg nu omvendt vidste,
+
+15:38
+at der kun var én eneste digter eller i hvert fald dens post dermed proportional som.
+
+15:47
+Som elementer er det sker der mange Martin, så har man en stor flok vektorer, som hører til en bestemt én og samme regnmængde.
+
+15:56
+Så det er meget betegnende at få lov til at kalde for et underrum,
+
+16:03
+og fordi begrebet er så vigtigt, så kalder man sådan nogle underrum, der består af egne vektorer.
+
+16:10
+Så har man valgt et fantastisk eksotisk navn. Således.
+
+16:23
+Under år kan alles øjne rummet.
+
+16:37
+Bøgerne til Lambda. Og notationen er.
+
+16:49
+Inden for egne rum og lambda som subskription der.
+
+17:02
+Vi kan godt se. Vi kigge på en sætning, som i en eller anden forstand er lidt komplementær til den sætning her.
+
+17:15
+Nu begynder jeg pludselig at snakke om egen lektorer, som hører til forskellige egenværdier.
+
+17:22
+Hvis nu der var mere end en egenværdi til en matrix, altså to forskellige egenværdier.
+
+17:38
+Og der er jo lige spørgsmål her. Det tager jeg nu.
+
+17:52
+Mon ikke det går med noget af det her? Mon ikke det går over på.
+
+18:02
+Både her hvordan kommer der pludselig et lambda frem? Her.
+
+18:15
+Men det er i år. Jeg er jo egentlig Leiningen.
+
+18:19
+Jeg må hellere tegne vinger på eller så meget fordi det er en helt central line i det, som vi snakker om.
+
+18:39
+Og så nu vil jeg gå tilbage og tager vi snakker om to forskellige egentlige.
+
+18:49
+Således bliver en anden sætning, som giver en fornemmelse af hvad sker der, når man har forskellige egenværdi, og sætningen siger.
+
+19:02
+Egenvægt 2'er. Hørende.
+
+19:12
+Til forskellige egenværdier. Er er uafhængige af hinanden.
+
+19:34
+Det vil sige. Det vil sige hvis hvis viljen er egenvægt, så.
+
+19:49
+For lamper og V2 er egenvægt og.
+
+20:03
+For landret 2. Så er væge og vi i 2.
+
+20:13
+Er. Uafhængige. Kan du vise.
+
+20:30
+Er en. I tæt beviser her til morgen.
+
+20:35
+Gør og viser jo at det ville bevise sig.
+
+20:43
+Okay. Og okay.
+
+20:50
+Ja. Så vi har den her situation med en meget næse, hvor lamper og motorer egentlig fra lamper 2 skal vise, at de to vektorer linje er uafhængige.
+
+21:01
+Det gør jeg på den måde, at jeg viser, at hvis jeg troede, at de var lineært afhængige, så ville jeg få en modstrid.
+
+21:09
+Det er dem, man laver det monstrøse bevis, som er ligeså. Det er umuligt for dem at være lineært afhængige.
+
+21:16
+Så jeg siger, at hvis det var sådan, at vi ikke var lige med et eller andet konstant.
+
+21:26
+Ganger vi i 2. Så er det sådan jeg stiller spørgsmålstegn ved.
+
+21:32
+Men så lad mig antage, at de bare ligner boringen.
+
+21:36
+Hvad gør man så med sådan en ligning? Man skynder sig at tage matricen på begge sider, så hviler.
+
+21:47
+Lambda En gang er vi.
+
+21:51
+Det er jo resultatet af at tage på venstresiden. Værdien med kobber ganget lambda to veto mod taget på højresiden.
+
+22:11
+Men det er jo det samme som lam, der 2. Gang er Kog garnet v2.
+
+22:17
+Her har jeg bare byttet om på de to tal. Men nu siger jeg og Gade ja lejren erstattede videre på den vej, at.
+
+22:29
+Ganger vi to, er lig med ved hjælp, og det vil sige jeg må faktisk skrive ved EP her.
+
+22:36
+Larm, der to gange ved et. Og nu har jeg fra først til sidst en ligning, der kun indeholder ved et VM.
+
+22:48
+Må jeg så det, må jeg så samlet. Og så står der var der et minus lam, der to gange ved EHF skal være lig med nul.
+
+23:00
+Og eftersom ved et jo ikke er en normalvægten egn lektorer aldrig nulvækst, vore egne lektorer er aldrig nul vektoren.
+
+23:10
+Og Henrik gjorde ret eller. Så har vi balladen, fordi vi havde jo også antaget, at der ikke var forskellige fra hvor langt det tog,
+
+23:19
+og det vil sige, at man tager en velfærd, som ikke er nul og ganger med tal, som ikke er nok.
+
+23:23
+Så må vi i følge vægter vækster rummenes grundlov ikke på noget her, og det vil sige, at vi har opnået i modstrid.
+
+23:30
+Nej, nej, vi går ej, så der er modstrid mod antagelsen.
+
+23:36
+Så i modstrid med det viser man, at når de egen med 42 forskellige egenværdier, så stikker de ud i forskellige retninger.
+
+23:49
+Vi kan godt lide gik videre på vores eksempel. Jeg. Samt.
+
+24:12
+For jeg kan fortælle jer at lamper lige med træ er også egenværdi.
+
+24:25
+Og dens egenvægt tager. Kan være minus tre 2.
+
+24:47
+Jeg minder lige om at. Og det er meget vigtigt i de her udregninger, at I husker på det,
+
+24:56
+lagde det på et godt og sikkert sted i jeres hukommelse, at der findes jo ikke bare for en bestemt egenværdi en vægter.
+
+25:05
+Men jeg kunne lige så godt have skrevet 2 2 her. Eller jeg går stræde 17 17.
+
+25:09
+Bare jeg havde beholdt det samme forhold mellem første og anden koordinat.
+
+25:14
+Altså et log in venter er elevator.
+
+25:18
+Det står vi jo i underrum Beviset her, så er K gange lektoren også en egen lektor.
+
+25:25
+Så der er egentlig ikke nogen. Der er ikke en bestemt væg, som har lov til at kalde sig egenvægt.
+
+25:31
+I virkeligheden burde man snakke om en egen retning.
+
+25:36
+En egen linje, fordi alle vektorer som er proportional med denne her, har lov til at kalde sig egen vektorer for en bestemt egn, de så regne.
+
+25:46
+Teknisk vælger man tit for ligesom man. De er konkrete at tage en repræsentant, så vælger man til nogle, hvor der står et et tal på førstepladsen.
+
+25:56
+Nabo har en sjov forkærlighed for vælger nogle, hvor der står en på.
+
+26:01
+På den sidste plads. Men nu har jeg vidste jeg, at jeg må.
+
+26:07
+Jeg kan også godt sige, at jeg tager som repræsentant for denne her mine tre år 2.
+
+26:12
+Men jeg må banken igennem med forskellige tal. Men briten var bare, og jeg håber, at I kan se.
+
+26:18
+Jeg håber, I så garvede nu, så I kan se, at her er to vektorer,
+
+26:23
+som er egen radioer for forskellige egenværdier, og de to vektorer er ikke proportionale.
+
+26:29
+Der er ingen. Vi kan ikke gøre de her to proportionale på nogen som helst måde.
+
+26:33
+De stikker ud i hver deres retning. Heldigvis. Faktisk.
+
+26:41
+Faktisk kunne man gå så vidt som til at sige, at at Eidem rummede fra den ene.
+
+26:50
+Det er jo ikke dimensionalt underrum her og sammen med egne rummet for det andet fylder hele er to år.
+
+26:59
+Det her er jo en afbildning fra R 2 1 i 2.
+
+27:05
+Vores vægt 12 år, her er 2 eller eller det kan være første gratis på nogen eller hver, men det er jo i hemmelighed det samme som så 2.
+
+27:16
+Men vi kan bemærke en sætning, som faktisk er generelt gyldig, nemlig at hele rummet hele rummet er udspændt.
+
+27:26
+Samlingen af egne vektorer så i her tilfælde.
+
+27:33
+Ser vi at. 2 er et spand af denne samling af egne vektorer.
+
+27:45
+Jeg vil lige vise, at et andet eksempel på at.
+
+27:54
+Man kan jo sagtens have komplekser man tror jo helt vilde med komplekse tal, har jeg fortalt.
+
+28:01
+Og så er der indgangene i matricen kunne sagtens være komplekse tal, og ang.
+
+28:07
+Værdierne kan sagtens, og sandelig siger jeg jeg er meget tit komplekse tal.
+
+28:14
+Så bliver situationen en lille smule mere uigennemskuelig, for det blotte øje kommer lidt an på,
+
+28:25
+hvor godt øje man nu har lige her tænker jeg vel lige viser et andet eksempel.
+
+28:38
+Komplet. Regner de.
+
+28:46
+De har forsøgt uskyldig nok, og man kan være forbavset over det er en ny A, som jeg havde fundet en 2 minus 1.
+
+29:01
+3. Den ser nu ud som om at den kommer fra samme fabrik og ovenikøbet samme produktionslinje som matricen ovenover,
+
+29:11
+men mere skal der ikke til, for at man pludselig får komplekse egenværdier.
+
+29:17
+Så her har vi en egenværdi.
+
+29:25
+Lambda, som hedder mini-VM plus en. Nej, undskyld, beklager.
+
+29:40
+Irmelin havde to pussy. Det er først på nettet vi egen lektoren.
+
+29:52
+Som hedder minus en plus en og anden koordinator hedder 2.
+
+30:06
+Og det til trods for at matricen komponenter matricen Tal, der står her, er pænt reelle tal.
+
+30:14
+Så dukker der alligevel en kompleks egenværdi og kompleks egenvægt op.
+
+30:18
+Her skal vi tjekke. Skal lige se en gang.
+
+30:27
+Vi tager vores matrix, en to miljødagen og tre, så tilsætter vi egen datteren miljødagen plus lige over 2, så ser vi hvad vi får.
+
+30:48
+Her får vi en. Først får vi endnu en los i, og så får vi minus to.
+
+30:57
+Hernede får vi minus to plus to i plus 6.
+
+31:06
+Alt i alt får vi. Minus tre.
+
+31:15
+Plus i. Og fire plus 2 i.
+
+31:24
+Hvor galt den nederste genkender vi som to gange en pludselig.
+
+31:32
+Så er to på. Hvor der står et total hernede, men er det også rigtigt?
+
+31:40
+Ja, det er det faktisk. Så hvis manden skriver minus en plus i heroppe, og vi giver de to ting sammen, så får vi det her.
+
+31:52
+Frygten her er bare, at hvor det er relativt simpel og proportionalitet efter, når vi snakker om PNR.
+
+32:00
+Måske ovenikøbet hele reelle tal.
+
+32:03
+Så er det straks en lille smule mere besværligt at tjekke. Men proceduren er den samme, så det skal være rigtigt.
+
+32:11
+Man har lettere ved, at Guarneri på en matrix, og udkommet bliver så selv ganget med 1 et tal.
+
+32:18
+Et tal der nu er komplekst. Og nu har et tydeligt set at der findes et eksempel på det.
+
+32:25
+De matricer, de rigtige Buju, ingeniører, matricer som vi skal bakse med senere i jeres tilværelse,
+
+32:33
+er jo ikke to gange to matricer med små hele tals hvad de er.
+
+32:38
+De har 5000 gange 5.000 matricer er fyldt med reelle tal.
+
+32:43
+Men princippet er nøjagtig det samme. Nu er jeg så trukket tilstrækkelig mange.
+
+33:00
+Ja. Jeg er fortsat jeres portal. Jeg sagde i, at min vidner på, at jeg begyndte at sige det, før jeg kiggede på spørgsmålet.
+
+33:08
+Nu har jeg så trukket tilstrækkelig mange egne aviser og egne dukker op af hatten, så nu må der nødvendigvis komme et spørgsmål.
+
+33:17
+Hvordan finder man den? Dirrede en matrix krogen? Vi.
+
+33:34
+Det er jo netop derfor at. Nej tak ubekendt.
+
+33:41
+Således simpelthen mit næste emne. Mon ikke jeg fortjener den en pause, mens misunder jeg, så kan jeg også opbygge en spænding i gysende spænding.
+
+33:51
+Ja, når vi tager lige ti minutters pause.

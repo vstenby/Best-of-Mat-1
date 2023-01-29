@@ -1,0 +1,917 @@
+0:04
+Og kører videre. Jeg går bare lige ganske korte gav hvad vi har set.
+
+0:09
+Vi har defineret som normale dage, så vi har et ekstra sæt ved tid ved EM.
+
+0:16
+Når vi kigger på skalaer produktet af to vektorer, det er noget for forskellige, jamen så er det også banalitet nu,
+
+0:25
+og vi er normeret længden af alle vektorer lige med en jamen, så får vi et værktøj, som hedder over til normalt.
+
+0:34
+Så fik vi den sætning, at hvis et sæt af vektorer indbyrdes ortogonale, så betagede, så betyder det også at de er lineært uafhængige.
+
+0:47
+Og det gælder selvfølgelig også, hvis et sæt ikke er signeret uafhængige.
+
+0:53
+TS Jamen så kan det heller ikke være ortogonale sæt.
+
+0:57
+Så spurgte vi Hvad kan vi gøre? Kan vi gøre det her? Omvendt kan vi starte med et lineært, uafhængigt sæt og få dem til at være som normale.
+
+1:06
+Det gjorde vi er ved at udvikle en algoritme, som går tilbage til Gram Smidt, og det gik så ud på, at vi trækker.
+
+1:17
+Hvis vi har en ny at en vektor af det gamle sæt, så kigger vi produktionen af på den væk.
+
+1:27
+Så på de forhenværende og nye vektorer og trækker komponenten fra den nye værktøjer.
+
+1:39
+Og det gør vi så successive og arbejder os op fra 1 til at have en vektorer.
+
+1:50
+Så kommer vi til et nyt emne. Det er så matricer som ortogonale kan se her.
+
+1:58
+Vi kigger på indgange end matricer, og vi kalder dem ortogonale, hvis søjle vektorer, der som bygger den matrix op,
+
+2:07
+er indbyrdes ortogonale, det vil sige q i gakgak q, j og lige med en for de samme vektorer.
+
+2:17
+Og hvis de to vektorer forskelle, så værdi lig med nul, så det for så ved den meget konsekvent udvidelse af ortogonale set til n matrix Q.
+
+2:32
+Så kan man så tænke over ortogonale matricer. De er virkelig.
+
+2:38
+De har en stor betydning i mange forskellige anvendelser, og det kommer vi til at se på, før vi gør det.
+
+2:47
+En række egenskaber som denne matrix har. For eksempel kunne man tænke sig at kigge på Matrix Products Co.
+
+2:56
+Transponeret garnet med Q. Så lad os lige undersøge det på tavlen nedenfor.
+
+3:26
+Vi har den her matrix, sådan vil jeg gerne lige kopiere, og den har som sagt en af de her søjler væk, så ord som amerikanerne Q.
+
+3:43
+Og hvad er sådan en transponeret var det? Ja, de er den transponerede, det er normen at bytter rundt på søjler og vægt rækker.
+
+3:58
+Det vil sige den transponerede matrix.
+
+4:03
+Den ser så sort ud, at denne her søjle vægter så bløde.
+
+4:07
+Selv en række værktøj. Og Koh Tao og hele vejen ned til Q 1.
+
+4:20
+Så vi kan godt se at det er en indgang med indmad sex også.
+
+4:26
+Det er det vi er og forudsat. Så når vi kigger på dette produkt, jamen så har vi.
+
+4:37
+Så har vi que transponeret gang med coke og hvad er det lige med?
+
+4:45
+Altså første element har denne her række ganget med den her søjle, så det svarer til, hvis jeg tænker på de her som søjler matricer.
+
+4:57
+En gang er M. Så kan jeg skrive det som q et transponeret ganget med Q et skridt videre mod højre.
+
+5:09
+Så har jeg q to transponeret ganget med første søjle igen.
+
+5:15
+Og så går jeg hele vejen ned. Så kan også gå herover, tilføjer Tao to transponeret.
+
+5:25
+Var du et transponeret gang CO2 herfor, er CO2 topscorerne i gang CO2, og det går hele vejen igennem med siger det ender med Q 1.
+
+5:43
+Gaga Co. Så at strukturen af den her matrixmultiplikation.
+
+5:54
+Og vi ved at Q er ortogonale og vektorer og vi har set helt begyndelsen.
+
+6:02
+Først of time at det kan forstås som skalar paradoks, det vil sige det.
+
+6:08
+Q q. Det bliver en kugle to gange q1, hvor nul.
+
+6:13
+Så vi har kun et tal og på diagonal, og alt andet må være lig med nul.
+
+6:27
+Så det er sådan det ser ud.
+
+6:35
+Og det er selvfølgelig intet andet. Helten Claude Egholms matrix, og der er to ting, vi kan følge fra det.
+
+6:46
+Det ene er, at en matrix ganger med Q og lige med Enheds matricen.
+
+6:54
+Det svarer til den inverse matrix, så den form er klimaet Q transponeret.
+
+7:04
+Så når man har ortogonale matricer, så er det helt lige til at få den inverse.
+
+7:09
+Det er næsten gratis. Og hvis man ved det, jamen så kan man med det samme også føle,
+
+7:21
+at jeg stod for at kigge på dette produkt, så kan vi at bytte rundt på de to matricer co.
+
+7:30
+Der med den ene vej siger den transponeret. Jamen, det er selvfølgelig også i Enheds matricen.
+
+7:41
+Det er det jeg har skrevet ned her. Det er en ganske vigtig egenskab, at vi har denne her sammenhæng.
+
+7:50
+Det må man godt huske, når man bliver vækket midt om natten af en mand, forstyrrede ingeniør Dan Gosling.
+
+8:01
+Nu går vi faktisk frem, så det var ortogonale matricer.
+
+8:05
+Nu kommer vi til det næste emne, og det er sådan set hovede emner af forelæsningen i dag.
+
+8:12
+De er lige symmetriske matricer. Og æren symmetrisk matrix.
+
+8:20
+Jamen det der ser lige ud.
+
+8:24
+Hvis man tager den transponerede, så ser den ligesådan ud som før.
+
+8:31
+Det vil sige, at hvis vi kigger på sådan et eksempel, er der symmetrisk matrix,
+
+8:37
+der har farvekode alle de her tal og kan se, at strukturen ser nøjagtig lige sådan ud, hvor man har byttet en hård.
+
+8:48
+Når man har byttet en række væk, så og når en søjle svigter og så nænsomt en række vækster, så får jeg det samme her og her.
+
+8:58
+Og det gælder for alle rækker og søjler. På den anden måde at skrive det på er at sige, at i øjet er det samme, det er.
+
+9:07
+Der skulle stå. Hey Jude er lige a i et a i J.
+
+9:12
+Så det. Den definition man skal have.
+
+9:23
+Det er at er i.
+
+9:29
+Det er lige med af J. I. Og det gælder for alle.
+
+9:38
+I og J. Fra E til et.
+
+9:46
+Og det kan man godt se ved søer, men så så det her totalt.
+
+9:52
+Det svarer til, at et tog er med det samme, som A tog et.
+
+9:57
+Og det gælder for alle elementer. Så det er en symmetrisk Beatrix, og så kan jeg selvfølgelig sige so what?
+
+10:05
+Jamen, symmetriske matricer. De kommer til at dukke op i en stor og række fysiske modeller.
+
+10:14
+Vor tids skogemann seere. Skulle de analysere dem, så det let det vi skal lære om.
+
+10:25
+Og der findes også en vigtig sætning med hensyn til virginal i serien, og den siger,
+
+10:32
+at hvis vi har en symmetrisk matrix når reelt Matrix, så kan vi sige to ting af og med den matrix.
+
+10:43
+Det ene er, at den har regler. Den har kun reelle egenværdier og de eneste styks af dem, men så ser vi en beregner, alle har gentaget.
+
+10:55
+Det vil sige, vi inkluderer den hebraiske Multipla sitet, og det andet er at en symmetrisk matrix.
+
+11:04
+Den har altid en årsag normalt basis bestående af egne vektorer.
+
+11:10
+Det vektorrum vi opererer på. Det kan der kun findes én årsag normalt basis, så man bygger ud af de egenvægt til ord, man finder ud af.
+
+11:25
+Det er en lidt længere bevis, så det vil jeg gøre her i dag.
+
+11:29
+Men jeg stod for vi kigge på, hvad konsekvenserne er af symmetrien er sådan en matrix.
+
+11:42
+Så lad os sige vi allerede havde fundet en overtro normalt.
+
+11:50
+Vi startede med at sige, der er en ortogonale basis ud over normeret. Og den hedder ko, et til ko n og de kure de har givet ved egenvægt.
+
+12:00
+Otte af dem matrix A. Denne er også givet, og det der så gælder er, at man kan gange den Matrix Q på A på den her måde med den transponeret.
+
+12:14
+Og hvis vi gør det, jamen så får vi en diagonal basis.
+
+12:19
+Den diagonal matrix bestående af øjne værdierne er matrix A så igen.
+
+12:27
+En lille pointe er måske, at man ikke behøver at udregne.
+
+12:32
+Den indebærer også, at denne her masse bare transponeret. Jeg kan godt se, at det vil sige ganger det for højere med Q.
+
+12:42
+Og for at vende for dig.
+
+12:44
+Undskyld fra venstre med Q og for højre med Q i enhver akut transponeret, så svarer det til den her basis transformation I allerede har set.
+
+12:54
+Da vi diskuterede egenværdi problemer for matricer.
+
+13:02
+Så det store spørgsmål elefanten i rummet vil være Hvordan finder vi så den pokkers ortogonale Q, som giver Unal seere af?
+
+13:13
+Og det er det, vi gerne vil forstå. Så det er jo godt med at finde egenvægt 2'ere, men de skal også være ortogonale på den måde, så.
+
+13:29
+En ting er at udregne. Jeg regner med to runder af dannet og lavet en ortogonale.
+
+13:36
+Men når vi har fået den algoritme den gram spit af mig, der gør det.
+
+13:42
+Men vi vil jo gerne forstå lidt om, så de egenvægt sover, bliver ved med at være egenvægt tungere, for vi danner jo gøre noget ved de vektorer.
+
+13:50
+Og så ved jeg måske ikke umiddelbart klart, om vi bare kan regne ud, hvordan det skal gøres og så videre.
+
+14:01
+Og resten af forelæggelsen. Den foregår så på tavlen, og det vi skal gøre, er, at vi skal have nogle redskaber til at forstå, hvad der foregår.
+
+14:19
+Og det første redskab. Det har den lille hjælpe selv med.
+
+14:29
+Altså det er ikke fordi jeg ved om den lille eller store, hvis det er en stor hjælp besætning, så er der måske en sætning.
+
+14:43
+Så hvad siger den hjælpe besætning?
+
+14:51
+Den siger. Hvis vi har en symmetrisk matrix, som er engang af.
+
+15:04
+Og vi har vi har to egne rum, ét land, et som vi har bestemt.
+
+15:18
+Hvad to forskellige egenværdier. Jamen og der er tilhørerne egne reaktorer vil sidde ved et er i larm, da et v tog tilhører en ramme der tog.
+
+15:44
+Jamen så er der jo en konsekvens, og det er, at ved et er ortogonale tid ved to støttede den søgning sider,
+
+15:57
+så umiddelbart er det meget nyttigt redskab vi tænker over.
+
+16:01
+For det vil sige, hvis vi har bestemt alle egnede ture til den matrix A, så ved vi atter at Heinrichs under mellem to forskellige egne rum.
+
+16:13
+De er indbyrdes ortogonale. Så behøver vi kun at bekymre os over egenvægt, sårene inden for hvert egne rum og arbejd med det.
+
+16:26
+Jeg vil lige bevise, at det her faktisk er rigtigt og ikke en løgn.
+
+16:33
+Vi kan gøre det således, at vi siger Jamen, vi ved, at ved et er en egen vægt.
+
+16:43
+Det ved vi også om ved tog så de her og egenværdi ligning om at gælde.
+
+16:56
+Og hvis det gælder, så kan vi kigge på følgende regnestykke der hedder Lambda et skarð ved et transponeret Der er noget ved to.
+
+17:10
+Det er det, jeg vil se på det her.
+
+17:15
+Det er det samme som det her transponeret, og det vil sige det det samme som det her transponeret.
+
+17:21
+Så kan jeg skrive sådan her.
+
+17:29
+Trans positionen virker på de to faktorer, sådan at de transponeret, man også bytter rundt på de to faktorer ved at få sig.
+
+17:45
+Så det bliver dette her. Og glem at jeg har glemt at Trans Positions Train.
+
+17:56
+Og nu er vores matrix symmetrisk.
+
+18:01
+Det vil sige det samme som af. Så kan jeg skrive, at dette bliver ved et transponeret garneret med a blokkere med to.
+
+18:20
+Og. For så vidt kan jeg også komme af med den parantes.
+
+18:27
+Så kan jeg også kigge på det her produkt af gangen ved to.
+
+18:31
+Det er følge forudsætning det samme som lambda grand tog, og det bliver også.
+
+18:47
+Og det skal hedde Lambda to og lamt etager, så det bliver Lambda 2 til ganske vækstet forstår her larme der to er ved et transponeret blokke.
+
+19:00
+Ved 2. Jamen.
+
+19:08
+Hvad har vi så her? Vi har snakket ved et transponerede ganger ved to.
+
+19:14
+Det produkt kan vi forstå som produkt. Det kan vi se og bestå det samme efter forudsætning.
+
+19:23
+Så en lampe et forskelligt fra lambda to. Det vil jeg sige i den her ligning kan kun gælde, hvis skalar produktet ved et skakke ved to er lig med nul.
+
+19:37
+Og der har vi overtog banaliteter, som vi har påstået.
+
+19:51
+Så det er det, jeg skriver her ortogonale. Måske skal skrives med.
+
+20:05
+Ja, det er det jo underforstået, der tænker på det her som matrixmultiplikation, så jeg burde.
+
+20:15
+Skrive deres om hele vejen, hvis bror Taras position, og så kan du skrive.
+
+20:25
+Jeg ved ikke tager noter, så det er beviset.
+
+20:29
+Så det ser ganske rigtigt ud. Så hvad skal vi så gøre?
+
+20:37
+Skal vi skabe? Vi skal finde det her ortogonale Q, som kan diagonale seere se os af Matrix.
+
+20:47
+Så vi har allerede fået fat i nogle ting.
+
+20:53
+Men vi skal have fat i alle ting.
+
+21:36
+Så det første skridt er en klar. Det har vi allerede sagt Bassem al egenværdi og egenvægt tortilla.
+
+21:59
+Og det er en styks.
+
+22:07
+Og vækstet de inden egenværdi egne ord.
+
+22:13
+Jamen. De eksisterer.
+
+22:18
+Det var denne her sætning af en eller egne værdier,
+
+22:23
+og profane overtog normalt basis for af bestående af investorer byde meget abstrakt måde at se dem på.
+
+22:32
+Men det er også derfor, vi kigger med her på spørgsmål Hvordan får vi fat?
+
+22:37
+Men lader sig de eksistere? Ifølge vores hovedsætning.
+
+22:53
+Så skal vi have fat i Arjen Robben. Vi ved at enkelte.
+
+23:00
+Og egne rum. De indbyrdes ortogonale.
+
+23:08
+Er skriver bare sammen. Det ved vi ifølge vores hjælpe sætning, som blev billigere og beviste Ollerup.
+
+23:17
+Når jeg er spændt op af de her vektorer, og hvis de tilhører forskellige egne rum, så de ortogonale.
+
+23:34
+Og hvis vi har specielt, gælder hvis vi har øjne og investorer eller egne rum.
+
+23:49
+Hvor egne ord er en dimensionelle. Høje rum hegn vektorer.
+
+24:01
+Jamen så er de allerede ortogonale og hvor kan vi så bare holde der?
+
+24:08
+Så er vi færdige med de rum. Så kommer det spændende tilfældet her.
+
+24:20
+Hvis dimensionen af at egne rum Elam Co.
+
+24:29
+Er større eller lige tog, hvad gør vi så?
+
+24:34
+Ja, men nu kommer der. Gennemfører Graham Smith ortogonale seere.
+
+24:49
+Prøvede på at anlægge to under.
+
+24:59
+Tilhørerne i Lambda Co.
+
+25:08
+Så det er måske lige det vi skal tænke over.
+
+25:11
+Altså hvis vi gøre det, så danner vi nye linjer og kombinationer af de investorer, som spænder netop det og rum.
+
+25:22
+Det er nærmere kombinationer af sådanne vektorer. Det bliver ved med at være indenfor det egne rom, så de håber ikke ude af det,
+
+25:31
+og vi ved at leje en rum er et vektorrum eller et underrum, så den er god nok.
+
+25:39
+Og ligeledes forblive egenvægt ture i forskellige egne rum indbyrdes ortogonale,
+
+25:49
+og det forstyrrer vi ikke ved at kigge på bindinger og kombinationer af disse og en vektorer.
+
+25:57
+Så det virker. Kan vi køre successive igennem, uden at der går noget galt?
+
+26:03
+Og det sidste skridt er så, at vi danner over og skue matrix.
+
+26:10
+At. Sætter de her søjle til tungere end.
+
+26:20
+Og det er underforstået at de er ortogonale seere.
+
+26:33
+Ifølge. Ovenstående algoritme.
+
+26:50
+Og så har vi vores ortogonale Basses, som normannerne overtog normerede basis.
+
+26:57
+Det vil sige, at vores diagonale matrix stilles lige hvor Q transponeret gakket garnet med Q, og det ved V.
+
+27:12
+I følge vores hovedsætning, så det kom slet uden beviser.
+
+27:21
+Men man kan godt forestille sig, at det er kombinationer af egne vektorer, der indleder andet, end det er.
+
+27:33
+De må afbilde denne her matrix eller flytte den i et koordinatsystem, hvor vi får, og hvad de ender ud af det.
+
+27:56
+Ja, det var den algoritme. Det har jeg så.
+
+27:59
+Ingen eksempel tal, men jeg vil gerne afslutte med par eller en definition og et par kommentarer omkring de ortogonale matricer.
+
+28:15
+De har også den betydning, at de svarer til beregninger af koordinatsystem, og det vil jeg i hvert fald visualisere med et eksempel i platten.
+
+28:29
+De kan også udover at de gøre det ved en vægt, så de drejer dem med inden for koordinatsystemer.
+
+28:36
+Det kan også gøre det, at de sprøjter den hen over en bestemt retning, så det skal vi lige se på.
+
+28:48
+Ja, de kan gøre det herover. Så vi starter med en definition.
+
+29:19
+Og det har at gøre med, at der findes to forskellige slags ortogonale matricer, så vi ser på sådan en ortogonale matrix og.
+
+29:38
+Vi siger hvis Q har ja, så vi kan kigge på determinanten af Q på steder lige med 1.
+
+29:50
+Jamen så kalder vi det, at det er en positiv ortogonale matrix.
+
+30:07
+Og så er det andet tilfælde det er at det er minus et.
+
+30:16
+Og i det tilfælde kalder vi det selvfølgelig en negativ. Overtale Ronald Matrix.
+
+30:27
+Ja, nu siger jeg bare, at vi har to værdier, og faktisk er det virkelig sådan.
+
+30:31
+Det er de to muligheder, vi har, og det kan vi godt forstå, fordi vi ved, at vi ved det om ortogonale matricer.
+
+30:41
+De er at q transponerede ganget med Q. Det er lig med en, som end determinanten er det.
+
+30:56
+Altså folk der skal lave nyt skridt. Determinanten af cool transponeret garneret med coke.
+
+31:04
+Jamen det er intet andet end determinanten af cool transponeret garneret med determinanten af q.
+
+31:18
+Og. Dette.
+
+31:26
+Det er selvfølgelig ikke rigtigt. Der skal stå for her nu stemmerne, og det vil sige, at terminalen er det hele.
+
+31:34
+Det er bare en sti.
+
+31:39
+Determinanten med enheds matricen er en. Og determinanten med Jaco transponeret.
+
+31:51
+Det er bare determinanten af q jane.
+
+31:58
+Så hvis kvadrat determinanten af curley, så kan det kun være plus eller minus som her.
+
+32:08
+Så er der en tolkning. Det var ligesom om det var bevis for at det kunne være plus og minus siden.
+
+32:23
+De er de eneste muligheder, dog også en tolkning.
+
+32:32
+Hvad betyder det, at en matrix er positiv eller negativ ortogonale?
+
+32:37
+Ved det første tilfælde, så svarer Q til.
+
+33:06
+Omkring år ego. Det gør det over flere.
+
+33:19
+Men. For kommer så hans spejling bagefter fra.
+
+33:35
+Jamen, det kan man godt. Gøre plausibel.
+
+33:41
+Hvis vi nu siger vi ja drejede sig om at.
+
+33:49
+Vores specter ligger på vores standard koordinater squeeze spejle eksakt for eksempel ja.
+
+34:00
+Skrevet af Q A sammen, som uanset eller kunne kontrollere hvad.
+
+34:08
+Han skulle så være en af Friesen. Ja, det er selvfølgelig en ortogonale masse der rygtes.
+
+34:24
+Tak. En spejling af en matrix der spejler en vektor.
+
+34:33
+Ifølge basis koordinaterne her, så vi har i og J.
+
+34:40
+Det ville være en matrix der ser sådan ud.
+
+34:47
+Så hvis vi havde den almindelige ko, der kun laver en drejning og efterfølgerne med sådan noget her,
+
+34:54
+jamen så har vi også fået varen til Milan lige med minusser i.
+
+35:07
+Vigtige etiske og også.
+
+35:15
+For ortogonale matricer. Det er det egentlig at sætte.
+
+35:32
+Det tror jeg ikke er pensum. Vores forelæsning, men det er måske godt at vide, at hvis vi tager den væk, så vil.
+
+35:47
+Og vi gartnere ved vi bliver gladere kunne virke sådan.
+
+35:54
+Så drejer dem der bestemte dragning. Jamen, så må længden af den altså også være det samme som den oprindelige vælter.
+
+36:09
+Det gælder det også noget man kalder for en ISO metrisk afbildning.
+
+36:25
+Så kommer vi til eksempler. For at illustrere de her videnskaber.
+
+36:33
+Ja. Dobbeltspor. Det er normen.
+
+36:40
+Det skriver jo ikke sådan i forelæsning Snowdon. Længden ja, det er rigtigt.
+
+36:45
+Okay, det er. De fordi de fleste folk griber en dråbe sprit for vektorer, er det lidt anderledes i vores E-nummer beklager.
+
+37:13
+Så hvad er det? Eksempel Det er vores yndlings eksempel, som jeg har set mange gange.
+
+37:30
+Og hvordan var det nu det var vi havde x og y aksen her.
+
+37:38
+Og. Din bliver kan introducere en standard Basses, hvis vi vel kun fordi vi behøver at gøre det.
+
+37:49
+Hvis du så en vægt, så ved her, så får vi for eksempel en.
+
+37:58
+Ja, så kunne du være en ny rektor her for bajere med indvendig flid, og det jeg så, da du ejede, veksler med hver enkelt film.
+
+38:14
+Og da vi fandt frem til et tidligere forelæsninger, det var vi.
+
+38:22
+Vi kan skrive denne her praje med tricks som selfie associerer sinus er fin og cosinus er fi og sinus og fed minussiden og selfie.
+
+38:37
+Det er vores bøje matrix, og vi kan udregne determinanten for det.
+
+38:45
+Er cosinus i anden. Minus.
+
+38:57
+Og det er. Men hvem kan få gode inklusive nu, siger han.
+
+39:05
+Det bliver lige med ét, så vi kan sige, at den her eksistens er positiv.
+
+39:14
+Ortogonale. Og vi kan også overbevise os at Steen ortogonale matrix så må de to søjler væk være i indbyrdes ortogonale.
+
+39:47
+Glem det cosinus Jane. Minus sinus i anden.
+
+39:57
+Det er selvfølgelig noget der skræmmer.
+
+40:03
+Det er ikke helt rigtigt, fordi der skal stå noget jeg nu her skal selvfølgelig stå, sinus er fed og cosinus er fin.
+
+40:16
+Og så får vi noget ud af det.
+
+40:20
+Så får vi dem i cosinus. Skakke, sinus fi minus sinus fi, gokke, cos news 10 0.
+
+40:33
+Således skal vi udregne, at længden af den ekstra cosinus er en plus sinus hjernen og det at få sagt CLI med E.
+
+40:43
+Og det kan vi også gøre ved den anden vektor. Den har også længde, så det er en positiv ortogonale masse.
+
+40:57
+Så kommer vi til Mabel Stimmung består når spørgsmål må gerne spørge nu.
+
+41:05
+Ja, så den. Ja, okay, det var måske lidt dumt at skrive det.
+
+41:15
+Det er sandt, men jeg vil ikke bruge det som en definition. Ja, det er fordi jeg skrev det med Colima que transponerede i begyndelsen.
+
+41:41
+Fælles for. Historien er godt.
+
+41:53
+Det er rigtigt. Det er en konsekvens af den katsikas af genialitet, hvor er at kunne transponeret og lege med den dets inverse af det givne Masako.
+
+42:08
+Da. Det var det her.
+
+42:27
+Der. Cut.
+
+42:33
+Det er vist stort nok. Så har vi tre eksempler her.
+
+42:42
+5 og så det der blev kirker på.
+
+42:48
+Her er. Om det er den forkerte mad for kokke og regn, et sekund der fik den forkerte dame under.
+
+43:02
+Den version. Der.
+
+43:14
+Dér, så er det. Først damerne.
+
+43:22
+Så passer det også med tre eksempler. Større og så.
+
+43:31
+Og så vi kunne godt regne skiller og eller brede prikproduktet ud ved at bruge matrix algebra.
+
+43:39
+Det vi har gjort her er, at vi så level har defineret en procedure, der hedder prik og rent og hedder kryds for krydsproduktet.
+
+43:51
+Og ja, findes allerede i maj, og man har så skrevet her en afkortet form,
+
+43:56
+så man ikke skal skrive så meget, og så jeres med vaccines bliver ved med at være overskuelig.
+
+44:07
+Og så det først handler om over til normale baser, til vi har fået tre vektorer der ligger i er fire,
+
+44:17
+og vi skal se og udregne deres længder og vinkler med hensyn til hinanden, så prikproduktet af U, S og U tog det bare skal.
+
+44:32
+Paradokset sidder to her. Så hvis vi tager Kvadrat af.
+
+44:40
+Det er der vist en fejl her. Der skal stå to af længden af u tog, det er kvadratroden af prikproduktet, og det bliver så noget andet her.
+
+44:56
+Og ja, man gennemgår bare de forskellige begreber, vi har set på.
+
+45:02
+I første time, så har vi vinklen mellem USA og U2.
+
+45:06
+Det var glæde ved denne her form, som indebærer skalaer.
+
+45:10
+Produktet og højresiden kan udregnes ved hjælp af vores bryg, produkt og længden af de to vektorer.
+
+45:23
+Det jeg så gjort rigtigt, og så får man det her tal for cosinus, og det vil sige vinklerne og arcus cosinus af det her tal.
+
+45:33
+Findes også nogle procedurer, der gør det hele selv. Hvad angår to kommer ud såvel som den anden vinkel, er Pi tredje del.
+
+45:46
+Så er der det den påstand her, at vi skal finde nogen som normalt basis står,
+
+45:58
+spænder rummet ud, som er givet eller udspændt ved uheld ud to og tre, så vi kan.
+
+46:08
+Prøv at bestemme hvor stort det underrum egentlig er at sætte de tre vektorer sammen.
+
+46:13
+Så får vi den her. Matrix vil bestemme og rammen er den matrix den 3.
+
+46:19
+Og det betyder, at de tre vektorer faktisk lineært uafhængige.
+
+46:24
+Det var en af de betingelser vi startede gram smidt over.
+
+46:28
+Begynder lanceringen noget, så det næste kommer vi til at danne vores normale basis.
+
+46:34
+Vi starter med første vektor u et den normale ved C og vi ved at dividere med længden, så får vi den her vektor,
+
+46:43
+og så går vi videre med u tog, og vi trækker projektion af CO2, hvorved et fra langsmed ved et.
+
+46:51
+Så får vi w to og den normaliserer vi.
+
+46:55
+Så går vi videre til næste. Dette startede ved sonderede skridt.
+
+47:01
+Uge tre bliver projiceret på både ved et lays med V, S og V 2 langs med v to, de tre.
+
+47:09
+De to komponenter trækker vi fra uge tre. Så får vi en ortogonale vægt, så W 3 som normaliseres, skal man også.
+
+47:19
+Desuden simulerede hop og røgning, som vi kalder det. Det gav mig med et sænket kommando bedre gram smidt.
+
+47:28
+Og der får vi så det samme da han er væk, så det er den sidste søjle værktøj her.
+
+47:38
+Så følger et eksempel I er tre borde, to tre rektorer.
+
+47:43
+Så påstanden er, at ved et valg tog jeg allerede ortogonale.
+
+47:48
+Og vi skal finde en væg, så den tredje væk, som står ortogonale på begge to, og det kan vi gøre ved at bruge krydsproduktet ved et veto.
+
+47:58
+Jamen, det står per definition også banalt på ved et veto.
+
+48:04
+De er jo nye, men skal så bare. Hvis man skal have en overtog normalt basis, så skal man huske at alle tre vektorer er normeret størrelsen.
+
+48:13
+Typiske fejl. Man glemmer en eksamen og gør det.
+
+48:16
+Og den dumme måde at tage point på, for det er jo ikke svagere. Eller det typisk ikke svært at udregne.
+
+48:24
+Så husk det. Ja, så bliver sagen ortogonale.
+
+48:30
+Basis Er det fæle? Påstanden her?
+
+48:33
+Det kan man så tjekke, og det gør man ved at udregne transponerede af den her matrix dannet af de tre vektorer ganger med V,
+
+48:45
+så hul for enheds matricen, og det er sandt igen.
+
+48:51
+For mig på et fantastisk commander, der kan gøre det samme.
+
+48:55
+S 8 foregår nu, og så får man også svaret. Jeg synes, det er lidt sjovere at gøre det andet.
+
+49:00
+Så kan man huske, hvorfor det var som og tænkte lidt over det, hvis man ikke kan huske.
+
+49:08
+Så kan du tjekke om det er positiv eller negativ ortogonale. Det har de så også udregnet.
+
+49:12
+Så får man et 12 tal her. Så det var første del, når anden handler om en symmetrisk matrix.
+
+49:22
+Det er det evige, har stået og snakket om Matrix A, og vi kan se, den er ganske vist symmetrisk,
+
+49:29
+og så hvis vi ser det, burde vi være meget glade, fordi vi ikke skal regne helt så meget for, at de gerne ser den.
+
+49:40
+Ja, selvfølgelig skal vi have fat i alle egne vektorer og egne rum og så videre.
+
+49:45
+Det gør vi så udregner egenvægt under to for en egen rigtige, der hedder ti og en enkelt for en egenværdi, der hedder 1.
+
+49:55
+Så hiver vi de tre væk sure ud. Dem kalder vi U1, U2, U3.
+
+50:00
+Så er det gamle sæt af vektorer. Vi ved, at de er lineært uafhængige.
+
+50:07
+De tilhører to forskellige egne rum, og det ene øje rummer geometriske multiplicere to, og da et så vi, når man lige ser den første varme.
+
+50:19
+Så får vi ved et vil producere den anden på ved et langs med, ved efter trækker der fra uge to og normaliseres,
+
+50:28
+for vi ved to og vil gøre det tilsvarende for V W for at få ved tre.
+
+50:35
+Så kan vi dannede vores kube matrix ved at sætte de tre vektorer ind, og det viser sig så, at den positive ortogonale matrix så den enkel vor egne.
+
+50:49
+Og påstanden er jo hvad det vil sige diagonal I er vores matrix med den her kupmager, så vi får en diagonal matrix med 10 10 og i et par diagonalen,
+
+51:01
+og der kan vi se, at det faktisk er rigtigt ved at udregne det produkt, vi nu kan med Q og A, og vi får det samme.
+
+51:12
+Så hvad er det? Det er sådan, det virker, og det tror jeg vil holde her.
+
+51:17
+Og ekstra spørgsmål, så tager jeg selvfølgelig gerne imod. Tak for i dag.

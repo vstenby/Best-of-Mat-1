@@ -1,0 +1,1073 @@
+0:02
+Jeg er gomorgen på store dag, der havde vi den store fortælling omkring dagsordenen elimination,
+
+0:10
+og jeg håber I har fundet ud af det dér med at række operationer,
+
+0:13
+da det jo være omhyggelige og sørge for, at man får minus og plus alt det, der er på plads.
+
+0:19
+I dag fortsætter vi sådan set med det. Men altså, det er mere sådan, at der er en hel masse småting, vi skal have fundet ud af.
+
+0:26
+Altså, vi starter lige med at fortsætte dér, hvor vi slap sidst.
+
+0:31
+Og så skal vi kigge på matrix ligninger. Der er noget, der hedder transponerede matrix.
+
+0:36
+Derefter så handler resten af programmet om de særlige matricer, der hedder kvadratiske matricer.
+
+0:43
+Og da dukker der sørme også et par nye matricer op, som I skal kende, nemlig enheds matricen og den inverse matrix.
+
+0:52
+Men vi starter lige med farten og antal løsninger selv.
+
+0:58
+Lad os nu sige, at jeg har været ude for et linna og cleaning system.
+
+1:05
+Og jeg har lavet Gauss Jordan elimination lige så meget som jeg overhovedet kan.
+
+1:12
+Og så er jeg nået frem til denne her. Denne er fuldstændig reduceret, og jeg er klar til at fortolke, hvad denne her betyder.
+
+1:22
+Og så går jeg i gang med, at skal vi sige, at vi prøver at kigge på gangen af koefficient matricen?
+
+1:33
+Se jeg skal jeg skal nå. At se bort fra højresiden er jo ikke og så tælle antallet af leddene et tal, og den kan jeg jo så se, den er tre.
+
+1:45
+Og bagefter så kigger jeg på randen af total matricen, og så har vi jo en, to, tre og fire.
+
+1:53
+Det vil jeg sige randene a Den er mindre end randen af total matricen, som er fire.
+
+2:04
+Og så har vi altså et problem, og det var derfor, jeg hele tiden sidste gang skrev det, der er brug af.
+
+2:11
+A skulle være lige mig ro. Her der altså om hvorfor?
+
+2:15
+Hvad er problemet? Problemet er, når jeg tæller her, at der står et et tal der som.
+
+2:23
+Så har vi det problem, at der står nogle gange exit plus nul gange x2.
+
+2:30
+Plus nul gange X3. Det giver nul, og det skal være lige med.
+
+2:34
+1. Så vil sige den her. Den dækker over en inkonsistent ligning.
+
+2:39
+Den kan ikke løses, og derfor har vi altså det her problem hver gang.
+
+2:45
+Ro a. Den er mindre end ro og tid, så er der ingen løsning.
+
+2:50
+Den der er en inkonsistent ligning, så vi kan altså her skrive.
+
+2:54
+Ingen løsning. Lad os kigge på en anden trappe Matrix selv at sige den ser sådan her ud.
+
+3:11
+1 0 0 0 0, 1 0 0, 0 0, 1 0 og så står der 1 2, 5 0.
+
+3:30
+Og her der kigger jeg igennem på mange af kommercielle matricen tre ledende etager.
+
+3:41
+Den er tre, kikker på vrangen og total matricen også tre.
+
+3:53
+Så skal vi jo lige tænke over, hvor mange løsninger det så giver. Og der har vi jo så tydeligt her, at der er tre ubekendte i dette system.
+
+4:04
+Altså endelig med tre lig med antal ubekendte.
+
+4:12
+Og det vil så sige at antal frie parametre. Jamen det er jo så antal ubekendte antal ubekendte miner.
+
+4:29
+Det giver nul. Og så vil det sige, at netop en løsning.
+
+4:43
+Og den løsning den er så selvfølgelig her at exit den er en X2 nr.
+
+4:48
+2 og X3. Nu skriver jeg den bare her.
+
+4:51
+1 komma to komma fem. Og så tager vi lige et sidste eksempel.
+
+5:08
+Nu har vi 1 0, 0 0 0 1, 0 0, og så kunne det være, der står 1 2.
+
+5:21
+Hvad sige der står det der? Og her kan igen se, at der gælder både for kommercielt matricen og totalt matricen.
+
+5:31
+At de har ramt U2. Og så er antal frie parametre.
+
+5:49
+Den er så igen antal ubekendte minusgrader.
+
+5:54
+Det vil sige, at der skal være en fri parameter, og vi kan lige se, når vi nu gerne vil opskrive løsningen smatten.
+
+6:10
+Jamen, så skriver vi lige de reducerede meninger op, og der står jeg her.
+
+6:15
+At Ex et +0 Index 2 Plus Index 3 er lig med 1.
+
+6:25
+Og så her i anden ligning. Der står da x2. Plus to x tre er lig med to.
+
+6:40
+Og så er det jo lige at vi isolerer den første ubekendte.
+
+6:44
+Det vil sige der står ikke er lig med 1 minus X3.
+
+6:50
+For her har vi at X2 denne er to minus to X3.
+
+6:59
+Og det vil sige at vi har fundet at den frie parameter ender sådan som jeg har skrevet op der,
+
+7:06
+har jeg valgt X3 som fri parameter, og den giver jeg så et nyt navn.
+
+7:11
+Den kan vi. Så kan vi så kalde for 10.
+
+7:16
+Og så kan vi opskrive løsningen på standard parameter fra form 6, et X2, X3 og hvor vi først skal skrive de rene tal 1, 2 og 0.
+
+7:36
+Og så +10, og så skal vi have her en søjle her, hvor dér skal der stå et ettal, for så står der bare X3 er lig med T.
+
+7:51
+Og så får vi her minus 1 og minus to.
+
+8:00
+Og så har vi altså her fået opstillet løsningen på standard parameter form, så der så en enkelt uendelighed af løsninger.
+
+8:11
+Så det var lige altså en kort præsentation af det der med Raven og lignende systemer og det her, det eksemplificerer også en ting.
+
+8:20
+Det er altid sådan med et lineære pointsystem, at enten har den nul løsninger, eller også har den en løsning.
+
+8:31
+Eller også har den uendelig mange løsninger. Så spørgsmålet hvor stor en om det er en dobbelt uendelighed, eller hvad det er.
+
+8:38
+Men det er der tre muligheder I har. I har aldrig et lignende system, som har netop ti løsninger, f.eks.
+
+8:45
+Enten 0 eller 1 eller uendeligt mange.
+
+8:57
+Forgænger Matrix ligninger. For vi starter hermed et eksempel.
+
+9:11
+Hvis vi har givet en matrix A. Den kunne hedde 1 mile nu seen.
+
+9:18
+Minus to og tre. Og så har vi givet en Vectra B.
+
+9:28
+Som kunne være tre over minus fire, og så lyder opgaven løs.
+
+9:38
+A. Eks. Er lige med B.
+
+9:52
+Det er det vi går i gang med nu. Prøv at se hvad er det, der er ubekendt her?
+
+9:59
+Det eksisterer er skrevet med Lille, så vi må gå ud fra, at det er en ukendt meg, så vi skal have fundet.
+
+10:08
+Den ukendte er en vektor. Og skal vi lige se, hvordan mon den ser ud?
+
+10:16
+Det betyder jo et matrix vektor. Produkt A skal ganges med X, og så skal den give B.
+
+10:24
+Og kan I huske? Det var jo noget med, når vi skal lave mad til svigter produkt, så er det et prik produkt.
+
+10:29
+Den skal ganges med den, og den skal ganges med den.
+
+10:34
+Og så får vi den her Henning. Vi må altså sige, at vi må gå ud fra, at det vi skal finde.
+
+10:47
+Det må så være en vægtere, som har to koordinater lige præcis for eller skal vi ikke lave de der prikproduktet?
+
+10:56
+Nok, så lad os lige prøve at se, hvad står der så? Så har vi altså den, der skal graves ud.
+
+11:02
+Det 1 minus 1 minus 2 3, da der skal prædikes med den ukendte vektor.
+
+11:12
+Jeg ikke set x2. Og det har jeg altså forstået det.
+
+11:18
+Jeg går også med, at når vi skal lave mad selv stifter produkt, så er det et produkt, der skal ganges med dem plus den gange med den.
+
+11:27
+Det er meget vigtigt, at de har fat i det. Så har vi altså ikke et minus X2 i forvejen.
+
+11:34
+Og så skal vi til at prikproduktet, at den vane har det her igen med den lodrette.
+
+11:40
+Og så har vi altså minus to x et plus tre X2, og det er åbenbart det, som vi skal have helt ud af skal være lige med vektoren B.
+
+12:04
+Prøv lige at se hvad vi er nået frem til her. Set dér har I en ligning med to ubekendte.
+
+12:11
+Og dér har en anden mening med to ubekendte. Så det vil jeg sige.
+
+12:16
+Det er jo faktisk bare et lineær kleinen system som dem vi løste på store dag.
+
+12:22
+Så I kan altså se en matrix ligning er ækvivalent med et line lignende system.
+
+12:41
+Så det betyder så at den metode vi skal bruge, det er at så den som vi introducerede sidste gang med,
+
+12:50
+at vi skal have opskrevet total matricen ud af det her.
+
+12:56
+Men det kan vi også bare gøre direkte herfra, for det har vi allerede.
+
+13:00
+Kunne vi selv matricen, så den er en mere nu seen.
+
+13:06
+Og så får vi tre minus tre. Som den.
+
+13:15
+Det skal vi lige se om vi kan huske hvordan de gør.
+
+13:21
+Vi siger er to plus to før et.
+
+13:27
+Og så har vi en mere nu scenen. Tre fanger med to lægger til.
+
+13:32
+Den giver nul gange med to. Det gav minus to og lægger til.
+
+13:36
+Den er en ganger med to. Den giver os sex, og så får vi altså to her.
+
+13:45
+Og så siger vi Nu er et plus er to.
+
+13:56
+Og så får vi jo her en. Og derfor har vi nul.
+
+14:01
+Og så får vi fem, og så har vi i forvejen 0, 1 og 2, og dermed har vi toppet matricen.
+
+14:16
+Og vi kan se drengen. Er 2. Det er det samme som manden selv er ubekendt, da netop en løsning, og den hedder sig selv.
+
+14:26
+Nu kan vi skrive den flot husker. Hvad var det egentlig, vi skulle finde?
+
+14:30
+Det var sådan en ubekendt vektor, så den bør skrives sådan her fem år over to.
+
+14:50
+Se nu går vi videre. Nyt eksempel Se vi har givet matricen af.
+
+15:01
+Og den hedder 1 min. Odysseen minus to og denne hedder 3.
+
+15:10
+Og så har vi en matrix B, som hedder 3 minus 4 og 1 og nul og så videre.
+
+15:20
+Opgaven løses af store ex limede bl.
+
+15:43
+Så i det første eksempel Jeg vidste der var den ubekendte.
+
+15:48
+Det var en vætter. Nu er det en ubekendt, en matrix.
+
+15:55
+For hvad? Hvordan mon den vil se ud? Altså vi skal finde en en matrix ex.
+
+16:10
+Og se hvilken størrelse man har antaget.
+
+16:14
+Strejker i X skal være det samme som nej, undskyld.
+
+16:19
+Antal ansatte rækker ikke. Skal man det samme som søjler her og dets antal søjler, skal vi lege med rækker her.
+
+16:27
+Så det må bare blive en 2+2 matrix, så det er den første jeg lige erkender her.
+
+16:32
+X1, X2, X3, X4 kunne vi kalde den, så det er sådan en, vi er på jagt efter.
+
+16:44
+Og se, nu er der en meget fin pointe her.
+
+16:48
+For det er jo se i Hamzoz. Jeg tror, de allesammen har lagt mærke til.
+
+16:53
+Jeg må have, det var det samme som hele BDR hende, for jeg siger Det hele er jo total matrix.
+
+17:02
+Men nu er der bare en anden væg, der hedder inde over nul. Så nu har vi altså to højere sider, så det vil sige den matrix ligning, vi vil lave nu.
+
+17:13
+Denne er ækvivalent med to systemer, der har samme kommercielle matrix.
+
+17:19
+Og vi løser dem begge to på én gang.
+
+17:25
+Som vi skriver lige her ækvivalent med to systemer og lignende systemer, selvfølgelig med samme koefficient matrix.
+
+17:50
+Som jo altså er af matricen her. Okay, så løser vi dem begge to på én gang.
+
+17:57
+To fluer med ét smæk. Og det vil jeg sige.
+
+18:04
+Vi har en total matrix, der hedder 1, minus 1, minus to, tre osv.
+
+18:11
+Ligesom før, så var der altså 3 minus fire. Og nu kommer der så en højere siden med her.
+
+18:20
+For vi løser det som vi plejer og det bliver så igen er to plus to er et.
+
+18:30
+Vi har en 5 minus 1, 3 og 1.
+
+18:35
+Og så får vi nul. Vi får ind, og vi får 2 ligesom før, og så får vi to her, fordi vi ganger den der med to og lægger til.
+
+18:45
+Her er det ikke sådan, vi sagde før. Jo.
+
+18:54
+Så er det godt, og så tager vi den og lægger til fra oven.
+
+19:01
+Det vil sige er et plus er to.
+
+19:06
+Og så får vi skal lægge til det, og så får vi en 0 skal lægge til det, og så får vi fem skal lægge til det, og så får vi tre.
+
+19:20
+Og så har vi altså nålen ind, og så har vi to, og så har vi to.
+
+19:30
+Og vi kan ikke komme videre med. Der er også eliminationen og den ubekendte vektor.
+
+19:38
+Vi har fundet nu. Den består af de to samme tal, som vi havde det år.
+
+19:44
+Den løsning vi fandt, er 5 over 2. Men så har vi altså løsningen på det andet lineære og lignende system, som er 3 år 2 og samlet.
+
+19:53
+Så har vi altså nu fundet den ukendte matrix, som er 5.
+
+19:59
+2. 3. Og 2. Og så er den ged barberet.
+
+20:23
+Se, nu snupper vi lige et par teori test af lidt teori skal vi sige det?
+
+20:39
+Suk, det her. Det tror jeg at der var øvelser sidste gang, hvor I så det her, som der gælder for Matrix produkter.
+
+20:56
+Og det er altså noget, hvor vi kan sige, at det her passer i almindelighed. Så gælder det så ikke, at vi citerer A og gange med B.
+
+21:05
+At så er det det samme som begge gange med A. Sådan er det jo reelle tal og det dér.
+
+21:11
+Vi plejer at sige, at faktorernes orden er ligegyldig. Det gælder ikke, når det matrix produkter i ganget med hinanden.
+
+21:19
+I kan komme ud for, at det er et forskelligt resultat. Så det skal lægge mærke til nu.
+
+21:25
+Her er, at nu er vi nødt til at skelne mellem, at vi ganger fra Venstre med en matrix, og at vi ganger for højere med en matrix.
+
+21:37
+For hvis I kigger på matricen B her. Den står på begge sider.
+
+21:41
+Her har vi garnet B fra venstre med.
+
+21:46
+Og her har vi ganget B fra højere mod F.
+
+21:51
+Og de er altså i almindelighed forskellige, og det er forvirrende.
+
+21:57
+Og altså det med, at det er det, vi skal bruge det altså. Man må gerne gange med den samme matrix på begge sider af lighedstegnet fra Venstre.
+
+22:09
+Eller I må gerne gange med den samme matrix på begge sider af lighedstegnet fra højre, men ikke blande de to ting sammen.
+
+22:21
+Godt. Se News.
+
+22:26
+Jeg skal lige lære hvad en transponerede matrix er for at se.
+
+22:33
+Se vi kan skrive her i den transponerede matrix.
+
+22:51
+Som har symbolet A for sammen med sådan et te som eksponent.
+
+23:01
+Der er rækkerne i A blevet til søjler.
+
+23:18
+Som. Det vil altså sige at I kigger på en Matrix A tager den første række i A, stiller den op som første søjle i A transponeret.
+
+23:34
+Den anden række i A bliver til den anden søjle i den transponerede matrix og så videre, som man hilser den så at sige.
+
+23:44
+Det er det, vi forstår ved en transponeret matrix, og da det altså lidt sjovt vil sige kigger på.
+
+23:52
+Hvis vi kigger på den dér sætning igen. Ikke fordi der er en sætning omkring transponerede matrix, der lyder sådan her.
+
+24:07
+Sagt, at hvis I har et produkt, som skal transformeres, så kan jeg i stedet for at transponeret matricer med hver for sig også at by faktorerne om.
+
+24:26
+Dette vil være lig med b transponerede gange med a transponeret, så det er altså en sætning for transponerede matricer,
+
+24:42
+og den skal vi lige se et eksempel på nu hvor vi igen skal løse en matrix ligning.
+
+24:53
+Hvis vi kigger på et nyt eksempel. Den hedder løs denne her ligning.
+
+25:05
+I har en ven, er I har her en landrace med så?
+
+25:11
+Den er gange på en matrix. 1 2, 3 4, 5, 6 og højresiden denne hedder 1 5 og den hedder 9 6.
+
+25:39
+Så det her er altså det her. Hvad betyder den det betyder?
+
+25:43
+Hvis I tager de to dér laver prikproduktet med den der, så skal det give en prikproduktet af den mad,
+
+25:52
+der skal give fair prikproduktet, middagen og den, der skal give indeni.
+
+25:57
+Så I kunne godt gå frem på den måde og få skrevet nogle ligninger op og få løst den.
+
+26:03
+Men nu synes jeg, vi skal bruge denne her, fordi det er det, der er.
+
+26:06
+Det mærkelige er, at vi plejer gerne at have den ubekendte til højere for vægteren.
+
+26:14
+De første to eksempler. Ikke sandt? Her den ubekendte.
+
+26:19
+Den må tage højere. Og ligesådan med det første eksempel, vi lavede her.
+
+26:25
+Der står den ubekendte til venstre. Men hvis vi nu tror jeg, som benytter det her resultat for transponering på begge sider at se.
+
+26:39
+Se vi transponeret på begge sider af lighedstegnet.
+
+26:52
+Og så ved vi altså fra sætningen her vi skal transponeret den, og vi skal transponeret denne her.
+
+26:58
+Men de skal bytte rækkefølge. Så kan I se.
+
+27:02
+Hvis de er transponeret denne her, så skal den første række, den skal blive til den første søjle.
+
+27:09
+Sådan transformerer man, så den kommer altså til at hedde en, to og tre.
+
+27:18
+Og så skal vi tage den anden vej, ikke den bliver til den anden søjle.
+
+27:23
+Fire, fem og seks. Og den er denne nem og transponeret der er bare en række.
+
+27:35
+Den bliver nu til en søjle i stedet for x1 x2.
+
+27:44
+Vi skulle jo passere transponerede jo på begge sider af lighedstegnet, det vil sige nu får vi altså lodret 1.
+
+27:52
+5 og 9. Så det her, det er mere i overensstemmelse med det vi lavede, er sig i.
+
+28:05
+Altså i mandags, fordi nu kan vi jo bare stille totalt matricen op, og så er det business as usual, for jeg skriver altså her totalt matricen.
+
+28:18
+Den er så en, to, tre, fire, fem, seks på en, fem og ni.
+
+28:33
+Og så skal vi lave, så skal vi lave gaucho den elimination, og vi har ikke tid til at lave alle de række operationer.
+
+28:44
+Jeg tillader mig at gå direkte til top ti, som jeg har lavet hjemmefra, og den ser sådan her ud.
+
+29:01
+Igen har vi et eksempel, hvor der kun er én løsning. Vi kan se hvad der gælder, så at X1 er lig med 5 for DK 2 er lig med minus 1.
+
+29:18
+Men igen bør vi jo nok lige se på hvad var det for en ubekendt vi skulle finde?
+
+29:24
+Det var jo en vandvej væk, så der var den ubekendte det i det oprindelige line system.
+
+29:30
+Så når vi skal skrives meget ordentligt til sidst, så er det jo sådan, at den vanrøgt vektor x 1 x 2 den så er 5 og minus 1.
+
+29:45
+Så dér har vi det korrekte svar. Så er vi i gang med det næste emne i dag, og det er kvadratiske matricer.
+
+30:19
+Og hvad mener vi med det? Det er de matricer, hvor de har samme antal og søjler og rækker selvfølgelig ikke.
+
+30:34
+Så vil jeg sige det er det det hedder. Er en kryds en. Og de er som af en vigtig undergruppe af matricer, som I vil se fremover.
+
+30:48
+Det er vi tit brug for tit. Så ender man op med en kvadratisk matrix, men vi skal også huske de andre.
+
+30:54
+Men dem tager vi lige ferie fra lige et øjeblik og kigger på de kvadratiske.
+
+31:01
+Og det første, som jeg kommer til at tænke på, at vi lige studerer jord matrix matrix produkter.
+
+31:07
+Altså hvordan man ganger med hinanden, og så lad os lige prøve at kigge på almindelige reelle tal og.
+
+31:17
+Hvis jeg har et almindelig reelle tal a set, gælder der at vi citar A og ganger med en faktorernes orden er ligegyldig.
+
+31:33
+Så det er det samme som en ganget med A, og det er lig med A.
+
+31:41
+Vi snakker lidt om det i forbindelse med komplekse tal. Tallet ét er neutralt med hensyn til multiplikation.
+
+31:47
+Hvis vi ganger med ét, så kommer de tilbage til det tal, I startede med.
+
+31:54
+Det her giver mig anledning til at stille følgende spørgsmål, og det er sådan her findes der en matrix.
+
+32:15
+Skal vi kalde den for en. Altså en kvadratisk matrix en.
+
+32:30
+Således at hvis I tager en vilkårlig matrix A og ganger den med E, ja så er det lig med en ganget med A.
+
+32:43
+Her gælder den kommutativ lov åbenbart, at faktorernes orden er ligegyldigt, og hvis I gør det dér, så kommer I tilbage til den oprindelige.
+
+32:53
+Altså kan vi lave denne her parallel i inden for matricer.
+
+33:04
+Så det er et spørgsmål vi stiller. Og jeg svarer den nu med, at jeg kigger på de her tre kryds, tre som et eksempel og lige kunne se.
+
+33:19
+Jeg tror, I vil give mig ret i. Når jeg kigger på det eksempel, så er det intuitivt kora korrekt.
+
+33:25
+Så må det gælde for alle inden krydsene. Så nu tager jeg en vilkårlig tre kryds, tre matrix og vilkårlig.
+
+33:33
+Det vil betyde, at vi ved ikke, hvor tallene er. Det kunne være a, b, c, d, e, f, g, h i selv.
+
+33:47
+Den vil jeg gerne gange med en matrix, således at jeg kommer tilbage igen til den samme.
+
+34:01
+Og det vi nu skal snakke om er hvad skal der så stå i den matrix?
+
+34:07
+Vi ved det. Det er jo et matematisk produkt.
+
+34:10
+Det vil sige, at vi skal lave en række prick produkter, altså den række, der skal ganges med den søjle der.
+
+34:22
+Og så kommer der en søjle mere her. Der er så de ni tal, vi skal have fundet.
+
+34:30
+Hvordan de skal se ud og sådan. Hvordan er det nu, vi ganger en tre kryds?
+
+34:35
+Tre matrix med en tre kryds, tre matrix se, prik den med den ske får den prik den med den, så skal I den prik den med den, så skal i den og så videre.
+
+34:52
+Den med den osv. Så vi starter nu den, der skal brækkes med den.
+
+35:00
+Og så skal det give A. Så for at få nogle tal skal der stå dér.
+
+35:06
+Der er faktisk kun én. Eneste mulighed er, at der står en nul og nul.
+
+35:13
+For så står der nemlig en lounge med A Plus nogle gange med.
+
+35:17
+Den er sådan nogle gange med B og nogle gange med C, og så har vi fået det a.
+
+35:21
+Den eneste måde, vi kan gøre det på. Så kigger vi på jer, så så kigger vi på det nogle gange med den der.
+
+35:35
+Det skal så give B. Og nu er det den dér, vi gerne vil beholde og slå de andre to ihjel.
+
+35:42
+Så der er også kun en mulighed her. 0, 1 og 0.
+
+35:49
+Brænder. Når jeg prikker den med den, så skal det give se.
+
+35:54
+Nu er det de første to, jeg skal slå ihjel for at få den tredje til at overleve.
+
+36:05
+Så alene på at lave de første tre prikproduktet her, så skal det være der.
+
+36:11
+Men hvad så med de næste? For hvis jeg tager den dér med den, der skal give den det passer den gange med.
+
+36:21
+Det skal give en. Det passer også den ganget med, der skal give.
+
+36:25
+Det passer også. Det er en ganger med den, der kommer herhen.
+
+36:28
+Den giver det den med. Den giver H. Og den med den giver I, så har I den.
+
+36:36
+Dette er det enedes matricen. Den spiller samme rolle som et tallet gør i de reelle tal.
+
+36:55
+Så lad os lige prøve at gøre det den modsatte rækkefølge. Her. Se den er prikket med den.
+
+37:12
+Den giver a den der prikket med den.
+
+37:16
+Den giver B. Den er prikket med den giver se den dér prikket med dem.
+
+37:23
+Den giver det bare med. Og så giver den en.
+
+37:27
+Og så giver den af. Vi tager den sidste. Den skal prikkes med den.
+
+37:30
+De første to, de endte med at slå ihjel, der kunne give tilbage, og så får I hår, og så får I.
+
+37:41
+Så mit spørgsmål det var her kan jeg finde en matrix A.
+
+37:47
+Og når jeg eller en matrix. Så når jeg ganger dem med en fra højre, så er det samme, som hvis jeg ganger den med fra venstre.
+
+37:55
+Og så kom jeg nemlig tilbage til den matrix, jeg startede med. Og det svar er det åbenbart.
+
+38:00
+Ja, det kan jeg godt. Og I kan se det enheds matricen.
+
+38:16
+Og nu tager vi det generelt. De er en klods, en har et tællere i diagonalen.
+
+38:33
+Bogen måler alle andre steder.
+
+38:46
+Sådan så har vi fået. Så har vi fået indført Enheds matricen.
+
+39:08
+Så nu stiller vi igen et naivt spørgsmål fra altså fra de reelle tal.
+
+39:17
+Og det er sådan set posere for ethvert reelt tal, som ikke er nul.
+
+39:32
+Scenes et enhvers tal som hedder A i minus først.
+
+39:45
+Og det har vi lært. Det er det samme som en over A.
+
+39:53
+Der opfylder følgende. At a gange med A i minus først er lig med tallet ét.
+
+40:11
+Altså det neutrale tal med hensyn til multiplikation. Og nu spørger vi så findes der en enhvers matrix, som hedder A i minus harste, der opfylder.
+
+40:50
+At når vi laver Matrix matrix produktet af A og A, altså af minus ét, at den giver enheds matricen.
+
+41:07
+Det er det vi skal arbejde med nu. Så I har altså givet en matrix af den skal ganges med en ukendt matrix.
+
+41:22
+Og når vi ganger de to med hinanden, så skal vi altså få enheds matricen.
+
+41:28
+Så det vil sige, at dette betyder, at for at løse det her problem, så skal vi løse en matrix ligning.
+
+41:43
+Nemlig dem vi har af, skal scenen en matrix ex.
+
+41:51
+Så når vi ganger de to med hinanden, så skal det give en.
+
+41:59
+Fra så matrix ligninger har vi kigget på tidligere i dag, og vi ved, at det er den samme historie om igen.
+
+42:06
+Vi skal have en total matrix op. Det højresiden har bare lidt større, så højresiden er nu i en helt matrix.
+
+42:15
+Så set hvad er det vi gør? Her har I metoden til, hvordan vi skal finde den inverse matrix.
+
+42:27
+Se. I opstiller en total matrix.
+
+42:44
+Hvor er førstepladsen her? Det er den givende Matrix A og lad os kalde den derfor højresiden er sand.
+
+42:55
+Den har vi jo stået der, og så skal vi lave.
+
+43:00
+Det er jo sådan elimination, indtil vi opnår trappe matricen.
+
+43:13
+Og hvordan ser den så ud? I bedste fald, ja så ved jeg jo, at så altså den dér kunne efficient matricen.
+
+43:24
+Den skulle jo så gerne blive dér, hvor vi har, hvor vi har trappe matricen.
+
+43:29
+1 1, 1, 1 0 og de andre steder. Så når vi laver gaucho der elimination, og det er jo det samme, som er enheds matricen, så må det må blive sådan.
+
+43:43
+I bedste fald er et hug for smutter det over.
+
+43:49
+Når vi laver den, der kan arrangere sådan en nation, og hvad bliver der så tilbage på højresiden hér?
+
+43:55
+Der bliver da den ukendte vækster eller den ukendte matrix.
+
+44:03
+Sådan vil jeg sige, når I lige hugger den over, så står der det, vi gerne vil finde på den side.
+
+44:10
+Så det er den metode, I skal prøve at bruge, og jeg laver lige et eksempel nu, hvor vi har, hvor vi kigger på to.
+
+44:22
+Foto Matrix Matricer. Men.
+
+44:48
+For ser det eksempel. At se der er givet en matrix.
+
+44:58
+Dag. Og hvad kunne den hedde?
+
+45:02
+Skal vi sige det? 1. Minus 1 minus 2 og 3.
+
+45:19
+Fem af Minos første hvis den findes.
+
+45:34
+I har set den der matrix før i dag du laver lidt.
+
+45:39
+Så stemmer bogen 21 i dag, hvor vi genbruger den matrix.
+
+45:44
+Den er god nok, fordi den har alt, hvad den behøver, og det bliver så et nyt eksempel.
+
+45:50
+Her også alt som vi skal opstille en totalt matrix til alle med 1 minus 1, minus 2 og 3.
+
+46:04
+Og derefter skal der stå enheds matricen i to plus to matricer, så der skal altså her stå en 0 0 og 1.
+
+46:24
+Og så rækker operationerne den kendte. Den kender vi efterhånden. Altså vi skulle sige er to plus to er en.
+
+46:37
+Så vi har jo stadigvæk en minus 1 1 og nogle gange med to læg til ganget med to, lægge til ganget med to, læg til ganget med to.
+
+46:51
+Læg til det må genopdage det, som det give en. Og så er vi hjemme når vi har lavet den næste der hedder Hvad er et plus her?
+
+47:07
+2. Og hvor den måtte ned også det her.
+
+47:14
+Den må være uændret. Den hedder 0, 1, 2 og 1, og den lægger vi altså til fra oven, og så får vi 1 0, lægger den til.
+
+47:27
+Så får vi tre. Og står sammen der.
+
+47:34
+Og så er vi nået til trappe matricen. Og så kan vi trække den inverse matrix ud.
+
+47:44
+Den ukendte matrix. Det er nu den, der står her på højresiden.
+
+47:51
+Da jeg ikke var i stand, opstod der jo tak for det her, så vi siger jo altså, så vi er det hernede.
+
+48:02
+Vi lægger den dertil foroven, og så får vi det et tal. Tak for det.
+
+48:07
+Og så har vi altså nu fundet den inverse matrix.
+
+48:14
+Hedder og så tre, en, to og en svunden der.
+
+48:28
+Så det gik jo godt. Hej og læs her hvor det var vi startede hende, da vi startede med en lille sammenligning med de reelle tal.
+
+48:46
+Og så skrev jeg her for at være et af forskellig fra nul.
+
+48:54
+Da gælder det altså dette også fordi vi må ikke dvd. Vi må ikke dividere med nul, så der var altså en undtagelse her.
+
+49:02
+Det var ikke altid det gjaldt. Tallet skal være forskellig fra nul, og nu skal vi se.
+
+49:08
+Mon der også er undtagelser? Når vi nu kigger efter enhver som matricer, kan vi gøre det altid.
+
+49:22
+Police her. Kan jeg se den fyr der står dér.
+
+49:35
+C Hvis den matrix der kun har rangen 1, så kan vi få store problemer med at få fjernet dette et tal der står dernede.
+
+49:50
+For hvis det var sådan, at jeg bare skulle lave en række operation for eksempel gange den med et tal og lægge til forneden, så står der et nul dér.
+
+50:01
+Så vil jeg aldrig kunne fjerne det tal, der står dernede hjørnet. Så problemet er, at hvis denne her matrix, hvis den ikke har fuld gang.
+
+50:16
+Så har vi et problem. Så har vi en undtagelse. Så hvordan kan vi skrive det?
+
+50:21
+Og Bing? Prøv at se jer på fuld gang.
+
+50:29
+Hvad mener vi, da vi siger. Vi har givet en kusse en matrix af.
+
+50:43
+Altså en kvadratisk matrix seng. Det vi så kan sige er.
+
+50:53
+Hvis ingen det vil sige ro at A, hvis den er lig med en, så har den fuld gang.
+
+51:08
+Det var det, det var. Det var det, vi faktisk godt kan se her, at den matrix, vi har startet med.
+
+51:13
+Når vi har lavet fuldstændig elimination, så har vi Round 2.
+
+51:19
+Nu er vi så generelt er ved stranden er der, så er det en meget fornem matrix.
+
+51:26
+Og det hedder så den regulære. Og irregulære og har en inverse matrix.
+
+51:55
+Det er en regulær. En matrix som er regulære den invertibel hedder da også en invertibel matrix har en enhvers matrix regulære.
+
+52:10
+Den skal have fuld ram, fordi ellers kan vi ikke lave det tryk her og så omvendt.
+
+52:20
+Hvis rangen af den er mindre end 1, så kaldes A for sine Guldager altså regulære over for sine guldager.
+
+52:44
+Og så er A ikke invertibel.
+
+53:09
+Så har jeg lige to små ting tilbage som forelæsningen forbi, og så bliver det jeres tur.
+
+53:27
+Blandt. Men nu.
+
+53:48
+Og den første ting vi lige skal snakke om, det er den inverse matrix, det er den inverse matrix på.
+
+54:00
+Find den inverse til A i minus første.
+
+54:17
+Tænk jer godt lige. Dette problem kan godt lige illustrere ud over at det er interessant i sig selv.
+
+54:21
+Så kan det lige illustrere nogle af de ting, vi har snakket om, ikke set.
+
+54:26
+Hvad skal vi altså?
+
+54:31
+Nu skal vi jo løse den ligning her. A. I minus første gange.
+
+54:38
+X skal være lig med enheds matricen.
+
+54:46
+Som jeg kan finde dem, så må det være den inverse til den inverse.
+
+54:53
+Og nu skal vi lave lidt matrix algebra. Vi er garner fra venstre med den samme Matrix', nemlig matricen af den oprindelige matrix.
+
+55:07
+Så har vi a gange A i minus førster ganget med ex.
+
+55:16
+Og så skal vi også ganget med A for venstre for venstresiden.
+
+55:22
+Vi har bare ganget her fra venstre med den fyr der.
+
+55:30
+Og så i stedet for at sige at vi har A og vi ganger sammen med denne her,
+
+55:37
+så er matrixmultiplikation er sushi og stiv, så jeg kan sige istedet for jeg siger den ganget med dem.
+
+55:47
+Så kan jeg også sige de to gange er jeg først, og så ganger den på bagefter.
+
+55:52
+Og hvad får jeg vist, hvis jeg ganger de to dér? Ja, hvis jeg ganger de to sammen først, der giver det mig.
+
+56:03
+B og så A ganget med E.
+
+56:15
+Det er jo ens matricen, så det giver bare A og E ganget med Ex.
+
+56:21
+Det betyder bare hex, så den jeg leder efter.
+
+56:28
+Det var bare åbenbart A. Og det vil jeg sige.
+
+56:34
+Hvad har vi vist nu?
+
+56:36
+Vi har vist, at hvis I har den inverse matrix, og at I er ude efter den inverse matrix til denne, jamen så kommer vi tilbage til den vi startede med.
+
+56:48
+Nemlig af matricen. Den inverse er den inverse.
+
+56:59
+Det er den oprindelige matrix hen til kommoden og tilbage igen. Og for hvad er det så lige det allersidste vi nu skal lave?
+
+57:12
+Hvis vi nu har sådan en ligning her og det bliver kun lige til jeres orientering ikke?
+
+57:18
+Så hvis I har denne her. Hvis I har denne her I skal løse en matrix ligning, så.
+
+57:32
+Det har vi lavet i dag. For der opstillede vi jo bare totalt matricen, som så kommer hed tæthed A til B.
+
+57:52
+Og så går vi fra derfra til Trap og så videre.
+
+58:00
+Den kender i C.
+
+58:10
+Den anden metode. Den bygger på, at hvis vi nu kender den inverse matrix A.
+
+58:25
+Det kunne selvfølgelig også bare finde den, men lad os nu sige, at hvis vi kender den.
+
+58:32
+Se hvad kan vi så finde på?
+
+58:35
+Så kan vi jo finde på at gange med Venstre, men den der begynder med den inverse på begge sider, så står det a a x er lig med A i minus første B.
+
+59:01
+Og nu ved vi jo at de to er hinandens inverse. Det vil sige, at hvis vi ganger de to sammen først, så bliver det, enedes matricen.
+
+59:09
+Og når vi ganger, enes matricen med ex, så får vi bare ikke på venstresiden,
+
+59:15
+og så står der Her er så, at den ukendte matrix denne er så den inverse af A og gange med B.
+
+59:28
+Så jeg så enten så laver ikke garager den illumination det velkommen til eller også lavere i et matrix matrix produkt er den enhver sig af.
+
+59:40
+Og så ganget med B, så får vi det samme resultat. For der var mange ting på én gang.
+
+59:47
+Kan I huske dem, når I kommer ud, og når de skal til ugens test? Det håber jeg tak for i dag og.

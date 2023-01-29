@@ -1,0 +1,977 @@
+0:05
+For morgen for morgen og mig. Hvordan går det for helvede til folk?
+
+0:14
+Jeg har det lige modsat. Jeg synes, at dette verden vil redde konferere.
+
+0:19
+Jeg har redt håret. Jeg har taget den fine skjorte på.
+
+0:21
+Jeg har taget kaffen med og forberedt nogle gode noter, og så er jeg sikker på, at det bliver en.
+
+0:27
+Det bliver kanon fredag. Hvordan jeg skulle nævne?
+
+0:31
+Jo, jeg var lidt ked af det med Mabel i tirsdags, men jeg håber alligevel, at de.
+
+0:36
+Og de fik arbejdet lidt ned med Mabel i klasselokalerne. Hvis man synes, at det gik her.
+
+0:44
+Jeg ville. Jeg vil helt sikkert nå lidt metal i dag.
+
+0:51
+Men os lige start på toppen. Dag handler det om matrix algebra. Vi skal regne med matricer.
+
+0:59
+Vi skal kunne lægge matricer sammen. Vi skal kunne i en konstant på matricer, og vi skal snakke om,
+
+1:05
+hvordan vi kan garnene med matrix vægt som produkt, og hvornår det er muligt og også Matrix Matrix forløb.
+
+1:13
+Læg mærke til den notation jeg vil bruge, som også bruges i noterne.
+
+1:16
+Altså matricer har store bogstaver og vektorer har små bogstaver hver, og de får en streg under.
+
+1:24
+Får indikerer at de er fede typografiske konstanter.
+
+1:28
+Forinden strømmen strengen g er vi på den. Transponering.
+
+1:36
+Vi skal kunne transponerede matrice skriver hvem måtte komme tilbage til en snak om lignende systemer og rang,
+
+1:44
+og endelig vil jeg snakke om lignende systemer og matrix ligninger, der er skrevet med.
+
+1:51
+Så skulle en der ligner. Selvfølgelig I tænker på line og lignende systemer her og deres serien deres matrix form, hvor ex vil være de ubekendte.
+
+2:02
+En vektor er ubekendt. G. Lad os starte med at snakke om matricer.
+
+2:12
+Så hvad er en matrix? Jamen, det er simpelt hen bare et tals skema, et ordnede tals skema.
+
+2:18
+Så her er et eksempel på en matrice store A.
+
+2:24
+Det er en matrice, hvor jeg har ordnet elementerne A.
+
+2:28
+I J. Kalder jeg elementerne og på første række.
+
+2:34
+Første søjle. Her står der a i et n. I første række næste søjler står der a et to.
+
+2:40
+Jeg erindrer det andet indekser, og jeg går hele vejen op til a et n, fordi jeg har en søjler i min matrix på samme måde.
+
+2:51
+Hvis jeg starter i første søjle og bevæger mig ned,
+
+2:52
+så ændrer jeg det første index og bevæger mig hele vejen ned til den sidste række, som er den emde række.
+
+3:02
+Ja, så har vi en. Ja, så alle de elementer der står herinde, tilhører altså vores L.
+
+3:12
+Det vil sige, at det er enten et reelt tal eller et komplekst tal.
+
+3:17
+Vi har en meget flot skrivemåde for det, fordi vi snyder. Hvis jeg kommer ind for gæld, får besøg af en matrice af den kommer ind i stuen stor.
+
+3:25
+Nej, jeg kender ikke de, der har en forklædning på. Så kan jeg hurtigt lige skilte med at se ind til dens indvolde.
+
+3:31
+Vil jeg lige påføre den denne kappe, som har mærket i J.
+
+3:35
+Som så fortæller mig, at på den ene række den JT søjle, der står tallet er i jorden, men ikke så den.
+
+3:43
+Det er bare en operation jeg vil indføre, som trækker det i J.
+
+3:46
+Det element du er stillet med en der står på den i en række JD såvel. Og prisen har skrevet har holdt sig inden rækker og en søjle, og vi skriver.
+
+4:07
+Det således at af matricen tilhører L.
+
+4:13
+I enden. Kryds nej 1 m kryds N. Undskyld så det betyder var her, at altså alle mængden af alle dem her.
+
+4:21
+Det er simpelt hen matricer den her form her, hvor alle elementer tilhører L.
+
+4:29
+Men ikke så det er en måde os at skrive mængden af alle dem her på m.
+
+4:34
+Kryds N betyder bare der rækker en søjler og hvert element tilhører dette tal legeme og kan nu få en.
+
+4:53
+Nu kommer der en. En matrix som har to rækker og to søjler, og så har jeg en vektor, som også er en matricer.
+
+5:04
+Den har bare kun én søjle, og de kommer i døren.
+
+5:07
+De vil gerne hver sige forplante sig ved den sum, men det siger det her.
+
+5:14
+Det dur simpelthen ikke den. Man skal se den.
+
+5:19
+Den åndelige leder har en. Han siger det er forbudt. I må ikke forplante jer. Nej.
+
+5:26
+Det der nemlig skal gælde når matricer. De skal forplante sig og give det, er ved en sund eller ved indifferent.
+
+5:32
+Det at de skal være af samme type klædt, så det er ikke tilladt.
+
+5:37
+De må ikke forplante sig. De to der fordi at er den som de France, så skal de være samme type.
+
+5:53
+Og kø. Så det betyder altså blandet at mine snørebånd er gået op.
+
+6:02
+Det var ærgerligt. Hvis jeg snubler, så er det noget lort.
+
+6:07
+Men her kommer A og B ind af døren, og de er samme type, og så kan jeg tage deres sum og deres difference.
+
+6:20
+Men kun fordi, at de er af samme type. Altså de har en række ens folder begge to.
+
+6:25
+Og hvordan foregår det? Jamen, det foregår sådan, men bare ved at addition foregår.
+
+6:30
+Plads avis væk på første række først og står altså der er et plus beat.
+
+6:36
+De elementer, der står på første række først solgt henholdsvis i A og B og så videre a et n plus b, et n a m et plus b m et.
+
+6:58
+Hvis nu vi tager vores operation, som jeg indførte, da den der er kappet der er mærket i J.
+
+7:05
+Så kan vi skrive det her som. Hvordan kan vi skrive det her?
+
+7:16
+Jamen, det kan jeg skrive som det foregår plat svig. Så det er simpelt hen bare det, der står på den ide.
+
+7:22
+Se den i det række. Den JB søjle i den sump her.
+
+7:26
+Det er altså bare a i J. Altså i det j det element i A plus d, idet j det element i B.
+
+7:35
+For det foregår altså plads. Vis for edition foregår glasvis. Klik.
+
+7:45
+I kan også have en en lille konstant kom gående, og den vil gerne guide på A.
+
+7:53
+Det kan den også godt få lov til, og det foregår som en ofte boplads XVI's så kunne ganges ind på alle elementerne.
+
+8:00
+Her. Er og det kan jeg også skrive med hjælp hvad min kappe.
+
+8:13
+Er I med på denne kappe? Den går altså. Den hiver bare i det.
+
+8:17
+Det betød det plads, der står på det, idet en række J.D.
+
+8:21
+Søjle. Så er multiplikation med skalar K foregår altså også plads vis.
+
+8:38
+Og kan ikke. Ja, lad os forestille her.
+
+9:03
+Har vi en sætning i en nogenlunde tre tre, som giver os nogle regneregler.
+
+9:07
+Jeg vil ikke lade stå allerede regne reglerne.
+
+9:09
+De er ganske de nærmest trivielle og vise fordi, at den måde addition den foregår på, den foregår og plads vis.
+
+9:19
+Så for eksempel når vi spørger om om addition af matricer er kommet til tvivl.
+
+9:24
+1 Så oversættes det direkte til om vi kan. Om vi kan bytte om på lederne ens i en sump af tal, fordi det foregår bare glasvis.
+
+9:32
+Men vi ved at summen af to tal der er lavet en tordenen eller ligegyldigt ikke så specielt.
+
+9:39
+Så gælder det altså at A Plus B er lig med B plus A.
+
+9:46
+Den kommer til 10 ræling. Og panties er også ligegyldig.
+
+9:54
+Igen fordi fordi det oversættes bare direkte til et tal som er sat tal vel tal eller komplekse tal.
+
+10:07
+Og så det vil sige at A Plus spil for eksempel blev set af A plus B plus C, altså pontes og ligegyldig.
+
+10:20
+Og så er der også den Distributed lov, som bare siger, at der kan gange en konstant egentlig parentesen.
+
+10:34
+Det er jo sådan set bare det jeg vil sige, men det er jo ikke særlig spændende eller udfordrende det her.
+
+10:43
+Så lad os skynde os at gå videre. Fordi at det næste jeg snakker om er nu matrix væk fra Bodum.
+
+11:04
+Og måden jeg vil indføre dette på lader sig starte med at gøre ved et eksempel.
+
+11:14
+Servile kig for eksempel. Og her kommer der en matrice, et minus, et nul, et et nul, og nu vil jeg gerne gange.
+
+11:30
+En vægter på den matrice har for høje. Det er det, vi gerne vil introducere, og nu fortæller jeg og hvordan hvordan det skal gøres.
+
+11:42
+Den måde det gør også på, er at ville. Denne søjle vægter vælte ned over søjlerne i matricen ham.
+
+11:51
+Man kan så holde fast på hestene og se nu, hvad der sker her.
+
+11:55
+Et gang ganger på den første søjle hér, så står et Garnier et minus et klik.
+
+12:03
+Jeg er ikke færdig endnu. Tager næste her, som vælter ned over og rammer den anden søjle i a plus to nul m.
+
+12:14
+Og endelig så vælter vi væltede søjle ned over os og rammer tre fyre ham, som er en vektor, som hedder et nul.
+
+12:27
+Og hvad giver det? Jo, men jeg ved hvordan jeg udfører sådan som jeg gør det bare glasvis.
+
+12:35
+Så et gange et plus to gange i nul plus tre gange f.
+
+12:40
+Det er den måde jeg lægger tal sammen på i en væg, så er en matrix og dermed også i vektorer,
+
+12:47
+som var specielle matricer, der kun har en søjle, så det foregår bare glasvis.
+
+12:51
+Så jeg tror jeg sagde, at der var fire i første række Harry, en far og tre derfor, og her var der én, fordi der kommer miner set herfra.
+
+13:00
+Der kommer to derfra. Kim.
+
+13:07
+Så. Læg mærke til at afpudset er man skal skrive respektere.
+
+13:23
+Antal rækker i A altså i matricen.
+
+13:34
+Fordi den måde jeg har introduceret det på ikke så vil den det produkt tør vil være en ny vektor.
+
+13:41
+Men læg lige mærke til, at den værktøj jeg har fået her ud. Den er jo af en anden type.
+
+13:46
+Den er hverken af den type eller af den type. Så når de går sammen.
+
+13:53
+Og føder en ny vægt, så forbliver det en helt anden type. Generelt set.
+
+14:00
+Det spørgsmål har. Skaf det er nemlig rigtigt, der er nemlig et krav på, hvornår det overhovedet gælder,
+
+14:10
+ikke fordi job så det du er inde på hér, er det, som der bliver spurgt om.
+
+14:14
+Det er, om der ikke er et krav på, hvor mange rækker eller søjler der er i af, og hvor mange rækker der er i denne her væg til ham.
+
+14:21
+Og det er der selvfølgelig, fordi vi smider tilbud før det. Lad os sige 4, som ville være det naturlige element at tilføje sådan har vi så gjort.
+
+14:28
+En plads længere, så vil der ikke være nogen makker, men jeg vil vælte den her ned på, så vil den ikke kunne ramme søjlen.
+
+14:36
+Så er du rammer nemlig noget, når essentiel, som jeg kommer til straks.
+
+14:40
+Ved ikke nu. Så jo, jeg kommer til det nu.
+
+14:46
+Men ja, du har jo. Jeg kommer med et andet eksempel, fordi at det er det, jeg gjorde.
+
+14:52
+Det var jeg bare gjort den en kortere i stedet for. Så hvornår det muligt kunne vi spørge og udføre det her produkt?
+
+15:02
+Tørring og. Hvis nu jeg bare gjorde min væg, så der kom ind af døren herovre en kortere fjernede træerne,
+
+15:12
+for den havde kun to rækker, og så jeg prøvede at udføre det samme princip.
+
+15:16
+Hvad ville jeg så gøre? Så ville jeg sige ét gang i den første søjle plus to gange den næste søjle.
+
+15:25
+Men plus hvad så ikke? Den her søjle har ikke noget.
+
+15:29
+Så altså det her. Det giver ingen mening. Så vi tillader altså ikke sådan en multiplikation, ham og måden måde man ligesom kan se det på.
+
+15:47
+Margo Huskeregel. Hvornår? Hvornår det gælder har altså. Det er det der er det der skal gøre sig gældende.
+
+15:57
+Det er selvfølgelig, at antallet af søjler i matricen her skal være det samme som antallet af rækker i den vægt,
+
+16:03
+der kommer ind fra højre, og en meget lækker måde ligesom at illustrere det på.
+
+16:11
+Det er, at det, der står her, skal være et kvadrat. Og kan ikke så jeg skal lave et kvadrat her.
+
+16:22
+Sådan så at denne er lige så lang som denne. Når jeg, når jeg tæller lige så meget plads mellem tallene her, så er det skal være et kvadrat.
+
+16:32
+Så kan jeg udføre multiplikation ved den metode, som jeg har indført her.
+
+16:37
+Men herover hvis jeg gør det, så laver det samme skema herover.
+
+16:46
+Så det her ikke et kvadrat. Bruxelles en.
+
+16:56
+Meget god måde at tænke på det på. Ja, så er altså det vi har så a.
+
+17:13
+B eksisterer da.
+
+17:19
+ICSI steg prompte, hvis antal søjler i A er lig med antal rækker eller elementer i B vægteren.
+
+17:41
+Jeg kommer også tilbage til det her senere, når jeg skriver om generelle definitioner.
+
+17:48
+Men nu går jeg videre til Matrix' matrixmultiplikation. Er der spørgsmål.
+
+18:03
+Der er det meget snak. Matrix matrixmultiplikation er det næste på dagsordenen.
+
+18:10
+Se nu har vi snakket om sund motivation med skalaer og motivationen er væk væk.
+
+18:15
+Så nu vil jeg så gå i gang med Matrix Matrix, så det vil jeg igen gøre ved at starte med et eksempel.
+
+18:26
+Så her er to matricer et minus ét, ét med nul, ét, et ét.
+
+18:37
+Her er en anden matrix. Et, to, tre, tre, to min.
+
+18:44
+Nu sæt 0, 5 og nul. Jeg vil gerne udregne dette produkt mellem to matricer.
+
+18:55
+Og hvordan foregår det? Men det foregår egentlig ved, at jeg udfører mit matrix vægt for product med hver af søjlerne i min b matrice.
+
+19:04
+Kø, så det jeg får ud af det er en matrice.
+
+19:11
+Og hvad står der på den matricer? Jamen der står. Nu kalder jeg denne her den Amatrice der står her, det er ikke så jeg, skriver A.
+
+19:22
+Gang i den første søjle i det her, så det er et, to, tre.
+
+19:26
+På den næste søjle i den matrice, som er produktet af de to matricer, står der a gange det næste søjle tre, to minus et skal stå træder.
+
+19:44
+Så er det en søjle, og det har en søjle, og på den sidste søjle står der A.
+
+19:49
+Det ganget med den sidste søjle i B.
+
+19:55
+Klik, så for at finde ud af hvad produktet er del matricer og for at finde ud af hvad søjlerne er, så skal jeg udregne matrix vektor multiplikation.
+
+20:05
+Hvad er det her produkter? Jamen, jeg skal tage et tog. 3. Og vælte ned over den her.
+
+20:11
+Jamen, det giver en gang i den første søjle den der plus to gange i den plus tre gange i den søjlen, der står for den første søjle i mit produkt.
+
+20:21
+I min nye matrice. Så et lad mig skrive det hele op.
+
+20:31
+Et minus ét plus to nul, ét plus tre et til et.
+
+20:41
+På den næste søjle laver lignenede bar for at adskille den af.
+
+20:45
+Nu kommer der en ny søjle. Det bliver tre et minus et.
+
+20:52
+Plus to nul gæt plus minus ét.
+
+21:00
+Et 1. Og det vidner får fat i langt noget af ham og den sidste jamen, det bliver nul et minus ét.
+
+21:10
+Den rammer præcis den søjle, der står der. Plus fem gange i den anden søjle i a plus nul gange den sidste søjle.
+
+21:23
+Og hvis man tager ud og regner Alice med de summer ud der står ham, gør det plads vis, som vi har fået besked på og udføre det på.
+
+21:33
+Så får vi så endelig fire et to meno sæt nul og fem.
+
+21:44
+Ja, så jeg har læg mærke til at.
+
+21:55
+At den måde som jeg har udført det på, ikke så kan se, at den har præcis tre søjler min nye matrice.
+
+22:03
+Ikke fordi jeg har taget den måde, jeg har indført den på. Jeg har præcis tre.
+
+22:07
+Hvorfor har jeg trænet det? Fordi der er tre søjler vektorer i V.
+
+22:12
+Hvor mange rækker har den? Men den har to fordi at jeg ved, når jeg udfører dette produkt, så får jeg præcis antal rækker,
+
+22:18
+ligesom jeg gjorde her op, men ikke så den er lige med, så størrelsen af den antal rækker i A.
+
+22:25
+Gang i antal søjler i B. I dette tilfælde to gange tre.
+
+22:33
+Så det skriver jeg lige her. Så antal rækker i A.
+
+22:46
+B Mand kigger på hvor mange rækker har produktet a b?
+
+22:54
+Jamen, det er lig med antal rækker. I af.
+
+23:03
+Og hvad med søjlerne? Ja, med det antal søjler.
+
+23:20
+I det. Lad os nu få en definition på banen her, så nu har jeg altså introduceret de her begreber via de her eksempler.
+
+23:36
+Og nu vil jeg så gerne bringe en formelle definition på bane.
+
+23:45
+PS Så lad. Kommer der en matrice ind af døren her går dag.
+
+24:05
+Hvad kan du fortælle om dig selv?
+
+24:07
+Jeg kan fortælle dig selv, at på den ét søjle, der står der en søjle vægter, som du gerne må kalde a understrege i altså et fedt A med.
+
+24:17
+Så skønt I ikke er den første vold søjle væg, så er a et.
+
+24:23
+Den næste søjle vektor er 2. Og så videre op til a n.
+
+24:27
+Så den har præcis ens søjler og de har solgt vektorer er inden lange fordi at matricen har enrække.
+
+24:36
+Så altså a i hvert af de her a i søjle vektorer ligger altså i l m, som en søjle vægter i den søjle.
+
+24:55
+A. A. Så det bare en rar måde at skrive matricen A på, når vi skal udføre multiplikation.
+
+25:08
+Er klik samme måde, så kommer der også en væg bagved, og den skriver jeg ved EF og hele vejen ned til v.
+
+25:18
+N. Og det er et element i L N København N rækker.
+
+25:29
+Læg mærke til at jeg kunne jo godt skrive kryds ind her, altså for at fortælle at den har en en søjle.
+
+25:36
+Men når man, så udelader man det ikke. Det har vi også allerede udeladt.
+
+25:40
+Sidste uge var et spørgsmål her igen. Det var en hektisk torsdag, for det er vigtigt, selv om striwerne er spørgsmål mere.
+
+25:52
+Når du skriver endeligt matricen, så står der a et er det, vi har en i.
+
+25:57
+Så det er dejligt og kan godt fortælle, hvor det hjælper, så det handlinger, skriver Bak.
+
+26:04
+Og det er fordi, jeg har nævnt det, for jeg er født doven, langsom til mig, fordi jeg troede, jeg skulle svare på de spørgsmål.
+
+26:12
+Jeg er sikker på, at det var et tilfælde, hvor jeg ikke forklare, hvorfor det hedder.
+
+26:21
+Ét er bare den første søjle er når jeg nævner er i, så er det fordi, at der kommer nogen i det søjle herinde, som er oppefra.
+
+26:28
+Men det kan være den anden eller den tredje. Det kan være den femte vej. Og så op til a en.
+
+26:37
+Som alt hvad der bliver tvivl om godt kan godt blive bliver sagt A, og så når man ikke når og køb sikker på.
+
+26:47
+Så hvad er det du forstod rigtigt, når køber så det spørger om der står en kamp eller ether var sikker på,
+
+26:57
+at ikke er et ståhej, for det er den første, der står her.
+
+27:03
+Ja, og klik videre. Så er.
+
+27:11
+Så sættes altså matrix væk fra produktet.
+
+27:15
+Det er ved F gard den første søjle a husk på at det var sådan jeg introducerede det eksempel, altså vektoren v.
+
+27:22
+Her vælter ned over søjlerne i A.
+
+27:26
+Så på første plet fra første led i den sum, der fremkommer, så står der ved et gang i den fyr ham plus og så hele vejen op.
+
+27:35
+For eksempel så står der også på et tidspunkt V i garnet A i plus og så hele vejen op til v n.
+
+27:43
+A 1. Streger under jorden, fordi de søjler vektorer.
+
+27:51
+Hvor ligger denne fyr? Ja, man har jo samme størrelse som søjlerne i A, så derfor er det en søjle vektor der har der har elementer.
+
+28:15
+Så nu kommer der også et. En B matrice og i bede matricen står der bl.
+
+28:27
+I første søjle, og så står der b l i den sidste søjle, så den her fyr har har altså helt klart ældste søjler.
+
+28:40
+Det er ikke fordi det jeg har kendt, tilkendegivet her med ild her.
+
+28:44
+Hvor mange rækker skal denne her matrice have, for at jeg kan give mening til produktet a b.
+
+28:54
+Hvad bilder sig ind? Hvorfor? Fordi den skal, nemlig når vi stiller den op på den her form, der har gjort herovre over, så skal der være et kvadrat.
+
+29:06
+Det vil sige antal søjler ja skal være lig med antal rækker i B og derfor.
+
+29:11
+1. Skal der stå her? Det kan så sættes produktet a b til at være.
+
+29:31
+Så er der spørgsmål der er skrevet ovenover, tilhører reelt tal.
+
+29:39
+Bogen skulle faktisk ikke stå valgfag, der skulle stå Elham. 1.
+
+29:43
+Kryds L et spørgsmål mere.
+
+29:47
+Vi havde massevis af fart gennem en række i en række.
+
+29:58
+Nej. Hvert af de her A har en streg under.
+
+30:02
+For indikerer at det er en vektor der står her. Den er m lang, ikke?
+
+30:08
+Det er den en søjle af matricen A. Nu går jeg ned tilbage til produktet af.
+
+30:15
+Vi blev enige om, at denne her br's må nu have en rækker for at jeg kunne Giménez til det produkt.
+
+30:19
+Hvad er produktet? Jamen, det er a gange b et den første søjle og hele vejen op til a b l.
+
+30:32
+Og den har antal rækker i M.
+
+30:37
+Garang søjlerne i B. Så den er. Den er størrelsen m kryds L.
+
+30:46
+Alle elementer tilhørende L. Kommer det eksempel.
+
+31:17
+To matricer. Find produktet A B og B A.
+
+31:32
+Kø først. A Garang B. Er det overhovedet muligt?
+
+31:37
+Ja, antal søjler i A er lig med antal rækker i B.
+
+31:42
+Hvordan er produktet? Jamen, jeg skal tage A og skal jeg gange med den første søjle i B.
+
+31:49
+Et S. Det står på den første søjle i produktet.
+
+31:53
+Hvad står der i næste søjle, der står af gangen i den anden søjle?
+
+32:00
+Nu udfører jeg med teknik for produktet. Hvordan gør jeg det?
+
+32:03
+Jeg vælter ét ned over den væg, så plus et gang i den væk, så det må give mig to over et.
+
+32:11
+Tilsvarende her. Det giver mig nul gange første søjle i AA+, en gang i anden søjle i A.
+
+32:19
+Det giver mig et et. Det her det må blive sex.
+
+32:31
+Hvad med B. A. Men der skal jeg tage B og gange.
+
+32:37
+Første søjle er a et nul b.
+
+32:43
+Anden søjle. En selvfølge kan man også bare sige kunne man ikke at a b.
+
+32:56
+Når vi tager to og ganger A ganget B, så er det typisk lige med b gange af ikke?
+
+33:03
+Der er to reelle tal, to komplekse tal og ganger adgang bag ved det, så vi kan bytte om på rækkefølgen, kan vi også bare gøre det her?
+
+33:11
+Nej, det kan vi nemlig ikke. Og lad os se hvorfor. Lad os regne ud, hvad det her.
+
+33:16
+B A er. Så jeg regner ind herude. Det må bare give den første søjle i.
+
+33:20
+B er et L. Og her får jeg et og to.
+
+33:26
+Altså det her. Det er forskelligt fra a gange b, som var den fyrtøj.
+
+33:34
+Så generelt. Generelt der var nogle frygtelige jeg fik latter.
+
+33:48
+Ikke komme til et civilt. Dominatrix matrixmultiplikation er altså ikke komme til tvivl.
+
+34:05
+Og serier klokken. Så det har betydet før om vi ganger på for højere eller vi ganger på for Venstre.
+
+34:24
+Lad nu igen a være den fyr der arver bogen, og så kommer der en ny med et trick se.
+
+34:32
+For mig er et nul to et et nul.
+
+34:37
+Kan vi urinere igennem matrix produktet ad gangen.
+
+34:41
+Se, hvordan gør jeg det? Jeg tager første søjle og vælter ned over af.
+
+34:50
+Der står nul her, så det giver jo bare første søjle i A og så videre og så videre.
+
+34:55
+Lad mig bare skrubbe, når resultatet er tre et et nul, fordi det vigtigste her og pointere er.
+
+35:08
+Jeg kan ikke om jeg kan udføre det andet produkt, altså se Grand af det eksisterer slet ikke.
+
+35:19
+Og hoppede rundt på noget. Nej, det er ikke nok fordi antal søjler i SE er selvfølgelig træ, men antal rækker i A er kun to.
+
+35:31
+Så hvis nu jeg lavede mit skema, som jeg gjorde her i det her eksempel her,
+
+35:36
+så ville jeg være i det tilfælde, hvor jeg ikke får et kvadrat og en talrække og er den, der står.
+
+35:41
+Faktoren, der står til venstre, eh eller søjler, ikke matcher op med antal rækker i fyren, der står til højre.
+
+35:48
+A. I det tilfælde så er der eksisterer. Den tæller ikke. Men generelt når de begge to eksisterer, så er faktorernes orden altså er betydelig.
+
+36:11
+Med mig afsluttede første session ham med, og det er måske lige tidligt, men jeg skriver lige nogle sætninger, en sætning ophør.
+
+36:25
+Så k a b, når det produkt eksisterer er altså A.
+
+36:32
+K, B eller k a.
+
+36:43
+B Nej, det er det som jeg skrev det om som der.
+
+36:51
+Så det er en associative regel her.
+
+36:55
+Med hensyn til skalar. Så må placeringen af korvet skalaen her har ikke betydet så få for produktet.
+
+37:09
+Så er der også en disk Deportivo regel. Så hvis jeg tager A og ganger ind i en sump af to matricer.
+
+37:18
+Så er det samme som adgange B plus A C, så det er altså en stripper tyv Pål.
+
+37:35
+Og endelig har vi også en associative regel for.
+
+37:41
+For matrixmultiplikation, så hvis jeg skal udføre produktet af tre matricer, så er Pontes dens placering ligegyldig.
+
+37:51
+Det er limen ligegyldigt om jeg og det sidste produkt først eller det første produkt først.
+
+38:06
+Men generelt er der altså ikke nogen kommutativ regel her eller dejen gælder ikke en regel,
+
+38:10
+fordi socialt er fordi jeg vidste meget simpelt eksempel, hvor den sidste regel ikke gjaldt.
+
+38:31
+I. Jeg vil bare lige kort introducere det at transponerede matrice inden vi holder pause.
+
+39:03
+Så her kommer en matrix A.
+
+39:18
+Der går ild i bare genbrugt det der allerede stod inde for det.
+
+39:20
+Jeg skriver nemlig det op igen her, så det er en matrice, der har gemt rækker end søjler.
+
+39:32
+Så det vil sige, at hvis jeg påfører kappen med mærket i J.
+
+39:39
+Så kommer der simpelthen a i J. Ud.
+
+39:44
+Ring, hvor det her selvfølgelig er indforstået, som det har været tidligere, at ejerne kan jo kun løbe fra ét til EM,
+
+39:52
+men ikke fordi jeg har kun een række, så det giver ikke mening om at spørge efter, hvad der står på række.
+
+39:57
+EM plus en tilsvarende J kan kun løbe fra ét og op til EM, fordi det giver ikke mening om, hvad der står på 1+1.
+
+40:06
+Den søjle for dig er ikke en en der søjle. En så defineres.
+
+40:22
+A transponeret til at være en matrice der for enden, søjler og enden rækker.
+
+40:33
+Ved så er det den transponerede af A skriver det på den måde har med et stort stort ting ind nogle steder.
+
+40:41
+Litteraturen kan man også sidde angivet med et lille the cursed. Inuitternes forstår det med et stort T.
+
+40:48
+Og hvad hva? Hvordan definerer man?
+
+40:53
+Det er defineret, at hvis nu jeg tager og påfører min kappe på denne nye matricer, er I se.
+
+40:59
+Så har den egenskaberne, at der på denne plads står a.
+
+41:03
+J. I. Så en anden måde at sige det her på er altså rækker i A.
+
+41:20
+Hvordan fremkommer rækker i A, men det fremkommer ved at jeg ændrer denne plads væk,
+
+41:27
+hvis jeg slipper igennem denne plads, så går jeg ned ad en række, fordi jeg fastholder det andet argument.
+
+41:33
+Og det giver mig Solér, fordi J står på den anden plads, så det giver mig en søjle.
+
+41:38
+Det giver mig en ide. Nej, undskyld.
+
+41:41
+Hvad sagde du? Det giver mig en række fordi, at når jeg bevæger mig om jorden, så bevæger jeg mig ud af søjlerne, så derfor foran i det række.
+
+41:51
+I. Den ene søjle i A bliver den JD række i den transponeret, altså rækker i a bliver til søjler.
+
+42:12
+I a transponeret. En anden måde at skrive det på er at vi hjælper de her søjle vektorer.
+
+42:30
+Men. Lad os nu lige først se hvad der sker, hvis jeg bare tager en søjle vektor og transponeret den.
+
+42:45
+Så hvis nu jeg har x er en søjle vektor.
+
+42:58
+Men så er den transponerede jævnfør definitionen her bare en række vektor.
+
+43:12
+Der kom en i sommeren. Så kære.
+
+43:15
+Læg den ned ved og udførte transponering store ting, så det vil sige, at hvis jeg har A og jeg skriver den ikke på den form, som jeg har heroppe.
+
+43:26
+Men jeg indikerer søjle vektorerne, ja, så tager jeg altså a ind, som jeg gjorde på tavler nummer 5 der over ét.
+
+43:36
+Og hele vejen op til en. Men så kan jeg skrive den transponerede på denne form, fordi den første søjle i A bliver den første række i den transponeret.
+
+43:54
+Det skal være på den måde, fordi det er en række vægt, så det, der står i den første række.
+
+43:57
+Har man franskmanden, så får jeg en sollen så for en række værktøj. Hele vejen ned til a n transponerede.
+
+44:10
+Så nu har en rækker fordi der er en af dem, og siden at EM eller hvert vi har ender her, var m lange.
+
+44:19
+Det er det, der står hen af søjlerne her, og så har den altså en søjle.
+
+44:34
+Eksempel. A er lige med et to 4 0 3 1.
+
+44:46
+Hvad er den transponerede? Jo, men det der egentlig foregår, er, at denne række vækster bliver en søjle vektor mellom.
+
+44:55
+Jeg kunne også gøre det omvendt, som jeg egentlig har gjort lige her. Lad os sige, at denne søjle her bliver en række vækster.
+
+45:02
+Den første række vækster, den næste søjle vektor bliver den næste række vektor i den transponerede.
+
+45:08
+Den sidste søjle vektor bliver. Den sidste række valgte således altså a transponeret er et to, fordi det er den første søjle i af fire nul.
+
+45:21
+Den næste række og endelig tre et så med andre ord det der ligesom sker, er der skærende en omkring diagonalen.
+
+45:30
+Det har to her diagonalen. Det er der, hvor hvor rækker sammen som en søjler, et ether, altså første række.
+
+45:39
+Første søjle. Anden række. Anden sol her. Det kalder vi du går diagonalen.
+
+45:43
+Samling af de elementer og det der sker her, er, hvor vi skal lave den transmiteret, det er.
+
+45:47
+Vi skal bare reflektere omkring den diagonal. Men ikke så 4 2 bytter plads, tre ryger nu, og ét ryger han ned.
+
+45:56
+Så hvis jeg lige giver det med en anden farve. Så under denne her refleksion, så forbliver et og nul altså hvor de er.
+
+46:16
+Og her står der 2. Og her står der 4, 2 og 4.
+
+46:20
+Bytter plads ved refleksion og træ, ryger ned og et ryger ned.
+
+46:25
+Og her fremkommer så den transponeret.
+
+46:31
+Og kan I gå rundt? Og nogle spørgsmål.
+
+46:40
+Vang G. Juniorryttere. Det er bare et par trailere, der adskiller sig.
+
+46:47
+Der er ikke. Du mener fordi jeg har til det eller andet.
+
+46:59
+Det er jo lidt ligegyldigt, ikk? Men okay, jeg kan godt se, hvad du mener. Du vil vi gerne have.
+
+47:03
+Egentlig fordi jeg har holdt mig til at ende ligesom holder redskab på rækkerne. At der skulle være et empiri i stedet for.
+
+47:09
+Og ja, du kan godt have ret i, at det måske ville være en god ide.
+
+47:13
+Men jeg er sådan set også lidt ligeglad, om jeg kalder det indmelde og kalder det en.
+
+47:18
+Jeg var spændt og det var en historisk sejr. Sådan vil du have det, der skal være.
+
+47:24
+Men er det dig? Jamen nu slås om nul og nogle ord nu fanget på det forkerte ben, tror jeg.
+
+47:32
+For det første var jeg favoritter generelt, men nu når du sagde det der, så så tvivler jeg på, at måske er du der.
+
+47:38
+Jeg har forklaret det korrekt, fordi ja, jeg mener det, at der kommer en. Der kommer en X1, og du har den specielle ex.
+
+47:43
+Og så spørger jeg Hvad sker der, når jeg transponerede denne ex? Ja, og det der sker er altså ex emmet, der står hernede eller extended.
+
+47:51
+Det kommer på den sidste plads er over os. Jeg kan ikke begynde at kalde herover for X1 Lang.
+
+47:56
+Som du kalder det indmad, så skal jeg bestemt også kalde det EM derovre. Ja, lad os få en pause.
+
+48:02
+Nu. Pipeline.

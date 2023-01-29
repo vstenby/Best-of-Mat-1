@@ -1,0 +1,989 @@
+0:04
+Arm flux. Eller det som man også kan kalde ortogonale flade integral.
+
+0:10
+Det originale fladen Skram altså er lidt hvis det hænger.
+
+0:16
+Det hænger meget godt sammen med det, vi snakkede om i fredags.
+
+0:19
+Det tangent shield kurven til Integral, som på samme måde kombinerer en geometri hér en kurve med et foreskrevet værktøj felt.
+
+0:33
+Så det vi kigger på var, at vi havde en primitiv Ziering af en kurve, som vi kalder.
+
+0:40
+Og vi havde givet et eller andet væk så fælt ved. Og dette Tonkin Shield Code integral gør det integrere dens specielle funktion,
+
+0:52
+der optræder som et skalar produkt mellem væg feltet på kurven prikket med en retning svigter.
+
+1:01
+Så det er vigtigt at pointere,
+
+1:04
+at Cohen ikke blot er gide med parameter fremstilling her eller vi skal tænke på kuren som udstyret med en eller anden retning.
+
+1:14
+Kan I så bare en eller anden givet retning svigter en der fortæller os i hvilken?
+
+1:20
+Vi kan ikke tænke på det, som der fortæller os, i hvilken retning ville ligge på langs kurven.
+
+1:24
+Ham er så det er den funktion, det tager, men selve ens kode integral integrerer op som et koben til Grand.
+
+1:31
+Det vi så i sit studie var, at det kunne skrives på denne kompakte form, altså evaluere værktøj feltet på kurven.
+
+1:41
+Men husk, der er en pris, vi skal betale det ikke. Det er ikke nok.
+
+1:44
+Vi skal også huske at tage højde for en Jacobi matrice og det bidrag sammen med den her væg, så giv os bare den væk.
+
+1:55
+Så er Prik i gang og G, og under udvidelsen af dette brugte vi selvfølgelig,
+
+2:01
+at den her retning svigter er prik U, som er tangent til kogen, fordi er en dramatisering af kurve.
+
+2:09
+At den pegede i samme retning som den foreskrevne retning er,
+
+2:15
+hvis vi havde en anden situation, hvor vores parameter Ziering, pegede i modsatte retning.
+
+2:24
+Så vil vi få flux sind eller tanke til Corfitz Gran med det med det modsatte fortegn.
+
+2:30
+I kan se hvis jeg skifter. Fortegn på er her, så ændrer jeg bare fortegnede på min tanke til kurven Skram.
+
+2:40
+Jeg vil komme lidt tilbage til det i dag, fordi når vi snakker Kluxen, så er det også vigtigt at holde regnskab med.
+
+2:48
+Med disse retninger, som jeg har skrevet her, er det selvfølgelig ikke tilfældet. I stedet peger vores retning svigter.
+
+2:56
+Altid i samme retning som den foreskrevne i vektoren tank letvægter enheds tangent værktøj.
+
+3:02
+Kendt, så det var det vi snakkede om i sidste uge. Nu skal vi snakke om og integrere.
+
+3:10
+Der er også en kobling mellem et væg felt og en giver med 3.
+
+3:15
+Men nu kigger vi i stedet for koder, og så kigger vi på flader.
+
+3:19
+Og vi producerer et væg felt inde på en Noval, en givet normal retning for denne flade.
+
+3:27
+Så det vi skal i hvert fald ind over er, at vi skal kunne integrere over nogle flader på samme måde,
+
+3:33
+så er Kluxen her bare et specielt flade integrale værk.
+
+3:39
+Og så lad os lige lige starte med at huske på, hvordan vi integrerer overflade.
+
+3:44
+Dernæst vil jeg snakke om Flux. Jeg vil motivere dem. Jeg vil komme med en definition.
+
+3:50
+Jeg vil komme med et eksempel, og så vil jeg prøve fra definitionen at gå tilbage til fysikken,
+
+3:56
+når jeg snakker om volumen, ekspansion, og til sidst vil jeg gerne snakke bruge bruger tiden på på et metallak.
+
+4:07
+Og lad os prøve at gå i gang, så vi har tidligere snakket om flade integralet, for det her er altså bare en ved mindre.
+
+4:19
+Vi starter som altid med en parameter seeing over et akse parallelt domæne.
+
+4:28
+Nu skal du måske ikke lige hvad er begyndelsen på en 0,09 slår man fejl hærget.
+
+4:36
+A. Eller du går fra A til B. Og ved at gå for sent til det.
+
+4:43
+Og så har vi givet. En funktion er ham som tager de to parametre ur ved og giver os den flade i rummet.
+
+5:02
+Er. Og. Hvis nu vi forestiller os en inddeling herover og vi holder konstant.
+
+5:16
+Og lagde vil løbe mellem Se og det, så giver det os ved hjælp af er når vi res drankere til disse linjer giver
+
+5:24
+det os set det sådan en inddeling kvalitativt så bør have det samme antal 1,
+
+5:29
+2, 3 4, 1 2, 3 4. Således. Og tilsvarende hvis jeg holder ved konstant.
+
+5:39
+Og en formue. Når man tager tre styks, så får jeg.
+
+5:46
+En inddeling. Der er seere nogenlunde så solid som.
+
+5:54
+Specielt hvis jeg tager et. Punkt her på fladen.
+
+6:01
+Så vil der være en vægter. Her er mere uld, som er tangent til den her linje her hvor vi holdes konstant.
+
+6:13
+Er Prego, så er de pansrede parcel med hensyn til parameteren.
+
+6:18
+Tilsvarende.
+
+6:19
+Hvis jeg kigger på denne her linje her, hvor ved holdes konstant, vil der være en vægt som er mærket V, som er tangent til denne her linje.
+
+6:28
+Tangent til fladen. De to vektorer er begge tangent til flade.
+
+6:33
+Og de. Hvis vi tager krydsproduktet mellem R, U og R&B, så får vi normalvægt her på fladen.
+
+6:50
+Således. Investor. Som en funktion ur ved igennem parameteren.
+
+6:59
+Fremstillingen. Så det jeg har skrevet hør. Det er.
+
+7:08
+Den normalvægt så ud ved. Således som krydsproduktet mellem de to reaktorer der ligger tangent til fladen.
+
+7:24
+Og så har vi. Flade integralet.
+
+7:31
+I. Af funktionen f.
+
+7:40
+Som vi forestiller os at vi har en eller anden funktion af tre variable, som lever på denne flade hør.
+
+7:50
+Og vi ønsker altså at integrere denne her funktion over fladen,
+
+7:53
+så vi kan forestille os at f af en eller anden densitet og vi ønsker og bestemme massen af den her flade.
+
+8:06
+Det er den kompakte skrivemåde. Er således.
+
+8:14
+Og via vores parameter fremstilling. Så får vi den her form.
+
+8:31
+Og ikke mærke til. Altså her har jeg bare evalueret funktionen f på parameter fremstilling.
+
+8:41
+Men ligesom vi kender for integration af en variabel, når via substitution der er en pris,
+
+8:47
+så betale og den pris der skal betales er, at der skal være en Jakobi faktor.
+
+8:51
+Var jeg kropsfunktioner. Jacobi er funktion i Greville og i det her tilfælde.
+
+9:06
+By, der er Jacobis funktionen bare givet som det areal er det par arealet af det parallelogram.
+
+9:15
+De to vektorer er mærket u og er afmærket ved udspænder.
+
+9:20
+Og det er det samme som længden af normalvægt som.
+
+9:28
+Er altså royal. Af.
+
+9:38
+Parallelogram var lallede nu gram.
+
+9:47
+Udspændt. Af.
+
+9:56
+Vektorerne. Lidt tåge og nød er om at hugge ud og er mærkelig nok.
+
+10:10
+Her har vi vores flade skrald. Og i.
+
+10:22
+Lad os nu bevæge os til næste punkt på dagsordenen, at der var var lige en genopfriskning af vores flade til gran.
+
+10:31
+Og nu vil vi gerne integrere en helt speciel funktion.
+
+10:38
+Men. Lad mig lige prøve først og og motivere begrebet flux, så det jeg er interesseret i at kigge på, er.
+
+10:56
+Et simpelt scenarie, hvor jeg blot forestiller mig, at jeg har et parallelogram, der er udspændt af to vektorer a og b.
+
+11:07
+Kate har et pakket migranter, og så forestiller jeg mig, at jeg udover denne simple flade har givet et væk såvel.
+
+11:18
+Lang. Er og lad os bare her til at starte med.
+
+11:36
+I det simpleste tilfælde forestille os, at vi her er konstant, og det vi kan forestille os er, at vi.
+
+11:49
+Beskriver en strømning eller hastigheden er en strømning, så strøm det hedes væk så fælt.
+
+12:04
+Så vi kan forestille at vi har en eller anden væske, der strømmer igennem et parallelogram,
+
+12:09
+en flade hør og B angiver hastigheds vektorerne til alle de partikler, der strømmer igennem vores flade.
+
+12:20
+Og Kim. Grunden til at flugten er interessant, det er fordi, at ofte støder man et svar på følgende spørgsmål Hvor meget?
+
+12:37
+Strømmer. Der.
+
+12:46
+Gennem fladen. Altså vores simple flade parallelogram ned.
+
+12:55
+Para har lavet lov dramaet.
+
+13:03
+Per tidsenhed. Kø.
+
+13:15
+For hvor meget besværet er konstant. Vi har lad os sige videre i en hastighed, så der er et eller andet med nogle meter per sekund.
+
+13:25
+Så lad os sige, at det sekund er vores tid siden hed. Så spørger vi om, hvor meget strøm strømmer der igennem den her?
+
+13:33
+Den flade hør at nogle kan. Der kan hjælpe mig med at svare på det.
+
+13:45
+Ja, altså. Til tiden har vi altså et parallelogram her, og hvis jeg kigger et sekund senere, så vil jeg have flyttet hele det her parallelogram herop.
+
+14:00
+Så efter en tidsenhed. Så har jeg mit parallelogram job, var det det du gerne vil sige?
+
+14:13
+Det burde være rumfanget af den her æske ikke er korrekt.
+
+14:18
+Så efter en en tidsenhed, så har hele den her flade. Arbejdet sig igennem hele den her kasse hér.
+
+14:28
+Eller det har parret Lell i podium, Jung og for finnen.
+
+14:34
+Altså hvor meget det strømmer igennem paralleler games. Ganske rigtigt.
+
+14:40
+Svaret er. Netop volumen af det her par var lægen lagde.
+
+14:54
+Eller parallellen i PEGI. I Epi dum.
+
+15:01
+Er så jeg skal have volumen af den her parallel i videoen, hvor alle fladerne er, er parallelogram mig, og det er det, vi kalder flux.
+
+15:18
+Det er det vi kalder Kluxen. Og hvordan finder jeg volumen da den her?
+
+15:25
+Kan I huske formen for det? Vi snakkede om det da vi skulle lave at indføre vores rummænd, så.
+
+15:33
+Jeg. Med 10 mentorer skal du alle.
+
+15:43
+En anden lektor har ronkedor brugt om produktet. Det rumpe dog der er det rigtige begreb alternative småkager.
+
+15:51
+De tre vektorer udspænder objektet her op i en opildnende matricer skal have taget determinanten af den.
+
+15:59
+Det er det samme. Så jeg kan tage et vægteren ved jeg kan tage vektoren a b, opstille dem som søjler og tage et determinanten af den.
+
+16:08
+Det er præcis volumen af det her parallelle i Pedro et pipi liv.
+
+16:15
+En anden måde, som du vil rigtigt siger, er, at vi tager det her rum produktets.
+
+16:20
+Vi tager væk fra feltet. Det prikker med A.
+
+16:24
+Chrys B. Og.
+
+16:34
+En måde at skrive det på er jo at skrive ved prikkede en normalvægt, så.
+
+16:45
+A cruys bevæg sig altså for at.
+
+16:53
+Måden vi. Vi får det her volumen på, kan vi også tænke os som.
+
+17:02
+Arealet er grundflade. Hvad er arealet af grundflade?
+
+17:09
+Undskyld længden af A Kruspe, ja så.
+
+17:16
+Det her er vores arealer af vores grundflade er og sker, så for at få volumen, så skærer gangene, arealet eller gange med højden og højden.
+
+17:28
+Det er præcis det her prikproduktet og.
+
+17:34
+En hvor der står normalvægt, sig til fladen og for at få højden, så prikker jeg ved med én.
+
+17:42
+Det er min højde. Og arealet af grundflade 1 står ham altså i den form, der er det bare få i det grand grundflade.
+
+17:59
+Eller arealer grundflade.
+
+18:05
+Den sidste måde at skrive det på er selvfølgelig ved hjælp af den vægtere, som er normalvægt, sig til fladen, men ikke nødvendigvis har II, nemlig A.
+
+18:14
+Kruspe. Den vi kalder store, en vektor er den havde jo faktisk.
+
+18:22
+Og skrevet op her op, hvor vi bare forestiller os er et prik u som værende a er prik ved værende B,
+
+18:30
+er det vores store normalvægt, som nødvendigvis ikke har længe mener at prøve at illustrere den har.
+
+18:37
+Jeg sidder måske her en af krybbespil.
+
+18:47
+Kæk, men det var lidt begrænset hvor mange.
+
+18:55
+Vi hjælper den her simple konstruktion her, så det er begrænset hvor mange og hvor meget og hvor mange vægter felter, hvor mange flader jeg kan.
+
+19:05
+Jeg kan besvare dette spørgsmål. Jeg er sådan, som jeg har skrevet op her.
+
+19:10
+Så responderer jeg mig til konstante vægt felter.
+
+19:15
+Så selvfølgelig vil vi gerne kunne besvare dette spørgsmål, når vi har at gøre med mere komplicerede værktøj, felter og mere komplicerede flader.
+
+19:23
+Når man nu prøver at tage en yderligere simpel geometri, som vi får brug for senere.
+
+19:30
+Så jeg forestiller mig at jeg har sådan en cirkel skive her med Radio's 1.
+
+19:38
+Og så her. Højre cirkel.
+
+19:46
+Skiver. Med radius.
+
+19:54
+En er og jeg forestiller mig nu at der kommer i hvert fald.
+
+20:03
+V, og jeg vil kigge på et ganske bestemt et senere, så lad mig bare kigge på et ganske bestemt ham et, to og tre.
+
+20:19
+Og hvis jeg nu ønsker at besvare det samme spørgsmål.
+
+20:27
+Jamen så sker igen. Spørger om.
+
+20:31
+Hvor meget Strummer, der gennem denne sirkis skive per tidsenhed og efter en tidsenhed har cyklet skiven, bevægede sig her op.
+
+20:44
+Og. Jeg får nu.
+
+20:52
+Altså en cylinder hvor enderne er skæve. Og man kan spørge hvad flux nær.
+
+21:03
+Jamen igen kan jeg bruge tiden. Formlen der bare siger højde gange og royal.
+
+21:14
+Grundflade. Er og.
+
+21:26
+Hvis jeg gør det. Så får jeg.
+
+21:34
+Arealet af bundpladen er PI. Og højden.
+
+21:38
+Jamen, der skal jeg producere den her normalvægt, så L som er nul nul ep der skal jeg ser dette væg tage fat på den.
+
+21:48
+Så jeg får Pi, som er arealet af grundflade ved tricket med investoren.
+
+21:54
+Og det giver mig. De tre piger. Fordi at ved prik 1 er nul gang en nul gange, to og tre gange en, og summen af disse er tre, dermed tre ppi.
+
+22:06
+Det vil jeg komme tilbage til senere. Så kan et simpelt gear med 3 simple konstant vægt vægttab, felt.
+
+22:21
+Så det er naturligt at spørge. Hvad med?
+
+22:30
+Mere. Kompliceret.
+
+22:39
+Så felter eller strømning situationer. Hvad gør vi der?
+
+22:58
+For eksempel ville jeg senere kigge på et tilfælde, hvor jeg tænker jeg har et rør.
+
+23:06
+Hvor der løber en væske. Her i Dex Z planen er udløbet her, givet vil en cirkel skive og jeg har et eller andet vægt så fælt,
+
+23:22
+som peger i y aksens retning, men som ikke nødvendigvis er konstant.
+
+23:30
+Nul. V y som en funktion er ikke sig selv.
+
+23:35
+2. Undskyld! Og nul. Er.
+
+23:42
+Hvordan ville jeg bestemmes besvare spørgsmålet om hvor meget der strømmer igennem.
+
+23:47
+Det her udløste kanal her alle udløb.
+
+23:50
+For mit givet strømninger faldt det sådan nogle ting, jeg gerne vil besvare, så lad os lige prøve først, og inden vi går tilbage til den.
+
+24:03
+Denne her problemstilling. Lad os lige prøve og indføre flux begrebet matematisk og så vende tilbage til den her problemstilling.
+
+24:13
+Så. Det jeg gør nu, er jeg som før forestiller mig.
+
+24:22
+Der er to ingredienser der skal være på plads før der skal være en flade, som er par med et forceret over et accepteret, parallelle domæne.
+
+24:35
+Det giver mig. Sådan en flade har.
+
+24:43
+Ja, og ydermere så skal jeg altså have givet et væk, så faldt.
+
+24:53
+Og jeg skal også give en eller anden forståelse af, hvad der er in, og hvad der har ud.
+
+25:00
+Kan man sige. Så er altså jeg skal angive en eller anden retning for min, hvor jeg vil undersøge hvor er så hvor meget strammer der gennem her?
+
+25:15
+Hvad forstår jeg ved Gennem hvad forstår jeg ved ud, og hvad forstår jeg ved en, så jeg skal give en eller anden væk.
+
+25:20
+Så på fladen. Som så normalt på flade enheds normalvægt på fladen.
+
+25:27
+Som altså står vinkelret på det tangent plan, der optræder præcis i det punkt der.
+
+25:36
+Og Give og. Hvis jeg er i den heldige situation.
+
+25:43
+Som jeg vil tænke på nu hvor altså jeg har via min parfume frasering som før.
+
+25:51
+Har jeg givet en stor endevæg, så man bare optræder som krydsproduktet mellem disse to vektorer.
+
+26:00
+Jeg vil antage, at nu har jeg i den her situation her, hvor hvor de peger i samme retning.
+
+26:05
+Fordi at så får jeg jo direkte en formand for en som bare at tal normalvægt vektoren end den som ikke har den korrekte længde,
+
+26:15
+og så normalisere den med dens længde. Så er det netop den ene sektor der peger i den rette retning.
+
+26:25
+Og så vil jeg definere og.
+
+26:41
+Flux på følgende måde. Flux er.
+
+26:48
+Flade integrale. At funktionen.
+
+27:08
+Ved Krik en en. Det er altså noget der er givet uafhængigt af min far, min frasering udelukkende ved hjælp af vind og ved hjælp af min flade.
+
+27:20
+Når jeg følger en eller anden foreskrevet konvention, ofte i opgaver, så vil der.
+
+27:28
+Vil der være oplyst en eller anden konvention, om end hvilken retning peger en BigMac til?
+
+27:33
+Altså, jeg har jo også. Jeg har et valg, jeg kunne vælge at lade en.
+
+27:39
+Lad os kalde den ind til det værre end normalvægtige, der peger i modsatte retning,
+
+27:43
+men opgav formuleringen hvad der typisk fremgår, hvilken af de to scenarier der skal vælges.
+
+27:50
+Så det er bare en flugt, så bare fladen til kravlet over den her funktion.
+
+27:54
+Vi har givet, vi har defineret vores fladen til gral efter, og det er bare den her funktion.
+
+27:59
+Overfladen skal integrere op. Jeg har læst historien.
+
+28:07
+Undskyld hvor han står er det lille a hero.
+
+28:15
+Her er store ending. Er du siger, at det skal være legeland? Nej, nej.
+
+28:23
+Det er ikke rigtigt fordi, at hvis jeg integrere.
+
+28:29
+Det er godt spørgsmål. Hvis nu jeg. Det jeg siger, da jeg skal integrere den der funktion op over mit.
+
+28:35
+Det er det, jeg har defineret som som flux herover. Fladen skrællet den her funktion.
+
+28:41
+Hvis vi så går tilbage til det her eksempel og siger det betyder, at jeg skal integrere denne her funktion op over mit parallelogram.
+
+28:49
+Det korrekt. Den her funktion, den afhænger ikke af hvor jeg er på fladen.
+
+28:53
+Den er konstant grøn, så det vil sige flade integralet.
+
+28:58
+Den her funktion over mit parallelogram. Det er den her størrelse.
+
+29:04
+Gange med. Arealet er mit parallelogram ha fordi Instragram ved prik N afhænger ikke af, hvor jeg er på fladen, der ryger udenfor integration.
+
+29:17
+Jeg skal bare integrere op over mit parallelogram, konstant et år og bare mit parallelogram.
+
+29:22
+Det er arealet af parallelogram. Så den definition jeg har indført her stemmer overens med mit eksempel.
+
+29:30
+Jeg overvejer hvor jeg fysisk motiveret det følgende som som flux gennem min.
+
+29:38
+Ja, og det var ikke et helt helt. Et helt sikkert ja.
+
+29:44
+Det var mere. Jeg tror, der er nogen til at sige ja agtigt. Ja. Det men altså pointen er herover.
+
+29:52
+Indtil Grandjean ved Prince med forstås skal integreres, afhænger ikke af hvor jeg er på fladen.
+
+29:58
+Ja, så kunne jeg påskeøl op. Ved prik n over mit parallelogram.
+
+30:16
+Den afhænger ikke hvor jeg er på fladen. Den kan ryge uden for. Og så integrerer jeg parallelogram.
+
+30:24
+Bla bla bla bla. Et. Det er min. Det har det royale er mit parallelogram.
+
+30:31
+Arealet er pillet rammet af længden af den normale væg, så de to vægge som udspænder parallelogram.
+
+30:38
+Er. Er du med nu? Godt det var mere sikkert flux mere generelt, så gør vi det på den her måde.
+
+30:46
+Som tak for spørgsmål som vi, så har jeg over hals og overensstemmelse med med den indførte flux.
+
+30:52
+For det simple eksempel med et partiprogram og et konstant værktøj felt.
+
+30:58
+Så. Vi skriver. Flugten.
+
+31:04
+Som flux. Som afhænger af et foreskrevet vægt, så faldt V, og det afhænger også af flaget.
+
+31:15
+Faktisk så burde jeg også tilføje et lille en.
+
+31:20
+Væk, som skulle angive i hvilken retning i hvilken retning forstår jeg ud, og hvad forstår jeg ved en.
+
+31:27
+Men det gør de ikke i noterne, så man kan ligesom sige, at den når jeg har en flade.
+
+31:33
+Sådan skriver F. Så mener jeg også, at jeg kender en form for orientering af flaget.
+
+31:38
+Jeg ved hvilken retning ud og hvilke retning der. Kø Nu har jeg skrevet.
+
+31:51
+Nu har indført det her flux er uafhængigt af en parameter CERN, men vi har også en pom til serien til rådighed.
+
+31:56
+Så lad os lige bruge vores flade integral til at prøve at opskrive en form, som vi kan regne på er.
+
+32:05
+På samme måde som vi indførte det i telte koge integral hér.
+
+32:11
+Men vi er ankommet til Ziering, så får vi faktisk et integrale over en variabel som vi som de rent faktisk kan udføre.
+
+32:19
+Og vi gør brug af vores parfume til selv. Så lad os prøve at gøre det her også.
+
+32:26
+Og hvad er det vi gør? Vi gør bare brug af formlen hér.
+
+32:32
+For fladen til graner. Så jeg siger integralet fra A til B eller der set først er forvirrende.
+
+32:39
+Først fik 3D A til B. Og så skal jeg integrere.
+
+32:47
+Funktionen evalueret på fladen, demokratiet den første faktor har.
+
+32:56
+Vægttab fælt devalueret på flade, prikket med end på fladen, som jeg betragter sådan en funktion af U og V,
+
+33:03
+fordi at jeg kender den jo har fra som en funktion af og ved.
+
+33:09
+Og så skal jeg huske min. Jeg kunne bian eller. Jacobi funktion og jeg kunne i funktionen.
+
+33:14
+Det var længden af min normale vægt, så for det skriver jeg på ham.
+
+33:19
+Længden u. V. Og så siger jeg Det er sgu det vi husker på.
+
+33:26
+At rækkefølgen her stemmer overens med faktisk følgende er grænserne.
+
+33:31
+Kjær fortsætter dog. Kø, for det er det jeg gør nu.
+
+33:50
+Det er. Jeg vil gerne lige prøve at simplificere det her udtryk ved kan jeg ikke gøre noget ved.
+
+33:58
+Men jeg kan bruge min formelle får en lille anden funktion af mig ved skrevet her op.
+
+34:05
+Så jeg skriver prikket med store n o.
+
+34:09
+V. Ja, og så skal jeg dividere med et tal.
+
+34:15
+Som er længden af store N. Det kan komme uden for baren.
+
+34:20
+Tesen. Så det var det første prikproduktet jeg har taget hånd om der, så skal jeg huske at gange med Jacobi funktionen.
+
+34:33
+Og de to går ud og tilbage står der.
+
+34:39
+Se til dem. A til B. Væk fra feltet, evaluerede på fladen.
+
+34:44
+Mere pragmatisk formalisering er prikket med store ind.
+
+34:53
+Og husk på store udregnes for par med placeringen som er prego kryds er prik ved.
+
+35:03
+Er når det som gælder som følgende, altså at store peger i den rigtige retning, eller så må jeg jo vende om på det, ikke?
+
+35:14
+Eller som jeg vender om på det. Jeg må vende om på rollen, er mærket U og er mærket ved det, fordi så ændrer jeg fortegn.
+
+35:22
+Og dermed vil jeg eksempelvis kunne fange en childe, hvis ind til det var min foreskrevet retning.
+
+35:30
+Jeg har den store indgivet. Så må jeg indføre er med gave.
+
+35:39
+At minus en god ved over længden er en.
+
+35:49
+Alternativet vil at gøre brug af krydsproduktet. Så kan vi skrive det sundheds.
+
+36:01
+Og nu har jeg indført en båndformede for.
+
+36:08
+For mit flux lad os nu prøve at se i aktion i eksempel, og her vil det også komme mere ind på det, der er med rollen.
+
+36:16
+Det, der måske er lidt forvirrende, for nu er det der med rollen af den foreskrevne retning.
+
+36:21
+Den, der er investor, og det der med at sikre sig, at tingene vender den rette rette vej, fordi Flux ligesom til tanken selv kunne han skrev.
+
+36:29
+Det regnede med fortegn, så man skal huske at have fortegn og få plads.
+
+36:35
+I. York Er I klar på et eksempel?
+
+36:46
+Lige inden pausen har jeg forestiller mig, at jeg har et rør.
+
+36:59
+Jeg forestiller mig at der er et udløb i ét lig nul.
+
+37:08
+Og hvor blev mine gule kridt af?
+
+37:14
+Google. Google, Google. Så forestiller jeg mig, at der er givet et væg felt.
+
+37:27
+X y z. Og det har formlen nul.
+
+37:37
+1. Minus sæt i anden plus ekstern.
+
+37:47
+Og. Fladen har. Og måske ikke har været guld.
+
+37:56
+Man slipper for at zoome ind på fladen herover. Den ligger altså i vores sæt.
+
+38:02
+Explain. Det vil sige lig nul,
+
+38:07
+så det jeg gør der er simpelt hen tager denne her ende Skive og kigger for your aksens retning kicker for your aksens retning og hvad serier.
+
+38:16
+Jeg ser en cirkel skive. Med radius.
+
+38:26
+1. Ja. Så det her giver som min flade.
+
+38:34
+Og den elsker jeg at interessere. Til det indfører jeg selvfølgelig en vinkel ved med ikke saksen.
+
+38:46
+Og en radius u. Der er indført en vinkel ved man ikke saksen og en radio's ud i exit planen.
+
+39:00
+For så kan jeg med et trisser min flade. Jeg ved den lever i lige nul.
+
+39:06
+For anden koordinaten for min med. Ziering er konstant lig nul.
+
+39:11
+Og her ophøjer u cosinus sved og hernede højere u sinus til ved.
+
+39:20
+Giver mig med hjælp af ur ved i intervallet. ULEB var fra nul til en fordi radius for cirkel skiven er 1 og V Leiber fra nul til to ppi.
+
+39:43
+Jeg har i hvert fald. Jeg har nogle flade, som jeg har par interesseret interesseret, lad os prøve og regner Flux.
+
+39:53
+Ud gennem fladen, så flugten er. Tricket med en Demy.
+
+40:05
+Men jeg har ikke fortalt endnu hvad N er, er det jeg vil sige, at en prajer i dyre aksens retning.
+
+40:16
+Så en højere hyre aksens retning, det vil sige der er nul, et og nul.
+
+40:25
+Nu har jeg alle ingredienserne. Det eneste jeg har brug for får og hovedvejen.
+
+40:35
+Vi hjælper denne her redaktionens formand. Så ved vi, at vi kommer til, inden der er brug for det.
+
+40:39
+At finde normalvægt frem til fladen som funktion af uger, vi stor end er.
+
+40:47
+Så det er en lad os få et kik, inden stormen er ved.
+
+40:55
+Er er mærket ud, er mærket ved.
+
+41:02
+Hvad er Armagnac U? Den er knusende svag. Nul senere tv.
+
+41:12
+Krydset med vægteren, der hedder Minus O Sinus TV, fordi de France seere med hendes far simpelt hensyn til ved nul og ud cosinus til det.
+
+41:27
+Det giver. Nul minus o og nul.
+
+41:36
+Kø. Hvad ser vi ham? Lad os prøve på at angive vores egen normalvægt så store en.
+
+41:49
+På vores figur. Den peger i negativ den negative i retning, for der står minus her og løber fra nul til 1.
+
+42:00
+Så hvor stor den ligger her. Men peger i den forkerte retning.
+
+42:10
+Så. Det er jeg nødt til at gøre nu altså og ændre på min end den end jeg har valgt her, opfylder ikke kvitterede jeg starter med.
+
+42:23
+Jeg sagde, at den skulle pege i den rigtige retning, så derfor.
+
+42:29
+Lad os kalde den her for en childe, fordi det er overhovedet ikke den her vi skal bruge.
+
+42:32
+Nej, vi er nødt til at tage præcis den, der peger i den rigtige retning. Så den har prajer modsat lille and så derfor.
+
+42:52
+Må vi ændre på rollen U og V.
+
+43:03
+Altså bare gange denne her med mine selv nul, u og nul.
+
+43:15
+Dermed kan vi regne videre herfra. Vi skal vist gå fra nul til to ppi.
+
+43:21
+O. Skal gå fra nul til 1. Og så skal vi evaluere.
+
+43:29
+Vores med forcering på på fladen dør ved.
+
+43:34
+Eller er undskyld. Og prikker den med store N er o og v det o.
+
+43:41
+Det ved. Og vi får ja.
+
+43:48
+Det eneste der kommer bidrag der kommer her fra nul til to PPI 0 til 1.
+
+43:54
+Det er en minus. Og så skal jeg tage sæt i anden plus jeg ikke siger andet.
+
+43:59
+Det er u hjernen, cosinus hjernen ved plus o i anden sinus i hjernen ved.
+
+44:10
+Og det sker gange med ud. Er fordi at når jeg tager produktet det eneste bidrag der kommer fra anden koordinaten i ved de andre er nul.
+
+44:23
+Som det fremgår her. De andre altså nul.
+
+44:26
+Så det eneste bidrag jeg får, det er fra anden koordinaten. 1. Minus sæt i anden eller ikke stjernen plus sæt i anden.
+
+44:32
+Og så skal jeg gange med anden komponenten af store ind, og det er det nu.
+
+44:40
+Det ved. 0 2 Pi.
+
+44:44
+0 nul. Du deler denne op i to led. Jeg ganger Einhard det første.
+
+44:49
+Det giver mig. Det ud. Det ved. Minus nul.
+
+44:55
+To film. Nul et fordi altså det jeg har stående.
+
+45:01
+Idiot reglen. Det er bare dem i andet sæt jer hjernen udenfor en parantes tilbage står der
+
+45:07
+knusende stjerne på sine stjerner lige med én og dermed højere u i tredje.
+
+45:13
+Her får du i anden gangs får det, du har til at give uge i tredje det u.
+
+45:18
+Det ved det første led er to ppi, fordi integrationen afhænger ikke af ved her.
+
+45:24
+Og så skal jeg tage ud i anden halveg, som er stamform zone til U, og jeg vil lære den på grænserne.
+
+45:32
+Nul og ét. Jeg skal trække to piger, tage en stamform, to i tredje det u.
+
+45:39
+I fjerde divideret med fire hjemlande på grænserne, nuller etc.
+
+45:43
+Det giver. Her føjer.
+
+45:48
+To p gange en halv. Det giver mig p.
+
+45:56
+Minus, og herfra er en fjerdedel så lidt tøvende med at skrive det rigtigt op har.
+
+46:05
+Pi minus pi pulver er fordi herover føjer to pi divideret med 4 pi halve lig med pi halvt.
+
+46:17
+Så nu har jeg bestemt flux ud af igennem min min flade hør og det der var.
+
+46:27
+På spil har vi jo simpelthen bare jeg brugt mine reduktion reduction formen her, hvor jeg fandt en dramatisering.
+
+46:32
+Jeg er oppe, skrev en endevæg. Så jeg er kommet lidt ind i modvind, fordi at end ikke pegede lidt i retning.
+
+46:39
+Så jeg var nødt til at bare lige at indføre en ny N, hvor jeg to holdt regnskab med den rigtige retning, og så udfører det integrationen.
+
+46:49
+Flad, simpel, flade integral, og tilbage står der den givende.
+
+46:56
+Der er så. Flux gennem den foreskrev en flad og ikke nogle spørgsmål inden vi holder pausen.
+
+47:10
+Nej og G. Så lad os lige holde af ti minutter.

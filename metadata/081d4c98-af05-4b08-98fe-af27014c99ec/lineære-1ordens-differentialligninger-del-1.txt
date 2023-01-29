@@ -1,0 +1,971 @@
+0:05
+Hej, jeg går mig ovenfor og skriver at det så ruller, så ruller toget igen.
+
+0:13
+I dag skal vi starte på differentialligninger, og det som det handler om i dag, er lineære.
+
+0:20
+Differentialligninger er første år, og det er i en vis forstand.
+
+0:25
+I de simpleste, vi overhovedet har, og vi har en løsning. Formen og jeg tror ikke, der er kommer til at foregå noget i dag, som I vil synes er svært.
+
+0:40
+Der er jo alle sammen, men, og der er.
+
+0:48
+Der er jo 1,0 i value, der hedder disse, som på under fem sekunder kommer til at kunne gøre alt det, som jeg kan gøre her i dag.
+
+0:58
+Og derfor er det enormt vigtigt, at læger lærer at bruge den rigtigt.
+
+1:05
+Og der er jeg selvfølgelig med i Oblak, som var det allerførste, I skal sørge for at kigge på i dag.
+
+1:11
+Men når det så er sagt, så skal man også lige være klar over, at hvis man,
+
+1:15
+hvis man skal lære at bruge nogle computer værktøjer rigtigt, så skal man også kunne forstå, hvad der er.
+
+1:19
+De forpulede programmer spytter ud en gang imellem og.
+
+1:24
+Og det er sådan set det, som vi så også skal prøve at gøre lidt ud af i dag.
+
+1:28
+Det siger alt, hvad det er, når man løser sådan differentialligning. Hvad er det egentlig, der kommer ud?
+
+1:33
+Hvad er det, vi kan genkende, og hvorfor ser det sådan ud?
+
+1:37
+Og hvordan skal det se ud, så så så det der med teknisk at gøre tingene altså sidder løst i hånden.
+
+1:46
+Det kommer jeg selvfølgelig til at underholde. Jeg lidt med på tavlen, men altså, det er det jo ikke.
+
+1:51
+Det er jo ikke det, som en ingeniør går over. Bruger sin tid på i dag. Altså det.
+
+1:57
+Man kan så sige differentialligninger lige præcis.
+
+1:58
+Det er jo en gren af matematikken som som i virkeligheden måske den allerstørste gren af matematikken overhovedet.
+
+2:06
+Der er i hvert fald rigtig meget matematik, der er opfundet fordi at man skal.
+
+2:11
+Man skal kunne sige noget om differentialligninger, lykkedes dem eller prøver lykkedes dem,
+
+2:15
+fortæller noget om, hvordan løsningerne opfører sig sådan noget og.
+
+2:19
+Og grunden til dette er, at hvis man vil forstå naturfænomener, så den hyppigste måde at modellere sig noget på,
+
+2:28
+er semin gennem gennem differentialligninger den meget berømte fysiker, der havde taget fejl.
+
+2:34
+Man som én gang sagde, at hvis man vil snakke med naturen, er man nødt til at forstå det sprog, den taler, og naturen snakker altså matematik.
+
+2:46
+Og hvad med den mindre ende?
+
+2:48
+Altså for at kunne forstå fysik, kemi og alle mulige andre naturvidenskaber, som er altså nødt til at kunne forstå en hel masse matematik.
+
+2:56
+Og det er jo sådan set også derfor, de sidder her lige nu. Også fordi mange af jer.
+
+3:01
+Mange af jer har sikkert valgt det her, fordi de gerne vil læse fysik eller et eller andet.
+
+3:07
+Og hvorfor skal man så have noget matematik? Og det skal man, fordi de er fag.
+
+3:10
+De byggesæt med på en hel masse matematik, og det vi gør nu, er, at nu skraber vi lige det aller yderste tynde i.
+
+3:21
+På den matematik, der handler om differentialligninger. Og så kan man ellers fortsætte med det i de næste hundrede år.
+
+3:29
+For der er eddermame meget, skulle jeg hilse at sige. Og det vil I finde ud i kurser fremover.
+
+3:34
+Både inden for jeres forskellige retninger, der vil finde ud af, hvor meget og hvor meget der bliver modellerede de 11 differentialligninger.
+
+3:42
+Så derfor er det enormt vigtigt at forstå, hvad der er, hvad det er, der sker,
+
+3:47
+når man løser de fortages ligninger, hvad man kan forvente, der kommer ud.
+
+3:51
+Og heldigvis når vi, når vi har haft en hel masse lineær algebra, så det lineære differentialligninger.
+
+3:57
+Dem kan vi se en hulens masse om, så det er det, der kommer til at handle om idag.
+
+4:03
+Så lad os lige så.
+
+4:10
+Overskriften er altså lineære lineære.
+
+4:16
+Først åben differentialligning.
+
+4:31
+Det er det dette handler om. Men man er nødt til at man er nødt til at starte et eller andet sted.
+
+4:37
+Så vi skal lige snakke en lille bitte smule funktion.
+
+4:40
+Trump, funktionens rum, og så skal vi, ja, så skal vi kigge på sagen først og ordens differentialligning,
+
+4:54
+og vi skal i særdeleshed lave en form, der hedder panser formlen.
+
+5:02
+Og det lyder jo meget godt. Vi ved ikke rigtigt hvorfor det hedder pantefogeden.
+
+5:09
+Men altså så kan vi jo digte et eller andet når gab.
+
+5:13
+Hvad skal vi så? Hvad skal vi så gøre? Jo. Når man så har passet formen, så må man finde ud af, at der er.
+
+5:24
+Der er mange andre måder at gøre tingene på, og det kan vi samle i kapitlet Trigger julelege, hvor man skriver nærmere.
+
+5:37
+Julens er jo med stormskridt. Når et af de trækker julelege.
+
+5:41
+Vi skal kigge på det her superposition. Hvis man skal til julelege i børnehaver, så kan det ikke den julelege, man skal lege.
+
+5:54
+Men lad os lige prøve kighul, så funktionens rum bare lige.
+
+6:09
+Og måske skulle man for at gøre det tydeligt at have skrevet funktionens væg til ro.
+
+6:15
+Det er fordi, at de vægter, hvor vi lige skal kigge på i dag.
+
+6:20
+Det er væk til Rom, hvor der lever funktioner, så er f.eks.
+
+6:26
+Det vi kalder 0. På et eller andet interval. Det er de kontinuerte funktioner.
+
+6:40
+Og så definerede på et eller andet interval i som af en eller anden delmængde at de reelle tal.
+
+6:48
+Og hvad betyder det? Og det betyder, at hvis jeg nu tager en væg, så der ligger I ser nåle i, hvad er det så?
+
+6:59
+Jamen, det har en lektor. Men vægteren er en kontinuert funktion, det vil sige ikke.
+
+7:03
+Så tag har en eller anden forskrift, og det kunne vi tage et eller andet.
+
+7:07
+Det kunne så være, hvad fanden ved jeg. I 7 3 i det ellers nødlandede plus to til sig et eller andet i den stil.
+
+7:18
+Og det er værd for en koncert funktion. Læg mærke til den variable. Den kalder vi the.
+
+7:22
+Vægteren kalder vi ex, og Det Deliske skal vende til her.
+
+7:27
+For det er nu det som om notationen skifter lidt. Men det gør den sådan set ikke, fordi vi kan hele tiden kaldt vektorerne for ex.
+
+7:33
+Nu er vektorerne bare funktioner og.
+
+7:41
+Hvad vil det egentlig sige? Altså hvad er hvad er en kontinuert funktion?
+
+7:59
+Og det er jo ikke fordi vi selv gøre et større nummer ud af det,
+
+8:03
+men det er bare fordi I er i sammensat af mange populationer og i hvert fald til jeg gerne vil.
+
+8:09
+På et eller andet tidspunkt om ikke ret længe nok bliver afkrævet en forståelse af, hvad det vil sige at være koncentreret.
+
+8:16
+Så hvis vi nu lige engang går tilbage her og siger jamen altså,
+
+8:21
+hvis jeg har en eller anden funktion f der som kaldte en ef for vores funktion for kontinuert.
+
+8:29
+Hvad betyder det i virkeligheden? Altså før. For det første skal den være kontinuert i et eller andet x0, som ligger i det interval, vi kigger på.
+
+8:36
+Men så betyder det bare, at f a ikke skal kunne skrives som funktion.
+
+8:42
+Værdien af x0 klods en epsilon funktion af eksaminer 6 0, så det der står her.
+
+8:53
+Og det er sådan set bare, at når X når x kommer tæt på x0, så bliver dette småt.
+
+9:02
+Det betyder så nærmere f.ex. Så er jeg x0. Og når x er lig med x0, så er den da 0.
+
+9:10
+Består der af F.A. X0 med f.ex. 0, skal der også helst gøres?
+
+9:14
+Selvfølgelig. Men der så dette. Det her er definitionen på kontinuitet.
+
+9:22
+Og man kan skrive det på en anden måde, så man kan se det på denne måde.
+
+9:31
+Det er meget dybsindigt. Jeg er sådan set bare flyttet over på den anden side af lighedstegnet.
+
+9:36
+Men altså en funktion f er kontinuert i x0.
+
+9:41
+Hvis f er jeg x minus f.ex. 0 er et epsilon funktion af x minus x0.
+
+9:46
+Det er en meget præcis måde at sige det på en anden måde.
+
+9:54
+Ubetinget den mindst populære måde at fortælle hvad det vil sige at være konstrueret.
+
+10:01
+Det ved hjælp af det, der hedder Epsilon Delta Note versionerne, fordi det handler om at sige kan jeg, hvis jeg skal finde ud af noget med.
+
+10:11
+Hvis jeg skal fortælle hvor langt ex ligger fra x0, så kunne jeg måle dens størrelse, der kiksede den numeriske værdier differencen.
+
+10:21
+Det er et mål for, hvor lang index ligger fra x0, og det jeg gerne vil have et er jo, at når denne lille skal f.
+
+10:30
+Eks. Og ff. X0 også være lille.
+
+10:38
+Så jeg forsøger at sige at det er hvis en funktion er konserveret,
+
+10:42
+så skal det så være sådan at bestanden, da den er lille nok, så den er også lille nok, kan se det.
+
+10:47
+Hvordan ser man det præcist?
+
+10:50
+Jamen, en måde at sige det på er at sige okay, lad jeres værste fjende vælge et lillebitte tal epsilon, og det skriver vi sådan.
+
+11:01
+For alle tælleren større nul. Dette er symbol.
+
+11:09
+Det læser man for alle dem betyder bare, at nu er jeres værste fjende kommet med et epsilon.
+
+11:15
+Meget, meget lille tal og fjendens seere. Jeg vil have, at den differentierer forskellen mellem F.
+
+11:23
+Jeg ikke så er. X0 skal være mindre af det epsilon. Så skal i og det kalder man afprøver parere.
+
+11:31
+Så skal I afhopper jer det epsilon det vil sige I skal finde.
+
+11:37
+Der eksisterer et delta større 0 således at hvis vi bare sørge for at den er mindre end Delta, så vil det medføre, at den er mindre end epsilon.
+
+11:50
+At der er kontinuitet i x0 ved hjælp af epsilon delta gymnastik.
+
+11:57
+Og dette er alene til jer som for tjekkerne, fordi vi kan ikke holde et indledende matematik kursus uden at man har set denne her notation.
+
+12:07
+På et eller andet tidspunkt. Ja, og det er så sidste gang i denne.
+
+12:13
+Det her kursus, at jeg vil skrive det på tavlen, men jeg tænkte på det på denne måde.
+
+12:21
+Jeres fjende ville have gjort den. Afstanden lille, så skal ikke kunne vælge eks tæt nok på x0.
+
+12:26
+Sådan er det sker. Hvis ikke, er det ligegyldigt hvor lille den er, så forklaringen kan altså være, det er præcis det samme, som det her afgav.
+
+12:38
+Godt nok, så lad os lige tage tråden op igen med dette kontinuerte funktioner, for det er det her.
+
+12:50
+Det her er jo også en pause pause, gymnastik også. Så udtrykker vi på plads i gaderne.
+
+13:00
+Dræberen both back. Sådan.
+
+13:04
+Nu vender vi tilbage til det, der handler om. For ligesom vi har de kontinuerte funktioner, så har vi funktioner, der hedder Kog over i.
+
+13:18
+Og det er de cover gange differentiabel cover gange differentiable funktioner.
+
+13:34
+Med kontinuerte eller afledede. Det lyder dyrt, men det betyder bare at I har fat i nogle funktioner,
+
+13:45
+som I kan differentiere kode gange og hele tiden får kontinuerte funktioner, og alle de funktioner i mere eller mindre kerner er så nogle.
+
+13:59
+Og de ligger sådan her pænt ind i hinanden.
+
+14:04
+Altså for eksempel ligger C3 at I er indeholdt i Zepto, to er i,
+
+14:11
+som er indeholdt i og som er indeholdt i sæt nåle i, så det er sværere og sværere at ligge her.
+
+14:20
+De bliver mindre og mindre, selv om de er uendelig store. Men så helt herude, der ligger, så så uendelig er I.
+
+14:28
+Bum, bum, bum, bum, bum. Det er det, der hedder de uendelige mange gange differentiable funktioner.
+
+14:35
+Det vil sige dem kan vi blive ved med at differentiere ligeså, så også vi ved, der hele tiden kom kontinuerte funktioner ud af det.
+
+14:40
+Det hedder også de glatte funktioner. De glatte funktioner.
+
+14:54
+Og kender I så nogle emner som f.eks. De der står her.
+
+14:58
+Den glatte funktion I kan tæske løs for at differentiere, lytte til os.
+
+15:03
+Det bliver ved med at blive kontinuerte kiksede ligeså mange gange. Vi har lyst til det, og det er bare grunden til at indføre.
+
+15:12
+Det her er bare fordi, at nu skal vi sidde og kigge på, hvordan sådan en eller line første ordens differentialligning kommer til verden.
+
+15:22
+Og vupti så fordi det vil gøre.
+
+15:33
+Det vil gøre det. Jeg tager en p funktion og en q funktion, og de skal være konserveret.
+
+15:44
+Og man kan også.
+
+15:48
+Altså man kan man kan forlange af de mere continued alder. Man kan også forlange, at de differentiable, så altså så bliver det bare plæner.
+
+15:55
+Men jeg gør det så generelt som overhovedet muligt at sige Okay, lad os nu lave et eksempel,
+
+16:02
+hvor pigerne og kurene, der optræder, bare er kontinuerte funktioner og så laver alene afveksling.
+
+16:08
+F. Som går fra C en enig se nul i og hvad skal du gøre?
+
+16:21
+Jeg er jo f. Eks. Og så for at vi ikke skal være i tvivl om, hvad det er der sker.
+
+16:30
+Så plejer vi at skrive. F. Eks. Er T. Selv om det er lidt noget pjat, ikke fordi ikke så er funktionen som ligger her.
+
+16:37
+Ekstra T er jo en funktion, så det vil sige det er bare et reelt tal. Så det er ikke helt.
+
+16:42
+Altså i forhold til det her op, så det ikke helt rigtigt. Men det er fordi, der skal skrives op ved denne.
+
+16:47
+Hvad denne her alene afbildning gøre. Så er det rart at have den variable stående, og det bliver tydeligt nu her, at differentiere er.
+
+16:58
+Og så skal jeg med PRT, så K spiller ikke nogen rolle.
+
+17:08
+Lige nu. Det er dette at gøre.
+
+17:13
+Og hvis jeg ikke, hvis jeg ikke havde taget på her, så ville der bare stå ex mærke og så p x,
+
+17:22
+og så kunne det godt være hvad var lidt i tvivl om, hvor træerne så skulle stå. Så det er derfor, jeg gør det sådan her.
+
+17:26
+Men det er lidt misbrug af notationen, at i med hvordan du når?
+
+17:34
+Okay, lad os lige se en gang passer pengene her. Altså funktionen x er en gang differentiabel, så den er konsolideret.
+
+17:42
+Den der engang differentiabel og bliver ganget med en koncert funktion, jamen så bliver det kontinuert og summen med dem er så kontinuert.
+
+17:49
+Så det her er rigtig nok kikset. Nu vil jeg så gerne vise den er lineær, vise f lineær, og hvordan gør jeg det?
+
+18:04
+Jamen okay, der skal tage en række sæt og ikke stå og lægge den sammen.
+
+18:12
+Og der vil jeg så skrive det på samme måde som det her, for ellers er det bøvlet at skrive, og så vil jeg sende af sted igennem vores vores EF og.
+
+18:25
+Hvad gør F? Ja, den er fra en seer. Det der står herinde. Det vil sige den siger ikke så ét af The Clouds X2.
+
+18:35
+At se det fra en seer. Og ja, og så tager den det, der står herinde og ganger med at.
+
+18:43
+Det vil sige plus fri at se ganget med hekse eller the blues X2 rt.
+
+18:52
+Fair nok. Og hvad kommer der ud af det?
+
+18:59
+Man differentierer en sum ved at gå ind og differentiere hvert af leddene. Det vil sige ikke mærke at se Klods X2 mærke at se.
+
+19:10
+Det ser dejligt ud.
+
+19:11
+Og her PRT bliver bare garnet en for de to, da så der kommer til at stå plus Peter til Kreta, The Clouds, The Final X2 og The Boggave.
+
+19:31
+Så lad os lige kigge på det, da han er sammen med den dér.
+
+19:38
+Det er ikke set af the.
+
+19:44
+Og så står der den, der slog stand, da det så + F.
+
+19:52
+X2 og The. Og det vil altså sige, at F.
+
+19:58
+Gøre ved denne her så præcis det den skal, for det var den første betingelse.
+
+20:03
+Den første ligner et z betingelse. Ağca. Sådan.
+
+20:11
+Hvad skal vi så gøre, når jeg så skal prøve at tage f. K.
+
+20:15
+Gange eks. At se at se hvad der kommer ud af det.
+
+20:19
+Og I kan jo allerede se hvordan det og hvordan det udvikler sig.
+
+20:24
+Ikke fordi jeg skal tage. At jeg ikke så til. Og så skal jeg differentiere det.
+
+20:31
+Og så skal jeg bluse pr til garne.
+
+20:36
+Kog Garne, Ekser 3.
+
+20:46
+Og hvordan differentierer en konstant gang en funktion når det er jo lige med konstanten garne ikke værket The Blues.
+
+20:57
+Her er der konstant. Disse ting bliver bare gerne sammen. Så jeg kan bare skrive på garne PFC.
+
+21:06
+Der er en ægsortering, og det er jo lige præcis på Garne F af sorte.
+
+21:20
+Så. Så får med loven.
+
+21:31
+Det betyder bingo. Flaget keepere den alene og gav.
+
+21:38
+Så det er sgu da en lignende sag. Jamen hvad ved vi så?
+
+21:46
+Jamen, så ved vi at. Hvis vi skal løse vindes vi skal løse ligningen.
+
+22:09
+F er jeg ikke, så tag lige med Kuwahata.
+
+22:15
+Hovsa, der kom korvet. Læg mærke til.
+
+22:22
+Nu har jeg en lineær afbildning, som jeg sætter med et QC og kuede.
+
+22:29
+Jeg er altså nu en konsolideret funktion. Det er noget, der ligger herovre i billede rummet.
+
+22:34
+Hvad ved jeg så?
+
+22:36
+Jamen, så ved jeg at Løsnings med enten Løsnings med enken til dette er lig med en eller anden løsning, som vi kan kalde ex childe, skriver Parts a3.
+
+22:56
+En partikulære løsning. Clowes alle løsninger til den hormonkemi ligning, nemlig LH.
+
+23:10
+Og læg mærke til den homogene løsning.
+
+23:14
+Jo, det er det vi får, når der står 0 herovre, så det er præcis det, der svarer. Altså til det, som vi talte Ahlhorn.
+
+23:22
+Da vi løste lineære ligninger. Det er præcis det samme som det, som kom til at hedde kernen for den lineære afvikling.
+
+23:33
+Og så typisk.
+
+23:38
+Typisk var det jo det der var en kompliceret størrelse klasse da, hvorimod den.
+
+23:44
+Det er jo bare et eller andet der passer til det der passer ind i ligningen.
+
+23:49
+Og så skal man have styr på den jeg så. Spørgsmålet er så.
+
+23:59
+Hvordan løser man så ligningen? Jamen.
+
+24:10
+Der har man heldigvis Stella og danseformer og danske fra at udlede.
+
+24:16
+Og lad os lige prøve at skrive om det vi forsøger at løse, feks.
+
+24:24
+Værket The Clouds pt.
+
+24:29
+Det er ikke så 3 at lege med QC.
+
+24:37
+For det første P, at C og Q er til dem, kender man.
+
+24:44
+Det skal være funktioner man kender, så de er givet. Så et eksempel på, hvad det her kunne være.
+
+24:56
+Det kunne være at X mærke at tage klogest, så kunne det være en scene, ville jeg ikke selv tage lige med til anden.
+
+25:13
+Ja, og hvis jeg kigger på det her, så skal man så sige Hvad er det så for et interval, jeg kigger på?
+
+25:20
+Ja, det ved jeg ikke rigtigt. Man må i hvert fald ikke være 0.
+
+25:24
+Så det ville være meget fornuftigt bare at sige, at det skal være større nul for eksempel.
+
+25:30
+Så det her vel definerede det, som man skal passe på, for der kan godt være nogle restriktioner på,
+
+25:37
+hvad definitionsmængden for de funktioner, man leder efter, er.
+
+25:41
+Så her ligningen er altså kun defineret af sorte, større 0 eller 3 mindre nul.
+
+25:45
+Og nu ser vi skal være større end nul. Så det er et eksempel på, hvordan sådan noget kunne se ud.
+
+25:53
+Så okay, så hvordan barberer man så sådan en gade?
+
+26:05
+Ja, men nu skal vi også holde øje, fordi når man får en skidegod idé, hvis man ser én gang at tage den funktion, der hedder lillepige, at se det.
+
+26:23
+Og så lad os prøve at finde til nogensinde.
+
+26:26
+Det skriver jeg bare sådan her, og det er altid sådan, at den down funktion, der er til lillepige at se den kalder man store, kan jeg se.
+
+26:39
+Og det kan godt stationsmester være lidt åndssvagt fisse, fordi man ikke kan skelne på tavle.
+
+26:48
+Hov, du skal lige følge med her ellers så. Af.
+
+27:03
+Så vand og yuca, så prøv lige at se her.
+
+27:07
+Nu vil jeg gøre mig umage, og jeg vil prøve at skrive store peer meget store og små operaer meget små, så der skulle være en chance.
+
+27:15
+Det er selvfølgelig nemmere i noterne, men også sådan prøver vi lige at finde og købe.
+
+27:24
+Lad os se, at vi har gjort det, så tager jeg.
+
+27:28
+Så tager funktion er ikke så til. Og så ganger jeg den med.
+
+27:33
+Ikke i store pædiatri, og så får jeg se, hvad der sker, når jeg differentierer DAB.
+
+27:42
+Og hvorfor fanden får man løst det? Det bliver klart om et øjeblik. For hvordan er det nu, man differentierer det her?
+
+27:48
+Jo, det er et produkt af funktion, gang i en funktion, og den første funktion her er fandme og ovenikøbet sammensat.
+
+27:57
+Når man lader, så ligger prøve at gøre det til starter med at differentiere den første funktion,
+
+28:01
+den eksponentielle funktion og opløse de store PRT i sig selv som er afledede.
+
+28:09
+Men så siger kæde reglen først differentierede hele funktionen, så skal differentiere den ændrer funktion og storopgør differentiere.
+
+28:18
+Det giver lillepige at se. Og så skal jeg skrive den anden funktion.
+
+28:24
+Den hedder excited. For det var den første funktion differentieret.
+
+28:28
+Den anden fastholdt plus. Så fastholder jeg den første funktion d e i store p.
+
+28:40
+Og så differentierer jeg den anden funktion. Det bliver så ex mærke af SE.
+
+28:50
+Og så prøver de at kigge hårdt på det her, jeg så ser hvad i alverden er det, der står her?
+
+28:57
+Jamen, det der står her. Det er jo i store PRT guide med, da jeg pludselig antager, at hvis jeg skriver det i omvendt rækkefølge,
+
+29:08
+så er det ikke mærke the clouds lillefinger til grand excited ara ara ara.
+
+29:22
+Ligner det noget? Ja, det gør det her.
+
+29:25
+Det ligner venstresiden af vores ligning. Det er sådan det jeg gør nu efter at have lavet denne lille lille mellemregning.
+
+29:35
+Da jeg tager min stjerne ligning Garn nu stjerne magede det i store pli at se på begge sider.
+
+29:53
+Og hvorfor må det jo fordi det er os eksponentielt nu.
+
+29:57
+Sjovere kan aldrig være nul pct. Så ganger man noget, der helt sikkert ikke er 0.
+
+30:02
+Det ændrer ikke løsning for enden af ligningen. Det vil sige, hvordan kommer ligningen så til at se ud?
+
+30:08
+Jamen, så hedder den ikke i skorper 3 gange ex værket The Clouds lillepige at se gang ægge sig til leg med E.
+
+30:24
+I Stumper the Garne Co.
+
+30:29
+At the. Okay, jamen hvad så?
+
+30:42
+Jamen så lægger mærke til dette. Det var det jeg havde fat i her.
+
+30:49
+Så det her er åbenbart lige med i store P at tage gang ekstra til differentieret, som åbenbart er lige med i de store krige af 3.
+
+31:05
+Gang Q af 3. Det er jo simpelthen et træk som for de små engle bag sig til at søgende af fryd.
+
+31:15
+For hvad ordrerne her. For satan da. En funktion differentieret giver en anden funktion.
+
+31:23
+Hvordan løser man det? Jamen, det gør man da bare ved at integrere Casella, og det vil sige ud af dette kommer,
+
+31:31
+at E i store pr 3 gange er jeg ikke, så det må være lige med stamm funktion til ét i store flertal.
+
+31:41
+Se gang kure til BT Plus.
+
+31:47
+Og når man så integrere, så får vi en konstant. Og ja, man er altså så den jo var bedre.
+
+32:00
+Fordi her står der så ikke. Så tag er åbenbart lig med så dvd'er hjemme i store prioritet det samme to gange.
+
+32:08
+Minus Store PRT. Klogeste K.
+
+32:23
+Gang i minus store P, T og K kan være hvad som helst.
+
+32:33
+Her står samtlige løsninger det løse, en formen.
+
+32:38
+Det er den der hedder panservogne, og det er også det, der hedder den fuldstændige løsning.
+
+32:47
+Så en fuldstændig løsning, og der er lige et rødt kort over kaution, fordi man kunne sige noget om,
+
+33:01
+kunne man ikke bare gange i minus flere til i det her integral og når man skal.
+
+33:05
+Man skal lige passe på. For dette betød, at en stam funktion til det der står her, og den variable herinde kalder vi The Mind The.
+
+33:13
+Herude er denne integrations variabel herinde herude, der er til den rigtige variable, og man kan altså ikke gøre noget ved dette.
+
+33:23
+Man kan regne det her ud og så gerne det samme bagefter. Man skal ikke tro, at man kan ophæve det der på en eller anden smart måde for at tage den.
+
+33:29
+Det kan man ikke, men det er simpelthen løsningen.
+
+33:36
+Og læg mærke til, at fordi vi ved, så sagde den meget om lineære ligninger, så kan vi kigge på det.
+
+33:43
+Og så kan vi se jamen, dette er.
+
+33:49
+Det må være den homogene løsning. Kikser det for det, er det den, der har kåret på her.
+
+33:56
+Det er den, der har en parameter her. I kan jo også se, at hvis Cuper 0.
+
+34:01
+Så vil det her give 0 krise. Så dette der står her.
+
+34:06
+Det er den partikulære løsning. Det er den eneste ting i løsningen, der afhænger af højresiden af ligningen.
+
+34:15
+Også dette. Det er alt håb. Kan vi skrive det sådan her?
+
+34:22
+Det er den, der står der. Jamen, lad os prøve at gøre det, fordi vi havde den ligning herover, så lad os prøve at prøve at køre med lykkes med det.
+
+34:38
+Så hvis vi tager, du skriver det lige op igen her, så ser jeg, at der ikke mærke at tage Clowes ind.
+
+34:52
+Sagen vil jeg ikke, så det skal være lige med.
+
+34:56
+Og hvad sagde jeg til Jane og T.
+
+35:01
+Det skal være større end en på Blaster og nul havde sagt ja.
+
+35:06
+Og køb det vores ligning og lad os prøve at finde den fuldstændig løsning og lad os se en gang.
+
+35:13
+Dette er det lille P og det da det lille q så store PRT.
+
+35:20
+Det er åbenbart en stam funktion til sagen.
+
+35:24
+Til BT stammer funktionen til en tiendedel eller en numerisk cementere større 0.
+
+35:32
+Så det her er bare en anden sag.
+
+35:36
+Og så siger jeg Jamen, hvad så med alle konsonanterne? Alle konsonanterne har vi sådan set samlet her.
+
+35:47
+Så hvis vi nu havde taget nogle konstanter med her, så havde det bare betydet, at vi kunne samle det dér henseende.
+
+35:54
+Og så behøver man ikke gøre. Man skal bare have en eller anden down funktion til lillepige, og det er så ln at se.
+
+36:02
+Og så kan jeg jo skrive løsninger op,
+
+36:06
+og det er jo helt fantastisk denne her der så åbenbart ikke og opløftet mine ud eller se card integralet af det opløftet i L.A.
+
+36:24
+C gange. Hvad fanden var den hed til Jane?
+
+36:32
+Det tag Clouds en konstant gang i og opløftet i minus eller indse og kan være alle reelle tal.
+
+36:47
+Det vil jeg skrive senere, men lad os lige se en gang.
+
+36:50
+Det her må vi jo kunne gøre pænere, for det er et minus at se i en dvd med E i C og E i England.
+
+36:58
+Se, det er jo bare at se, så både dagen efter er der en scene reel.
+
+37:03
+Og så står der integralet af en eller anden se. Deltag og tilgang til Jane.
+
+37:13
+Det må være til tredje. Med han menes en anden sag.
+
+37:24
+Det er en dvd'ere med E i C og elementer I hæver hinanden, så det er en sagen.
+
+37:31
+Vil det være en, der står der og en eller anden til. Det er bare se som ganget med til anden kind til tredje.
+
+37:39
+Og så står der + K gange med et minus i lanse.
+
+37:45
+Der var en scene reel nok, og vi skal huske hele tiden.
+
+37:53
+K kan være hvad som helst, og 3 skal være større end nul, og det kan vi godt rydde lidt op i, fordi det her.
+
+38:02
+Det må være lige med en serie en del gange med en fjerdedel til fjerde Klaus K.
+
+38:14
+En tunneldale og det tv dvd med DR.
+
+38:20
+Det er et af de daterer i fjerde, og det vil sige, at den fuldstændige løsning kan vi så skrive her.
+
+38:37
+Denne hedder så Ekser tag lige med en fjerdedel til tredje.
+
+38:47
+Plus to gange en sen nederdel det kan vi jo bare skrive sådan her på tunneldale T skal være større end 0, og K kan være hvad som helst.
+
+39:05
+Sådan gør man det. Og hvis vi lige trækker vejret et øjeblik, så.
+
+39:19
+Hvad ved vi så? Hvis du kigger på denne måde eller denne struktur, som den har dannet.
+
+39:27
+Hvis jeg sætter den ind på excess plads i min ligning, så giver den nul.
+
+39:35
+Det er helt sikkert. Det er nemlig den homogene løsning, så vi så sætter den ind i ligningen for XS class, så giver det nul.
+
+39:44
+Hvis jeg sætter dem dagen i ligningen. Altså en fjerdedel til tredje sal sætter det ind i denne her ligning.
+
+39:53
+Hvad kommer der så ud af det EM, der kommer til hjernen inden for den partikulære løsning?
+
+39:58
+Kasjanov? Det ved vi. Sådan er det. Nu kan jeg se.
+
+40:04
+Så er der også. Så er der også det, der hedder en en speciel løsning eller en betinget løsning, at det hedder mange ting.
+
+40:16
+Nu vil jeg lige bruge betinget løsning, og det betyder bare, at hvis jeg har denne løsning her, så kunne jeg se 5 5 den løsning.
+
+40:36
+Viskere. Gjorde gennem.
+
+40:46
+Og hvad kunne det være? Det kunne være en komma otte, altså et punkt er opgivet.
+
+40:53
+Og så vil jeg gerne have den løsning, der går igennem den.
+
+40:56
+Og det svarer i virkeligheden jo bare til at fortælle folk, at de skal finde ud af, hvad skal kunne være i denne løsning for det opfyldt.
+
+41:03
+Det der jo i virkeligheden står der. Jeg skal have en løsning som opfylder er ikke så et lig med otte pct.
+
+41:12
+Det. Det er sådan en vi skal have fat i.
+
+41:17
+Og hvordan gør man så det arbejde, som tager lige fat i sin ligning?
+
+41:24
+Så ser jeg, hvad jeg ikke ser ind.
+
+41:30
+Det er en fjerdedel garne ind i tredje Clowes K over én.
+
+41:42
+Og hvis dette skal være lige med 8 hva så?
+
+41:48
+Ja, så står der Her står der en fjerdedel blues på.
+
+41:54
+Det skal åbenbart være lige med det, og så skal K åbenbart være lige.
+
+41:59
+7. Trefjerdedele. Det kan vi godt tillade os at skrive som decimaltal.
+
+42:09
+Og det vil altså sige, at den den løsning, vi nu leder efter, den er betinget.
+
+42:15
+Nogle gange sætter man sådan et childe på for at fortælle, at nu har jeg en bestemt løsning.
+
+42:19
+Den hedder så en fjerdedel til tredje plus 7 komma 75 tjener det hele og skal hele tiden være større end nul.
+
+42:33
+Det er en bestemt løsning, som opfylder noget bestemt, der er en betingelse knyttet til den super.
+
+42:43
+Så langt, så godt. Og igen.
+
+42:47
+Altså det jeg har gjort her. Det er jo noget som kommandoen, disse så mig vil gøre sådan.
+
+42:54
+Altså, det som mig vil ikke gøre det.
+
+42:58
+Jeg fortæller jer, hvad det er, der står, og jeg kan også. Det sker altså lige være klar over det.
+
+43:02
+Det er enormt vigtigt at kunne se, hvad der har været godt, og det, som jeg så også lovede, at vi skulle underholde lidt med.
+
+43:11
+Det var tricks og julelege. Men spørgsmålet er nu, om vi ikke skal holde pause nu i år.
+
+43:22
+Lad os gøre det. Lad os holde pause et kvarter, og så starter vi på julelege, og bagefter tager vi klage.
+
+43:27
+Så Granhøj ikke.

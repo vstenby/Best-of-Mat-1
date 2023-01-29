@@ -1,0 +1,2423 @@
+0:01
+Velkommen selv store dag. I dag går vi så frem til et stort emne, der hedder differentialligninger,
+
+0:11
+og det er jo ikke ligefrem et emne, der minder så meget med det samme om det.
+
+0:19
+Vi har set på tidligere. Kigget på linjer og systemer, matricer, matrix fra gaderne og bællede rom og specielt også lineære afbildninger.
+
+0:35
+Men hvis vi kigger, og det gør vi i dag og i det her semester, kigger vi på lineære differentialligninger.
+
+0:44
+Og så hvis vi taler om lineære differentialligninger, kan man måske gætte på.
+
+0:51
+Hvis man hører lineær, så kunne det.
+
+0:54
+Og det har da også rigtig meget at gøre med lineære afbildninger, så alt det, vi har lært om lineære afbildninger.
+
+1:02
+Det kommer vi også til at være i stand til at bruge for at behandle ligninger.
+
+1:08
+Det fandt serie ligninger. Og det vi så gøre i dag i første team er, at vi introducerer FA er en differentialligning i det hele taget.
+
+1:22
+Vi vil erklære, hvornår de er lineære, for det er dem, vi er interesserede i.
+
+1:28
+Og så kunne man jo godt tænke sig som en sidebemærkning, hvorfor kun linjer og det særlige nikker.
+
+1:34
+Der er jo ganske mange andre, vi kan tænke på. Det er rigtigt, men det er også rigtigt.
+
+1:42
+At ligne de fancy ligninger. Udgør en rigtig, rigtig vigtig klasse, er det fortsat ligninger i ens nye anvendelser i anvendelser.
+
+1:52
+I det hele taget, som skal kunne forstås, og det er det så det, vi ser på.
+
+1:59
+Vi erklærer åbne differentialligninger, og vi kommer også til at tale på om løsnings strukturer af de fatale ligninger sløset.
+
+2:10
+Når de er homogene og enormt genrer, kan jeg se allerede der også begreb for at dukke op, som vi har hørt om tidligere.
+
+2:18
+Så kommer der GT metoder for at finde frem til løsninger for indhold, måske med ligninger.
+
+2:24
+For det første time i time vil vi så udlede en generel løsnings metode for ligninger.
+
+2:32
+Første ordens fortsatte ligninger for kommer frem til noget, der hedder plan for form.
+
+2:39
+Vi vil diskutere eksistens og entydighed og løsninger, og så er der lidt mere om GT metoder.
+
+2:45
+Og som altid er der selvfølgelig masser af eksempel efter, hvad jeg begreb vi indfører, og en Mabel datter på fredag er lille da,
+
+2:55
+for ingen forelæsning har for høje tid til at koncentrere jer om tema øvelse nummer tre.
+
+3:04
+Okay, så lad os gå i gang. Det er før en særlig ligninger.
+
+3:09
+Hvordan ser det i ud, og hvad er det for noget, end det er for en særlig ligning?
+
+3:14
+Det er egentlig intet andet, at det er en ligning, for der indgår en ukendt funktion.
+
+3:21
+Den kalder vi x og y. I ligningen forekommer der også flere af de ukendte funktioner og deres afledte.
+
+3:30
+For eksempel kunne vi skrive den afledte hen, og vi kan tilføje flere møder, som det hedder 3 årgange eks.
+
+3:38
+At sige det skal være lig med 0 det her. Det udgør en differentialligning.
+
+3:44
+Her er et andet eksempel højere ordens afledede.
+
+3:49
+Vi har et andet møde med Fyresdal orden og noget med 0g år, der vil se bare ikke Skarð med en funktion.
+
+3:57
+Det må vi også gøre, og vi sætter det lige med en funktion.
+
+4:01
+En anden mulighed her på højre side, hvor vi skriver de lavet hen, som er uafhængig af den ukendte ubekendte funktion.
+
+4:10
+Ex rt. Det vi så leder efter og vil have fat i i dag, er den fuldstændige løsning sagen de Franchi alene,
+
+4:23
+det vil sige det med ordene Alle løsninger ikke så se, som løser det fansite anledning.
+
+4:28
+For det er et af de begreber, vi bruger.
+
+4:32
+Og så nævnte jeg også, at det er forsage ligning har den orden, så vi kan se på, hvad den højeste afledte er på en ukendt funktion af ikke tid.
+
+4:43
+Hvad vil det være her? Det vil være den første og afledte, der dukker op, så den første ordens fortsat ligning er.
+
+4:51
+Og her er det ikke eks mærke, men ikke stoppe mærket, der udgør den højeste afledte.
+
+4:58
+For den anden ordens differentialligning, vi ser på Orca, så det er lige det, vi vil kigge på.
+
+5:10
+Så højere end slaget her, hvor vi vil forklare hvad det er, når vi kigger på,
+
+5:17
+er en lineær differentialligning, for det er det, vi vil fokusere på her i dag.
+
+5:22
+Og påstanden er, at det vil vi så se på i flere eksempler.
+
+5:27
+Bagefter er den lineære defensiv ligning. Den kan skrives på følgende, for vi har den venstre side og en højre side den venstre side.
+
+5:39
+Det kan opfattes som noget, som afhænger af den ubekendte er ikke så se, og det afbilledes med en afbildning F.
+
+5:50
+Og det er så kravet, at den afbildning F.
+
+5:55
+Det er noget der afbilleder funktioner, der funktion former af de indgange different Cerbère funktioner, som har regler værdier til en reelle værdi.
+
+6:09
+De afbillede selv kontinuerte funktioner se 0 F.
+
+6:13
+Men det der er vigtigt er, at den afbildning F er lineær, og det husker ved at ligne et set af en afbildning.
+
+6:24
+Det betyder, at den kan anvendes på en sum af ikke at se æblesyre t, og det er det samme,
+
+6:31
+som når vi anvender denne afbildning på hver eks og y særskilt, og det samme gælder også med multiplikation med en konstant K.
+
+6:42
+Det kan vi gøre før eller efter vi har anvendt denne her funktion.
+
+6:48
+Så det er måske i første omgang rimeligt abstrakt, men så lad os dog se på det.
+
+6:54
+Vi har flere eksempler, vi kan gennemgå.
+
+7:00
+Vi starter her med.
+
+7:04
+Et eksempel et hvor der er givet en differentialligning bøder ikke stoppe mærke i 3 plus 3 x rt er lig med god Zenons at se, så kan jeg se.
+
+7:21
+Jeg har skrevet alle de møde hvor afhænger i X på en anden måde på venstre side og her
+
+7:28
+på højre side står alt det der uafhængigt af den ubekendte funktion ikke så et se.
+
+7:35
+Så vi vil gerne omskrive her til noget, der ligner en afbildning i sig selv lige med højre side.
+
+7:52
+God at se, så det da var venstre side og højre side.
+
+8:03
+Og hvordan ser de ud? Er altså den højere.
+
+8:08
+Det er bare cool at se alle lege med cosinus.
+
+8:14
+At se. Og f.
+
+8:19
+Eks at se det, så er Queretaro at sige det lige med ekstra mærke at se plus tre gange exit excited.
+
+8:32
+Og jeg kan godt se det der ryger ind i funktionen hedder Vrøvl.
+
+8:37
+Afbildning F. Det er altså en ubekendt funktion.
+
+8:43
+Eks. Den skal kunne aflede to gange, og så vil jeg kun sige nu og her, så det er en afbildning fra C to mand ihjel af funktioner.
+
+8:54
+Så noget der er mindst kontinuert, så vil skriver se noget.
+
+9:00
+Hvad er? Så det er ligesom.
+
+9:05
+Strukturen på vores, at de får en særlig ligning, og det er den, vi nu for at undersøge.
+
+9:11
+Vi vil undersøge, om det virkelig er en lineær differentialligning.
+
+9:17
+Og hvordan gør vi det? Det år vi plejer at gøre, det er, at vi kigger på summen af to løsninger eller formodede løsninger.
+
+9:31
+Det var den første og tildels tillidsbaseret. Og spørgsmålet er, om det er det samme,
+
+9:44
+som når afbildningen er valgt for SF og ikke står særskilt for vi kommer til at udregne venstre side, er først ved vi, hvordan vi gør.
+
+9:57
+Vi har den det særlige, at vi skal sætte ind. At se +6 to.
+
+10:05
+At se dobbelt mærker plus tre gange Prix at se +6 2 er tænkt som det.
+
+10:16
+Nu går over for meget vigtige egenskab at aflede.
+
+10:20
+Denne er selv så i sig selv en and.
+
+10:24
+Lineære operatorer. Det betyder vi kan og aflede først hver som man hver for sig så.
+
+10:31
+Vi må godt skrive. Ferie.
+
+10:45
+Og nu kan vi så samle mødet, det vil sige vi savner de lavede med X en.
+
+10:58
+Og ikke. Og så kan vi pludselig se det her.
+
+11:05
+Det svarer til afvæbningen f x a t og det her det svarer til f.
+
+11:16
+Eks. So at se så ikke stoler på vej, f.
+
+11:20
+Ikke så se. Skal fandt dobbelt aflad i et exit for det.
+
+11:25
+Plus tre gange så det der er sket herude.
+
+11:30
+Så denne egenskab er rigtig. Så har vi den med den vare der nu nu skal vise, at f.
+
+11:47
+K. Men konstant ganget med X er lig med K.
+
+11:52
+F er ikke så tid. Så denne her afdeling.
+
+12:04
+Det er venstre side. Det er K Grand X i se afløb årets tre gange på Grand Prix at se, når I se her denne her.
+
+12:21
+Den er ikke så svær, men kan gå ud af denne her pause.
+
+12:26
+Så kan vi også gøre. Her kan jeg bytte rundt på tre og kog. Det var.
+
+12:32
+Capote siger Vi kommer til taget white kommutativ egenskaber, multiplikation.
+
+12:39
+Så får vi. Det her, så kan vi komme ud og få aktualisere.
+
+12:52
+Så får vi. Ganske enkelt det her.
+
+13:00
+Og det svarer jo så til k gange, f.
+
+13:05
+Eks. Det er nøjagtig det, der er givet som afbildning, og nu kan vi se.
+
+13:14
+Den anden egenskab er også opfyldt, og dermed kan vi så konkludere, at det her er en lineær afbildning.
+
+13:34
+Og. Det er viden, det er fred, siger Mine.
+
+13:42
+Jeg skriver bare altid det punkt på folkets foranstaltning.
+
+13:49
+Så kan se det der sker her, er, at det er ganske vigtigt at vide,
+
+13:55
+at det er løsninger og så stadigvæk få noget der er lykkedes i hvert fald venstre side.
+
+14:02
+Og jeg kan se, at jeg har begået en stor fejl.
+
+14:06
+Jeg har skiftet rundt på højre og venstre. Det er første gang, det sker for mig at få overblik.
+
+14:18
+Det skal selvfølgelig ud for at vokse.
+
+14:23
+Så det var eksempel et er der. Spørgsmål Så det?
+
+14:30
+Godt at der er vægt til grine, det er virkelig at de fandt station.
+
+14:35
+Det er noget der ligner, at vi kan udføre det på et sår, men at også på hver mands verificeres, og det er det, der indgår i det her tjek.
+
+14:45
+Et andet eksempel kort er det her, der vil anbefale en særlig ikke mærket at se plus covers et års tid gakket at se, og det skal være mindes det.
+
+15:06
+En ting er lig med nul. OK, svarer det.
+
+15:11
+Så denne her form vi skal have med venstre side, hvor kunder afhænger af X og intet andet eller højere side skal afhentes?
+
+15:20
+Ja. Nej, det gør det ikke. For vi skal have flyttet noget rundt.
+
+15:25
+Hvad er det I? Ja, det er den her vi skal ha smidt over til højre siden.
+
+15:33
+Der kan vi lige gøre som foreskriver vi er 3, og så har vi den på standard.
+
+15:41
+Så kan vi nedskrive højreside, den har.
+
+15:52
+Sådan her og venstresnoede for sker der igen og højere PH q til alene ved et tjek, er det en vittighed, det fans af mening?
+
+16:08
+For eller imod. Men hvorfor for selv om markedet og flere derfor er det klart eller skal jeg udføre det?
+
+16:19
+Jeg gør det gerne dukke. Det klar igen.
+
+16:24
+Kun at to løsninger her og proppe den i, når afledte så kan aflede hver faktor, som man får.
+
+16:33
+Og her kan jeg også gøre det så. Det kan man se altså lige tjekke den ene seddel et.
+
+16:49
+Så får vi mere tid hvis vi tager ind og står fucked.
+
+16:56
+Hvorfor skal se sådan her ud? Det kan jeg se det, og nu skal det bare kopieres anderledes, og så får vi med det samme, at det er efter X1 Blues.
+
+17:18
+Er jeg ikke så tungt? Og det samme kan tjekkes med en konstant for at se den anden betingelse og også gælder, når jeg selv står for kigget på.
+
+17:33
+Med et sværere eksempel. For det ser sådan her ud.
+
+17:48
+Det jeg hedder for. Ex mærket Ilse gør arket med ekstra t plus tre gange ikke så til.
+
+18:04
+Og det er lig med noget af det linje, at den linje de fatter lige nu.
+
+18:16
+Og nogle bud på det. Hvad siger du? Du siger nej.
+
+18:24
+Godt, det er et godt bud. Der er dog nogle få stemmer imod.
+
+18:29
+Det er der ikke, men lad os lige se på den ene betingelse. Det var dagen her.
+
+18:36
+Men skal regne ud hvad f a s ind at se.
+
+18:41
+Plus to er se, og vi mangler selvfølgelig at forklare, hvad F er for noget.
+
+18:51
+Nu har vi, at højreside er bare 0 funktionen og venstresiden så alt det her.
+
+18:59
+Det vi har her er, at jeg ikke selv er lige med sex mærke.
+
+19:06
+Ja, det er bare alt det her. For f.
+
+19:11
+Eks. Så nu tjekker vi den første egenskab.
+
+19:16
+Hvad klinikere se for at se, om den holder. Hvis det ikke er en lineær funktion, så kan det jo være, at det går galt her.
+
+19:27
+Ja, det vi får, er. Ganske vist.
+
+19:34
+At se +6 2 RT. Det skal vi aflukke og gange med den samme fart.
+
+19:42
+Se serier og så skal vi til sidst at det er 3 x 1 t +6 2 er til.
+
+20:01
+Da vil vi så lige have udregner bøder. Hvad er det vi får?
+
+20:08
+Vi får så en lang sång med spydige ganger med hele året.
+
+20:12
+Så får vi en at se mærke. Grand Prix EVA 3 vil få X 1 mærke at se Grand Prix to at se.
+
+20:23
+Vi får x to mærke at se Grand Prix 21.
+
+20:28
+Og vi får X mærket af at se ganget med x to at se.
+
+20:34
+Så mangler der lige de her møde ganget med tre, ganger vi også ud.
+
+20:44
+Så kunne vi jo gøre det følgende at vi prøver at opsamle det der svarer til f.
+
+20:51
+Eks. 1 at C og x f.
+
+20:58
+Eks. 2 og 3 og se om den ligning går ud.
+
+21:08
+Vi siger den her søvn. Det er alle de blå og røde.
+
+21:14
+F. Eks. 1. At se det må give os et der ser sådan her ud.
+
+21:21
+Det må give os et møde, der ser sådan her ud. Og det er det, der har udgør f.
+
+21:28
+Eks. En per definition. Så har vi den her, hvor et tilsvarende møde er det ene.
+
+21:36
+Det er det sidste led i f. Eks. Tog og.
+
+21:41
+Den her. Det er det der udgør alt.
+
+21:45
+Hvor står det? Men for ikke kan se, så står der altså for meget.
+
+21:49
+Vi har de her to løver, der flyver rundt.
+
+21:55
+Det er de blandede sig med et og X2, og det er så med det her.
+
+22:08
+Så dem der udgør, at vores lærer med hjertets egenskab ikke kan være rigtig.
+
+22:17
+For vi skal gerne have, at det her er lige med det blå her.
+
+22:22
+Men vi har vundet så ved det. Så vi har ikke.
+
+22:35
+Dinere i fortalt. Så jeg kigger på det særlige og bliver bedt om at tjekke, at de er alene.
+
+22:49
+Og så er det altså ikke nok, at de bare kigger på dem og siger, det skal gå hen og tjekke de her egenskaber.
+
+22:58
+Det gør også i det her tilfælde, så er det måske nemt at se.
+
+23:02
+Men der er mange tilfælde, hvor der er lidt mere forvirrende for dem, som hurtigt tjekke, om den er lineær eller ikke.
+
+23:09
+Og så er der bedre flere udregne det her. Godt derude, så de ligner det, fandt Siri ledninger og ikke alene, men det er den lineære defense egenskab,
+
+23:25
+at det er fatale ligninger vi har her og nu er vi så kommet så langt, at vi kan se,
+
+23:31
+at linjer defense af ligninger kan skrives ved hjælp af sådan en afbildning af funktioner.
+
+23:39
+Og når den er lineær, så ved vi, at døren række begreb, vi kan anvende for det i linjer afbildninger.
+
+23:48
+For eksempel kan vi kigge på deres løsning struktur, og når vi kigger på lineære afbildninger, så har vi altså har afbildningen f.ex.
+
+23:58
+Til det venstre side og højre side Q, og jeg har det sådan, at vi plejede at skelne to forskelle 2 forskellige scenarier.
+
+24:09
+Det ene hvor til højre står bare 0, så har vi en homogen differentialligning.
+
+24:15
+Og hvis det er forskelligt fra 0, så det i en hård Mogwai.
+
+24:20
+Det fatale i det skæve og så lige bemærkes, at det vi mener med nul her, er en nul funktion.
+
+24:30
+Det er i orden. Venstre står en funktion som kun er nogle gange nul.
+
+24:36
+For eksempel sinus at t kunne stå på højre side eller før havde vi cosinus at se.
+
+24:41
+Hvis vi har cosinus, så til, så er den Kliim nul nøjagtig når t er lig pi halve plus to ppi eller pi faktisk.
+
+24:52
+Og. Det er ikke det vi mener vi mener er en funktion, hvor alt er lig med nul for alle værdier og ting.
+
+25:02
+Så når vi ser på det, så minder meget om linje alene.
+
+25:06
+Systemer i matrix form foreskriver en matrix a grand væg, så ubekendte vektor x alim med højreside B,
+
+25:14
+og hvor lærte vi, at for nemme løsninger så som en ligning har en løsning censur,
+
+25:19
+hvor den homogene ligning fra højre side af noget der udgør løsningen form og vi kan,
+
+25:26
+så er dér en enorm Morgan løsning her eller partikulære løsning, der giver hele løsning summer l i 1H.
+
+25:38
+Det gælder for sandsynligvis over flere, for vi kan forstå både matrix ligninger,
+
+25:47
+men er også linjer de Sansa ligninger som afbildninger af ligninger med afbildninger som som skrevet her.
+
+25:54
+Så løsningen må også være givet en sum af de løsninger,
+
+25:59
+der udgør det homogene løsne i form og det der udgør de enorme vugget eller partikulære løsning x0.
+
+26:07
+At se hvor den højreside. Altså er forskelligt at se.
+
+26:17
+Det homogene løseligt som det der svarer til kernen af afbildning, og dermed ved vi også, at det homogene løsen,
+
+26:26
+som er et underrum til definitionen, former, men det samme gælder altså ikke for løsesummer.
+
+26:35
+L Enorme må give en, som indeholder alle, det vil sige den fuldstændige løsning for vore Stephans alene.
+
+26:44
+Hvis man har nogle løsninger, så. Udgør de ikke et vektorrum eller rum.
+
+26:54
+Så det vil vi se på i flere eksempler.
+
+27:02
+For at se hvordan vi gør med dem her. Og.
+
+27:30
+En. Så se på det følgende eksempel til løsning struktur for at få det hele til at blive lidt mere konkret.
+
+27:41
+Vi kigger på denne her. De foranstaltninger behøver ikke mærke at have the blues.
+
+27:48
+Fem af gangene med ekstra T er lige nu to gange t plus i hver 20.
+
+27:58
+De fandt Salina. Vi har lært nogle begreb, som hjælper os med at klassificere den her ligning.
+
+28:12
+Er den lineær. Ja.
+
+28:19
+Den er enorm og gab. For der er stor enighed om, at det er en minister for alene højresiden, som er uafhængige af ex til.
+
+28:32
+Det havde ikke sig tid her. Den er forskellig fra nul funktion.
+
+28:38
+Dermed har vi en homogen differentialligning. Hvilken orden har den her sig alene?
+
+28:49
+Da første orden. Så dem vi ser på her i dag i en af følgende.
+
+28:58
+En af de følgende uger uger kigger vi så også på anden ordens differentialligninger og dem.
+
+29:06
+Man kunne så også tilføje, at det er løsningen af denne FN's vejledning, der består af en funktion, der afbilder for de reelle tal, så de reelle tal.
+
+29:21
+Vi kan også sidde og tale om systemer som nogle ligninger, hvor vi så får mange af først over dens linjer, det fans af ledninger.
+
+29:31
+Det er også en mulighed. Det kommer vi til at starte senere. Men altså i dag handler det om den slags, de fandt serie ligninger i,
+
+29:41
+og om vi kan prøve at løse den i næste time eller lidt senere i forelæsningen kommer vi til, at Ude lavede en generel løsnings form.
+
+29:52
+Det vil ikke gøre lige nu, men stod for, at vil vi bygge vores løsnings strategi op på basis af den her løsning struktur.
+
+30:01
+Og hvad er det den er? Det var den dag nummer gene eller fuldstændige løsning, denne er givet af summen i promoveringen af løsninger.
+
+30:22
+Blues er en partikulære løsning.
+
+30:27
+Det er, at det skal forstås sådan.
+
+30:30
+Hvis vi opfatter den her. Det er en ligning som at være af sten her form, hvor q er til højre side, det vil sige to ting plus 1 og f.
+
+30:48
+Eks. I 3. Det er X mærke at se +5 X, så er det her ved løb så ikke at se lige noget.
+
+31:06
+Den Hummer Magaluf løsning og X 0 er så den specielle løsning de har eller partikulære løsning der opfylder denne her i en hummer gene.
+
+31:20
+Lige nu. Steder det vi kalder for en partikulære løsning.
+
+31:36
+Så den i nummer Gene Differentialligning. Og det er så summen af de to løsninger, der giver os den fuldstændige løsning.
+
+32:01
+Og det kunne vi også kaldt den fuldstændige løsning, hvilket var et begreb.
+
+32:09
+Fed havde indført feltet begyndte.
+
+32:18
+Godser, så hvad er. David skal gøre vores strategi.
+
+32:28
+Det må jo så være, at vi først løser den homogene ligning for at bestemte former bliver en løbende form og et videre skridt.
+
+32:41
+4 på de her partikulære løsninger for den enorme Morina differentialligning.
+
+33:22
+Så det er som ville gøre blevet kigger først på den, rummer gener det særlige ved dem.
+
+33:31
+Følg med i browseren og i det kan vi også skrive om her.
+
+33:42
+Så skriver på den her måde, og det kan vi måske huske fra gymnasiet.
+
+33:50
+Er løsningen, så skal se sådan her ud.
+
+33:55
+Vi har en konstant gakket måde. Opløftet i minus fem gange.
+
+34:00
+Se, det kan vi se. Når vi afleder denne her, så får vi minus fem gange ved ikke at se det.
+
+34:08
+Flyt løser vores differentialligning, og dermed kan vi så finde ud af, hvad det rummer gener.
+
+34:19
+Løsningen som er, er det helt klart. Eller skal udregne det.
+
+34:27
+Det er jeg måske ikke klar, så vi kan indsætte denne her løsning på venstre side, men jeg håber de to vil så prøve den løsning her fra Venstre.
+
+34:38
+Så får jeg minus fem ganget med C, Gaga, A i minus fem gange RT og på venstre højre side står står der fem gange.
+
+34:51
+C i minus.
+
+34:55
+Fem gange er tid. Så det her er x0 x1 sag.
+
+35:02
+Minus fem gange så. Og det her er dødsmærket at se til, da se, det er en løsning til den her til fortsat lyden ved den meget vigtige stander ligning.
+
+35:18
+Vi kan udskifte de her tal 5. Og så får vi løsninger på den samme måde, som hvis det er løsningen her til vores homogene fans alene.
+
+35:46
+Så er løsesummer stede ved at man kigger op på ubekendte funktioner.
+
+35:55
+De skal være indgange differentiabel og kontinuert, og om dem gælder bare, at de har den her form.
+
+36:09
+Så hvis vi skulle skrive det ned, så man løsnings mængde Formaal, så ville vi bare skrive.
+
+36:15
+Det er jeg ikke så til lige nu. Se Gaga i minus fem gange ganger til og se det er et eller andet komplekst tal.
+
+36:28
+Spørgsmål. Så kan vi se på den mængde her.
+
+36:42
+Hvis vi kigger på alle mulige differentiable indgangen i Cerbère funktioner, så er det kæmpestort værktøj år.
+
+36:51
+Faktisk er det uendelig stort i år. Og det er ikke muligt at bestemme en.
+
+36:59
+Men når I så skræmmende, at vores løsning til en speciel funktion har netop den her form, så kan vi forstå det som en enkelt Basses meldte sig til.
+
+37:21
+Det her rum og. Hvad er det egentlig?
+
+37:27
+Løsnings magen til den homogene ledning er. Det er det der svarer til i kernen af vores afbildning af.
+
+37:49
+Og hvis det kun indeholder en funktion her, så kan jeg se, at det er et meget wauv dimensionalt underrum.
+
+37:59
+Vi ved at kernen er at underrum til det der er definitionen former.
+
+38:05
+Jo, jo, det er her, vi har. Det er den slags funktioner igang, hvis man ser bare funktioner som vores afbildning.
+
+38:13
+Så det vil sige vores f. C.
+
+38:18
+Det er kæmpestort rum og endelig dets definition og altså det der svarer til løsnings former, så de homogene ligninger.
+
+38:26
+Kernen er den afbildning, og det er i dette tilfælde et endimensionalt om, og det er også meget typisk som at det er et lille rum.
+
+38:42
+Så mangler vi selvfølgelig den anden løsning her.
+
+38:46
+Det vil sige, at en partikulære eller speciel løsning til vores enorme gener differentialligning.
+
+38:54
+Så skal vi også lige se på. Og vores enorme Gena det sagde ligning behøver altså fået samme water.
+
+39:15
+Men der står på højre side to t plus en og en måde at løse det på er at bruge en GT metode,
+
+39:28
+og det man gætter her er, at man gætter, at det der er det, vi leder her, er en partikulære løsning, så vi lader.
+
+39:44
+Den her. Og det man kan gætte, det er noget der har samme form som højre side.
+
+40:00
+Det vil sige det, at Paulino mio. I T er første år.
+
+40:07
+Det skriver noget med almene koefficienter, det vil sige vi opfatter A og B som reelle tal.
+
+40:18
+Her. Ja, og hvad gør vi med gæt.
+
+40:34
+Hvis vi gætter en løsning, så må jeg jo se om den kan. Faktisk kløves den her enorme margin af de fans af meninger, så vi indsætter det.
+
+40:45
+I ledningen forstår. A garnede t plus B, der skal afledes plus fem gange a ganger t plus b.
+
+40:59
+Det er det her lavet, og så har vi i højre side, som simpelthen er to til plus i.
+
+41:07
+Så udregner vi lige her den afledte. Bemærk at den går ud a ganger t det må vi lige a.
+
+41:14
+Så står der bare A her. + 5 The Clouds 5 Bay.
+
+41:25
+Det er to t plus en. Og det ser jo lidt grimt ud nu, så måske er det en god ide at samle møde i samme orden.
+
+41:40
+Forstå hvad +5 B og fem gange a c.
+
+41:47
+Det at lime en plus to ting. Hvad gør vi så med det?
+
+41:54
+Nu er det jo sådan, at denne her løsning skal ganske gav jer en stemme for alle slags værdier at se om vi kan indsætte.
+
+42:13
+Så vil jeg være den eneste vi kan finde på. Det er selvfølgelig en værdi for hvor mange forsvinder, og det kunne jo være te er lig med 0.
+
+42:27
+Så har vi +5 bag. Det er lige med højre side og det er en.
+
+42:37
+Og måske en anden talværdi for te, som er nem at regne med.
+
+42:42
+Tillige med en, så får vi. Ja, så får vi af +5 af.
+
+42:58
+Skriver du bare noget her A Plus 5 B plus 5 A?
+
+43:04
+Det er lige med ét plus to. Og det vi kan gøre her for at løse de to ligninger, vil vi får jo det vi får her.
+
+43:19
+Det er den ligning, og den her er lineære ligninger i a og b.
+
+43:29
+Fik jeg så den her og kan genkende det står også her ingen forstår står af +5 af at lege med en, så de tre ledere må gå ud.
+
+43:43
+Så får vi ud af det at. 5 B er lig med to eller B er lig med to femtedele.
+
+44:02
+Det er ikke helt rigtigt.
+
+44:03
+Der skal være fem meter ud af +5 beton med en, så vi bliver nødt til at lave denne her rettelse det vil sige fem af at lege med to.
+
+44:20
+Og så får jeg her selvfølgelig at A er lig med to femtedele.
+
+44:25
+Det kan jeg så gennes indsætte her i den her ligning i den første.
+
+44:31
+Og hvad får jeg så? Så får jeg fra den første kegle øvelse op for B.
+
+44:41
+Det vil sige. B er lig med 1 minus A divideret med 5 og A, det ved vi nu hvad det er.
+
+44:54
+Det er altså en minus to femtedel divideret med fem et minus to femtedele 3/5 del.
+
+45:05
+Du får er tre femmer tøvende dele for at få B.
+
+45:14
+Og når vi så har udregnet det her, så kan vi.
+
+45:19
+Find ud af hvad vores parti kan lære. Løsningen skal være så at x0 rt er lig med adgang rt.
+
+45:30
+Det var to femtedele plus B, og det var 3 25 meddelte.
+
+45:40
+Som det ok, så mangler vi bare at sætte det hele sammen.
+
+45:47
+Vi har fået fat i den her partikulære løsning.
+
+45:52
+Det er den, der kan løse vores viden. Hummer, Geena, Differentialligning.
+
+45:59
+Så har vi bestemt Løsnings, manden for den hummer gene Stefansgade særlige herrer også.
+
+46:10
+Og det giver os, så de lovede vi skal have fat i for at få den fuldstændige løsning.
+
+46:21
+Det vil sige, at ekstra tid. Det er lige med.
+
+46:27
+Se gang af et minus 5 se. Plus den partikulære løsning, og det var det der lå.
+
+46:39
+To femtedele. T plus tre 25 del.
+
+46:51
+Det er altså vores fuldstændige løsning, for vores problem er at løse den fuldstændig løsning på denne her sag alene.
+
+47:03
+Og det kunne man så også have nedskrevet som mængde.
+
+47:11
+Det vil jeg lige gøre her. De skriver Det her er nyt. Fuldstændigt løsningen hedder altså.
+
+47:38
+Det var det.
+
+47:41
+Og hvis vi så ønsker eller bliver spurgt om det at nedskrive løsninger smagen for den fuldstændige løsning, så kan vi skrive alt indhold om.
+
+47:56
+Det er mængden af alle engangs differentiable funktioner for om der gælder, at de løsninger har denne her struktur.
+
+48:21
+Og det skal lige forklare hvad C er det reelle tal som det.
+
+48:28
+Det var det ikke. Så en vigtig forskel mellem det homogene løseligt som.
+
+48:39
+Hum, hvor svaret kom og har argumenteret for det derfor er et underrum.
+
+48:45
+Det gælder ikke for mængden af de her fuldstændige løsninger.
+
+48:51
+Det er ikke et underrum, for hvis vi fra denne her partikulære løsning, det der svarer til den del.
+
+49:00
+Det kunne vi jo gange med en eller anden konstant.
+
+49:02
+Hvis det så stadigvæk er en løsning, så en vinder af set betinges eller en stabilitets betingelse for en underrum er så.
+
+49:12
+Gide hvad er de to stabilitets skau for at undgå at vi kan at DR 2 udløsninger de stadigvæk er i det rum eller vi kan tage løsninger og strakte,
+
+49:21
+det er den jeg foreslår her. Hvis det var et underrum, så skulle der i hvert fald gælde, at det kunne tage denne løsning og eller den herover.
+
+49:30
+Det er der, vi har udregnet og gak dem for eksempel med to. Hvis det så stadigvæk flyttes, så den ligning, så burde det nok være et underrum.
+
+49:42
+Eller måske er det så. Men hvis det ikke er en løsning, så kan vi konkludere, at det ikke er et underrum.
+
+49:48
+Og det kunne man faktisk gøre.
+
+49:53
+Det vil nu ikke gøre nu, men i stedet for.
+
+49:58
+Ved jeg. Høre om alt er klart her, selv om det kræver flere forklaringer.
+
+50:10
+Det over kø. Vi kunne så faktisk tage en pause nu til klokken fem over 11 og så fortsætte
+
+50:29
+med den generelle og løsnings form for fyrreskove og den stephans her linje.
+
+1:01:40
+Det understøtter selvfølgelig. Trykker.
+
+1:02:16
+Der. Koncerten.
+
+1:04:05
+Godt lad os fortsætte i jeres sammenfatter, der skal kåres, hvad vi har set.
+
+1:04:13
+Vi har indført de foranstaltninger, det er ligninger, der involverer afledt af en ubekendt funktion.
+
+1:04:19
+Eks. Vi har indskrænket os til linie. De sansede ligninger vil sige vor højreside,
+
+1:04:27
+som kun indeholder uvigtigt led med den ubekendte x kan opfattes som en afbildning af nogle ubekendte, som opfylder de lineære Ouse egenskaber.
+
+1:04:41
+Så har vi talt om GT metoder og først og fremmest om Homer.
+
+1:04:50
+Gener og indhold må gemme differentialligninger og tal om deres løsning struktur.
+
+1:04:56
+Vi fandt frem til, at den homogene del af de Fønns serien Løvernes Konge.
+
+1:05:01
+Det giver et underrum, og så er der en partikulære løsning for en speciel løsning til den enorme gener.
+
+1:05:12
+Det for en serie ligning og med om at de to løsninger homo gener og den kalder.
+
+1:05:19
+Så får vi mængden af de fuldstændige løsninger.
+
+1:05:25
+Vi vil så gerne gå et skridt videre og se om der ikke findes en generel løsnings metode, i hvert fald for linje og første år om Stephania ligninger.
+
+1:05:38
+Så igen det vi ser på, det er den slags ligning vi har x mærker.
+
+1:05:43
+Plus p d en inland funktion i c gakket med ekstra at se.
+
+1:05:49
+Det udgør den venstre side. Og så har vi en højreside q rt.
+
+1:05:54
+Skal man så selvfølgelig spørges og skrive noget mere generelt hen end bare det?
+
+1:06:01
+Batteri. Kan jeg finde på end 40 står fast af en ligning, der har endnu flere på.
+
+1:06:13
+Nej, det kan jeg ikke. Vi har fat i den rigtige form.
+
+1:06:17
+Det er det, vi vil løse, for vi har den. Så er det det, vi skal gøre.
+
+1:06:25
+Så det, vi finder frem til om lidt, er den fuldstændige løsning for den er, at det fortsat lige som denne er givet ved en løsning for mig.
+
+1:06:36
+Og det vil jeg faktisk hellere lige udregner med jer for at se, hvordan man kommer frem til det.
+
+1:06:43
+Så det vi har, er den her.
+
+1:06:47
+Det fandt Shailene. Og.
+
+1:07:00
+I det der kan gøres med sådan en særling man kan gange den med et eller andet.
+
+1:07:09
+Og det vi ved gangen med. Det er helt basale tal der hedder en funktion opløftet i denne funktion lover Pi at se, for det virker jo lidt mystisk.
+
+1:07:29
+Hvad er det at se? Det er stamform søvn.
+
+1:07:35
+Se den her lille PRT funktion, så vi indsætter her så det, at I kan.
+
+1:07:47
+Vi anses som et gæt, og det vi kommer til at se, at det faktisk giver os en generel løsning for den her vine for gøre det.
+
+1:08:17
+Nu har vi også nedskrevet venstre side, og faktisk kan vi tredjedagen sidde side og omskrive dagen som en afledt af følgende funktion.
+
+1:08:34
+Det er nemlig en funktion opløftet i stor pli at se ganget med X, når vi tager det her udtryk.
+
+1:08:43
+Og det er for at sige det, så får vi det, der står her op.
+
+1:08:48
+Det var jo smart. Eller i hvert fald imponerende.
+
+1:08:53
+Og lige om lidt ser vi, hvorfor det er smart, når jeg lige tjekke, at det påstand er rigtigt.
+
+1:08:58
+Hvis jeg afleder det, så kunne jeg først downloade 40 faktor ikke?
+
+1:09:03
+Så bruger produkt regel X mærke at se ganget med det der står her og nu har den her funktion.
+
+1:09:12
+Så skal der stå et x der står der her. For sker afledede dagen her?
+
+1:09:17
+Det må være det. Det er den afledte EP p.
+
+1:09:21
+Det bare e p. T ganget med den 1.
+
+1:09:25
+Og der er afledt af, at den ændrer funktion. Den her og det er lille p er tid.
+
+1:09:31
+Jeg kan se nogle løftede øjenbryn. Måske skal vi lige have den røgning ved siden af.
+
+1:09:40
+Så lad os gøre det som. Vi skriver det her produkt breve.
+
+1:09:50
+Det første er det x mærke er tid ganget med A i flere ting, at det går godt.
+
+1:10:02
+Så skriver vi x rt gakkede med r, p er t og og det er det, vi skal.
+
+1:10:13
+Det er fans jægere. Det er simpelthen bare produkt breve.
+
+1:10:24
+Så gør vi det. Det bliver et ja, altså jeg gør det kun for det her.
+
+1:10:31
+Så får vi så. Eller det sidste. Her e i p mærke jeg det.
+
+1:10:42
+Der bruger vi kæde regler. Den afledte funktion er bare i funktion, og så mangler vi dem afledt af p at se.
+
+1:10:56
+Og det var jo defineret for at det var integralet og hvor lille p er tid, så det må give os lille p af tid ganget med C i P.
+
+1:11:14
+Og når vi indsætter det her, så får vi nøjagtig de to ned hvor står der?
+
+1:11:19
+Det første eks mærke George i p. T. + X, der står under gør aka p danger e p.
+
+1:11:27
+T det det står da så det stemmer. Og det var imponerende.
+
+1:11:36
+Og så skal vi også se på, hvorfor det er smart. Jamen.
+
+1:11:43
+Hvis jeg kigger på den her ligning, så står her at den er afledt af et eller andet udtryk, og der står funktion på den højre side.
+
+1:11:52
+Jamen, så kunne jeg jo godt finde på at integrere hele den ligning for Venstre og for os sidder.
+
+1:11:58
+Så jeg skriver dette om her. Jeg anvender integration for alt det her.
+
+1:12:06
+Så få er på højre side venstre side. Det er helt forfærdeligt med venstre og højre.
+
+1:12:15
+Det må simpelthen give det udtryk, der står indefra ved en station, og så får jeg her.
+
+1:12:23
+Ja, hvad får jeg her for, får jeg? Og det har jeg glemt.
+
+1:12:29
+Jeg skal selvfølgelig hver gang jeg sagde, jeg vil garang hele linjen og med denne her faktor, så det må jeg også gøre på højresiden.
+
+1:12:40
+Det giver os. Det er her når vi tager integraler som er ubestemt, så der også en integrations konstant.
+
+1:12:55
+Vi sagde nej på hr. Det er jo fint, for så har jeg det jeg ønsker.
+
+1:13:04
+Det er nemlig løsningen, ikke sig selv. Der skal jeg lige have udregnet.
+
+1:13:09
+Så ville med det så få at ned i minus storkrig at se ganget med integral over q rt gange e i.
+
+1:13:22
+Det er tid til plus golfstaten, og jeg skærer sig gang af alt det her med den faktor, og vi kan se, det er det samme.
+
+1:13:35
+Det er selvfølgelig så en løsning for Stefania ligning, for det er også den løsning vi har stående heroppe.
+
+1:13:43
+Og det er det vi refererer til i kurset her som pansret form.
+
+1:13:48
+Vel nok fordi det altid kan klare at knække den her differentialligning, uanset hvor grim eller slem den ser ud.
+
+1:13:57
+Bare man kan udregne det her integral. Det er faktisk.
+
+1:14:06
+Lidt fedt at man kan gøre sådan her, det er bare lige en sidebemærkning, når man kan finde sådan faktor.
+
+1:14:14
+Garcons på. Så man får noget som kan integreres, så kan alle som én faktor også integrere faktor.
+
+1:14:23
+Så det kan se ud som denne her. Det fandt jeg anledning meget specielle ligning.
+
+1:14:29
+Meget vigtig ligning for. Findes også andre tilfælde, hvor det virker med den anden faktor og dets, kalder man sig også en integrerende faktor.
+
+1:14:39
+Godt nok snak nok teori, lad os så lige gå i gang og prøve den her form for noget.
+
+1:14:48
+Michael Kane og vi har lige det første eksempel.
+
+1:14:59
+Ligesom vores Mickey Mouse for eksempel den nærmeste vi kan tænke på det er noget,
+
+1:15:06
+hvor vi bare har en konstant på venstre side, og det er en hummer ged.
+
+1:15:11
+Det er fans af elledning står bare mål for solen på højre side, og det jeg hader, er en spiller på 40.
+
+1:15:19
+Det var det, jeg kaldte for gymnasiet løsninger skoleledelsen, og det er, at følgende udtryk lød sådan her lige.
+
+1:15:29
+Det er, at vi har en konstant darker med i A opløftet a gange c.
+
+1:15:37
+Hvor er så C. For alle?
+
+1:15:43
+Det kan vi godt lige tjekke, hvis ikke stoler på mig. Det sætter ind i.
+
+1:15:49
+Det vil sige, at det ser det udfolder sig for at se gakkede i a t, og den er afledet af lys kolossale funktion.
+
+1:16:01
+Det er eksponentiel funktion, gang den ændrer funktion af og så sker.
+
+1:16:10
+Selvfølgelig Varde der skal stå minus her. Så får jeg et minus tegn her Farum, fordi der fodrer.
+
+1:16:19
+Minus hér. Og så har vi.
+
+1:16:26
+Her den ballade hvor der står stille.
+
+1:16:31
+For det andet. Du kan se, det må være en løsning.
+
+1:16:36
+De godt minus strejkens vugge. Så lad os se, om vi får det samme med panden for former.
+
+1:16:55
+Skal vi bestemme møde på det her hver rt. Det er det, der var laves, vi kan.
+
+1:17:02
+Vi kan nedskrive panser form. Det er så det her udtryk.
+
+1:17:06
+Der hedder det i mine ski at se ganger med integraler over Q.
+
+1:17:14
+At se E i minus P er t. DT plus en konstant summen af.
+
+1:17:25
+Og. Vi skulle have fattet det store P, og det var stamm funktioner sådan her.
+
+1:17:37
+Så der er to ting vi mangler for at udregne hvad det lille Q og Lille P.
+
+1:17:43
+Så hvad er det her? Ja.
+
+1:17:48
+Til jer lød gågade og noget nemlig.
+
+1:17:55
+Så om. Ja, hvor skriver Mena kan vi skrive her?
+
+1:18:00
+Det er til limo af.
+
+1:18:05
+Det kan vi indset med det samme her. Så får vi altså det her, og det er A gawker sag.
+
+1:18:14
+Det skulle være lige noget for en hær, og så er vi altså nødt til at udregne være ikke sorte.
+
+1:18:24
+Hvad med den form for? Står der i minus A Grand RT.
+
+1:18:29
+Her ganget med Q er noget så begavet. Så får vi bare, man konstant klager.
+
+1:18:37
+Og det var den, der står her. Og ja, vi får tilsvarende for Løsnings form og her.
+
+1:18:53
+Lad os gøre det lidt sværere. Det er jo lidt for nemt.
+
+1:19:00
+Vi skulle gerne have alle slags sløvede på noget der varierede se her og noget der varierede se på højere.
+
+1:19:07
+Så kan vi virkelig nyde styrken af vores panser, former og værdsætte den.
+
+1:19:20
+Når I skal i krig med differentialligninger og i eftermiddag. For hvordan ser det eksempel noget der hedder adelsmærke?
+
+1:19:39
+At se de første ordens det for en særlig ligning bare lige bemærkninger, så vi kan jo godt have.
+
+1:19:48
+Vi kunne godt have haft en konstant periode. Så kommentarerne fem haderne og klager det som dem eller en anden funktion p 0 så gjort.
+
+1:20:04
+Se den får mere for dig ikke står et tal på eller en anden funktion her.
+
+1:20:10
+Det er den der er standard form for. Måske altid hvis vi har noget, der står her på.
+
+1:20:17
+Flyt det her over i et p og på højresiden kugle.
+
+1:20:25
+Men det fortsat ledningen der den skal.
+
+1:20:29
+Det her og der skal da også bemærket, for vi ser om lidt, hvor for at T skal være positiv, så en forælders eksisterer.
+
+1:20:40
+Ingen løsning sidder. Så vi skal bestemt højrefoden.
+
+1:20:50
+Det var for at kunne bruge pansret form, skal vi have fat i Q 3.
+
+1:20:54
+Det er minus tre til kvart. Så har vi lille Per at se.
+
+1:21:04
+Det er inde over te og selvfølgelig kan man også se her vil se at lege med nålen, så er der noget der går galt.
+
+1:21:09
+Jeg. Men vi kan så finde Stamford Scion.
+
+1:21:20
+Hvad er det? En over to, en over the.
+
+1:21:26
+Det er den naturlige logaritme og også om den funktion, hvorved den er ikke defineret i te lige med 0.
+
+1:21:38
+Så har vi en anden grund til, at vi skal have noget positivt i tag og en så har vi så.
+
+1:21:53
+Vores panser former. Dem kan vi nu nedskrive for står her i minus logaritmen er salg garneret med en graf over E i Lucke C ganget med Q,
+
+1:22:26
+og det var minus tre til kvart t plus konstant.
+
+1:22:35
+Det ser lidt bedre forfærdeligt ud end før. For det er et rigtigt godt eksempel.
+
+1:22:45
+Altså hvis jeg er givet før, så vil vi ikke bare som have løst det, og det ser også lidt slemmere ud end det er, for vi skal lige huske nogle ting.
+
+1:22:55
+Hvad er iltoptag for noget?
+
+1:23:01
+Ja, det er tag for det lukker. Men det er den inverse funktion til den selv.
+
+1:23:08
+Så kan vi også. Vi kan også prøver at huske andre ting, for eksempel en mine slot til.
+
+1:23:14
+Hvad er det for? Ind over til brug er te må ikke blive noget.
+
+1:23:25
+Det er jo netop de udtryk, der står. Måske er der slet ikke så forfærdende det, der står for en dvd'ere.
+
+1:23:32
+Man se, der er noget med. Hvor står det lige, man se, så får vi integra over minus tre te i Frida.
+
+1:23:45
+Det te flødeskum, standen som der og har integral over kubisk udtryk.
+
+1:23:55
+Det kan vi godt klare. For få ville have er integralet til et tredje.
+
+1:24:13
+Hvad er det her? Det er fire gange til et tredje så.
+
+1:24:24
+T i Frede. Og det kan vi godt bruge her for få værelser minus tre.
+
+1:24:42
+Far til fire plus selv. Det er integralet af det her, så skal vi bare lige Garang alt det her ud og hvad får vi så?
+
+1:24:57
+Så får vi det endelige udtryk, der hedder minus tre kvarter til et tredje, plus selv gang til og se divideret med fag.
+
+1:25:13
+Som der. Og det er også det jeg har udrettet der hjemme, så det ser rigtigt ud, som det hedder.
+
+1:25:24
+Det er så er så løsningen på vores defensive ligning, som vi startede med.
+
+1:25:35
+Jamen, hvordan er det så nu søger vi den løsning. Det er jo fint.
+
+1:25:41
+Vi er glade for at kunne bruge form.
+
+1:25:45
+Vi kunne også tjekke, det virkelig er rigtigt. Hvordan gør man det? Du sagde dig ind i det.
+
+1:25:54
+Fans af ledning og regner hvis du regner rigtigt, så ser du at din løsninger er rigtig.
+
+1:26:00
+Så det er jo en god måde at tjekke det på, efter en lang udregninger går i gang med at tjekke det,
+
+1:26:06
+før man taber boringen, eller før den nye bro falder sammen hen over Hadsund.
+
+1:26:15
+Det. Men der mangler jo noget. Vores konstant færd.
+
+1:26:20
+Se det kan jo være. Alle mulige værdier fundne regler talte akset, og det betyder, at vi har faktisk fået en familie af løsninger.
+
+1:26:33
+Et uendeligt stort set alle løsninger. Hver løsning har et forskellig se hvad de.
+
+1:26:42
+Og. Det kan vi se på på denne her måde.
+
+1:26:51
+Det vil sige hvis vi tegner en graf eller hvad en graf for den her funktion fiks at se, så kunne vi udvælge den værdi for se.
+
+1:27:02
+Og så kunne den måske så snu. Ved ikke hvordan det ser ud, da jeg ikke lige tænkt over, men lad os sige det var sådan her,
+
+1:27:08
+så ville det svare til en helt bestemt se, hvad vi måske se lige med.
+
+1:27:14
+Hvis jeg vælger at sidde lige med nåle, sidder du sådan her ud og forsøger at lege med tog.
+
+1:27:21
+Måske ligger der her. Så kan se at de løsninger gennemskærer forskellige punkter i planen, og det er helt afhængigt af hvad se er.
+
+1:27:36
+For der er én ting der bestemmer hvilket punkt vi gennemskærer, og det skal vi lige har set på.
+
+1:27:44
+Der findes også en sætning der selv, og den siger, at hvis vi nu har sådan en differentialligning.
+
+1:27:52
+Og i vores tilfælde var det en 40 står dens lineære fans, sagde linjen.
+
+1:27:58
+Vi er alle med en form for fane for selv.
+
+1:28:02
+Der findes kun en nøjagtigt én løsning hvis og kun hvis, at denne begyndelsen betingelser er glidende.
+
+1:28:13
+Så skal vi lige se på, hvad det betyder. Det betyder jo, at hvis vi går tilbage til denne her tegning, så vil jeg jo.
+
+1:28:24
+Denne her kurve og denne her kurve gennemskærer nulpunkt går i nul i tal lige med nul.
+
+1:28:32
+Det ville være hér, der kunne gemme adfærd eller her eller her.
+
+1:28:37
+Det er de punkter, vi forstår som begyndelse punkterer eller begyndelsen betaler sig.
+
+1:28:44
+For eksempel kunne vi skrive, at vi kræver, at.
+
+1:28:52
+At der skal gælde at når T er lig med nul og niks, er noget der giver os et talepapir, at det skal være et eller andet.
+
+1:29:05
+To kommer i. Vi lige se på her på skærmen.
+
+1:29:10
+Der har vi altså den løsning, vi har udregnet før, så vores fans er alene en konstant se på, og det kan være en eller anden talværdi,
+
+1:29:22
+så vi får uendelig mange løsninger, og vi kræver så, at der begyndes betingelser havde den fod.
+
+1:29:30
+Så hov, den hed så lige omvendt her. 1,2.
+
+1:29:36
+Så vi tager den og indsætter i vores løsningsforslag ikke forstå, at X der skal være lige med tog.
+
+1:29:44
+Det er det her udtryk. Og så skal vi indsætte tag.
+
+1:29:50
+Det behøver ikke at være noget. Det kunne også være en fugl fra en her.
+
+1:29:54
+Så får vi minus tre kvarter plus se det her.
+
+1:29:59
+Og det skal være lige med vores x0 værdi, som var givet ved to, så vi får to lige med minus trekvart.
+
+1:30:06
+Pludselig kan vi mødes, og så får vi den helt bestemt, for de får konstanten C.
+
+1:30:12
+Så det betyder for at vores sag som er i integrations konstant.
+
+1:30:19
+Den er nu bestemt ved hjælp af den her begyndelse betingelser, og det vil vi få,
+
+1:30:25
+for når vi indsætter os selv i vores ligning, så får et minus strik fra 3 frede plus 11 fra divideret med t.
+
+1:30:33
+Det er det, vi kalder for en betinget løsning. Den er betinget af begyndelse betingelsen.
+
+1:30:42
+Og det er så der vi får nøjagtig en løsning, vil jeg sige, at vi får.
+
+1:30:47
+Vi har valgt vores se, så får vi nøjagtig den her løsninger. Ingen af de andre i den her familie er løsninger.
+
+1:30:57
+Det er meget vigtigt at forstå. Det har også ret vigtige konsekvenser for løsningerne.
+
+1:31:06
+Der er én ting, vi kan tænke over. Det er for eksempel. Hvordan kan løsnings kurver heraf op igen?
+
+1:31:12
+Vores graf er vores løsninger ikke så 3.
+
+1:31:17
+Hvordan kan det se ud? Der er én ting, der følger denne her sætning, nemlig at de løsninger er entydig.
+
+1:31:25
+Det er, at denne her situation aldrig må opstå.
+
+1:31:28
+Heroppe i solen løsnings kurver svarer det til to forskellige eller to tog forskellige integrationens konstant eller noget af den slags.
+
+1:31:36
+De må ikke gennemskærer, og det der er muligt, det sidder vi her over.
+
+1:31:41
+Vi har en løsning. Den går igennem dette punkt, som var givet og gav os, hvad den er værdi for.
+
+1:31:50
+Med integrations konstanten har vi en anden begyndelse, forsinkelser her og en anden.
+
+1:31:58
+Sætningen siger at der findes nøjagtig en løsning til samme begyndelser betingelser.
+
+1:32:04
+Vi har svaret de enheder vi har lagt ind her og lagt det ind her.
+
+1:32:09
+Herover har vi sejlede en begyndelse spotting 3 0, 6 0, og sådan udgår forskellige løsninger.
+
+1:32:19
+Det er ikke muligt ifølge sætning. Børser oven historisk og filosofisk for sidebemærkning.
+
+1:32:32
+Det var det fans af elregningen, der blev udmærket. Cirka samtidig er godt for et legendes og rejser Newton i det syttende århundrede.
+
+1:32:43
+Og det kiggede også for de Fønns ligninger og net dem, Leibniz var meget betaget af.
+
+1:32:52
+At det var umuligt for en forestillet sig, at man måske en gang i fremtiden kunne tage et billede af hele universet og måle positionen af hver enkelt.
+
+1:33:04
+Målet kyle for eksempel her eller her eller hér.
+
+1:33:08
+Og så hvis man bare kendte alle naturens love, som ville følge for nogle differentialligninger,
+
+1:33:14
+så kunne man udregner, hvordan de molekyler atomer bevæger sig i hele universet.
+
+1:33:24
+Og fordi han vidste at dette kun kan være som så vil man kunne udregne positionen af alle de her atomer og molekyler fra alle tider.
+
+1:33:36
+Og der vil kun være en løsning, så hvis man bare kunne tage billeder af den her af universet,
+
+1:33:43
+så var det hele forudbestemt, og derfor kalder man også den slags ligninger for deterministiske ligninger,
+
+1:33:50
+altså som kan skrives ved differentialligninger, og det gav ham så et billede af et deterministisk univers,
+
+1:33:57
+og han kaldte det også, kan man læse om her på Wikipedia og i engelsk Prokhorov knivene i vores.
+
+1:34:04
+Så ideen er, at universet løber af i fremtiden, og fortiden er også ligesom et urværk.
+
+1:34:15
+Og var fuldstændig bestemt fordi uret gjaldt dengang, i hvert fald som et symbol for noget, hvor dagen så som vi forstår fuldstændig.
+
+1:34:25
+Vi ved, hvordan det gør. Vi ved, hvor hurtigt det slår og så videre.
+
+1:34:30
+Så vi ved også, at om en time er der nøjagtigt en time senere,
+
+1:34:34
+og om to timer er nøjagtig to timer siden stod vi om ordet, og det kunne man også vide om universet.
+
+1:34:41
+Okay, det er så bare en sidebemærkning. Det er desværre ikke altid, som meget nyt slår lidt forkert.
+
+1:34:47
+Nu var det næsten forrykt. Men selv for den slags ligninger findes der en situation, der hedder kaos.
+
+1:34:56
+Det kan vi ikke tale om her i den forelæsning. Men det kan jeg måske lære om.
+
+1:35:01
+I et senere semester vil jeg sige interesseret A-niveau spyware tilbage til vores fantasi ligninger og lære en smule mere om dem,
+
+1:35:11
+før vi skal videre i eftermiddag med gruppe øvelser.
+
+1:35:19
+Og det vi nemlig vil snakke om, er. GT metoder for enorme marginer differentialligninger.
+
+1:35:30
+Vi har. Gennemgået en hel del teori med masser af eksempler.
+
+1:35:38
+Nu kommer så lidt mere praktisk før vi. Er færdig med forelæsning og afslutter med, men med den.
+
+1:36:36
+Så det vi ser på er i alt tre GT metoder.
+
+1:36:43
+Der findes bestemte områder, men det er nogle meget væsentlige, som jeg skal vide.
+
+1:36:53
+Og hvad? Hvad er det? Altså det at gætte metoder til den vækst og sige til vine.
+
+1:37:06
+40 år, mens det forcerede ledninger. Det er det, vi ønsker rækker os på.
+
+1:37:13
+Og en anden vigtig ting er, at der er konstante koefficienter.
+
+1:37:31
+Og skal lige se at det er rigtigt. Ja, i hvert fald.
+
+1:37:43
+Er det muligt at indskrænke. Vi har allerede set en gætte metode.
+
+1:37:50
+Det var nummer ét, det var, at det vil sige ja, lige skrive det op her.
+
+1:37:55
+Så det betyder, at vi har det ledende interesserede, som hærgede for en konstant p om højresiden.
+
+1:38:04
+Se, det er den slags ligninger, vi ser på. Vi har kigget på situationen, hvor højre side var polynomium.
+
+1:38:20
+Vi havde eksempler hvor der simpelthen stod kuraterer to gange The Plus en, og der gættede så at den partikulære løsning så den differentialligning.
+
+1:38:33
+Det er også en stilling i navn Morgan Fancy alene, så vi kigger på partikulære løsninger.
+
+1:38:52
+Så gættet er så at x0 er til er der.
+
+1:39:03
+Det er den vi søger. Det er et polynomium af samme grad.
+
+1:39:18
+Og der var ukendte koefficienter på dem er en mand man ikke kender,
+
+1:39:24
+så sætter man det gæt ind i det fatale linningen og lige limen, som skal opfyldes af de koefficienter.
+
+1:39:33
+Det har vi prøvet før. I dette eksempel. Før da havde vi sådan en højre.
+
+1:39:40
+Vi havde Tom Krøjer at se. Og så tog man begreber for hedder x0.
+
+1:39:49
+Tid er lige adgang. The Clouds B og a og B er konstante koefficienter, for det har vi prøvet.
+
+1:39:59
+Det vil vi ikke gøre igen. I stedet for vil vi fokusere på den anden.
+
+1:40:05
+Situationen er den, hvor højre side er ren ekskonens hjernefunktion, og det kunne jeg jo så se sådan her ud.
+
+1:40:26
+Og det er meget typisk. Det er meget typisk situation i ingeniør verden, så det vil gerne lige se på mødet i december.
+
+1:40:36
+Og eksempler der er så at mærke at se plus tre ikke så til jeg lige må e i to gange til og i.
+
+1:40:56
+Det skal lige bemærkes. Hvis du kigger på den homogene løsning.
+
+1:41:06
+For så det følgende løsning ville være sød grand i minus tre kopper te.
+
+1:41:18
+Det er lykkedes for venstre og højre side af nul.
+
+1:41:22
+Det har vi, men det vi skal gøre nu, er altså at gætte, hvem partiet kan lære løsninger, og den hedder gas.
+
+1:41:37
+Det hedder altså, at vi tager en eksponentiel funktion, og vi vil gerne have, at det har igen samme form som højere herrer.
+
+1:41:50
+Det vil sige, at vi vælgere i to gange.
+
+1:41:54
+Se her, viser tallene. Og det skal vi lige have afprøvet og se, hvordan det går.
+
+1:42:28
+Vi anser dette gæt i vores de fortsat mening.
+
+1:42:33
+Det vil sige, at vi skal avle børnehaver nok til tre grand tre grader C, A i to t er lige med sine to besøg.
+
+1:42:50
+Skal lige udregnet udregnet Hvad er det det er, så er det bare konstant to.
+
+1:42:56
+Det blev i to sæt. Gaga fatter ikke, at den ændrer funktion, så vi får to gakkede so selv to se I døjer med i to.
+
+1:43:05
+The clouds tre c, a i to t er lige mod i to til OK.
+
+1:43:15
+Jamen så der om bedrives tre fælles faktorer i den her ligning, og den faktor hedder altså i 2 3 og i 2 3.
+
+1:43:30
+Det er eksmands alfonso. Den er altid forskellig fra 0.
+
+1:43:38
+Så vi må godt dividere med den.
+
+1:43:50
+Så får vi en ledning for SE og den hedder to ganger C plus tre C lige med 1.
+
+1:44:01
+Det vil sige det er 5 se her, og så kan vi opløse for se det her, så 1 divideret med 5.
+
+1:44:12
+Og så har vi også dermed fundet vores partikler og løsninger.
+
+1:44:21
+Skrev han. Det vil sige at x0 rt er en femtedel, der takkede med et opløftet i to gange ti.
+
+1:44:37
+Og så kunne man ansætte igen i vores tilfælde alene og se det stemmer.
+
+1:44:43
+Men det har vi jo næsten allerede gjort. Men denne her regning fik jeg ikke hjem om, så det ser jo fint ud.
+
+1:44:54
+Men I skal passe på, for i en situation, hvor det her går galt, og det skal vi også lige have set på.
+
+1:45:03
+Det giver os det næste eksempel. Og det hedder adelsmærke.
+
+1:45:25
+Tag plus tre gang, så T er lige med A i minus tre.
+
+1:45:32
+Se og Hør.
+
+1:45:35
+Vi kan se, det er samme venstre side vi havde før, og der sagde vi, at den homogene ligning har så den løsning for seere, som havde ud med det.
+
+1:45:53
+Det vil vi ikke opholder os over og sidde ved for den gætte metode, vi havde før.
+
+1:45:59
+Det vil sige højere og højere og ganger der med en eller anden konstant ved indsætter her, så får vi.
+
+1:46:14
+Så får vi følgende situation, hvor vi propper det her ind fra venstre side.
+
+1:46:26
+Så hvad vil jeg for det? Det svarer også til den normer, glæden og lysten bag vores facade ledning, at det her udtryk går ud mod noget.
+
+1:46:38
+Så er det at venstre side har. Så hvorfor?
+
+1:46:46
+Fordi den rummer en løsning. Den løser den homogene differentialligning, og den hedder Adelsmærke in the Blues.
+
+1:46:58
+Der er plus tre er i sig selv lig med nul det år.
+
+1:47:05
+Det er ikke mere indviklet end det man på højresiden forstår, dog stadigvæk bedyrer arv.
+
+1:47:15
+Det var ikke så godt. Vi meget kede af det, for vi råber og skriger i.
+
+1:47:29
+Så hvad er der sket her? Altså. Sker jo forskellige forstår.
+
+1:47:36
+Det her problem opstår fordi gættet er identisk.
+
+1:47:42
+Til den homogene løsning. Og vi ved at Overgaden er løsningen.
+
+1:47:49
+Det udspænder det, der svarer til kernen af den her afbildning fra venstresiden, så vi kan opfatte venstreside som den afbildning.
+
+1:48:06
+Og den har en kerne. Og hvad kom kernen af denne her afbildning?
+
+1:48:15
+Det er mængden af alle løsninger.
+
+1:48:24
+For at hvilke f eks. Er til med.
+
+1:48:30
+Var. Det kan godt blive udspændt af netop denne her løsning.
+
+1:48:38
+Og når vi nu stræber noget på højre side, så får vi en enorm og grim ligning.
+
+1:48:45
+Den højreside der skal lægge i et billede råber af det.
+
+1:48:51
+Og det er klart at det der ligger i kernen fik bliver afbildet på nåle per definition kan ikke udspille det, der står her på højresiden.
+
+1:49:02
+Det ligger i billedet ordener. Ja, måske skal vi ikke have så mange fjollede smagløse.
+
+1:49:16
+Det ligger i. F. Hvad den skal hedde.
+
+1:49:24
+Det er det der svarer til det det billede vore.
+
+1:49:37
+Så på den måde det kan forstås, så vi bliver nødt til at finde på et andet gæt.
+
+1:49:45
+Og så. Gættede kan ikke gide gives, håber den er løsningen.
+
+1:50:06
+Og. Et gæt for jeg kan bruge det mange gange det oprindelige gæt.
+
+1:50:15
+Med noget og det det skal være.
+
+1:50:25
+T. Gaga i minus tre ting. Og så gide at se gakkede ikke mindst 3.
+
+1:50:35
+C. Det er den homogene løsning, så tager vi den og ganger dem på med ting, der giver os en ny slags funktion.
+
+1:50:43
+Det er også en anden vektor i rummet af funktioner, og det kan vi jo lige afprøve ved at udregne, hvad vi får.
+
+1:50:59
+Det var også vores bemærkninger, og så får vi.
+
+1:51:07
+Så skal vi have den her aflad. Så får vi i det første C gange A i minus tre til februars produkt Brel.
+
+1:51:16
+Den bliver afledt Clos C. T ganget med den afledte af den er minus tre gange i minus tre C.
+
+1:51:25
+Og så lægger vi tre årgange af x0 selv. Det hedder så formen af vores venstre side, hvor på højresiden står der i minus tre.
+
+1:51:40
+Se. Nu kan vi se at vi kan dvd'ere ud med det i minus tre ting.
+
+1:51:57
+Og stod mig. Hvad vil gøre noget andet?
+
+1:52:05
+Ved jeg at det her er noget? Og det her det kan forkortes altså faktorerne ind i tredje sag.
+
+1:52:16
+Så bliver der et salg til Over Fair. Her vil Ted Gawker i minus tre The Blind Side.
+
+1:52:24
+Faktisk er det de identiske udtryk, der bør stå for ikke havde lavet en regning fejl, for vi har jo tre gakkede x0 her.
+
+1:52:35
+Så skal der også stå tre gange set noget, men vi vil sidde tre c.
+
+1:52:40
+C. E mine street. Se, det er det samme, der står her med omvendt fortegn. Og derfor går hele mødet ud her.
+
+1:52:48
+Og det der bliver til overs. Det er så vores konstant sag, og det er lige med en.
+
+1:52:56
+Og vi kan se, at denne her ligning godt kunne løses.
+
+1:53:01
+Og hvis ikke så vores partikulære løsning, hvor det her selv er lig med en.
+
+1:53:13
+Vi kan så sammenfatte. Vores løsning og den fuldstændige løsning og så.
+
+1:53:28
+Januar hedder og hvem? Den hårde exit sag er lig med Bergstrom.
+
+1:53:46
+Plus partikulære løsning x 0, og det bliver så 3 6 gange i minus 3 3.
+
+1:53:55
+Kløves det her og det var en Gaga tid. I minus tre ting.
+
+1:54:02
+Det her er vores fuldstændige løsning, som vi skulle have fat i.
+
+1:54:10
+Spørgsmål. Dejligt.
+
+1:54:16
+Så kommer til den sidste gave med sårede og for frihed, snart løsladt og sluppet løs på værelserne.
+
+1:54:26
+Det er så den næste situation. Den opstår, når vi har en trigonometrisk funktion fra højre side.
+
+1:54:32
+Det er også en ganske vigtig situation. Vi skal have styr på sagerne og en.
+
+1:54:56
+Og fortrækker jeg så den tavle ned for nogle af jeg kan se derover.
+
+1:55:07
+Endelig og vi vil kigge på et konkret eksempel ex mærke RT plus tre sig selv, så den venstre side kender vi,
+
+1:55:20
+for vi ved stadigvæk at den humor DNA løsningen være opspind af den her fiktion.
+
+1:55:33
+Og nu skal vi gætte partikulære løsning.
+
+1:55:44
+Og det var jo det var jo det vi altid gjorde det i vi tog den højere side og fandt nogle klassecenter på og prøvede at løse lignende med det.
+
+1:55:59
+Men så gør det her, så får vi et lille problem. Jeg vil også sige det fortæller en drøm og indrømmer, at det er et stort problem,
+
+1:56:08
+for hvad nu hvis vi nu tager sinus for eksempel sinus af te og sætter det ind i vores differentialligning, så skal vi udregne den avlede her.
+
+1:56:22
+Så får vi noget der hedder Cogez, så tag. Og det vil sige vi får cosinus at se her plus tre gange signe sig til at lege med sine sorte.
+
+1:56:36
+Så kan vi jo lige prøve. Så får vi.
+
+1:56:41
+La la Cité var konstant på, står der her sikkert cosinus er til svirrende sedlerne plus tre c sinus r til og højreside hedder fortsat sinus at se.
+
+1:56:55
+Så får vi. Så gav vi kan vi se at den cleaning.
+
+1:57:02
+Den skal jo gælde for alle slags værdier at se.
+
+1:57:05
+For eksempel kan vi spillede tillige med 0, så gå de to med ud.
+
+1:57:10
+Hvis det er sandt, så må faktisk C være.
+
+1:57:18
+Så får vi at se er lige med med nul.
+
+1:57:24
+Så står du på venstre fod. Se og på højre side står der nul. Så kunne vi vælge en anden værdi.
+
+1:57:31
+Hvad igen vi godt kender for cosinus og sinus terapi.
+
+1:57:36
+Halve. Så får vi. Så får vi gode til at blive.
+
+1:57:42
+Den 0. Så får vi på. Venstresnoede sinus er Pirlo det 1 tre C og det lige mod en, så får jeg i det her tilfælde af at se mig være fodret.
+
+1:57:56
+Så kan vi godt se. Vi kan ikke bestemme konstanten koefficienten.
+
+1:58:01
+Se for alle værdier og til. Men vi kan gøre noget andet.
+
+1:58:07
+Vi kunne i år sagde en superposition af cosinus og sinus.
+
+1:58:14
+Det betyder vi tak, Agergaard Knudsens site og at det er sinus der te med en konstant A og B.
+
+1:58:27
+Dér hvor skete og for at afslutte det.
+
+1:58:33
+Navnet er cosinus til flere Simo sig til.
+
+1:58:38
+Så hvis vi indsætter det her, så får vi også en sum af sinus og cosinus, der summer, sinus og co.
+
+1:58:44
+Sofaen står noget med sinus på højresiden, for det ser lidt mere lovende ud, at det her ikke kan gå galt.
+
+1:58:52
+Så lad os prøve det. Så har vi.
+
+1:58:59
+Af mange. Og det er jo forkert.
+
+1:59:03
+Det skal hedde minus sinus til her. Vi skal endelig sige, hvor jeg ikke regner forkert.
+
+1:59:11
+Så får vi agerede mine sidste +. B Gaga navnet er sinus,
+
+1:59:18
+det bliver cosinus tre plus tre gange a cosinus til plus tre bag sinus t er limet
+
+1:59:30
+højere end sinus at se ved indsætter igen for at se de værdier vi elsker for sit nul.
+
+1:59:39
+Så får vi nul her. Så får jeg B her. Så får jeg Freya her.
+
+1:59:48
+Og til højre for er igennem nul, så det går op, og manden værdi er pi halve.
+
+1:59:58
+Så får jeg minus her. Inden dagen her går ud af stå, står nul her.
+
+2:00:08
+Og. Og her står nogle forstår der står for nordligere kurser og terapi havde været noget klods.
+
+2:00:23
+Og. Det. Må jeg sige nu skal ud her.
+
+2:00:30
+Den går ikke ud. Den går ikke ud på godt, så den her må gå ud, og så har vi her tre.
+
+2:00:42
+B er lig med en orkan, så har vi altså to ledninger.
+
+2:00:51
+I A og B de er lineær. Det kan vi godt, når vi er nået hertil en forelæsning.
+
+2:01:00
+Så kunne vi jo altså opstille, at vi bare vi får fag.
+
+2:01:03
+Vi har de to ligninger. B plus tre af er lig med nul eller flyttet om tre er plus B, og vi har minus A plus tre.
+
+2:01:16
+B er lig med 1. Det er at ligning system, og det kan vi jo skal behandle med en total matrix.
+
+2:01:29
+Forstår dog tre 1 minus 1 og 3 hær.
+
+2:01:34
+Og på børsen i London. Noldes ja tak.
+
+2:01:40
+For hvordan kan vi Gauss nå det?
+
+2:01:45
+Det har allerede udrettet, for får vi. Så noget taler hér og smiler Santi med det.
+
+2:01:57
+Det er en måde at gøre det på. For selvfølgelig også en anden.
+
+2:02:01
+Det er første ligning giver mig et b minus 3.
+
+2:02:05
+A skal lige finde ud af, hvad anledningen giver.
+
+2:02:10
+Den giver er lige med. 3B minus en.
+
+2:02:18
+Så kan jeg proppe herind for få. B er lige med minus tre gange tre bag minus A.
+
+2:02:27
+Det er minus. Det er tre minus 1 bag.
+
+2:02:35
+Og dermed ved er at. 9.
+
+2:02:39
+B plus B, D bliver 10 B er lig med 3 eller at B er 3.
+
+2:02:47
+Time af dag, og så kan jeg se det her.
+
+2:02:51
+Så får jeg den anden værdi, og det bliver så selvfølgelig, at.
+
+2:02:59
+A er minus en tiendedel, så dermed har vi en partikulære løsning, så vi sætter en a guide en cosinus til hvor det var en time og det minus.
+
+2:03:21
+Det var minus en tid model plus tre tiendedele Grand sydlys RT.
+
+2:03:30
+Det er par til løsning og.
+
+2:03:35
+Så bliver vi meget glade. Det er en måde at gøre det på.
+
+2:03:45
+For er Anne Marie alt. Den vil jeg også lige gennemgå.
+
+2:03:49
+Så er vi færdige med dem, og den går det.
+
+2:03:56
+Det er, at man kan huske noget, som vi talte om for cirka 100 år siden.
+
+2:04:05
+Hvad var det? Komplekse tal.
+
+2:04:17
+Når jeg var det begyndelsen hvor verden var.
+
+2:04:27
+Dejlig kompleks i så varianten er.
+
+2:04:36
+Til trigonometriske funktioner er en komplet slette med toget.
+
+2:04:48
+Og i dag vil gøre at vi opløftet.
+
+2:04:56
+Det føreren ser anledningen til den komplekse sejlplan. Hvordan går det altså?
+
+2:05:08
+Der var noget med en kompleks terrorplan, der var en.
+
+2:05:13
+Relaxed, og som jeg vil kalde ikke for den imaginære akse, og vi skriver så at vi vil lede efter.
+
+2:05:26
+Noget der svarer til komplekse løsninger. For Z er T er lig med x RT plus i Grand.
+
+2:05:43
+Ny at se. Så vi starter med at vi har den funktion, at den fatale ledning givet herned.
+
+2:05:50
+Eller hér. Men. Vi skriver det hele, så sele, så løsninger og godt må være enige i den komplekse saltlagen her.
+
+2:06:03
+Det vil vi lige se på. Så det vil jeg sige, at vi ser på.
+
+2:06:11
+Komplekset i Zalando. Og hvem havde sat mærke at se plus p, RT Grand er selv at se at lege med en højere siden.
+
+2:06:28
+Og så er det sig såmænd at. For det første ligner det meget det vi har set på.
+
+2:06:38
+Men vi skal lige forklare, hvad er det, vi ser på? Der skal gælde, at vores kvalificering funktion pr.
+
+2:06:48
+3. Det er stadigvæk den reelle funktion. Ellers gælder det.
+
+2:06:52
+Jeg siger man ikke derimod er cool at se.
+
+2:06:57
+Du bliver også opløftet til det komplekse. På samme måde her.
+
+2:07:01
+Du vil skrive hvad er en reale værdi? Plus en imaginær værdi.
+
+2:07:08
+Og de hedder Q1 og Q2. Fonde.
+
+2:07:14
+Og begge er de her, altså Q, et og co.
+
+2:07:20
+Det er altså reelle funktion.
+
+2:07:29
+Så det er måske stadigvæk lidt spøjst for mange af jer, så vi skal lige prøve at forstå, hvad er sammenhængen mellem den og bredden?
+
+2:07:40
+Det er særlige ting, som var bare reel, og den er spøjse, komplekse skrivemåde for.
+
+2:08:01
+Det er sådan at vi kan. Vi kan nedskrive halvdelen af denne her ligning på, står der.
+
+2:08:08
+Men så propper det her noget fra for at eks mærke. Plus.
+
+2:08:20
+For det var reelt set eksplodere i forføje sig.
+
+2:08:25
+Kø er til at gøre med ekstra ting og så skal tage real.
+
+2:08:31
+Værdien af Q er q et, så kunne jeg gøre samme øvelse og bestemme den imaginære del.
+
+2:08:42
+Så får jeg selv svarene i mørket at se. P.
+
+2:08:46
+At se er reelt, men byen er ikke de imaginære.
+
+2:08:51
+Paraquat to står for det. Det vil sige.
+
+2:08:59
+Hvis jeg har løst denne her komplekse differentialligning, så løser.
+
+2:09:09
+Den reelle del eks den 40 efterligning og den imaginære del af den løsning den imaginære befandt seriel.
+
+2:09:20
+Stadigvæk spøjst, for ser vi på Alexander med for.
+
+2:09:29
+Og det er jo samme eksempel vi havde før.
+
+2:09:33
+Det var nemlig, at vi skulle se på X mærke at se plus tre.
+
+2:09:38
+Så se er lige noget sinus at se. Det er en reel differentialligning.
+
+2:09:47
+Den vil vi opløftet til en kompleks fortsat ligning, hvor der gælder at sætte at se er ikke så c plus i gang af y og t.
+
+2:10:02
+Det gør vi så her, vil skrive, var sat, mærke at se tre, det var P, R og co.
+
+2:10:07
+Det er en reelt funktion, og så skal jeg så lige passe lidt på her.
+
+2:10:17
+Så vil jeg skrive, at jeg i Se og Hør nu i, at øgler og øgler også former.
+
+2:10:28
+Det hører lige med cosinus til plus i Gaga timer at se for sig selv.
+
+2:10:37
+Hvis vi imaginære del af denne her ligning for får vi et sted der svarer til det her, bare beskrevet i ex.
+
+2:10:45
+Vi stod for Y, og nu vil vi prøve vores GT metode på den her komplekse ligning.
+
+2:10:56
+Det vil sige selv noget slettes og det er altså højere.
+
+2:11:02
+Hvor står her fed ganger ed i 3. Påstanden er altså for juicen.
+
+2:11:08
+Nu er det nemmere at regne med denne her end med cosinus og sinus.
+
+2:11:15
+Så kan vi indsætte det her, for afleder vi det, så får vi.
+
+2:11:27
+C Gaga I. I The Clouds tre gange.
+
+2:11:34
+C e t, r lige må i 3.
+
+2:11:41
+Hvor er det dog rart. Det bliver aldrig noget der hvad.
+
+2:11:48
+Så får vi så meget enkel. Lenina hvor står så C plus tre C?
+
+2:12:01
+Det er fire sag. Det er H.
+
+2:12:07
+Og der står i Se her for hvad. Det er det samme som at se garnet med tre pludselig, og det er lige med højre.
+
+2:12:23
+Det var det vi derude så det der bærer det at et tal. Så skal vi lige have opløst forsalg det er så 1 divideret med tre plus.
+
+2:12:38
+Er det? Rektangulære form.
+
+2:12:47
+Hvordan får vi det? Bør kan forlænge.
+
+2:13:00
+Både da jeg var det. Og så får vi tre i anden plus og tre måneders I sidder over for, får vi ti her, det vil sige tre timer dagen,
+
+2:13:13
+minus i divideret med eller det er en tiendedel, der er med i, mens der skal være helt fint.
+
+2:13:21
+Det er vores selv. Og så har vi så her fundet vores komplekse partikulære løsning.
+
+2:13:30
+Og den hedder så. Det her.
+
+2:13:41
+Men vi skal have en reel løsning sådan her.
+
+2:13:47
+Vi får denne ligning, hvis vi kigger på imaginær delen af den komplekse forstår, hvor jeg at sige nu ser.
+
+2:13:59
+For hvor vi har det for vi færdige med det her, så får vi også EM af selv 0 kan vi lige skrive om her.
+
+2:14:12
+Hvor står 3 10 og det minus i tiende dag ganget med cosinus?
+
+2:14:19
+Tag plus i sinus til. Det vil sige når vi ganger den med Danderyd, så får vi noget imaginært.
+
+2:14:33
+Det svarer til minus en tiendedel cosinus rt.
+
+2:14:38
+Når vi er i gokker sinus til med tre tiendedele. For får vi tre timer valgt, er sinus til og bruger.
+
+2:14:48
+Vi har den samme løsning, som jeg havde før. Hvor er slutningen?
+
+2:14:57
+Alt dette regn og ry. Jeg skal bare lige vise mig blå.
+
+2:15:03
+Det er ganske kort. Bare så I ved hvor tingene er til eftermiddag.
+
+2:15:13
+Der er blevet 40 år. Og når jeg har givet mig 40 år om Stefans anledning er.
+
+2:15:24
+En af. Med en højere vurdering er en eksponentiel funktion, og vi skal finde fuldstændige løsninger vi skal finde en betinget løsning med begyndelse.
+
+2:15:39
+Spil Sikken form her og vi skal undersøge, hvad start betingelserne betyder for løsningen.
+
+2:15:47
+Det skal vi lige se, om vi kan simulere håndtegninger. Vi skal skrive vores særlige ningen ned her.
+
+2:15:54
+Det gør vi ved at bruge de serielle og operatorer. Det er jeg ikke så sikkert at se.
+
+2:15:59
+Så vi afleder it plusser i sig selv med i IT.
+
+2:16:03
+Det svarer til vores fortsatte ligning heroppe. Så kan vi gøre, som vi gør i hånden, så stemmer hvad p er til.
+
+2:16:10
+Det er bare en funktion her ind og højre sidder i T.
+
+2:16:15
+Så finder vi stamp funktionen i API at se bedre integreret.
+
+2:16:22
+Så bruger vi Panzer former. Den er nedskrevet her, vedtaget og overbeviser senere.
+
+2:16:30
+Og. Så bliver det udregnet her.
+
+2:16:34
+Det kan vi jo lige gøre, for de ser, hvad der kommer ud af det. Forandringer.
+
+2:16:38
+Så bliver det hele proppet sammen, og man får en løsning sammen.
+
+2:16:43
+Og så hedder folde.
+
+2:16:46
+Så vil man gerne lave et plot af det her, og så bruger man den her sjove ånd og pleje funktion, der tillader os at skrive en funktion.
+
+2:16:58
+Så se her noget af det, det vil gøre. Så får vi en pibe procedure her lektier til.
+
+2:17:04
+Så skal vi indse, at vores begyndelse sengens for tillige med nul skal ikke svagelige med to dage.
+
+2:17:10
+Løser vi den ligning, så får vi at se tre halve, og vi har den endeløs endelige løsning, som I kan lave et plot af.
+
+2:17:22
+For også denne her. Kommando, der hedder diser for det i krisen ofte gør det hele i et slagserier.
+
+2:17:32
+Det skal selvfølgelig stadig nedskrive, for klinikken er så håber jeg den ind i det.
+
+2:17:37
+Og så skal jeg fortælle, hvad den skal solve for.
+
+2:17:41
+Nemlig ikke sig selv, for ellers ved jeg, hvad den skal gøre.
+
+2:17:46
+Det gøre den så, og vi får samme løsning som før.
+
+2:17:50
+Ja, så er den løsning, og løser den også med de så en bestemt begyndelsen sponsering,
+
+2:17:57
+så får jeg så den betingede løsning, og dagen kan kasserer også plottet, så vi får det samme som før.
+
+2:18:07
+Så kommer lige spørgsmålet Hvad betyder betingelsen for løsningen?
+
+2:18:16
+Ja, når I nu forstår at spørgsmålet er bare hvad besøget og stammer betingelsen forløsende ting står her.
+
+2:18:25
+Vi vælger forskellige salgbare betingelser ex. 0 og plotter en hel flok af de løsninger.
+
+2:18:31
+Så får vi. Her er en familie af løsninger for 11 forskellige værdier af x0.
+
+2:18:41
+Super. Det var det hele, jeg skulle sige tak for i dag. Og held og lykke med det hele i eftermiddag og resten af ugen.
+
+2:18:49
+Og som altid med sine spørgsmål kom lige forbi.

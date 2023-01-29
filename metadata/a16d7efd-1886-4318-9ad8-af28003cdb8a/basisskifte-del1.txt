@@ -1,0 +1,725 @@
+0:05
+Sidste gang, da indførte vi det der hedder en afbytning matrix for en lineær afbildning, og den skrev vi op på den måde.
+
+0:17
+Her se store f. A. Og det indikerer jo, at en afbytning matrix er afhængig af de valgte baser.
+
+0:29
+Det er den lineære afbildning ikke i sig selv. Den afbilleder de samme vektorer på de samme vektorer, uanset hvilken basis der er valgt.
+
+0:39
+Men afvænnings matricen er altså afhængig af den bageste.
+
+0:44
+Vi har i definitionen så rummet og i dispositionen tårnet.
+
+0:50
+Vi kan endda opfatte sådan en afbildning matrix som sådan en slags maskiner og siger dette A.
+
+1:00
+Det betyder, at den kræver input i a koordinater, og at den spytter ud.
+
+1:08
+Dens output er i simkort idealer, så er altså den vektor x skal afbillede.
+
+1:16
+For at vi kan bruge denne her skal vi have a koordinater, og resultatet vil komme ud i c koordinater.
+
+1:25
+Det spørgsmål vi stiller i dag, er så jamen, hvad sker der så, hvis vi ændrer basis?
+
+1:33
+Hvordan påvirker det afbildningen af matricen?
+
+1:37
+Det skal vi finde ud i dag ud af i dag, og det er selvfølgelig sådan lidt teknisk betonet.
+
+1:43
+Det er nogle matricer, vi skal have gang i sammen osv. Det skal vi have fundet ud af i dag.
+
+1:48
+Hvordan vi gør det, så kan vi selvfølgelig også spørge Hvorfor skal vi gøre det?
+
+1:53
+Og da er der en eksperimentelt opgave i dagens aktivitetsprogram, hvor I har givet en to CO2 matrix ud fra det vistnok standard basen.
+
+2:06
+Og så skal I finde en ny basis. Sådan ser afbilledes.
+
+2:10
+Matricen bliver til en diagonal matrix, og det er en af de pointer, vi virkelig får brug for fremover.
+
+2:17
+Hvordan ændrer man? Skifter man basis sådan, at man får en hensigtsmæssig diagonal matrix som sin afbildning af Matrix?
+
+2:28
+Men vi skal jo først lære, hvordan vi overhovedet laver Basix skifte.
+
+2:34
+Og jeg skal lige have slukket for den der.
+
+2:45
+Og ikke engang til sommer. Og så skal vi have tænkt på noget mere lys.
+
+2:56
+Og her har vi situationen i en nøddeskal. Her hvor vi bruger planen, de planer vektorer som et eksempel.
+
+3:06
+Og I kan se det jeg har tegnet her. Det er en basis A og en anden basis B og så en eller anden vektor ex.
+
+3:17
+Altså givet. To baser.
+
+3:25
+Vi har en basis band bestående af bassist, vektorerne er ét og to og vi har basen B samt består af b komma b to.
+
+3:47
+Og så ved vi jo at vi kan opskrive ex som en lenau kombination af basis vektorerne.
+
+3:59
+Så er vi her. Ton er lig med ex.
+
+4:05
+Af effekter effekterne plus to er to vektorer.
+
+4:12
+Vi ved at enhver vægtere kan skrives som en lille akkumulation af basis vektorerne.
+
+4:19
+Det samme er selvfølgelig gældende, hvis vi benytter den anden basis.
+
+4:26
+Så får vi nogle andre koordinater. Skal vi kalde dem ex et tilter.
+
+4:33
+Det er et plus X2 Childe B 2.
+
+4:44
+Og så kan vi kalde det her for. Fra den gamle basis, og dette er så en ny basis som vi har indført.
+
+5:00
+Så antager vi nu at.
+
+5:05
+Den er væk, så der kan selvfølgelig også skrives som en leynaud kombination af af vektorerne, så lad os nu sige, at vi også kender B.B.
+
+5:14
+Tonernes a coordinator. Så lad os sige at.
+
+5:26
+B. Effekt, så den er K et et plus kort.
+
+5:31
+2 af 2. Og bevæg så Beto væk så den er kort.
+
+5:39
+Tre. A et plus K fire af to.
+
+6:03
+Godt. Lad os nu tage udgangspunkt i den anden sammenhæng, der står her op.
+
+6:13
+Der står at x vektoren den er x et Childe B et plus x 2 telte B-2.
+
+6:29
+Nu kender vi jo. B vektorerne b vektorerne som Lene akkumulation af vektorerne.
+
+6:39
+Så lad os prøve at sætte det ind. Så har vi altså ikke et tiltet, og så i stedet for at blive ét der skriver vi så k et a et plus kort.
+
+6:50
+2 af 2. Ja, ja. Og så siger vi så ikke to titler.
+
+7:02
+Og så i stedet for at blive to der skriver vi så kort tre a et plus k fire er to.
+
+7:17
+Nu prøver jeg så at Factory seere det her udtryk i forhold til ét svigter og er to vektorer.
+
+7:28
+Og så får vi ikke set tilde k ind.
+
+7:34
+Det var altså den faktor her. Og så får vi X2.
+
+7:39
+Childe Kort tre. Er en digter.
+
+7:47
+Og så får vi. Så får vi så.
+
+7:55
+Exit Childe K 2 er to vektorer med mænd der vil lege med +6 to tilter.
+
+8:04
+Kun fire. Er to vægter.
+
+8:16
+Se, nu har vi så ikke vektoren. Opskrevet her som lineart kombination af ét og A2.
+
+8:28
+Men det har vi også, det er op. Og I ved at de narrer kombinationen er entydig, fordi et og to det er en basis.
+
+8:39
+Så herudover kan vi altså slutte at. At de to koefficienter her exit og X2.
+
+8:55
+De må altså være det samme som. A ex et childe på et +6 to childe på et træ for oven, og så har vi.
+
+9:11
+Og så har vi ikke set. K 2 plus X2 til den på 4.
+
+9:27
+Og nu prøver jeg så igen, og at skrive denne her vægtere er det sådan set lidt om,
+
+9:36
+fordi den er så lig med exit tiltag og så en søjle vægt på et CO2 plus X2 tiltag og så en søjle vektor coat tre på fire.
+
+10:02
+Og det her kan jeg nu skrive om til følgerne på et kontor på 3.
+
+10:12
+På 4. Og var der, så står her dæks, et childe og så x to telte sådan her.
+
+10:25
+Og hvorfor det? Jo, fordi baglæns. Så når vi laver det her med et track svigter produkt, så er det jo det øverste element.
+
+10:34
+Gange med den første søjle. Det er det, der står her. Plus det andet element gange den anden søjle her.
+
+10:42
+Så nu har jeg sådan set besvaret spørgsmålet. Her kan I se her.
+
+10:49
+Der er de gamle koordinater. Det er dér exit og X2 som jeg bruger i lige og kombinationen i forhold til den gamle basis, altså af et A2.
+
+11:05
+Og det der står her. Det er de nye koordinater. Det er dem, der indgår i lige i nationen med B vektorerne.
+
+11:13
+Så her står der altså. Hvis I kender b koordinaterne.
+
+11:19
+Så skal jeg i gang sammen med den hær. Så har I udregnet af koordinaterne.
+
+11:28
+Så det vil sige den matrix der. Det er en vigtig matrix, den kalder vi for basis skifter matricen.
+
+11:39
+Så konklusionen er Det er jo a koordinaterne Forex.
+
+11:47
+Er lig med, og så kommer denne her matrix ind.
+
+12:05
+Her har vi basis skifte. Formlen.
+
+12:12
+Vi kommer altså fra BK nattøj til a kortet natur ved at gange b kortet med den Matrix' her, som altså i dette eksempel svarer til det der står her.
+
+12:25
+Så nu skal vi prøve at se, hvad var det egentlig så det der står her på et og på to?
+
+12:32
+Ja, det var jo b et digterens a coordinator. Det står i første søjle, og i den anden søjle står der B-2 vektoren a koordinater.
+
+12:49
+Så det vil altså sige at den dér matrix.
+
+12:58
+Den består altså af det et tsarens SA koordinater.
+
+13:08
+Og Beto, sektorens koordinator. Og det er altså den der kaldes basis skifte matricen.
+
+13:40
+Og den består. Af koordinat vektorerne.
+
+13:55
+For din nye basis vektorer. Med hensyn til den gamle basis.
+
+14:20
+Og nu har jeg altså her lavet et eksempel, hvor væg til rummet altså har dimensionen 2.
+
+14:31
+Men det er samme metode. Om det så er dimensionen 3 5 eller vilkårligt en.
+
+14:39
+Så skal vi altså opskrive alle de nye basis vektorer i sådan en en maltraktere, og så har vi bag basis skiftet matricen.
+
+14:50
+Og lad os se et eksempel på det. Måske lidt.
+
+15:15
+Og. Den sidder sørme godt fast.
+
+15:28
+Så. Ret så indgik.
+
+15:50
+Så er vi friske til at gå i gang med et eksempel.
+
+15:55
+Kjærsgaard. I 1 tale rummet er tre er der givet standard basis.
+
+16:26
+Som sædvanlig en leg med.
+
+16:36
+Man skal passe pas meget på den der. Så.
+
+16:42
+De slukket begge to godt standard basisten består selvfølgelig af 1,0 kommet nul og nul komma 1,0 og nul komma nul komma.
+
+17:00
+Og så er det også skide en ny basis. En ny Basels.
+
+17:15
+Er givet ved. B, som er en kommer 1,0 og så har jeg 2,1 1,0.
+
+17:32
+Og så har jeg nul komma nul komma.
+
+17:39
+Og den kan vi så kalde for B, et B2 og B3 vektor.
+
+17:52
+Og ud fra det her eksempel, der vil jeg så lave to opgaver.
+
+18:06
+Og jeg siger at jeg har gidet vægteren ex er B et minus to B-2 plus B3.
+
+18:28
+Og det jeg bliver spurgt om er. Find koordinaterne.
+
+18:42
+For X. Med hensyn til.
+
+18:49
+Basis E. Altså Standard basen.
+
+19:02
+Og lad os lige se hvad er det for nogle koordinater vi kender i forvejen.
+
+19:07
+Vi kender dens b koordinater.
+
+19:15
+Da jeg fik koordinaterne nemlig lige med. Hvis du kommer.
+
+19:28
+I S, som jo er koefficienterne her i Lenau kombinationen med b basis vektorerne.
+
+19:41
+Nej, lad os se, hvad er det vi bliver spurgt om? Vi bliver spurgt om om at udregne.
+
+19:52
+En koordinaterne Forex. Og nu skal vi se her.
+
+20:07
+Bemærk det her med Dia Index, der er ved basis skiftet.
+
+20:12
+De to index der skal altid passe sammen.
+
+20:16
+Så det er så at sige inputtet til basis skifter matricen, og det er der afpudset, som giver de her koordinater.
+
+20:25
+Så når jeg skal have. Den her.
+
+20:32
+Så skal vi altså have en.
+
+20:35
+Basis skifter matrix, hvor vi ser skrive et ether, fordi at en koordinaterne er outputtet, og så skal vi skrive hvad der er inputtet.
+
+20:47
+Det er B.K. Senator. Så det er altså bare det her vi skal have regnet ud.
+
+21:10
+Så nu skal vi bare have fundet ud af, hvad der skal stå.
+
+21:16
+I de tre søjler her. Og er der nogen der vil hjælpe mig med det?
+
+21:24
+Hvad siger du? Ifølge Ja jatak.
+
+21:32
+Og det er jo lige præcis dem vi har stående her hen. Det er jo tal sættene for B, et B2 og B3, så dem skal vi altså bare have stillet på højkant.
+
+21:44
+Så det bliver en 1 0. Og så bliver det 2 1 0, og så bliver det nul, nul og 1.
+
+21:55
+Og så skal vi have regnet ud, det giver en.
+
+21:59
+Det giver besked om tre, og så bliver det minus 1, og så bliver det en.
+
+22:15
+Så hermed har vi altså fundet en koordinaterne. Så det vil altså sige at selve ikke svigter om skrevet som vægtere.
+
+22:31
+Den vil altså være minus tre minus 1 og en.
+
+22:40
+Dér har vi altså dens koordinater med hensyn til et standard basen, og det er her det ikke svigter ham selv.
+
+22:48
+Som vi har fundet på den måde her. Gymnaster der deltager i år, ikke bliver respekteret.
+
+23:07
+Nej, fordi det er du.
+
+23:11
+Det du her skal tænke på er, at vi er inde i det mægtige rum, der hedder er 3 3 består af tal.
+
+23:19
+De tal paraderer vektorerne selv. Så det vil jeg så sige, det er det jeg har opskrevet her.
+
+23:25
+Det er et Talpa. Det er vektoren selv, mens det her er dens koordinater.
+
+23:36
+Og det altså og i og hør her. Det er nemlig lidt svært at forstå, fordi jeg siger hvem og hvorfor er der egentlig en forskel her?
+
+23:45
+For det er jo de samme tal ligger også. Dér har vi værktøjerne.
+
+23:51
+Det har vi dens koordinater. Det er jo det samme. Så hvorfor er det interessant?
+
+23:56
+Jamen, det er det jo lige præcis fordi I kan se, hvis vi bruger en anden basis, så det tal så står her.
+
+24:06
+Det har de det koordinater. Hvis du blevet valgt fra kvindelige pladser, ja om år, så det er bare et eksempel jeg har.
+
+24:17
+Altså jeg tog den erfaring, og så stillede jeg den op.
+
+24:22
+Så læg mærke til det. Den det her.
+
+24:25
+Det er vægteren selv, mens det er dens koordinater med hensyn til by basis, og det er dens koordinater med hensyn til standard basen.
+
+24:35
+Og det er altså kun med hensyn til standard basen, at der er en overensstemmelse mellem koordinaterne og elementerne i.
+
+24:50
+Godt set.
+
+24:53
+De tager sig af opgaver. 2. Der er givet.
+
+25:11
+Vægt så. 1 komma nul komma minus tre og vi er stadig væk i det tal rum, der består af Talpa.
+
+25:28
+Og så lyder opgaven Find koordinaterne. For ved vægteren med hensyn til basis.
+
+25:46
+B. For den opgave er det igen et eksempel jeg har valgt, og det er nu det jeg vil se, selv om jeg også er i stand til at løse.
+
+26:04
+C Det jeg nu ved er jo at det er det vægteren selv.
+
+26:09
+Men jeg kender jo dens standard basis koordinater for fordi ved vektoren med hensyn til standard basen.
+
+26:19
+Det er en nul og minus tre. Og hvis de så skal følge basis, skifte formlen her hende.
+
+26:40
+Så kan vi alle sige, at det jeg kender det er evig.
+
+26:47
+Eller rettere sagt det jeg bliver bedt om. Det er jo ved vektoren CBS koordinater.
+
+26:56
+Og der skal jeg bruge en basisk gift matrix og så skærer gange med standard koordinaterne.
+
+27:08
+Og så for at få pengene til at passe, så skal det altså være en put in korte nattøj.
+
+27:18
+Output B koordinater. Så basis skifter matricen altså jeg sådan her ud.
+
+27:28
+Og nu er så spørgsmålet. Om jeg kender den der.
+
+27:37
+Så siger nej, det gør jeg ikke. Men jeg kender den der.
+
+27:43
+Den har jeg her. Så nu er det interessante. Hvad mon forholdet er mellem den jeg kender og den?
+
+27:52
+Det viser sig, at jeg har brug for nu. For at komme videre herfra, så er man nødt til at spekulere lidt over det.
+
+28:02
+Altså hvad sker der, hvis det lige pludselig er den modsatte vej, man går?
+
+28:09
+Og da vil jeg skaffe mig lidt plads på den tavle her. Og så kigger vi på.
+
+28:22
+Altså på situationen, altså her hende fra her.
+
+28:30
+Så jeg starter ud med den der ser hvad det den siger.
+
+28:34
+Den siger, at a. M.
+
+28:40
+B. Gange med. Ex vægteren in spe coordinator.
+
+28:51
+Er lig med expectations a coordinator. Kvalitet.
+
+29:00
+Det er det samme. Det er den samme form. Jeg har bare lige tilladt mig at skrive den baglæns.
+
+29:08
+Nu ganger jeg fra venstre på begge sider af lighedstegnet med den inverse til basis skifter matricen.
+
+29:20
+Hvis jeg ganger denne matrix med sin inverse matrix, så får jeg identitets matricen, og det vil sige vi kan se bort fra dem.
+
+29:31
+Tilbage vil der nemlig bare være X. Vægteren in spe coordinator proshop på højresiden føjer sig.
+
+29:41
+A. M. B.
+
+29:46
+Enhvers matrix forsagt gange med ex vektoren a koordinater.
+
+29:58
+Så her står der altså, hvordan jeg kan komme fra a koordinater til B kortet atter.
+
+30:03
+Det kan jeg jo gøre ved bare at bruge den inverse matrix. Så det vil sige at den nye formand jeg så er i stand til at opskrive nu.
+
+30:14
+Det er at. Hvis jeg vil skifte fra a coordinator til b koordinater, så er det det samme som basis skifter matricen,
+
+30:28
+der skifter fra b koordinater til koordinater, dens inverse matrix.
+
+30:39
+Så det er jo meget smart.
+
+30:43
+Altså hvis jeg går fra at ville skifte fra BKL eller til a koordinator til at jeg vil gå fra a koordinater tilbede koordinater,
+
+30:52
+så skal jeg bare bruge den inverse. Matrix er den basis, men med matrix jeg havde i forvejen.
+
+30:59
+Så det her er altså dagens formel nummer 2.
+
+31:17
+Så nu kan jeg endelig komme videre med den opgave vi havde gang i her, så BK Nætterne.
+
+31:27
+For V vægter. Det er altså den matrix der står op som var en 1 0.
+
+31:42
+Og to en nul og nul nul en.
+
+31:52
+Den inverse matrix til den sagt ganget med de korte nætter jeg har, som er en nul minus tre.
+
+32:08
+Og. Og så har jeg hjemmefra lavet den inverse matrix, som er en minus 1 og nul og nul nul og en.
+
+32:29
+Og så en nul og minus tre. Og hvis vi regner dette ud, så får vi en.
+
+32:38
+Og så får vi. En.
+
+32:44
+Der får vi det største og så minus tre så det.
+
+32:52
+Eller vi får for Minos en. Og så får vi.
+
+32:59
+1 og så får vi ministre som dem. Så hermed har jeg altså fundet bede koordinaterne for vægteren der,
+
+33:09
+og det jeg så kan sige, er, at den ved vækster, der som Talpa ser ud på denne her måde.
+
+33:20
+Den kan altså skrives som minus b effekter plus vi to vægter.
+
+33:27
+Og minus tre de tre vektorer som det.
+
+33:34
+Så hermed har vi altså prøvet at skifte coordinator begge veje,
+
+33:40
+og det er altså de to former, vi har brug for, når vi skifter, når vi skal skifte basis.
+
+34:02
+Nu går vi så frem til det emne, som jeg lovede jeg nemlig at vi skal se på, hvad der sker med afbilledes matricer, når vi skifter basis.
+
+34:13
+Se situationen er. Situationen er jo den at vi har.
+
+34:37
+To vektorrum. Og vi har givet en lineær afbildning.
+
+34:52
+Og vi har givet en. Basis A og her i W.
+
+35:04
+Der har vi givet en basis C.
+
+35:15
+Og så siger vi det er en lineær afbildning F er givet ved sin afbildning smag Trix.
+
+35:36
+Sådan her. Og det jeg så spørger om nu er hvad sker der med denne her afbildning matrix?
+
+35:49
+Hvis jeg skifter basis i en af disse to vektorrum.
+
+35:57
+Og lad os sige det her er så der har vi den gamle basis, og lad os nu sige, at vi vælger en ny basis i dette vektorrum.
+
+36:16
+Altså en basse skal vi have den forbi. Så det vil altså sige, at i stedet for at vi har a som input vektorer eller a som input koordinater,
+
+36:33
+så vil jeg nu prøve at se hvad hvis jeg bruger b koordinater i stedet for.
+
+36:39
+Så det vil altså sige jeg vil bestemme. Afbildning matricen med hensyn til by i det første vektorrum.
+
+36:51
+Og set i det andet vektorrum. Se det jeg ved det er at billedet billede vægteren y.
+
+37:11
+Den er jo på forhånd givet sådan her.
+
+37:16
+Det var det vi lærte det sidste gang, og som vi havde på øen, var den lige før.
+
+37:22
+Sådan er. Kan du se.
+
+37:32
+Der har vi så vidt nu skriver lige denne indgang til. Og så ved vi jo fra vores aller første formelle, formelle nummer ét, at den ikke svigter.
+
+37:44
+Der står her altså koordinater vektoren med hensyn til A. Den kan skrives som a, m b.
+
+37:56
+Erhvervsleasing gang. Også så gange.
+
+38:03
+B. Ex. Samt Herring her, så var jeg bare erstattet ideer med det der står her.
+
+38:14
+Og nu ved vi jo at matrixmultiplikation er associativ, det vil sige i stedet for at garantere samme.
+
+38:23
+Først så kan jeg vælge at garantere tog sammen først. Så står der altså C.
+
+38:29
+F a matrix gange. M.
+
+38:39
+Sådan her. Og så kan jeg se, nu har jeg sådan set besvaret mit spørgsmål Hvordan kommer jeg fra en vektor,
+
+38:52
+der er givet i b natur og så her over for den afleveret i sekundmeter?
+
+38:57
+Det gør jeg ved at gange b koordinaterne med den matrix, der kom ud af det produkt her.
+
+39:05
+Så det her er altså den nye afbildning matrix.
+
+39:15
+Så vi har altså at se. FBI matricen.
+
+39:21
+Den er. C f, a gange med A.
+
+39:29
+MB. Det vil sige jeg kan bruge den gamle afbildning small tricks, hvis jeg lapper lidt på dem.
+
+39:48
+Denne her kræver jo a koordinater.
+
+39:53
+Så siger jeg okay, men så laver jeg, så laver jeg bare koordinaterne om, og så får jeg den matrix, som der står her.
+
+40:15
+Men det kunne jo også være, at det i stedet for var her, jeg havde skiftet min basis, så jeg i stedet for se.
+
+40:27
+Vælger en ny basis der hedder Ben.
+
+40:37
+Og så kunne jeg så stillet spørgsmålet hvis jeg vælger at have input i a koordinater, men ønsker output i det koordinater.
+
+40:48
+Hvordan skal min? Hvordan skal min afbildningen smag så se ud?
+
+40:55
+Så det vil altså sige. Det er denne afbildning smag jeg er ude efter.
+
+41:07
+Hvordan kan jeg bygge den op ud fra den jeg har i forvejen?
+
+41:19
+Denne her er jo den givne bag basis, altså afbildningen matrix.
+
+41:26
+Vi kan se denne her passer godt nok i den ene side med input vektorerne, men den kræver altså, at vi har afbrudt ideen.
+
+41:35
+Og hvordan kan jeg lappe på den? Jeg siger, den spytter ud i se koordinater, og når vi så har set koordinaterne, så bruger vi en basse.
+
+41:45
+Med basis skifter Matrix til at lave dem om til det koordinater. Så bliver jeg så at sige der skal vi gange ind.
+
+41:54
+Basiske efter med en eksport der hedder. Se.
+
+42:00
+Og det på den måde da. Og så skal vi endelig kigge på.
+
+42:17
+Altså på den samlede situation. Hvis jeg både skifter til en ny basis i venterummet B og til ny bassist I vægter rummet W.
+
+42:42
+Og mit udgangspunkt er denne her afdelings matrix.
+
+42:49
+Ja, så er nødt til at tilpasse dem så den. Godkender input i bede koordinater.
+
+42:59
+Det gør at nu laver dem om til a koordinater. Nu kan jeg nemlig bruge den gamle afbildning matrix.
+
+43:07
+Den spytter ud i se dem skal jeg have lavet om til det koordinater.
+
+43:11
+Det gør jeg så ved at gange denne her. På samme der står her.
+
+43:19
+Så den samlede total basis skiftede både i V og W.
+
+43:25
+Giver altså et produkt af tre matricer. Da vi tager pause.

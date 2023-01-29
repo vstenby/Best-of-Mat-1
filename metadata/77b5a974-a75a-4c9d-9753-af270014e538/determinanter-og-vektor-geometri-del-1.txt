@@ -1,0 +1,1136 @@
+0:04
+Klokken 10. Vi skal i gang med forelæsningen.
+
+0:08
+Det er semester uge 6, hvor temaet er dets mantra og geometriske vektorer, som gør at det falder i to punkter.
+
+0:17
+Pladsen også to forelæsninger. Vi skal have en Menander, og så skal vi starte på vektorer.
+
+0:23
+Næste skal du have en vektor rum abstrakte vektorrum. I denne uge er det mere konkret det geometriske vektorer vi skal snakke om egne regler,
+
+0:31
+for så skal vektorer vi skal snakke om, med til zähringer linje og planer. Vi skal snakke om de nærmere kombinationer.
+
+0:36
+Det ligner afhængighed og uafhængighed. Så skal snak om, når der havde basis.
+
+0:40
+Koordinater og koordinater skifter matricer, og det kommer vi til at arbejde en del videre med det.
+
+0:47
+Noget af det sidste for Holm fra mere generelle vektorrum tager altså ikke kun med geometriske vektorer, men alle mulige andre vektorer.
+
+0:54
+For eksempel kan man også repræsentere polynomier eller funktioner ved hjælp af disse vektorrum.
+
+1:00
+Og det er faktisk meget vigtigt, at dette koordinat skifte matricer giver optræder mange steder i matematik og ingeniørvidenskab.
+
+1:11
+For eksempel hvis man vil komprimere et et billede, så er et af de skridt man laver.
+
+1:17
+Det er en basis gift, og det man skifter fra, er fra standard basen til noget, der hedder en diskret cosinus transformation.
+
+1:25
+Og det skal vi finde ud af, hvorfor det er smart, og jeg skal først i denne uge prøve at forklare, hvad det er,
+
+1:33
+så forhåbentlig kan jeg også snakke en lille smule mere om, hvordan man komprimere billedet, men det må vi vente til næste år.
+
+1:42
+Så i hvert fald siden 1 1. En hurtig matematisk gennemgang er der nok godt, men vi skal i gang med, når jeg.
+
+1:53
+Jeg skal måske lige sige hvem og motivere. Så fik jeg motiveret geometriske vektorer og venterum det til timian anter.
+
+2:00
+Dem skal vi bruge en end en hel del. De optræder, når vi skal snakke om egne værdier senere.
+
+2:07
+De optræder, når man skal bestemme linna uafhængighed og afhængighed af vektorer.
+
+2:15
+Og så i sidste uge, der er udregnet ved den inverse matrix.
+
+2:21
+Og det har det var, ja, opstille bare af matricen og opstille en matricen og så grave sig helt ned og så aflæse der ikke matricen først,
+
+2:29
+og så skulle der gerne stå af enhvers til sidst. Men det går kun godt, hvis matricen er regulært, da snakker vi også om sidste år.
+
+2:37
+Og et af de måder at checke på, om sådan en matrix er regulære, er udrensende statsmands.
+
+2:44
+Når det kommer til lige om lidt, så jeg må hellere forklare, hvad det var.
+
+2:53
+Så vi starter simpelhen bare med definitionen af en detonator godt, og det er det er en afprøvning, og den går fra eller anden pris.
+
+3:09
+Så vi har en anden empress end matrix, der kan enten være reelle eller komplekse, så den afdeling.
+
+3:14
+Derfra og ind i enten de reelle eller de komplekse tal.
+
+3:19
+Og så er det bare en inden den tager en matrix, og da den spytter ud.
+
+3:23
+Det tal og det skriver man nogle gange sådan her.
+
+3:27
+Så den tager sig en matrix, og den spytter det ud.
+
+3:33
+Men jeg skal jo så forklare, hvad der er fortalt. Den smider ud, og det er sådan en indre inklusions definition.
+
+3:42
+Så vi starter med at definere den fra ende lige ét. Så gør vi det for endelig 2.
+
+3:46
+Og så gør vi det for større end og fik godt. For endelig et andet meget simpelt end for endelig ét.
+
+3:54
+Så har vi et kryds, et matrix, og det er bare et tal. Så alt det her, og så er denne form.
+
+3:59
+Jeg ser sådan her ud, og determinanten er diamanten af.
+
+4:06
+Det er bare det tal afkast for endelig 2.
+
+4:13
+Så har vi altså en CO2 matrix et et a et to a to et a to torgrim.
+
+4:23
+Helt generelt matrix og det tilhørende determinanten er defineret som.
+
+4:28
+Ja, man ganger diagonal elementerne sammen af et a 2, og så ser man minus den antal diagonaler og så bliver a et f a to 2 gange a et to a to et.
+
+4:42
+Og så kommer den lange formel og er fra N.
+
+4:48
+Så slemt er det ikke, fordi jeg som tegner nemlig så for en større Linie 3, der gør ved følgende decimaler for at A kan skrives som.
+
+4:59
+Nu kommer der et symbol, jeg håber, jeg set før, men andet skal nok lige forklare det.
+
+5:06
+Så vi skal summerer fra J. Startende fra et op til EM minus et i OPLOG skær er det er et valgfri række.
+
+5:18
+Så er det altså et eller andet tal imellem end Ali. Nej, onkel fra et op til EM og det er altså en valgfri række.
+
+5:30
+Okas og jeg kalder det en valgfri række, for det kommer ind her.
+
+5:37
+Det her f a er J. Så den er det ikke.
+
+5:41
+Og jeg eller j løbe igennem fra et til EM, og der skal jeg så at skyde følgende på her.
+
+5:53
+Og kan så. Så langt så godt hjerner.
+
+5:56
+Nu skal jeg forklare, hvordan han af Matrix er forarget. Det kalder vi snit matricen.
+
+6:02
+Det er anden gang kalde den Egners i engelsk litteratur. Og så hvad er det?
+
+6:10
+Det er en maskinchef opnår fra A ved at slette række R og søjle j.
+
+6:18
+Så I tager jeres matrix af sletter, række søjler j så har I en m minus et gang end mine ord sket med en sexarbejder.
+
+6:25
+Er det den der så? Det her er a uden ikke er og så alle de år og det vil sige det er altså en anden end os et kryds end et matrix.
+
+6:52
+Okay. Og hvorfor er det så induktion? Ja, så.
+
+6:55
+Men når endelig 3. Hvad gør vi så? Skriver vi endelig 3 1.
+
+7:01
+Så er det en sump med tre led, der betyder sump. Så jeg tager det her, hvor jeg lige et plus det samme, og jeg lige to plus.
+
+7:09
+Det samme må jeg lige trække. Det betyder det, som der står herude. Hvis I er vant til programmere, så er det bare en forelå.
+
+7:16
+Så det må jeg selv om, hvordan man tænker på det. Men okay så.
+
+7:21
+Men der skal jeg så have fat i nogle snit matricer, og hvis endelig 3 er, så er jeg starter med en tre tre matrix, så så er det her snit.
+
+7:28
+Matricen var en 2 kørestol. Jeg skal slette osv.
+
+7:33
+Så ender jeg man. 2. Forstår man godt, hvordan skulle man så gå herpå, retter dem?
+
+7:37
+Man kan ikke godt. Hvis jeg starter med 1 4 mod 4, så starter med at skrue det her op.
+
+7:44
+Det bliver så 4 led, altså problem. 4 denne sum. Jeg har så i hvert af dem stående decimal er en 3x3 matrix arme.
+
+7:53
+Der ved jeg ikke, hvordan jeg udregner direkte,
+
+7:55
+men så kan jeg for hver af dem opskriver det samme udtryk som er 3 3 bliver til 2+2, og så kan jeg endelig rentemødet.
+
+8:06
+Det er generelt ikke en rigtig historie, så det er definitionen, vi skal finde ud af.
+
+8:10
+Andre metoder egentlig have taget noget på, fordi dets breder sig rigtig hurtigt.
+
+8:15
+Fordi man starter med, hvis du har en ende på skænde, så har man en ledig, og hver af dem har en ende minus.
+
+8:21
+Ét gang skete det sådan, at man skal regne ud, hvem af dem bliver spillet ind til.
+
+8:27
+Hver af dem bliver spillet ind i end minus et snit matricer.
+
+8:32
+Så det spreder sig, og det vokser som inden fakultet. Så det vokser rigtig hurtigt.
+
+8:36
+Så lige pludselig skal jeg udregningen, fakultetet, og det er et stort tal.
+
+8:40
+Så det er ikke sådan, vi kommer til at regne det ud i de fleste tilfælde. Men når endelig 2 så ham 2 bestod mand, jamen så er det hurtigt.
+
+8:47
+Så er vi tilfredse godt. Og hvad er et eksempel så?
+
+8:55
+Jeg tager så bare et tre kryds tre for at holde det simpelt.
+
+9:03
+Så det bliver 3 et 3. Tog et et et nul minus efter 2 2.
+
+9:11
+Og jeg er fri til at vælge rækken, så jeg vælger at række et program, består jeg altså dette tal.
+
+9:20
+Der står jeg det sådan, at det uafhængigt af det er det, jeg vælger.
+
+9:25
+Det kræver selvfølgelig bevis, men det ville jo ikke gå i detaljer med. Men jeg kan vælge, hvad jeg har lyst til at melde er lige godt.
+
+9:31
+Hvad skal jeg så gøre, hvis man enten er af en mand, der skal skrives som?
+
+9:39
+Jeg har en at trække string. Det er faktisk en reelt 3 cost 3 så endelig 3, så jeg skal mere op til 3.
+
+9:49
+Og så skal jeg skrive. Mine skete i J Plus er væk og er valget til ét, så erstatter det da med et 1 tal og a et J og min gud af snit.
+
+10:04
+Matricen og den skal hedde et kommer op.
+
+10:08
+Så er det altså ikke, og det må vi hellere få skrevet hele vejen ud og gik så måske ud at udvikle den her.
+
+10:21
+Så det bliver til minus ét i, og jeg også skal være ét til at starte med.
+
+10:24
+Så står der minus ét i 2. Hvis jeg skal helt kategorisk have et plus ét af et ja, altså betalt her.
+
+10:33
+Det er også et talent, der tager godt, så det af et komma et determinanten er.
+
+10:41
+Og hvad skal jeg så skrive her? Ja, det af a hat et et hvidt j et til at stramme.
+
+10:49
+Så det er der, hvor jeg sletter række ét og søjle et for halvanden tilbage, så det bliver en et 0, 2 2 og plus minus ét måske eller j være 2.
+
+11:06
+Vi skal jo være 2, så står der totalt. Så står der af to par a et 2.
+
+11:13
+Og så står der determinanten R. Og så har jeg altså a hat et 2.
+
+11:21
+Det er at sletter række ét, og jeg sletter søjle 2. Og 2.
+
+11:26
+Og der slipper søjle 2 og række et, så har jeg et minus et nul og to står også bag et minus et nul og to står nu tilbage.
+
+11:37
+Og så skal jeg hus det sidste inderligt. Jeg er lige 3.
+
+11:41
+Så det bliver minus ét, og så er det et 3 plus et A af et 3 determinanten af den der og.
+
+11:59
+Den der. Det bliver et et minus, et to organ, og det er det minus et i 2.
+
+12:08
+Halvleg var det tal. Den bliver kaldt alternerende.
+
+12:12
+Foretager man det, der står her, fordi hvis der står et der, så står der altså minus et andet,
+
+12:17
+og så står der et derned, så man behøver kun urin den første man skal starte med et eller minus.
+
+12:23
+Denne start om et sådan efterled minor set og tredje led er så elegant, så eller skal man varmede.
+
+12:30
+Der står ikke der minus ét i tredje sæt i tredje sæt og minus ét i fjerde.
+
+12:37
+Det er et godt, og det er mig selv lige slået ned, hvis I er i tvivl godt.
+
+12:45
+Når man så kommer til at stå af ét ét af ét ét, er selvfølgelig det 60'erne, der står der.
+
+12:50
+Så der står 3 gange med det, så man enten er.
+
+12:55
+Man skal bare op på min formand herovre ganger ned i diagonalen, så det er et Garand 2 minus 2 gange nul.
+
+13:03
+Det er bare to køn, så det er to gange et minus 0,2 minus Mark mener.
+
+13:12
+For jo mere nu står der et 2. Dette total overfor, skal vi gange Tournament nummer 2 ét gang.
+
+13:24
+2 minus minus ét. Der er nul serie igen eller skriver to gange.
+
+13:30
+Et minus mener skete noget, og vi kan godt li det her noget.
+
+13:36
+Plus ekstra plus. Kernavė var det et.
+
+13:42
+Og så var det et trick. Det er et tal, der står halvanden gange med, og så skal vi simpelthen herned.
+
+13:50
+Det er 2 minus minus ét. Så det er et ganger to minus minus et gang et godt, så det er tre gange med 2 minus.
+
+14:06
+Nu er jeg bare parentesen. Det var total. 2 gange 2 plus ét gange, og det bliver 2 plus et, så det bliver interessant.
+
+14:17
+Og vi ender med 6 miner. 4 Kos.
+
+14:21
+3 7. Nej da.
+
+14:28
+Jeg håber det giver fem cifre nok skal se om det passer.
+
+14:33
+Ja, det giver sammen fem. Og så vil jeg sige prøv selv med ærlige 2.
+
+14:48
+Alder er lig 3 I skal.
+
+14:54
+I har jo facit for fase.
+
+14:55
+Skal fem som med SI nu vælge række 2 og 3, så skal jeg så få det samme, for det skal give determinanten af en masse godt og rigtigt.
+
+15:13
+Når jeg sagde det havde noget at gøre med om man kunne invitere matricer, så det vil jeg skal nå ud til en sætning.
+
+15:24
+Og vi vælger altså en eller anden anden pris end Matrix, så man kan skiglade af værket.
+
+15:34
+Så ville have givet en eller anden matrix, og så gælder der afkast af den.
+
+15:46
+Hvis nu determinanten er forskellig fra nul, jamen så er det faktisk ensbetydende med at.
+
+15:54
+Og det sukker i sidste uge a regulære dvd, hvor ringen er fuld af hang til drenge af at ligne M.
+
+16:01
+Men det er det samme som, at A er en titel, jeg kan skrive det.
+
+16:15
+Dette, der står til venstre i det, er logisk, at det jeg skriver her.
+
+16:22
+Det er bare dem den modsatte, det modsatte udsagn, så hvis det er sådan den anholdte, jamen så må jeg jo være sekulær.
+
+16:31
+Nej, det er det modsatte regulært. Og det betyder ikke, at har ikke en enhvers, eller at vi skal bevare samme sprogform af er ikke og arrogant.
+
+16:56
+Og det er ting. Jeg vil godt lige kunne prøve at overveje, hvorfor det vil gå, for det er rigtigt.
+
+17:02
+Vi skal jo kun tænke på den første ækvivalent, så lad os give et bevis nok til at begå sig nok, så at det var sidste ord.
+
+17:19
+Så det vil vi betragte denne her så af.
+
+17:24
+Det af forskellig fra 0. Hvis og kun hvis A er regulært, så skal man faktisk.
+
+17:28
+Hvis man skal vise noget, så skal man vise 2 medfører pile.
+
+17:31
+Man skal antage dette op og vise at det medførte det her noget man skal ansatte og medførte at vi det gælder.
+
+17:37
+Desuden har forskelle fløj så at antage at.
+
+17:55
+At A er invertibel cancer er starter med med udsagn er det faktisk den bedre.
+
+18:04
+Hvis jeg ikke manøvrerer med det samme, som der kan være, så vil spids af invertibel gener der.
+
+18:08
+Så hvis jeg skriver denne the matrix off a g og graver sig ned, jamen så får jeg jo e.
+
+18:22
+A. F. Men hvis vi nu bare lidt tænker på det første her EM, så er A jo da også ned.
+
+18:31
+Bare enheds matricen. Hvor mange ledende ettaller? Jamen, der er jo et salg hele vejen ned.
+
+18:36
+Det er jo finalen, for der er indledende ettaller, som har rækken af PR et.
+
+18:41
+Det vil sige drenge er A, og hvad en indledende taler, så det var meget simpelt at se.
+
+18:58
+Og. Ja, og så er vi nået hertil.
+
+19:08
+Jeg vil egentlig gerne op i det eminent den er af og. I er.
+
+19:29
+Og kan jeg færdiggøre dette argument, er jeg blevet så skal ned på den anden tavle så.
+
+19:39
+Det så man af denne er lig med et, så determinanten af E er lig med et tal og hvor forretter egentlig.
+
+19:56
+Og det bliver klart at jeg beklager og hvis vi viser den anden vej.
+
+20:14
+For. Ansa.
+
+20:28
+Så kan man tage det modsatte, hvis gentage er determinanten af forskelle for noget er, og det vil vi gerne vise medfører.
+
+20:44
+Men det viser desværre at man ikke skal lade forholdet medføre, at A er regulært,
+
+20:49
+og at der ikke har været den samme straf, skriver rækken af Ending navnets Malmqvist.
+
+20:55
+Så kan man vist den modsatte det modsatte udsagn.
+
+20:59
+Det er gangen at A er mindre end en medfører at det er nul.
+
+21:05
+Det er negationen af denne her. Det her udsagn kan, så det her er det samme.
+
+21:10
+Hvilket er det samme som at rækken af A er mindre end andet medfører, at determinanten A er lig med noget godt.
+
+21:30
+Men hvis rangen af er mindre end M. Jamen så må der være en årrække.
+
+21:37
+Når jeg har caused ned, og det skal vi se.
+
+21:41
+Men det øjeblik at nulre rækker betyder, at det simpelthen er når det. Kan godt.
+
+21:57
+Så vi tager lige et eksempel.
+
+22:01
+Så man har en 2+2. A, b, c, d.
+
+22:06
+Jamen hvornår har den så en enhvers? Jamen den har altså er præcis.
+
+22:15
+Invaderer bare hans titel.
+
+22:22
+Nov. Jamen så skal mine bare tjek hvornår dets vildanden er a og den er jo det her tilfælde af idés mener spidses.
+
+22:33
+Vissing er forskellig fra nul og.
+
+22:42
+Den inverse reagerede sådan i to Kristol tilfælde, der kan man altså opskrive formen fra den inverse, og den er så sig jo lige godt nok.
+
+22:54
+Man skal det være med til. Og så kan man.
+
+23:02
+Så skal man bytte om på akademiet, og man skal sætte miner så foran dem, der er i antal jævnaldrende og kan ikke vide om det.
+
+23:10
+Så kommer dette op. Jeg kommer herned, og man sætter mine ord.
+
+23:14
+Så på dem her. Man skal kunne som man skal huske man skulle bytte om på to af dem, og man skal sætte sig foran to andre.
+
+23:23
+Og hvis man er i tvivl om, hvem man skal være, hvilke man skal bytte om på, og hvilken man skal sætte sig på,
+
+23:26
+så skal man huske, at hvis det her var enheds matricen, så ville den inverse være den samme.
+
+23:31
+Så hvis man sætter minusser foran enheds matricen stepperne alle,
+
+23:35
+så er det ikke længere enheds matricen, så det kan ikke være det, man skal saltminer sig foran.
+
+23:40
+Nu skal der være, så byt om på hælen og til den ene sig i and, så derfor den anden.
+
+23:46
+Denne masse har det godt, og I kan se her, hvad problemet er.
+
+23:53
+Reformen hvertfald når det er lig med Norling, så dividere man noget.
+
+23:58
+Og så for nu definerer vi det sonaten ud fra det der hedder ikke oplysning.
+
+24:09
+Altså det var under række jeg valgte er man kan gøre præcis det samme.
+
+24:14
+Søjle og oplæsning så det eminent ved søjle og opløsning.
+
+24:25
+Og formen er simpelthen varerne for en eller anden empress matrix gælder, at jeg kan ur og andres vildanden bade formerne.
+
+24:40
+Ja, jeg vælger en eller anden søjle, og så skriver jeg i et til ende.
+
+24:48
+Der står det samme her. Men i stedet for at være i øjet har jeg.
+
+24:53
+I stedet for er har jeg S. Og så skal jeg tage en søjle, og det vil sige her har jeg.
+
+24:59
+Der er færre styk, mens anden en anden parameter om det er den variable.
+
+25:05
+Men den der kører over summen, men her nu skal have søjlen fast, så er ét karma S og så skal have determinanten af snit matricen.
+
+25:15
+Og det er selvfølgelig også i S s godt.
+
+25:24
+Så I kan prøve selv at tage denne og opløftende efter en søjle.
+
+25:31
+Vi skal stadigvæk få, at det giver fem, og hvis man skal vælge den udvalgte række ét, men det går fint.
+
+25:40
+Men det er nu engang smartere at vælge den række, hvor der findes en eller den søjle, hvor der er flest nøgler i.
+
+25:45
+Og nu har I valgfrihed. Hvorfor er det smart at vælge en række med mange nuller i?
+
+25:49
+Jamen det fordi så det der står her jo nul for skal ikke udregne nationalt.
+
+25:54
+Altså hvis der havde stået nul læring, så ingen grund til at udregne det som den anden.
+
+25:59
+Så vælg den række eller den søjle, hvor der er flest nuller, og så gå i krig med at udregne disse snit til at stikke matricer og deres detonator.
+
+26:09
+S Godt. Men hvis man ikke skal gå ud fra definitionen eller række eller søjle opløsning,
+
+26:18
+jamen så gør man det ved hjælp af Gauss elimination og udregning af dets Vaillant.
+
+26:26
+Ved hjælp af Gauss, ja, ramme eleverne sjovt nok, og der har vi vores velkendte 3.
+
+26:39
+Række operationer, så man skal finde ud af hvad sker der med dets vildanden? Må jeg lave proportionerne og den første?
+
+26:47
+Hvis jeg har en Matrix A, og jeg laver den om til en Matrix B ved hjælp af paprika og portion et bytte om på 2 rækker.
+
+26:59
+Så hvad sker der så? Altså bier opnået fra af ved at bytte om på 2 2 rækker.
+
+27:04
+Jeg gør sådan her godt. Jamen, så er det som Gud er af lig med Miers, desuden at bage på kage og række operation.
+
+27:18
+2. Dette, hvor jeg opnår en matrix B, har masser af ved at gange række ét som en nye række ét bliver en konstant gange den gamle række i og ved den,
+
+27:33
+der konstant skal være forskellig fra noget længe godt.
+
+27:37
+Jamen, så er determinanten af a lig med divideret med k gange.
+
+27:44
+Nej vel. Og det er jo sådan set ikke noget overraskende, hvis jeg ganger en hel række med.
+
+27:56
+Men med en forstand på ring og gå over til eksempler og kick.
+
+28:04
+Hvis jeg nu havde ganger. Lad os sige række ét med 2. Så vil der stå 6, 4, 2, hvor der står et 6 tal dér.
+
+28:16
+Der vil stå firtal, og der består af to taller. Men så har jeg jo ganget alle udtrykt med to, så det er jo relativt naturligt det.
+
+28:24
+Hvis jeg ganger det her, er række ét, hvis jeg har den med 2, jamen så er den dobbelt så stor.
+
+28:30
+Jeg kan bare få to udenfor haunting uden for så man. Så det er meget naturligt, at det sker, og derfor bliver det den af B.
+
+28:41
+K guide så mad og har flere gange K over for den anden seiding når og række en portion træne den, vi ofte skal bruge.
+
+28:50
+Der siger vi, at det jeg opnår fra A ved at jeg tager en rejse og til den række i og til række ikke lægger jeg.
+
+29:01
+To gange rækker jeg som en nye række i r række i plus Koranen.
+
+29:07
+Og her der mako jeg hvad som helst. Og jamen, så er determinanten af lig med dig som.
+
+29:18
+Så der sker ingenting med den. Godt, så lad os kigge igennem på vores eksempel fra før.
+
+29:30
+Så eksempel et forsøg. Og determinanten af tre tog et et nul og mener et tog tog da over os A6M godt.
+
+29:51
+Jamen hvordan. Jeg bestemmer selv, så jeg skal bare lave en række operationer, så jeg kan regne det ud og det selv mærkede.
+
+29:59
+Jeg starter med at starte med at gange række 2 og 3 med 3. Omkring en tredjedel ganger en tredjedel gange, så Vildanden.
+
+30:17
+Og så har jeg ganger 2 rækker med 3. Så om det bliver 3 3 0 mod minus 3 6 6a.
+
+30:31
+Jeg har brugt trækker på som 2. Jeg har ganger to pakker med tre, og det skal så tage udfordringen godt og g, og så vil jeg bruge Operation 3.
+
+30:49
+Jeg vil gerne have noget stående. Jeg vil gerne have noget stående, så det er den sædvanlige. Min nye række 2 bliver række 2 min.
+
+30:55
+Og trækker et. Så må vi 0. Og så må det blive et folkelig, mener sæt.
+
+31:02
+Og den sidste der ligger, er min nye række. 3.
+
+31:05
+Maj bliver række 3 plus række 1, der bliver 0. Så bliver det 6 plus to til 8, og så bliver det 6 Plus.
+
+31:12
+Det bliver 7 godt. Og det fortsætter jeg med.
+
+31:21
+Nu må jeg gerne have 8 tallet vekslet til et nul. Godt så det bliver to et nul, et minus ét, og så ville jeg gerne have 8tallet væk, hvis jeg gør det.
+
+31:41
+Normalt siger man, så skal jeg jo sige, at min nye række 3 4 række 3 minus 8 gange række 2 får jeg noget fra 0.
+
+31:51
+Skal sige 7. Minus minus 7 og 8.
+
+31:58
+Undskyld, det må blive 15. Men for den sidste er.
+
+32:07
+Den nye række 3. Og række 3 minus 8 gange, række 2.
+
+32:12
+For A7, der kommer til Astra minus 8. Trækker man fra hinanden, så bliver det 7 min og minus 8 15.
+
+32:19
+Hvor kan jeg godt, og det her er nemt at regne, og det forklarer jeg leger med det.
+
+32:24
+Så man dem af en, der havde en trekant matrix eller en 3'er.
+
+32:28
+En triangulær matrix, der havde en nål under diagonalen eller over diagonalen, er målet hér godt.
+
+32:37
+Det er så bare diagonalen, så det er gang 3. Gang en gang.
+
+32:41
+15. Det er sådan set ikke så svært at se hvorfor er det tomaten?
+
+32:47
+Er denne matrix bare det, der står i diagonalen? Jamen, hvis jeg oplyser efter første søjle.
+
+32:56
+Så jeg bruger formen altså først og så skal sige tre gange. Det er det der.
+
+33:02
+Plus nul gange, der som altid er sletter række 2 og har et ét, men nul gange ét eller andet stadigvæk nul,
+
+33:10
+og den sidste er også nul, for der er jo kun ét og det tre gange, der så man når dem, der står dernede.
+
+33:16
+Men det der står dernede, er et gang 15. Det er ikke fordi, der sådan nogle gange et så.
+
+33:24
+Hvad får jeg samlet 45?
+
+33:30
+Det var 9. Det er vist 5. Det var heldigvis os, der ville sikre at køre afsted og må om de her trekants matricer eller triangulær matricer.
+
+33:48
+Og så må du hellere lige have nogle regneregler for dem. Så har sådan en indkredset.
+
+33:55
+Red Sox, som jeg har med at gøre, at man tager Keller, som man ellers kan sige, hvilken form den skal have.
+
+34:07
+Det kan være enten en, der ser sådan her ud af et et af et tog hele vejen ned til et EM, 2, 2 a, 1 m og 1.
+
+34:23
+Så ved man måler, man har huller under granaterne, så alt det,
+
+34:29
+der står her allerede under diagonalen er det gælder eller hvis A har formen, er der nul, og derfor er det også o.k.
+
+34:39
+At to tog a en and a et.
+
+34:46
+Her har jeg nået over diagonalen. Eller hvis jeg bare har en diagonal matrix.
+
+34:56
+Hvis jeg kun har elementær diagonalen 0 0.
+
+35:04
+Hvis jeg har en af de tre tilfælde.
+
+35:10
+Jamen så er det sådan den bare giver Ronaldo en gang ud efter determinanten af, er A et et af to 2 hele vejen ned til af en and.
+
+35:26
+Og som jeg sagde Jamen det er bare opløsning efter enten søjle eller hikke.
+
+35:31
+Hvis opløser efter første søjle det eneste der giver noget forskellig fra dag ét en guide på den der sol.
+
+35:37
+Og så fortsætter jeg bare. Og hvis jeg gør det, så får jeg, at den bliver derfor en anden.
+
+35:42
+Det kan selv prøve. Og når man. Godt.
+
+36:00
+Lad mig lige vende tilbage til så hvorfor at decimaler af er forskellig fra nul.
+
+36:05
+Så jeg antog at a invertibel er det samme som a regulær.
+
+36:09
+Jeg vil gerne vise, at det er forskellig fra nul. Her har jeg lavet. Hvis jeg er henved ti, vælger man så når vi graver sig ned fra A.
+
+36:15
+Så får vi bare E. Men det vil sige. Altså der er ikke noget der gør at at A bliver nulevende.
+
+36:23
+Altså jeg får, at de række operationer jeg laver. Jamen der bliver af, at der bliver sat måske anderledes.
+
+36:30
+Men jeg har aldrig med noget i de her relationer, så det kan godt være, at den ikke er lige med ét det af.
+
+36:37
+Men den kan i hvert fald ikke være nul. Så. Godt, så fik vi det på plads, og det samme må man hernede, der vil jeg gerne vise,
+
+36:55
+at hvis hvis randen af er mindre om end nu, så betyder det jo, at der er en 1 0 række, hvis der er en Ulrica i A.
+
+37:06
+Man kan jo sig andet, hvis man tager det som noget, hvor der i en årrække.
+
+37:12
+Så vælger man bare at opløse efter den række, og så står der nuller på alle de pladser, som det er sådan, man har når det.
+
+37:19
+Og kan det forklare hvorfor det er sådan at den er.
+
+37:24
+Nok s. Lidt mere generelt kan man sige, at hvis A har 2 rækker, der er proportionale, så at i et af de to osv.
+
+37:43
+Op til i, end hvis den har sådan en række, og den har en anden række som måske hedder a k gang a i et k gang a i 2.
+
+37:54
+Altså den samme række med konstant ganget på samme med rækker selvfølgelig.
+
+38:01
+Så jeg kalder disse 2 proportionale rækker. Jamen så er det smeltning af noget.
+
+38:28
+Og godt, så har man brug for nogle få regneregler omkring som planter man kan vise er det.
+
+38:42
+Den er et produkt af af gangen. Bech er lig med antallet af gange med Aabech.
+
+38:55
+Og her der af og Beck selvfølgelig. Hvor sædvanlige procent matricer og kan ikke.
+
+39:01
+Så det er jo ingen smart, fordi hvis alle er regulære og spektakulære, så a game b regulært.
+
+39:09
+Så hvis af invertibel og speed invertibel som produkt af også invertibel. Det står her altså vi ved.
+
+39:14
+Hvis A er invertibel, jamen så er det man skal nok. Hvis BN med titel så det falder en forskel for noget, så er produktet af de to forskellig fra nul.
+
+39:21
+Nu må det være sådan,
+
+39:22
+at alle gange med B også være forskellig fra nul og så engang b invertibel for den smarte formet og det der sker også se lidt mere på i.
+
+39:32
+I opgaverne og ud fra den kan man også sige noget om.
+
+39:36
+Jamen, hvad sker der så? Hvis invertibel så? Hvis A er.
+
+39:47
+Hvis invertibel. Sæt, så sætter man sådan set bare beige lig med enhvers og kage og giver det,
+
+40:08
+så står der til supernemt af A Guide med a enhvers alim man desværre en del af det her.
+
+40:19
+En af gangene er det sådan, at den er en værre sang. Og hvad er det så man når det her hen?
+
+40:28
+Jamen, adgang af enhvers. Det enheds matricen. Og Enheds matricen.
+
+40:38
+Det specielt en matrix, hvor man bare har en diagonal enheds matricen, der et indtaler noget diagonal ældning,
+
+40:45
+som jeg udregner, hvis man enten er enheds matricen for at et tal, så vi kan skrive her.
+
+40:50
+Specielt. Er det som en?
+
+40:57
+Er Anders Matthesen Lima et gang, et gang, et gang, et engang.
+
+41:02
+Det er jo bare et. Så er det lige med et tal.
+
+41:07
+Og derfra så er determinanten af Lima en DVD, der som anden enhvers.
+
+41:19
+Eller sagt på en anden måde. Skal den af enhver salig, men ikke determinanten af a rap.
+
+41:30
+Og det kan sådan set godt have plads til her.
+
+41:35
+Så lad mig lige skrive den. Jeg kan også godt sige noget om det som den anden transponeret,
+
+41:39
+og det kan jeg jo her for determinanten af alle elementer, som enten er den transponerede.
+
+41:48
+Det følger af, at det er lige meget, om jeg opløser det efter rækker eller søjler.
+
+41:53
+Det er det, der skifter mellem mig med A eller a transponerede godt.
+
+42:01
+Den geometriske fortolkning af det smalle kunne der komme en mere ind på senere, men og kan jeg, skal man så give Messis fortolkning?
+
+42:19
+Givet A. Og jeg er interesseret i søjlerne.
+
+42:23
+Adam kalder jer a andre skove. 2.
+
+42:28
+Jeg har sejling som en anden søjle værktøj osv.
+
+42:35
+Og så a i.
+
+42:40
+Det er altså sådan en søjle af værktøj med EM pladser, og der er determinanten af a.
+
+42:48
+I absolut fordi eller mere fordi det svarer til. Det volumen som de søjler udspænder, og det skal man hellere forklarer svarende til volumen,
+
+43:05
+som selv betragter disse søjler udsætter dem i et punkt, så udskiller de et par læderrem.
+
+43:11
+I 2000 under høje dimensioner, svarer det, udspiller de et tilsvarende.
+
+43:15
+Det hedder et parallel til bederum i høje dimensioner.
+
+43:20
+Så lad os bare sige det et endimensionalt parallelogram for de udspænder et eller andet har et par løver i høje dimensioner,
+
+43:31
+og dets vollertsen svarer til volumener. Udspændt er ædt op til en orkan godt og indeni holder pause, så vil vi lige kigge på Mabel demo.
+
+44:07
+Okay, så det her. Det er basic. Om det Salander.
+
+44:12
+Det er cirka den jeg kan finde på kampe nat. Og som sædvanlig lå der ved lineær algebra.
+
+44:18
+Vi har opskrevet en 4 kysse fire matrix og lineær algebra har simpelthen bare den kommando der hedder det simpelthen.
+
+44:27
+Og med stort det. Man kan lave de her snit matrice hvis man har lyst.
+
+44:33
+Så den første. Vi har opløst efter første række.
+
+44:39
+Så jeg skal slette første række og første søjle, så får jeg den der. Jeg sletter første række og anden søjle.
+
+44:45
+Så får jeg denne her noget og så. Og så kan jeg smide uniformen.
+
+44:49
+Det er den, der er skrevet herned forneden. Og det giver det sammen.
+
+44:52
+Så satte. Godt.
+
+44:57
+Hvis jeg havde valgt at række 2 eksemplarer. Så skulle jeg have skiftet ud på foretagendet.
+
+45:03
+Så hvis man vælger en ulige række, så starter man med plus alt andet lige række.
+
+45:07
+Så starter man med minus den her. Altså lære altså mere der får tegner godt.
+
+45:13
+Men lad os se lidt mere avancerede eksempel. Eller i hvert fald en mere avanceret brug af Dichman antenne, så dette system har kigget på før.
+
+45:23
+Vi ønsker at løse lignende systemet a x lig b. A.
+
+45:27
+3. Hos 3. Maaske skade ved A.
+
+45:30
+I diagonalen en eller anden vilkårlig Parameter af eller et vilkårligt Tal af et par i diagonal og ellers Ettaller og Højresiden b.
+
+45:37
+D er rene ettaller. Og vi ønsker at finde ud af hvem hvad alle løsningerne for alle værdier er af, og penge skal forestille jer jeres værste fjende.
+
+45:46
+Kommer og giver jer et A. Og så skal jeg sige, hvad løsningen er.
+
+45:50
+Det er opgaverne, og man kan spørge Mikkel, hvad der er den 4.
+
+45:54
+3. Og det er rimelig korrekt, men det er ikke fuldstændig korrekt.
+
+45:59
+Det er korrekt for de fleste af værdier, altså den lille a værdi.
+
+46:03
+Det er jo ikke korrekt, hvis jeg sætter af til at være lige med et tal.
+
+46:07
+Fordi så står der et salg overalt i denne her 3 3 matrix og randen af damask er altså kun lige med et.
+
+46:14
+I kan lave 2 rækker portioner, og så har jeg allerede den på trappe får.
+
+46:19
+Som da så Mabel har helt ret her, og fordi den ikke tager højde for specialtilfælde.
+
+46:26
+For det skal de selv være opmærksom på. Enten skal man selvfølgelig lave.
+
+46:31
+Man kan jo, man kan lave et Gauss elimination i hånden eller ved simulerede har en retning.
+
+46:36
+Så fanger man den slags specialtilfælde.
+
+46:38
+For eksempel hvis man vil starte med denne her masse, skulle man starte med, når man godt have et tal oppe i venstre hjørne, altså Herring.
+
+46:45
+Så kunne man selvfølgelig bytte om på nogle rækker, men hvis man ikke var så klog, så ville man dividere med af.
+
+46:50
+På godt, men så må alle jo ikke være nået i resten af udregninger, fordi så har vi videre det.
+
+46:55
+Så snart man laver en række operation, hvor der indgår,
+
+46:58
+hvor man kan risikere at dividere med nul for et bestemt parameter værdi, ja så skal man tage det a ud af udregningen.
+
+47:05
+Og så kan de efterfølgende udregning gælder ikke for denne lille avis.
+
+47:10
+Det betragter man så som et specialtilfælde, som man skal regne ud til sidst. Så må man set a tal være lig med nul og så se hvad der sker med ham.
+
+47:17
+Og godt. Men at lade dem være alene af sorg, siger selv Herring.
+
+47:24
+Det er også rimelig korrekt, men jeg har selv set problemer af alle i minus to, fordi så står der nul nævneren.
+
+47:30
+Men alle i ét ved vi også er et problem. Ud fra det jeg lige har sagt, så det er helt klart, når man bare spørger Mikkel, hvad der specialtilfælde.
+
+47:40
+At man ikke bare se på løsningen og så sige om det specialtilfælde, så kan det så meget at udrette sådan.
+
+47:47
+Hvis man gør det, så får man et tredje, der også får noget mere af.
+
+47:49
+Altså dér var opløst efter søjle som enhver ting, eller som man lige har set, så uran og omvendt Jazmin venter der en masse eksamenslokalet.
+
+47:55
+Det bliver så tredje gang også med A, og vi er interesseret i at finde ud af hvornår.
+
+48:00
+Er det noget? Fordi vi ved, at A er en Matera, når det som 18 er forskellige forhold som S.
+
+48:08
+Hvis A er invertibel, så er det jo nemt at finde løsning for bare at være ganget på højresiden.
+
+48:12
+Der er kun én løsning i det tilfælde længe, så det er interessant at vide,
+
+48:16
+hvornår ordene er nul, og det er dem i de her tre tilfælde, som indeholder to tilfælde.
+
+48:21
+Det tredje fænomen har tre rødder, der ved det, og et dobbelt råd og minus to er en enkle råd.
+
+48:28
+Og så angiver et specialtilfælde, så derfor så er mit første særtilfælde dag lige et.
+
+48:35
+Så laver man den her stops subjektivt kommando.
+
+48:38
+Jeg sætter alle i ét og bruger Lenas år, fordi nu har jeg en Matrix Water Continental, der dermed reelt med and.
+
+48:46
+Og hvis man udregner det i Mabel, jamen så får den løsningen skrevet dér.
+
+48:51
+Og det kan man skrive lidt pænere for neden for i hånden, så læs.
+
+48:57
+Godt. Vi vidste også godt at der var to frie parametre.
+
+49:01
+Ikke fordi retten, som vi snakkede om mig af, var et når et, så antallet af frie formater 3 som antallet ubekendte minus et.
+
+49:10
+Det snakkede også om i sidste år, så vi vidste godt, at løsningen skulle altså have to frie parameter og når gerne så særtilfælde alle i minus 2.
+
+49:20
+Der siger Mabel inkonsistens. Så det er sgu en fejlmeddelelse.
+
+49:24
+Det er fordi jeg taster forkert. Det er jo bare fordi der ikke er nogen løsning selv. Jeg kan kun se en inkonsistent system.
+
+49:30
+Det er fordi mail eller støtte pasningen af de D-rækken, vi kender, bedre nået hele vejen hen og så et tal forskellig fra 0.
+
+49:37
+Og det så vi sidste år. Det svarer til at noget skal være lig med ét eller noget skal ligne en eller anden konstant forskellig fra nul.
+
+49:43
+Og det kan lade sig gøre for nogle værdier, så der er ingen løsning. Det kan man følgelig godt se via opskrifter og tal, matricen og kokosnød.
+
+49:51
+Så ser vi den dér. Den nederste række 00 nul.
+
+49:55
+Et af problemerne. Godt, så når man har slutter sådan opgaven, har vi regne det hele.
+
+50:00
+Vi har regnet af løsningen for alle i et for alle minus et og for alle de andre der.
+
+50:08
+Så skal man samme sammenfatte og det har tilføjet i forhold til komme af det, så fra alle i ét har jeg stået der er løsningen det, der står hernede.
+
+50:17
+Du er Alice. Kørte teksternes der Caterham.
+
+50:25
+Jeg plejer at huske kanterne, han kan således.
+
+50:32
+En regel i et år og skal man løsningen for alle lige Minato, er der ingen løsning for alle andre værdier af.
+
+50:37
+Det vil sige a tilhørerne reelle tal minus eller uden minus to og ét af den her løsning.
+
+50:44
+Og opgave løst. Den relativt svær opgave.
+
+50:48
+Men når vi tager 10 minutters pause.

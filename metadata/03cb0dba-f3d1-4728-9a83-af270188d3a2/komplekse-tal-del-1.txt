@@ -1,0 +1,860 @@
+0:05
+For Go Morgen rolle kan I huske sidste uge, da vi indførte det komplekse tal.
+
+0:15
+Da indførte vi dem ved hjælp af Talpa.
+
+0:20
+Og da vi havde gjort det, så skulle vi indføre nogle regneregler dér, hvor vi startede med at lægge sammen og trække fra.
+
+0:28
+Og det var jo herligt nemt. Det svarer fuldstændig til vægttræning i planen, hvor vi bare lægger koordinaterne sammen.
+
+0:38
+Så når vi kigger på det samme geometrisk.
+
+0:47
+Så så har vi. Et komplekst tal set et.
+
+1:01
+Og et komplekst tal Z 2. Så når man lægger to plan vektorer sammen, så kan man jo bare lave et parallelogram.
+
+1:13
+Det svarer til at det som vi siger. Først tager vi den vægter, og så lægger vi den dér væg tager til.
+
+1:20
+Og når vi så har det dér parallelogram, så diagonal vektoren.
+
+1:26
+Det er så set et plus z to.
+
+1:36
+Hvis vi så skal det i hus, når vi så skulle lave subtraktion, så gjorde vi det jo som en særlig variant af addition, og der tog vi bare.
+
+1:48
+Vi sagde selv et plus den modsatte vektor til Z 2.
+
+1:55
+Så lad os lige prøve at gøre det. Vi tager nu den modsatte væg tager til set to.
+
+2:12
+Og det er jo simpelthen bare ved at spejle den i origo, så har vi den her.
+
+2:18
+Og så tegner jeg nu et nyt parallelogram. Og så dem diagonalt væk her.
+
+2:28
+Det ville jo så være sæt et plus minus 2.
+
+2:34
+Det vil sige det er set et minus Z 2, vi så har konstrueret der og kigger altså på det parallelogram, der ligger her.
+
+2:49
+Så addition og subtraktion. Hvor uhyre nemt.
+
+2:57
+Og har en tydelig geometrisk fortolkning.
+
+3:04
+Problemet det var jo sådan, at vi skulle have indført den her multiplikation.
+
+3:08
+Så var det der med, at man skal huske, den skal ganges med den og dens konkurrence, men så skal man trække det derfra.
+
+3:13
+Osv. Okay, vi kunne godt lave det.
+
+3:17
+Vi vil gerne lave udregning med det. Det var lidt besværligt. Det blev lidt nemmere, da vi indførte det.
+
+3:24
+Den nye konstant i, fordi så viste det sig, når man skal gange talt med hinanden, eller vi skal dividere et tal med hinanden.
+
+3:32
+Så kan vi bare gøre, ligesom vi plejer. Når vi udregner parenteser den slags ting, når vi bare siger i det er en ny konstant.
+
+3:41
+Som når vi ganger med selv, så giver den endnu se. Så er det nemt at regne ud.
+
+3:46
+Det var nemt at gange og dividere, men stadigvæk er det gådefuldt.
+
+3:51
+Altså hvad betyder det egentlig? Hvorfor laver man noget, der er så mærkeligt?
+
+3:57
+Se, det vil jeg prøve at kaste lys over i dag. Og det kræver altså en ordentlig forhistorie, fordi det kræver at vi indfører polære koordinater.
+
+4:13
+Og det kræver sig igennem.
+
+4:17
+At vi er fortrolige med enhedscirklen med cosinus og sinus er den slags ting, så det skal vi så også snakke en hel masse om.
+
+4:24
+Og når vi snakker om cosinus og sinus, så får vi også brug for deres omvendte funktioner.
+
+4:31
+Gider akut Skousens og Arcus sinus? Det skal vi også snakket om.
+
+4:37
+Og så er der. Når vi har to slags koordinater.
+
+4:43
+Hvordan kommer vi så fra den ene form til den anden og for den anden til den første?
+
+4:49
+Og det er noget jeg vil bede om, og det er en teknik. Den er rigtig vigtig, fordi hvis I vil være mestre i komplekse tal,
+
+5:00
+så skal I være mestre i de komplekse tals forskellige former og ikke tager en god lære form polære koordinater.
+
+5:08
+Og hvis I tror det er nok, så må jeg skuffe jer fordi der kommer senere.
+
+5:13
+Jeg tror allerede den lille dag, da skal vi snakke om den eksponentiel form.
+
+5:18
+Og det gælder altså om at kunne boltre sig, fordi de har forskellige former.
+
+5:23
+De har deres fordele. Så hvordan kommer jeg fra den ene til den anden?
+
+5:28
+Den tredje frem og tilbage imellem dem. Også noget. Prøv at lave det.
+
+5:35
+Men som sagt, så skal vi altså nu have indført nogle nye koordinater.
+
+5:59
+Vi kigger på koordinatsystemet. Lad os sige at vi har et punkt givet her i et almindeligt koordinatsystem og så.
+
+6:23
+Nedfælder vi den vinkelrette på første og anden voksen og kan kalde de tal for punktets koordinater A kommer B.
+
+6:36
+Og det er jo lige præcis det, vi kalder for. Retvinklede koordinater.
+
+6:57
+Og det er altså i dette tilfælde A kommer B. Og dem bruger vi.
+
+7:14
+Jeg har så til komplekse tal. På rektangulære form.
+
+7:22
+Så der har vi altså en udmærket anvendelse af dem.
+
+7:31
+For at kunne gøre det her, har vi altså brug for 2 oplysninger en fra første aksen, en fra anden aksen.
+
+7:40
+Hvis jeg kender de to koordinater, så kan jeg afsætte punktet. Hvis jeg kender punktet, så kan jeg finde de to koordinater.
+
+7:51
+I polære koordinater. Lige her da har vi også brug for to oplysninger, men de lidt anderledes.
+
+8:03
+For der kigger jeg på. Den vinkel der ligger her.
+
+8:14
+Og på den radius kan vi kalde den der ligger deroppe.
+
+8:21
+Hun skriver er for Radio's, men det kunne jo også være absolut værdien for sit eller modulus har mange navne.
+
+8:32
+Så lad os lige kigge på det her. Så polære koordinater.
+
+8:55
+Dem kan vi kalde for er kommer vi. Og hvor.
+
+9:07
+R er længden.
+
+9:17
+Af sted vektoren opi for punktet her og V er vinklen.
+
+9:31
+Mellem første aksen. Og sted vektoren.
+
+9:51
+Og det skal være målet. I radianer.
+
+10:02
+Så radianer er sådan set også et emne for i dag, og jeg tror meget tit, når I har snakket om vinkler,
+
+10:09
+så har det været i forbindelse med trekanter og den slags ting, og der måler man jo i grader.
+
+10:16
+Men her altså når matematikken bliver lidt mere teoretisk, så regner vi i radianer.
+
+10:24
+Og der er også noget, jeg skal lære at veksle imellem dem, og derfor er der en aktivitetshuset i dag,
+
+10:28
+der handler om, hvad er egentlig forskellen på vinkel, mål og på radianer?
+
+10:32
+Jeg kommer selvfølgelig også lidt ind på det hen ad vejen her. At.
+
+10:41
+Og så en vigtig ting. Planen orienteres.
+
+10:51
+Mod uret. Så det vil altså sige, at når vi snakker om polære koordinater, så får vi brug for at have en orientering.
+
+11:05
+Og den orientering er altså den er mod uret og I kan altså se.
+
+11:13
+Det betyder, at den vinkel jeg har tegnet her. Den er positiv, men havde jeg nu afsat penge hernede, så havde jeg haft en negativ vinkel.
+
+11:23
+Så den vinkel vi snakker om dér, den er jeg så regnet med fortegn i forhold til planens orientering.
+
+11:47
+Lad os tage et lille eksempel. Den opgave jeg ser jeg sætter mig selv.
+
+12:24
+Jeg har et punkt A. Det har de polære koordinater to komma minus pi kvarte, og nu vil jeg afsætte dette punkt.
+
+12:34
+Og se hvordan gør jeg det? Jeg tager min passer, sætter dem på afstanden 2.
+
+12:58
+Og så har jeg den cirkel der er her. Det var den ene oplysning, jeg har.
+
+13:02
+Jeg har udnyttet den anden oplysning, jeg skal udnytte.
+
+13:05
+Det er at vinklerne v retnings vinklen, den er minus spin kvarte.
+
+13:12
+Og peak kvarte. Det svarer til halveringstiden egen hær.
+
+13:19
+Den der vinkel den er minus 45 grader. Og det er det samme som minus dit kvarter.
+
+13:32
+Så vil jeg sige har jeg de to oplysninger, så har jeg også et punkt i planen.
+
+13:44
+Og jeg kan lige kort sige at hvor vi er, så bruger de rektangulære koordinater til den rektangulære form.
+
+13:56
+Så bruger vi de polære koordinater til eksponentiel form, som vi skal snakke om næste gang.
+
+14:28
+Er du? Når det handler om vinkler, så handler det selvfølgelig også om cosinus og sinus.
+
+14:45
+For dem bruger vi i høj grad, når vi undersøger noget, der har med vinkler at gøre.
+
+14:51
+Så nu kommer der en introduktion til sinus og cosinus, og det starter altid med enhedscirklen.
+
+15:30
+Og lad mig nu tegne den. Der er tegnet enhedscirklen, og det vil sige at den går igennem punktet 1,0, som kaldes for enheds punktet for enhedscirklen.
+
+16:11
+Lad os lige først betragte vor. Hvor lang omkredsen den er.
+
+16:23
+Den er jo. Omkredsen af en cirkel er selvfølgelig diameteren ganget med Pi.
+
+16:43
+Her har vi at diameteren er 2, så vi får altså at omkredsen på indercirklen er to PPI.
+
+16:53
+Godt. Så lad os bare lige sige.
+
+17:06
+Af at hvis altså rattet stopper en kilometer. Og så jeg tager en løbetur på Cirkelbroen hele vejen rundt.
+
+17:18
+Så har jeg altså løbet 6,8 28 kilometer. Enedes punktet.
+
+17:43
+Det er så begynde tidspunktet for enhedscirklen, det vil sige at her der begynder min tur min løbetur begynder dér.
+
+17:56
+Og så løber jeg hele vejen rundt omkring cirklen her. Og så kom jeg her hen til.
+
+18:03
+Så har jeg løbet to pive. Og lad os bruge det som anledning til at snakke lidt om, hvad det er for nogle vinkler i radianer,
+
+18:15
+der ligger i indercirklen, prøve at huske dem, for det er udenadslære og stof.
+
+18:23
+Enhed siger gled over korset og sinus til kendte vinkler i indercirklen.
+
+18:29
+Det er absolut pensum til den prøve, de har i uge fire uden hjælpemidler,
+
+18:35
+så det er rigtig vigtigt det vi snakker om her, og det er altså fordi cosinus og sinus pi gør det.
+
+18:43
+Det er meget fundamentalt for alle ingeniører videnskaber, så, så der er nogle af tingene, man er nødt til at vide på forhånd.
+
+18:55
+Dette er selvfølgelig meget nemt det jeg gør nu her, fordi nu vil jeg bare have nogle flere.
+
+19:01
+Punkter her på enhedscirklen. Dér har jeg løbet PPI kilometer.
+
+19:10
+Dér ligger vinklen de halve. Og så ligger der vinklen tre ppi halve.
+
+19:25
+Og så kan jeg selvfølgelig fortsætte. Nu har jeg delt den i fire stykker.
+
+19:30
+Jeg kunne også dele den i otte. Og dér får vi så halvdelen af PEGI halve.
+
+19:40
+Der har været så. Pi kvarte en pi kvarte to pi kvarte, tre pi kvarte, fire pi kvarte fem pi fart 6 pi kvart og 7.
+
+20:02
+Pi kvarte. Og jeg kunne også vælge at dele i nogle lige så berømte tal, nemlig dele enhedscirklen i tolvtedel.
+
+20:51
+Og igen starter vi med nul. Og den der det må så være prissatte, deler to Pichat dele.
+
+21:05
+3. De sjettedele 4 sjettedele 5.
+
+21:14
+6. 7.
+
+21:23
+Otte. 9.
+
+21:34
+10. Og 11.
+
+21:44
+Og så er der selvfølgelig nogle af dem, som jeg kan forkorte. Så der er jo så peg tredjedele to tredjedele.
+
+21:58
+Og den dækker det selvfølgelig bare lige med pil. Og så har vi fire PPI tredjedele, og her har vi igen tre PPI halve.
+
+22:11
+Og så har vi her. 5. Pi tredjedele.
+
+22:19
+Så det er altså også nogle meget hyppige vinkler. Hvis I altså stadigvæk tænker i grader.
+
+22:31
+Så er vi altså her kørt rundt med 45 grader hele tiden for at få den delt op.
+
+22:36
+Og her har jeg kørt frem med 30 grader for at få delt den op i de dér berømte vinkler, som dukker op hele tiden i matematik.
+
+22:59
+I disse dage. Jo, det er det.
+
+23:04
+Sådan. Tak. Nu vil jeg lave en udvidelse af enhedscirklen.
+
+23:27
+Fordi dem af jer som er løbere.
+
+23:33
+Vi ved selvfølgelig godt, at meget ofte er det sådan, man har en rute, som man så løber mange gange, og sådan kunne det også være her.
+
+24:01
+Altså jeg begyndte at løbe. Så har jeg løbet 6 kilometer for at løbe 12 kilometer osv.
+
+24:09
+Så vil jeg sige det pumper. Det er sådan set lig med eller repræsenterer.
+
+24:19
+Også 2. Pil. 4.
+
+24:23
+Pil osv. Så nu udvider jeg faktisk enhedscirklen til også at skulle dække de situationer, hvor vi løber mange gange rundt.
+
+24:35
+Og lide dem. Det ved jeg ikke om jeg prøvede.
+
+24:39
+Men hvis man løber imod flokken, hvis man løber imod de andre, så er det en negativ opførsel, og derfor er det selvfølgelig også et negativt tal.
+
+24:52
+Så hvis de ser en eller anden idiot her, der løber den vej ind, så når han kommer her til, så at siger Hej, du er morder løbet.
+
+25:02
+Nu skylder du alt det her. Så det vil jeg så sige, at et bestemt punkt på enhedscirklen repræsenterer uendeligt mange tal.
+
+25:38
+Så. I virkeligheden så er enhedscirklen altså en tredje.
+
+25:46
+Hvad L. Tal linjer som fra begyndelsen punkt i.
+
+25:56
+I dette tal, som jeg kaldte Sepoy, havde höger tegnede der.
+
+26:01
+Det punkt her. Så her begynder vi altså.
+
+26:06
+Og så har vi altså en tunnel linje, der går til Wembley, men som altså bare er cirkulær.
+
+26:17
+Og det betyder, at hvis jeg tager et eller andet vilkårligt punkt. Dette punkt repræsenterer.
+
+26:40
+Hvis de altså siger at her har vi guldægget den x.
+
+26:53
+Så det punkt, da jeg her repræsenterer alle tal x+.
+
+26:58
+P gange to p. Hvor P kan være et eller andet helt tal.
+
+27:09
+Det kan være nul. Det kan være to. Det kan være minus 8 osv.
+
+27:28
+Og nu er vi så rede til at indføre cosinus og sinus.
+
+27:41
+Så vi har altså her en definition. Altså for et vilkårligt eks på den tredje er tal linjer og dermed.
+
+28:03
+Der er cosinus til eks indmad.
+
+28:09
+Første koordinaten. Og sinus til x er anden koordinaten.
+
+28:30
+Så lad os lige prøve at kigge på situationen.
+
+28:45
+Her har vi altså enhedscirklen og så kan I give mig et eller andet ex.
+
+28:55
+Det kunne måske være. Hvad bliver det? To en halv kilometer.
+
+29:09
+Så er jeg altså nået her hen til. Så vil cosinus til ex.
+
+29:20
+Det vil så være det tal der på første aksen og.
+
+29:30
+Sinus Ex er det tal på anden aksen. Og herudfra kan vi jo så hurtigt se, at hvis dette.
+
+29:46
+Det er cosinus til ex. Så er det os cosinus til ex x+ to PPI fordelte sig over bare kommet en omgang længere på min nye tal linjer her.
+
+29:59
+Men først første koordinaten er den samme. Så hvis vi skal skrive det på en tjekket måde, så kan vi sige, at cosinus opfylder følgende identitet.
+
+30:20
+At cosinus til ex plus et multiplum af to ppi vil altid være det samme som cosinus til ex.
+
+30:29
+Og selvfølgelig på samme måde med sinus. Og.
+
+30:53
+Det siger man også ved at cosinus og sinus det er periodiske funktioner.
+
+30:58
+De er nemlig periodiske med perioden to ppi. De gentager sig selv hele tiden.
+
+31:10
+Selv hvis man laver lidt. Pittelkows pøbel kvitterer for vores regning på enhedscirklen.
+
+31:18
+Her kan jeg se hypotenusen. Den er en. Og hvis vi så tager den ene koordinat jamen på den anden koordinaten, ja så giver den en.
+
+31:34
+Og så har vi følgende vigtige resultat.
+
+31:48
+Som man lidt uhøfligt kalder for idiot reglen, og når man gør det, så er det nok fordi at altså den er så simpel,
+
+32:00
+fordi det er den næsten den mest simple udgave af Pythagoras, man kan tænke sig.
+
+32:08
+Men det er os. Vi kan også sige din idiot, hvis man har glemt dem, fordi det er altså rigtig, rigtig mange gange i opgaver og den slags ting.
+
+32:16
+Hvis man skal reducere et udtryk, hvis man skal finde et integral eller et eller andet,
+
+32:21
+så bliver det hele meget nemmere, hvis man kan huske den og lige manipulere med dem.
+
+32:27
+Så blive rigtig gode venner med den. Nu har jeg indført cosinus og sinus helt generelt.
+
+32:46
+Nu skal vi snakke om cosinus og sinus til nogle bestemte vinkler til berømte vinkler.
+
+32:52
+Dem man skal kende udenad. Forelagdes starter hermed et eksempel.
+
+33:33
+Så det var jo en af de vinkler her hende som jeg sang, som jeg har sagt der var højt.
+
+33:39
+Pi tredjedel tres grader. Og vi vil gerne have eksakt værdier denne her altså ikke bare er kommet tal man får,
+
+33:48
+hvis man bruger en primitiv lommeregner, men altså en eksakt værdi for dette.
+
+33:54
+Lad os lige se hvordan kan vi gøre det? Det er jo enhedscirklen jeg har tegnet.
+
+34:09
+Så hvis jeg betragter den dér trekant der ligger dér, så er den lige benet trekant.
+
+34:18
+Den vinkel der ligger her. Den er 60 grader.
+
+34:28
+I en lige benede trekant, der deler de to Frode vinkler resten imellem sig.
+
+34:36
+De er lige store. Det vil sige, at de begge to er 60 grader.
+
+34:47
+Så de vinkler. De må altså være ens. Og så ved vi at højden i ind nu, og det betyder jo så, at den er ens vinklet, og så er den også ligesidet.
+
+35:02
+Og højden i en ligesidet trekant. Den deler grundlinjen i to lige store stykker.
+
+35:12
+Så vil sige det stykke der ligger her. Det er en halv.
+
+35:21
+Og det vil sige nu har jeg jo så fundet cosinus til pi tredjedele.
+
+35:41
+Vigtigt resultat. Og så ville jeg jo kender jeg og nu idioter inden.
+
+36:00
+Som i det her tilfælde er den identitet der står her og cosinus i anden, det må jo så være en fjerdedel.
+
+36:20
+Så har vi den ligning dér. Vi trækker en fjerdedel fra på begge sider.
+
+36:35
+Og så har vi altså Senussi, anden er lig med tre fjerdedele, og så må sinus til den højde vinkel.
+
+36:46
+Værre kvadratrod tre over to.
+
+36:56
+København. Pludselig stemmer folk jeg kan få den.
+
+37:01
+Sådan gjaldt det lidt. Ja, man skal nok lære at lade være med at skrive.
+
+37:06
+Altså på den nedre del. Ikke om du kan se det. Nu var det reelle problemer der.
+
+37:12
+Ja, fordi jeg tror heller ikke den er blevet brugt til noget. Men det er altså dette, og det skal renoveres.
+
+37:21
+Vi bliver smidt ud. Til jul skal finde et andet sted at være, og så bliver det jo fuldstændig op.
+
+37:26
+Så hvor? Se.
+
+37:30
+Hvis jeg nu laver mig en tabel. Med Exit Horsens til exit.
+
+37:43
+Og sige nu 6. En tabel over alle de hotte vinkler i den første kvadrant.
+
+37:53
+Og dem jeg har været inde på at det er hende 0 pi sjettedele pi fjerdedele ki tredjedele og pi halve.
+
+38:19
+Så har jeg altså nu altså ved hjælp af Gio med en geometri fundet ud af, at her skal der stå en halv.
+
+38:29
+Og det skal bestå parterret den tre halve. Så jeg skal lige få denne tabel udfyldt.
+
+38:38
+Hvis vi starter med, at X er lig med nul. Så er jeg jo her første koordinaten er en, mens anden koordinaten er nul.
+
+38:54
+Og så symmetri grundet. Da må cosinus til pi sorte dele.
+
+39:05
+Den må være fra drabet. Tre halve og. Sinus til PSL dele af en helle.
+
+39:14
+Her har vi. Foredraget brød to halve.
+
+39:22
+De er lige store dyr på vinkel har linjen pige kvarter. Og endelig så har vi Pi Halbye som ligger her.
+
+39:30
+Der er først kort mellem nul og enkorn. Så til prøven ser I skal op i det i uge 4.
+
+39:43
+Da skal i kulden den der tabel.
+
+39:47
+Og I skal både kun bruge den i i første kvadrant, men de skal altså også kun bruge den i de andre kvadranter her hende.
+
+40:20
+Så lad os lige tage et eksempel fra en anden kvadrant.
+
+40:47
+Se nu kigger jeg på den negative vinkel minus.
+
+40:52
+Pi tredjedele. Og jeg vil gerne finde cosinus til minus 10 tredjedele.
+
+41:08
+Og sinus til minus pi tredjedele. Og der kan jeg jo godt se at den dér.
+
+41:20
+Jul er en spejling af Pi tredjedel. De to tal har den samme første koordinat.
+
+41:30
+Det vil sige jeg kan bare gå op i tabellen, som jeg havde hørt hende og sige, at den må være en halv.
+
+41:47
+Nu kigger vi så igen på tallet her, for nu skal vi finde sinus og.
+
+42:00
+Da kan vi jo så se at det er. Det tal der er en spejling i første aksen, er det tal der ligger her oppe.
+
+42:13
+Det vil sige, at vi kan også bruge tabellen her for så vidt angår sinus.
+
+42:18
+Men nu skal fortegnet bare være modsat. Som det så på den måde, kan vi altså, når vi kender de berømte vinkler i den første kvadrant,
+
+42:37
+så kan vi ved symmetri betragtninger finde alle de berømte vinkler i enhedscirklen.
+
+43:48
+Det vi skal snakke om omvendte funktioner.
+
+43:53
+Det er også et emne, der er interesse i sig selv. Så I bør lige kende det fundamentale, det omvendte funktioner.
+
+44:04
+Lad os lige kigge på 2. Gode egenskaber.
+
+44:13
+Hvis EF har en omvendt funktion.
+
+44:25
+Det. Så gælder det i hvert fald to ting.
+
+44:34
+Punkt ét. Hvis F er eksterne lig med Y, så gælder der omvendt at X er lig med gr.
+
+44:55
+Y. Og grafen.
+
+45:12
+For Give. Er en spejling af grafen for EF.
+
+45:30
+I linjen der hedder Y, er lig med X. Og så matematikkens næsten mest kendte eksempel på omvendte funktioner.
+
+45:53
+Det vil jeg jer nu. Og hvad er den omvendte funktion til den naturlige eksponentielt funktion?
+
+46:15
+Jeg tog hjem. Så det vil så sige.
+
+46:33
+Jeg tror godt de kender grafen for. Det exit den ligger her.
+
+46:42
+Jeg behøver sådan set kun at kende dem, så kan jeg tegne grafen for l m, fordi jeg skal bare spejle.
+
+46:56
+Kraften her for e x i den linje der hedder Y og limede ex.
+
+47:02
+Det vil sige l m må gå igennem punktet 1 her for første reaktion.
+
+47:07
+Denne her har hældningen en. Det skal denne her Graeff også have.
+
+47:14
+Og derfor kan jeg nu tegne. Grafen for et index.
+
+47:27
+Vi har masser af gange brugt omvendte funktion, men jeg er ikke sikker på, at de har tænkt det som om, at det var omvendt funktion.
+
+47:36
+Men lad mig nu give et eksempel. I har løst masser af denne her slags ligninger.
+
+47:48
+Lykkedes en x er lege med fem og det betyder jo I skal kun isolere X i den ligning.
+
+47:55
+Er her. Og så har jeg brugt omvendte funktion, for så siger vi E X er lig med fem.
+
+48:07
+Det er ensbetydende med, at vi nu kan bruge den omvendte funktion, så X nemt er lig med l m til 5.
+
+48:21
+Og så har I måske bare taget lommeregneren, så så har I fået et Kometal.
+
+48:26
+Men på den måde har jeg altså brugt den omvendte funktion i løsning af ligninger.
+
+48:55
+Så nu skal vi kigge på cosinus til ex.
+
+49:04
+Den har. Altså i intervallet fra nul til Pi.
+
+49:21
+En omvendt funktion. Som hedder arcus cosinus.
+
+49:36
+Og vi kigger altså specielt på det interval her, for det er kun i et interval længden pive, at den har en omvendt funktion.
+
+49:45
+Så derfor har vi altså indskrænket cosinus. Det er altså lige præcis det stykke posens grafen, som vi interesserer os for.
+
+50:14
+Og så tegner jeg lige den omvendte funktion ved at spejlet grafen her på Horsens.
+
+50:24
+Den spejler vi. Og så får vi den.
+
+50:30
+Kraft, der ligger her. Så det er altså grafen for en ny funktion, som jeg også tror sådan set har brugt mange gange uden at kende funktionen præcist,
+
+50:45
+fordi den bruger vi nemlig til at løse ligninger med.
+
+51:14
+Vi har altså givet at den første koordinaten skal være minus en halv.
+
+51:20
+Spørgsmålet er så. Hvor langt er buen længden?
+
+51:26
+Altså før da gik vi jo fra at vi sagde, da vi definerede cosinus og sinus.
+
+51:34
+Så sagde vi det var Poul længden, der var givet. Og jeg finder cosinus.
+
+51:38
+Vil jeg fælde ned her? Nu er det den omvendte betragtning. Jeg har en en cosinus værdi, og nu skal jeg så finde bowling.
+
+51:47
+Den. Altså længden på den tredje Tjallingii.
+
+52:00
+Og nu bruger jeg selvfølgelig den omvendte funktion. Okay, nu laver jeg lige her noget.
+
+52:24
+Det kan godt være at den. At arcus cosinus på lommeregneren.
+
+52:32
+Den ser jeg måske som knusende i mine første, men det svarer til den samme, og jeg trykker nu på knappen dér.
+
+52:42
+Så får jeg så værdien af. Fire PPI tredjedele.
+
+52:54
+Og så kunne jeg godt tro, at jeg nu havde løst ligningen.
+
+53:01
+Lad os prøve at overveje det ved at kaste et blik på indercirklen.
+
+53:15
+Så hvad var det for en oplysning jeg fik? Det var at første koordinaten skal være minus en halv.
+
+53:25
+Og så skal jeg altså finde de Burlington som har den dér.
+
+53:31
+Første koordinat. Og der siger altså den omvendte funktion.
+
+53:42
+At det er fire pige tredjedele som er bouhlel.
+
+53:47
+Den der svarer til det der. Og det er så fordi at den kun er én den kun giver værdier i det her interval fra nul til to film.
+
+54:02
+Den giver altid kun ét svar, der ligger i det her interval. Så er det så vores opgave at sige Jamen, der er jo mange flere.
+
+54:12
+Fordi. Den Boland der.
+
+54:19
+Den tredje. Selv. Jo selvfølgelig.
+
+54:33
+At den Bulent der ligger her, har den samme første koordinat.
+
+54:45
+Så når den omvendte funktion har givet mig en værdig.
+
+54:51
+Den kan nemlig ikke give mig flere, så er jeg selv nødt til at producere resten.
+
+54:58
+Så det vil sige fuldstændig løsning. Det vil så være bowlingbane, længderne x er lig med to tredjedele.
+
+55:35
+Og så får vi altså de to vinkler, der kalder de to buer længder.
+
+55:40
+De to ret i ental. Men så skal vi jo huske, at der er jo endnu flere, for det er jo en periodisk funktion.
+
+55:48
+Så hvis jeg, hvis der står de den fuldstændige løsning på ligningen cosinus ex er lig med peanuts en halv,
+
+55:56
+så er det korrekte svar altså det der står her. Hvis opgaven havde sagt Giv mig alle løsninger, der ligger mellem nul og to ppi.
+
+56:30
+Hvad havde om det korrekte svar har været. Hvis jeg nu har haft.
+
+56:45
+Jeg ved ikke om du tænker på dem her. Så har jeg lige et opfølgende spørgsmål til dig Ligger den dér vinkel imellem to ppi?
+
+56:56
+Ja, det gør den. To bliver. Jo, men kan du se, nu er du.
+
+57:02
+Du skal tænke på, at det her er jo en ny challenge. Vi har indført, så det er ikke altså det første udmærket, men den anden.
+
+57:12
+Den ligger ikke i mellem de reelle tal fra nul til to ppi. Så her er du altså nødt til ikke at gå baglæns.
+
+57:20
+Altså det er ikke nok. Du løber den tur dér.
+
+57:23
+Du skal den varige tur rundt, og så kigger vi hen på tabellen, og så er det jo derfor, vi kommer til fire pive tredjedel.
+
+57:38
+Og man kunne jo også være blevet bedt om at finde betragt den her ligning,
+
+57:45
+find alle løsninger, der ligger mellem otte peg og Tippi, så der er nogle helt andre tal.
+
+57:52
+Så når man skal løse denne slags ligninger, så er det altså rigtig vigtig bane for en grund, men da vi kigger på.
+
+58:01
+Tilsvarende med sinus. Der hedder Arcus Sinus, og det svarer helt til det jeg har fortalt om konens pauser.

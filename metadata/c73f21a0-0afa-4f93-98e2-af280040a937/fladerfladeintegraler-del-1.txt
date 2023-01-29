@@ -1,0 +1,959 @@
+0:04
+Kø. Det er tid til at starte Go Morgen.
+
+0:09
+Godt at se jer igen. Hvor I haft den en god uge sidste uge.
+
+0:16
+Det var lidt skræmmende, at jeg bare blev erstattet med en storskærm. Det var lynende, ja.
+
+0:24
+Men er ikke så håbe, at det gør sig gældende næste år. At det bliver hele.
+
+0:28
+Så mister vi bare blive erstattet med storskærm. Nej, nu er tilbage, og i dag handler det altså om flade integraler.
+
+0:36
+Vi bevæger os videre og snakker om mere komplicerede integraler. I sidste uge har I så hørt om planen til Grand, men så gør rigmanden til Integrator,
+
+0:46
+og i dag så vil vi gerne prøve at kunne integrere over en flade, så det første punkt på dagsordenen.
+
+0:52
+Vi snakker om nogle forskellige flader, vil give en oversigt over, hvilke typer flader vi allerede har mødt i kurset.
+
+1:00
+Senere vil vi også møde nogle nye flader. Dem vi kalder omdrejning flader og cylinder flader.
+
+1:08
+Men inden da vil jeg blande snak om, hvordan man udregner arealet af en flade og derigennem introducere og motiverer det generelle flade integral.
+
+1:22
+Og jeg ville komme med eksempler både på areal er en flade og på det generelle flade indtil grand.
+
+1:30
+Ja, det er dagens oversigt. Så lad os starte på det vi starter med og lave en oversigter over de forskellige flade typer, som jeg allerede kender.
+
+1:40
+Så jeg mødte det her kursus. Eksempel.
+
+1:46
+Er selvfølgelig planner i rummet. Det er dem der bare har ligningen a x minus 6 0 plus b y minus nul plus se Z minus z nul.
+
+2:06
+Allemano. Illustrativt et punkt x y z er i denne plan såfremt at forbindelseslinje eller vægteren
+
+2:21
+fra punktet det givne punkt x 0 y 0 sæt nul står vinkelret på en anden given vægter.
+
+2:32
+Lad os kalde byen en som bare indeholder A, B og C.
+
+2:38
+Så det er det der er indeholdt i denne her ligning, det siger, at prikproduktet mellem denne vægter og denne vægt skal være nul.
+
+2:46
+Altså de står og tonalt på hinanden. Det giver mig et plan i rummet.
+
+2:52
+Kæk. Tilsvarende og noget som vi får brug for i dag, og som vi også gider vi så snakkede om i sidste uge.
+
+3:04
+Det vi kan tænke os set et parallelogram i rummet, prøve at illustrere det her har jeg.
+
+3:11
+Og ex. Her har jeg en. Og her har jeg selv.
+
+3:18
+Og så forestiller jeg mig at givet en eller anden retning svigter.
+
+3:24
+En anden retning seg, så lad os kalde dem for er ét og er to klasser to givne vektorer i rummet.
+
+3:32
+De udspænder et parallelogram.
+
+3:38
+Således at hvis jeg tager en kopi af, er to herhen og en kopi af et herop, så får jeg det parallelogram, der sælges skævt ud.
+
+3:46
+Men jeg tror I forstår ideen her og.
+
+3:52
+Når vi får brug for i dag, er selvfølgelig det selvfølgelig bare et specielt eksempel er det her?
+
+3:58
+Men men det plan her. Hvis jeg gjorde det i den her forstand, så får jeg det her parallelogram,
+
+4:05
+som er begrænsede i to retninger og noget i forbrug for i dag at regn et areal af sådan et parallelogram,
+
+4:13
+så jeg lige prøver at se, hvordan det ser ud.
+
+4:16
+Hvordan, hvordan vi finder arealet af et par lokum så forestiller sig, vi kigger ned fra oven på det her parallelogram.
+
+4:23
+Så lad mig prøve at illustrere det i det.
+
+4:27
+Jeg kigger ned på det plan vinkelrette på det plan, der er udspændt. Der udspandt sig de to vektorer.
+
+4:32
+Her er ét og er to. Og jeg får altså brug for i dag at snakke om arealet af det parallelogram.
+
+4:46
+Og det kræver selvfølgelig ikke meget at indse bare at jeg har to kopier.
+
+4:53
+Er en trekant her. Så jeg får arealet af den her som længden af to vektoren.
+
+5:00
+Længden er af ét væk, så Garang er vinklen imellem de to vektorer.
+
+5:05
+Muligvis er nødt til at tage den absolut ved, dels sinus sig.
+
+5:09
+I har det frækt. Ja til test her.
+
+5:14
+Selvfølgelig er vinklen mellem de to vektorer.
+
+5:17
+Det giver mig arealet af dette parallelogram som uspændende, så de to vektorer, og er der nogen der genkender det her.
+
+5:27
+Det her der står på højresiden. Som noget jeg har heroppe.
+
+5:33
+Jacobi er en mere geometrisk, måske en.
+
+5:38
+Undskyld. Ja, det er noget med krydsproduktet, ikke for det der står lige præcis hér.
+
+5:43
+Det er jo lige præcis længden af den vækster eller krydsproduktet mellem de to vækster, ikke?
+
+5:49
+Det er den her faktor, vi ganger på i vores definition af krydsproduktet. Det er en vektor, der har præcis den længde der.
+
+5:56
+Og så er den vinkel ret på det plan. Her er så det.
+
+6:00
+Det er helt korrekt. Altså det her. Det er det, jeg sagde.
+
+6:03
+Det var altså et er et krydset med er 2. Det har præcis den faktor, der er et.
+
+6:11
+Er to sinus til Tata og så en normal vægt på det her plan.
+
+6:18
+Her så jeg har forstået, at jeg har en eller anden vægt, så en som har en henslængte, som står vinkelret på det planer.
+
+6:25
+Og så har jeg lad os kalde denne her for store n stor end den ligger altså parallelt med den og har præcis længden den længde,
+
+6:35
+som er intet mindre end arealet af det parallelogram de to vektorer udspænder.
+
+6:43
+Så ja, altså jeg kan skrive det, og det vil vi bruge gentagne gange idag.
+
+6:49
+Altså alle arealer. Det partiprogram er intet mindre end længden af krydsproduktet mellem de to vektorer i kø.
+
+6:57
+Det får vi brug for og at blive kaldt stjerne, som vi husker på den senere.
+
+7:03
+Klik op med dig. Booking.
+
+7:11
+Vi bevæger os videre og snakker om andre flade typer. I har selvfølgelig mødt undskyld.
+
+7:23
+Det var ikke det jeg vil skrive, jeg vil skrive kugler, I har mødt kugler.
+
+7:28
+Hvad er denne? Ligningen for en kugle ser ud. Den hedder x minus x 0 i anden plus y minus y nul.
+
+7:36
+Diane Z miner sat nul i anden lige med er hjerne og er radius og x 0 byen 0 Z.
+
+7:50
+Z0 er centrum. Så det er selvfølgelig et specialtilfælde er en EP ellipsoide, og det er også en eksempel på en flade.
+
+8:05
+Og det er selvfølgelig et specialtilfælde, at de flader, som vi har studeret for et par uger siden, nemlig keglesnit pladerne.
+
+8:17
+Der så vi mange eksempler på flader i rummet, og de optrådte jo som punkt mængder.
+
+8:28
+Fandt mængder beskrevet. Ved eller som lysninger.
+
+8:45
+Til anden grads ligninger.
+
+8:52
+I X, Y og Z. Hyperbolske parret bløder og så videre og så videre, og kuglen er et særtilfælde specielle tilfælde.
+
+9:07
+End videre. Så er vi også ned.
+
+9:12
+Graff flader. Selv om vi måske ikke har introduceret graf flader helt specifikt, men altså vi har set grafen af en funktion af to variabel 2 variable.
+
+9:28
+Lad os kalde funktionen H er så hvordan derude er for hvis vi har vores x y plan vi har et eller
+
+9:36
+andet sæt ikke xy værdier og ja til hvert punkt tager tilknytter vi i en eller anden højde,
+
+9:46
+og når vi gennemløber alle punkterne og gav det, var ikke så godt gjort det der.
+
+9:53
+Så får man måske noget der, det er et andet eksempel på en flade.
+
+9:57
+Det er det, vi vil kalde en gram flad. Nu.
+
+10:08
+Ja. Senere møder vi så også nogle nye flader.
+
+10:15
+Så det er noget vi stifter bekendtskab med senere i dag. Det er omdrejning fladerne.
+
+10:29
+Og det er Celinder Flavour. Mere om dem senere.
+
+10:37
+Nu har jeg bare givet en oversigt over de fladere former, vi har mødt hidtil.
+
+10:42
+Det vi gerne vil. Målet er. Og foretage en integration på de flader her.
+
+11:02
+Det kunne for eksempel være fordi at vi ønsker at bestemme arealet af en flade.
+
+11:22
+Eller vækst af en flade.
+
+11:32
+Er forestillede for eksempel at denne kraft flaget har en eller anden masse fordeling, så vil jeg gerne vide hvor meget den her den vejer.
+
+11:42
+Det er sådan nogle ting, vi gerne gerne vil ind på. Det er målet for i dag.
+
+11:48
+Vi vil gerne indføre den her integration på disse flader. Og til den dom vælger vi.
+
+11:57
+Og et må fortsætte herovre til at gøre det, så vælger vi altså en helt bestemt strategi.
+
+12:07
+Der er flere måder det kunne gøres på, men her der vælger vi altså en helt bestemt strategi.
+
+12:15
+Og det der sker er at vi insisterer på en parameter form.
+
+12:30
+Få en flade. F.
+
+12:37
+P. Så vi for Wegener. At vi tager udgangspunkt i en parameter fremstilling, parameter, form for fladen, så det vil sige at vi.
+
+13:09
+En eller anden parameter fremstilling for denne flade sig til ethvert punkt, hvor F kan beskrives ved et punkt i et parameter med en uklar mave.
+
+13:20
+Og det vi insisterer på det er, at. At denne her parameter mængde B.
+
+13:30
+Det er et accept parallelt par Lelo Gram.
+
+13:37
+Klik. Så det her er min b.
+
+13:41
+Hvor alle mine værdier for U og V sidder. Lad os forestille os, at U Leiber fra A til B og V blev bar for sent til det.
+
+13:57
+Akse parallelt. Fra lægen lå.
+
+14:07
+Gram. Kø.
+
+14:13
+Så. Vi kræver altså at vores flade kan beskrives som en parameter fremstilling her hvor.
+
+14:24
+Et parameter rummet er u v altså givet ved en akse parallelt parallelogram.
+
+14:30
+Og strategien er for ja altså ved er.
+
+14:37
+Ved er så får vi så vores flade i rummet.
+
+14:42
+Mens Poire illustrerer det. Jeg så et hvert punkt har.
+
+14:58
+O Come RV giver mig et punkt har over i rummet er U.
+
+15:03
+V. Ved hjælp af den de givne funktioner eksamen kommer vi i et brev ud med V og Z u kommer med.
+
+15:16
+Og gæt. Så det er det vi tager udgangspunkt i. Og lad os nu prøve som vi vil gerne nå det her mål.
+
+15:27
+Lad os prøve først tage udgangspunkt i, hvorledes vi kan bestemme arealet af denne flade væk.
+
+15:35
+Og hvordan foregår det? Jamen, lad os forestille os, at vi inddeler vores ben her.
+
+15:49
+I enden Garang m mindre akse parallel parallelogram mig.
+
+15:58
+Så så ledelser og lad os fokusere.
+
+16:03
+På at hvis nu jeg laver det net jeg har ham. Det giver mig et net hen over.
+
+16:12
+Kasser via er. Så vil jeg få en eller anden inddeling herover af mine flade.
+
+16:28
+Klik og det jeg gerne vil gøre nu, så det. Jeg vil gerne.
+
+16:36
+Prag og tilmed er om arealet af den flade ved at gøre den her inddeling finere og finere og ved at gøre brug af stjernerne.
+
+16:47
+Min form for og idealet er et parallelogram. For lad os lige prøve at zoome ind på dem her.
+
+16:57
+Kan jeg forestille mig lige at jeg tegner en lup her over?
+
+17:01
+Jeg prøver på at illustrere noget, hvordan det ser ud. Så forestil jer at vi har et punkt har O i U I plus en ved J.
+
+17:22
+V j pludselig. Og så har jeg den mindre.
+
+17:28
+Akse parallel. Akser, parallelle parallelogram, der som BARF fremkommer som et zoomet ind på en af de mindre arter.
+
+17:39
+G, og det jeg gerne vil gøre tilsvarende, så vil jeg også gerne lige der er en eller anden tilhørende kasse herovre.
+
+17:46
+At sige det denne kasse hér, som prises via den her bliver afbildet over i den kasse, sættes tilsvarende.
+
+17:52
+Vi prøver. Igen et sol og lad os lave en tegning.
+
+18:02
+Bum bum, luk og nattelivet. Her er.
+
+18:09
+Det mindre stykke af min flade. Er.
+
+18:21
+Ukendt. Og det jeg gerne vil gøre nu.
+
+18:24
+Jeg vil gerne bestemme. Jeg vil gerne tilnærme denne her flade med.
+
+18:32
+Et parallelogram. Kagen kommer til at se lidt.
+
+18:38
+Lidt skævt ud. Er. Og hvordan?
+
+18:44
+Hvornår har det parallelogram givet? At nogen kan fortælle mig det.
+
+18:51
+Hvordan finder jeg det parallelogram? Hvad er det for et redskab, jeg skal have fat i?
+
+18:56
+En tangent med 52 af befolkningen. Ja, så så hvad?
+
+19:01
+Hvad ved du du du siger? At fremmeds reelt er lukket mellem de afledte af bladets parmiddag fremstilling.
+
+19:14
+Ja, okay det er du er næsten der ikke.
+
+19:19
+Vi skal bare lige huske på noget med længden af væg. Thorning. Fordi at lad os nu sige at vi inddeler dem i lige store stykker.
+
+19:29
+Det er delta up og tilsvarende er i den her side. Del Tavi, men du har ikke grædt, og der er noget med de afledte er.
+
+19:36
+Funktionen er i det her punkt. Men hvordan er det du frem, du kommer frem til det resultat?
+
+19:46
+Det man så hvad er det? Hvad er det for? Hvad er det mere præcis? Hvad er det for en sætning, du gør brug af der?
+
+19:52
+Det gik okay, men det er det første af proklamerede første grads polynomiet til til funktionen, idet det her punkt.
+
+20:02
+Væk så dette hjørne punkt tænker jeg svarer til det her hjørne punkt, ikk?
+
+20:08
+Så lad os nu tage for eksempel et punkt her indeni vi kalder u v.
+
+20:13
+Det vil give mig et punkt. Her er U er ved.
+
+20:18
+Og nu kan jeg bruge trailers formen til at proklamere denne her værdi via værdien i det her punkt er U i ved J.
+
+20:34
+Er fordi hvad siger trailers formand? Den siger, at det er værdien.
+
+20:40
+I punktet plus, så skal jeg tage den afledte med hensyn til.
+
+20:45
+Ude ved J. O minus u, e plus v mærke u ved J.
+
+20:57
+V minus ved J. Plus noget som går hurtigere mod nul end de to led har gummerne er og det jeg får ved at ignorere det resten her.
+
+21:11
+Det giver mig Proxima y'erne første grads på nogen, og det giver mig præcis grafen,
+
+21:16
+for det giver mig præcis den accept parallel eller det parallelogram jeg har her, så den væk, så der sidder ham.
+
+21:26
+Ja, men den kære får som lige præcis den gut, der sidder der.
+
+21:32
+Men jeg skal huske, at at længden jeg skal gange med længden, ikke for jeg forestiller mig, at det her stykke her.
+
+21:42
+Det giver mig selvfølgelig dette stykke her. Som approksimation os med denne rette linje her er den væk, for jeg har stunder af lige præcis dér.
+
+21:54
+Det er med ægte U. O i J.
+
+22:00
+Gange Delta O. Gange i delta ud.
+
+22:06
+Blæk, når den vægt så går selvfølgelig mod nålen og deltage udgår mod noget tilsvarende.
+
+22:12
+Den væk, så jeg har siddet med der som udspænder.
+
+22:15
+Dette parallelogram her af fås, at den er simpelthen ben partielle afledte i punkter garnet med den samme.
+
+22:26
+Og nu har de to vektorer udspænder mit parallelogram, så nu kan jeg finde arealet af dette parallelogram.
+
+22:33
+Lad os skrive det her op. Arealet. Er det mindre parallelogram.
+
+22:42
+Lad os kalde det et delta af en J. Delta A I J PD arealet jeg prøve på at proklamere arealet af det lille stykke.
+
+22:57
+Det er. Æren med at række ud.
+
+23:02
+O I ved J. Krydset med æren mærke v, o.
+
+23:09
+E ved J. Længden af den vægt, som Garang del Delta Delta ved.
+
+23:19
+Ja, og her har jeg simpelthen bare ved brug.
+
+23:28
+Er stjerne. Kø så altså tale om lidt postulerende første Grace på nogle af proxy semere.
+
+23:38
+Denne her er ment på stykke af fladen. Ja, med hjælper stjerne i at få et parallelogram er og jeg kan finde jer i nede ved Elben.
+
+23:47
+Min formet stjerne der. Og så har jeg arealet af et mindre stykke.
+
+23:53
+Nu skal jeg bare summerer alle bidragene op, så lad os forestille os, at vi har endestykker i denne retning.
+
+24:05
+Styks. Og vi har EM.
+
+24:10
+Støbt i denne retning, så der er en inddelinger i B.
+
+24:16
+N inddelinger i den. Kø, fordi så siger jeg nemlig at det samlede areal.
+
+24:31
+Det må være. Næsten op til den fejl jeg begår ved at erstatte dette krumme flade med det her parallelogram som summen i ni 1 til.
+
+24:45
+Nej J 9 1 til M!
+
+24:49
+At Delta A i J. Det vil sige sort med en 9 1 til N som J lige ind til EM.
+
+25:00
+Og så skal jeg skrive min formand her op.
+
+25:05
+U e med J. Krydsede med æren mergel ved.
+
+25:12
+O g ved J. Dette tabu deltage ved.
+
+25:21
+Det er og det her, det ligner mig noget som vi har set sidste uge.
+
+25:26
+Ja, fordi at det her. Hvis serien.
+
+25:34
+Javist altså så længe disse funktioner er glatte funktioner, så er det her i hvert fald.
+
+25:40
+En kontinuert funktion. Den fortjener et specielt navn Code bill.
+
+25:46
+Og sådan et saftspændte er derfor at hentyder, at den er med hensyn til den givne Paramore.
+
+25:52
+Frasering er, hvor den er evaluerede i punktet du I ved J.
+
+25:57
+Det er en kontinuert funktion. Og.
+
+26:04
+Vi hjælper planeten til graven for sidste uge.
+
+26:06
+Så kan vi så sige Jamen, så har den her en grænseværdi, når indgår mod uendelig, når EM går mod uendelig.
+
+26:15
+Så har det her denne her som en grænseværdi. Det er arealet.
+
+26:31
+Det er lige med a, b, c, d.
+
+26:37
+Jacobi. Færre ud ved det.
+
+26:43
+Det ved. Kønt, så der er formlen for at udregne et areal af et flade.
+
+26:53
+Vi kræver en parameter fremstilling vi kræver et parameter. Fremstilling er over et Axe par Lell parallelogram som domænet jeg har vist her op.
+
+27:03
+Jeg udregner Jacobi matricen, og så skriver jeg dette plane integral op, så integral foregår i planned over en akse parallelt parallelogram.
+
+27:13
+Og akkurat lige som det foregik sidste ud. Mon ikke det er bare en speciel funktion vi integrerer.
+
+27:22
+Og lad os lige give fattige et eksempel. Og lad os kigge på en graf flade.
+
+27:38
+Og jeg kigger på grafen er funktionen ikke stjernen, min hjernen, hjernen altså det er faktisk også det vi kalder en hyperbolsk parabener hvide.
+
+27:53
+Potter bog Nu Hvide og jeg vil betragte denne graf.
+
+28:07
+Vækst i hjernen plus by i hjernen skal være liv eller mindre end lig med en.
+
+28:13
+Så det vil sige at i eksil planen.
+
+28:19
+Der kigger altså på den her enheds disk og ikke siger han minor syg hjernen angiver altså fladen højden over dette domæne.
+
+28:30
+Der er spørgsmål nok en grænse grad, du?
+
+28:36
+Jo, det har du da ret i. Ja, så det faktisk meget godt, jeg gjorde det.
+
+28:41
+Lad mig lige understrege det selvfølgelig, at nogle kan godt lide at skrive en parantes har ikke, så man holder styr på, hvor grænserne er.
+
+28:48
+Jeg gjorde, I gjorde det sidste uge. Men altså. Grænserne i U.
+
+28:52
+Det er en meget god pointe. Tak for det. Grænserne i EU. De var ikke sen til det.
+
+28:56
+Nej, de var a til B. Men det gik lidt for hurtigt der over grænserne i ved.
+
+29:03
+Det er set til dem man lægge mærke til.
+
+29:07
+Altså jeg kan sådan set godt skrive det her.
+
+29:18
+Men når jeg gør det, så skal jeg selvfølgelig huske husk at bytte om på rækkefølgen af det, dvs.
+
+29:24
+Således at det vil kommer først fordi se 2D beskriver grænserne i ved og det u kommer sidst, fordi det beskriver grænserne a til B.
+
+29:33
+Og så kan man så et spørgsmål om smag, om man har lyst til, at der skal være en parantes der.
+
+29:39
+Og tak for det du fortjener. Fortjener en flødebolle. Og gab.
+
+29:48
+Her har vi det en problemstilling, ikke fordi at jeg kunne jo for eksempel sige og lad os tage den flade,
+
+29:56
+der generelt er ved at skrive flade barnesind. Et EF har ikke min graf lavet af skalten EF for at skrive det da også.
+
+30:05
+Jeg kræver en parameter fremstilling for at kunne komme op i mit, altså som som passer ind i den strategi jeg har valgt for og at definere mit.
+
+30:17
+Mit hjem og min flade integration. TV sendefladen. Så jeg sprog.
+
+30:22
+Hvad end en parameter fremstilling.
+
+30:24
+Sådan kalder jeg min parameter fremstilling gro, for den er ikke lige så god som er, og det gør for at se hvorfor det er tilfældet.
+
+30:32
+Så jeg tager bare ikke så y som min parameter. Og så skal Z ifølge denne Ballhaus være ikke stjernen Ozzy hjerne.
+
+30:42
+Og igen ikke stjernen Jesse Jane skal mindre end ligemeget.
+
+30:47
+Det er sådan set det er en helt legitim parameter fremstilling.
+
+30:52
+Men problemet ligger i. At den opfylder ikke de krav jeg havde til mine parameter fremstilling,
+
+30:59
+fordi et parameter fremstilling skal foregå over et akse parallelt parallelogram,
+
+31:03
+så her løber jeg ind i modvind, fordi det her er selvfølgelig ikke et akse parallel parallelogram,
+
+31:10
+som jeg havde vi skulle have i mit parameter domæne. P så.
+
+31:15
+Men hvad er løsningen? Selvfølgelig har. Jeg.
+
+31:21
+Men det er faktisk og præcis.
+
+31:25
+Jeg indfører polære koordinater. Ikke så længden.
+
+31:31
+Et eller andet dør og en vinkel Tata. Jeg vil ikke rigtig kalde den for er fordi han er blevet vores.
+
+31:42
+Og vi ved hvordan polære koordinater ser ud. Vi har en anden vinkel, og så har vi en eller anden længde.
+
+31:46
+Jeg vil ikke kalde den er fordi der kommer et andet og lige om lidt. Bornak og jeg følger den notation som vi har i bogen.
+
+31:58
+Det vil være en god ide. Så faktisk kalder jeg min vinkel forbi og kan det meget småt, da jeg måske lige gør den lidt større.
+
+32:09
+Nu ved jo godt du har fået briller, men jeg kan alligevel godt gøre det lidt større. Der er en enkelt vinder over min radio, den kalder jeg dem.
+
+32:18
+For hvert punkt. Så giver jeg parameter fremstilling på den måde der så i stedet for at bruge denne her parameter fremstilling.
+
+32:25
+Så lad os kigge på er ved pointe for indstillingen er over u kommer vi?
+
+32:32
+Og hvordan ser den ud? Jamen, hvis jeg bruger polære koordinater, så skal jeg støtte X med radius,
+
+32:37
+gang cosinus til vinklen mellem ja som jeg har illustreret herover og sinus til tv og ud i anden cosinus hjernen tv.
+
+32:52
+Fordi jeg erstatter bare ikke smed ud cosinus ved minus o i anden, da ser det ud for en parantes, og det gør vi ikke i et hug alligevel.
+
+33:00
+Så nej, men er vi nu i det rette univers?
+
+33:07
+Ja, det er vi vel fordi, at radio skal ligge mellem nul og et.
+
+33:16
+Og ved hvad man ved der skal ligge mellem nul og to ppi.
+
+33:24
+Ja, nu er vi i vores. Universal er ovre, så nu gør vi det eneste vi skal gøre for at udregne JAL, der var at finde Jacobi.
+
+33:33
+Jeg kunne enten har kø. Så skriver jeg op Jacobi, u v.
+
+33:45
+Hvad skal jeg gøre? Jeg skal differentiere min parameter fremstilling med hensyn til.
+
+33:49
+Det foregår bare glasvis, så her får jeg, når de fortæller denne her mand indtil til.
+
+33:54
+Så får Jacobsens tv. Tilsvarende sinus TV 2 u cosinus tv.
+
+34:03
+Hjernen lige nu sinus. Hjernen ved. Og skal have krydset den med den jeg får, når jeg differentierer med hensyn til ved,
+
+34:12
+når jeg differentierer første med hensyn til livet, så får jeg minus o sinus til ved u cosinus til V og.
+
+34:24
+Hvis man øver sig lidt, så kan man også spise af den sidste. Den er årets mest sinus ved gange minus 4 i anden.
+
+34:34
+Ja, og så laver man krydsproduktet og så finder man længden af den, der vægter normalt vægter.
+
+34:41
+Og man får u kvadratroden af fire ud i anden plus ét og O er i intervallet fra nul til 1.
+
+34:52
+Læg mærke til den afhænger ikke er ved, men afhænger ikke af vinklen ved.
+
+35:01
+Vi fortsætter herovre. Klip som vi skriver og rial.
+
+35:10
+Af Sladen f. Er lig med.
+
+35:16
+Vi skal integrere fra nul til et nul til to ppi.
+
+35:22
+Kvinden skal lige sætte ved lige nul. Det er også en anden måde at holde regnskab med grænserne på.
+
+35:27
+Hvad man skriver dernede. Med. Holder man regnskab med, hvilke ved grænserne er med hensyn til og her egne, skal jeg skrive min Jacobi.
+
+35:35
+Det var o. Kvadratrod 4. O i anden plus et.
+
+35:43
+Det ved det u. Ja, nu ved vi, at for at få foretaget den første integration, så skal jeg bare fastholde U, R og så integrere med hensyn til VM.
+
+35:58
+Den afhænger ikke af VM, så jeg får bare konstanten gange længden af det her, så jeg får to pi gange integral over i.
+
+36:12
+Det o. Kø, og nu skal jeg lave en substitution. At er Subotic substitution.
+
+36:25
+Substitution er og hvad gør jeg, det er introducerer, jeg kigger på det her, og så ser jeg okay i den her, den den.
+
+36:34
+Den er måske en meget god kandidat til at erstatte med ny variabel, siger W.
+
+36:38
+Jeg 4. O i anden plus en sådan jeg erstatter min variabel, så skal jeg finde ud af, hvorledes det her ændrer sig.
+
+36:48
+Det mål har det ændret sig under den transformation, og det gør jeg ved at sige, det ved.
+
+36:52
+Er det ved det o det u.
+
+36:57
+Og når jeg differentierer denne her med hensyn til ord, så får jeg otte ud det u.
+
+37:04
+Ja, og det ser jo meget lækkert ud fordi at det u der står der, og det der er u der står børn.
+
+37:11
+Men det er præcis det, der står der. Og så kan jeg fortsætte.
+
+37:18
+Og så siger jeg to p. Og jeg siger stadigvæk ud fra nul til en altså egentlig så hurtigere efter de her hvordan de er i W.
+
+37:33
+Men der er egentlig ikke nogen grund til det, så længe vi bare holder regnskab med, at vi husker på, at det har de altså ikke.
+
+37:37
+Med hensyn til WD med hensyn til ud, så derfor fortsætter jeg med at skrive ud her.
+
+37:42
+Og så skal jeg huske, at det er gu. Det er altså det er w divideret med 8 er.
+
+37:50
+Jeg kan skrive ledere, der har en op med det det W er lig med.
+
+37:54
+Det er Gud, for det var det guld. Her, så jeg får en ottende del kvadratrod.
+
+38:03
+W. B w. Jeg fortsætter.
+
+38:11
+Så integrerer jeg min kvadratroden. To tredjedele w.
+
+38:18
+Tre halve. Er fordi nu er det let at integrere med hensyn til W.
+
+38:25
+Så fortsætter jeg med at skrive grænserne med hensyn til ud fra at når jeg blot erstatter her hvorledes W i var introduceret.
+
+38:34
+Det var jo 4 4 uger i anden plus 1 4 o i anden plus 1 og så.
+
+38:44
+Til 3. Halve, så indsætter jeg ulige en som den øvre grænse og uendelige nulpunkt den nedre grænse,
+
+38:53
+og jeg finder pi sjettedele fem tre halve R, som kommer for at sætte ulige ind.
+
+39:01
+Så får jeg fem ind her fem, men her opløftet til 3 halve minus og sætter uden føjer ind her.
+
+39:11
+En opløftet halve. Det er stadigvæk ét. Og resultatet er således.
+
+39:23
+Og når klokken ser vi har lidt tid nu, så lad os ferien, inden vi holder pausen.
+
+39:32
+Lad os lige prøve at indføre det generelle flade Integral.
+
+39:38
+Nu har jeg bare kigget på et bestemt flade integral, nemlig det, der svarer til at regne arealet for kækt.
+
+39:45
+Det vi gerne vil gøre, det er følgende. Vi vil selvfølgelig gerne integrere i en eller anden funktion, der tager værdier på.
+
+39:53
+Den her flade er integreret som en funktion hen over som en flad.
+
+39:57
+Så hvordan foregår det lade f være?
+
+40:07
+Kontinuert funktion. Nej.
+
+40:12
+På én parameter flade.
+
+40:25
+Som jeg kalder et. Og er Alim er givet over sådan et akse parallelt parallelogram,
+
+40:36
+som før altså nu er i intervallet A til B og V er i intervallet C til det er så der er givet sådan en fare med placering.
+
+40:48
+Så er glade integrale.
+
+41:01
+A er funktionen f over. Fladen Store F.
+
+41:12
+Givet ved en definition her.
+
+41:20
+Hvad forstår vi ved et flade integral af en funktion over?
+
+41:27
+Over et år en given flade. Det har de symbolet.
+
+41:38
+Så på samme måde som vi reserverer det af det eksformand symbol for den afledte.
+
+41:45
+Er det et symbol for præcist indholdet i teksten ovenfor?
+
+41:50
+Hvordan udregner vi dig? Så det her funktion her er selvfølgelig en funktion af tre variable ikke så f.
+
+42:06
+Eks. Kommer Y kommercielle, og det vi skal gøre for at evaluere den er, at vi skal tage dens værdier på fladen.
+
+42:13
+Det vil sige, at vi skal erstatte X, Y og Z med denne Pommer til serien, som så vil evaluere den på fladen.
+
+42:19
+Og så skal vi gange med Jacobi delen har.
+
+42:25
+Og så skal jeg holde regnskab, ikk? Nu har jeg skrevet CTD, så jeg er nødt til at skrive.
+
+42:29
+Det vil først.
+
+42:31
+Og jeg kan godt li at holde lidt ekstra regnskab, at lave en parantes og skriver du til sidst, fordi grænserne A til B er med hensyn til.
+
+42:41
+Her står det generelle flade integral af f over fladen F, og det her er skrivemåde.
+
+42:49
+Det er symbolet. Det er denne her, vi bruger til at udregne.
+
+43:01
+Kø. Hvis nu f var konstant en.
+
+43:11
+Altså så at dette har integrale bare.
+
+43:17
+Efter en dom, så får jeg lige præcis mit areal fra før er mænd.
+
+43:24
+Så det er selvfølgelig motivation nok i sig selv. Når funktionen bare er 1.
+
+43:28
+Men vi kan mere generelt tænke på F.
+
+43:37
+Som en eller anden masse tæthed eller en densitet. På fladen er og så er massen af den flade.
+
+43:57
+På samme måde som vi gør, optrådte det samme som vi gjorde før vi tilføjer bare en.
+
+44:03
+En masse tæthed funktion. Så kan vi opnå akkurat det samme, hvor vi bare erstatter areal med massen og det vi ender op med.
+
+44:12
+Det er præcis det her. Fladen til grand. Kø. Og lad mig lige igen specielt påpege.
+
+44:26
+At areal. Jo altså bare er flade integrale over funktionen ét er.
+
+44:39
+Fordi hvis jeg sætter et f lige et hav, så får jeg akkurat den samme formel som jeg havde for mit eget hjem.
+
+44:46
+Årgang. Skal vi holde en pause først inden vi går i gang med det eksempel er og det er nogle
+
+44:53
+spørgsmål inden vi holder pause og altså i velkommen at komme ned og diskutere det.

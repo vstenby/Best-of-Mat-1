@@ -1,0 +1,686 @@
+0:09
+Jeg har skrevet i et første ordens lineær differentialligning system op, som har konstante koefficienter,
+
+0:20
+og jeg kan altså se der er tale om to ligninger med to ubekendte funktioner exit og X2.
+
+0:27
+Og vi har altså her exit mærket. Til denne er begge sider til minus to.
+
+0:34
+Ikke stort set. Og hvis jeg differentierer den anden af de ukendte funktioner, så har jeg et par ting.
+
+0:41
+Minus X2 the. Vi kigger på system matricen A.
+
+0:55
+Den har altså elementerne 1 og minus 2, og så er den 1.
+
+1:04
+Og minus 1. Og den har det karakteristiske polynomium.
+
+1:22
+Det karakteristiske polynomium. Det er Lambda i.
+
+1:28
+Anden plus en. Og det vil sige den har selvfølgelig ikke reelle rødder.
+
+1:39
+Men den har to komplekse egenværdier.
+
+1:54
+Som er lambda leg med i.
+
+2:02
+År. CD'er er jo et polynomium med reelle koefficienter, og der ved vi, at rødderne altid optræder konsolideret.
+
+2:15
+Så det vil sige, at den anden rod er så lambda konkluderet.
+
+2:20
+Det vil sige minus i. Og så har jeg også her lavet lidt hjemmearbejde, fordi jeg har nemlig fundet en egenvægt, som hører til egenværdi ind i.
+
+2:48
+Da hører til i dag hører jeg så egen vektoren skal vi kalde den V, som er en plus i over en.
+
+3:05
+Og der ved vi også for teorien om komplekse egenværdier, at hvis.
+
+3:13
+Hvis I har den egenvægt, så her. Så vil der til den konjugerede egenværdi.
+
+3:28
+Hører den konjugerede vægter. Det vil sige en Minos i.
+
+3:36
+Over en.
+
+3:42
+Og det har jeg altså bare fundet ud af derhjemme og bruger altså de her elementer fra den komplekse teori, som vi havde i de første fire uger.
+
+3:53
+Og nu er jeg jo sådan set parat til at skrive løsningen op efter point nummer to her.
+
+4:02
+Men nu er det jo samtlige komplekse løsninger, som jeg opskriver.
+
+4:10
+Så samtlige. Komplekse løsninger.
+
+4:24
+Kan jeg så skrive som. X RT er lig med en vilkårlig kompleks konstant se ét.
+
+4:37
+Og så har vi så eksponentielt funktionen, og så har vi den første egenværdi.
+
+4:45
+Og så til dens tilhørende egenvægt. Og så har vi plus C2 en anden vilkårlig komplex konstant og sagt gange e i minus 1.
+
+5:01
+Det var den anden egenværdi. Ganget med 10.
+
+5:07
+Og så ved vægteren Konjugerede, for det var jo den egn væk, der hørte dér til.
+
+5:17
+Og så har jeg jo hele universet af komplekse løsninger til denne her differentialligning.
+
+5:25
+Men vi er jo ingeniør. Vi står i et konkret fysisk problem i den reelle verden.
+
+5:32
+Så det vi er ude efter, det er de reelle løsninger. Og nu kommer så problemet.
+
+5:39
+Hvordan kan vi ud af denne her mængde vild mængde af komplekse funktioner?
+
+5:44
+Hvordan kan vi hive de rene ud? Og der er lige lidt repetition stof her for komplekse tal.
+
+6:02
+Som vi får brug for i det følgende. Se den første der oppe kender.
+
+6:15
+Det er jo meget nemt, altså konkluderede det. Jeg husker godt hvad vi består, men det her hvornår er sæt reelle?
+
+6:24
+Ja, det er den lige præcis, når sæt kun gearet er lig med sæt selv.
+
+6:29
+Det er det, vi kalder for Real kuraterede. Det er det, vi får brug for nu.
+
+6:37
+Så får vi også brug for når vi skal til at køre nogle Geer, altså de her meget, meget enkle regler der findes for kun regering.
+
+6:47
+Vi får brug for viden omkring den komplekse eksponentiel funktion.
+
+6:52
+Her har vi den enkle form, hvor eksponenten er rent imaginær.
+
+6:58
+Det er jo øgler, stormen har skrevet op her. Og så her i en lidt vanskeligere udgave, hvor vi har det komplekse tal stående her.
+
+7:12
+Det kan os ved hjælp bøje os. Få med opskrives på denne her måde, for jeg ikke direkte brug for nu, men den sidste får jeg brug for,
+
+7:21
+at altså hvis jeg har eksponentielle funktionen come on dyret, så er det lig med eksponentielt funktionen.
+
+7:29
+Tilsæt konjugerede. Det står os i 1/8 29 omkring komplekse tal, så de ting for jeg har brug for at nu.
+
+7:38
+Så nu kommer der altså noget af en nyser. Se, jeg var nået frem til at her har vi samtlige løsninger, og nu begynder vi at bruge alle kriterier.
+
+8:11
+Og skal vi lige. Altså reelt kvarteret.
+
+8:19
+Det vil altså sige at. Det vi altså gør, er at vi skal finde ud af de løsninger, jeg har opskrevet her.
+
+8:31
+Hvornår gælder der, at ekstra te er lig med x kondom?
+
+8:37
+Gearet er til. CD'er ensbetydende med at se et E i T.
+
+8:49
+V plus Z 2 E i minus i T ville kun give J.
+
+8:58
+Det er bare det jeg har skrevet her. Jeg skriver én gang til. Hvornår er det lige med det, der står her?
+
+9:06
+Konjugerede. For nu skal jeg altså have konjugerede hele dagen smøre der står her.
+
+9:13
+Heldigvis er det sådan, at som der står det op, når jeg kun gør en sum, så skal jeg bare kun give om hver af de to er den der.
+
+9:26
+Og når det er et produkt, så Bart kun giver hver af faktorerne i det produkt, så starter jeg med at konvergerer.
+
+9:34
+Det er at se et kun godt. Her skal jeg kondom giver eksponentielt funktionen.
+
+9:42
+Det er det samme. Som det er det aller nederste der står der over jeg bare skal konvergerer eksponenten og så får jeg e i minus i T.
+
+9:55
+Og jeg skal kun give jer vægteren. Og så fortsætter vi bare her hen.
+
+10:04
+Vi har set to kun gearet, hvis jeg skal navigere den her, så betyder det, at jeg skal fjerne minus tegnet.
+
+10:13
+Så har vi e it. Og hvis jeg skal konvergerer den kerne nogle grader ved, så kommer jeg tilbage til ved vektoren, står der her.
+
+10:30
+Så der havde jeg sgu nået nyser.
+
+10:34
+Indrømmet. Nu er jeg så heldig at jeg kan Factory seere med hensyn til den størrelse, der står her, for den står jeg både dér og den står også her.
+
+10:50
+Så nu får jeg altså set et minus c2 konjugerede.
+
+10:56
+Gange med en i T. V så. Og så kan vi se det der står her, er det samme som det der står her, så vi kan også Factory se her.
+
+11:09
+Så får vi set to minus, se et kondom, gearede gange med en i minus en ting.
+
+11:18
+Og så ved godt. Det er det jeg skal give noget.
+
+11:44
+Hvis det her skal passe. Det i IT og ikke mindst idet de er lineært uafhængige.
+
+11:53
+Hvis det her skal give noget for alle ting, så skal faktorerne være nul.
+
+12:00
+Så se det jeg var ude efter. Finde de reelle. Hvad betyder det for den løsning, jeg har skrevet her op?
+
+12:08
+Det eneste det betyder bare at se et skævt vejrlig med sit to kun giver her hende set to skal være lige med at se et konjugerede.
+
+12:18
+Men det er en og samme ting. For vi sige at det her det er simpelthen ensbetydende med at C2 skal være lig med C et kun gearet.
+
+12:36
+Så jeg kan altså ved hjælp af min teori omkring Real krateret og eksponentielle den eksponentielle funktion si de her løsninger der står her.
+
+12:50
+De er vel netop hvis den konstant der står her.
+
+12:55
+Det er den konjugerede er den, der står her. Så på den måde har jeg altså fundet de reelle funktioner.
+
+13:06
+Og det kan godt være jeg ikke tror på det. Men så er jeg jo nødt til at vise, at sådan forholder det sig faktisk.
+
+13:15
+Så vi kan skrive det vil sige hvis.
+
+13:22
+C et på rektangulær form hedder A Plus i B.
+
+13:30
+Så er set to skadede den værre hvis det skal være reelt.
+
+13:36
+A Minus i B. På rektangulære form.
+
+13:46
+Så nu går vi videre med at finde de reelle løsninger. Nu har jeg nemlig, at ca.
+
+13:57
+Mine x funktioner se, nu gjorde vi denne her som pay a loose i B.
+
+14:08
+Gange med en i T. Gange med v vektoren.
+
+14:16
+Plus. Og stort set to. Som er A lige nu sige B.
+
+14:27
+Ind i Minos it. Og så vil Konjugerede.
+
+14:39
+Og nu skriver jeg i stedet for at vægteren. Så skriver jeg den op i coordinator inklusive og en, og så får jeg her en lige nu se og en.
+
+15:01
+Og det er a plus i b, e i T.
+
+15:08
+Og nu vælger jeg at skrive denne her vægtere ud som en summen af to vektorer den første.
+
+15:13
+Den hedder ind over en plus i gange med én over nul.
+
+15:22
+Det er altså bare simpelhen denne her vægter, der kan skrives ud på den måde der står her.
+
+15:29
+Og så får vi A, Metro.se B og så E i minus it!
+
+15:37
+Og så skriver jeg også denne her væg tog ud. Så om det bliver en over en.
+
+15:45
+Også her bliver det minus 1 og så en over nul.
+
+16:00
+Nogle indgår da disse to eksponentielle funktioner end den der hedder ind i IT.
+
+16:07
+Og den der hedder det i minus it. Jeg ved, at hvis man lægger de to sammen, så får man en reel funktion.
+
+16:14
+Det vender lige tilbage til om lidt. Derfor laver jeg.
+
+16:19
+Og nu er jeg tæt på slutningen. Hele denne her udregning.
+
+16:23
+Nu laver jeg en. Det er en faktor i Ziering for dem her og den indgår, så får jeg nemlig hele udtrykket skrevet op på rektangulær form.
+
+16:37
+Og det bliver sådan her jeg får funktionen, og nu er der noget med, at nogle af jer der ikke kan se i T plus 1 i minus 10 til.
+
+16:55
+Som så bliver ganget med a gange med den første af de søjler, som da er på tale her, nemlig denne.
+
+17:06
+Og så får vi minus B gange med den anden søjle ind over nul.
+
+17:17
+Og så skal vi have imaginære delen skrevet op og den bliver E i en T og denne gang minus E i t.
+
+17:34
+Og så får vi igen. Ja, skal det være sagt.
+
+17:41
+Og så får vi her a. Og så ind over nul minus B.
+
+17:47
+Og så ind over i. Og det er simpelt hen.
+
+17:58
+Som sagt Nu har jeg skrevet det der står her på rektangulære form.
+
+18:06
+Jeg påstår, at alt det der står her. Det er reelt og det efterfølgende af imaginære.
+
+18:23
+Prøv at se. E i t.
+
+18:28
+Plus en i minus i C, hvis jeg bruger og Los formand, som står hen på det udtryk,
+
+18:40
+der står her for hver af dem her, så kan vi se, at det er det der giver 2.
+
+18:46
+Cosinus til. Så det er den faktor som står her hen.
+
+18:55
+Det er reelt, det skal være reelt. Den anden faktor, der står her, bruger vi, og i vores formelle del af hende, så kan.
+
+19:05
+Så kan vi finde, at en it minus i minus it.
+
+19:13
+Det er i gang med to sinus tt.
+
+19:25
+Kamp, og det skal vi altså så bare have indsat her.
+
+19:30
+Så har vi den fuldstændige reelle løsning. Den er så x at T er lige med.
+
+19:53
+Så får vi to cos news tt.
+
+20:00
+Og så har vi den parantes der står her. A gange med en over 1.
+
+20:11
+Og så var det minus B en over nul.
+
+20:21
+Så får vi en. 2. Sinus.
+
+20:25
+Der skal ganges med det i der, så bliver det minus to sinus.
+
+20:34
+TT. Og så har vi altså a gange med en over nul plus B ganget med en årige.
+
+20:51
+Som det. Der.
+
+20:58
+Noget af det jeg endnu har. Jamen altså det får du simpelt hen.
+
+21:04
+Altså hvis du altså. Du prøver jo at finde disse to faktorer uden at der i på hvor hvor kommer de første komponenter fra?
+
+21:16
+Det kommer fra den. Gange med dem. Gange med den.
+
+21:22
+Og så kommer der, så kommer det, så kommer det andet herinde.
+
+21:25
+Det er, når du tager dem dér og ganger med dem derovre, fordi så har du 2, hvor der indgår i.
+
+21:33
+Så forsvinder de. Så derfor får du altså fem søjle her og her.
+
+21:39
+Bagefter så skal du have ydet på her, det vil sige nu går du efter dem, hvor du både har eksponentielle funktioner og så har du ydet.
+
+21:48
+Dvs. Så går du altså den, den og den.
+
+21:55
+Og derfor er det den der kommer på derhen. Og ligesådan med den anden.
+
+22:00
+Så det er altså i selve den Factory sagen processer, at der opstår.
+
+22:06
+Du isolere den bestyrelse, da er her hvor der ikke er i på, og så er det de første du har brug for bagefter denne her størrelse her, for da er I på.
+
+22:16
+Og så er det de næste, du får brug for. Så er forklaringen.
+
+22:38
+Nu sender vi til sidst. Det skal være plus, hvor han sætter sig op.
+
+22:48
+Det viser, at det skal være plus tak.
+
+22:58
+Forudser. Jeg påstod, at hvis bare vi gjorde det.
+
+23:07
+At hvis man sætter sig to til, ser et kondom Georg en sætter i den fuldstændige komplekse løsning og arbejder med det.
+
+23:18
+Så til sidst, så falder alle det imaginære væk, så nu har vi altså en løsning, en funktion exit og X2, der udelukkende består af cosinus og sinus.
+
+23:31
+Ud af den komplekse eksponentiel funktion er der sprunget cosinus og sinus.
+
+23:39
+Det her er noget der svinger. Det er sjovt. Altså hvis a har komplekse egenværdier.
+
+24:16
+Findes først. Den fuldstændige.
+
+24:30
+Komplekse løsning. Og der efter findes.
+
+24:46
+De reelle løsninger. Ved hjælp af røg alle kritiserede.
+
+25:28
+Hun. Jeg kalder det her line.
+
+25:44
+Det her system, der gælder for stjerne. Nu arbejder vi lidt videre med det her, og det er så dagens sidste input.
+
+25:58
+Og vi skal kigge på den opgave der hedder Bestem den løsning.
+
+26:09
+Til differentialligning systemet. Som opfylder.
+
+26:23
+At eks funktionerne til tiden nålen.
+
+26:33
+Og det vil jeg så sige. Hvad af de to funktioner til tiden nogle skal være lig med.
+
+26:43
+Minus to og to. Det er den opgave vi lige skal kigge på her.
+
+26:58
+Når det spændende om det kan lykkes. Så det jeg kigger på.
+
+27:11
+Selv hvis vi siger her har vi te tid saksen.
+
+27:17
+Og så heroppe, der har vi så ikke sat ting. Og jeg er altså ude efter i den her uendelige mængde af reelle løsninger.
+
+27:29
+Da jeg er ude på at finde de løsninger, hvor den første funktion.
+
+27:41
+Er dansk er gået igennem minus 2. Og så er min exit funktion.
+
+27:50
+Og så altså for X2 funktionen. Nu ved jeg ikke hvordan den ser ud.
+
+27:58
+Det er bare for lige at give en ide om hvad er det egentlig vi spurgte om vi vil finde de to funktioner, som opfylder det her?
+
+28:17
+Og så kan vi altså skrive her at. Exit er nul, X2 er nul.
+
+28:30
+Den er lige med, og så kigger vi på vores løsning.
+
+28:39
+Så skal vi jo på et nul ind på tingets plads.
+
+28:49
+Og så får vi her. A minus B. Og forneden der får vi a.
+
+29:04
+Og så får vi minus to sinus til nul. Og her har vi A plus B.
+
+29:16
+Oplev. Det her ønsker vi altså at det skal give minus to over to.
+
+29:37
+Og så kigger vi lige på hvad bliver det cosinus til noget? Den er jo en.
+
+29:43
+Så får vi altså. Vi ganger to ind for oven her, så får vi to a minus 2 B.
+
+29:53
+Ved ganget op her sinus til nul. Den giver nul.
+
+29:57
+Hele det sidste led forsvinder, og så får vi altså her, at dette skal være minus to.
+
+30:07
+Og så ganger vi ned i den anden mening her. Det bliver så to af.
+
+30:18
+Som skal være lig med to. Og lad os nu.
+
+30:29
+Det kunne muligvis gøres nemmere. Men jeg skriver totalt matricen op.
+
+30:36
+Nu ved jeg ikke, om jeg kan se totalt matricen. Den bliver så 2 minus 2.
+
+30:45
+Og minus to også giver den 2, 0 og 2.
+
+30:54
+Og så får jeg at trappe matricen. At den giver en 0 0 og 1 og 1 og 2.
+
+31:15
+Så det vil altså sige. At A skal være lige med ben og.
+
+31:24
+B skal Valdemar 2. Og så går vi tilbage til vores øverste ligning for op og opskriver nu funktionerne
+
+31:41
+fordi det vi skal forstå er det her er jo en meget sammentrængt måde at skrive det på.
+
+31:48
+Men jeg kan jo sagtens skrive de her funktioner almindeligt op.
+
+31:52
+Nu skal jeg så bare have fundet exit, det vil sige den er 2 cosinus til TT og plus det der står her i den øverste række.
+
+32:02
+Minus det i den øverste række og så X2. Det er den der gang i det, der står i det nederste og det, der står i den nederste række.
+
+32:09
+Her. Så jeg får x et.
+
+32:18
+RT. Den bliver så første fakta om 2.
+
+32:28
+Kursus til se. Nu skal vi bare lige huske at vi har det her giver A minus B, A og en B.
+
+32:39
+2. Så vi får altså en faktor på, der hedder minus to.
+
+32:47
+Hvad der har. Nej, fordi det var begyndelsen betingelsen for det her.
+
+33:07
+Det kan også og det vil det betyder. Nu har jeg fundet, at hvis begyndelsen betingelser skal være opfyldt, så skal af hver en og ben skal være to.
+
+33:16
+Men målet er selvfølgelig at skrive selve funktionerne op. Så det er jeg så ikke sig til, og det vi så fandt det, var det minus 2 hos sorte.
+
+33:28
+Og hvad får vi så af Simons funktioner? C a den er en.
+
+33:35
+B den 2. Så får vi et træ, der skal gange smage minus to.
+
+33:41
+Det giver minus seks ting. Altså minus 6 senest.
+
+33:49
+Det var den første, og så skal vi have fundet den anden.
+
+33:58
+Og her har vi to cosinus til to gange med A bliver der kun her a den vej ind, så den er så tung cosinus til t.
+
+34:13
+Og så får vi minus 2 og her får vi så A den bliver bare nul.
+
+34:22
+Den er bedst, den er 2. Og så får vi minus 4, siger Just The.
+
+34:34
+Og hermed har vi altså løst det her differentialligning system ved først at finde den fuldstændige komplekse løsning.
+
+34:49
+Derefter fandt vi den reelle løsning.
+
+34:52
+Og så til sidst, så kunne vi så se, at hvis bare der var givet en begyndelse betingelser, jamen så kunne vi finde en præcis løsning.
+
+35:35
+Så vi står altså der var præcis en løsning både for except og for X2 til det begyndelsen værdige problem,
+
+35:42
+som jeg havde tegnede føjer her, og det er de to herrer lidt svingende funktioner, som vi har gang ideer med cosinus og sinus.
+
+35:56
+Og det er her, den det resultat jeg finder i det eksempel her.
+
+36:02
+Det er et eksempel på et helt generelt regler for eksistens og entydighed af løsninger på de foranstaltningen systemer, som jeg nu skriver oppe.
+
+36:13
+Byde begyndelse. Betingelsen. At.
+
+36:31
+Disse og funktioner ex et. Til et eller andet tidspunkt X2.
+
+36:40
+Til et eller andet tidspunkt X3 eller også ned til X1 til et eller andet tidspunkt.
+
+36:51
+Skal vi kalde dem til noget? Altså ligesom vi gjorde her sidste gang var.
+
+37:02
+Altså hvis den til et bestemt til nul skulle have en bestemt funktions værdi.
+
+37:08
+Nu er der så dem alle sammen, som til et bestemt tidspunkt skal have så en bil et bestemt tal, nemlig a et a 2 og til a en.
+
+37:25
+Hvis vi har sådan en begyndelse betingelser her, så er konklusionen der findes netop.
+
+37:38
+En. Reel løsning.
+
+37:46
+Sådan. Min aller sidste bemærkning i dag er at.
+
+38:03
+Vi har nu været igennem samtlige punkter her. Se det har været under den forudsætning af at matricen Q diagonal i seeres n udrikkeligt.
+
+38:17
+Så kunne vi komme igennem. Det var mit eksempel før pausen eller komplekst.
+
+38:22
+Så kunne vi også komme igennem som vist efter pausen her, men vi ved godt, at der findes nogle der vrælende tilfælde hvor.
+
+38:33
+Matricen ikke kan kunne realiseres, og det er jo hvis summen af de biometriske multiple site, der er mindre end en.
+
+38:43
+Og det kommer jo også til at kigge på i dag.
+
+38:46
+Men kun i tilfældet af to Cousteau matricer vil jeg gerne se et eksempel, hvor matricen har en egenværdi og egen.
+
+38:57
+Rummet er en dimensional, og så kan vægteren ikke diagonalt se os i de defekte tilfælde.
+
+39:05
+Da kan vi ikke bruge denne generelle teori, men der skal I gå ind, og så skal vi kigge på en.
+
+39:17
+Ja, altså jeg kan sådan set godt lide. Jeg vil godt lige vise jer begge de to metoder, der står her.
+
+39:27
+Se det her. Den metode her handler om det eksempel jeg har vist her efter pausen.
+
+39:35
+Det komplekse tilfælde og ved at bruge den metode med Factory serien var alt det jeg lavede i eksemplet her.
+
+39:43
+Så kan man komme hen til en generel formlen for, hvordan de to ønskede funktioner, og hvordan de ser ud.
+
+39:53
+Så det er altså en form vi kan udlede på samme måde som det dér eksempel bliver vist her.
+
+39:58
+Hvad gør vi hvis funktionen? Ikke kan derpå realiseres.
+
+40:09
+Så er den lidt utydelig. Sådan er.
+
+40:16
+Altså vi kigger på to CO2 matricer end egen værdi lambda algebraisk multipliceret 2, men kun geometrisk målte spise td.
+
+40:28
+Så hvis samtlige løsninger være vinder og kombinationer af de to funktioner der hvor lambda er,
+
+40:37
+det er den egenværdi der findes, og vi er den egenvægt, der hører til.
+
+40:45
+Den anden funktion her I har brug for, da skal man finde den bevæg, der står dér ud fra den ligning der står det.
+
+40:55
+Kig selv på den i øvelserne. Det er metode 12 7, og hermed ønsker jeg god fornøjelse også med saltkoncentration og tak for det.

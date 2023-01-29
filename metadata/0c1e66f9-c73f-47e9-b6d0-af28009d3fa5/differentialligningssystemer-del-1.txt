@@ -1,0 +1,1157 @@
+0:08
+Ja, vi er ved at være klar. I dag skal vi udnytte alt det, vi har haft i år.
+
+0:16
+Vi skal have komplekse tal. Det skal have reel kvarteret. Vi skal have noget med cosinus og sinus.
+
+0:22
+Vi skal have et lille citat. Vi skal matrice, at vi skal have realisering, og vi skal differentialligninger.
+
+0:29
+Så i dag opsummerer vi stort set hele semestret her i det, vi kalder systemet af differentialligninger.
+
+0:36
+Så hovednavnet i dag er systemer af differentialligninger og dernæst sidste forelæse med nyt nye emner i dag.
+
+0:50
+Den sidste vi mangler næste gang tema også er den sidste. På næste mandag, hvor vi opsummerer, eller hvor vi har ændret ordens differentialligninger,
+
+1:00
+så er der godt nok forelæsning endnu motorsaven næste torsdag.
+
+1:03
+Men netop sessions gangen, hvor jeg altså herinde regner eksamen, sætter fra sidste år på tavlen, og I kan spørge til det og så videre så.
+
+1:12
+Men systemer differentialligninger i dag, og der er noget om end lidt varietet.
+
+1:20
+Marisa er der i øvrigt ikke. Der skulle være noget om systemer af.
+
+1:26
+Differentialligninger. Jeg skal lige vide hvad det er inklusiv. Likviditet.
+
+1:38
+Så kommer der noget omkring Diagonal serien. Af systemet.
+
+1:53
+Og Løsning og dets løsning. Og så kommer der noget omkring begyndelsen værdier.
+
+2:08
+Så er der lidt taller tre eksempler. Og så er der mellem.
+
+2:18
+Og man kan sige at dette er lige som er kendetegnet ved det her i dag er, at det drejer sig om forståelsen.
+
+2:24
+Hvordan er strukturen af løsninger? Hvordan finder vi de løsninger, og hvordan hænger det sammen?
+
+2:29
+For at løse selve deres systemer? Sagen er så let, at de mageligt kan man skrive disse skriftsystemer, og så får man løsningerne ud.
+
+2:36
+Problemet med den metode er Hvis man er i charmører, som jo er, så giver det en stribe forkerte løsninger.
+
+2:45
+Og hvad er den rigtige? Alle dem man nu for? Og hvad for at forkæle? Det ved man kun, hvis man forstår teorien bag.
+
+2:51
+Og lige præcis det, vi skal lave i dag. Det er sådan set noget, der vedrører næsten alle, der sidder inden for kemikerne.
+
+2:57
+De kender tesen og kemiske reaktioner, hvor et stof vokser op, og konstruktionen af andet stof falder imens.
+
+3:04
+Og så sker der måske et eller andet kontor i førster og starter med at vokse op igen med tradtion.
+
+3:09
+Anden falder. Jeg ses når reaktioner, hvor den store skifter farve opløsningen for eksempel.
+
+3:14
+Det er det her, vi skal lave i dag. I kender miljøet folkene. De kalder en losseplads, hvor der ligger noget PCB.
+
+3:20
+Det siver ned i drikkevandet. Og hvad sker der undervejs på vejen ned gennem jorden?
+
+3:25
+Er dette PCB? Det omdannes til forskellige stoffer og konstellationen de forskellige stoffer, de stiger og wok.
+
+3:31
+De stiger og falder, efterhånden som ting nedbrydes og andre ting dannes.
+
+3:35
+Det er også det her, og på samme måde er i et alt det her med papir og kemi.
+
+3:40
+Der er også typisk noget ved nogle koncentrationer af forskellige ting i kroppen eller andre steder, der vokser,
+
+3:48
+fordi noget omdannes til noget andet og alt sådan noget, hvor noget omdannes af noget,
+
+3:53
+hvis konstruktion af en ting stiger, mens kautioner og andet falder. Det er noget med at modellere med disse systemer, og skal jeg vise hvorfor?
+
+4:02
+Lad os se på eksempler på nogle systemer ved at differentialligning system.
+
+4:14
+Og hvis man glæder sig til at løse sådan i praksis, som man lige talte om,
+
+4:18
+så er det det vi laver i dette store 3 ugers projekt Fireårs projekt, der kommer til foråret.
+
+4:24
+Der får jeg altså også nogle rigtige ingeniører ved skolestart. I så skal modulære og lykkes med dette stof.
+
+4:29
+Nå. Hvordan ser et ens system ud?
+
+4:33
+Ja, det kan se ud på mange måder med de systemer, vi vil se på.
+
+4:36
+Det er de mest simple at være, og det er sådan nogle, hvor vi har nogle ukendte funktioner.
+
+4:40
+Vi har altså nogle funktioner, vi ikke kender, iværksætter the X2 og ting, som allesammen tilhører det uendelige.
+
+4:49
+Der er altså nogle uendelig ofte differentiable funktioner.
+
+4:54
+Og teksten er til det vi skal foretage os i første omgang.
+
+4:58
+Vi kender ikke dette funktion funktioner. De er ukendte, ligesom det er en fortælling vi kalder ikke funktionen, der indgår.
+
+5:05
+Men vi ved noget om alle de funktioner, vi ved for eksempel, at den afledte er den første.
+
+5:11
+Den afhænger linje af et af de øvrige, altså af et exit RT plus et to x2, rt plus et n, ex eller the.
+
+5:29
+Så det er altså systemerne i systemet. En differentialligning, men hvor den afledte af disse funktioner afhænger linje af,
+
+5:36
+da de øvrige i den meget lille klasse af systemer, de får sat det rigtigt.
+
+5:40
+Men det er også en meget anvendt klasse, hvor man altså siger, ting er proportional med noget andet.
+
+5:46
+Den sorte, der har vi så af to et sæt dig til den afhænger igen linie er der alle de her er et,
+
+5:56
+to, to store tjek plus helt op til to, end jeg kender til.
+
+6:03
+Og vi har den sidste.
+
+6:05
+Vi har alle sammen hele vejen ned til Lex ender ting, som igen afhænger linje af, da de øvrige den et ægceller til closed vejen hen til a end n.
+
+6:19
+Eksempler til. Hvordan løser man sig da ikke også det er meget kompliceret at løse, fordi man ved noget.
+
+6:27
+Vi forestiller os, vi kender alle de her konstanter.
+
+6:29
+Alt dette nogle tal er et et tal er to, et, et stort tal, og så ved det altsammen faktisk reelle tal, så alle de her a i J har der indgår.
+
+6:37
+Det er bare reelle tal. Hvis vi skulle til at løse det, ville starte med den første der skal løse dumheder, det afhænger jo af løsningen til de andre.
+
+6:46
+Den afhænger af samtlige ukendte funktioner,
+
+6:48
+så vi skal på en eller anden måde finde samtlige af de N1 funktioner på en gang, sådan at alle ligningerne er opfyldt.
+
+6:56
+Og det er jo en umulig opgave. Ved første øjekast ikke. Hvad skulle vi gøre det og må metoder deres.
+
+7:02
+Følgelig udnytte vores slidte ALK-Abelló til at forlade nogle nye ligninger,
+
+7:06
+som så vi kan bruge det, vi har lært om først ordens lineær frasalg linier til at løse dem med.
+
+7:14
+Og det jeg sagde før mødet med anmeldelsen, det er jo noget med, at de her ikke mærker exit mærke Ecco mærket.
+
+7:20
+Det er jo hastigheder, hvor med disse enkelte funktioner indgår som single og funktioner angiver koncentrationerne af forskellige stoffer,
+
+7:27
+så er hastet professional med, hvordan de enkelte stoffer omdannes.
+
+7:31
+Det er ikke en ualmindelig måde approksimation er på. I kender dem måske også fra gymnasiet.
+
+7:35
+Ikke radioaktivt henfald de der radioaktive familier først, så nedbrydes uran til et eller andet,
+
+7:40
+og så kommer et nyt stof, som så nedbrydes og så videre til et eller andet stabilt til sidst.
+
+7:44
+Det er også sådan nogle differentialligninger, hvor den afledte af antal kerner er lig med aktiviteten.
+
+7:50
+Ikke som proportionalt med antallet af kerner, så det det velkendte stof sådan set de aldrig løste det før, var set i en eller anden kerne.
+
+7:58
+Godt? Ja, så ondt på tavlerne som sædvanligt.
+
+8:02
+Så det er selvfølgelig irriterende, men jeg tager livet lige om lidt skal vi lige bruge det her.
+
+8:14
+For det vi gør nu. Vi orker ikke at skrive hele systemet op hver gang, så vi simplificerede det lige.
+
+8:19
+Vi skriver fra nu af vores system, som en ikke svigter, som består af en søjle af værktøj, der hedder eksperter.
+
+8:25
+Tag optager ikke sender til. Og vi godt kan ikke satin, så vi synes det er bedre at sige det.
+
+8:33
+Det er en funktion af ting. Og så laver vi denne her cow matrix som er koefficienterne til vores system.
+
+8:42
+Jo som er bare af et 2 optagen.
+
+8:47
+En. Det hedder ikke filmen.
+
+8:52
+Så kan vi skrive det system der står, da han sammen med et matrix produkt venstresiden kan skrives som ex.
+
+8:57
+Mærkater til fordi vi differentierer sådan en tale veksler her ved at differentiere hver engang.
+
+9:06
+Og ja. Ja, det kommer vel bare lige til at stå, men det skal flytte ned om tilskuerne, der ikke mærke til.
+
+9:15
+Det var venstresiden derovre, og så kan vi skrive højresiden som et Matrix produkt.
+
+9:19
+Er matricen A ganget med ex.
+
+9:24
+RT sonderer så hele det Matrix produkt, der står på den anden tavle.
+
+9:29
+Det står nu her. Og det er det system vil løse.
+
+9:36
+Nu er. Men ingen vil gøre det, så vi lige taler lidt om, at hvorfor har det noget med loyalitet og lineær algebra at gøre?
+
+9:50
+Hero, der er et lineært differentialligning system, fordi.
+
+10:00
+Hvis vi ser på denne her ex mærke minus A.
+
+10:08
+Ex. Og kalder den f. Ex.
+
+10:14
+Altså en tager. Den tager en eller anden ukendt vægt, tager ex. Jeg lægger den da ikke svigter den tager en ja ex vægteren.
+
+10:22
+Den er jo sådan en. Den tilhører jo det vi kan kalde den se.
+
+10:26
+Uendelig er I endte altså 1 1, da en af de og ikke for at en Expekt, som består af en differentiable funktioner, som vi får sådan en endelig er hjem.
+
+10:41
+Vi har altså en uendelig ofte differentiable funktioner, og hvis vi smider det ind i den, der er forbedring hér, kan hvad gør jeg for at Velling?
+
+10:48
+Jamen den. Hvad hedder det? Den differentierede ex.
+
+10:54
+Og så trækker den a ganger ekstra, hvoraf bare den der courgette matrix, der består af reelle tal.
+
+11:00
+Det er klart Lenovo operationer er at differentiere lineært. Det er at gange med en matrix af linje, at så er en linie afbildning, så F er linje.
+
+11:12
+Og den går jo mellem disse vægtere rum jo vektorrum her.
+
+11:15
+Den lille, men de vægteren kernen fra denne afbildning, der var blevet lig med nul.
+
+11:22
+Det er løsnings rummet til vores differentialligning system, det svarer til at rykke den op og den anden tid.
+
+11:29
+Så kernen af er Løsnings rummet. Er vores.
+
+11:36
+Løsnings mængder. Altså den fuldstændige løsning til vores fortællingens system.
+
+11:46
+Ja, det er rigtigt godt det her, fordi vi ved selvfølgelig ikke, hvordan vi finder kernen af det her.
+
+11:52
+Vi ved heller ikke fuldstændig løsningerne, for det er jo det samme. Men vi ved, én ting ville vide, at hvis efterlignere.
+
+12:00
+Og. Du har vel også mig selv stået her I skal tage en ny tavle.
+
+12:07
+Vi ved at der dag afventer linjer f r linjer.
+
+12:14
+Og hvis jeg nu så håber at differentialligning system, der så sådan ud lige coating med en vægt under hvor cool er den altså består af.
+
+12:29
+Quetta til optil kunne ernære sig ende.
+
+12:36
+Differentiale, fusion og controller funktioner er nok rigeligt til den, men lad os bare sige den også tilhører teorien.
+
+12:42
+Det gør ingen skade i hvert fald. Hvis vi havde sådan en kuvert, så er der altså sådan her ud.
+
+12:49
+Så har vi pludselig et EM homogent differentialligning system står der ikke nul hærger mere som det gjorde før os.
+
+12:57
+Oprindelig systemet var det homo gener, der var kernen løsningsmodel. Nu har vi et inhumane gen system.
+
+13:02
+Så ved vi fra vores lineære teori, at hvis jeg kan finde denne her kærne til det øverste system.
+
+13:09
+Altså en fuldstændig løsning til det inhumane indslag.
+
+13:11
+Så skal jeg bare gætte en eller anden løsning til det endnu homogene system ved at putte et Brexit splash,
+
+13:16
+således det giver kunne til hver ligning på den kage.
+
+13:20
+Det er det muligt. Så den ene løsning jeg har gættet.
+
+13:24
+Plus den fuldstændige løsning til det homogene. Det er den fuldstændig løsning til mit fortællings system.
+
+13:30
+Jeg vil hellere vise en ny sætning. Den er vist den følger direkte af vores lille ateist, så det at vide, at det her er en lineær afbildning.
+
+13:39
+Det sikrer os, at vi kan sige nej og løsning strukturen her,
+
+13:41
+og det får vi brug for til øvelserne i dag og til tema øvelsen på torsdag, for den handler om det her.
+
+13:54
+Det er jo ikke sige mere om dette med det indhold må gælde i dag.
+
+13:57
+For hvis vi kan løse det homogene, så kan der være forskellige metoder til at gætte en løsning havde selvfølgelig.
+
+14:02
+Helt så simpelt som før i tiden er galopperende fusioner på den politiske midte
+
+14:05
+pludselig igen på gæt på informationer på den harp og lystigt er ligninger.
+
+14:10
+Så det er ikke helt så simpelt.
+
+14:12
+Men det kunne være, at der var tricks og så videre til at hjælpe til at gætte enkel løsning og så længden til den fuldstændige nej.
+
+14:20
+Så langt, så godt. Lad os komme tilbage til dagens egentlige emne, nemlig hvordan finder vi så løsningen til det homogene system?
+
+14:29
+Og det er rigtig smart. Så den hedder jo så x mærke minus a x lig nul.
+
+14:48
+Det er vores hormonsystem system, og man kan rykke denne år. Og så har vi den form, vi skal have det på på den første tavle.
+
+14:55
+Skal de skrive det deres dette fuldt sande det samme som at sige at deres mærke er lig a ex.
+
+15:07
+Ja, ideen er den. At du kan lave nogle antagelser de antagelser skal jeg nok redegøre for senere i dag,
+
+15:15
+hvordan man slipper udenom, hvis man ramler ind i nogle af de her antagelser. Men den første antagelse, vi siger, er lavet.
+
+15:25
+Lavet der og det lyder så gammeldags. Hvis der findes.
+
+15:35
+En basis består af en basis bestående.
+
+15:44
+Er der basis for er en. Bestående.
+
+15:52
+Af egne vektorer. For A.
+
+16:03
+Ja, hvad gælder sig? Hvis der findes sådan en basis.
+
+16:11
+Hvis der venter en Bassekou en sidste linje har været. Når dig og gentagne forsøg.
+
+16:26
+Så findes altså hvis der findes sådan en basis bestående egne vektorer for matricen af har lad os sige den der basis den hedder.
+
+16:35
+Med basis. Og ved består af egne vektorerne ved et op til VM.
+
+16:43
+Det betød jo bare, at vi har egenværdier ænder i egenværdier med en tilhørende regler en vektorer.
+
+16:51
+Det vi laver nu, gælder faktisk også, hvis vi bare har nogle komplekse egenværdier komplekser egen vektorer.
+
+16:58
+Der kan derpå realisere vores matrix, så vi inkluderer sig selv det komplekse tilfælde.
+
+17:03
+Det vi laver nu, men så er det bare ingen basis for enhver.
+
+17:08
+Men hvis det nu var en basis for end hvad sker der så? Ja, så kan du finde en matrix, nemlig den der skifter fra V til 1.
+
+17:16
+Altså fra Baatz vektoren til standard basen hér som søjlerne her ved et.
+
+17:24
+Ved 2. Til VM.
+
+17:31
+Og jeg kan finde en diagonal matrix med egenværdier her i diagonalen langt slam, der to lag om dagen, når eller uden om der ser sådan her ud.
+
+17:44
+Hvis jeg skifter basis af det vil sige tager jeg tager min base.
+
+17:49
+Jeg ser min min DAB af matricer. Og nu skifter jeg så den, svarede værket til en afbrændes matricer fra 1 til 1.
+
+17:57
+Hvis jeg kan sagt andet hvis af en matrix jeg kan ganger på en vægt, ja 5, så er det jo 1 1 der går.
+
+18:03
+Fra en terrin kan man opfatte A som en afvænnings matrix for en anden, der gør det af nu, gør.
+
+18:12
+Så kan jeg skifte basis her E. V og her e vil den, og hvis jeg gør det.
+
+18:20
+Så ved jeg godt, at så får jeg ud af det her. Der får jeg så, men det kunne en matrix.
+
+18:27
+Søndag. Lad os nu lade være at tænke over det som afbildninger med bare sådan nogle matricer, og så lad os give dem nogle nye navne.
+
+18:34
+Så er det jo bare lige for at huske på at vande hang sammen det der med at afblæse patricierne.
+
+18:41
+Lad os prøve i stedet for at kalde denne her matrix for ved.
+
+18:49
+For ligesom ikke at have de her basarer med at være til, går den nu afdøde mand når med bare nogle matricer.
+
+18:54
+Så jeg denne over det, så ved minus først, da denne mand kalder stadigvæk for A og den da kan vi godt kalde lam der stadigvæk.
+
+19:03
+Så er vi ligesom afkoblet det herfra og hængt sammen med noget basis. Skifter man bare noget matrixmultiplikation?
+
+19:08
+Hvorfor er vi nu ved, at det her er faktisk en del af Matrix?
+
+19:14
+Fidusen ved at afkoble lidt fra det Abbasi skifte i første omgang er nu kunne det egentlig godt være nogle komplekse værdier der står i det,
+
+19:20
+eller der kunne stå nogle komplekse egne vektorer som søjler i V.
+
+19:24
+Det har vi ikke noget imod. Hvad sker der så jeg nu kommer?
+
+19:31
+Hvad har det med vores differentialligning systemer gør? Ja.
+
+19:45
+Du laver jeg en variabelt substitution. Jeg siger den vægtere her i vores differentiel, især hvis jeg slår lige de talentsystem op igen.
+
+19:55
+A. Ex. Denne vægtere her der hedder ex.
+
+20:00
+Den ganger jeg nu mave eller laver en ny variabel kalder y, som er givet som ved gang.
+
+20:07
+Man kan også skrive hvordan den nye variabel egentlig fremkommet gav i virkeligheden, så vi ved V.
+
+20:13
+Det er jo en invertibel matrix. Det var det, der var vores antagelse. Så hvis jeg ganger med V på venstre side her, så står der med minus første.
+
+20:23
+Gange Ex er lig med Y, så de nye variable har nogle ekstra funktioner, så de nye funktioner her er nogle.
+
+20:31
+Der er kombinationer af x funktionerne og lineære kombinationer på en sådan måde, at den er det bare ex gange den inverse tv.
+
+20:40
+Kan vi lige huske på vanviddet ved kom jeg ved.
+
+20:43
+Den bestod jo af egenvægt, turen i søjlerne, og så tager jeg sådan den inverse til den, som jo har fuld rang.
+
+20:50
+Det var vores antagelser. Hvis vi ikke har fuld rang, hvis der ikke egenvægt tur nok, så gælder denne metode ikke.
+
+20:57
+Og så kommer der senere. Hvad gør vi så? Det er også interessant tilfælde.
+
+21:02
+Men vi laver nogle nye variable, og de nye variable fremkommer bare som en kombination af eksterne, og indtil videre er det jo bare et trick.
+
+21:08
+Det halve ved ikke, hvor jeg skal køre hen. Men nu tager jeg så mit nye variable øy.
+
+21:15
+Variabler skifter dem ud. Hanni mit differentialligning. Så i stedet for ex hær, der står her.
+
+21:21
+Jamen, skal jeg skrive a gange og så i stedet for jeg ikke skal skrive.
+
+21:26
+V. Jeg erstatter bare det ekstra står her med min nye variabel, ved jeg ikke.
+
+21:35
+V Y er stadigvæk ukendt funktion som ikke, så er det bare nogle nye ukendte funktioner, men det er klart, at hvis erkender min nyre.
+
+21:42
+Jeg kender min ved matriklen. Jeg kender mit af matrix. Så har jeg min eksamen, så jeg kan finde dyrene sejr løst, for så kan jeg bare gang med.
+
+21:50
+Hvad så? Her skal vi huske på, at hvad er det egentlig, der sker, når vi ganger 1 1?
+
+21:54
+Denne søjle vægterne består af ukendte funktioner med en matrix V, der bare er tal.
+
+21:59
+Så er det jo Lara kombinationer er min y funktioner.
+
+22:04
+Hvad differentierer sådan lidt? Kombinationer sig derfra, siger lædervest og rykker alle konstant ud foran.
+
+22:08
+Det vil sige alle, der kommer ud for, at der sker ikke noget med V. Så det eneste der sker, er jeg egentlig siger.
+
+22:14
+Det har det jo så ved gange. Y. Differentieret.
+
+22:18
+Men det er bare konstanter der står foran eller anden narkoman, de passer ind i den sump de før siger vist, og rykker alle konstant foran.
+
+22:25
+Så så det her. Jeg ved, at V har en enhvers. Jeg kan gange ved en værst på venstre side.
+
+22:31
+Så står der tilbage at læse i mærke Ali ved enhvers gange af gangen ved gangen i.
+
+22:41
+Men hvad er ved mine ord første gang jeg ikke er uenig og det er jo en diagonal matrix.
+
+22:46
+Det er jo lambda, så jeg kan skrive det her som. Vi mærke.
+
+22:53
+Er lig med Lambda der ikke. Og lad os lige på at skrive dette differentialligningen system ud.
+
+23:01
+Hvad står der egentlig? Ja, der står. Y et mærke af tech to mærkater t op til y n mærke af T.
+
+23:15
+Er lig med, så skal jeg have min courgette matrice.
+
+23:19
+Det hedder i dette tilfælde lam, der hedder så lam, der et lam der 2 op til lam, der endte nul og uden om og så gang.
+
+23:27
+Nu kan det værktøj en y et rt optil y ender til.
+
+23:41
+Interessant nok fordi hvis jeg prøve at skrive ganget den søjle vektor ind på og skrive, hvad de enkelte rækker her siger,
+
+23:48
+ja så siger de at Y et mærke af T er lig med lambda et gange y et af ting i 2 to mærke, at det er lige lambda 2 gange i to af ting.
+
+24:04
+N mærke er T er lig med lam, der end gange i y ender til.
+
+24:14
+Det er rigtigt godt det her. Først skulle vi jo løse de der koblede differentialligninger.
+
+24:18
+Det vil sige løsningen af dem, den afledte er. Den første hånd afhænger af alle de andre.
+
+24:23
+Den afleder den anden og alle de andre, vi skal også løse dem samtidig fra en chance. Nu er vi afkoblet systemet, siger vi.
+
+24:29
+Systemet afkobling, fordi nu afhænger den første linje her faktisk kun af en ukendt funktion.
+
+24:35
+Denne løser vi så snildt som ingenting, for det er jo dem, vi kender. Den hedder jo så en eller anden arbitrære konstant gange i Lambda E.T.
+
+24:46
+Kan gange til. Det er jo løsningen til denne her.
+
+24:51
+Hvis man ikke lige kan huske det, så er det panser, formen eller det er os end dem, vi kender fra fra gymnasiet.
+
+24:57
+Den anden. Være den fuldstændig løsning til Dan hed den er set to gange indlagt af to til.
+
+25:06
+Og være den sidste ærindet. Ja, den er igen alting.
+
+25:15
+Den er set en gang i Lambda indtil Garissa.
+
+25:21
+Jamen, hvad så min ex. Hvad er min funktion? De ukendte funktioner, som vi egentlig søgte at øge, er jo nogle vi selv har indført.
+
+25:28
+Ja, min ex funktioner. Det er jo simpelthen bare givet som v gange Y.
+
+25:35
+Det er sammenhængen mellem eksrygere, Japan og ved funktionen. Det er jo den vægtere, der består af egenvægt.
+
+25:41
+Tårerne i diagonale. Hej egenvægt, turen er i søjlerne ganget med denne her.
+
+25:53
+Nu kan der vækster til et Grand Final i Lambda et til, og selv to gange må jeg skrive det med en ekspert.
+
+26:01
+Det er lidt nemmere. Da et glam metal XP club der to ting.
+
+26:10
+Optil serien af XP. Lambda indtil gange gange gang.
+
+26:18
+Så vi havde ventet at sejle væk, så ind på det her og ud af det,
+
+26:21
+får vi en Leynar kombination af dem her, og det er den fuldstændige løsning til vores hormonsystem.
+
+26:28
+Så kunne vi jo slutte forelæsningen og gå fordi der er ikke mere. Nu er det løst.
+
+26:33
+Problemet er bare der to ulemper.
+
+26:37
+Det er først O'Haire, hvis alle det der, hvis vi har en basis består af reelle egne vektorer og alle egenværdier eller reelle og kan.
+
+26:44
+Så er det fint. Så står løsningen her og som færdigt. Men hvis nogle af dem er komplekse og nogle af deres egne værdier er komplekse hus,
+
+26:53
+de optræder altid i et par af en egenværdi og et komplekst konjugerede med nogle reelle matricer.
+
+27:01
+Så har vi et problem, fordi som ingeniør vi fuldstændig ligeglad med disse komplekse egne af de egne vektorer.
+
+27:07
+Vi vil have et reelt. Vi lever i en og alt verden, der skal være en reelle løsning.
+
+27:11
+Hvordan får vi pillet ud blandt alle de mange komplekse løsninger for skred op?
+
+27:15
+Brandfolk piller lige præcis de reelle ud, som interesserer os den næste.
+
+27:19
+Det er det første problem, vi skal have løst. Det andet problem er Hvad nu, hvis der faktisk ikke er der, er der jo altså altid ind til et.
+
+27:27
+Det bliver karaktere, at legene bliver et angrebsmål, endda altid ende komplekser og reelle løsninger.
+
+27:31
+Det er alt bare en fundamental sætning eller i hvert fald et lemay til den.
+
+27:38
+Så hvad gør vi egentlig, hvis der så ikke er egen rectum nok?
+
+27:42
+Hvis nogle af dem faktisk har en geometrisk model, bliver sitet lavere end deres algebraiske.
+
+27:46
+Hvad stiller vi op med det her system? De to ting skal vi besvare.
+
+27:51
+Vi gør det med to gange to matricer for at gøre det simple bedst muligt. Men altså de ting vi gør, gælder uændret.
+
+27:56
+For højere ordens skyld stemmer, røgslør eller for flere linjer end 1 2, så melder en gør det, da tager vi lige at få afslag.
+
+28:06
+Hvordan får vi puttet en begyndelse? Svære betingelser ind i det her ved hvor den starter her.
+
+28:11
+Hvad er så? Egentlig værdien af de kontanter der hvor mange løsninger er der egentlig til en given begyndelse?
+
+28:21
+Det betænkte sig. Kønnene have i år.
+
+28:33
+Det kom til at kræve lidt plads. Så nu har vi taget systemer og systemer med, når sitet og nu kommer,
+
+28:46
+så det under placeringen er færdig med løsningen, og nu skal vi så i gang med begyndelsen betale sig.
+
+28:52
+Når det er overstået, så har vi de tre eksempler, der viser de her forskellige situationer.
+
+28:56
+Vi kom ud for to reelle tal komplekse og kun en reel, men ikke geometrisk som indspisthed nok.
+
+29:27
+Kiss Se hvad nu hvis vi kender værdien det.
+
+29:43
+Jeg kunne godt tænke mig at sige en ting herover. Der er måske ikke lige fik tak før lige her og bare lige kort at sige noget her.
+
+29:51
+Hvad skal der egentlig til for at løse det her? Det gør jeg måske ikke helt klart. For at løse sådan et system.
+
+29:56
+De fortalte os om det her. Så kan jeg se, der skal kun en Mabel kommando til i virkeligheden.
+
+30:00
+For hvis jeg skriver, hvis jeg tager min matrice af og skriver igen Bektas, hvad får jeg så ud?
+
+30:08
+Ja, så får jeg de egenværdier, jeg skal bruge her, og så får jeg de egne værktøjer ud.
+
+30:13
+Jeg skal skrive her. Tager ikke en væg, der løser systemet fuldstændigt.
+
+30:16
+For det er det eneste indgå i løsningen. Det Rønnow eksponentielle funktioner, som man skal skrive ind med det egne, værdierne og det egen vektorerne.
+
+30:23
+Når man kender egne ved de egne vektorer, og der er nok af dem, så har man fuldstændig lyst til en kommando som ikke investors på kokain.
+
+30:30
+Matricen A. Den giver hele løsning af vores system. Bare lige for at skære det helt ud i pap.
+
+30:38
+Men lad os gå tilbage til begyndelsen. Det er betingelsen, fordi når vi har løst og fundet en fuldstændig løsning,
+
+30:44
+som vil består af samtlige løsninger til systemet, så kunne det være interessant måske at finde en bestemt løsning.
+
+30:49
+Hvad mener man bestemt? Ja, en løsning, hvor man har et bestemt punkt, som ikke skal gå igennem.
+
+30:54
+Et andet punkt som X2 skal gå igen og i tredjeparten som X3 skal gå, ikke gentage sig, har ét ét punkt på samtlige løsnings kurdere.
+
+31:02
+Husk både ekser stor i 3 6 eller alle sammen funktioner.
+
+31:05
+Ting som vi kan tegne grafen for at vi kan forsvare alle, som så skal gå igennem et bestemt punkt til et bestemt tidspunkt.
+
+31:10
+Begyndelse med dem. Så jeg forestiller mig altså nu, at jeg kender til til noget.
+
+31:16
+Jeg kender værdien af. Skriv så nær kender værdien af except til tidspunktet til nul, og der kunne jeg kalde det et nul.
+
+31:28
+Det er nu et tal, erkender jeg. Både til nul, og jeg kender ikke til et nul, som er værdien af den i det punkt.
+
+31:33
+Og på samme måde kender jeg fra alle de andre op til xn i til nul til samme tid.
+
+31:38
+Her kender dannelser ex a 1 0. Så jeg kender et punkt på samtlige løse skår til samme tidspunkt.
+
+31:48
+Her hver fidusen ved det han nu poster, så jeg bestemte mine og deres set op til entydigt, at der kun er én løsning, der bestemmer det.
+
+31:56
+Hvorfor det? Jo, lad os prøve at gøre det, så jeg tager altså nu med en løsning, der som hedder erklærer dig.
+
+32:03
+Tag op til senere tag, som jo hedder V gange.
+
+32:11
+Mit nye værktøj, som jo hedder se ét gang e xp til Lambda et tjek op til Serie 1 gang i XP til lambda enotek.
+
+32:27
+Nu siger vi så at nu sætter værdien af til nul en. Her sætter værdien af til nul.
+
+32:33
+Så glæd sætter til nul. Den er ikke set nul. Exo er til nul.
+
+32:37
+Den er x2 nul optælle. Jeg kender til nullerne x1 nul til det nu.
+
+32:42
+Det her er pludselig ikke mere noget end nogle funktioner er simpel. Bare en stribe af tal, altså en søjle væk så jeg en.
+
+32:49
+Så står du herved, og så står der herover. Du står der, så sæt gange i XP til Lambda et ganget til nul.
+
+32:57
+Nu og helt ned til sagen ganger ikke XP til Lambda en guide til nul.
+
+33:07
+Se med her. Det var Martin Bell Matrix.
+
+33:12
+Det var det der var ligesom betingelsen for at løsning strukturen så sådan her ud, for det var der, hvor der var egenvægt turen nok.
+
+33:18
+Fordi ligner jo hænge en invertibel matrix, så hvis ser nu streger hvert år eller ganger med ved minus første på begge sider,
+
+33:24
+så kommer vi i minus de første år, og så forsvinder den her. Det er en invertibel matrix, det er det igen.
+
+33:30
+En ny søjle vækster med tal i entydigt bestemt ud fra den første ved det gamle invertibel c index CPT lam der et lam eller et talje.
+
+33:40
+Når vi har en moster til nul også dette tal, så de æg spiller det bare tal, der står her.
+
+33:46
+Så nu skal altså et tal, der står i første søjle her. Hvad lige med det her?
+
+33:50
+Jamen, det kan bestemmes inden tid, for vi kan bare dividere denne ord og det gode, at der står expat til noget, så den aldrig nul.
+
+33:57
+Så vi havner ikke i en situation, hvor der er nul have set set være, hvad den skulle være,
+
+34:01
+så vi kan dividere med samtlige de dage ekspert hæver på den på disse.
+
+34:06
+På denne søjle vægter så, så på den måde kan vi så bestemt se et entydigt ved dividere den 8.
+
+34:12
+Først en gang har jeg set det gør sammen med C2 og hendes SN tager et bestemt sted til 2 og PSL entydigt.
+
+34:18
+Så givet et sæt af værdier til det samme tidspunkt, så ikke en bestemt almen konstanter entydigt.
+
+34:25
+Så det er altså kun en løsning til sådan et system, der går gennem.
+
+34:31
+Hvor alle lysdesigneren går igennem nogle punkter her til samme tidspunkt er.
+
+34:39
+Godt så det er entydighed. Vi ved også, at når vi kender en begyndtes, fordi vi har vores system, så er der kun én løsning.
+
+34:44
+Er det rigtigt, når vi har egne værktøjer nok?
+
+34:48
+Det er også rigtigt, når du ikke investerer nok. Men argumentet her er det andet.
+
+34:53
+Men nu har vi i hvert fald lige kort redegjort for det her. Eventuelt kunne det jo være sådan.
+
+34:57
+Den ene løsning er kompleks, men sådan er det ikke.
+
+34:59
+Den er faktisk reelt fed, selv om at nogle af de reelle mest når vi siger, at vi har for komplekse løsninger ud.
+
+35:06
+Men vi har et reelt udgangspunkt bedre end en reelt vektor her.
+
+35:11
+At de tager reelle værdier til bestemte tidspunkt, så bliver løsningerne faktisk reelle. Så forsvinder imaginære delen alle løsningerne.
+
+35:17
+Men det skal vi se mere generelt nu her. Når vi går i gang med de tre eksempler.
+
+35:24
+Når. Hvad er klokken godt lige nu at tage det første?
+
+35:32
+Så. Nu kan vi vist godt hvis planen ud og stå bare tre eksemplarer Mabel tilbage.
+
+35:55
+Eksemplet og jeg gør det sådan, at først så tager jeg et, hvor det bare hedder bogstaver.
+
+36:02
+Altså jeg regner på bogstaverne, og så går jeg over til at putte nogle tal ind og ser hvordan sig ud med tal.
+
+36:08
+Og det første er det. Alle disse tre eksempler er allesammen to gange to matricer.
+
+36:13
+Så der er tre eksempler med to gange to matricer, så hvad laver man som et større system?
+
+36:17
+Det er det samme. Det var der mere skriver, så det første eksempel er Vi har et system.
+
+36:25
+Ex Ali a ex. Og der er to.
+
+36:33
+2. Hvad hedder det forskellig, men jeg tog.
+
+36:40
+Der er to reelle egenværdier.
+
+36:48
+For A. Som leder så der et og lam da to.
+
+36:57
+Og de kunne godt være ens Demontis vil gerne være med, der skal gælde,
+
+37:01
+at den summen af alle de geometriske multiple citater er min lambda der det skal give to.
+
+37:10
+Det betyder, at hvis de forskellige. Jamen så er denne her sum automatisk to, for det hører egenvægt sig til hverdagen med.
+
+37:16
+Er det eventuelt ens? Jamen, så skal vi lige sikre sig den ene egentlig, der har den midterste multiplex til to.
+
+37:24
+Det får vi, når vi regner på den. Hvor mange regner i topform? Ja.
+
+37:33
+Altså herover. Jo, jo, det er ikke svært, når jeg skrev, at jeg ikke godt. Jeg mærkede selvfølgelig.
+
+37:40
+Ja, hvad gør vi så nu? Jeg vil faktisk skrive vores løsning op.
+
+37:45
+Så ved jeg, at min løsning uden at regne yderligere. Den er påfølgende form så skånsomt vektorer.
+
+37:55
+Ja, den hedder så V. Gange denne her en ekspert til lambda et tag.
+
+38:07
+Og så hænger XP til langt og to ting.
+
+38:12
+Og hvis man nu vil skrive derude, hvordan ganger jeg egentlig en matrix med en søjle vektor, og hvordan ser denne matrix egentlig ud?
+
+38:18
+Ja, min matrix. Medierne består jo af mine to egne vektorer, som da to af de betingelser der er per.
+
+38:27
+Så kan vi skrive denne her som denne her gang. Den første passer på min sæt af mental to, så kan den som CS Grand E XP til lambda et tag.
+
+38:43
+Ganget med den første egenvægt. Plus to ganger i XP til Lambda to til.
+
+38:54
+Ganget med den anden har en rektor. Det er jo sådan vi udfører et matrix søjler product.
+
+39:03
+Hogan. Det var generelt hvis vi har to reelle egner, så ser løsningen som det ud.
+
+39:11
+Så lad os lave et helt konkret eksempel. Så lad os prøve at tage det her system er.
+
+39:19
+Når du tager mit papir. For jeg gider ikke at udregne egne værdierne.
+
+39:24
+Jeg vil simpelthen bare tage dem. City har iøvrigt. Så vi tager en et system som hedder ex et mærke.
+
+39:35
+Eller. Jo x et mærke rt.
+
+39:41
+At lege med sætter til plus to 2 2 til.
+
+39:49
+Og så X2 mærket til, som så hedder 3 dig til.
+
+39:56
+Klub og ikke mindst se. Det har været koblet til mig selv i system.
+
+40:02
+Hvis man får lyst til leg. Vi kan ikke rigtig komme i gang. Der ser nærmest afkoble ud, men det er den ikke, fordi det er den anden variabel.
+
+40:09
+Den afhænger af, hvis der er slået X2 af til her, så har det været simpelt, og så kan jeg løse den på et eller andet løst leder, at det kan jeg ikke.
+
+40:17
+Matricen til dette a. Den kan vel aflæse den er 1 2, 3 0, 1 2, 3 0.
+
+40:27
+Egenværdi, når denne bliver opdaget og lagt 2.
+
+40:33
+Skal jeg bare tage dem her? Givet den ged være til grin ned i hånden, gør vi det.
+
+40:39
+Hvis nogen gerne vil se modregnet i hånden alle skridt, så gør det i pausen, og så har vi en egenvægt, så her vil et.
+
+40:48
+Som hedder Jeg har gjort det her med Mabel, er jeg ikke sikker på, jeg har, men det kunne jeg ikke godt ved eller ved.
+
+40:56
+2, som hedder et et.
+
+41:03
+Nu lade lidt sjovere at have gjort mig, det har jeg selvfølgelig gjort i Mabel, det derfor ville være fuldstændig åndssvagt at bruge Mabel til det.
+
+41:09
+Men forklaringen på det, der følger ved tavlen i pausen. Hvis nogen vil vide, hvorfor det kan aflæses.
+
+41:14
+Alt dette kan nærmest aflæses direkte her uden at regne. Men det vil vi gøre nu.
+
+41:22
+Ja, hvad så nu skal vi vasket vores løsning op, fordi nu har vi alt vi skal bruge, og måden vi skriver vores løsning op på, det står her.
+
+41:31
+Ja, ikke sætter til. Der er ikke stort.
+
+41:39
+Jeg ved jeg ikke sætter til. Jeg har ikke set dig til.
+
+41:44
+Nej, det kan jeg ikke stå her. Så tag en tavle mere inden pausen.
+
+42:12
+Jeg kender til er over i stort set.
+
+42:19
+Er nu som følger. Det står jo her hvordan man laver den.
+
+42:24
+Stå her. Jeg skal tage en anden arbitrære forstand set. Så skal jeg gange med en ekspert til Lapland til lam.
+
+42:32
+Der er minus to til. Så skal jeg gange med egne vægteren ved.
+
+42:37
+Den hedder 2 minus 3. Plus, så skal jeg tage, står der selv to gange en til lam der to til ham, der tog den af tre gange med.
+
+42:50
+Og så vil to, der hedder et et tog, siger ost, altså egenværdier.
+
+42:55
+De ligger fast. Der kan vi ikke vælge. Hvad er nu slået valgt nogle andre faktorer.
+
+42:59
+De ligger jo ikke fast. Det er vejen væk, så det er en egen vektor. Jamen, det er ligegyldigt, for vi kan jo tage derhen med.
+
+43:05
+Kan man altid gange døgnvagt tage hørende tegn med i nærværet med et tal? 7 vil hedde 7 7.
+
+43:10
+Jamen så får du noget andet her? Ja, men jeg har jo et arbitrære konstant til at hjælpe mig herude.
+
+43:15
+Det vil altid være så arbitrær konstante. De kan jo så absorbere det, vi eventuelt har givet, så det er altså kun én.
+
+43:23
+Det giver mig et end en ny løsning, hver gang man er en egenvægten. Fordi det giver mig bare en ny arbitrære konstant.
+
+43:28
+Man skal finde en eller anden givet løsning gennem et fast punkt, men giver en begyndelse spændt, hvad de betingelser.
+
+43:35
+Så vil de få den samme løn, hvis jeg har givet hende en begyndelse.
+
+43:37
+De ting, som vi alle sammen får den samme løsning ud, når jeg regner på den med deres arbitrær konstanter.
+
+43:42
+Det kan vi jo altid gange med med konstant og vilkårlig ind igen vil det svare til at forlænge dit egen vektorer med tal.
+
+43:49
+Ja, så. Når vi vælger en række faktorer.
+
+43:56
+Nej, for at se at det gør det. Det der var vigtigt er, at den egenvægt står her.
+
+44:00
+Det fører til den egenvægt, jeg står dér og med.
+
+44:03
+Så lægger dem sammen i Danmark, for det er de, der hedder arbitrære, kontant og bare noget andet end ikke sidder.
+
+44:08
+Den, der havde så to her set forskrifterne. Så ingen effekt.
+
+44:12
+Og så er jeg et Cozy. Jamen, jeg synes det der med vektorer og funktion jo hellere skal.
+
+44:16
+Ved hvad min except funktion er. Det kan vi godt fordi except funktion hvad er den så?
+
+44:21
+Den reelle funktion vi kan tegne grafen for? Ja, den er jo så at sige ét gang af XP til minus to til ganget.
+
+44:30
+Første koordinaten opgange 2 plus C2 gange eksport til tre til gange.
+
+44:37
+Første koordinaten som er ét og hver X2 af ting. Så sæt dit nedre stræk i XP til minus to tal ganget med minus tre.
+
+44:53
+Plus to gange i eksport til tre til gange ét fornavn, men dette kunne du ikke bare smide den ind i den arbitrære konstant.
+
+45:02
+Når du lige har stået taler ved et nej, det kan jeg ikke, fordi bemærkede den samme arbejdstager konstant at stå dér dér,
+
+45:09
+så de tal vi ganger på her, står to minutter, står faktisk sætter et.
+
+45:14
+Det giver. Hvor meget er forholdet af disse funktioner, der indgår i de to løsninger, som citerer siger noget om, hvor meget?
+
+45:21
+Hvor meget indgår da at den her funktion her og denne funktion her i except løsning i forhold til exo løsning.
+
+45:30
+Så hvis vi eventuelt puttede den der ind i Napata konstant til ét, så kaldte den en ny konstant vokalt set stjerner, der bestod af sæt gang.
+
+45:36
+2. Jamen, så skulle vi også ændre set stjerne herned, og så ville vi få en anden ting der.
+
+45:41
+Og det ville i virkeligheden svare til, at vi bare havde valgt en egenvægt. Så hvad et højre ikke?
+
+45:46
+Det kan vi godt. Men skal vi også gang i den, da solen er nede ved minus 3 halve?
+
+45:51
+Man kan jo godt tage den megen vægt, så vi har gang igennem med en halv pasform.
+
+45:55
+Man må gerne ændre vælge nogle andre egne vektorer her for at aftale, at vi kan stå imod som enkle løsninger.
+
+46:02
+Så skal vi passe på. Så må vi altså ikke bare flytte de tal, som der egentlig står nogle fuldstændig tilfældige konstanter her,
+
+46:07
+for det er den samme tilfældige konstant, der står på begge to års pause indtil helt.

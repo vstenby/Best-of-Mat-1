@@ -1,0 +1,1154 @@
+0:09
+Brinck er derfor morgen lille da, og det er en særlig lille dag, for i dag skal vi nemlig at afslutte det forløb, vi har haft med ren lineær algebra.
+
+0:21
+Og så i næste uge. Som sagt, så er det jo differentialligninger, hvor vi skal se,
+
+0:25
+hvad vi kan bruge lidt raritet og så videre til, når vi snakker om differentialligning systemer.
+
+0:30
+Men programmet i dag er jo ligesom stor, da det er symmetriske matricer Gram Smidt og den slags sten,
+
+0:40
+og vi starter ud med den opgave i havet allersidst.
+
+0:44
+Der blev der introduceret begrebet det ortogonale komplement, og det er altså den første del af det er altså det.
+
+0:54
+Det er måske den største del af forelæsningen i dag, der handler om det,
+
+0:58
+og så skal vi så se lidt på nogle illustrationer, og som i år skal arbejde med i øvelses programmet i dag.
+
+1:06
+Så det sidste det kan I så betragte som en let introduktion til det.
+
+1:10
+Så altså det bliver lidt et et årigt liv med disse matricer, som vi har fundet frem til.
+
+1:17
+Men vi starter altså med det ortogonale komplement, og vi siger, at I er en.
+
+1:29
+Da er der givet et underrum. God.
+
+1:35
+Og så ved det ortogonale komplement. Til U.
+
+1:53
+Derfor står vi, så skriver vi sådan her.
+
+1:59
+U komplement. Det ser lidt sjovt ud.
+
+2:05
+Det er bogstaver. Men det er bare sådan lidt et symbol, man bruger for vinkelrette.
+
+2:12
+Så det er også canal komplement. Det er så det.
+
+2:15
+Alle de værktøjer, som ligger i, er en bog om der gælder, at u gange med V er nul for alle U der ligger i U.
+
+2:37
+Sådan er det så med andre ord.
+
+2:43
+Det er ortogonale komplement til u. Det alle de vektorer i vektor rummet, som er ortogonale på alle de vektorer vi har i det oprindelige u.
+
+2:56
+Så lad os straks begynde med at kigge på eksempler og vi starter i planerne.
+
+3:08
+Vi kan også sige er 2. Det er to sider af samme sag.
+
+3:15
+Så lad os sige, at der er givet en vægt V, og så betragter vi det underrum, som er spændende, er vi.
+
+3:42
+Og lad os prøve at tegne den op som sædvanlig.
+
+3:45
+Så går vi ud fra et referencepunkt i planen, nemlig vores ord i går, og der er forstøver traditionen så at vores spindoktorer.
+
+3:57
+De skal altid tegnes ud fra O. Så lad os sige, at her har jeg så vektoren V.
+
+4:09
+Og så er det jo, vi taler om spanden. Og når vi skal illustrere det i planen, så tegner vi det jo som en ret linje.
+
+4:24
+Så kan I se her, der har jeg altså spanden er vektoren V, og det var mit underrum O.
+
+4:33
+Så hvad mener jeg egentlig med, at det er en linje? Ja.
+
+4:37
+Dermed mener jeg, at alle de vektorer, som tilhører dette underrum.
+
+4:43
+De har deres endepunkt på den linje, altså vi afsætter dem fra O.
+
+4:48
+Og så skal den altså have endepunkt på linjen og de vektorer de kan gå ud til begge sider,
+
+4:54
+så I kan se det uendeligt mange vektorer, som ligger i dette underrum.
+
+5:02
+Når vi så skal have det så godnat komplement, så er det selvfølgelig også en ret linje,
+
+5:09
+og den står vinkelret i origo på den linje, jeg har tegnet her.
+
+5:14
+Så med andre ord den linje, jeg har tegnet her.
+
+5:24
+Det er det ortogonale komplement, og den skulle være 90 grader.
+
+5:31
+Den lille jeg har tegnet her, og det betyder de vektorer, som hører med til det ortogonale komplement.
+
+5:37
+Det er alle de vektorer, som når jeg afsætter dem fra origo, så havner de på den linje.
+
+5:43
+Det kunne for eksempel være den eller det kunne være den da uendeligt mange.
+
+5:51
+Men vi skal jo ligesom have udtrykt det her og en nem måde at udtrykke dette komplement på.
+
+5:57
+Det er jo simpelt hen, og nu vælger vi en basis for det underrum, og det kunne jo være sværvægteren.
+
+6:09
+Og så vil det altså sige at det ortogonale komplement her i planen.
+
+6:17
+Det er simpelt hen ud spændingen, at sværvægteren vi så sådan dér.
+
+6:27
+Vi kan jo så se også, at dimensionen af U.
+
+6:35
+Det var jo altså spand. Og som sagt det var en linje, så dimensionen den er jo altså en.
+
+6:42
+Og det samme gælder selvfølgelig for dimensionen af komplementere.
+
+6:47
+Det var også en linje, og så giver den en. Så er der lige en vigtig ting.
+
+6:53
+Hvis jeg nu lægger de to dimensioner sammen, så giver det 2.
+
+6:59
+Og det er jo altså den dimension, vi startede med. Men bemærk selv om summen af de to underrum, at de giver 2.
+
+7:09
+Så betyder det jo ikke, at alle vektorer i planen ligger i et underrum.
+
+7:15
+Der var masser af vektorer, som ikke ligger i disse underrum. Jeg kunne jo for eksempel bare tegne en væg så her.
+
+7:22
+Der ligger hverken i den ene eller den anden, så det er lidt pudsigt, ikke sandt.
+
+7:25
+Men nu må I lige vænne sig til. Altså at den dimension kan godt være to, uden at de to underrum af de under det indeholder alle vektorer.
+
+7:34
+Der var mange flere, der ligger uden for de 200 år. Faktisk. Vi går nu til rummet.
+
+7:48
+Som vi kan forbinde med 3 og lad os sige det nu kan vi betragte altså vægteren ved.
+
+8:03
+Det kunne være en komma minus 2,3, og så siger vi, og det vi nu gerne vil, det er at finde det ortogonale komplement.
+
+8:23
+Nå, O. Det er Spahn V. Det er opgaven igen som før.
+
+8:38
+Vi kigger lige på vores referencepunkt origo og derudefra der afsætter vi så vores, svigter vi.
+
+8:51
+Og det er jo klart at ved denne er normalvægt tough for en plan, som går igennem origo.
+
+8:59
+Så skal vi lige prøve at tegne sådan en plan igen.
+
+9:08
+Altså planen skal jo strække sig så uendeligt i alle retninger.
+
+9:11
+Men nu er det jo bare for at kunne illustrere den, at jeg har tegnet den her som et rektangel.
+
+9:17
+Så ja, så har vi gjort det.
+
+9:22
+Og igen spanden v. Det er jo en ret linje.
+
+9:28
+Så her har vi altså mit underrum, min kæreste. Og så er det klart, at alle de faktorer som ligger i den plan.
+
+9:38
+Det må så være det ortogonale komplement. Så nu tegn.
+
+9:43
+Nu skriver jeg altså her ud med det symbol.
+
+9:47
+Så det betyder altså, at at alle de vektorer, der ligger i den plan.
+
+9:56
+Det er dem, der udgør det ortogonale komplement. Og her kan I godt se, at U altså er ortogonale komplement.
+
+10:09
+Det er en plan som har V, som normalt vægter.
+
+10:29
+Så det er altså en plan. Og så tror jeg godt I kan huske fra gymnasiet.
+
+10:33
+Der er noget, der hedder ligningen for en plan.
+
+10:43
+Og den ser jo sådan her ud a gange med x minus x0 plus b gange med y minus nul plus c gange med z minus z.
+
+10:56
+Nul er lig med nul.
+
+11:06
+C leger med den plan jeg har tegnet her.
+
+11:09
+Den går igennem ord i går, så kan vi jo sige, at x nul komma øy nul komma set nul.
+
+11:17
+At det er bare ordet god, så det vil sige de går i nul. Og så kan I sikkert også godt huske at A, B og C i denne her ligning.
+
+11:27
+De angiver en normalvægt, så til planen.
+
+11:31
+Så hvis vi nu går videre, så med den her normalvægt, som vi har her, så får vi altså at 1 gange med X minus to gange med Y Plus tre gange med Z er,
+
+11:53
+at det skal være lig med nul, så det har vi altså udtrykt det ortogonale komplement ved hjælp af en ligning for en plan.
+
+12:07
+Men vi ville jo gerne have udtrykt det ved hjælp af vektorer.
+
+12:12
+Og hvordan er det så lige vi gør det? Jo, vi isolere X.
+
+12:18
+På venstre side flytter de to andre over to uden minus tre sæt.
+
+12:29
+Og så kender I modellen. Nu skal vi altså have udtrykt x, y, z, tømt og by.
+
+12:41
+Det er så en fri parameter. S z er en anden fri parameter, så det her det bliver altså S ganget med en vektor plus t ganget med en vektor.
+
+12:57
+Og ja, her får vi så en nul, og det får vi 1 og 0, og så skal vi altså bare se.
+
+13:05
+Så får vi altså to tallet på det her sted, og det er minus tre.
+
+13:11
+Det ryger her op, og nu kan vi så udtrykke det, tog Ronald Komplement.
+
+13:21
+For det ville jo så være Spahn, at de to uspændende vektorer altså to kom 1,0 og minus tre komma nul komma.
+
+13:36
+Så er det så igen.
+
+13:45
+Så lægger I mærke til, at jeg startede ude med et ene dæmonisk, sølle endimensionalt underrum.
+
+13:52
+Det var den rette linje og så dimensionen af komplement.
+
+13:57
+Det var to. Og det skal selvfølgelig være lig med tre, nemlig det værktøj rå dimension, som vi er i.
+
+14:17
+Eller selvfølgelig. Det kan jeg bare. Altså det kan I godt indse i det her tilfælde.
+
+14:25
+Okay, vi tager et eksempel mere. Vi siger.
+
+14:45
+Vi betragter nu to vektorer u ét og U2 i planen.
+
+14:51
+Nej, I er 3 mener de to vektorer udspænder et underrum.
+
+15:01
+Så her har I så. Her kunne vi sige Her har vi u et.
+
+15:09
+Det har vi U2, og de er selvfølgelig som altid afsat ud fra ord i går, da de udspænder en plan.
+
+15:22
+Og hvordan kan vi illustrere den? Ja, det er jo lidt svært.
+
+15:26
+Men den plan, som de udspænder, den indeholder i hvert fald det parallelogram, jeg har tegnet her.
+
+15:36
+Og så you er altså meget, meget mere, så det kan vi så sige det jeg har tegnet her.
+
+15:43
+Det er så det. Det underrum, vi nu betragter. Altså U er spande af de to givne vektorer u ét og U2.
+
+15:59
+Nu skal vi så have fat i det ortogonale komplement til den plan, vi har tegnet her.
+
+16:06
+Og det må jo være en ret linje, som er vinklet ret på.
+
+16:15
+Så i dette tilfælde da er komplementære. Det er så endimensionalt, og så skal vi igen have udtrykt dette ved hjælp af vektorer,
+
+16:29
+og det er der nærmest er jo sige vi ved jo at krydsproduktet det er vinkelrette både på UIP og på U2.
+
+16:37
+Så hvis jeg nu prøver her og tegner. Her krydsproduktet u EP krydset med U2.
+
+16:49
+Så kan I altså se, at det der gælder det er at det ortogonale komplement.
+
+16:59
+Det er lig med spændende udspil ingen af krydsproduktet er så u EP cruisede med U2, så er der igen dimensionerne af de tre.
+
+17:25
+Se når vi snakker om det ortogonale komplement i planen og i rummet, så kan I se.
+
+17:31
+Så er det faktisk meget nemt at finde det ortogonale komplement ud fra de metoder.
+
+17:36
+I kender allerede. Det var noget med sværvægtere. Det var noget med planens ligning, og det var noget med krydsproduktet.
+
+17:45
+Fint nok, og det bruger man jo i de situationer, hvor man skal have hurtige resultater i planen og rummet.
+
+17:53
+Men det er jo klart, at hvis vi så går op I er fire, er fem og så videre, og vi skal have fat i det ortogonale komplement.
+
+18:01
+Så begynder vi at skulle have fat i en mere generel metode,
+
+18:06
+og det er en fornøjelse for mig nu at fortælle jer om en generel metode til at finde det ortogonale komplement.
+
+18:15
+Og det gør vi i gennem et eksempel, hvor vi ligesom teoretiseret lidt over det.
+
+18:21
+Et af de spørgsmål, jeg godt kunne tænke mig at få besvaret hen af vejen her, er var det en tilfældighed,
+
+18:27
+at dimensionen under rummet og dets ortogonale komplement, at det altid var to i planen og altid tre i rummet.
+
+18:37
+Skal vi prøve og huske en af dem på ændre den med.
+
+18:43
+Vi går nu til generel metode. Jeg gør og vi siger vi tager et eksempel.
+
+18:57
+Altså ligesom det stempel, der var i den sidste opgave på aktivitets programmet fra store dag.
+
+19:02
+Så tager vi nu et eksempel fra 4. Og så vi siger, I er fire.
+
+19:11
+Der er et underrum u. Udspændt er følgende vektorer.
+
+19:24
+Vi har en vektor u et som er lig med 1 1 1 1.
+
+19:35
+Og vi har en vigtig U2 som er tredje en 1 3.
+
+19:44
+Og endelig så har vi en vektor out tre, som er to 0 0 2.
+
+20:03
+Så nu vil vi altså gerne finde det op til Ronald Komplement til det underrum, der er udspændt af disse tre vektorer.
+
+20:14
+De har jo faktisk ikke engang undersøgt om det underrum, om det er tredje tredimensionalt.
+
+20:20
+Det har vi ikke afprøvet endnu, men det kan være, vi kan finde ud af det hen ad vejen.
+
+20:24
+I hvert fald i den opgave, vi havde i på Store, da vi sige noget nået så langt i programmet.
+
+20:29
+Så var det underrum, det var tredimensionalt. Vil vi prøve at kigge på, hvordan det her ser ud?
+
+20:38
+Hvordan kan vi så finde det her? Og så burde alle komplement. Det er det, vi ligesom skal prøve at finde ud af.
+
+20:43
+Og så er min første pointe, der viser sig, hvis vi finder en vektor x, som opfylder at u et prikkede med X, hvis den er nul bs.
+
+21:12
+To gange med ex. Hvis den er nul. Og hvis U3 prikket med X er lig med nul.
+
+21:22
+Altså hvis vi kan finde en digter som er parallelt på den, når undskyld ved ret på den,
+
+21:29
+hvilken grad på den og hvilken ret på den, så er min påstand, at så vil den digter eks.
+
+21:36
+Hvert bind med ret på hele underrum med. Det er min påstand.
+
+21:55
+I. Og skal vi? Det viser vi lige.
+
+22:06
+Så det beviser vi ved, at nu tager vi et vilkårligt vægtere i dette underrum, og det må jo så være en busbetjening af de tre vektorer her.
+
+22:15
+Så nu tager jeg altså en vektor, der hedder a.
+
+22:21
+Gange med et plus h.
+
+22:26
+Det er jo altså et tal, så der må endelig ikke være streger under. Altså a up plus b, U2 plus c U3 streg under vektorerne og det andre.
+
+22:42
+Det er jo bare nogle koefficienter, som SI nu har. Nu har jeg altså udtrykt her en vilkårlig lille kombination af de tre vektorer.
+
+22:52
+Hvis jeg nu prikker den med ex, så gælder der regneregler for prikproduktet og siger, at når vi skal prikke en summen af vektorer bag en væg,
+
+23:04
+så så har jeg altså lov til at så at sige ganget inspektøren en på hver af de tre led.
+
+23:11
+Sådan her. Og så får vi a gange u ét.
+
+23:17
+Det er ikke svigter. Plus det U2 prikkede ikke svigter.
+
+23:29
+Plus se ut. Tre prikket med X svigter sammen der.
+
+23:41
+Og så kan jeg godt se. Så viser det sig netop, at fordi hver af dem her.
+
+23:47
+De giver nul, så får vi jo altså nul dér hvor vi får nul dér.
+
+23:53
+Og vi får nul dér. Så det vil altså sige, at så står eks os vinkelrette på den Leynar kombination af de tre.
+
+24:00
+Vi har det, og den giver nul. Og så har jeg bevist, at jeg gerne ville.
+
+24:09
+Så nu skal vi til at tænke os lidt om. For hvad er så egentlig den opgave, vi har stillet os?
+
+24:17
+Vi skal finde alle de vektorer, som er vindkraft.
+
+24:21
+For dem som er hvilken ret på den, så med hvilken ret.
+
+24:25
+Fordi så ved vi så, at de vinkelrette på alle de dér vektorer. Men hvordan kan vi gøre det, når jeg har jeg, har vi lært.
+
+24:40
+Lad os lave et lille eksperiment her, der nu skal være.
+
+24:46
+For ligesom at lave de dér prikproduktet bag, så skriver jeg dem op som række lektorer.
+
+25:02
+Her. Og så vil jeg nu gerne prædike hver af dem, men den ukendte vægter ex.
+
+25:16
+Så lad os sige, at nu skriver vi her den ukendte vægtere som ex.
+
+25:20
+Et X2, x3, x4.
+
+25:28
+Og hvad er det vi gerne vil? Jo, vi gjorde netop gerne have, at den første dør fra mit underrum prikkede med den.
+
+25:36
+Det skal give nul. Og når jeg tager den anden vægt, så for mit underrum prikker med den ukendte.
+
+25:45
+Så skal vi give nul den tredje prikket med.
+
+25:50
+Den ukendte værktøjer skal give nul. Så er det åbenbart det her der skal gælde.
+
+26:04
+Jeg vil lige prøve at overveje hvad er det egentlig vi har gang i? Her er nogle af jer, der har et forslag.
+
+26:10
+Har I set det før? Altså noget mad.
+
+26:19
+Vi skal finde alle de værktøjer, som bliver sendt hen i nul vektoren.
+
+26:26
+Derfor ser du det, kongen forsøger i os selv.
+
+26:33
+Hvordan kan vi udtrykke det? Lad os lige se.
+
+26:39
+Vi er jo ude efter det ortogonale komplement.
+
+26:45
+Så bliver der sagt kernen.
+
+26:52
+For vejret hvad var det vi havde lavet her, når vi starter ud med de tre brug et U2 tre vektorer, så vi lavede os en matrix,
+
+27:03
+der består af de tre vektorer, og de skal selvfølgelig som sædvanligt forstås som søjler, og derfor så skriver vi lige en transponering.
+
+27:18
+Så har vi formlen for det Autobahn Ronald Komplement.
+
+27:24
+Det er det samme som at finde kernen for den transponerede matrix og de vektorer, som udspænder enorme.
+
+27:35
+Så hvordan var det nu vi havde en dimension sætning, der sagde at dimensionen af det oprindelige rum den skulle være lig med dimensionen, er kernen.
+
+27:56
+Knust hvad var det nu når dimensionen af billede rummede da husstand?
+
+28:07
+Det var dimension sætningen her.
+
+28:13
+For det har altså her fire skulle så være lig med dimensionen og kernen, som jo så må være dimensionen af det ortogonale komplement.
+
+28:30
+For så var der lige med dette. Hvordan var det nu vi fandt?
+
+28:36
+Hvordan var det nu vi fandt dimensionen af billedet rummet?
+
+28:42
+Ja, hvad ser du? Ja, det er rangen af den hyre jeg ikke den sige, at så skal vi jo altså have fundet ud af, hvad randen af denne matrix er,
+
+28:57
+og det ville jo være antallet af ledende ettaller, når vi er færdige med at reducere denne her matrix.
+
+29:07
+Når jo, men antallet af ledende ettaller det må jo så også være det samme som hvor mange af de tre lektorer her er egentlig lineært uafhængige.
+
+29:19
+Det finder vi også ved hjælp af de ledende ettaller. Så det vil sige rangen af den matrix, der er det samme som dimensionen med underrum.
+
+29:31
+Vi snakker. Sådan det skal vi gerne have til at passe.
+
+29:41
+Men skal vi lige her generelt sige hvad er det egentlig, vi har argumenteret for?
+
+29:48
+Det er, at I er en masse.
+
+29:54
+Altså at I er en. Der har vi altså.
+
+29:58
+Okay er det selvfølgelig lidt banalt også, men den er altså dimensionen af U Kluges dimensionen at ortogonale komplement.
+
+30:12
+Sådan da. Og selvfølgelig kunne jeg også bare skrevet ind.
+
+30:18
+Men det er altså bare for ligesom at understrege, at her betragter vi et vilkårligt væg til rum, og vi betragter en vilkårlig underrum.
+
+30:27
+Og så kan vi se, at dimensionen af det ortogonale komplement sammen med O skal summe op til en dag,
+
+30:36
+hvor ligesom det vi snakker lidt løst om tidligere i forelæsningen. Så hvad er nu næste skridt?
+
+30:52
+Ja, næste skridt, det må jo være at vi finder den erkendende.
+
+30:57
+Så er vi tilbage igen til en total matrix, og hvor vi skal lave noget Gauss elimination, så skal vi prøve.
+
+31:06
+Det er jo et homogent lineære udligningssystem. Vi har 1 1, 1 1 fra siden og nul, og så har vi et tre, 1, 1, tre og nul.
+
+31:19
+Og så har vi to 0. 0 og 2.
+
+31:24
+Og nul. Vi er lige det hvad skal vi?
+
+31:30
+Vi skal sige ja, er to minus tre er ét og vi skal sige er tre minus to er et.
+
+31:43
+Så vi beholder lige den første række her, og vi ganger altså den med minus tre og lægger til i anden række her.
+
+31:56
+Og så må den give noget Bios tre +1.
+
+32:00
+Det giver minus to. Det samme her og minus én gang tre og plus tre giver nul.
+
+32:08
+Og så har vi altså en nul her og ikke.
+
+32:11
+Og så prøver vi også at sige første række gange med minus to, som vi lægger til den nederste række, og da kan I se.
+
+32:20
+Der får vi selvfølgelig nul. Og så får vi minus to, og her får vi minus to, og så får vi nul og nul.
+
+32:33
+Og så tror jeg, at vi er klar til trappen.
+
+32:43
+I hvert fald kan vi nu gøre anden række end klar ved at gange med minus en halv, og den bruger vi til at fjerne den nederste med.
+
+32:59
+Og hvad får vi så bogen? Der ganger vi denne række med mere, nu sind og lægger til, og så må det være her.
+
+33:06
+1 0, 0, 1 og 0.
+
+33:15
+Og det ligninger vi får ud er så at ex. Et er lig med minus X4 og at X2 er lig med minus 6 3.
+
+33:34
+Og så har vi jo x3 x4 som vores parametre.
+
+33:40
+Så vi skriver altså her ikke set X2, X3, X4 er lig med S + T.
+
+33:54
+Og hvad var det det var? Der har vi ikke siger, og så er vi minus 1 0 0.
+
+34:05
+Og i den anden, der har vi så et tal her på ekstra plads, og så skal vi altså have X2 var minus 1.
+
+34:20
+Så det vil jeg så sige at kernen for F.
+
+34:24
+Den har vi så her. Skal vi lige så summerer op?
+
+34:32
+Se den havde rammen 2 den den matrix vi startede ud med, og det betyder så at at det er de første to af vores vi har.
+
+34:46
+Nu viser de første to af vores uspændende vektorer for underrum, som jeg også havde skrevet det hen.
+
+34:53
+De er lineært uafhængige, mens treeren den er afhængig af dem.
+
+34:57
+Så det vil sige nu kan vi i hvert fald sige, hvad vores underrum nu hvor den er udspændt dag.
+
+35:07
+U lig med spande af vægteren 1 kommer ind, kommer en kommer ind og vægteren tre komma in komma 1,3,
+
+35:26
+og så har vi ydermere fundet ud spændingen at det ortogonale komplement,
+
+35:34
+for den var jo lig med kernen for den afbildning vi fik lavet, så den har vi stående her.
+
+35:40
+Den er så spand med minus en komma nul komma nul komma in og den anden læg, så den hed nul komma minus 1 komma 1 Commando.
+
+36:03
+Sådan dør og vi ser altså ud havde dimension 2, og den skal jo i op til fire.
+
+36:14
+Derfor har det ortogonale komplement også dimensionen 2.
+
+36:20
+Og hvis I lige prøver igen. De to. De skal jo være ortogonale også som de gør.
+
+36:25
+Vi tester bare lige en tand. Når jeg, når jeg ganger den med den, så får vi min nu se 1 +1.
+
+36:32
+Den giver nul, når jeg ganger den med den. Så får jeg minus tre plus tre.
+
+36:37
+Den giver også nul, så den er i hvert fald ortogonale på de to basis vektorer.
+
+36:43
+Så prøver vi den med den anden, der ligger her, udspænder Otto Grundahl.
+
+36:46
+Komplement ganger den med den. Det er min nu.
+
+36:50
+Se en +1. Det giver nul og på samme måde her.
+
+36:54
+Minus én plus én. Det giver nul, så vi kan altså se, at det er faktisk rigtigt, at nu har vi altså to ortogonale underrum.
+
+37:07
+Og så meget sjovt, så kan jeg se at rent faktisk så fik vi, da vi lavede denne her elimination.
+
+37:15
+Så kom der faktisk to ortogonale begge ture ud af det her. Det kunne vi ikke have regnet med.
+
+37:19
+Men I kan godt sige, at vi så ganger den med den? Jamen, så er de jo ortogonale.
+
+37:25
+De to er ikke over til Ronald. Men det var der heller ingen, der sagde.
+
+37:32
+De skulle hver, men havde nu vores opgave fra starten været del.
+
+37:38
+At der stod i har et underrum, der består af de tre vægge.
+
+37:41
+To af de tre vektorer er find venligst en overtog normalt basis for dem og så supplere op til en opt overtog normalt basis for hele er fire.
+
+37:53
+Så hvis det havde været opgaven, så skulle vi bare lave gram smidt på de to vektorer.
+
+37:59
+Det er jo ikke så den første, der var noget man halvt mand, halvt halvt helle og så noget med.
+
+38:04
+Den er minus projektionen af den. På den vægt, som vi finder, så ville vi have haft en ottow normalt basis for det første underrum, og i og med de to.
+
+38:15
+De er ortogonale i forvejen, så skulle vi bare ham har normerede dem.
+
+38:19
+Det ville have været min nu sind over kvadratrod 2 og så 0 0 og 1 over Panopto 2.
+
+38:25
+Og det ville have været nul. Lige nu se 1 år, hvor der er der 2 1 over kvarter 2 og nul.
+
+38:31
+Så sådan en kunne vi faktisk være gået videre med den opgave,
+
+38:34
+at vi kunne have skaffet os en over to normale basis for er fire, hvor opgaven var at de første 2.
+
+38:42
+Det skal være for det underrum, vi betragtede her hen. Men nu må I gerne lige pludselig et øjeblik, mens jeg pisker lidt tavle ud til det næste.
+
+40:20
+Så er vi i gang igen, og det vi nu skal til at betragte, det er igennem nogle nogle afbildninger, vi kan kalde dem for symmetriske afbildninger.
+
+40:31
+Det må vi lige starter ud. Altså, det er sådan set en en intro til jeg tror det.
+
+40:37
+Øvelse 5 i dag se. Situationen er den, at vi kan godt lide fra sidste gang at få enhver.
+
+40:48
+Overtog Ronald Matrix Q, som er en reelt to krydser to matrix.
+
+41:02
+Den anden giver en drejningen af standard basen.
+
+41:21
+Sådan. C hvis vi nu lige prøver at tegne koordinatsystemet i planen.
+
+41:41
+Og vi siger, at der er givet en ny Otto normalt basis for planen.
+
+41:48
+Så tegner jeg jo lige en cirkel her. Og så har jeg måske min første nye basist sektor.
+
+42:01
+Den ligger her, skal vi kalde den for Q et. Og så hvis det er et sædvanligt orienteret koordinatsystem, så skal den anden.
+
+42:12
+Det skal så være sværvægteren, så her har I Q2.
+
+42:25
+Og nu kan vi jo så lige prøve og sige, at lad os nu kalde den her vinkel for U.
+
+42:34
+Så kan vi godt prøve at opskrive den tilsvarende ortogonale matrix, fordi nu betragter vi så Q og Canal Matrix,
+
+42:46
+som altså består af Q ét og Q2 vektorerne sat på højkant for at vise den vinkel den er.
+
+42:58
+U så ved jo godt den cirkel jeg har tegnet det jeg enhedscirklen.
+
+43:03
+Og så har den selvfølgelig koordinaterne cosinus. Til uge kommer sinus to.
+
+43:13
+Det skriver vi her. Cosinus til u og nu 7.
+
+43:19
+Og så sværvægteren. Ja, den vil så være minus sinus til ud over cosinus to.
+
+43:32
+Så det er klart nok at få en værre år.
+
+43:38
+Jeg glemte at skrive her i går også at den skulle være positiv, altså for enhver positiv ortogonale Q.
+
+43:46
+Altså den betegner en drejning af koordinatsystemet vist mig negativ.
+
+43:51
+Så ville det jo ikke være rigtigt.
+
+43:52
+Så skulle vi både have en beregning og en spejling, men det er derfor, det her er så herligt med en positiv ortogonale.
+
+43:59
+Det er da bare en beregning som altså. Det oprindelige koordinatsystem er bare ligesom eget med hvilket nu.
+
+44:13
+Se det eksperiment vi lige nu laver og som lige skal kigge nærmere på.
+
+44:17
+Det er jo helt hvad, hvis nu vi betragter sådan en ortogonale matrix.
+
+44:23
+Den er jo sådan set en basisk gift med et tryk på den. Den skifter jo fra den nye bassist til den gamle Basses.
+
+44:29
+Men prøv lige at tænke på den som en som en afbildning matrix.
+
+44:48
+Skal vi lige prøve det? Så vi kigger jeg på. Hvad så hvis de har givet et eller andet ikke svigter?
+
+44:59
+Så kigger vi altså på det billede, der fremkommer, når vi ganger Q, men ikke svigter.
+
+45:09
+Lad os sige, at den ikke svigter. Den har jeg tegnet her. Landstræner.
+
+45:20
+Og det I så skal vise er at billedet af den der ikke svigter dér, den fremkommer simpelthen ved, at vi drejer den med Victor nu.
+
+45:32
+Så hvis jeg skal have billedet af den, det vil sige Y,
+
+45:36
+så skal vi altså også ligesom at lave en cirkel her antyder en cirkel, og så skal vi bruge den her.
+
+45:46
+Og så har jeg så billedet dér og vinklen imellem dem jeg tog ud.
+
+45:53
+Så den fremkommer. Ved beregningen af X med vinklen ud af.
+
+46:16
+Sådan en bar bare ikke nu. Så så har vi billedligt talt. Og tilsvarende hvis vi nu bruger den transponerede af Q.
+
+46:29
+Så fremkommer den vidt drejning af X med min nu sol skal vi altså bare den modsatte vej.
+
+46:40
+Så det vil altså sige, at hvis vi får sådan, hvad vil det sige?
+
+46:45
+Der skulle vi altså så bare her hen til i stedet for. Da vil vi har havnet her.
+
+46:51
+Og med vinklen minus to, så er der har jeg altså q gange ex.
+
+46:58
+Det er den vektor jeg har tegnet dér, og den vektor jeg tegner her.
+
+47:02
+Det jeg y li med q transponerede x sådan dér.
+
+47:11
+Ja, det er en øvelse til jer, hvor I skal vise det.
+
+47:14
+Er der da nogle Hince? Hvordan er det ene? Man indser, at det er på den måde, det er, så det vil jeg ikke gå videre med.
+
+47:22
+Men jeg vil afslutte forelæsningen her med et eksempel.
+
+47:40
+Og vi betragter den matrix vi allerede havde gang i sidst.
+
+47:49
+Den hedder nemlig tre 1, 1 og 3, men den er nu sidder vi.
+
+47:57
+Sidste gang vi fandt frem til, at den har to egenværdier, nemlig if.
+
+48:06
+Den har egenværdi 1 4, og den har egenværdi 1 2. Og vi fandt frem til at eje rummet, der hører til egenværdi 1 4.
+
+48:18
+Den var spande. Er vægteren 1 kommer i kamp, og vi fandt tilsvarende, at vor egen rummet, der hører til egenværdi 1 2.
+
+48:34
+Den var spande. Resten er minus 1,9.
+
+48:49
+Det er jo en symmetrisk matrix, og derfor forstår vi jo, at så skal prikproduktet af de to.
+
+48:54
+Den skal være nul, og det kan jo også skakken godt se, den er.
+
+48:59
+Så nu kan vi så prøve at betragte en Otto normalt basis, som består af egen lektorer, som har lidt mere, og det gør vi sådan her.
+
+49:13
+Vi siger, hvis vi sætter. Ortogonale Matrix Q.
+
+49:25
+Hvis vi sætter den og nu kan vi nu kan vi.
+
+49:30
+Vi kan bare normeret den vektor dér. Det vil sige det ind over kvadratrod 2 og det 1 over kvadratrod 2 også.
+
+49:39
+Så tager jeg også en vektor her nedefra. Og den kunne så være den.
+
+49:46
+Skal vi så også er normerede, ikke? Så får vi minus 1 over kvadratrod 2.
+
+49:51
+Og så har vi en over kvadratrod. 2. Så hvis vi gør dette er.
+
+50:00
+Og sætter Lambda lig med matricen Diagonal matricen 4 0 0 2.
+
+50:16
+Hvis de gør det arbejde der, så var hovedpointen sidste gang,
+
+50:20
+at så er den lampe matrice lig med Q transponeret og så gange med A den givende matrix og så gange med Q.
+
+50:36
+Det var det, vi kaldte for en diagonal i Ziering ved ortogonale substitution.
+
+50:47
+Jeg tror lige at vi prøver at tegne situationen her.
+
+51:04
+C. Jeg tegner igen inde cirklen. Og jeg tegner min koo et vægter.
+
+51:21
+Som ligger der også tegner min kunne to vektorer som er ortogonale på den har vi.
+
+51:29
+Den er CO2. At det her var et at.
+
+51:40
+Så det var altså den vektor der var her. Men hov.
+
+51:45
+Den bestemmer jo egen rummet der hører til fire.
+
+51:49
+Så hvad er pointen her?
+
+51:51
+Ja, pointen er så, at hvis jeg nu trækker en linje igennem origo, der har den dér som sin retnings vinkel, så har jeg altså en fire liggende her.
+
+52:07
+Det betyder, at hvis vi bruger den afbildning matrix, som vi har her,
+
+52:11
+den givne form, så vil det sige, at enhver vektor som ligger på den her linje her.
+
+52:19
+Hvad vil der ske med den ved afbildningen? Hvis du hjalp den 1 2.
+
+52:27
+Bum, så er jeg så alle vektorer der ligger her. Bum! De bliver strakt med faktoren fire.
+
+52:37
+Nu kigger vi så på den anden på.
+
+52:45
+Den anden linje. Det var jo egn rummet der hører til egenværdi 1 2.
+
+52:50
+Og det der sker med en vektor, som ligger på den dér linje i forvejen.
+
+52:56
+Den vil blive folk doblet korn, så den vil altså blive strakt med to.
+
+53:01
+Det er jo strækningens faktorerne. De to egne værdier bliver givet her.
+
+53:06
+Dagens strækning faktor på fire og da en på to. Godt.
+
+53:16
+Det her var jo version ét af de kommunalisering formlen, men den vi nu skal betragte, det er dens dens fætter.
+
+53:30
+At A den er q lambda gange med q transponeret.
+
+53:41
+Så vi skal prøve at se på hvad fedt egentlig sige at vi har Factory seere.
+
+53:46
+Min afbildning som Matrix er den spøg jeg gerne vil have med jer jeg mere på nu.
+
+53:52
+Det er ok. Hvis vi tager en vektor x den vil vi gerne have afbildet ved hjælp af den givne afbildning matrix A.
+
+54:06
+Jamen så må vi jo kunne få det billede, hvis ved at vi kigger på højresiden.
+
+54:11
+Her q lambda q t gange med x.
+
+54:22
+Og nu betyder det så at A faktisk kan afløses af tre på hinanden følgende afbildninger fordi hvis jeg først ganger ex med q transponeret,
+
+54:35
+hvad er det så lige der skulle ske? Jamen så skal du jo drejes med vinklen.
+
+54:41
+Mener du? Så er jeg færdig med den første.
+
+54:46
+Og når jeg har garnet derud, så vil jeg så gange med Lambda matricen, og det betyder jo,
+
+54:52
+at den skal strækkes med fire i denne retning strækkes med to i den retning.
+
+54:58
+Og når jeg så har gjort det, så mangler Q bare at gøre sit arbejde og det at dreje tilbage igen, så jeg først drejer om lige nu.
+
+55:08
+Så trækker vi altså pisken tilbage igen. Er det ikke glimrende, skal vi prøver.
+
+55:28
+Er der nu tegner jeg en vægter eks.
+
+55:39
+Den har vi det. Den vil vi gerne have afbildet ved hjælp af vores afbildning smag, tricks, da der står at det er ikke sandt.
+
+55:49
+Så meget var det lige den her vinkel var. Den var jo pi kvarte.
+
+55:58
+Så her fra fra første Roxy og så op til Q 1.
+
+56:02
+Det er jo vinkler Berings linjen, så den er pige kvarte. Så det jeg nu skal gøre, er, at jeg skal dreje.
+
+56:08
+Eks. Det er det første, der er det første afbildning, jeg bruger.
+
+56:13
+Jeg skal dreje den væk med eksmænd. De kvarte skal vi sige, så når vi her hen til cirka, og så kan skal vi kalde den, for det kan vi så kalde for eks.
+
+56:28
+En. Så har jeg altså en.
+
+56:33
+Så har jeg afbildet den henne i den væg, der ligger her. Se den vil jeg nu har bragt i planen med fire og med to, og det vil.
+
+56:50
+Den måde vi gør det på er, at nu producerer jeg først den der ind på min nye første akse her, så jeg er jeg på det sted.
+
+57:01
+Og den skal du firedobles, så vi siger en, to, tre og fire.
+
+57:10
+Så er jeg nået dertil. Og så bruger jeg, ser jeg den ind på anden aksen.
+
+57:19
+Så er vi her. Se altså.
+
+57:27
+Se det til Danmark, ikke sandt? Den skal bare fordobles, det vil sige, at vi går 1 2.
+
+57:35
+Så er det.
+
+57:39
+Og så skal vi lige have tegnet reaktoren ned her, og så kan vi så tegne den nye vægter, som går fra origo og så op til det endepunkt, der ligger her.
+
+57:58
+Så det var Panopto første og brede bygning med minus de kvarte.
+
+58:03
+Nu har vi strakt den med fire i egen, rummede fire retning og to i egne rummet to strækning.
+
+58:10
+Så har vi den der. Og nu mangler vi bare en lille ting, nemlig at nu skal kunne gøre sit arbejde.
+
+58:17
+Det vil sige, at den skal dreje den der væk, tager tilbage igen med vinklen på kvarte, og skal vi prøve det?
+
+58:26
+Vi drejer bare vi vægteren. Og hvis vi siger det, har vi altså API kvarter.
+
+58:35
+Og så har vi den endelige vægtere a ganget med ex.
+
+58:41
+Det skulle så være den vektor der ligger her. Bum!
+
+58:45
+Værsgo at sige, så det er det som denne her formel betyder geometrisk.
+
+58:59
+Hvad var det nu matricen hed? Denne havde tre.
+
+59:07
+1. 1. 3. Og hvad var det lige for en vektor, som jeg startede med?
+
+59:16
+Det var jo billedet der, denne her bliver fundet. C Den havde jo koordinaterne 1,2, så vi ganger ligeud tre +2.
+
+59:31
+Det giver 5, og så får vi en +6.
+
+59:37
+Det giver 7. Det vil sige 1 2, altså 1.
+
+59:48
+2 3, 4. 5. Denne har i sig.
+
+59:54
+Og så har vi altså her 1 2, 3 4, 5, 6 7.
+
+1:00:01
+Den må jeg kan ikke se. Vi fandt den.
+
+1:00:08
+Det er først og drejet ned i mig. Strejke i planens retninger.
+
+1:00:12
+Bolden tilbage igen. Tak for i dag.

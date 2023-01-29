@@ -1,0 +1,725 @@
+0:04
+Der. Ph.d. I dag er en stor dag for dem af jer, som godt kan lide abstrakt matematik.
+
+0:19
+Men også dem som kan li at manipulere med matricer, så er der lidt for enhver smag.
+
+0:28
+Så set hvad er det vi har gjort? Sidste gang snakkede vi om geometriske vektorer.
+
+0:37
+Vi fik indført addition. Det var en geometrisk konstruktion, og vi fik også indført multiplikation med konstanter.
+
+0:46
+Også en geometrisk værdigheder konstruktion.
+
+0:52
+Når vi så havde indført de to regno operationer, så kunne vi vise disse 8 regneregler.
+
+1:01
+Og når vi skulle bevise dem, jamen så måtte vi jo gå tilbage til. Hvad er det egentlig for nogen?
+
+1:07
+Hvad? Hvad dækker de her over? Og det er vist nogle eksempler på, at I havde vist også ind til aktivitets programmet.
+
+1:16
+Og da vi så havde fået indført og bevidst i regneregler, jamen så kunne vi komme i gang med nogle vigtige begreber,
+
+1:25
+nemlig Lenau akkumulation, DNA afhængighed, lineær uafhængighed, basis og koordinator.
+
+1:35
+Det vi gør i dag, er vi siger Nu kender vi de her geometriske vektorer.
+
+1:43
+Har nogen fornemmelse af hvad er det for nogle ting man kan gøre med dem?
+
+1:47
+Hvad er det for nogle begreber og sætninger, vi har? Så siger vi ting.
+
+1:52
+Hvis vi kan overføre hele det her begrebsapparat på andre matematiske områder som matricer, polynomier, funktioner osv.
+
+2:02
+Det kunne jo være genialt.
+
+2:03
+Det er faktisk det, vi prøver nu, fordi nu vil vi helt abstrakt indføre væg til rum som en generalisering af det, der står derovre.
+
+2:12
+Lad os komme i gang. Så vi definerer.
+
+2:25
+Og så siger vi en mængde vil med addition.
+
+2:37
+Og multiplikation med skalaer. Skal vi kalde den kog.
+
+2:53
+Er et vektorrum. Hvis V opfylder.
+
+3:08
+Og så er der to ting der skal være opfyldt. Det første er at stabilitets kravene.
+
+3:26
+Og så skal I selvfølgelig lige høre hvad forstår vi ved det? Jo, der forstår vi hvis.
+
+3:36
+A og B vektor, eller hvis det er to elementer i mængden.
+
+3:47
+Så medfører det at også summen. Er med i mængden ved det var det eneste kvalitetskrav dannede det er.
+
+4:00
+Vis A er et element i mængden som medfører det, at K.O.
+
+4:09
+Gange A er med i mængden for alle K.
+
+4:22
+Så kalder man sig mængdens da bilen. Og det er det første af de to krav, som mængden skal opfylde.
+
+4:30
+2. De otte regneregler.
+
+4:45
+Kendt fra biometriske vektorer. Kort sagt mængden skal være stabil.
+
+5:03
+Hvad siger du? Hvis du vil lave tal, må kurset gerne være et komplekst.
+
+5:12
+Det er et rigtig godt spørgsmål. Ville den så være stabil med hensyn til multiplikation med skalaer?
+
+5:21
+Nej, det ville den ikke. For når du ganger et reelt tal med et komplekst tal for eksempel 1.
+
+5:26
+Så får du et komplekst tal. Det vil sige, at du rydder ud af de reelle tal, så det kan ikke lade sig gøre.
+
+5:33
+Fantastisk spørgsmål. Tak skal du! Så har vi indført et fuldstændigt generelt begreb.
+
+5:48
+Det er altså bare en mængde, som opfylder de her krav. Nu skal vi så se på 7 forskellige slags vektorrum.
+
+6:12
+Og de første af dem er meget nemme.
+
+6:20
+Et. Geometriske vektorer i planen, altså alle de vektorer som har repræsentanter i samme plan.
+
+6:37
+Nu skal vi overveje om de er et vektorrum. Jamen det er jo klart at de opfylder de otte regneregler.
+
+6:46
+Det så vi jo sidste gang. Så er der lige stabilitet skrev under.
+
+6:54
+Så hvis jeg har, hvis jeg har vektorerne A og B.
+
+7:02
+Hvad så med sådanne vægteren?
+
+7:11
+Så hvis A og B begge to har repræsenteret repræsentanter i planen, som jeg har tegnet her, så har summen vægteren det også.
+
+7:20
+Og sådan er så stabil med hensyn til addition. Og så prøver vi at gange A med 2.
+
+7:33
+Ligger den i planen? Ja, det gør den, så er stabilitets kravene opfyldt.
+
+7:38
+Gjorde det krav opfyldt. Heldigvis er vektorerne i planen et vektorrum.
+
+7:44
+Ellers ville det jo heller ikke have givet mening. Det andet eksempel er så vektorer i rummet.
+
+8:05
+Hvis jeg lægger to rum vektorer sammen, så får jeg nye rum vektorer. Hvis jeg ganget med en konstant, så får jeg nye rum vektor stabilitet.
+
+8:12
+Kravene er opfyldt. Vi vidste de 8 regler sidste gang kom.
+
+8:21
+Nu skal vi se på et måske lidt mere overraskende eksempel.
+
+8:27
+Vi skal kigge på mængden. A m kryds inden matricer.
+
+8:43
+Og det kan altså være. Enten reelle.
+
+8:55
+Eller det kan være komplekse matricer.
+
+9:00
+Kan I huske da vi havde matricer, så definerede vi jo netop addition af to matricer, hvis bare de var af samme type.
+
+9:09
+Og så siger vi, vi lægger dem sammen. WTA øverste venstre hjørne plus øverste i venstre hjørne giver øverste i venstre hjørne, så 2 0, 1 2 plus tre.
+
+9:18
+Matrix' grundlagde sammen med en 2 3 Mattrick. Så fik vi 1 2 hos tre Matrix'.
+
+9:24
+Og på samme måde hvis de gange den med et tal. Så skulle vi jo bare gange i tallet en på hver af elementerne.
+
+9:32
+Altså med andre ord, så vil vi igen få en to knuste tre Matrix', så det er altså klart addition og multiplikation med skalaer er stabile.
+
+9:42
+Hvad så med regne reglerne? Det snakker vi også om dengang.
+
+9:53
+Vi fandt ud af at de to grønne operationer de de opfylder de regneregler der står derovre.
+
+10:02
+Jamen, det er jo de samme regneregler som for geometriske vektorer. Med andre ord for at være m og M, så har vi altså et vektorrum.
+
+10:16
+Uanset om det er komplekst eller rent. Det.
+
+10:31
+Nu skal vi snakker om halvrund. Tilråb.
+
+10:36
+Det kan jo enten være. Reelle tal rum.
+
+10:44
+Eller det kan være komplekse tal alrum. Lad os se på et eksempel er fire ved talen.
+
+10:57
+Rummet er fire. Derfor står vi alle de tal par med fire elementer.
+
+11:10
+Hvor elementerne hver for sig er reel.
+
+11:18
+Så er 4 det er altså bare mængden af alle forskellige tal par, hvor i der indgår fire tal.
+
+11:28
+Nu skal vi se om det er et ægte rum. Så indfører vi addition og multiplikation.
+
+11:33
+Man skal nok. Og vi kan for eksempel sige hvis V er lig med en kommer ind, kommer ind, kommer en.
+
+11:48
+Og U er lig med 1,2 komma 3,4.
+
+11:57
+Så kan vi så sige at vi plusord. Får vi så ved at lægge plastik sammen, så får vi altså to, tre, fire og fem.
+
+12:17
+Det var bare et eksempel, men så laver vi altså addition.
+
+12:23
+Og hvis jeg nu ganger en Constand for eksempel med U, så bliver der altså kog komma to k komma tre k komma 4K.
+
+12:40
+Så har vi altså en mængde, hvor vi har multiplikation med med addition og multiplikation med hvad med skalaer?
+
+12:48
+Lad os undersøge Stabilitets kravler. Se, jeg laver jo to forskellige sammen da.
+
+12:55
+Og så får jeg igen et element I er fire jeg ganget med en skalar, fik de igen et element i A4, så stabilitets kravene bliver opfyldt.
+
+13:09
+Og det er også meget nemt at vise at de otte regler er, at de er opfyldt.
+
+13:15
+Så med andre ord har vi altså her nye eksempler på vektorer.
+
+13:31
+Se, nu bliver det nok endnu mere overraskende, fordi nu tager vi nemlig.
+
+13:44
+Nu skal vi nemlig snakke om polynomier. Ved p m over er der forstår vi mængden af polynomier af grad højest en som er reel.
+
+14:02
+Og på samme måde her. Det er end altså inddrages komplekse polynomier.
+
+14:13
+Lad os tage et eksempel prøve på hvad det kunne være. Vi kigger på P2 over er det så mængden af polynomier, som højest har Grade 2.
+
+14:35
+Så det kan altså være 02 graders polynomiet melder først og fremmest på en eller anden gratis polynomiet.
+
+14:43
+Vi prøver at indføre addition. Se hvis vi siger at p et x er x plus.
+
+14:56
+Den er en +6 blues Eggs Jane.
+
+15:06
+Og Picture ex. To plus tre x plus fire x hjernen.
+
+15:17
+Så vil vi indføre som polynomiet. Så ved polynomiet p er et træ som er p et plus p2.
+
+15:39
+Da vil vi forstå polynomiet P3 a x som er.
+
+15:47
+Vi lægger den sammen 3 plus vi lægger dem sammen 4 x.
+
+15:56
+Vi lægger dem sammen plus 5 x i anden.
+
+16:04
+Så vi indførte addition. Så skal vi indføre multiplikation man skal lære.
+
+16:14
+Så ved P4 som er en konstant gange skal vi sige Piet.
+
+16:28
+Da vil vi så forstå polynomiet p 4 x som skal vi gange det her op med K.
+
+16:45
+Altså hver koefficient skal gange med på. Så har vi altså i denne her mængde addition og multiplikation man skal skalar.
+
+16:54
+Er de stabile. Jeg ville have to anden kosmodromen.
+
+16:58
+Sammen fik et nyt ansvarsfuldt mellem. Det kunne måske også har været første pragtfulde investér, hvis det er det,
+
+17:05
+jeg for eksempel havde været, hvis den havde været minus ægte hjernen, og vi havde lagt dem sammen.
+
+17:10
+Så var det jo kun blevet et første Kongrespolen jubilæum, men P2 er.
+
+17:14
+Det betyder altså nul grads polynomium plus første også polynomier plus angrebsduo med alle dem tilsammen.
+
+17:21
+Det er det der er P2 over er. Og den er klart stabil, og vi kan også sagtens vise, at de otte regneregler de gælder.
+
+17:32
+Så polynomiet runden der også vægter rum et andet gospel.
+
+17:37
+Om det er en vægter. Så lad os også lige prøve at tage denne her med.
+
+18:00
+Se, her har jeg ikke skrevet noget EM. Så det at det er mængden af alle polynomier.
+
+18:19
+Altså vel at mærke alle reelle polynomier, en meget stor mængde.
+
+18:27
+Hvis jeg lægger to polynomier sammen, får jeg så et nyt polynomium klart.
+
+18:32
+Ganger jeg i et eller andet polynomium med en konstant, får jeg så et nyt polynomium klart.
+
+18:39
+Den er stabil og den opfylder de otte regneregler.
+
+18:43
+Med andre ord den mængder jeg har skrevet op her. Det er altså også en et vektorrum.
+
+19:04
+Se med det symboler som vi har her.
+
+19:07
+Der står se, og der står et nul dér og nu står der er.
+
+19:12
+Dermed menes der alle kontinuerte funktioner i hele verden, som er reelle.
+
+19:35
+Og jeg ved ikke om jeg har lært i gymnasiet. Men lægger man 2 kontinuerte funktioner sammen, så får man en ny kontinuert funktion.
+
+19:44
+Hvis man har en kontinuert funktion man ganget med en konstant, så har man også en ny kontinuert funktion.
+
+19:51
+Mængden overholder stabilitets kravene, og vi kan også meget nemt vise, at den overholder de otte regneregler.
+
+19:59
+Så her har vi også et vektorrum. Så for eksempel funktionen sinus ex plus to cosinus ikke til hjernen.
+
+20:07
+Det er en vægter i dette vektorrum. Det var de 7 eksempler.
+
+20:20
+Men nu skal vi lige tænke os lidt om.
+
+20:24
+Der er faktisk en vigtig forskel på de fem første og de to sidste af dem, jeg har tegnet op her for de første fem eksempler.
+
+20:38
+De har endeligt dimension. Mens de to sidste her.
+
+20:59
+6 og 7. De er uendeligt dimensionale. Jeg vil sige nu.
+
+21:10
+Kan vi få det frem? Altså kan vi forestille os altså vist kun kigge på mængden her.
+
+21:24
+PM med ex opløftet i minus.
+
+21:31
+Første portens. Om det er såvel altså eks i minusset første potens, skal vi prøve at se hvad forestiller vi os her?
+
+21:49
+At der så er det sådan noget som 7 gange med 7 plus x i.
+
+22:02
+Altså den mængde jeg har skrevet her. Det er også et vektorrum, fordi hvis jeg ligger.
+
+22:10
+Altså hvis vi siger, at det vi mener, er A plus B ganget med X minus første lægger vi sådan en to sammen, så vi får et nyt og samme slags.
+
+22:22
+Ganger jeg dem med en konstant, vil jeg også få et af samme slags.
+
+22:26
+Det her er også et vektorrum. Uendelig dimensionale er jo et mærkeligt begreb.
+
+22:33
+Første gang jeg skulle forberede denne forelæsning, der tænker meget over det der med en dimension,
+
+22:39
+der gik rundt og spurgte nogle forskellige Hvad vil det egentlig?
+
+22:42
+Hvad mener man egentlig, når man siger rummet det tredimensionale? Jeg tror det er specielt folk der ikke har noget med matematik at gøre,
+
+22:49
+og de kunne jo næsten allesammen sige Jamen, det er jo det der med, at der er høje død.
+
+22:53
+Der er bredde, der er dybde, og som vi har spurgt Jamen, hvad så med hvad?
+
+22:58
+Hvad mener man så med planen? Har dimensionen 2? Jamen så var der noget om var det højt, og der var fred, det er en anden grund.
+
+23:05
+Så var det særlig mærkelig, hvis jeg spurgte dimensionen ind.
+
+23:08
+Men efter lang tids overvejelse, jamen så var det noget med noget, der kun havde en længde.
+
+23:13
+Så skulle det være med dimensionen 4. Jamen, det er et eller andet med, at der er nogle personer, der kan se noget, som andre ikke kan se.
+
+23:19
+Altså noget med afbøjer og den slags tænkning. Og nu skal vi se, om vi kan kvalificere os, svarede her.
+
+23:26
+I resten af forelæsningen, fordi nu skal vi nemlig til punkt 3, hvor vi skal snakke om basis, koordinater og dimension.
+
+24:14
+Så vi skal nu igen en snak om nogle vigtige begreber, som vi henter ind fra de geometriske vektorer.
+
+24:25
+Det første begreb. Det er ligner en kombination.
+
+24:47
+Hun. Og en dinara kombination af nogle vektorer.
+
+24:53
+Forbud. Hvis vi bare ganger hver af dem med en eller anden konstant, og så lægger hele molevitten sammen.
+
+24:59
+Så jeg tager altså bare her et eksempel. 7.
+
+25:07
+Ved et minus tre ved 2 + 0 ved 3 plus 5 ved 4.
+
+25:19
+Det er bare en Linak kombination blankt.
+
+25:23
+Blandt mange andre er de fire vektorer, jeg har taget som et eksempel.
+
+25:27
+Her. Det andet begreb det er ud spændingen.
+
+25:43
+Busbetjening af vektorer. Og så igen der tager vi et eksempel.
+
+25:55
+En udspaltning. Den skriver vi som spanden. Ved et ved 2.
+
+26:05
+Ved 3. Ved 4. OB vil ud spændingen af fire vektorer der forstås.
+
+26:22
+Det er alle mulige vindere og kombinationer.
+
+26:36
+V Et veto vil tre og vel fire.
+
+26:48
+Så sig ud spændingen er fire vektorer. Der har jeg ét eksempel her.
+
+26:54
+Men hvis jeg tager alle de mulige linere kombinationer, som man overhovedet kan lave, jamen så har vi spa'en af de fire vektorer til toppen, Jes.
+
+27:10
+På den. Og så skal vi have lineær afhængighed henholdsvis uafhængighed.
+
+27:40
+Og der har vi altså her Pind V et veto.
+
+27:46
+Ved et tre. Ved P.
+
+27:53
+Er lineært afhængige. Hvis mindst.
+
+28:07
+En af dem. Er en DINARA kombination, da de øvrige.
+
+28:27
+Og så hvis det her ikke er gældende. Altså hvis da ingen af dem som kan skrives som en kombination af de øvrige, så de er lineært uafhængige.
+
+28:41
+Altså i modsat fald. Lineært uafhængige.
+
+28:55
+Og det vil jeg gerne lige vise et eksempel på.
+
+29:02
+Men altså hvis jeg har vektoren A, hvis den er en komma en komma en kommer en.
+
+29:16
+B vægteren. Den er to komma nul komma nul komma nul.
+
+29:25
+Og se vektoren. Den er fem komma in komma in command.
+
+29:36
+Her har vi tre vektorer i tal. Rummet er fire.
+
+29:41
+Og vi interesserer os nu for om de er lineært, afhængige eller uafhængige.
+
+29:51
+Er der et bud? Hvordan?
+
+30:02
+Hvordan kan vi opskrive se? Hvad siger du?
+
+30:09
+Jep! Og det vil altså sige a kommaet B kan man se.
+
+30:24
+Er lineære afhængige. Vi har jo netop været i stand til at opskrive denne ener som en Leynar kombination af de to andre.
+
+30:47
+Det jeg har lavet her, det er definitionen.
+
+30:52
+Det er ikke den drøm, vi i praksis vil bruge, når vi skal undersøge, om et sæt er lineært uafhængigt.
+
+31:01
+Den definition jeg har skrevet her, den er ensbetydende med det følgende.
+
+31:14
+Hvor vi så op, skriver en Lenau kombination.
+
+31:30
+Og vi siger altså at vægtere sættet er.
+
+31:45
+Det er lineært uafhængigt. Hvis.
+
+31:56
+Lena har kombinationen. K et V et plus på 2.
+
+32:05
+Det er to plus og så videre. K p gange vil p lig med nul vektoren hund er mulig.
+
+32:24
+Hvis alle koger. Er lig med nul.
+
+32:38
+Og den her sætning den har jeg lige smidt jeg i hovedet.
+
+32:42
+Jeg er helt sikker på, at den skal lige tænke over en del gange for at forstå, hvorfor den egentlig er, som den er.
+
+32:51
+Men den er jeg rigtig god at anvende i praksis, når man skal undersøge,
+
+32:57
+om et sæt er lineært, uafhængige, uafhængigt, der vil vi ikke bruge definitionen.
+
+33:00
+Det kunne vi i det her tilfælde, fordi det var nemt at gætte, hvordan scenen var en Dinart kombination af de to andre.
+
+33:08
+Men altså har vi givet 20 vektorer. Og vi skal undersøge i tal.
+
+33:12
+Rummet er 20, og vi skal undersøge om de lineært uafhængige. Så vil vi bruge den der.
+
+33:20
+Så lad os lige prøve at vende tilbage til eksemplet her hen. Se her.
+
+33:29
+Hvis vi skal anvende denne her.
+
+33:32
+Det vil altså sige, at en linere kombination kan kun give nul vektoren, hvis vi slår dem alle sammen ihjel med konstanten nul.
+
+33:43
+Hvis det er tilfældet, så er de lineært uafhængige.
+
+33:47
+Så hvis vi nu igen stiller spørgsmålet de tre vektorer jeg skrev her over, er de lineært uafhængige.
+
+34:05
+Så skal jeg så opskrive en Dinara kombination. Sådan skal være nul vektoren uden at alle kunder behøver at være nul.
+
+34:28
+Og er der nogen der vil give et forslag til en Lenau kombination, som vi kunne bruge her, der giver nul vektoren uden at alle koderne er nul?
+
+34:48
+Sigt jamen så på sigt, hvis man lige kigger herhen lige, snupper seerne over på den anden side af lighedstegnet.
+
+34:56
+Hvad har vi så af kontanter? Hvad siger du? Aarhus banen blev sagen.
+
+35:08
+Du ser vi endnu ting når.
+
+35:14
+Så nu har vi altså fundet at k et komma to komma kort tre, hvis vi vælger dem til at være en komma to komma mine og se så tingene på plads,
+
+35:31
+og dermed har vi på en anden måde vist, at de tre lektorer de er lineært afhængige.
+
+35:53
+Prosit! Det spørgsmål og svar.
+
+36:12
+Nu har vi de incredible, så vi har brug for for at indføre basis og coordinator.
+
+36:44
+Basis snakkede vi om sidste gang vi fandt ud af, at to lineært uafhængige vektorer i planen er en basis.
+
+36:55
+Og vi fandt ud af at tre lineært uafhængige vektorer i rummet er en basis for mængden af rum vektorer.
+
+37:03
+Det er det vi nu skal have på plads, og det gør vi på følgende måde.
+
+37:12
+Ved et bind to op til V M er en bassist.
+
+37:23
+For ved. Hvis. De m vektorer.
+
+37:37
+Er lineært uafhængige. Og der gælder at spanden spændingen er ved et B-2.
+
+37:56
+At den er lig med ved. Det er de to krav som skal være opfyldt.
+
+38:05
+Så vil vi kalde vektorerne ved et optog vi inden for en basis for venterummet.
+
+38:15
+Se, det er rart at have sådan en basis, for det betyder jo,
+
+38:19
+at enhver vægt i V kan skrives som en vinder, og at kombinationen af de her basix vektorer.
+
+38:38
+Ligesom vi har det i rummet, og lige som vi har det i planen, og nu stiller vi så også spørgsmålet.
+
+39:03
+Spørgsmål 2 Hvad forstår vi ved koordinater for en vægter?
+
+39:46
+For at vi overhovedet kan snakke om koordinater, så er vi først nødt til at finde en basis eller vælge en basis, når vi har valgt den.
+
+39:56
+Så kan I se, så står der, at spændingen er basis for vektorerne.
+
+40:00
+Det at lege med ben. Så hvis vi altså har givet en så by i Eve, så gælder der, at der findes en vinder kombination.
+
+40:23
+Ex et et plus to er to plus og så videre x 1 gange a 1, som er lig med b vektoren.
+
+40:42
+Denne lidt narre kombination. Er en tydelig.
+
+40:53
+Det kræver et bevis. I kan se det i en orden. Men det vil altså sige har vi en basis.
+
+40:59
+Så kan enhver vægtere opskrives som en leg narre kombination af basis vektorerne.
+
+41:05
+Og det kan kun gøres på én måde. Derfor er disse tal et X2 og så videre eksempel.
+
+41:11
+Derfor er de meget vigtige, og det er dem vi kalder for koordinaterne.
+
+41:22
+Så er x 1 x 2 op til x 1.
+
+41:31
+Koordinaterne. For B.
+
+41:37
+Med hensyn. Til.
+
+41:48
+Basis A altså den basis vi havde valgt koordinater er altså altid afhængige af, at vi har valgt en basis.
+
+41:59
+Og derfor skal vi altid se det er koordinaterne for by med hensyn tag.
+
+42:09
+Og så er den væk, tager jeg nu op, skriver. Altså en søjle vektor x en X2 til eks enden.
+
+42:26
+Kaldes koordinat Beckton. For B.
+
+42:39
+Med hensyn. Til den valgte bassist, som jeg havde kaldt for at lægge mærke til det her.
+
+42:49
+Ah ja, jeg skal nok være lidt mere omhyggelig, fordi det er et lille index, der står her nede i venstre hjørne.
+
+42:58
+Og det er så det, der indikerer. Hvad er det for en basis, jeg har brugt til at opskrive koordinat vektoren med?
+
+43:23
+Og så lige de sidste pointer inden pausen.
+
+43:52
+Og det jeg skriver op her er, at hvis vi nu har fundet en basis for et rum, og det viser sig, at den har præcis en vektorer år.
+
+44:06
+Så gælder det, at hvis en anmelder kan finde en anden basis for det vække til ro, så vil den også indeholde en vektorer.
+
+44:15
+Så det er altså en meget fin teoretisk sætning, vi har her. Alle baser har det samme antal basis vektorer.
+
+44:34
+Og det er det man forstår ved dimensionen end de mindste hvis et værktøj rum har dimensionen fire,
+
+44:44
+så er det altså fordi, at en vilkårlig basis for vægt, så rummet må indeholde fire basis vektorer.
+
+44:51
+Så det kan jo gå ud og fortælle, hvis der er nogen der spørger om hvad er dimensionen 4?
+
+44:56
+Det er altså ikke noget med aura. Det er antallet af basis vektorer.
+
+45:01
+Så er der en pause.

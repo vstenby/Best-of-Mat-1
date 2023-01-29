@@ -1,0 +1,977 @@
+0:04
+Det handler igen om matricer. Og. Jeg skal nok skrive en lille plan om hvad vi skal lave, men vi skal tænke over,
+
+0:12
+at på et tidspunkt i skolen efter at I havde lært og gange talt med hinanden.
+
+0:18
+Så lige pludselig skulle vi også læger og dvd'ere talt med hinanden. Og gæt hvad der sker.
+
+0:24
+Ja, men nu skal vi til at dividere med matricer, og det er selvfølgelig lidt mere kompliceret end med tallet, men ideerne er sådan lidt det samme.
+
+0:34
+Men lad os lige prøve at lave en lille plan. Jeg vil starte med lige at lave en lille repetition.
+
+0:50
+Hvad er det nu vi ved om lineære ligninger og matricer fra den danske kobbertag og så dagens program i virkeligheden?
+
+0:57
+Det handler om kvadratiske matricer. Og hvad er der specielt om kvadratiske matricer?
+
+1:12
+Jo, der er. Noget der hedder regularitet, så der er noget der hedder regulære matricer.
+
+1:23
+Og det knytter sig til et begreb der hedder enhvers den væres matrix.
+
+1:32
+Og så skal vi lære at bruge en metode end noget der knytter sig til snogen kvadratiske matricer, nemlig begrebet determine alt.
+
+1:48
+Og det har I nogle af jer nok set en lille smule?
+
+1:54
+Måske, men det er ikke sikkert. Så er der ligesom der er al nu tale alle de andre emner.
+
+2:02
+Der er der en vel damer. Men den gider jeg altså ikke gennemgå, fordi den er fuldstændig selv selvforklarende.
+
+2:17
+Men jeg vil bare lige sige, at generelt disse med ebbet mord.
+
+2:20
+Og det er vigtigt, at I sørger for at løbe dem igennem, fordi det er dér, I bliver præsenteret for dagens vigtige Mabel kommandoer.
+
+2:28
+Der vil typisk være en basic og en avanceret basic det imorgen eller BASIC kommandoerne det dem som vi forventer at I kan.
+
+2:41
+Det er avancerede det for dem der vil gå hele planken ud.
+
+2:45
+Så. Det er dagens program, så lad os ikke kigge på det.
+
+2:53
+Så hvad var det vi lærte det sidste?
+
+2:59
+De sidste par gange her? Ja, det var noget med, at man startede med at have m ligninger.
+
+3:10
+Med en ubekendt ubekendt.
+
+3:18
+Og det kunne man skrive op.
+
+3:21
+Fidusen var, at når man indførte det man tresserne, så kunne man skrive de her ligninger ganske bekvemt, fordi man kunne skrive dem på denne her måde.
+
+3:32
+Man kunne tage en matrix og gange med vægteren eks.
+
+3:38
+Og så kunne man sætte det lig med højresiden og den der matrix A.
+
+3:46
+Det kalder vi koefficient matricen. Og hvis det Emmeline ender med n ubekendte, så betyder det, at det er en omgang at ende engang.
+
+4:03
+Enhver matrix og hvordan ser sådan en ud? Den måde vi normalt skriver matricer op på er, at vi nummerere elementerne efter, hvor de står i matricen.
+
+4:19
+Hvis man står op i øverste venstre hjørne, så står man i første række og første søjle, hvis man står her.
+
+4:27
+Så står man i forreste række, anden søjle og så videre ned til et.
+
+4:33
+M, og denne her hedder så anden række fyrre så eller anden række, anden for og så videre af anden række end det så alle, og her står der så a m.
+
+4:48
+Et m3 vejer ikke første søjle efter række anden søjle, og hernede a m n, så vil man få en matrix, der har Emre Agger og ende søjler.
+
+5:04
+Det er sådan jeg arbejder, der står her, hvis vi skal forstå det her rigtig, så vores vægt tager eks.
+
+5:15
+Den indeholder så de n ubekendte. Det er så x 1 x tog op til x EM, og det forstår vi sidst, at det her denne vægt tager.
+
+5:30
+Det er jo i virkeligheden. Hvis vi skriver det på denne her måde, så er det en ende gang en matrix og en EM gang ende.
+
+5:39
+Med tricks kan man godt garnet med en engang en matrix. Og resultatet skal så blive det, der står på højresiden, nemlig vores ubekendte bagvæg.
+
+5:51
+Og hvordan ser den ud? Ja, det er en en m gange n gange 1 engang.
+
+5:58
+1. Det bliver en m gange en vægter, så her starter b en b to op til b m.
+
+6:08
+Og det passer os med at vi har.
+
+6:12
+I det oprindelige ligning system, så har vi m ligninger med n ubekendte, og de m ligninger svarer jo til m højere sider,
+
+6:21
+så dimensionerne passer, og den måde at skrive det op på deroppe er en fantastisk bekvem måde at skrive det op på.
+
+6:29
+Okay, hvad lærte vi så også? Vi lærer det af, at der var et begreb, der hedder bare.
+
+6:41
+På er en matrix A forkortet nogle gange til det græske bogstav ro af.
+
+6:52
+Hvad var det nu det var når over?
+
+6:54
+Jo, hvis man tager matricen A her og reducerer til sin Trapped form, så kunne man tale antallet af det, der hedder Initial taler.
+
+7:04
+Antallet af ledende ettaller. Ansatte i 9 10 A.
+
+7:14
+Et taler. Og.
+
+7:23
+Hvad skulle man bruge det til noget over? Jo, fidusen varer er når man løser det her det ene system, så laver man typisk totalt matricen,
+
+7:34
+som består i, at man tager sin matrix A, og så skriver man højresiden som.
+
+7:43
+Sidste søjle det ageres. Og så reducerer man denne her matrix til det der hedder terapiform.
+
+7:55
+Og så ser vi, hvordan man kunne skrive løsningerne op. Og hvordan ville løsningerne helt generelt se ud?
+
+8:05
+De ville se sådan her ud. X 1 x tog op til eksamen lige med det, der så står her.
+
+8:16
+Det var en speciel specialværktøj, som vi kan kalde x 0.
+
+8:21
+Et x0 tog op til x0 n og så lidt afhængig af, hvordan situationen så udvikler sig.
+
+8:31
+Så ville der her stå til en gang en eller anden vægtere ved et tog op til V, N og så måske til to og så W 1 dommene i to op til w n.
+
+8:50
+Der kunne faktisk godt være flere af dem. Så.
+
+8:56
+Op til et eller andet til. Og så løber jeg tør for bogstaver.
+
+9:01
+Her ved et W. U u et u to op til u n.
+
+9:11
+Og hvor dette teer, da de kan være hvad som helst, så det er bare at skrive sådan her til ejerne ligger I er.
+
+9:21
+Og hvad kan I være her? I kan være en tåge op til K. Det skriver man på denne her måde.
+
+9:28
+Så behøver man ikke skrive så meget her.
+
+9:33
+Det, der var det, der var tricket her, er ikke også det varer lige at tjekke, hvor mange frie variable man har de her til og her.
+
+9:45
+Det var det, vi kaldte det.
+
+9:45
+Frie variabler svarede til frie variable i vores ligning system, og det havde noget at gøre med Vangen af vores totale matrix.
+
+9:57
+Så. Hvis der ikke er nogen for variable.
+
+10:09
+Så har I slet ikke det her, og det vil sige, så ser løsningen sådan ud.
+
+10:15
+Så er der præcis en løsning. Ingen frie variable, så er der præcis en løsning hvornår sker det?
+
+10:25
+Jamen, det sker, når vi kan bestemme alle de ubekendte, og det vil sige, når vejen er vores matrix, der op ved vores totale matrix er en.
+
+10:39
+Så. Netop en løsning.
+
+10:48
+Det betyder at vejen er af vores total matrix.
+
+10:57
+Som i øvrigt også er rammen af vores koefficient matrix, at denne er en.
+
+11:05
+Det betyder, at der fra et salg ud fra alle de variable i det reducerede ligning system.
+
+11:13
+Og ja, men hvis dette ikke er tilfældet.
+
+11:21
+Hvis var totalt matricen er.
+
+11:27
+Mindre end så kunne vi tælle antallet af frie variable.
+
+11:38
+Og det er jo altså det som er K.
+
+11:40
+Sådan som jeg har skrevet det op her, for så kunne vi bare tage antallet af ubetalte minus var en af vores totale med f.ex.
+
+11:55
+Fordi. Det tal der kommer til at stå her.
+
+11:59
+Det må være alle de ubekendte. Som vi ikke kan bestemme, så det er den der hedder kog det op.
+
+12:12
+Og. Når jeg nu skriver dette her op, så har jeg så har jeg et stiltiende forudsat at rangen er total.
+
+12:20
+Matricen ikke er større end randene. Det kan jo godt ske.
+
+12:25
+Og så kan man ikke løse ligning i systemet. Så hvis Vangen af total for den faktisk er større end mange af vores matrix.
+
+12:38
+Det betyder, at man så i total matricen er oppe der.
+
+12:40
+Vil man have en nulre, der møder noget, der ikke er 0, så alene i systemet det der hedder inkonsistent.
+
+12:47
+Og så kan vi ganske kort sige, så kan vi ikke løse det. Så kan vi skrive løsnings Malene Torp, og der vil med Ebbe, fordi denne her kommando,
+
+12:55
+hvor der står inkonsistens i ligning systemet for det vi er interesserede i, det er det her op, hvor vi kan løse ligningerne.
+
+13:07
+Ja, den information som står over det, samler man tit i det, der hedder en struktur sætning.
+
+13:22
+Den sagde, at løsningen til det lignende system som står over det at åbne, som er det der hedder et indhug morgan en ligning system.
+
+13:33
+Løsnings med enken tilbage skriver du på denne her måde.
+
+13:36
+Løsningen til line systemet og op. Det fås ved at tage sådan en x0 løsning.
+
+13:45
+Som står her og ser alt det der står dér. Og det kalder vi LH.
+
+13:54
+Hvorfor det? Jo, fordi x0 det hedder en partikulære løsning.
+
+14:09
+Og hver opfylder den partikulære løsning.
+
+14:13
+Jamen den opfylder, at hvis I tager x0 og plumber ind i ligningen, systemet og op, så skal jeg jo gøre sådan her.
+
+14:24
+Nu fik jeg jo. Jeg havde ellers lige planlagt, at jeg gerne ville sætte to streger under alle mine matricer her.
+
+14:29
+Det har jeg, så det har altså glemt, kan jeg se. Lad os nu gøre det her.
+
+14:36
+Og jeg har også lavet at sætte på tavlerne. Det kører bare tog.
+
+14:43
+Det. Lad os nu se engang.
+
+14:48
+Er der noget træ, så er det her fire. Sådan.
+
+14:58
+Hvis jeg sætter ikke noget ind i ligningen op, så vil det være sådan, at så får jeg faktisk B.
+
+15:09
+Så den partikulære løsning her løser ligning systemet.
+
+15:15
+Hvis jeg tager noget som ligger her, det vil sige noget der kan skrives på denne her måde.
+
+15:24
+Så hvis jeg tager et et eller andet V, der ligger i den homogene løsnings mængde og sætter ind i ligning systemet, og om så vil af med g nulvækst, så.
+
+15:43
+Og det passer jo egentlig meget fint. Også fordi hvis jeg sætter en vægtere, der ser sådan her ud.
+
+15:51
+X nul plus noget der ligger i den homogene løsnings mængde.
+
+15:57
+Noget af denne her type. Hvis jeg sætter det ind. I vores matrix hvad får jeg så bag på den?
+
+16:09
+Det giver a x0, og så får jeg af på den.
+
+16:15
+Det giver A for V. Og hvad giver det? Dette?
+
+16:18
+Det giver bag dette, at det giver nul vægteren, og det giver jo præcis B.
+
+16:26
+Og det vil sige, hvis man ser sådan her ud. Det vil sige, at man er en partikulære løsning plus noget der ligger i den homogene løsning smagende.
+
+16:34
+Så løser man vendingen, og det vil sige, at alle vektorer.
+
+16:40
+Af den type. Kan man skrive det?
+
+16:44
+Og det er grunden til, at man har den struktur og sætning, vi kommer til at kigge lidt nærmere på det, når vi kommer længere hen i kurset.
+
+16:53
+Men det her var sådan. Hvad skal man sige? En meget hurtig oversigt over.
+
+16:59
+De ting der har været på på banen her de sidste par gange, sidste gang sidste gang.
+
+17:06
+Der lærte vi så at gange matricer sammen og lægge den sammen med snorkede, så det kan jeg ikke skrive op her.
+
+17:12
+Men alt sammen er værktøjer i forbindelse med løsning af sådan nogle lineære udligningssystemet.
+
+17:18
+Og ja. Nu skal vi i virkeligheden læger og DVD'er med matricer og.
+
+17:28
+Til at gøre det så er nødt til at minde om noget fra jeres meget tidlige skolegang.
+
+17:39
+Så. Huskat.
+
+17:48
+Husk at der er et meget specielt reelle tal, som hedder en.
+
+17:58
+Så hvis jeg nu tager X, der ligger i de reelle sale.
+
+18:07
+Så kan jeg tage vores reelle et tal og gange med ex og det magiske er at indgang ex.
+
+18:18
+Det giver eks. Meget dybsindigt.
+
+18:22
+Det kan ikke overraske os. Det ved vi godt fra på fredag fredag.
+
+18:27
+Og når så lad os prøve at lave noget lidt mere dybsindigt.
+
+18:35
+Lad os nu sige, at jeg gerne vil løse ligningen a x lige med et eller andet fup.
+
+18:44
+Hvordan gør jeg det, når jo.
+
+18:50
+Hvis A ikke er nul. Jeg vil også.
+
+18:55
+Fordi det er med den nu, vil jeg gøre det på en lidt anden måde.
+
+19:00
+Jeg vil sige. Hvis A ikke er noget.
+
+19:10
+Hvis jeg ikke er 0, så gallerier fra Venstre. Man aner vel.
+
+19:23
+Og ja. Og hvad er det magiske ved det?
+
+19:28
+Det er, at en anet del gange a det giver en omgang.
+
+19:36
+Her står der sig X. Og her står der så en Ane Bille.
+
+19:40
+Gang 5. Det kan man sikkert regne ud. Det er sådan set lige meget.
+
+19:44
+Men pointen er, at en gang ekstra x x giver en Amedeo gange fem 5, hvis A ikke er nul.
+
+19:54
+Hvad er var det der lige skete her? Hvad var det for en egenskab ved de reelle tal vi udnyttede her now i år?
+
+20:02
+Vi udnyttede, at hvis A ikke er noget.
+
+20:08
+Så findes der et tal som hedder en andel. Sådan at en af gang A giver et tallet, hvor et tallet er det magiske tal, der har den egenskab.
+
+20:24
+Omgav sådan et tal det vil se et reelt tal, der ikke er nul.
+
+20:29
+Det kalder man for et regulært tal. Og grunden til at man kalder det regulære.
+
+20:35
+Det er på grund af denne egenskab her, så lad os lige skrive det og op a forskubbet fra nul.
+
+20:44
+Kaldes regulært. Og hvad betyder det?
+
+20:56
+Betyder at. Der.
+
+21:02
+Findes et tal. Som vi kalder en ane del.
+
+21:13
+Således at in a en del Garang A faktisk giver en.
+
+21:23
+Vi bruger også betegnelsen. Vi skriver også.
+
+21:31
+Af en af. Det skriver vi som A i mine første, og vi kalder en Adele for det inverse.
+
+21:42
+Det inverse element eller det reciprokke tal til A.
+
+21:50
+Ağca, hvad er vi nu ude på, fordi det her?
+
+21:56
+Det ved vi jo godt. Så hvad er det nu, der er planen?
+
+22:07
+Prøv at forestille jer at vi interesserede i at løse den ligning, der står her op.
+
+22:14
+For at vi kan gøre det på den måde, som jeg gerne vil til at gøre her, så er vi nødt til at lande på det punkt ét i vores dagsprogram, nemlig.
+
+22:24
+Vi er nødt til at forudsætte, at A er en kvadratisk matrix. Så.
+
+22:35
+Hvad A være m. M.
+
+22:39
+Garne n matrix. Det vil sige at de lignende systemer som vi sådan set er interesserede i at løse nu.
+
+22:49
+Det er Emmeline engang, men inden ubekendt wow n ligninger med en ubekendt, hvis man har lige så mange ligninger som man har ubekendte.
+
+23:02
+Og gav. Så lad os se hvordan kunne beskrive vores ligning systemet op.
+
+23:08
+Vi skrev det sådan her. C Hvad skal vi nu bruge for at kunne bruge den løsnings metode?
+
+23:18
+Ja ja, vi skal bruge at der findes noget som optræder som tallet et for, fordi vi skal have et tal.
+
+23:28
+Og så skal vi bruge noget, der optræder som en ane del. Kan I sådan?
+
+23:32
+Det er de to elementer i vores værktøjskasse, vi skal have fat i for at kunne gøre os håb om at løse en matrix ligning på samme
+
+23:39
+måde som jeg lige har løst den fuldstændig banale Mickey Mouse ligning her og væk.
+
+23:45
+Så hvordan gør vi dem og kan?
+
+23:50
+Vi kigger på en matrix. E.
+
+23:55
+Det står for Enheds matricen. Nogle gange vil man skrive indgange end hernede for at fortælle, hvad det er for en enhed.
+
+24:02
+Smage Friggs. Det gider jeg ikke skrive nu. Den ser sådan her ud.
+
+24:10
+Og der står et taler hele vejen ned i diagonalen. Og noveller.
+
+24:18
+Noveller. Ellers. Det her kaldes n gange n enheds matricen.
+
+24:35
+Hvad har denne er af egenskaber. Og det er meget, meget, meget nemt og overbevist sig om.
+
+24:52
+Hvis X er sådan en væg som vi kigger på, noget som hedder ikke lidt op til eksamen.
+
+24:59
+Og jeg tager enheds matricen andre klienter, de forbandede to streger igen.
+
+25:04
+Humlum. Så vores enheds matrix på eks.
+
+25:11
+Hvis I prøver at regne det ud. Det giver bare eks.
+
+25:16
+Den gør ingenting på en vægter. Hvis nu A er N engang en matrix.
+
+25:30
+Hvis nogen siger det, så ved vi jo at.
+
+25:35
+Dette er den engang en matrix, og hvis dette er den engang en matrix, så kan vi jo gange det med hinanden, fordi dimensionerne passer.
+
+25:43
+Og så kan jeg jo kigge på, hvad får jeg, når jeg sidder en gang a.
+
+25:48
+Så får jeg præcis det samme som hvis jeg sidder af gangen i. Og hvad mon jeg får?
+
+25:55
+Jeg får faktisk matricen A. Det er meget simpelt overbevist om.
+
+26:04
+Okay. Den enes matrix.
+
+26:11
+Kan vi se på de to ting her. Den gør sådan set det som et tallet gør i de reelle tal.
+
+26:20
+Så nu har vi fundet vores et tal. Hvad mangler vi sørger for at kunne løse ligningen på den måde vi gerne vil løse.
+
+26:26
+Nu mangler vi en ane vil. For så lad os prøve at kigge på hvad hvad det så er, og nu må jeg lige have noget mere flatterende.
+
+26:40
+Så hvad? Sådan.
+
+27:06
+Syrien opgav, så som følge af det her er nu far og otte syv.
+
+27:19
+Hvad af. Værre end en gang af enhver indsats.
+
+27:29
+Afgav. Så antager vi.
+
+27:35
+Antage at der findes. En engang enhver Friggs.
+
+27:48
+Matrix. Store X fordi lige nu er den ubekendte.
+
+28:00
+Således er at. A guide a.
+
+28:10
+Er det med Enheds matricen. Og.
+
+28:29
+Hvad nu? Hvis det kan lade sig gøre.
+
+28:40
+Så siger vi noget bestemt om af. Husk at det kvadratiske matricer allesammen, men så da.
+
+28:49
+Der kaldes matricen A for regulære.
+
+28:56
+Man siger det er en regulær matrix og.
+
+29:03
+Og vi. Kalder den da Matrix X.
+
+29:10
+For. Denne inverse. Den inverse matrix.
+
+29:25
+Til af. Og den benævnes.
+
+29:36
+Benævnes typisk af mine første og der gælder i øvrigt at så ved a grand af minus 40 heste.
+
+29:49
+Det vil være det samme som af mine første gang A, og det ville være enheds matricen.
+
+30:05
+Hvis der findes sådan en, hvis der findes sådan en.
+
+30:09
+Hvad så? Jamen, så lad os lige kigge på det.
+
+30:28
+Så tarvelig nummer otte. Vupti så.
+
+30:38
+Hvis A er regulære. Hvad kan vi så gøre?
+
+30:47
+Jamen, hvis vi så kigger på det her linningen system a lille ex ved med B.
+
+30:56
+Hvad kan jeg så gøre? Jamen, så kan jeg gøre præcis det samme som jeg gjorde.
+
+31:00
+Da lyste den ligning der står derovre, hvor der står a x lige.
+
+31:04
+5. Jeg er gartner for venstre side med aminosyrerester.
+
+31:19
+Sådan og så ved jeg at A mindes første gang A.
+
+31:25
+Det er det der står her. Det giver identitets matricen. Og hvis jeg nu skriver det hele noget, så kan jeg jo ikke.
+
+31:31
+X er legeme A i minus Fyresdal B og det der gør ingenting.
+
+31:38
+Og så står der løsningen. Så hvis man kan beregne den inverse matrix.
+
+31:49
+Til sådan en regulær matrix ved jeg. Så har man en løsning form som er fuldstændig magen til den man har i de reelle tal.
+
+31:59
+Og det er meget tilfredsstillende. Skal man gå og huske på specielle lysende former?
+
+32:05
+Så hvad mangler vi nu? Vi mangler to ting vi mangler at kunne afgøre, om en matrix er regulær.
+
+32:19
+Og vi mangler hvis matricen er regulære og kunne finde den inverse.
+
+32:26
+Man kan også sige okay, hvis man nu bare har en metode til at finde den inverse, så ved man jo, at hvis man kan finde den inverse, så er den regulære.
+
+32:34
+Så det er sådan set okay, men det er jo meget rart. Det er meget rart at have en metode til at afgøre tingene.
+
+32:41
+Derudover vil de reelle tal, der er det meget, meget simpelt, fordi alle tal, der ikke er nul, er regulære.
+
+32:49
+Men der er jo en masse matricer, der ikke er regulære, fordi hvis selvfølgelig kigger på det her ageres.
+
+33:03
+Når jeg løser ligning systemet på denne her måde. Hvad kommer der så ud af det?
+
+33:08
+Der kommer præcis en løsning. Kan I sådan?
+
+33:13
+Løsningen Møn. Den står nemlig der. Og det betyder hvis han nu husker på hvordan struktur sætningen ser ud.
+
+33:25
+Det betyder, at hvis en matrix skal have en væres, det vil sige hvis den skal være regulær.
+
+33:32
+Så skal det her give en entydig løsning, det vil sige så kan der ikke være nogen frie variable kasse.
+
+33:39
+Så må den homogene løsnings mængde kun bestå af nulvækst.
+
+33:46
+Og hvad betyder det? Det betyder at matricen skal have maksimal Hallvard.
+
+33:54
+For det kan vi simpelt skriver op her. Vi får det fra struktur satsningen a regulære.
+
+34:04
+Det er simpelthen ensbetydende med at Round A er så stor som den kan blive.
+
+34:11
+Den engang indlagde Fricke, så der kan højst komme en. Et taler ned igennem diagonalen for de regulære matricer.
+
+34:21
+Det er dem. Det her giver os faktisk en utidig.
+
+34:28
+Det her, det giver faktisk en konstruktiv måde til at finde den inverse.
+
+34:37
+Fordi. Fordi.
+
+34:55
+Gør damen sådan okay. For hvis hun nu siger jamen regulere matrice.
+
+35:03
+Det har åbenbart noget at gøre med, hvordan de opfører sig, når vi løser lineære ligninger.
+
+35:08
+Og hvad er det egentlig, der står her op her? Det ligner jo ikke rigtigt at et sådan en helt almindelig vending.
+
+35:24
+Men det er det alligevel, for pokker.
+
+35:27
+Hvis jeg nu skriver det op, vi laver et eksempel og så kan prøvekørte igennem, så lad os lave et eksempel med en lille fin to gange to matrix.
+
+35:36
+Vi kan jo tage noget, der hedder en, to, tre eller fire.
+
+35:40
+For eksempel hvis vi nu tager den der. Så kunne jeg godt tænke mig at finde finde en ex matrix som garnet med den gage identitets matricen.
+
+35:57
+Og hvis jeg nu skriver det og hvad er måske, skulle jeg bare skrive nu.
+
+36:09
+Så også her. Så vores ikke hedder er det her tre fire.
+
+36:16
+Og hvordan ser en eks matrix ud, når den har en fyresdal søjle, der må hedde ex et et x to et, og så har den en anden søjle.
+
+36:25
+Den må hedde ex et tog og dermed X2 2. Det er vores af matrix, og det er vores ikke smage Friggs.
+
+36:34
+Og hvad står der på højresiden? Jamen, vi er i to gange 2.
+
+36:38
+Materialernes land, så der står så to gange 2 enheds matricen.
+
+36:42
+Denne hedder 1 0 0 et. Så er det ligning system vi er ude for at løse, men så læg mærke til følgende.
+
+36:56
+Hvis jeg nu hvis jeg nu bare holder hånden over sidste søjle her blæsevejr.
+
+37:06
+Hej, det kan jeg ikke, fordi jeg står for det, men for at prøve at lade som om, at jeg ikke kan se sidste søjle i det der matricer.
+
+37:14
+Forstår dog helt almindelige lineær udligningssystem. Højresiden hedder et nul kassedamen.
+
+37:22
+Hvis vi skulle løse dette, så ville vi lave total matricen, som bestod af dem der og så dem der som højre sidder dækker det.
+
+37:32
+Og ja, hvis I nu glemmer dem der og dem der.
+
+37:36
+Så står der et lille og Leiningen system, hvor der står der Matrix Gard den der skal være lige med den værd.
+
+37:43
+Hvis vi skal lykkes det lineære ligning system, så ville have total matricen bestående af den der og den der højreside.
+
+37:51
+Jamen, mine damer har nu det da bare i ét hug, fordi nu laver vi en total total matrix.
+
+38:09
+Det ved jeg ikke om den. Det hedder nok ikke det lyder bare marker. Så der er sikkert, og vi er nu oppe på tavlen ni.
+
+38:16
+Vi nærmer os en rekord, men prøv at se. Nu laver jeg det, som er totalt matricen for denne her matrix ligning.
+
+38:27
+Den består bare af koefficient matricen. Og så højresiden.
+
+38:35
+Det er bare denne matrix, og hvad er det så jeg skal gøre, når jeg løser dette her Linnés system?
+
+38:42
+Nå ja, jeg skal jo bare sørge for at få et taller ned gennem diagonalen her.
+
+38:48
+Hvis det kan lade sig gøre, så lad os få i gang og se, hvad vi kan gøre.
+
+38:53
+Nu er jeg ikke så fantasifuld til at starte med lige at bytte rundt, for så får jeg et et tal dér,
+
+38:57
+hvor jeg gerne vil have et et tal, og jeg kan ikke lide at regne med brøker, og det vil jeg lynhurtigt få her.
+
+39:02
+Så det får jeg sikkert alligevel. Så jeg bytter rundt på række efter række 2.
+
+39:08
+Så får jeg en fire. Og så får jeg noget ét.
+
+39:13
+Og så får jeg to og tre og et og nul.
+
+39:17
+Sådan. Så vil jeg bruge det et tal til at fjerne det totalt med.
+
+39:23
+Og det vil sige, jeg siger række 2 minus to og række et.
+
+39:30
+Og det må give en fire noget et.
+
+39:35
+Og så må det give nul og tre minus to gange fire.
+
+39:40
+Det er tre minus otte. Det må være minus fem. Og det viser jo bare at på et eller andet tidspunkt er man nødt til at komme til at regne Brügger.
+
+39:52
+Så hvad fik jeg så her? Her fik jeg en minutes to gange nul, det giver et et tal stadigvæk og noget minus to gange, inden det giver minus to.
+
+40:02
+Her er. At den grønne Dokøen nu er ved at være i kassen, er ikke fordi den har noget ideer.
+
+40:10
+Nu vil jeg bare have et ét tal her. Hvad skal jeg så gøre? Så sker det hele med minus fem, det vil sige gange med minus en femtedel.
+
+40:19
+Så jeg siger minus en femtedel gange.
+
+40:22
+Række 2. Og så får jeg en fire noget en nål ind og som en gang minus en femtedel der minus en femtedel minus to gange minus en femtedel.
+
+40:39
+Det giver to femtedele. Og så er vi også tæt på at være fyret efter.
+
+40:47
+Nu vil jeg bruge det til at fjerne det flertal, som mit sidste skud hedder.
+
+40:53
+Det bliver bare ikke et minus fire varer, ikke to.
+
+41:03
+Og så kommer den fester et og noget. Og så får jeg fire femtedele.
+
+41:14
+Jeg får noget minus fire gange.
+
+41:17
+Minus en femtedel. Det vil sige, at for fire femtedele her.
+
+41:23
+Og så får jeg en minus otte femtedele.
+
+41:28
+Det er mindst tre femtedele af det ikke rigtigt.
+
+41:35
+Fem femtedele er stadigvæk en hel, og når jeg har otte af dem. Ja, okay.
+
+41:39
+Og her har jeg noget, og her har jeg en. Og så har jeg minus en femtedel, og så har jeg to femtedele.
+
+41:51
+Og prøv lige at se. Nu har jeg løst det her ligning system, og jeg har fundet ud af, at det, der skulle stå hér som det ubekendte.
+
+42:03
+Det er det, der står her, og det, der står hér som de ubekendte.
+
+42:10
+Det er det der står her, og det vil sige, at jeg kan nu aflæse, hvad den inverse er.
+
+42:20
+For af en væres er simpelt hen den matrix, der står her, som hedder fire femtedele minus.
+
+42:29
+Tre femtedele mindedes en femtedel og to femtedele.
+
+42:38
+Så hvad kan vi se? Den matrix der står her.
+
+42:43
+Det her er en regulær matrix. Det har vi fundet ud af.
+
+42:47
+Den har en enhvers. Den inverse står her og kan vi kan.
+
+42:57
+Så hvis vi har lyst prøve at garne den sammen med den der, så er det stensikkert, at vi får en indlæse matricen.
+
+43:09
+Det er helt sikkert, ellers har er beregnet forkert.
+
+43:12
+Det, som måske er sjovere, er lige at bruge de sidste 30 sekunder til at løse ligningen system, og det er sådan set det, det hele handler om.
+
+43:22
+Så. Så lad os nu sige, at vi er i den situation.
+
+43:43
+Det er bare en fortsættelse af det samme eksempel, fordi nu bruger jeg det her.
+
+43:47
+Lad os nu sige, at jeg skal løse ligningen Sydspanien løs, løse to eks.
+
+43:53
+Et plus tre x to lige med et eller andet fire og så en x includes.
+
+44:04
+De fire x tåbelige med to.
+
+44:12
+Yoga serier af to trailere, en fire besvare præcist denne koefficient Matrix, så her står i virkeligheden matricen A fra det eksempel.
+
+44:24
+Vi har her garne x vektoren med en højre side, som jeg nu vil skrive.
+
+44:30
+Sådan hedder 4 2. Var det så garnnøgler fra venstre side og ser, så er X lig med af mine første gang.
+
+44:45
+Den vil jeg ikke tager som hedder 4 2 af mine 40.
+
+44:50
+Den står dér. Den hedder fire femtedele og minus tre femte dele minder en femtedel og to femtedele.
+
+45:05
+Det er vores af minus fyrre. Det skal så ganges med fire to.
+
+45:13
+Og hvad giver det? Ja, så skal jeg guide fire femtedele gange fire.
+
+45:19
+Det giver 16 femtedele minus tre femtedele gange to, og det giver minus seks femtedele.
+
+45:30
+På førstepladsen, så hopper jeg ned minus en femtedel gange fire.
+
+45:34
+Det må være minus fire femtedele. Plus to gange to femtedele det plus fire femtedele.
+
+45:49
+Har jeg ikke regnet med det minus fire femtedele plus fire femte lov og steges en femtedel af mine sek.
+
+45:55
+15. Den er god nok. Hvad giver det? Det giver 10 femtedagen og dette det giver jo nul og ti femtedele.
+
+46:06
+Det to vil løse ligningen, dvs.
+
+46:11
+Vores vektor x, som altså hedder x et komma x2 b er 2,0.
+
+46:21
+Og det betyder altså, at hvis jeg sætter 2,1 noget ind i ligning systemet, så skulle det gerne passe.
+
+46:26
+Passer pengene to gange, to plus tre gange noget der giver fire, er faldende rigtigt.
+
+46:32
+To plus fire gange 0 2. Det var ikke det løsningen.
+
+46:38
+Hvor svært kan det være? Det er jo trods alt kun matematik. Men det her skulle der en makeover metoden.
+
+46:44
+Det er fuldstændig ligesom, at dvd'er med tal.
+
+46:46
+Det eneste man kan ærgre sig over ikke også er, at det tilsyneladende er lidt bøvlede at finde er i minus 40 pct.
+
+46:54
+Prøv at forestille jer, at hvis det nu er en større matrix, så skal jeg gøre præcis det samme.
+
+47:00
+Det prøver vi at gøre efter pausen. Men mine damer og herrer, der er ankommet, anret i maven, der hedder et af mine første klik på Malung.
+
+47:12
+Okay, lad os holde pause. 300 pausefløjt.

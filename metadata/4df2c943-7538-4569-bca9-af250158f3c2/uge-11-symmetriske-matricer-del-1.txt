@@ -1,0 +1,1202 @@
+0:04
+Okay, velkommen til. Jeg beklager forsinkelsen skyldes at forelæsningen før hvor lidt over tid.
+
+0:15
+Vi er da for store dage, og vi skal se på symmetriske matricer, og vi kommer til at se,
+
+0:23
+at vi kommer til at anvende en del af det, vi har lært om egne værdier og egne vektorer.
+
+0:30
+Og især om diagonal i Seraing inden for dette emne.
+
+0:37
+Så lige først når overblik eller overblik over dagens emner i den første del,
+
+0:44
+så kommer vi til at indføre nogle begreb, som vi måske ellers ikke måske sikkert kender fra geometriske rum.
+
+0:55
+Da vi kigger på geometriske rum og planen for, talte vi om skalaer fra duftstof eller produkter og ord.
+
+1:02
+Så banalitet. Det skal vi udføre i dag i endimensional og rum og tale om.
+
+1:09
+Hvad er en normal basis? Og så kommer vi også til at diskutere en algoritme, som giver os ortogonale vektorer, hvor der er rotter normalt og vektorer.
+
+1:22
+Hvis de ikke er det i forvejen. Det er det, der hedder Graham Smith også banaliserer.
+
+1:29
+Når vi så nået frem, så vil vi se på symmetriske matricer og hvornår eller hvordan de kan derpå analyseres og sydstater med d'damer.
+
+1:44
+OK, så det ville vi bruge ret meget i dag.
+
+1:49
+Det er så og så på fredag, så går vi så let videre, og så taler vi om ord til Bindal, der komplementerer brejning matrice stil.
+
+1:59
+Vi skal bruge ekstensivt i dag. Det er altså det caner, som præger produktet.
+
+2:06
+Men vi kan også godt lide at kalde det skalaer produktet, og det er fordi,
+
+2:11
+når vi ganger to vektorer til over middag hinanden med prikproduktet, så får vi en skalar værdi.
+
+2:18
+Det vil sige en værdi for er inde i den reelle tal mængde.
+
+2:25
+Så her kigger vi så på udvidet som se endimensional og rum.
+
+2:31
+Det vil sige vi sidder på to vektorer a og b i én og skiller produktet.
+
+2:37
+Det er så også det, at vi ganger A og B på. Og så tager vi hver komponent af hver vægt på hver for sig, og og så får vi den her sum.
+
+2:52
+Nogle gange ser jeg også at det er skrevet med sådan nogle klammer eller runde klarer mig at for det.
+
+2:58
+Så ved jeg, hvad det er. Jeg ser det i et andet.
+
+3:03
+En anden forelæsning eller få personer, når slående vigtige egenskaber er ligegyldig i hvilken rækkefølge vi ganger de her to ord på.
+
+3:13
+Så det er et symmetrisk produkt, og det er også positivt.
+
+3:19
+Det vil sige, at hvis vi gerne vil have sig selv for, får vi et positivt tal.
+
+3:25
+Det vil sige en positiv skalar, og til allersidst, så kan man observere, at det er lineært i begge komponenter.
+
+3:34
+Det vil sige, at vi så tager denne lineære kombination.
+
+3:38
+For første argumentere ganger på, så kan jeg ganget ud på den her måde, og det samme gælder selvfølgelig også for det andet argument.
+
+3:48
+Det er det, man kalder for bil ind i en bil nær få.
+
+3:54
+Så hvis vi har det for, er vi i stand til at regne med de her skalaer produkt, så det vi lige giver et lille eksempel på.
+
+4:05
+Så vi har valgt sige Vi har ikke været hvor a 1,2 kommer 3 og B.
+
+4:25
+Minus 1 0 og minus 1. Så kan vi altså Garang de to tal sammen ved at gange en gang er minus 1.
+
+4:40
+Plus to gange 0 flås tre gange minus 1 vi får, og så er det altså minus 1 +0 minus tre.
+
+4:52
+Minus 5 4, og man kan se, det er vanskeligt.
+
+5:04
+Det er også muligt at bruge en hel anden notation eller måde at skrive skalaer produkt på.
+
+5:21
+Og det er noget vi tit bruger når vi prøver med noget Matlock eller i Mabel.
+
+5:31
+Det er jo så, at vi kan opfatte de her vektorer som en søjle væk.
+
+5:36
+Det vil sige. Vi skriver at A er den her søjle værktøj, og B er en salgsvare, der hedder minus over nul og minus 1.
+
+6:01
+Og for at skalere produktet kan vi så skrive at.
+
+6:16
+Det er det samme som når vi opfatter den her søjle af så som en 1-grand.
+
+6:25
+Det kan vi jo at opfatte som en yacht en.
+
+6:30
+Type med frygt. Hvornår vi gør det, kan vi godt finde på at transponeret den væk, så så kommer den til at ligne en række vækster stod for.
+
+6:48
+Og så kan vi erklære produktet ved hjælp af en matrixmultiplikation.
+
+6:54
+Det ser så sådan her ud. Nu sige Vi har en indgang af en indgang 1 3 med tryk som fri adgang er en matrix, der ved vi, hvordan vi skal ganget op.
+
+7:11
+Det er det samme som før. En gang er minus en to gange nul plus eller ja plus tre gange er minus en.
+
+7:27
+Og det er nøjagtig som ved Grand matricer før, så det er ret smart,
+
+7:34
+for vi behøver ikke at have en særskilt definition i vores programmer som flere skalaer produkt,
+
+7:42
+og vi kan i stedet for bruge alt det, der er implementeret med hensyn til matrix og gaber.
+
+7:49
+Vi kommer også til at bruge den samme madding her senere i forelæsning, når vi skal se på ortogonale matricer.
+
+7:59
+Om det så lidt senere.
+
+8:06
+Hvad folk søger brus eller produkter til at kunne definere længder og veksler mellem endimensionale vektorer, så det dækker udenfor.
+
+8:17
+Her. Det er jo.
+
+8:25
+Det er følgende følgende Vi har musvit, betragter H, A og B er elementer i en for ham sig definition på længden.
+
+8:49
+Og det skriver vi så ved er, at når Venstre.
+
+8:59
+Det her er skal vare produktet af med sig selv, og så trækker vi kvadratrod ud af det.
+
+9:08
+Det er akkurat som det, vi allerede kender fra lavere hvor af rum.
+
+9:16
+Hvis det så kommer til at erklære en vægter inden for endimensionalt og rum, så er det selvfølgelig lidt svært at forestille sig,
+
+9:23
+fordi vi ikke virkelig er i stand til at lave skitser af rum for større en dimension tre og dermed er dækket,
+
+9:34
+er der ingen selvfølgelige geometrisk tolkning for vinkel i endimensionale rum.
+
+9:40
+Men vi bliver alligevel nødt til at regne med det, og det vi kan gøre, det er altså, at vi indfører følgende definition.
+
+9:53
+Og det er at vi definerer.
+
+10:00
+At produktet er lig med længden af vækster A ganget med vægt B og så cosinus er den vinkel, som de bør indebære, fordelagtig det samme.
+
+10:17
+Vi amerikanere fra rummet fra tredimensionale geometriske vækster år.
+
+10:21
+Vi tager denne definition og udvider den nu så endimensionale rum, for det havde vi faktisk gjort.
+
+10:33
+Og hvis så det er så vigtigt at de to nægter A og B er forskellig fra 0.
+
+10:41
+Det vil sige, at vi ikke må indse, at nulvækst ord. Ellers kan vi ikke definere en vinkel.
+
+10:47
+Hvis vi starter for det dermed skal rum, så giver det god mening.
+
+10:51
+Den ene væg ser sådan ud, da anden når bare en nulvækst. Jamen, hvilken giver ingen stor mening.
+
+10:57
+Det gør det hellere ifølge denne definition, for vi ikke kan opløse det efter.
+
+11:10
+Efter COS News vil vi gerne vil gøre det vi skriver cosinus så svag, lige adgang.
+
+11:16
+B er forskellig og produktet divideret med vægten af de to vektorer.
+
+11:28
+Så du skriver det lige igen. Blæs A og B forskelligt fra 0.
+
+11:38
+Så kan vi godt skrive kog ved Bov.
+
+11:46
+A ganget med b divideret med a og b.
+
+11:51
+Længde og v der hedder så vinkel mellem.
+
+12:01
+A og B. Så er det så at vi selv om vi regner i endimensional og råber så kan vi også tænke på
+
+12:17
+vægten og som en slags generalisering af vandglade om stadigvæk to ord i plan eller råben.
+
+12:24
+Og det gælder for alle.
+
+12:29
+Det er især vigtigt for et tilfælde. Hvis vi så siger, at vinklen er peg, havde 11.
+
+12:41
+Og det ved vi jo hvornår det er. Det må være.
+
+12:46
+Når AC cosinus er noget vil sige A og B Guide på hinanden, så får vi fra nul.
+
+12:57
+Så siger vi at A og B. 40 over til Ronald.
+
+13:10
+Og vi skriver. Det er her at ortogonale set fanger mellem A og B.
+
+13:18
+Og det er denne definition, som måske er den mest grundlæggende i dag, og som vi kommer til at bruge igen og igen.
+
+13:37
+Det sidste vi så vil gøre, er jo, at vi også vil kunne gøre det vi kunne før.
+
+13:43
+Det vil sige vi vil gerne kunne privatisere reaktorer i det endimensionale rum.
+
+13:48
+Så det skal vi også lige have styr på. Der har vi projektionen er vektorer.
+
+14:11
+Og som er alt for giver det god mening med en lille skitsen, så lad os sige vi har denne her vægtere af.
+
+14:19
+Og selvfølgelig kan jeg ikke tegne den, for de er en slags ja, til tider med en karakter uden på engelsk.
+
+14:26
+Så måske forestil dig, at delene udvider i højere dimensionale rum.
+
+14:32
+Selvfølgelig kan man altid projicere noget til tredimensionale rum.
+
+14:36
+Så kan man også tegne det her, for det ser sådan her ud.
+
+14:42
+Det her er B, og vi vil gerne improvisere af noget påbud.
+
+14:47
+Det gør vi ved at finde løget her, noget og projektioner.
+
+14:55
+Det er jo så den vektor, der har magtet den her længde.
+
+15:01
+Det siger sig selv, at det vil vi kalde.
+
+15:07
+A på B. Det skal vi lige udregne.
+
+15:11
+Hvad er det denne her lægt er? Det er.
+
+15:22
+Havde en trekant med en ret vinkel. Det her er.
+
+15:32
+Simpelt hen. Længden af ganget med cosinus er ved.
+
+15:39
+Men nu er højere altså en vektor som vi skal have darker ned på med en enhed, svigter i den her retning, det vil, siger Yde, skriver B.
+
+15:48
+Det ville der med dagens latter. Så har en længde en.
+
+15:53
+Så har jeg så fået den her projektion. Og når vi så har gjort det, så vil vi gerne lige omforme det en smule.
+
+16:09
+For det første kan vi forlænge den her bryg, for der står B i for kan jeg skrive herover af længde gange SBA længde cosinus, svag.
+
+16:25
+Og så kan vi genkende det her. Det er jo intet andet det her udtryk end skalaer paradokset mellem A og B, og så kan vi skrive følgende.
+
+16:43
+På den måde. Og en seng vi benytter os af i dag, er rigtig mange gange.
+
+16:52
+Det er hvis nu B allerede er normaliseret.
+
+16:59
+Hvis vi arbejder med en vægtere som har længe da en.
+
+17:12
+Så kan vi jo er production A på B.
+
+17:18
+Det er bare givet røde skalaer produktet a grand af B og ganget med vektor b som H.
+
+17:35
+Og det er sådanne sammenhænge vi kommer til at bruge rigtig meget, når vi til sidst i første time går gennem det,
+
+17:44
+der hedder Graeme Smith, hvor tingene er realiseret, og vi leder efter et sæt af vektorer, som er i indbyrdes ortogonale.
+
+17:56
+Spørgsmål. Ikke lige nu godt det her.
+
+18:03
+Sure. Så skal vi lige hjem. Det har vi set på.
+
+18:10
+Så skal vi se på den næste sløjt.
+
+18:14
+En definition vil skal indføres. Skal det andet vække de begrebet, og det er, at vi vil definere hvad er en normal basis, så det vi har?
+
+18:27
+Det er som sædvanlig et værk for investorer ord som er en basis.
+
+18:34
+Det er hende, der besidder en styks af dem, og de er lineært uafhængige.
+
+18:40
+Og hvad ved hedder så ortogonale? Hvis følgende relationer gælder, er det at skalar og produktet af to forskellige järved i to år.
+
+18:50
+Det må være 0, hvor f måde vi bruger den samme.
+
+18:54
+Jamen så får vi jo den dennes vægt Thorst længde og den er så ikke bare forskellige for 0.
+
+19:04
+Den skal være den egentlige vægt, så den må være forskellig fra nul.
+
+19:08
+Nej, vi kræver også, at den har længde ind, og det er fordi vi faktisk vil have, at det er normaliseret felt feltet.
+
+19:17
+De to relationer kan vi så sammenfatte føle med måde, hvorved garvede med ved J det er en nøjagtig det samme vægt.
+
+19:27
+Og ellers er der nul, og det skal gælde for alle kombinationer af i og J.
+
+19:37
+Det er også en slags basis I kender og rigtig godt. Hvis vi går videre og ser på eksempler på romaner bagefter, så har vi det måske eksempel i morgen.
+
+19:58
+Så har vi standard basis i den geometriske ved geometriske rum.
+
+20:07
+Det var A er sammensat af i J og K, og vi ved forstår vi godt at de har længde en.
+
+20:20
+Det vil sige når jeg ganger i med i, så får jeg en og det samme skal gælde.
+
+20:27
+Jeg gøre det med J og K. Derimod vil så gøre sangere i med J.
+
+20:37
+Eller hvad det er jeg kan gøre. Det er J.
+
+20:42
+K. Og det andet par, hvor de er forskellige.
+
+20:47
+Hvordan Det i og kog Japan for Fourier.
+
+20:52
+Så ved vi, at de er året før. Godnat og det er sådan de er defineret i den geometriske eller geometriske rum.
+
+20:57
+Det vil sige, at produktet er noget. Men definition.
+
+21:10
+Ja, det var for svedigt, det jeg vil sige for dig og det andet eksempel det eksempel irriterer,
+
+21:18
+så har vi selvfølgelig et tilsvarende standard basis i.
+
+21:27
+Der er regler, så alle rum er fri. Og.
+
+21:45
+Vi ved det jo. Det er jo den der hedder F.J.
+
+21:52
+Og i tog og tre, så ved vi hvad.
+
+21:59
+Det kan vi se her, hvis vi udregner for eksempel en anden.
+
+22:08
+Det vil sige en en gang i ét, for får vi det garvede A Plus nogle gange nul blues.
+
+22:19
+0 0 og det er lig med har længde et skridt af at have par, hvor der er to forskelle, og der kan vi se et.
+
+22:30
+Salget vil stå et andet sted. Det vil sige, at vi er blevet nødt til at gange 1 med 0, og her er det så 0 og nul, og så bliver det.
+
+22:44
+0 med nul igen, og det er også lig med nul.
+
+22:48
+Så de har også ord til Canal. Og det gælder selvfølgelig for alle mulige kombinationer, så hvis vi ganger i med i kog,
+
+23:02
+så er det altid lige bag en eller med 0 1, når det I er lig med kog, og ellers er det nul.
+
+23:21
+Sådan er det mindre trivielt eksempel, det er følgende brand anden.
+
+23:33
+Hvor normale Basses. Så er fri.
+
+23:44
+Og den. Og så ved Gide er tre par eller tre år ved et, to og tre, og det hedder det over kvadratrod 2, 0 og e over kvadrat røvet to.
+
+24:06
+Så er der den der hedder 0, 1, 0 og 1.
+
+24:10
+Fedest hår og edderkopper og få noget om news ned over karat og to blonde.
+
+24:19
+Vi gav med det samme se at de er over til Giornale, hvis vi starter den vej, så med den her.
+
+24:26
+For det eneste sted, hvor inderen Garcons får det, og der opstår nul.
+
+24:31
+Det samme gælder os her, så det bliver noget, når vi ganger den sidste med den første vægt, så så har vi en.
+
+24:43
+For over overtog i anden. En karat råvare tog i.
+
+24:51
+Og det kan også at op mod nul. Lige få udført ved et gartneri med tog ved et træ.
+
+25:10
+Det er. Fem år.
+
+25:15
+Og så har vi. Derfra så det gå ud med.
+
+25:25
+De er også normale. Det kan vi se på først.
+
+25:32
+For eksempel ved i et hjørne ved et ganger noget ved et d er a over kvadratrod tåger.
+
+25:47
+I anden + 0 Gaga 0.
+
+25:53
+Knuse. Over kuratorer tog. Dørene med sig selv.
+
+26:02
+Ja, altså hallo. Plus en halv, og det ved jeg jo godt lide med, så den er god også.
+
+26:09
+Og det kan vi så gennemgå for alle de her vægge, så kombinationer.
+
+26:15
+Men der er måske bedre måder at se på det. Og. Hvis vi laver en skitse, er de her begge to ord for at vi kan godt se hvad der foregår.
+
+26:27
+Hvis vi tegner dette som en projektion plan, så kunne vi kigge på følgende koordinatsystem.
+
+26:38
+Det gør vi lidt anderledes end vi plejer. Måske for ikke sagt som her, og hvis ikke saksen er her, så må i aksen komme herud og set,
+
+26:47
+at aksen den går højere end herover, så det er positiv orienteret.
+
+26:55
+Koordinatsystem x, y og z. Så det er godt nok, skrev vi inden øjne ved et.
+
+27:02
+Ja, det er sådan vækster, der har en over kvadratrod to her, og det har den også her.
+
+27:17
+Det er det der svarer til ved et.
+
+27:22
+Så er der den her, der hedder et træ. Det er så samme bare at sætte.
+
+27:28
+Komponenten har nu omvendt fortegn, det vil sige vi er her og over.
+
+27:40
+Dette er vores ved et træ.
+
+27:45
+Hvad så med et tog? Jamen, man har jo nøjagtig koordinaterne y aksen ved det er dem der højre ud her.
+
+27:56
+Vores fejl. Det er vores med et veto vægter for hvad vi kan se.
+
+28:04
+Det ved vi også, når vi får de her tal.
+
+28:06
+Hvis vi husker helt tilbage, da vi snakkede om cosinus og sinus, så er der en vinkel, der er muligt at gøre det, og det er tid for det.
+
+28:19
+Kan også her for at den længde og den længde er den samme.
+
+28:23
+Så det er den vinkel halveret af den rette vinkler.
+
+28:27
+Vinkler peg halve. Så det vi kan se er at den her vægt så basis.
+
+28:40
+Det er faktisk M. Vi kan jo forestille os det som en Brade version af standard basen.
+
+28:47
+Det er jo den vægt for her dagen og den der kommer ud her.
+
+28:51
+Det er det, der giver standard bagest. Godt.
+
+29:11
+Det er så den ord som normalt er basis. Vi har set på og vi har set på eksempler.
+
+29:21
+Der gav derfor også følgende sætning, og det er, at et sæt af egentlige vektorer de er, hvis de er indbyrdes ortogonale.
+
+29:33
+Så ved vi hvad desarmere, og så de er lineært uafhængige for hinanden.
+
+29:40
+Og det jeg forstår, ved vi intuitivt klart med sit Sänger på biomasse i skoven.
+
+29:47
+Vi har ortogonale og vektorer. I havde de standere basis vektorer i kog.
+
+29:54
+De var over tårekanaler behandles så i en anden. Jamen, så er det selvfølgelig da også lineært uafhængigt for hinanden.
+
+30:01
+Men vi vil så alligevel lige se på og bevise den sætning.
+
+30:34
+Kære. Vi. Gennem denne her tegning så senere.
+
+30:52
+En. Det vi kan se på er at flyet kan betragte Linnéa kombination.
+
+31:09
+Af vektorer. Det vil sige af ortogonale og vektorer som er givet og hvis vi har det.
+
+31:23
+Og så har vi så den her vægt, så ved at gå i gang med en plus og så videre.
+
+31:32
+Jeg søger noget til sidst væk, så hvad er det, der skal gælde, hvis de er lineært uafhængige?
+
+31:50
+Nu siger du løsning så hvilken ligning. Jeg.
+
+31:59
+Vi ser på denne her ligning.
+
+32:04
+Hvor Lennart kombinationen går ud mod nul, og for som du fuldstændig rigtigt siger.
+
+32:09
+Hvis. Eneste løsning er.
+
+32:27
+Nulvækst fra koordinaterne for det vel mere uafhængig.
+
+32:48
+Og. Det er så det vi lige vil se på.
+
+32:54
+Det vil vi vise. Så vi starter med at vi ser på METAR.
+
+33:01
+Vi trækker en vægtere ud af vores basis, eller hvad er det, vi har talt om basisten.
+
+33:07
+Men et sæt af vektorer. Så kan vi trække en af dem ud, for eksempel den der hedder Ved I.
+
+33:17
+Og så ganger den på den her vægtere kombination, der hedder VE.
+
+33:27
+Så får vi ved I er det her Skylar produkt, der hedder ved i Grand K, en bakke ved ét og så videre.
+
+33:38
+Grand PlusCON en bakke ved EM.
+
+33:44
+Jamen, det kan vi gang ude. Og ifølge forudsætningen for er de væk og regionale med hensyn til hinanden.
+
+33:53
+Det vil sige med sved i hvis I er forskellige for en,
+
+33:58
+så bliver ved i ét i igang ved en der bliver lig med nul og med alle andre også på nær nøjagtig 1.
+
+34:08
+Det vil sige dem der hedder kog i grand og et produkt.
+
+34:14
+Det er det, der ser sådan her ud. Og det ved vi også, men det er det jeg så kog i gange længden af netop den vægtere.
+
+34:31
+Vi ved også, at den her længde. Denne er forskellig fra nul, fordi det er en en ligevægt, så det forudsætter.
+
+34:42
+Og hvis det så er sådan. Og hvis vi ser på lineære kombinationer foregår ude mod 0.
+
+34:55
+Så bare for at skrive det ned i røret igen.
+
+34:59
+Det her produkt svarer Servet i gang af nul flex, så det er selvfølgelig nulvæksten, så det her må også blive noget.
+
+35:10
+Der er det ikke nulvækst der morgendagen skal vare. Sundhed.
+
+35:17
+Så også dette lige med nul, og den eneste mulighed, hvor det er muligt, er selvfølgelig beskåret.
+
+35:24
+I er lig med nul. Så konklusionen er, at hvis vi kigger på dette produkt, ved I med en vægt så kombination som den lineære kombination af vektorer,
+
+35:39
+som hedder ve, og vi forudsætter, at det er lig med nul, så den eneste mulighed at K i er lig med nul.
+
+35:50
+Dette er udregning, det kunne vi jo så gøre med alle i, så det må også gælde for alle i.
+
+35:59
+Så. Hvis det gælder for alle i jamen så har vi bevist, at den eneste løsning er netop denne her,
+
+36:17
+hvor alle koordinater er lig med noget, og derfor er der så det her væk.
+
+36:24
+Så sæt oktobernat. Og det var det vi skulle bevise.
+
+36:45
+Spørgsmål hertil. Hvor.
+
+36:58
+Så kommer vi endelig til vores mål.
+
+37:03
+I første time her og det er at vi.
+
+37:08
+Skal finde ud af hvordan vi kan. Finde sådan et sæt er ortogonale vektorer.
+
+37:19
+Så spørgsmålet er. Hvordan finder vi i dag?
+
+37:28
+Slidgigt for her vedrører altså de her spørgsmål Kan vi gå den omvendte vej?
+
+37:36
+Den vej denne sætning hedder opgøret vil sige den siger vist vektorer og indbyrdes tårekanaler,
+
+37:43
+så det ligner at uafhængige sin omvendte vej er så gide, at clinical uafhentet afhængigt breakthrough set.
+
+37:52
+Kan vi finde en overtog normale basis kan vi finde ind, så de bliver også banale.
+
+38:00
+Og det gør vi så ved hjælp af en algoritme, der hedder Graeme Smith ortogonale Xerox.
+
+38:10
+Og om. Så.
+
+38:17
+Det vi kan gøre her. Nye slukker.
+
+38:26
+Det er at vi. Gå i gang med det.
+
+38:48
+Det vil sige dyre. Problemet er som følgende gide et af af at.
+
+39:00
+Uafhængige vektorer og det hedder det et.
+
+39:11
+Sølv ved EM. Langt bedre u er vores skyld.
+
+39:24
+Og 1 da vi vil finde eller kræve det er.
+
+39:47
+Fem sæt af ortogonale vægt tog som er konstrueret ud fra det her sæt.
+
+40:02
+Det er det vi skal gøre. Når så det skal ikke kun være ortogonale, det skal være overtro normalt.
+
+40:13
+Du har rettet her. Det er en vigtig forskel. De er ikke kun indbyrdes ortogonale, og de skal også have længde en.
+
+40:25
+Og det giver os ligesom det første skridt. For så kunne vi jo bare gøre følgende en værktøjet her u et.
+
+40:37
+Denne. Vi kan ikke sige om den offergave til noget endnu, men vi kan normalisere den, der vil sige med dividere den med dens egen længde.
+
+40:48
+Så får vi altså en ny vægt, så W. Og det er en enhed og svigter eller hvid.
+
+40:56
+Undskyld, det får jeg ny Basses skal hedde V.
+
+41:02
+Og. Hos klædte sig ud her, så følger.
+
+41:09
+Så det her er første skridt. Så det var dejligt nemt.
+
+41:30
+Nu skal vi selvfølgelig gå videre, og hvis vi så vil konstruere en ny væg, så på heder ved et tog,
+
+41:40
+så bliver vi nødt til at bruge en lidt smart strategi, og det vil vi især.
+
+41:49
+Så hvis vi har vores første vækst, så.
+
+41:55
+Og den hæder ved et det var at sige ved et.
+
+42:00
+Det var den vilde fan til og. De kan også gøre det hele lidt mere farverige, så hvis vi starter med den her.
+
+42:14
+Basels U. Rød for er den her u et væk, så denne er måske her.
+
+42:27
+Og så vil sidde med ved skumlede. Hun er ind i målet. Det der skal hedde, vil et sted selvfølgelig med til at øen segner.
+
+42:36
+Denne her er sig ud af en endevæg, så det kunne være den stribede herover.
+
+42:46
+Og den hedder Out So. Så der måske en ting vi husker.
+
+42:55
+Hvis vi så vil have en ny vægtere, som er ortogonale på ved et.
+
+43:02
+Det er den helt rette vinkel vi søger væk, så ved de to herrer, som er overtal banalt ved et, og vi vil bruge uge to til at konstruere den.
+
+43:12
+Jamen, så ved vi, at Muuto kan skrives som en sum af to vektorer.
+
+43:22
+Denne er nemlig dagen, der er produktionen hernede på ved ét, og den skal finde det.
+
+43:29
+Så venter H. Ved tog her.
+
+43:36
+Og. Den her vægt så derved vil.
+
+43:47
+Det her er den der er produktionen af.
+
+43:56
+U tog på ved et Hva så u tog jeg vi ned på, hvis det giver os den her vægter.
+
+44:05
+Roy Out to kommer ved et valg, så vi trækker den fra uge to damer.
+
+44:11
+Så får vi N med eks'er der hedder.
+
+44:17
+Den hedder. Sorg minus projektion af u ned på væk, så 1.
+
+44:30
+Det giver os faktisk nogle værktøjer, som ikke har længde ind nu.
+
+44:35
+Så jeg vil først kalde det en W.
+
+44:42
+Og det vil sige den her skal hedde W, og den skal skumplast ned, så i noget der har længde af en LiveLeak hær et.
+
+44:57
+Så den næste vel skal gøre efter vi har udregnet denne her er at dividere den med dens længde.
+
+45:04
+Men lad os lige udregne det her. Det der var pointen her, er.
+
+45:10
+At ved et allerede er normaliseret, så fik vi den sammenhæng.
+
+45:14
+Når vi projicerer ned på en enhed og svigter, jamen så kan vi skrive det som skalaer produktet af den første.
+
+45:22
+Men namen og gakkede med enere svigter, så vi kan udregne det her.
+
+45:28
+Og det bliver så Uth so minus to.
+
+45:35
+Ganget med ved ét og ganget med ved et.
+
+45:40
+Det er vores nye værktøj. Så skal vi lige huske at normalisere dem.
+
+45:48
+Det vil sige ved et tog. Jeg så den her.
+
+45:55
+Divideret ved et blev ved tog divideret med dens længder, så det var første skridt her for at få to ortogonale vektorer.
+
+46:08
+Det næste vi så skal gøre, er selvfølgelig, at vi skal være i stand til at køre hele vejen igennem det her.
+
+46:17
+Så set ud se ud uden for at finde resten af det overtog normale vektorer.
+
+46:24
+Det vil vi lige se på her. Vi kan selvfølgelig også tjekke, at det er rigtigt før vi går videre.
+
+47:14
+Er det rigtigt, at. De to nye med tog over tårekanaler.
+
+47:23
+Det kan vi udregne, så vi har vi.
+
+47:27
+Vi behøver ikke at tage ved Tobagos W.
+
+47:31
+Så så behøver vi ikke at få den normaliseret, for det er nemmere at regne.
+
+47:36
+Så har vi ved øvrigt fuld tog ved et gang uge to før minus to gange.
+
+47:49
+Et sted, hvor skalaer fra vugge til bare skal vare. Så jeg kan skrive.
+
+48:00
+Det er det der kommer ud her. Det her er bare længden af ved et værk, så den er en forveddede står her.
+
+48:11
+I sidste ende bare fordi jeg må bytte rundt.
+
+48:16
+Det er et sympatisk produkt. Forstå det her, og det går selvfølgelig ud et nul her, så det er rigtigt nok.
+
+48:33
+Når så vi fik de første to vektorer, så skal vi i gang med den videre.
+
+48:39
+Ideen er at få fitjar næste vægt, så det er U3 og vi supplerer her alle de vektorer fra som i forvejen er.
+
+48:56
+Hvor til kanaler. Så vi for production.
+
+49:09
+Bruge tre på ortogonale sæt.
+
+49:16
+Møller overtog normalt surf favorit side. Så når jeg glider af eller ved ved et farvel to skyer så.
+
+49:34
+Det er det jeg skriver ny vægt, så den er hård for W.
+
+49:37
+Tre mænd har givet hver uge tre minus projektion af uge tre på ved et tog.
+
+49:51
+Og det er så det, vi får her fra Frederikssund.
+
+49:56
+Hvis ved et har længe dage, har vi sørge for, og så supplerer Jæger.
+
+50:01
+Vi er også den anden fraktion fra, der hedder Ude tre ganger ved et banner med et.
+
+50:09
+Og i det næste skal vi så selvfølgelig føre denne her vægt, så.
+
+50:18
+Og vi får vel tre bliver divideret med dens længde.
+
+50:25
+Det er sådan det foregår. Det kan vi så køre videre for her skema.
+
+50:33
+I korte skridt forud for W.
+
+50:38
+K. Det er. O.
+
+50:44
+K væk, så menes summen over alle de her produktioner, så skriver stor summen sig.
+
+50:53
+Og det har vi prøvet. Se det her u K på v, j.
+
+51:00
+Og det er de j vi allerede har normaliseret sig normaliseret.
+
+51:05
+Det vil sige vi går fra J lige med 1. C.
+
+51:09
+K. Minusser Fordi den kvote ikke findes siden.
+
+51:16
+Og når dette er færdigt, så skal vi igen normalisere. Så får jeg også den her frihed og.
+
+51:26
+Som her når vi er nået frem til 1. Så er vi færdige.
+
+51:32
+Så man kan kun håbe at man ikke får et stort set af vektorer. Ellers bliver det en dejlig lang eftermiddag.
+
+51:42
+Hvad gør man så?
+
+51:46
+Pointen er, at det nye set er væk. Ordet i kog, de alle ortogonale indbyrdes.
+
+51:53
+Ifølge algoritmen er det klart, at de er længe, da en snegl bliver skubbet ned til støvet og dermed set længde ind.
+
+52:00
+Men det vil gøre det, så vi starter med sådan en vægt, så ved et uheld tager vi i skoven, var der med.
+
+52:08
+Og så får vi den næste bold. Uge to subsidiere projektion af uge tog ned på den.
+
+52:16
+Vi har allerede fundet, så får nye værktøj, og den er givet ved ortogonale.
+
+52:22
+Med hensyn til den første i næste skridt for at vælge nye værktøjer og subsidiere direkte til ord, vi allerede har ortogonale seere.
+
+52:31
+Ja. Ja, der mangler lige noget.
+
+52:37
+Det har du fuldstændig ret i. Du skal stå her.
+
+52:47
+V J. Ellers får kornet skalar og jeg skal fatte egenvægt.
+
+52:52
+Så nu bliver det i hvert felt algoritme set mening eller genetisk set, og det giver os mening i følge vores tankegang.
+
+53:05
+Hvor galt det går, så har vi lige et eksempel og pause bagefter.
+
+53:13
+Og vi vil lige illustrere den her algoritme på et sæt tog.
+
+53:23
+Og det hevet op i. Det gjorde det også før man.
+
+53:29
+Og det er tro tre styk, to vil måske været lidt for nemt.
+
+53:37
+Og de hedder heldigvis noget nemt, så det bliver.
+
+53:42
+En kort øvelse for tre sexologer bestående af nåletræer og indere, og når jeg ser mange nulre, for det er en god nyhed for os.
+
+53:56
+Vi starter med det første skridt. Hvad var det flottere end vækster og skubber hvor ned på længde 1.
+
+54:04
+Så ved et. Der er nu et a og b divideret med længde af uenig.
+
+54:17
+Og det vi vælger her, er det den vægter, så er den vægt,
+
+54:21
+der har en længde på en over føderale råd fra en over kvadratrod to ganget med det her, for at vi får den her 40 stavelse.
+
+54:49
+Stærke farver og ude højner længden eller skalaer produktet af den vægt,
+
+54:54
+som i sig selv er en 1 +0 0 plus en gang af med, giver to og bliver nødt til at trække Kvadrat med det.
+
+55:03
+Giver Kvadrat råder over 2.
+
+55:05
+Så det var ikke svært, for skal vi videre til næste værktøj og den kraftigste for starter vi først med at konstruere den ortogonale af vækster,
+
+55:17
+der hedder W, tog vi så den anden med.
+
+55:23
+Så der er givet ved den her, og sook trådte her dens production ned på det, der nu hedder ved et.
+
+55:34
+Og så kan vi lige så godt skrive ud, for har vi u et sted af den der hedder 0 1 over 0 minus 0 1 over 0 og ved et sted det der hedder det her land,
+
+55:49
+kan jeg faktisk godt lide denne skrivemåde, så jeg skriver først dagen væk, så her og så længe den her flyver ind over kvadratrod over to.
+
+56:01
+Man kan jo også se, hvorfor jeg gøre det. Folk kan dejligt nemt se, at dette produkt er nogle gange en klods, når 1,0 plus 0,1 går ud mod 0.
+
+56:13
+For vi får bare den her vægt, så har du et længde.
+
+56:19
+Ja, det har den, for vi er faktisk færdige med at finde to.
+
+56:26
+Så det går rigtig hurtigt, og det betyder, at vi kan komme i pausen lige om lidt.
+
+56:34
+Der er nemlig kun én tilbage. Det var den der.
+
+56:38
+W 3. Den dårlige nyhed er, at de er lidt mere indviklet og regne, så vi starter med uge,
+
+56:47
+og nu så tror jeg, at vi i den sprøde nede på blev et og det, der hedder vil to.
+
+56:55
+Så vil vi få tre gange med et tog her ganget med to minus utryg ganget med et ganget med ved et.
+
+57:12
+Husk det er vigtigt at de sætter parentesen rigtigt. Det er jo, at vi først udregner uge tre skalaer med ved to.
+
+57:22
+Og ikke ved et to med to for forrige valg, der peger i retning med tre i strid for i retning af vedtog.
+
+57:31
+Det gælder for alle de her produkter. Så der er noget 0 1 her.
+
+57:41
+Så har vi åbnet 0 0 1 ganget med et, og den hedder 0 1 0.
+
+57:50
+Kvartals ganget med 0 0.
+
+57:57
+Og den næste hedder. 0 0, en uge tre ganget med V et og.
+
+58:10
+Det vender 0 1 og så gang og middag på med deres normale service konstant.
+
+58:18
+Og ganger vi sørme ganger med ved to.
+
+58:25
+Jeg vil sige, at min far denne her gang.
+
+58:28
+Og så skal vi husker så det her i kvadratur. Så lad os lige se på det.
+
+58:36
+Skal love for det her 0 0, 0 1, 1 0.
+
+58:39
+Det går vist ud mod 0. Det var 0 0 vægteren faktor, og her har vi en gang 0 0 en gang.
+
+58:52
+Her er vi ikke så heldige noget forskelligt fra nul, og vi får her, at den lige med 1.
+
+59:00
+Det går ud lægger ud. Det er en gang en darker med en hale, det vil sige alt det her.
+
+59:04
+Det bliver en halv, og så får vi endelig den endelig så hård.
+
+59:11
+Så blev vi vist lige noget til at.
+
+59:18
+På den næste tavle. Så hvad bliver det vi har her?
+
+59:36
+W 3 er lige med 0 over 0 over 1 minus en halv.
+
+59:45
+1 0 1. Så får vi minus en halv nul og en et.
+
+59:53
+Plus en hjælper. Så det er vores W. 3.
+
+59:57
+Der skal vi lige have divideret med dens længde.
+
+1:00:03
+Så får vi den sidste endelig endelige værktøj. Og hvad har det for en længsel?
+
+1:00:11
+Det bliver kvadrat råd ud af minus en hale i anden.
+
+1:00:16
+Plus 0 plus med en hale i anden. Det er en kvart kvart, en halv.
+
+1:00:23
+Det er så over kvadratrod to.
+
+1:00:30
+Det vil sige jeg har en over i over kvadratrod to ganget med den her vægt, så.
+
+1:00:45
+Det går op her, så får vi så en halv darker med kvadratrod 2.
+
+1:00:52
+Det er minus kvadratrod, tog nul og parat råd to her.
+
+1:01:01
+Det er ikke helt rigtigt. Det skal hedde divideret med hvor har vi det minus 1 divideret med kvadrat.
+
+1:01:09
+2 0 og e over kvadrat overtog, og det her er vores endelige værktøj.
+
+1:01:18
+Det var for så vidt det er en enorm nyttig algoritme bruges også i andre sammenhæng eller varianter af.
+
+1:01:33
+Man kunne så tænke over hvad der ville være sket, hvis vi i stedet for havde startet vores algoritme,
+
+1:01:42
+hvor så som marginaliseringen med en endevæg, så får vi valgt at udstille.
+
+1:01:47
+Så kunne vi også have valgt den her. Og pointen er, at vi ville have fået et andet sæt af ortogonale basis i det tilfælde.
+
+1:01:58
+Det kan vi nemt se, hvis vi tør dagen her og trækker produktionen af den væk.
+
+1:02:07
+Så på den her fra? Ja, men. Så så ville vi faktisk få noget der svarer til vores standard basis i stedet for.
+
+1:02:18
+Og det er det, der svarer til en druide version af den vægtere basis, vi har fået her, som er givet ved den ved tre tog og ved et.
+
+1:02:35
+Det er det, vi så i et tidligere eksempel, så pointen er, at det resulterer mod set.
+
+1:02:42
+Ortogonale set er ikke entydigt. Det afhænger af valget for første værktøj, og hvis man må det selv om det giver noget andet,
+
+1:02:53
+jamen så kan det jo godt være, at man vælger første vægtere, fordi netop den retning er vigtig for en.
+
+1:03:03
+For at komme videre med en anden problemstilling. Vugge for pause med sine spørgsmål.
+
+1:03:10
+Kom endelig frem. Jeg tror, at vi skal fortsætte 20 år endnu.
+
+1:03:14
+Du sige om ti minutter og så videre lidt endnu og gøre.
+
+1:03:18
+Vi startede lidt for sent, da besøger.

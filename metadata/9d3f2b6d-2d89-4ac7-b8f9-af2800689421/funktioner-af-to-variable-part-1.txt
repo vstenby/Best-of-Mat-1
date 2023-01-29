@@ -1,0 +1,1034 @@
+0:04
+Når man læser at der skal. Krummerne alt sammen og hjerteligt velkommen til semestret.
+
+0:15
+Det er jo længe siden, vi har set hinanden et par måneder siden.
+
+0:19
+Jeg håber, I har haft tid til lidt ferie, men dog i haft en god 3 ugers periode i efteråret.
+
+0:27
+Da havde vi jo et samlet emne, der handlede om Dina algebra og differentialligninger, der hænger godt sammen.
+
+0:34
+Og på samme måde kan jeg love at få semestret. Det er også lidt et program, der hænger rigtig godt sammen.
+
+0:40
+Vi kom med det. Jeg skulle bruge noget af det, vi lærte i efteråret.
+
+0:43
+Men der er selvfølgelig også meget nyt stof, og emnet er differentiable funktioner af flere variable,
+
+0:51
+og vi arbejder mest med to variable, fordi det giver os meget af det principielle i dem.
+
+0:57
+Men I vil også støde på funktioner af tre variabler og måske flere c.
+
+1:05
+Vi arbejder jo nu 8 uger i træk lige ud af, og derefter så har vi jo forårets store projektarbejde, der faktisk fylder det meste af 4 uger.
+
+1:17
+Og der får vi forhåbentlig en god oplevelse af, hvordan matematik og specielt den matematik I har lært matematik.
+
+1:25
+EB hvordan den kan bruges i tekniske anvendelser, så det håber jeg, I får en rigtig god oplevelse ud af.
+
+1:32
+Det er noget, der i hvert fald for os underviser og betyder rigtig, rigtig meget for kurset.
+
+1:37
+Profil. I dag skal vi introducere differentiable funktioner, og nu er vi i 3D.
+
+1:49
+Og det vil sige, når man tegner graferne, så bliver jeg fladere i rummet, og det vil sige sådan en dag som i dag.
+
+1:54
+Der undgår jeg så ikke metaforer og bjerg metaforer i går op i bjergene.
+
+2:01
+Og så skal I finde, de stiger på, for den stiger mest.
+
+2:05
+Eller kan man finde en vej rundt på bjerget, hvor der hele tiden er den samme højde?
+
+2:09
+Det hedder niveau kurver op, kan man sige noget om?
+
+2:13
+Hvad er stigende skrald i en bestemt retning?
+
+2:16
+Altså er det altså noget, som vi skal arbejde med i dag, så det bliver der også lagt op til jule testprogrammet.
+
+2:25
+Så I må endelig tage erindringerne frem,
+
+2:29
+hvis jeg havde haft tid til skiferie og den slags sjove ting her eller i sommerhus, da I var på Alpe Dynæs med cyklen.
+
+2:39
+Men programmet er altså, at først så giver en intro op,
+
+2:47
+at vi skal snakke lidt om de et niveau kur, og så har vi et begreb, der hedder partielle afledede.
+
+2:55
+Og det er sådan nogle differentiel, som vi godt kan finde ved hjælp af de metoder, som vi allerede kender fra gymnasiet.
+
+3:02
+Og for de første fire uger, vi havde i efterårs semestret. Så teknisk er det lidt nyt, men det tror jeg, I nemt vil komme efter.
+
+3:12
+Så har vi gradient der. Det er nogle bestemte vektorer, som består af de partielle afledede og så cirka her.
+
+3:21
+Der holder vi så pausen, og så skal vi først rigtig snakke om det dér begreb, at de franchi habilitet af funktioner er to variable.
+
+3:30
+Og da vil jeg altså se, at det hænger meget sammen med de partielle afledede, som på en eller anden måde godt kender i forvejen.
+
+3:39
+Så alt i alt. Der er selvfølgelig nogle nye oplevelser, men vi kan heldigvis bygge på en del af det, vi kender i forvejen.
+
+3:49
+Men lad os komme i gang. En tro. Lad os starte med et eksempel.
+
+4:04
+Der har vi en funktion af to variable, ikke så ny, og I kan altså se input.
+
+4:11
+Det er et punkt, eller det er et tal par og output.
+
+4:15
+Det bliver et tal, og vi kan jo simpelt hen bare starte med her og udregner funktionens værdien i det punkt, der hedder 2,1.
+
+4:27
+Den er nemlig 2 i anden plus en i anden, og det giver så 5.
+
+4:37
+Vi har et begreb der hedder definitionsmængde og hvad er definitionsmængden for en funktion?
+
+4:43
+Det gælder sådan set både hvis det er en variabel, 2 variabel eller 17 variable definitionsmængden.
+
+4:50
+Det er det tilladt input man kan give til funktionen, og I kan se her.
+
+4:57
+Jeg har ingen problemer med at regne ex i anden plus i anden ud.
+
+5:02
+Uanset hvad, så er så det vil jeg sige. I dette tilfælde har jeg en stor definitionsmængde ikke får i øvelserne i dag.
+
+5:10
+Nogle er lidt mere tricky. Og hvor I skal finde ud af hvad, er det nu for nogle punkter, hvor forskriften ikke fungerer.
+
+5:18
+Men det vil altså sige her, at definitionsmængden for F.
+
+5:25
+Det er så hele er 2. Eller sagt på en anden måde, at det er hele x y planen.
+
+5:42
+Så det skal jeg vende jeg til nu. Det er så, at hvis vi kigger på asyl planen.
+
+5:51
+Ja, men så er det bare definitionsmængden for funktionen.
+
+5:55
+Det er derfor, vi går ud fra. Vi har ingen mulighed for at tegne grafen i det her system.
+
+6:01
+Det gør vi altså, hvis det er en variabel.
+
+6:04
+Men nu skal vi have en akset mere med, for at vi kan lave grafisk illustration af funktioner er to variable.
+
+6:11
+Så det her er det 20 planen.
+
+6:15
+Og der har vi måske et punkt der hedder To kommer ind, og det betyder bare, at det ligger altså i definitionsmængden for denne her funktion.
+
+6:27
+Hvis vi skal illustrere det, så skal vi som sagt tale om ikke synes sært rummet.
+
+6:42
+Og så skal vi altså finde det punkt 2,1, altså i syv planen.
+
+6:51
+Og det er det ligger så her dér punktet to kommer ind i planen, og så illustrerer vi altså funktions værdien med z værdien, så der skal vi altså gå.
+
+7:09
+Der skal altså gå fem op her, og så er dér der har vi så punktet to komma en komma fem.
+
+7:19
+Og den skal vi jo så i princippet den udregning lave for alle de punkter, der ligger i planen.
+
+7:25
+Og så får vi altså en masse punkter her op, da der altså som funktions værdier.
+
+7:31
+Og det vil altså sige, som jeg sagde indledningsvist, at grafen er en flade i eksil z rummet.
+
+7:41
+Altså grafen for F er en flade og så en pointe mere at Z som så er funktionens
+
+7:57
+værdien f a ex company geometrisk der angiver den højden over ikke syg planen.
+
+8:17
+Så vi kan altså sige, at f. Det er sådan set sådan en slags højdemåler.
+
+8:21
+Den måler hele tiden afstanden mellem exoplanet og så funktionens værdien,
+
+8:25
+og det kan selvfølgelig både være negativ og positiv negativ vis, hvis funktionens værdien er ligger under.
+
+8:33
+Planen var positiv, hvis den er over følge. Ja.
+
+8:44
+Hvis vi kan tegne grafen for funktionen, så begynder jeg at blive lidt tricky,
+
+8:52
+og derfor nu ved jeg ikke, om jeg når at vise den Mabel demo, der ligger til mig i dag.
+
+8:57
+Men det er jo klart, at netop det at tegne i 3D.
+
+9:01
+Det er jo sådan lidt lidt tricky, og da er det jo en kæmpe fordel med alle de hjælpemidler, der er i Mabel, og det fremgår altså af Mabel demoen.
+
+9:11
+Hvis jeg ikke når viser den, så må I endelig selv gå ind og se alle de ting, man kan vise ved hjælp af plot funktioner.
+
+9:20
+Men vi kan jo gøre lidt. Prøv at se hvis jeg nu skriver F, er nul komma y og prøver at regne den ud, så kan jeg se.
+
+9:32
+Så får jeg y i anden. Det vil altså sige i det her tilfælde.
+
+9:38
+Jeg holder ex konstant.
+
+9:40
+Og så ser jeg hvad bliver konstant lige med nul og så ser jeg på, hvad bliver funktions værdien, så bliver det en parabel, og det vil jeg sige.
+
+9:49
+Det er en ny kurve, jeg har fundet her. Nemlig den snipe kurve, der fremkommer, når jeg skærer.
+
+9:57
+Hvad hedder det? Det bliver y z planen ned igennem fladen, nærmere bestemt.
+
+10:06
+Og hvis vi her har x y.
+
+10:14
+Og sep. Også når vi kigger på y z planen, fordi vi holder x konstant lig med nul, så kan jeg altså set den del af grafen vi kan se inde i.
+
+10:28
+By Z planen er en parabel. Og på samme måde kan jeg holde ud konstant, fordi jeg kan jeg sige.
+
+10:42
+Fr. Elsker med noget.
+
+10:44
+Den er så ægte i anden, og det vil altså sige når jeg inde i exit planen, så ligger der også en parabel dér og se den ligger måske sådan her.
+
+11:01
+For dem består grafen for ét af en masse paraboler, og nu kan jeg så prøve at tegne hele grafen.
+
+11:09
+Det bliver nemlig en paraply hvide. Så er der, så har jeg altså grafen for F.
+
+11:18
+Det er den paraply som ligger her.
+
+11:27
+Se et af de mest elementære hjælpemidler når man skal studere funktioner af to variable eller bjerge for den slags skyld.
+
+11:34
+Det er altså niveau, kurver og lad os lige få den definerede niveau kurven, som vi kan kalde for kog.
+
+11:46
+Se, det er den kobber i a timeplanen.
+
+11:59
+Hvor højt niveau op til grafen.
+
+12:08
+Og er konstant lig med at se. Så sådan kan vi altså definere den.
+
+12:23
+Og her giver jeg lige to eksempler. Altså det første eksempel har vi, siger Find.
+
+12:36
+K nul komma K 1 komma K 2 komma k 3 komma K 4 for den her funktion f eks.
+
+12:47
+Komma Y er lig med x i anden plus i anden og det 5.
+
+12:55
+Niveau kor vi skal have fundet her. Og som jeg sagde funktions værdien er jo højden, så dette krævede at højden.
+
+13:07
+Det vil sige f. Eks. Komma y den skal være konstant.
+
+13:13
+Og det skriver vi jo så op ved hjælp af egne forskriften, det vil sige ex i anden plus yde hjørne.
+
+13:20
+Det er det der skal være lige med. Se i det her tilfælde. Og så tror jeg godt I med det samme kan se jamen, hvad er det så?
+
+13:29
+Hvordan kan vi karakterisere de her niveau kurver?
+
+13:32
+Det vil altså sige uanset hvad se dens er, så ligner det her en ond cirkel, som har centrum i 0,0 og som har radios kvadratroden at se.
+
+13:45
+Så det gjorde vi lige her. Det er cirklen. Med centrum.
+
+13:56
+Lima 0,0 og narrativt skal være lig med kvadratroden at se.
+
+14:06
+Og det er jo direkte Pythagoras ser I os så. Så nu kan vi prøve at tegne hvad niveau kurverne.
+
+14:14
+Og her. Det er meget vigtigt, I husker at.
+
+14:20
+Niveau kurverne. De skal altid tegnes i Exclusive planen, så det er altså hvad skal de sige?
+
+14:26
+Det er en illustration nede i asyl plan A, hvad der foregår oppe på bjerget.
+
+14:32
+Så hvis de har sådan et skema, der siger også noget om forholdene på bjerget, så er det vil jeg sige.
+
+14:41
+Lad os sige, hvis vi først skriver, at ex plus y skal være lig ikke til andet pussy i anden skal være lig med nul.
+
+14:50
+Det er jo kun et punkt. Så vil jeg sige at den udkårne for nul.
+
+14:57
+Det er bare punktet 0,0. Hvis vi så siger hvad så med højden?
+
+15:04
+1. Altså når se den er lige med. 1 jamen så bliver Radio's lig med 1.
+
+15:10
+Og så har jeg altså her, hvis vi her har tallet ét, og vi kan lige tegne 2 med det samme her.
+
+15:19
+Så vil det altså niveau korn svarende til højden 1 mens.
+
+15:29
+Derinde der havde vi altså kun nul.
+
+15:33
+Vi går videre og prøver at finde niveau kuren, der svarer til højden 2, og det vil altså sige at det bliver kvadratroden af 2 for kvadratroden af to.
+
+15:44
+Det er cirka 1,4. Så er der har vi altså CO2.
+
+15:54
+Og så kort tre. Det er kvadratroden og træ. Den er cirka 1,7.
+
+16:04
+Så der har jeg altså kåret tre og fire.
+
+16:09
+Det bliver så den cirkel, der har Radio 2. Så det er altså den yderste her.
+
+16:14
+Det er så kun. Så hvis vi ikke vidste hvordan.
+
+16:21
+Altså havde vi ikke tegnet parablen først nu. Så kunne vi have fået et indtryk af den, fordi vi ved, at hvis jeg går på den kurve, der ligger.
+
+16:33
+Er okay. Hvad skal vi lige prøve en gang til? 12.
+
+16:41
+Vi. Der havde vi kun noget.
+
+16:48
+Og dér havde vi et. Og så skal vi. Og så er kvarteret CO2, den ligger jo her i 1,4.
+
+17:01
+Det er det der altså 2 og så 1,7 har vi så her. Det er så kort tre og så endelig så har vi.
+
+17:25
+Væk med det. Sådan bliver det lidt bedre, og i I her kan man så få den dér fornemmelse af.
+
+17:32
+Jamen altså lige meget bare for en bane i går. Så går det altså nedad.
+
+17:38
+Altså her er vi i højden fire hele vejen, når vi går op på bjerget.
+
+17:42
+Det er jo ikke, og så går den så ind imod nul.
+
+17:45
+Så på den måde kan jeg se, at der er en fin sammenhæng imellem grafen for funktionen og så dette niveau.
+
+17:52
+Kort. Og så lad os lige også tage den her.
+
+18:15
+Altså vi har her. Funktionen, der er givet ved forskriften f.
+
+18:22
+Eks komma y er lig med ex minor xy, og opgaven er altså at vi skal tegne dens niveau kurver.
+
+18:30
+Og det eneste vi har går ud fra, er selvfølgelig, at vi er ude efter at finde.
+
+18:35
+Hvor er højden konstant limet at se, og igen er den jo når forskriften, når den er lige med at se.
+
+18:52
+Og så kigger vi lige lidt på den og ser hvordan kan vi forenkle den, så vi finder frem til noget, som vi kan genkende.
+
+18:59
+Ligesom vi før kunne genkende cirkler, så skal vi prøve at se.
+
+19:03
+Hvad kan vi så gøre her er okay.
+
+19:07
+Hvis jeg nu isolerer Y. Så kan I se, så står der så Y er lig med x minus se.
+
+19:19
+Så nu kan jeg altså se det her det her niveau kurver.
+
+19:24
+Det bliver til rette linjer. Så skal vi lige prøve at tegne nogle af dem.
+
+19:35
+Se højden nul. Det er jo når se og lig med nul, så det vil jeg.
+
+19:41
+CC By lege med ex. Den linje der er altså et niveau kurvens svarende til nul, og det vil altså sige bede os skære fladen x y.
+
+19:58
+Planen. Hvis nu se denne er en.
+
+20:06
+Så står der jo I er lig med ex, mener Steen. Og det er så den linje, der ligger her.
+
+20:18
+Og det er altså så niveau kurven K et. Og så på samme måde er det vist.
+
+20:25
+Se den er 2. Altså hvad er det for en linje vi skal gå på, hvis vi oppe i højden to på fladen?
+
+20:32
+Jamen, det bliver jo så linjen der hedder by er lig med x minus to.
+
+20:41
+CO2. Og så kunne jeg selvfølgelig også spørge Hvor ligger jeg en nedenunder syg planen?
+
+20:50
+Det ville jo være dér, hvor se den er minussiden. Og så står der jo x minus minus 1.
+
+20:58
+Det vil sige, at det bliver til x +1, så den linje, der ligger her, som hedder Y, er lig med x lussingen.
+
+21:09
+Det er så niveau kurven, som vi kalder for K.
+
+21:13
+Minus en. Godt.
+
+21:21
+Det var en trio med niveau kurver, og nu skal vi så til at snakke om dette meget gennemgående begreb, der hedder partielt afledede, hedder det.
+
+21:35
+De partielle afledede, det står der vistnok i noterne står der mange andre steder.
+
+21:40
+Eller hedder det de partielle download? Jeg foretrækker det sidste, men er altså helt op til jer.
+
+21:45
+Så jeg tillader mig at skrive hér som overskrift Partielt afleder.
+
+22:00
+Og lad os sige at vi har givet en funktion af to variabler.
+
+22:06
+F. Eks. Komma. Og så har vi givet et punkt P, som er ex nul komma nul.
+
+22:17
+Og. For sådan helt grundlæggende at forstå hvad drejer disse partielt afledes om,
+
+22:25
+så indfører vi nu nogle hjælpe funktioner og den første hjælper funktion.
+
+22:30
+Den kan blive kaldt a, ex, g, f.
+
+22:33
+Eks. Den er defineret som f a ex.
+
+22:38
+Komma nul. Og den anden hjælper funktion.
+
+22:45
+Det er H af Y, og den er så f.
+
+22:51
+F. Eks. Nul komma. Det vil altså sige vi opnår to funktioner er bare en variabel ved at vi holder i nul konstant.
+
+23:07
+I det første tilfælde og kun varierer på. Og i det andet tilfælde holder vi x0 fast og varierer kun pollen.
+
+23:16
+Det her er et meget vigtigt trick, som vi kommer til at bruge mange gange, og som jeg allerede brugte,
+
+23:21
+da jeg tegnede parabol, hulheden, hvor jeg holdt x0 lige med nul og bagefter lig med nul.
+
+23:28
+Så skal vi lige prøve at se sådan en grafisk, hvad det drejer sig om.
+
+23:36
+Vi har altså ikke sygeplejen. Det er måske et definitionsmængden for denne funktion, og vi har altså givet et punkt, der hedder Becks nul komma nul.
+
+23:51
+Og så ligger der her en linje som hedder Y er lige med y nul.
+
+24:00
+Det vil sige at nu indfører vi så en funktion ud fra.
+
+24:06
+Men hvor vi kunne fare EHF's værdier på den rette linje, der ligger dér.
+
+24:12
+Hvis vi fastholder, at det kun er de punkter, vi må bruge her, så kalder vi det for reaktionen a f til linjen Y er lig med nul.
+
+24:22
+Og hvis jeg gør det jeg vil, så varierer Y jo ikke, og det er derfor jeg så får en almindelig funktion er en variabel og på samme måde,
+
+24:32
+når vi går den anden vej, så er det x vi holder fast, og det vil sige, at vi betragter kun EFS værdier på den der lodrette linjer.
+
+24:42
+Og så opnår vi en funktion af en variabel. Nu er vi klar til at indføre de partielle afledede, fordi.
+
+24:55
+Den partielt afledet af f. Med hensyn til ex taget i punktet x nul komma nul.
+
+25:06
+Det er så lige med de France sjælfuld stjernen at hjælpe funktionen G i punktet x0.
+
+25:15
+Og den partielt afledet efter yay taget i punktet x0 komma nul.
+
+25:22
+Det er så lig med H. Mærke af Y, og det er det jeg mener med, at når vi finder de partielt afledet,
+
+25:33
+så er det sådan set ganske almindelige differentialkvotienten, som vi kender fra gymnasiet.
+
+25:40
+Nu skal vi prøve at kigge på et eksempel, nemlig.
+
+25:50
+Vi kigger på funktionen f. Eks komma y er lig med tre x minus en halv x y i anden.
+
+26:07
+Og så betragter vi et punkt. P.
+
+26:15
+Så må jeg punktet 1,2, og så vil vi altså prøve at finde de partielt afledede af EF i det punkt, der ligger her.
+
+26:27
+Skal vi lige prøve at finde højden over punktet f a i 1,2.
+
+26:34
+Det er tre gange 1 minus en halv gange én plus to i anden.
+
+26:45
+Og det giver så en halv gang fire der skal trækkes fra 3.
+
+26:49
+Det vil sige altså højden over det punkt. Det er en så, har vi slået fast.
+
+27:04
+Gange sådan selvfølgelig bør.
+
+27:10
+Steg. Nu skal vi have fat i hjælpe funktionerne. Altså det vil jeg sige.
+
+27:15
+Nu vil jeg have det jeg ex. Denne er lig med f af X.
+
+27:26
+Kom 2. Vi holder nemlig y fast i punktet to her.
+
+27:35
+Og så har vi tre gange med x minus en halv gange med x gange to i anden.
+
+27:47
+Og hvad giver det? Det giver tre x minus to X, så det giver lige med X.
+
+28:03
+Og så har vi altså at give mærke er eks. Jamen den er jo så bare lig med en.
+
+28:15
+Så finder vi den anden hjælpe funktionen, nemlig hullet. Og nu skal vi så fastholde EF i den første funktionens værdi DF, nemlig 1 år.
+
+28:29
+Så har vi det den varige variablen y også.
+
+28:34
+Så skal vi altså i regne for overskriften Skal vi så skrive tre? Gange med en minus en halv gange med 1 gange med Y i anden.
+
+28:49
+Og det giver. Tre minus en halv y i anden.
+
+29:00
+Og som det ser ud nu, kan vi også differentiere hog, for så er håret mærke i Y.
+
+29:06
+Den er ledig med tre gå i nul, og så har vi minus en halv y i hjernen.
+
+29:13
+En halv skal vi beholde Y. Jernet bliver til to ny, og så får vi simpelt hen bare lig med, mener Sy.
+
+29:32
+Og så er vi klar til at beregne disse differentiel partielle afledede, fordi den partielt afledet efter ex i punktet 1,2.
+
+29:47
+Det var jo så gem mærke i en. Og den giver en.
+
+30:02
+Fordi ja, altså det havde vi allerede fundet her. Og så mærke efter Y I i 1,2.
+
+30:13
+Den er jo så. Mærke I I hvad bliver det i 2.
+
+30:22
+Og den giver som minus 2. Og så har vi altså fundet de partielle afledede i det givne punkt.
+
+30:34
+Hvad betyder det her? Det skal vi prøve at finde ud af endnu.
+
+30:39
+Lad os lige se situationen i Irak byplanen. Det vil altså sige at i det første tilfældet.
+
+31:06
+Der holdt vi så konstant. Vi sagde, at den her linje, der hedder Y lige med 2, og at vi betragtede restriktion af F.
+
+31:17
+Til den rette linje, der så bag efter. Så kiggede vi på den dér linje, der hedder ex lige med én og så betragtede Y som variabel.
+
+31:29
+Hvad siger du? Det ligger jo det skal der tak.
+
+31:37
+Sådan. Så lad os lige prøve at kigge på den.
+
+31:46
+Den vi har lavet her og nu, laver jeg et lidt mærkeligt koordinatsystem for enden af aksen.
+
+31:55
+Kan I sagtens, kan vi sagtens finde ud af det, for det er nemlig bare lige med z aksen.
+
+32:02
+Men først aksen, det er altså den linje, der ligger her, så den vil jeg altså bare kalde, for Y er lig med 2.
+
+32:12
+Så vil jeg sige, at vi betragter dens snit kurve for fladt på for få fladen, der ligger over den rette linje,
+
+32:20
+der ligger dér, og vi har jo regne forskriften for den funktion i en variabel.
+
+32:27
+Det var nemlig dér X er lig med X. Så jeg kan se, der har vi altså g ex liggende her.
+
+32:38
+Og det der så er interessant. Det er jo så den partielle afledede i 1,2, og der skal vi så gå hen til punktet 1 her og lige gå op til aksen.
+
+32:53
+Her går én frem, og dér har I så give mærke ex.
+
+32:59
+Det er jo differentialkvotienten forex hellenske. Selv for tangenten.
+
+33:04
+Men det der er så f. Mærke i eks.
+
+33:08
+I en 1,2 og den er lig med 1.
+
+33:15
+Så kort sagt Hvad er det? Den her partielt afledet efter except.
+
+33:20
+Hvad er det? Den viser jer. I skal forestille jer.
+
+33:24
+I står altså oven for det her punkt, der står I oppe i oppe på bjerget.
+
+33:30
+Og så kigger jeg i eksakt ens retning, og så kigger I.
+
+33:34
+Hvis jeg går den vej. Hvad er så stigning skreget?
+
+33:38
+Så er den partielt aflivet efter eks. Det er altså Hennings koefficienten.
+
+33:44
+Når I kigger parallelt med ikke saksen og denne er så positiv.
+
+33:54
+Nu gør vi det så det sammen med den anden. Så nu skal I se igen.
+
+34:01
+Så kigger vi altså på på sætter aksen her, og nu er det så linjen x lige med en som er min anden akse.
+
+34:15
+Fordi så kan jeg nemlig tegne min funktion. Altså den der hedder Holy.
+
+34:21
+Og Horthy. Den var jo tre minus en halv y i anden.
+
+34:26
+Det vil sige, at det er en parabel. Lad os prøve at tegne den. Så en, to, tre.
+
+34:39
+Og vi skal jo ud til pumpet 2. For dér har vi jo højden 1.
+
+34:46
+Det var det vi regnet ud til at starte med, så det interessante punkt både her.
+
+34:52
+Den ligger i højden en den ligger i højden ind. Men nu er vi altså ude på punktet to her.
+
+34:58
+Ikke fordi vi går. Vi går en to op 1 2 her helt væk, og så skal vi altså kigge på den parabel, der ligger her.
+
+35:10
+Den ligger dér, og nu kigger vi så på et differentialkvotienten.
+
+35:19
+Og der kan jeg altså se hvis vi går ind fra. Så skal vi gå to ned.
+
+35:26
+Så det vil jeg så sige. Der har I. Der har jeg så at mærke efter Y i punktet 1,2.
+
+35:35
+Det var den der var lig med minus to. Så overgav vi står igen i punktet kigger væk sagtens retning, da går det opad.
+
+35:47
+Så kigger jeg i aksens retning, da går det nedad på bjerget.
+
+35:52
+Så er det, de partielt aflivet. De viser os Hemmings koefficienter i givne retninger.
+
+36:03
+Om lidt, så kommer vi tilbage til et spørgsmål, nemlig OK.
+
+36:09
+Nu har jeg. Nu har vi snakker om, at vi kan finde sko.
+
+36:14
+Vi ser dem i x aksens retning og yacc aksens.
+
+36:19
+Men hvad med en anden retning? Vi så nu kigger den vej.
+
+36:25
+Det kunne være rigtig fedt, hvis vi også kunne finde ud af det, så vi uanset hvordan vi kigger.
+
+36:31
+Så ved vi altså præcis være Hennings koefficienten i alle retninger. Det er dette bjerg punkt.
+
+36:43
+For at vi kan komme dertil, så kigger vi på et nyt begreb, nemlig som hedder gradient.
+
+36:51
+Og det er vektorer. Ja, og lad os give definitionen gradient den.
+
+37:18
+For f. I pumpet x kommer y.
+
+37:30
+Det er vægteren. En vægter som består af de partielt afledede i det punkt, hvor jeg først f.
+
+37:43
+Mærket efter eks. Stadig i punktet eksformand og så Harry f.
+
+37:50
+Mærke efter Y i punktet Eksformand. Og.
+
+38:05
+Den skal tegnes i.
+
+38:09
+Planen. Ud fra punktet.
+
+38:21
+Vækst kom i. Så altså en gradient.
+
+38:28
+Det er en vægter som består af de partielt afledede.
+
+38:31
+Og det er altså et værktøj, og at vi meget tit har i efteråret sagt til jer vektorer, dem tegner vi altid ud for ord i går.
+
+38:40
+Men gradient begge to, og de skal altid tegnes ud fra det punkt, hvor de er udregnet, og det skal vi selvfølgelig se et eksempel på.
+
+38:54
+C Vi kigger på. Vi kigger på.
+
+39:02
+På igen. Lad os sige fta ex kommer. Y er exit anden bluesy hjerne.
+
+39:14
+Og vi prøver at finde gradient Beckton. Og før så finder vi dem sammen.
+
+39:26
+Helt generelt gradient vægteren i f.
+
+39:32
+Eks. Karmøy. Se, nu differentierer jeg denne her uden at bruge hjælpe funktioner.
+
+39:42
+Og det vil så sige, at når jeg differentierer på denne, så mærket efter eks i X kommer Y og mærke efter Y i ekstra mad.
+
+39:57
+Og se hvis man skal differentiere den der uden brug af hjælp funktioner.
+
+40:01
+Det skal gøre det her. I skal sige, at jeg er mand, når jeg skal differentiere efter en.
+
+40:09
+Så skal jeg betragte by som en konstant. Vi holder jo et y konstant, og så vil vi set differentialkvotienten af den.
+
+40:17
+Der bliver bare nul. Så det vil jeg sige. Første koordinaten for gradient den.
+
+40:23
+Denne er 2 x. Nu skal vi differentiere efter Y, og nu er det kun y der variabel x.
+
+40:31
+Det er en konstant. Så nu får jeg altså noget, hvor I differentierer, ikke, siger Ane.
+
+40:35
+Men I får to y, når de frem siger Jamen, så har jeg altså anden koordinaten.
+
+40:42
+Og jeg håber jeg når at vise et eksempel til port differentiation uden brug af hjælpe funktioner.
+
+40:51
+Og der har vi altså den ring. For nu at få lidt sjov ud af det her, så lad os prøve at se på en niveau kurver for den her funktion.
+
+41:03
+Altså vi har jo allerede fundet ud af, at K et. For den her funktion her.
+
+41:11
+Det er cirklet med centrum lig med 0,0 og var det slimet i.
+
+41:32
+Så overgav du lige, prøver at tegne den.
+
+41:47
+Det har vi så. Der har vi så niveau kurven, så lad os nu prøve at udregne gradient den i fire punkter på denne her på denne her niveau kurve.
+
+41:59
+Altså lad os prøve det punkt hér og udregne gradient, inden vi finder det punkt, der ligger dér.
+
+42:06
+Det punkt, der ligger dér, og det punkt, der ligger blodrødt, og de fire gradient der.
+
+42:14
+Og der har vi så at de enten af. I det første pumper, det er det der hedder 1,0, og der skal vi jo så bruge opskriften her.
+
+42:25
+Det er to gange en som første koordinat. Det giver 2 og så anden koordinaten.
+
+42:31
+Den giver nul så gradient vægteren i det punkt.
+
+42:36
+Her er så en vægtere, som er 2 lang, og den skal tegnes ud fra det punkt, hvor den er udregnet.
+
+42:48
+Og så har vi gradi vendte gradient vektoren 0,1.
+
+42:53
+Det kan I godt se, den bliver 0,2, fordi nu er det jo den, der er nul, og y den er én, og der får vi altså her en gradient vektor, som går her op til.
+
+43:06
+Sådan år, så skal vi have gradient gratis enten i punktet minus 1,0, og den giver minus 2,0.
+
+43:20
+Så har vi altså en gradient som går i negativ retning, og som har længden 2.
+
+43:28
+Og så endelig, så kan vi så prøve med gradient den i nul komma minus én som er nul komma minus to, og den går altså her.
+
+43:44
+Sondern. Så nu har vi altså prøvet at tegne gradient.
+
+43:53
+Fire steder kan jeg se, at der er uendelig mange gradient væk to år.
+
+43:58
+Derfor kalder man det for et gradient væk felt. Og vi har altså bare set da fire af dem nu.
+
+44:03
+Men en pudsig ting er jo, at de alle sammen de står vinkelret på den niveau kurve, som jeg har tegnet.
+
+44:17
+Altså Grete Jensen står vinkelret på niveau kurven.
+
+44:22
+Det gør den i hvert fald de fire steder der. Og nu kunne det jo være sjovt, hvis vi kunne vise, at det gør den alle vegne.
+
+44:32
+Så lad os prøve at gå videre med det. Prøv at se hvis de her har vinklen U.
+
+44:47
+Så ved vi alle sammen at det punkt kun hedder der ligger her bedre cosinus til u komma sinus til u.
+
+44:59
+Og derfor en parameter fremstilling.
+
+45:13
+For K et. Er. R er u er lig med cosinus til U comas sinus su.
+
+45:26
+Og hvor U ligger for eksempel fra nul til to ppi.
+
+45:34
+Så har vi beskrevet. Den her cirklede ved hjælp af en parameter fremstilling.
+
+45:43
+Det vi nu kunne være interesserede i, er, at nu vil jeg gerne finde dens tangent vektorer.
+
+45:50
+Altså hvis jeg kigger i det punkt hér, så ville jeg gerne have en tangent vektor, hvor den det vigtigste er.
+
+45:58
+Den er altså den 90 grader.
+
+46:03
+Og nu skal jeg se, hvordan vi finder tangent vektoren i et vilkårligt punkt.
+
+46:18
+Og det får vi simpelt hen ved at differentiere denne her vægter funktion er den parameter fremstilling jeg har lavet.
+
+46:24
+Så så det vil altså sige, at tangent vektoren den er givet ved at mærke.
+
+46:34
+R, U og den forrige ved at i de France, siger Cows News.
+
+46:44
+Og bagefter differentierer sinus altså så man skal simpelthen bare differentiere de to koordinater funktioner der står dér,
+
+46:54
+og så får jeg altså her, at tangent vektoren i et vilkårligt punkt har altså koordinaterne sinus og cosinus to.
+
+47:11
+Og kan I se det er jo lige præcis i det her tilfælde, da er det jo sværvægteren set den oprindelige.
+
+47:20
+Så hvis altså vi her siger der har vi altså vægteren cosinus til u, kommercielle osv.
+
+47:26
+Så er det altså fuldstændig rigtigt. Der har jeg altså så sværvægteren fundet på den der måde, og så den kan jo altid gøre,
+
+47:35
+når I ønsker at finde en tangent væk for en for en vægter funktion.
+
+47:41
+Så gør vi det på den måde. Er. Og det vi nu spørge.
+
+47:48
+Så er Gare de enten på F. Vindkraft er på niveau kurven.
+
+48:11
+Hvordan kan vi undersøge det? Hvad siger du? Det svigter den.
+
+48:20
+Og gradient det enten ja tak for det der bliver sagt. Tag prikproduktet, godt hjem den og den tangent vektor som du har fundet.
+
+48:29
+Det vil altså sige vi tager nu gradient ind i det punkt, der ligger dér.
+
+48:37
+Gradient den af EF i punktet cosinus til u komma sinus to.
+
+48:45
+Og den skal så ganges med er mærket i EU, og det er så gradient den af.
+
+48:57
+Den har vi jo opskriften på. Her skal vi bare gange hver af koordinaterne med to, så der har jeg altså to posens to og to sinus to.
+
+49:12
+Og så skal vi gange, så det kan jeg så se. Det er jo så den, der ligger her.
+
+49:18
+Form. Der er så er to gange så lang som den der ligger dér.
+
+49:26
+Og det vi er så i gang med at undersøge eller endeligt beviser. Det ligger selvfølgelig meget i kortene.
+
+49:31
+Vi får en øvelse i dag, hvor I selv skal gøre det, og hvor det ikke er lige så oplagt, fordi nogle cirkler er jo ret nem at have med at gøre.
+
+49:38
+Men hvis vi gør det lige færdigt, ikke sandt? Fordi så nu skal vi så her have ganget med sinus til U.
+
+49:46
+Og så skal vi have Kuznetsov her. Og vi prøver så at regne det ud, og der kan I se.
+
+49:54
+Først så får vi den gange med dagen. Det er minus 2.
+
+50:00
+To gange sinus to. Og så skal vi sige plus den gange den er plus 2 knusende.
+
+50:07
+To gange i 7. Så vil jeg sige den gange med den og den gange med den.
+
+50:11
+De ophæver hinanden, og det hele giver nul. Så svaret er sig ja.
+
+50:20
+Og der er derfor noget, der kunne tyde på, at den er gardinerne, der altid står vinkelret på niveau koderne.
+
+50:29
+Det er det, vi lige så ved er ude på at finde ud af. Så kan vi se, om de kan bevise det næste gang.
+
+50:34
+Men det her er bare et eksempel på det. Og det er jo et interessant fænomen, fordi.
+
+50:42
+Prøv at se, hvis jeg går her på, hvis jeg går her på bjerget. På et niveau kunne det vil altså sige.
+
+50:50
+Den er konstant hele tiden. Og så hvis jeg går direkte vinklet på den, er der så på et sted, hvor den er konstant.
+
+50:59
+Jeg går benhårdt på den. Så må det være godt med stiger mest.
+
+51:04
+Eller dér hvor den falder. Men mest. Og ja, vi tager pauser her.
+
+51:19
+Men tilbage.

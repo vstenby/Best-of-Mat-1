@@ -1,0 +1,1076 @@
+0:04
+Starten går morgen Elsam. Vi er ikke så mange, og vi er faktisk kun mænd har en.
+
+0:12
+Lidt mærkeligt. Okay, måske ikke så mærkeligt for de to, hvad ved jeg.
+
+0:15
+Her er dagens program. Vi skal snakke om Aksel parallelle praktisering af plæne området.
+
+0:23
+Til at starte med. Vi skal introducere nogle nye Jacobi funktioner.
+
+0:28
+Vi skal snakke om regularitet af en pram interesserede, og så vil jeg gennemgå nogle eksempler.
+
+0:34
+Meget af fokus i dag vil være omkring. Eksempler på parametre ser.
+
+0:41
+Dernæst så vil jeg så når jeg har snakket om privatiseringer, så vil jeg så snakke om hvordan integrerer vi en funktion op over et plant område?
+
+0:48
+Jeg vil motivere det motiveret ligesom børn med summer og grænseværdier for summer.
+
+0:54
+Og vi ender op med et plæne til af grana funktioner over plan område som et dobbelt integral.
+
+1:02
+Det er en bestemt kontinuert funktion beskrevet den foreskrevne funktion og en tilhørende Jacobi funktion.
+
+1:12
+Og så vil det være alle integraler i møde, og de vil altid være som foreskrevet funktion i en eller anden Jacobi funktion.
+
+1:18
+Jeg akutfunktionen afhænger så i hvilken sætningen hvilken kontekst man er i.
+
+1:24
+Det tredie punkt på dagsordenen, hvor vi møder den ny Jacobi funktion man relaterer mere generaliseret kan man se Jacobis funktion.
+
+1:31
+Vi snakker om parametre Ziering og flader i rummet. Og.
+
+1:36
+Og egentlig så er det ene område. De kan jo bare anskues som et særtilfælde af en flad i rummet, som bare sidder i Excel planen.
+
+1:45
+Så måske det vi laver her som naturligt lede os op til hvordan hvordan vi anskuer denne problemstilling.
+
+1:51
+Vi introducerer i gode funktioner regularitet. Kan I høre, at du ikke skal være højere?
+
+1:58
+Maj og regularitet og så to eksemplarer og det sidste flade integral.
+
+2:03
+Jeg vil gerne lige prøve endnu en gang og.
+
+2:08
+Og ligesom os, og så ser det hele i en større sammenhæng, fordi det er det vi gjorde sidste år, vil vi snakke om dramatiseringer kurver.
+
+2:16
+Okay, det var her, vi havde taget to et reelt interval hér fra A til B.
+
+2:22
+Og havde en eller anden afbildning er en politisering, som gav os en krog her.
+
+2:29
+P og hvordan var det Jacobi funktionen OB opstod.
+
+2:33
+Det var ved at vi inddele vores en tabel i nogle endelige store stykker med længde delta t.
+
+2:41
+Og hvis vi tager sådan et stykke Delta T her. Hvordan bliver det så afbildet under den her transformation?
+
+2:48
+Vi kan se, at hvert af de punkter her bliver punkter herover, men det er nødvendigvis ikke lige langt fra hinanden.
+
+2:54
+Det afhænger af, hvordan er F.
+
+2:56
+Hvordan er funktion er at have overdraget afstanden til t konstant, men den er ikke konstant herovre og hvordan afstand?
+
+3:03
+Jamen så tager det punkt som billedet er det punkt.
+
+3:06
+Her må det være efter min inddeling er, og så har jeg et punkt lige ved siden af det billede.
+
+3:10
+Det punkt der en tangent til linjen, den sparsomme.
+
+3:15
+Ved at differentiere i punkter, så har jeg en tangent vektor og linjen igennem.
+
+3:20
+Den giver mig tangenten til kurven, og det vil sige under den lineære approksimation.
+
+3:24
+Så erstatter jeg det punkt med et punkt på den her linje, som bare fremkommer som det punkt.
+
+3:30
+Og så går jeg delta 10 gange ud af den vektor, og det vil sige de der linjestykke, som jeg har markeret med den røde, tykke stang agtige ting.
+
+3:39
+Den har en længde længden af f og mærke gange identitet på denne længde.
+
+3:45
+Det bliver under denne transformation til første orden til fædrene.
+
+3:48
+Ordenen bliver afbildet over i sådan en længde, der fungerer den funktion der beskriver den længde transformation.
+
+3:54
+Det er det vi kalder Jacobis funktionen, som bare længden af de af de tangent vektorer, der optræder langs Curve.
+
+4:04
+Dermed så omskrev vi en ting, som vi har tage de her stykker her op og som en sum og tog en grænseværdi,
+
+4:13
+og vi endte op simpelthen bare med at definere den her længde her som integralet.
+
+4:17
+Ordenen har jo kort i funktion. Hvis man har en eller anden funktion gider.
+
+4:23
+Er 2 1 i Når du bare plæne koges med konsuler, så kan man tænke på det som en masse fra, der beskriver hvordan massen langs denne kurve her.
+
+4:32
+Og så kan man få massen af denne kurv ved at integrere funktion f.
+
+4:37
+Og det kalder vi altså en af over et langskud kog, og det er simpelthen bare ved at så i sin.
+
+4:43
+Hvis man tænker på det som en summen, så skal vi bestemme massen af det længe stykke her.
+
+4:48
+Jamen, det er massen i det punkt, der gange i længden af det stykke.
+
+4:52
+Når vi tager den længde så travlt og summerer det op og tager grænsen, så får vi præcis det her integral af en variabel.
+
+5:03
+Vi så også i fredags noget omkring nogle andre slags Jacobis funktioner, som er relateret, men anderledes hvor vi havde en substitution gene i gr.
+
+5:11
+Ex. Og så får vi det dermed hvordan og hvordan vi kunne gå fra det ex til et d g, og vi så hvordan det opstod.
+
+5:18
+Det opstod lidt på samme måde, så vi har et element herovre. Vi tænker på det i sin sin sång forstand.
+
+5:27
+Som hvis grænse bliver integrale, så har vi intet, at vi er ikke saksen i længtes dygtig, deltage ekstra under transformationen til flyverne.
+
+5:34
+Orden. Bliver det så GGGI mærke gang i deltage? Og den her giver mærke, at som også en slags jacobis funktion.
+
+5:40
+Og i dag det vi gør så nu det vi gerne vil begynde at integrere over plæne områder, og så får vi en Jacobi funktion, som beskriver hvordan areal.
+
+5:50
+Deformeres under en transformation er så se hvordan det ser ud.
+
+5:57
+Gå i gang med dagens stof. Som starter med at sende akse parallelle privatisering af plæne områder.
+
+6:10
+UK, så vi har. Et akset prale et område hvad betyder det?
+
+6:15
+Det betyder bare, at jeg har herre over lad os kalde det o.
+
+6:20
+V. Planen. Der har vi et tanketom der sidder herude hvor O.
+
+6:29
+Leiber har det rigtigt godt. Hvor ULEB og intervallet fra A til B og C beløber intervallet fra settet kan ellers kalde den for kog.
+
+6:42
+Måske. Den mængde har FCK altså fra A til B krydset.
+
+6:48
+Set til det. Og hvad har vi så mere, så dette kalder vi acceptabelt lad.
+
+7:05
+Det er domæne akse parallel vi vil se eksemplet senere som formatering, der ikke er så parallelle.
+
+7:12
+Så har vi altså nu. En afbildning er her.
+
+7:19
+Skriv her om den tager sig dette plane område herover ved plænen.
+
+7:24
+1 i 2. Og skal kunne være mere specifik, skriver K.
+
+7:32
+En delmængde af er to. Og hvordan ser den ud?
+
+7:37
+Har nogen koordinat funktioner som vi kalder ex. Gu kommer det og vi kommer ved.
+
+7:44
+Og antagelsen er lidt ligesom jeg har set tidligere. Altså at har de er.
+
+7:49
+Differentiable. Koordinat funktioner.
+
+7:57
+Af. Og under denne afbildning her, så får vi altså en mængde ord.
+
+8:06
+Ex planen eller gå. Gøre noget der ser således ud og han kalder P.
+
+8:12
+Denne PH optræder altså som billedet. Alle de punkter.
+
+8:18
+Der opnås under afbildningen af er fra kassen den akse parallel kasse parallelle par.
+
+8:29
+Mængden Co. Og det her det sidder måske over i eksil exit plan.
+
+8:37
+At sidde over sin plan krydser et punkt herovre U kommer ved bliver afviklet over i X.
+
+8:46
+Og så har vi måske ex at ved. O g.
+
+8:52
+I. Og det er der såmænd en pause til Seeing her er,
+
+9:00
+at vi hvis vi fortsætter sådan inddeling vi vil gøre det her senere begynder at integrere funktioner over et domæne.
+
+9:06
+Så vil vi jo inddele aktierne hvert af aktierne i, som vi så fordoblet integralet.
+
+9:11
+Så vil vi inddele, som de har i lige store stykker. Og tilsvarende herrer.
+
+9:18
+Og så får vi sådan en inddeling her. Er den mængde kog.
+
+9:28
+Hvor alle de her kasser her af samme variant så helt nu herovre.
+
+9:32
+Men hvis jeg for eksempel tager en af de her rette linjer herovre.
+
+9:38
+Maskinen konkurrence. Så lad os tage den herover, så giver den mig et en delmængde af herover.
+
+9:50
+Lad os sige den løber er. Ung.
+
+9:55
+Og så fremdeles. Jeg ser sådan her ud.
+
+10:10
+P stikkerne en inddeling dør. Og tilsvarende hvis jeg går den anden vej.
+
+10:15
+Løber denne her mig, så får jeg også en inddeling den her vej. Så det er her de forekommer i så voldsomme billede.
+
+10:22
+Under er. Da gearet til hver af disse linjestykke.
+
+10:31
+Og. Lad os nu prøve at tage en af de stykker herud har ord for det.
+
+10:35
+Det kommer til at se lidt mærkeligt ud, hvis jeg gør det på denne her til Gud og tror jeg.
+
+10:40
+Så jeg prøver lige at tage den og tegner den her år. Måske skal jeg prøve at bruge samme farver, så I kan se hvad der foregår.
+
+10:57
+Og ideen om at vi så står i det punkt Haring. Ja, men hvordan fremkom den grønne linje?
+
+11:04
+Den forekom ved at holde ved konstant at lade ugen variere.
+
+11:09
+Klasser, det vil sige at jeg får altså.
+
+11:14
+En tangent væk så hér. Til Den grønne kunsten.nu, som falder helt sammen.
+
+11:21
+Det var et tilfælde, men denne her bliver altså er mærket af U.
+
+11:26
+En søjle vektor tænker på det som en søjle af vektor som optræder ved koordinat funktionerne
+
+11:31
+differentiere første koordinat funktion ex med hensyn til den første variabel uvejr og den anden.
+
+11:38
+Koordinat funktion jeg kalder Y med hensyn til den. Tilsvarende denne her linje optrådte ved at jeg gik denne her vej, så det vil sige,
+
+11:47
+at jeg holdt altså ord konstant og ville løbe, og dermed får jeg en tangent til denne kurve.
+
+11:52
+Her. At gå lidt længere op har.
+
+11:59
+Vi laver et meget stort så der er er afmærket ved søjle vektor og tænker på det som en søjle væg,
+
+12:05
+som fremkommer fra koordinat funktionerne på fyldig måde ved passivt differentiation.
+
+12:11
+Og. Hvis jeg nu tænker på hvilken kasse var det jeg tog fat i?
+
+12:17
+Det var måske i denne kasse her. Den har kasser. Den blev altså til denne kasse herovre under afbildningen.
+
+12:23
+Ikke sandt? Nu vil lægge skitser dem derover. Derfor har jeg brugt en ekstra figur, fordi vi er nu, siger.
+
+12:30
+Det stykke hør hvordan transformerer det under link under er?
+
+12:34
+Ja, men det fungerer lidt til måler kurver, at jeg får et stykke hen over et længde stykke.
+
+12:39
+Lad os gøre det lidt lidt længere. Så længe det stykke bliver, er mærket ud.
+
+12:46
+Gang. Grand Delta. Og tilsvarende.
+
+12:54
+Så får jeg måske noget der ser sådan her ud, altså dette stykke.
+
+12:59
+Dette linjestykke under en lineær interpolation. Her bliver så det her linjestykke Astros beskrive dens længde.
+
+13:07
+Det er nær ved. Deltage ved.
+
+13:13
+Det er den længste stykke på samme måde som kurver, som vi havde heroppe.
+
+13:18
+Og hvis jeg nu kigger på det her. Parallelogram, som fremkommer heraf.
+
+13:23
+Hvis jeg nu tager den parallelt med denne op. Denne parallel med den her linje, så får jeg et parallelogram.
+
+13:34
+Som udsendes af æren mærke årgang tv, er mærket gang deltage ved og ved, siger Theta er vinklen her.
+
+13:45
+Så er Royal. At parallelogram.
+
+13:52
+Par fra Ll. LO Gram.
+
+14:00
+Lad os kåre. Det her parallelogram for faglærte er måske.
+
+14:07
+Så når eller det der. Og ideen er altså senere at proklamerer at arealet af dette stykke her.
+
+14:14
+Det er lige med. Er mærk u længde er mærket ved grand sinus til vinklen mellem det.
+
+14:25
+Gang i deltage gang det. Da.
+
+14:35
+Det her. Det kalder vi altså.
+
+14:43
+Jacobi funktionen. Hederne til dramatiseringen.
+
+14:59
+Par med 3 C 3. Er er mængden p.
+
+15:08
+Planområdet P. Grissom beskriver altså hvordan sådan en hel.
+
+15:14
+Kasse herrer og. Dens areal transformerer under afbildning er.
+
+15:26
+En anden måde at skrive det på dette på er måske meget godt.
+
+15:31
+Jeg ved ikke om vi har set noget her for nu i forhold til krydsproduktet normalt vektorer som har.
+
+15:37
+Men vi er da også lidt senere og bare lige pointere en anden måde at skrive det på her.
+
+15:43
+Det her resultat, som ikke skal til at finde den her vinkel her,
+
+15:46
+så kan man faktisk skrive de her partielt afledte op som søjle vektorer og så tage et determinanten med disse lodrette streger.
+
+15:55
+Her mener jeg, at determinanten så har det en matrice. Hvordan ser man helt konkret ud hjælpe koordinat funktionen?
+
+16:01
+Altså ikke mærke u y mærke ud som første søjle x mærke v i med V som anden søjle og tage et determinanten af den på.
+
+16:13
+Det er det samme som det udtryk herre. Og lad os lige komme med et.
+
+16:22
+Et eksempel. Her. Der er noget under.
+
+16:34
+Så eksemplet er. Det første eksempel jeg vil komme med er.
+
+16:39
+Følgende parameter seeing. O cosinus v.
+
+16:46
+O sinus til v. Hvor O blev for intervallet fra nul til ét, og V ligger i intervallet fra nul til to ppi.
+
+17:01
+Og. Maslow prøver at illustrere de to mængder herovre.
+
+17:07
+Første uge Uwe planen. Så det er klart at domænet som mængden kog her er hvor er defineret af akser
+
+17:17
+parallelle u løber fra nul til et eller i et af overdrive lidt og siger to piger der.
+
+17:24
+Det er klart ikke samme eskalering for de to akser. To peger piger det meget større.
+
+17:29
+Faktisk mere end 6 gange så stort som ét. Selvfølgelig. Men for. Lad os nu bare ignorere det civile og to forskellige skiderikker på de to akser.
+
+17:37
+Her er mit akser parallelle domæne. Og hvad er billedet under?
+
+17:42
+Er. Er det selvfølgelig bare enhedscirklen. Og centrum i 0,0, så er hajer et.
+
+17:51
+Og her højere. Min cirkel.
+
+17:56
+Prøv at kig på billedet af forskellige linjer hør.
+
+18:02
+I kog domæner, så lad os sige det første når du er konstant lig en.
+
+18:09
+Og kig på linjestykke her. Det grønne linjestykke når B lebon mellem nul til to P.
+
+18:16
+Jamen så får periferien af cirkel skiven her altså cirklen selv.
+
+18:22
+Det er den mængde. Men der kan vi måske lige.
+
+18:36
+Så kan vi måske lige bemærke, at hvis jeg tager billedet af, når ud af.
+
+18:42
+Og vi er nul. Det vil sige vi er jo bare argumentet vinklen her langs cirklen periferien her og ved at noget her er,
+
+18:52
+så står jeg her, hvor sinus og cosinus sig ind, så jeg står her.
+
+18:56
+Men det er selvfølgelig det samme som. Hvis jeg tager billede, er det andet endepunkt så disse to punkter, der sidder hernede.
+
+19:05
+To forskellige punkter i. Mit. Mit v plan.
+
+19:12
+De bliver selvfølgelig afbildet over i det samme punkt. Så der er ikke en til en sammenhæng mellem mellem punkter i mængden her cirkel skiven.
+
+19:24
+Altså alt der indeholdt inden for den grønne. Og mængden af punkter herover, fordi der er eksempler på to punkter, der afblæst.
+
+19:29
+Samme punkt. Alt foregik på noget andet og lidt mere sjovere.
+
+19:34
+Faktisk er det her linjestykke hér.
+
+19:38
+For hvorfor sidder det? Har linjestykke umulige nul. Så helt og linjestykke, der ved den gennemløber.
+
+19:45
+Men der sker jo ikke noget andet i eksil planen fordi at gu er nul,
+
+19:48
+og så bliver x0 lige meget hvad ved jer så det vil sige, at al den mængde af punkter, der bliver afviklet i ét punkt.
+
+19:56
+Der var dog endnu mere sekulært, kan man sige end bare to punkter, der afbildes over det samme.
+
+20:01
+Det er helt linje, der giver det samme på. Og vi selvfølgelig hvis vi tager et andet.
+
+20:08
+En anden linjestykke hærger. Se Hør.
+
+20:15
+Så får jeg bare en cirkel Skive har. Bo.
+
+20:23
+Og var jeg sikker sagde R er nul, at V er konstant lig med punktet 0,0 for alle ved altså ikke.
+
+20:34
+En til en. Og er.
+
+20:42
+Så når vi siger at vi ikke vil gæsterne snakker om Kure, vi vil ikke gerne gennemleve flere punkter på én gang.
+
+20:47
+Det gør vi jo sådan set har.
+
+20:49
+Det, der er ligesom vi, vil gerne tillade det her, fordi vi vil gerne bruge, de er kommet til seedninger til at kunne snakke om integration.
+
+20:56
+Og når vi integrerer over planområdet, så kan vi sige, at mænd bare tænker på solen.
+
+21:00
+Så er det her. Den her linje bidrager ikke med noget værdige til en grad, så vi kan godt tillade os, at der er punkter programmet her.
+
+21:10
+Den her mængde. Hvor punkter gennemløbes flere gang.
+
+21:15
+Det vil motivere denne definition jeg vil skrive op herovre, men lad os lige prøve først måske og lige skrive hvad jeg copy funktionen for denne her.
+
+21:25
+Og vi kan gøre det her. Så for at opskrive Jacobi funktionen.
+
+21:40
+Så skærer aflede den her patient med hensyn til ud.
+
+21:47
+Og skrive den op som en søjle vektor. De lodrette streger har jeg set dem for og har I brugt dem tidligere, og jeg har brugt dem fra det til Menander.
+
+21:56
+Lodrette streger omkring matricer mener vi det så muntre, for så. Du har det skal der faktisk.
+
+22:12
+Så du har ret, jeg burde faktisk sætte to streger, så du har du har helt ret, så hvad jeg mener med det her.
+
+22:17
+Der burde jeg gøre determinanten af den her. Alex mærket O.
+
+22:23
+Ex. En mørk. O. X mærke ved G mærket.
+
+22:31
+Det blev lidt klamt. Og så skal jeg tage den numeriske værdi, der er. Det er klart, at determinanten kan godt være negativ.
+
+22:37
+Men hvordan forstår jeg Jacobi funktion? Der forstår jeg jo helt klart som noget positivt, ikke?
+
+22:42
+Det er et areal, og det er også derfor, jeg har sat. Absolut fordi sinus forsendelsen kunne også kan give negative størrelser her.
+
+22:53
+Så er det klart at der skal være større. Den skal være positiv. Så ja, der er også et endnu et absolut lover strejf, som han sidder til.
+
+23:00
+Absolut fordi det er korrekt. Men nu glemmer jeg lidt, at der er en absolut ved og tænker på det som bare et vanten.
+
+23:09
+For dette tilfælde er den positiv, men rigtig god. Lad os differentiere den her med hensyn, der står cosinus til ved.
+
+23:16
+For at differentiere dem med hensyn til der står sinus tv. Og her står der differentierer med hensyn til det.
+
+23:23
+Så får jeg minus o sinus tv, fordi Horsens sponserede meno sinus og her får jeg o cosinus til ved.
+
+23:34
+Og når jeg tager det Milan den her, så bliver det den gang den. Det er ud cosinus.
+
+23:41
+Du skal ikke have den her absolut værdi med. Måske u gange cosinus i anden.
+
+23:46
+Set udenfor en parantes for hvad står der i den anden?
+
+23:50
+Den første er den, der giver mig det. Og så bliver det minus den gang, den set uden for en trang til at folde ud.
+
+23:56
+Hvad får jeg tilbage? Jeg får minus sinus, siger altså plus sinus i anden ved.
+
+24:01
+Absolut værdien af den. Orkan med det der står højere end det 1.
+
+24:07
+Og så stopper absolut værdien af ud. Men endnu er ikke negativt, så der var jo er.
+
+24:19
+Den er selvfølgelig større lige med nul. Men det kan godt være nul og nul.
+
+24:24
+Lige præcis når af nul, det vil sige når vi er præcis på dette stykke, er det linjestykke, som bliver afbildet over i det konstante punkt der over.
+
+24:37
+Okay. Så nu vil jeg lige gå tilbage og se og introducere koncepterne introduceret eksempel her som viser alt generelt, så tillader vi os ikke det.
+
+25:00
+Ikke nødvendigvis at afbildningen har præciseringen, der er én til én.
+
+25:04
+Altså det at det skulle være en rimelig privatisering af indercirklen.
+
+25:09
+Alt siger disken med Radio Sen. Så jeg siger nu følgende.
+
+25:16
+En definition har vi siger. At.
+
+25:23
+Er at sige det har kaldt dette egenskab a. Første del.
+
+25:27
+Der kommer to dele i denne her definition. Den første er at vi kalder er pragmatisk Ziering for regulære.
+
+25:37
+Hvis. Æren mærke o æren er en gave.
+
+25:49
+Altså determinanten, den numeriske værdi af determinanten. Er større end nul.
+
+26:05
+For. Alle u v i det indre af K kasser må gerne være nul.
+
+26:14
+Det betyder ikke at de har areal eller mindre er der kommer.
+
+26:17
+De fremgår altså ved sådan et areal, men jeg sidder på rammen.
+
+26:22
+Der kan jeg godt tillade, at det areal, men her er nul. Det er kun på randen.
+
+26:27
+Hvis der er et indre punkt, så skal den være større end nul og så gå tilbage til os.
+
+26:31
+Eksempel herovre. Så er problemet til serien her regulære fordi at Jacobi funktionen som bare var ude.
+
+26:38
+Den er større end nul i det indre af kobberet er. Det indre A-K er det hvor jeg tager rendende væk.
+
+26:45
+Og så til rendende væk og så lægge mærke til hvilke mængder jeg får herovre til renden ved ca.
+
+26:50
+Det er klart. Jeg tager det punkt væk, og så tager jeg.
+
+26:56
+Den positive del er ikke sagt nostalgisk. Så dette ændrer dette billede der i det indre, og det relaterer nemlig til den næste del af definitionen.
+
+27:06
+Punkt B her at vi er kæles. Bijektiv.
+
+27:16
+I det indre. Så vil vi gerne.
+
+27:22
+Vi vil gerne have, at tingene er én til én. Mikkel gennemløbe flere ting, men vi kan godt tillade.
+
+27:28
+Vi vil gerne tillade, at de må gerne gennem lidt flere punkter på randen, så vi siger, at sådan kaldes big time i det indre hvis.
+
+27:42
+Restriktion. Nu kigger jeg på er.
+
+27:52
+Restaurant gearede til det indre er kåret. Over i det indre API er.
+
+27:58
+En. Til en. Eksempel ét fra før.
+
+28:13
+Så kan dette eksempel let. Her har vi så er regulære.
+
+28:23
+Fordi vi så at Jacobi funktionen. Ja Cove Big.
+
+28:28
+Den var lige ud. Som er større end nul.
+
+28:33
+Når I Bo V i det indre. Og er er.
+
+28:42
+Og så. Bijektiv. I det indre.
+
+28:53
+Fordi herover hvis jeg tager renden væk.
+
+28:57
+Så er der en én til én korrespondance mellem punkter væk fra de stiplede linjer og det indre RKO er at komme med nogle flere eksempler.
+
+29:09
+Det er der det må være tavle to der laver tavle et. Og der bliver så travlt 3.
+
+29:34
+Eksempel 2. Den er måske en lille smule kedelig, men jeg vil altså bare lige understrege, at pom interesserer ringere.
+
+29:42
+De er ikke entydige, så vi kan også skrive en anden dramatisering op og enheds cirklen, som er overgange, cosinus til to ppi ved.
+
+29:52
+O sinus til to p. V.
+
+29:57
+Hvor O er i intervallet fra nul til et V.
+
+30:05
+Det er en nøgle til et undskyld. Anden pragmatisk sikring.
+
+30:22
+At mængden. Altså enhedscirklen, der er over Inglés disken fra eksemplet.
+
+30:36
+Og den er jeg egentlig så god. Den er regulær og den er bijektiv i det indre, fordi jeg klart bijektiv i det indre.
+
+30:44
+Få viser, den er regulær. Så skal jeg altså opskrive Jacobis funktionen s mærke u s mærke ved.
+
+30:56
+Og hvad får jeg hér her, der får jeg bare to pive. Garnene Hvis jeg laver differentiation og tager til Svanen, så får jeg to peg gang ud.
+
+31:05
+Som også er større end nul når. O er i intervallet fra nul til.
+
+31:12
+Det indre af det forskønnende interval, der er givet for et. Så den er jeg også bijektiv i det indre.
+
+31:23
+I det indre. Plus regulære.
+
+31:33
+Regulære herfra bijektiv i det indre følger samme argumenter som herover.
+
+31:39
+Lad os nu gå til en lidt mere tricky end måske.
+
+31:45
+Og lad os sige at vi har givet vi starter. Det er den måde I ofte vil møde de her opgaver her på, når vi snakker privatisering.
+
+31:53
+Det er ikke, at der er givet en privatisering, når der er givet et område, og jeg skal bestemme en akse parallel pramme til Ziering ad.
+
+32:01
+Så sige Vi har vores x y plan her er givet en mængde A ikke slipper fra A til B.
+
+32:10
+Og så har vi givet en graf en funktion har. At sige den hedder give a ex.
+
+32:20
+Og den mængde er større antal et større nul, som illustrerer at den mængde p, som vi tænker på.
+
+32:28
+Den kasse der fremkommer her. For det vil sige denne plane mængde.
+
+32:35
+Det kan skrives kompakt som. Lad os se ikke slipper i intervallet fra A til B.
+
+32:44
+Og Y Leiber i intervallet fra nul til Give a ex.
+
+32:54
+Kan I så ikke så et interval og y er begrænset forneden er lig nul og y de gea ex.
+
+33:00
+En positiv funktion som neutral. Her har direkte ind i sortering af det område.
+
+33:09
+Jeg kunne bruge X og Y som. Som en parameter Serenas variabler og bare skrive der på denne her form er at lade X og Y være den her mængde.
+
+33:23
+Men den er pragmatisk seeing, hvor om den sådan set er ganske udmærket.
+
+33:26
+Det er det simpleste, man er i tvivl om, hvad man har gjort, så simpelt er det.
+
+33:31
+For at mængden den er den er bare identitet, er mængden, hvor ordene definerede den samme som billedet.
+
+33:38
+Men den er ikke defineret over et Axe par. Det er en ikke en Axe.
+
+33:45
+Parallelt. Parametre seeing.
+
+33:59
+Og. Så vi må gøre noget andet. Og måden at gøre det på, for man gentager sig gang på gang her er.
+
+34:11
+Jeg er tilfreds med ex ikke x. Den er sådan set god nok fordi den løber i A kommer B.
+
+34:18
+Det ser okay ud, så jeg lagde bare ud.
+
+34:21
+Hvad er lige med ex? Jeg vil gerne få den til at ligne, altså bruge nogle nye variabler ur ved herovre.
+
+34:27
+Det er godt tilfreds med Excel smørstegte bolig ex. Og det jeg gør er.
+
+34:33
+Givet et u uvejr. Brekke Saxenda.
+
+34:38
+Så vil jeg gerne kunne introducere den linje. Der går helt år.
+
+34:47
+Så er der højere 0 som Eva, og heroppe der har jeg.
+
+34:52
+G. A u. Krigsområder privatiserede det linjestykke ved hjælp af en ny.
+
+35:00
+Privatisering parameter ved konkret simpleste måde at gøre det på.
+
+35:04
+Tænk på måske jeres variabel og jeres ve variabel for et fastholdt o undskyld.
+
+35:13
+Jamen, så har vi. På den ene side har vi et punkt. Regi Vi går for vidt, lige have nul og ville lige ind ved jer noget,
+
+35:22
+så vil jeg gerne være i det punkt der har, og så lade ved gennemløbe hele den den det linjestykke have.
+
+35:29
+Jamen, jeg skærper det nu op i punktet her op, så der hedder magi med en værdi som er give af U.
+
+35:38
+Og så lærer jeg bare. Et ret linjestykke, et helt ret linjestykke lige linje har.
+
+35:45
+Så kan man så ser denne her linje er. Så er jeg færdig.
+
+35:50
+Så der står jeg jo bare i. At sige at brug kommer ved.
+
+35:56
+Det bliver bare ved garn. Det er jo. Det er par med til steering ligningen for denne linje.
+
+36:05
+Som går med Eva nål op til at den er når det er noget der så er noget, når jeg indså, at jeg gjorde det for at få det der linjestykke.
+
+36:14
+Så her er, hvad der sidder er. Da spanterne om sexlivet.
+
+36:21
+Y Li V gang gik 18. Det er mit koordinat funktioner og så ledsager.
+
+36:30
+O komma ved at give 18. Hvor vi løber intervaller selvfølgelig fra nul til en.
+
+36:44
+Og når det her er positive her, så er der så at den selvfølgelig bijektiv hele afbildningen.
+
+36:55
+Med én til én der klart indsendte. Ja, når alle punkter.
+
+37:01
+Når alle punkter kun én gang netop én gang alle punkter kan nås, ethvert punkt i den mængde hér kan nås ved et eller andet lodret linjestykke.
+
+37:11
+Det vil sige, at jeg kan vælge et o givet. Et punkt, hvor jeg kan vælge et vist som trans giver mig hvordan, hvordan jeg bevæger mig op ad, siger han.
+
+37:19
+Eller oppe ad den rette linje. Og. At den regulære hær lader kroge kigge på hvad Jacobis funktion lader drengen Jacobi funktionen.
+
+37:27
+Så. For eksempel så Jacobi funktionen den bliver.
+
+37:35
+Æren mærket o æren med gevinst sat op som søjler i en determinanten.
+
+37:44
+Hvad får jeg? Ja, men hvis jeg differentierer med hensyn til UUS, så får jeg en.
+
+37:51
+Og ved g mærke. Jeg forcerer koordinat funktionerne.
+
+37:54
+Hvis jeg differentierer med hensyn til det som er den næste søjle, så får jeg nul, for den afhænger kun af u og differentierer parcel.
+
+38:01
+Men til BB hernede, så får jeg gevinst.
+
+38:05
+Og så tager det vildanden og den absolutte værdi på alle de Jacobis funktioner, de måler et eller andet areal længde, volumen og senere.
+
+38:13
+Der kan kun være ikke negative funktioner, så du skal altid tage de absolutte værdier.
+
+38:17
+Det bliver bare g af u række der strikke.
+
+38:21
+Der skal stå du selvfølgelig g u. Men o g her var selvfølgelig en positiv funktion, så det give af den.
+
+38:30
+Så den regulære dramatisering. Ikke bare i det indre.
+
+38:38
+Og. Og. Den har vi brugt rykke ned har.
+
+38:48
+Også tavle 4. Så eksempel 4.
+
+39:09
+Jeg prøver at tegne over. For at bibeholde plads skal bruge lidt plads senere herovre ved siden af.
+
+39:17
+Kø. Nu beskriver jeg mængden herovre i sygeplejen. Hvordan fremkommer den?
+
+39:22
+Den fremkommer som. Hvis jeg tager halveringen, så linjen her i den første kvadrant altså egentlig ex.
+
+39:32
+Som en linje der begrænser domænet, så tager jeg en anden. Grafer.
+
+39:40
+Som er funktionen Y. Bare for at gøre noget specifikt eksisterer.
+
+39:50
+Og de skærer selvfølgelig hinanden og ikke så ind og i eksil i nul.
+
+39:58
+Og den mængde her. Det er mit plane område, så hvis jeg skal skrive det.
+
+40:03
+Kompakt så x altså intervallet 0 til 1.
+
+40:07
+Det er i intervallet fra x fjerde til ex.
+
+40:13
+Så mængden p. Begrænset. Forneden er grafen for exil fjerde intervallet fra nul til ét for oven er halveringstiden i ex.
+
+40:22
+Det er min mængde p. Jeg vil gerne opskrive en dramatisering. En akse parallel pramme til sikring.
+
+40:44
+Hvordan foregår det? Jamen først så siger jeg for før jeg er tilfreds med jeg er tilfreds med ex.
+
+40:56
+For det der ligger i sådan et. En finte til valg fra 0,1, så jeg sætter x lig o.
+
+41:05
+Så lad nu være fastholdt de mellem nul og et det jeg så vil gøre det.
+
+41:10
+Jeg vil gerne Paramore interesserer linjestykke, der går herfra og op til.
+
+41:17
+Så er der har jeg en værdi der hedder O i fjerde. Og her har jeg en værdi der hedder ud fordi at jeg er en eller bare Excalibur.
+
+41:29
+Så hvis vi lige strækker det her ud og herover, så siger jeg vil jeg.
+
+41:34
+Jeg er nødt til at indføre en pragmatisk sengs variabel, der tillader mig at løbe op af den her linjestykke.
+
+41:39
+Så lad os kalde den parameter ved og lad os sige, at der lever fra nul til en.
+
+41:44
+På samme måde som Parramatta serien i forskellige formater Zähringer cirklerne, så er ikke en entydig måde at gøre på det her valg,
+
+41:50
+men det simpleste er altid arbejde under ét, så lad os sige nul og ét hvad mit krav.
+
+41:56
+Jamen, jeg vil gerne have, at når jeg når VR nul, så vil jeg gerne være i o.
+
+42:01
+Fjerdedel. På det punkt.
+
+42:06
+Hele den her linjestykke her. Fremkommer så vi ved nul.
+
+42:12
+Og når vi er ét, så det det altså i. Når vi er ét, vil jeg gerne have værdien af Y til at være u værdien.
+
+42:26
+Der opstår her, og så tager jeg et ret linje mellem de to har.
+
+42:31
+Og vi skal pragmatisk ser dette linjestykke. Prøv. Det er altså i aksen hvor der fremkommer to værdier.
+
+42:39
+Y i fjerde og y som skæring af dette linjestykke mellem de to linjer, der så kan privatisere dette linjestykke.
+
+42:47
+Så giver det mig og min koordinat funktion for en koordinaten.
+
+42:52
+Det må være en, mener C.V. Garne værdien i nul.
+
+42:57
+Plus V gange værdien i et. De checke ind sætter ved lig nul, så det der er nul og tilbage står der i fjerde Varðin ved jeg vel er der.
+
+43:11
+Hvis værdien ved en så det her nul og tilbage står der bare dem, præcis som jeg gerne vil have en lineær interpolation mellem de to funktions værdier.
+
+43:20
+Og dermed kan jeg gå tilbage. Og se koordinat funktionerne at man ikke slipper bare ud og y koordinaten.
+
+43:28
+Det var en minus ved o i fjerde plus ved garnet ud.
+
+43:37
+Og hvor er det klart. Hele det stykke her.
+
+43:43
+Helt har linjestykke har. Det svarer til ved de en.
+
+43:49
+Hele dette linjestykke. Det svarer til Village New. Så i ænderne her kan man se som vi selv skriver er af nul komma ved.
+
+44:04
+Jamen så får jeg punktet 0,0 for alle ved.
+
+44:12
+Så er vi altså en privatisering, som ligesom kollapset i dette hjørne og faktisk går op i det her hjørne os.
+
+44:19
+Men konstante værdier. Så det er selvfølgelig ikke billigt på hele sit domæne, men den er bijektiv i det indre.
+
+44:30
+Det er kun i hænderne, ligesom det går galt. Bijektiv i det indre.
+
+44:39
+At kigge på en Jacobi funktion. Jeg.
+
+44:46
+Men sporvejene kopi funktion har. Det skriver de parceller afledte opførsel måske er mærke.
+
+44:55
+Med hensyn til USA differentierer Canada funktionerne parcel man sig til. Jeg skriver op fire ét minus ved o i tredje plus ved.
+
+45:07
+Og er mere tv er lig med nul og minus O i fjerde plus gu.
+
+45:16
+Og så tager vi det, så tager determinanten. Den matrice der fremkommer ved at sætte disse søjler vægge op i en matrix.
+
+45:32
+Så får jeg præcis o minus O i fjerde, som er positiv i det indre.
+
+45:44
+Den er regulær. En regulær privatisering. Og jeg tror jeg vil gerne have at vi holder timers pause nu, så når jeg kommer tilbage, så opskriver jeg.
+
+46:06
+Så går jeg til Panopto på dagsordenen. Men disse planer integrator.
+
+46:13
+Så må vi se om ti minutter. 5.
+
+46:17
+Vi.

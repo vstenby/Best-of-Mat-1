@@ -1,0 +1,1058 @@
+0:05
+På formiddagen. Når vi dødelige ikke findes, er glade for det, gik det stærkt.
+
+0:16
+Heldigvis er vi godt klar over det. I dag kommer det ikke til at gå lige så stærkt.
+
+0:21
+I dag bliver sådan lidt mere hygge gang, fordi det i hvert fald mening med det.
+
+0:30
+Vi skal minde jer om nogle ting, som vi i virkeligheden godt ved meget langt hen ad vejen i forvejen, fordi vi skal snakke integralregning.
+
+0:38
+Og I ved jo godt fra gymnasiet, hvordan man integrere.
+
+0:44
+Man trykker i en på computeren og Jokela, men der er faktisk nogle regler, som man kan bruge.
+
+0:50
+Når man skal integrere dem, vil vi lige replicerer. Men vi starter med noget, som som er interessant, fordi dels er det sådan lidt et historisk oplæg,
+
+1:01
+fordi hvordan opstår integralregning, og hvordan gjorde man? Hvordan gjorde man dengang man havde computere og lommeregnere?
+
+1:11
+Og. Derudover skal jeg også lige lære hvordan man integrerer komplekse funktioner.
+
+1:16
+Det tager 30 sekunder, fordi man gør som man plejer. For bare ikke som pjat.
+
+1:20
+Men vi skal indføre det klassiske integral, som hedder rigmanden integralet.
+
+1:25
+Så nu skal vi også holde øje. Så i dag skal vi snart integralregning.
+
+1:43
+Og. Hvad I nok ikke ved endnu værre er, at der er forskellige typer integral og det typer integral, som vi snakker om i dag.
+
+1:53
+Det hedder rigmanden. Rigmand Integral Det er det integral I har set i gymnasiet.
+
+2:08
+Og hvordan er det nu lige det er, når jo det handler om at man tager en eller anden funktion f.
+
+2:17
+Og den skal være konserveret? Jamen, det ved vi ikke. Hvad er jul lige nu?
+
+2:21
+Man kan ikke bare gå op og ned uden at løftede fingrene.
+
+2:25
+Der kommer en præcis definition senere, men lader som om jeg godt ved, hvad en kontinuerte funktioner er, så f kontinuert.
+
+2:38
+Og de funktioner vil vi kigge på lige nu.
+
+2:42
+Det er funktioner, som sender reelle tal ind i reelle tal.
+
+2:48
+Sidste gang der kiggede på funktioner, som også sendte det reelle tal ind i komplekse tal.
+
+2:53
+Dem er der egentlig ikke så meget nyt at sige om, fordi det betyder bare, at det er så nogle her,
+
+2:58
+der har en regel eller en imaginær del, hvor hver eller imaginær delen er så nogle.
+
+3:04
+Det vender vi tilbage til det her.
+
+3:05
+Det hedder reelle funktioner for en reelt kontinuert funktion, og så plejer man jo have sådan et et billede af funktionen i hovedet.
+
+3:16
+Den har en eller anden graf. Den kunne se sådan her ud, så det her er grafen for F.
+
+3:22
+Det, man så interesserede i at regne ud. Det er det areal som ligger her mellem x aksen og grafen for funktionen.
+
+3:35
+Det her. Og der er så forskellige varianter.
+
+3:39
+Hvis nu det ligger nede under og oven over og skærer ind midt imellem.
+
+3:43
+Der er alle mulige, men altså lige nu kigger vi på det her, fordi det er den situation, som man kan lide.
+
+3:48
+Alt andet. Tilbage til det areal.
+
+3:54
+Har vi jo formentlig set skrevet i gymnasiet beskriver vi sådan her, så det her integral vil defineres som et variabelt.
+
+4:09
+Og så har I lært i gymnasiet og formentlig også set noget, der minder om et bevis for det her.
+
+4:17
+Nemlig at hvis store F er en stamme funktion.
+
+4:36
+Til Lille F. Hvad er det?
+
+4:41
+Jo, det betyder når. Det betyder, at hvis jeg differentierer den være, så får jeg den der.
+
+4:52
+Det er det at være en down funktion. Så jeg har altså en konsolideret funktion.
+
+4:57
+Sådan en har en stamme funktion, så gælder det der.
+
+5:03
+Og hvordan regner man så dette integral, der står deroppe ud?
+
+5:06
+Og man tager den pågældende stamme funktion i det ene ende og i den anden ende og trækker de to tal fra hinanden.
+
+5:19
+Den sætning. Den sætning kender I og har formentlig brugt masser af gange i gymnasiet af Marie.
+
+5:30
+Yes, men det rigtigt at spørge er jeg, når den sætning har et navn bedre?
+
+5:37
+Faktisk integralregning en forudsætning for den ret berømte sag.
+
+5:46
+Så kan man så spørge sig om hvad nu?
+
+5:53
+Hvis man ikke kan finde stavgangsforeningen. Men det kan man jo altid er jeg aldrig.
+
+5:59
+Stort set alle funktioner hvor jeg skal findes. Dagpenge Sommerfeld. Og hun glemmer at der er ret mange æsker i hendes forsøg.
+
+6:08
+Det kunne godt være, at man ikke kunne finde Staunton sjove og serie jamen,
+
+6:12
+så beder vi bare en computer om at gøre det okay, hvis der ikke er en bankkonto, man kan skrive op med.
+
+6:18
+Med almindelige funktionsfejl, så kan computeren ikke bare sidde ud hver.
+
+6:26
+Så er den jo nødt til at gøre et eller andet med det her for at finde det der.
+
+6:32
+Og der er forskellige måder, og en af måderne skal vi kigge på i dag.
+
+6:38
+Det, som jeg måske lige skulle overveje, ikke også det er, at vi nu tegner.
+
+6:46
+Koordinatsystem, der tager bind for øjnene og gøre sådan.
+
+6:55
+Så er der sandsynlighed noget for at I kan finde vejen forskrift for den funktion jeg har tegnet.
+
+7:07
+Der er så mange funktioner, at det kun er ganske få af dem, vi kan skrive funktion foreskrifter over for.
+
+7:14
+Så dem der da kan garanteret ikke form funktion forskrifter op for det er kun i helt specielle tilfælde,
+
+7:20
+hvor vi gør os rigtig umage for at lave nogle meget fine tegninger, at vi kan ramme noget der er der, altså hvor vi kan skrive forskriften op.
+
+7:27
+Det er værd at overveje, fordi det leder lidt hen til det her problem.
+
+7:34
+Vi kan jo også bare. For eksempel hvis vi har en funktion, der hedder Eriks hjerne. Den ser meget fin ud.
+
+7:42
+Meget tilforladelig funktion. I kan ikke skrive en stak funktioner, hvis de prøver at bede computeren om at gøre det.
+
+7:52
+Så skriver man en hel plade og skriver noget med ærgrer og funktioner alt muligt andet.
+
+7:56
+Men den kan ikke regnes downforce fusionen. Og sådan nogle er der masser af.
+
+8:01
+Så selv om man måske kan skrive Lille F op, så kan man ikke skrive store op.
+
+8:07
+Så hvad gør man så? Så går man tilbage til den oprindelige definition af Integral og prøver at regne det ud og undervejs når man gør det,
+
+8:20
+så kommer man igennem en masse masse spøjse overvejelser.
+
+8:24
+Så lad os lige prøve en gang og kig på det. Så.
+
+8:31
+Hvad er spillereglerne? Spillereglerne er. Jeg har grafen for en kontrolfunktion.
+
+8:38
+Så F er kontinuert. Og det betyder altså til den bro vi skal have her.
+
+8:47
+Der er ikke nogen huller i grafik. Så prøver jeg lige at lave en skitse.
+
+8:55
+Kan sådan en situation forvente at vi skal have et eller andet, der er en forholdsvis nem Plotin, som vi tegner en F.A.
+
+9:02
+Der ser sådan her ud. Og så har vi alle æggene her.
+
+9:08
+Og så har vi beliggende her, og jeg så ude efter det her areal.
+
+9:16
+Hvad gør jeg så? Jamen det at gøre for at tilnærme.
+
+9:23
+Areal der laver det der hedder en venstre zone. Venstre sår.
+
+9:33
+Og I laver en venstre zone med finhed. Og finhed en kan man definere på forskellige måder.
+
+9:46
+Nu kalder finhed friheden for en. Hvad betyder det?
+
+9:51
+Jamen, det betyder simpelthen, at jeg tager det her interval. Og så deler jeg det ind i endelige store stykker.
+
+9:59
+Og det vil sige, hvis end nu er to, klæber det bare over på midten.
+
+10:04
+Hvis enden nu er 10.000, så får jeg virkelig en opdeling, der ved noget.
+
+10:08
+Så når enden vokser, så bliver inddelingen finere og finere.
+
+10:13
+Krise da så? Hvad giver dette mig?
+
+10:19
+Hvor langt er der derfra DR til der er var lagt?
+
+10:23
+Det inddeler jeg i endestykker. Så har jeg et lille interval klasse.
+
+10:30
+Den dag det hedder Perla Delta og så med et x som indtægt,
+
+10:35
+fordi det er her det foregår nede på min på mine eksakte, og her oppe ligger fotos, fordi vand.
+
+10:43
+Så. Det her er min inddeling ved den lille interval dækker også.
+
+10:50
+Og hvis han nu prøver at skitsere, hvordan det ser ud her, så ser jeg okay.
+
+10:55
+Inddelingen ser måske samme måde ud. Og så fortsætter den her opad, og så slutter den her.
+
+11:03
+Men hvordan og gab, så kigger lige hvad der står de forskellige steder.
+
+11:10
+Her står der af. Hvad sker der når der?
+
+11:17
+Hvordan skriver vi det herude, når man er der, går ged i det. Vi skriver sådan her vi skriver A +.
+
+11:22
+Og så skal vi have en gang. Altså ikke sandt? Det må være den der står der er der i det.
+
+11:30
+Hvad står der så dér? Der børster A clouds to og gang den der er Jack og en.
+
+11:42
+Så hopper vi op af her. Hvad står der på den næstsidste?
+
+11:49
+Jamen damer står a clouds. 1 2, 3 4 5.
+
+11:55
+6 7. Den sidste. Den der må være nummer 1.
+
+11:59
+Så må jeg være noget helt deroppe. Også fordi når jeg tager en af dem, så har jeg jo gået hele største krise.
+
+12:06
+Det så hvis jeg står her. Så må det være A+ end minus 1 gange.
+
+12:13
+Den der. Men hvordan har jeg en hel masse?
+
+12:18
+Ikke fordi jeg. Godt det jeg så gøre nu, er da jeg kigger på de tilhørende funktions medier i disse punkter.
+
+12:30
+Sonderer også serier og. Hvad står der bedre end herefter?
+
+12:36
+F. Hvad står dig bedre end Daxter f.
+
+12:42
+A Clouds 1 gange? Deltag i eksamen!
+
+12:49
+Og tilsvarende f. A.
+
+12:52
+A Pluto deltager ikke, og herinde står der f a plus end minus en baltzer extend kan vi lige skrive, for den er der plads til.
+
+13:01
+Så her starter f. A. A. Clowes n minus 1 bag sig.
+
+13:07
+Ex. Det er de nye værdier, der hører til disse. Ikke fordi jeg er med på den, fordi det ser sådan ud.
+
+13:13
+Stationsmester lidt bøvlet ud, men det er egentlig ganske simpelt. Jeg har lige lavet mig en inddeling, og så tager de tilhørende funktion, fordi jeg.
+
+13:21
+Så laver jeg en venstresving. Hvad betyder det? Jamen, det betyder, at nu må jeg prøve at beregne arealet, når jeg gør sådan her.
+
+13:33
+Det vil sige at jeg starter i venstre side, og så kigger vi på rektangler, der fremkommer på denne her måde.
+
+13:42
+Klasse. Så får jeg et eller andet, som ligger måske tæt på, måske langt fra det areal, jeg leder efter.
+
+13:52
+Okay, så lad os lige prøve en gang og se hvad det er jeg gør nu.
+
+13:56
+Nu tager jeg arealet af denne her ihjel af denne her har jeg eller denne her lægger ligger allesammen sammen og ser, hvad jeg får.
+
+14:06
+Okay, så lad os prøve at skrive det herover. Vi bruger et symbol for det vi skriver i.
+
+14:14
+Og det er fordi, at vi tillægger var et integral med.
+
+14:16
+Men her står vi så, for Venstre sad, og så skriver vi i vores funktion på vores finhed og skriver i vores interval.
+
+14:29
+Og så skriver jeg det som jeg får, når jeg regner alle de her og rektangler areal ud, så lad os lige se en gang.
+
+14:39
+Hvad er arealet af det første? Lad os se en gang.
+
+14:44
+Det er f. Af A. Højt, og det er delta ikke bredt.
+
+14:52
+Er det rigtigt og gab? Så skriver jeg sådan her.
+
+14:55
+For det første rektangel, der hedder f. A højt garnet, da jeg sad klods.
+
+15:04
+Så kommer det næste rektangel. Hvor højt er det, når det er så højt?
+
+15:11
+Det F er A plus en delta ex højt, og det er også delta ikke spredt.
+
+15:19
+Så arealet af dette rektangel er højden.
+
+15:23
+F, a plus indgang deler sig x gange med bredden, som deles af ex.
+
+15:30
+Det rektangel nummer to. Da jeg blev udskrevet engang værelser af gangen, dels af ex og kan jeg nu kan nok godt se med systemet,
+
+15:43
+er jeg ikke fordi så tager vi det tredje rektangel. Det må så være f.
+
+15:48
+A. Kluges to værelser ex. Gang deltage ex.
+
+15:56
+Og så fortsætter vi derudaf.
+
+16:00
+Bum bum, bum. Og hvad er det sidste vi skal bruge det sidste rektangel.
+
+16:06
+Det er dette jeg. Det er så højt, nemlig f, a plus m minus en del ex, og det er stadigvæk glædede sig ikke så meget.
+
+16:17
+Så det er det der satte gang bælter ex. Du skal have lagt til sidste.
+
+16:32
+Sådan. Og ja, det her kan man skrive komprimeret for.
+
+16:45
+Hvis jeg lige laver en lille lille omskrivning her for i den første der slår f a.
+
+16:52
+Clowes nul gange. Bælter ex.
+
+16:57
+Gang brandbælter ekspedienter står her. Dag til dag.
+
+17:04
+Jeg har ikke gjort andet end at skrive nul. Resten gør jeg ikke noget ved.
+
+17:09
+Og så ser jeg det her cave skrive på en genial måde, for det er det her.
+
+17:13
+Det er jo en sum, og når man lægger ting sammen, hvor lydene minder om hinanden, så bruger man det her som en sjov steg.
+
+17:21
+Og hvad er det, der ændrer sig i denne her sorg? Men prøv at se det første møde.
+
+17:26
+Der var noget, der bed alle med sig, står der en dag.
+
+17:30
+Det tredje ledte efter der to, der ved sidste lade, der var end minus én dør.
+
+17:37
+LCD. Det er det eneste der ændrer sig i denne her sag.
+
+17:41
+Og det er lige præcis sådan noget, man bruger som missionsrejse. Så hvis jeg nu.
+
+17:48
+Hvad hedder det? Laver det, der hedder Suman Shoppingcenter, som hedder BIG?
+
+17:53
+Så hvis han ugler i løve for en og op til N, så kan jeg skrive det her som f.
+
+18:00
+A. A klods. Derinde skal der så stå i minus 1 med sig af, og så skal det ganges med deltagelse.
+
+18:13
+Prøv at se det der står her, skrevet med summer af sjov.
+
+18:17
+Sej er præcis det, der står heroppe, fordi hvis vi starter fra en ende af.
+
+18:22
+Så starter vi med at sætte en ind. Så står der noget, der så har I den kan.
+
+18:28
+Den nederste serie i lige 2. Så står der A + 2 minus 1 B en gang delta x.
+
+18:36
+Der en deltager ikke, så det er den der og den sidste vi sætter ind.
+
+18:41
+B I lige n så står der A Plus end minus 1 altså ikke.
+
+18:47
+Og det er præcis den, der står, der kan vise det. Og hvis vi så lige skriver det her ved hjælp af denne her.
+
+19:04
+Forstår dig. Some føjelige ind til m f, f a clouds.
+
+19:10
+I minus én og så skriver jeg bare det som Delta ikke så er.
+
+19:15
+Det hedder bag minus A er med hjem, og så skal jeg så gange med den uden for B minus a, b med N.
+
+19:23
+Der kan vi bare skrive sådan her, så sådan i praksis ser denne sommer ud.
+
+19:32
+Og hvis så f er en kontinuert funktion, så kan man jo bare gå ind og beregne det her.
+
+19:39
+Fidusen er, at hvis FN kontinuert funktion, så kan vi være sikre på, at det vi regner ud her, nærmer sig det, som vi gerne vil have.
+
+19:50
+Så det er en hovedsætning. Hvis det er os der er konstrueret.
+
+20:09
+Vel den der sung, som står der i f.
+
+20:15
+M. Intervallet fra A til B. Som altså er det der står dér, så vil det her nærme sig det areal, som vi gerne vil bevare.
+
+20:30
+Og det er her, det for indgående modvinden. Og det betyder altså, at hvis vi gør inddelingen af dette her interval finere og finere og finere,
+
+20:46
+så nærmer vi os og kommer uendelig tæt på det, som vi gerne vil regne ud, nemlig arealet.
+
+20:52
+Og man kan næsten også se det her.
+
+20:53
+Ikke fordi jo finere at gøre inddelingen, jo tættere kommer disse rektangler til at ligge og fylde arealet ud kredsene.
+
+21:02
+Det er sådan man laver rigmanden Integral. Så kan I måske over for fejle notationen for frosset her.
+
+21:17
+Det er jo dette, at man skal regne ud, og så skal man lade ende, gå mod oliemaling og se, hvad der sker.
+
+21:24
+Men prøv lige at se. Det DJ som er sjov symbol er det der bliver til det der.
+
+21:33
+Og den del af ikke som står her.
+
+21:37
+Det er den der bliver til det ekstern. Det er derfor at man har notationen integrator her.
+
+21:46
+Så det her, det kan man tage som en definition af det der hedder rigmanden Integral.
+
+21:59
+Rigmanden Integral. Og så er nogle af er du kunne ikke lige så godt har taget højere summer.
+
+22:11
+Det vil altså sige hvor man havde startet i højre side og så gjort noget, tilføjer jeg.
+
+22:15
+Det giver præcis det samme s andet. Man dog dog nået så mange frikadeller, som vi har indgået.
+
+22:21
+Hvilket kører lige præcis. I er bare et super sjovt, endda ikke.
+
+22:26
+Og det er måske. Vi burde måske have kaldt det J. Eller K eller et eller andet.
+
+22:30
+Men nu har jeg med vilje valgt i fordi det er faktisk sådan det står i noderne.
+
+22:35
+I må endelig ikke forveksle det med den imaginære enhed. Det er bare en tæller.
+
+22:40
+Klasse. Den tæller som løber fra en op til EM, og det betyder bare det, der står her betyder bare det, der står heroppe.
+
+22:49
+Husk endelig det. Jeg ved godt, at de ikke er vant til at se.
+
+22:52
+De er super sjovt, sejt. Men I kommer til at vente til dem, og jeg skal underholde lidt med med dig med det øjeblik.
+
+23:00
+Men du må se rimene. Integralet er en en relativ god opfindelse, så lad os prøve én gang.
+
+23:08
+Lad os prøve at lave et eksempel på at lave et rigtig godt eksempel.
+
+23:14
+Som er nem. Det jeg gerne vil regne ud det er integralet fra A til B, og så lad os tage en eller anden.
+
+23:33
+Lad os faa en simpel funktion. Jo simplere funktioner er, jo nemmere er det at lave de der summer for deres personale.
+
+23:41
+Jeg har sat to af Expos 3 for eksempel. Og lad os prøve at regne på det.
+
+23:54
+Det sjove er, at fordi I har lært integralregning, så kan I kan jo sagtens integrere den ageres.
+
+24:02
+Det tager jeg 10 sekunder. Og så kan jeg jo sagtens vejen derud.
+
+24:06
+Det at blive far måske 30 sekunder, for den opgave kunne ikke lukkes på under et minut.
+
+24:11
+For med en læring nu skal jeg vise, hvordan man kan bruge rigtig lang tid på at regne ud og yoga.
+
+24:19
+Så det jeg gør nu også er jeg for denne funktion f.
+
+24:24
+Eks. Som altså den der står herinde, som havde to eksklusive træ, som er pænt konserveret funktion.
+
+24:32
+Så laver jeg noget den inddeling der er N og så fra A til B.
+
+24:43
+Og lad os få gang og se hvordan det ser ud, når man så skal skrive et rap.
+
+24:50
+Vi skal tage some for lige ind til EM.
+
+24:55
+Og så skal vi tage et funktions værdierne. Det vil sige, jeg skal sige to gamle bage klogeste, og så skal jeg sidde i minus en del eks.
+
+25:09
+Og så skal alle tre til, og så skal jeg sætte en parentes, og så skal jeg gerne deltage i X.
+
+25:19
+Er I med på at det er bare. Den vidunderlige, som der står midt på tavlen, blev opskrevet op med den funktion, som vi nu engang har.
+
+25:30
+To gange Egtvedpigen plus tre og så hele baduljen.
+
+25:34
+Sumererne. Så mange gange som en ordløst, og man kan allerede ane nu, at det er her, det bliver monster agtigt.
+
+25:43
+Vi glæder os allerede, så lad os prøve at se, hvad vi kan gøre.
+
+25:51
+Det første der ville være smart at gøre, det er at tage dette dels af ex.
+
+25:58
+Og herud fordi det står uden for alle leddene i solen krydset af så uden for med.
+
+26:06
+Så jeg skriver Det ser jeg ikke herude, og så vil jeg prøve en gang at skrive om, hvad det egentlig er, der står.
+
+26:14
+Så jeg starter føjelige 1. Så står der to gange a plus tre.
+
+26:25
+To plus tre løver for Eileen E. Så lad os se hvad sker der forenelige?
+
+26:30
+To mænd står der to gange A clouds indgang bag sig ex.
+
+26:40
+Og så står der plus tre klods. Jeg skriver lige det næste levede bare for.
+
+26:48
+Og så står der to gange d'Alsace og plus tre.
+
+26:55
+Og så sprænger vi. Dum, dum eller skæv plusser.
+
+26:59
+Dum, dum, dum klods og så den sidste. Hvordan ser dag?
+
+27:04
+Nåede Danmark havde to årgange. Og så må den hedde A Clouds.
+
+27:09
+Og så er det sidste, vi sætter ind. Det var en minus en. Gang vælter Ecce.
+
+27:17
+Og så skal vi også husker at lægge tre til, og så skal vi huske dels ikke står udenfor her.
+
+27:22
+Så vi har to tal her. Sådan. Og så skal vi have en parantes til, som er den, der var Poncelet for så står her.
+
+27:38
+Engang så jeg i parentesen efter Trillingsgaard Grand 3.
+
+27:44
+Det var rigtigt. Du har fuldstændig ret. Den skal stå dér.
+
+27:48
+Sådan har jeg sat en forkert andre steder. Det har jeg ikke den. Nej, nu drikkes.
+
+27:56
+Det er godt. Nu tror jeg jeg har fået skrevet det skulle være vil meget gerne være nogenlunde loyalt med det, der står dér og begge også.
+
+28:05
+Og så skal vi nu prøve at finde en eller anden smart måde at gøre det her på, så lad os se en gang.
+
+28:11
+Hvad får vi? Jeg må hellere skrive her.
+
+28:16
+Jeg deltager i X. Den kan jeg ikke gøre så meget ved. Og hvad har jeg så?
+
+28:24
+Så har jeg to to af to af to a to er to af to af.
+
+28:34
+Hvor mange har jeg af dem end jeg kan også?
+
+28:39
+Hvor mange 3 metaller har jeg dagen? Op til 1.
+
+28:45
+Jeg går også og det vil sige her må der nødvendigvis stå n gange to af plus tre.
+
+28:54
+Er I med hvordan du har taget hånd om alle de her 3 taler?
+
+29:01
+Var bare de hen for at hjælpe mig selv, fjerner dem her, og så har jeg taget hånd om alle.
+
+29:05
+To af ejerne. Hvad står der ellers i øvrigt?
+
+29:12
+Så har jeg to gange deltaget i X.
+
+29:21
+Og så har jeg to gange to dels af X, og så har jeg alle dem, der ser sådan her, ud.
+
+29:27
+Der kan jeg se to tallet uden for en parantes. Det vil sige, jeg kan se to gange.
+
+29:33
+Og hvad står der inde i parentesen? Der står at dele sig ex.
+
+29:39
+Clowes to dannelser af X. Klods.
+
+29:46
+Op til den sidste som må være den der.
+
+29:56
+Og der var to gange med dem allesammen. Så det må vi se sammen herude.
+
+30:03
+Og så skal det hele gange fordele sig. Eks det må se sådan her ud.
+
+30:09
+Er det ikke rigtigt? Lod brasserier egne tror at det var ikke kylling.
+
+30:14
+Fordi jeg har taget hånd om det her. Og så har jeg sat totalt uden for en parentes.
+
+30:19
+Og så inde i parentesen står der deles af ex to deltagere deltagerrekord. Tre deltagere.
+
+30:23
+I fire dage tager jeg ikke op til den sidste som den dag. Og hvor svært kan det være?
+
+30:29
+Så lægger jeg mærkede noget i mine dybe genialitet, da jeg her har noget.
+
+30:32
+Dels er jeg ikke alle steder. Sådan kan vi i hvert fald smide ud fra en pause.
+
+30:37
+Sådan så det her. Det må være lig med beviser.
+
+30:41
+Ex garnet med n gange to a plus tre i en parantes blues.
+
+30:49
+To bælter eks. Guide med en parantes og hvad står der Alphonse der en plus to Clouds blues og så op til end minus 1.
+
+31:04
+Og så skal jeg sætte den sidste pause. Sådan. Så.
+
+31:13
+Det. Jeg lægger alle tallene op, fælder med en mine ben sammen, så skal jeg lige finde ud af, hvad det er.
+
+31:21
+Og kan. Og der skal vi lægge mærke til noget interessant, fordi det kan man gøre på en smart måde.
+
+31:32
+At se ideers det at gøre der er summen for en bagen op til end minus én er i.
+
+31:42
+Hvad er det det egentlig? En klods inde i et tog.
+
+31:46
+Plus i de tre klods og så op til den sidste, som hedder 1 minut senere.
+
+31:53
+Så er det den måde man ville skrive det ved hjælp af supersjovt start på.
+
+31:57
+Det er det, der står her, så lad os nu regne ud, hvad det er.
+
+32:03
+Og jeg kigger både. Jeg har hjælp.
+
+32:04
+Det kan ikke finde ud af, at jeg må få en god idé, når den første gode idé bed var, at man kunne kalde den da sund for end for eksempel.
+
+32:13
+Den afhænger jo af enten et eller andet. Skal den hedde Hjort, gav den Henrik. Men nu står den i hvert fald det jeg af, og så kigger jeg både op.
+
+32:22
+Jeg kan i hvert fald måske bare finde ud af at skrive den og omvendt. For det må være det samme Saramago.
+
+32:36
+Det er i hvert fald ikke løgn. Og så får man den fede idé at lægge de to sammen.
+
+32:43
+Og så hvis jeg begynder at lægge sammen, så en plus eller minus en.
+
+32:48
+Det er jo en to plus minus to be en bog med noget indtil den seneste er minus én plus en det også ende.
+
+32:59
+Og hvor mange er der af dem? 1 2, 3 Der er minus 1.
+
+33:05
+Klasse. Hvad får jeg, når I lægger M minus 1 ind og sammen?
+
+33:10
+Så får jeg endte mine på en gang en. Er det ikke og ikke, og det må altså være det dobbelte af det, jeg leder efter noget.
+
+33:22
+Men så har jeg jo summen, som er summen jo bare være halvdelen af dette.
+
+33:28
+Jeg. Det selv.
+
+33:38
+Der er en sjov historie om denne person. Den skal have fordi den er næsten, var jeg ikke.
+
+33:45
+Den handler om Gauss, salig Gauss. Gauss var naturligvis et højt begavet barn og havde meget velhavende forældre, som han kom meget tidligt i skole.
+
+33:54
+Så som fire eller femårige sad han i skole sammen med sine ældre klassekammerater og så læreren.
+
+34:01
+Han skulle jo lige have en lille pause. Han skulle sikkert læse avisen, eller også skulle han ud og gøre et eller andet.
+
+34:06
+Inden vi skal have de der overhovedet beskæftiget. Så han sagde, at for helvede prøve at regne det her ud.
+
+34:14
+Og så skrev han op. Bum, bum bum. Læg tallene fra et til hovederne sammen.
+
+34:22
+Og så må de jo beskæftige næste times tydeligt. Så kan man roligt gloser en Insua, men Gauss.
+
+34:27
+Den lille møgunge havde kigget på dette, og så sagde han. Det giver 5.000 og halvtreds.
+
+34:33
+Der er dog to muligheder Enten kvæler man barnet også klapper man.
+
+34:36
+Jeg tror du tror han plejer du ikke. Men at se Gauss råbe Gauss brugte bare det han sagde.
+
+34:43
+Jamen, der står hundreder plus en 99 nu to.
+
+34:47
+Det gav hundreder. 1. Det gør 50 gange 50 gang. 101 blev fem tusinde 50 end hvad så?
+
+34:52
+Hvor svært kan det være? Det er lige præcis den form, vi lige har udledt.
+
+34:57
+Da man tabte dér, hvor man slutter, nemlig de hundreder, og så tager man dem, der kommer efter de hundreder en ganger med hinanden og deler med to.
+
+35:07
+50 gang hundreder af tusinder havde trodset lidt lageret, og det ovenikøbet næsten rigtig, tror jeg da i hvert fald.
+
+35:15
+Det står i hvert fald ind i en bog over sande historier over matematiske geni.
+
+35:21
+Når. Så kan eller hvad med hjerte?
+
+35:28
+Så nu har vi faktisk. Nu har vi faktisk det vi skal bruge, for vi kan skrive, hvad der skal stå dér.
+
+35:36
+Så lad os prøve en gang og skrive det. Vi kan skrive det her for tilbage.
+
+35:43
+Jeg har fuldstændig glemt at skrive numre på tavlerne. Det var der, og der er ikke nogen, der har brokket sig.
+
+35:52
+Og ja, nu går vi nu kunne vi lave lidt færre og byt fuldstændig rundt på numrene.
+
+36:00
+Det ved, at jeg en dag, da den får et nummer om lidt, men prøv at se.
+
+36:10
+Vi har nu. Vi har nu vores sorg, for lad os se en gang.
+
+36:19
+Bælter ikke den ved vi hvad er, denne hedder nemlig bag minus A.
+
+36:25
+Dels med en så herinde flottere end Gauja to a plus tre.
+
+36:35
+Det var dem, der også er her. Der står der plus to gange bag minus A dels med N.
+
+36:48
+Det er den der og så gang den er garnet med en halv gange n gange n minus 1.
+
+37:00
+Og så skal jeg parentesen. Sluttes.
+
+37:07
+At vi ikke nornerne enige om at det er rigtigt. Det forholdsvis simpelt er simpelt, men jeg vil i hvert fald regner os frem til i dag.
+
+37:15
+Så nu ganger jeg ind med denne her sag, siger Dante.
+
+37:19
+Og gange den, der så det, end vi dvd'er med det spiser. Det ændrer, bliver garnet med.
+
+37:23
+Så det første led bliver den gang den der. Det skriver vi så på denne tavle, som så bliver tarvelig sex.
+
+37:37
+Og lige med Hvad fik jeg fik Bay i minus A Garden.
+
+37:46
+To af plus tre. Det var først nede ligger også, så kigger vi på det her.
+
+37:56
+2. Det der går ud med den halve jord.
+
+37:59
+Det må være fuldstændig stensikkert er det ikke og ikke. Og det der står dér, går ud med det end vi garner med.
+
+38:09
+Der. Og alt i alt kommer der til at stå bag minus af garnet bag minus A.
+
+38:17
+Det må være B minus a anden.
+
+38:27
+Og så har jeg end da også gerne set hvor vi dvd'er med det, og det vil sige der kommer en minus en del med en, som vi skal gange ved her.
+
+38:42
+Er det ikke rigtigt? Jeg har sådan set bare gerne parentesen ud, og så bruger vi den berømte hovedsætning, nemlig at den so forstår det jeg.
+
+38:56
+Den nærmer sig integralet. Når income uno. Eller det vil sige det over, skal man nu bare lade engområde vente.
+
+39:04
+Er det ikke. Og hvad sker der så op?
+
+39:10
+Jamen, den er jo bare et tal er det ikke, og det blev bare et tal.
+
+39:16
+Og her står der et tal. Det eneste der ændrer sig, er den der.
+
+39:20
+Hvad sker der med den når engområde endelig og hjem?
+
+39:27
+Vi kan prøve at kigge. Bunden er minus en del med, end tricket er, når man skal undersøge sådan noget.
+
+39:35
+Det er at tage, tæller og nævner ledet af højeste orden.
+
+39:39
+Det her er jo første orden og første orden, så vi er igennem med det.
+
+39:44
+Så endte det med ende. Det giver en minus en delt med, end det giver minus.
+
+39:50
+En bydel inddelt med ende. Det giver en, så jeg har jo virkelig en bare forkortet bryggen med en pct.
+
+39:59
+Og nu er i hvert fald tydeligt hvad den nærmer sig, for det er dette her.
+
+40:03
+Ja, hvad sker der her? Aner en sker der ikke noget med. Men en enkelt del går mod nul.
+
+40:09
+Da de satte en over ende, når enden blev uendelig stor, gå mod 0, så det her det nærmer sig en.
+
+40:16
+Og det vil sige, at det her, som står dér, nærmer sig.
+
+40:22
+Bag Venus A guide to a clouds tre Clouds bag Venus A.
+
+40:32
+I anden. Det er værdien.
+
+40:40
+Og så kunne det jo være meget interessant at se. Kunne det måske ikke være nemmere at bruge den integralregning jeg lærte i gymnasiet?
+
+40:48
+Ja, hvorfor? Her kan vi jo faktisk gøre det, fordi vi ved hvad dette er Integral er.
+
+40:54
+For hvis nu prøver at gøre det. For nu hopper vi tilbage i gymnasiet.
+
+41:03
+Så se bare integralet fra A til bagen er to plus tre.
+
+41:10
+Ex. Hvad skal jeg gøre? Jeg skal findes samme funktion.
+
+41:14
+Med så skal en firkantet paritet eller det var i hvert fald nogle der gør dette her.
+
+41:18
+Det har samme funktion. XL er anden plus tre eks. Er det ikke og ikke.
+
+41:25
+Og så skal jeg integrere dem fra A til B, det vil sige, at det er de her endepunkter,
+
+41:30
+der skal sættes ind, og det vil sige, jeg skal starte med at sætte B.
+
+41:35
+Så starter begge hjernen klods tre B. Og så skal jeg set a 1 hvis i minus A anden minus.
+
+41:47
+Tre af. Er I med på at dette skulle blive?
+
+41:53
+For dette er det forud for gymnasiet. Det her, det får vi.
+
+41:57
+Vi hjælper rigmanden til gratis definition og nu kommer.
+
+42:03
+Nu kommer den den store test fordi.
+
+42:09
+Har vi mon regnet rigtigt? Lad os se gang det her regnet ud.
+
+42:18
+De to FB minus tre B er B, H plus plus tre.
+
+42:29
+Sådan. Dem der gerne vandt denne gang den minus to i anden.
+
+42:35
+Minus tre af. Og sådan er jeg.
+
+42:39
+Det giver første led i anden Clowes andet ledige, andet minus det dobbelte produkt.
+
+42:49
+Det er det, jeg får, hvis jeg arbejder videre på den der, som der står. Jeg kigger også, skal vi ikke lige tjekke.
+
+42:55
+Det er jo fuldstændig total cliffhanger. I er nødt til at se det inden pausen.
+
+42:59
+Ja, se minus to a, b og plus to af B. Det gør der i hvert fald ud.
+
+43:06
+Minus to er en anden plus. Jamen, det må i hvert fald give mening, sagde Jan.
+
+43:14
++3 DB Mobile Plus 3B.
+
+43:21
+Minus tre må i mindst tre år, og så har vi et plus B nu.
+
+43:31
+Mine damer og herrer. Så da Anneke så det virker.
+
+43:40
+Men lige præcis nu og her ikke også. Og så kigger de to udregninger lavede også det.
+
+43:46
+Hvor er det dog klart i at lære dig integrering? Ja så.
+
+43:51
+Og lad os holde en pause. Nu har I set den, og sådan er det og gav 10 nuller bagved.

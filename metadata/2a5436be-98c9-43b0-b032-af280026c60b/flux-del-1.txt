@@ -1,0 +1,848 @@
+0:04
+Bringer Velkommen til Se, nu er vi ved at komme ind i noget, der er rigtig spændende.
+
+0:11
+Vi skal nemlig i dag snakke om Flux, og det skal vi i resten af kurset.
+
+0:15
+Og der er vi nærmer os klimaks på kurset.
+
+0:21
+Det er simpelt hen Gausel, forstås sætninger.
+
+0:26
+Gausel sætning Den falder på fredag. Det kan godt glæde jer rigtig meget til.
+
+0:31
+Og så har vi efter projektperioden. Der får vi så Stokes sætning, og de to sætninger, de er, så er sidestykker, og de er sådan set lige fantastiske.
+
+0:42
+Så glæd jer til det i dag. Da introducerer vi så flux begrebet.
+
+0:48
+Og i dag begynder festen sådan set allerede i dag, fordi vi skal nu prøve og se, hvordan vi kan indføre flux,
+
+0:56
+og det vil vi gøre på to forskellige måder, altså to forskellige betragtningsmåde.
+
+1:02
+Det ene er, det er det, vi gør først.
+
+1:05
+Finder en snedig differentierer i procent, og så finder noget så fornemt som en volumen ekspansion, svarer det til tiden nul.
+
+1:19
+Og det andet synspunkt er i forlængelse af det vi har gjort tidligere.
+
+1:25
+Jeg finder fluks den hjælp af approksimation. Og så kan vi bagefter, så kan de, så kan vi diskutere, hvad er det mest fascinerende.
+
+1:35
+Men. Vi starter så med selve problemet er at en flade.
+
+1:48
+Er placeret. En strøm.
+
+1:58
+Som er repræsenteret ved et vægter felt. Og i kan jeg se at jeg har prøvet at tegne det her hen.
+
+2:12
+Og hvad kunne sådan en strøm være? Det kunne jo være sollyset igennem en glaskuppel.
+
+2:19
+Så ville vi jo have et parallelt væg felt.
+
+2:24
+Det kunne også være et fiskenet, der ligger ned i floden, og vi ser hvor meget vand strømmer der i gennem fisket nettet.
+
+2:31
+Det kunne være noget med magnetfelter og elektriske felter.
+
+2:34
+Hvad ved jeg. Der er rigtig mange forskellige problematikker på det her, men vi skal jo ligesom forestille os det her.
+
+2:42
+Det er en prøvelse flade, så der kan komme en strøm igennem uhindret, så det er spørgsmål, vi stiller er.
+
+2:52
+I dag er hvor stor er den samlede strøm igennem fladen per tidsenhed.
+
+3:02
+Så for at sætte nogle ord på det, altså vi siger Flux. Samlede strøm gennem fladen.
+
+3:20
+Per tidsenhed. Og.
+
+3:33
+Det kan vi også på sin vis kalde for for stramme hastigheden.
+
+3:42
+Altså når vi forstår hastigheden som det der sker. Men altså over den samlede flade se, vi har den lokale repræsentation af en strøm hastighed.
+
+3:52
+Det ved. Den er forskellige de forskellige steder, og når vi kigger op på fladen.
+
+3:57
+Det er den forskellig strand, der kom ud alt afhængig af hvordan rammer vægteren af fladen?
+
+4:03
+Så hvad er den samlede strøm? Det er integralregning, en lokal belastning, en strøm, der presser sig igennem.
+
+4:11
+Hvor stor er den samlede belastning på hele fladen? Og det første i skallen er, at nu skal vi prøve at kigge på det her problem.
+
+4:27
+Altså meget konkret i virkeligheden. Og vi skal finde en snedigt differentialkvotienten.
+
+4:34
+Og jeg håber jeg undskylder mig, fordi nu vil jeg sige noget,
+
+4:38
+som måske forekommer at være meget banalt, fordi vi skal lige dele med et differentiel på center.
+
+4:43
+Vi skal lige have fat på det. Vi kender det vi kører i bilen.
+
+4:47
+Der bliver spurgt Hvad kører vi nu? Vi kører 30 kilometer i timen.
+
+4:53
+Nu. Det er jo et paradoks folk nu i et bestemt øjeblik kører vi jo ingen vegne.
+
+5:02
+Hvis der ikke går nogen tid. Men vi siger jo også 30 kilometer i timen.
+
+5:07
+Og hvad mener vi med det? Jeg mener, hvis vi fortsætter med den hastighed, vi har nu i en hel time, så har vi kørt 30 kilometer.
+
+5:19
+Det er meget banalt og griner af mig. Det er jeg glad for.
+
+5:24
+Skal bare til at. Ser vi ude at køre denne tur i bilen Her starter vi for en time siden, og vi skal køre en time mere.
+
+5:43
+Så er vi her. Og så nu det her til tiden nul.
+
+5:49
+Og så så startede vi altså her med nul kilometer.
+
+5:54
+Og skal vi så sige, at så kører turen på den måde her.
+
+5:59
+Og der har vi så SVT altså tilbagelagt tilbagelagt vej til tiden T.
+
+6:08
+Og så spørger vi altså om herinde. Hver er 18.
+
+6:15
+Hvad er hastigheden? Der står 35 på. Eller var det 30.
+
+6:19
+Se på speedometeret. Vi kører 30 kilometer i timen.
+
+6:23
+Hvis vi fortsætter på den måde vel at mærke, og det vil sige, at hvis vi kører ud af tangenten.
+
+6:33
+Altså fortsætter med den støtte vi har, og jeg kan se vi laver en time med gå.
+
+6:40
+En enhed går vi fremhæver. Og så kigger vi på det stykke der.
+
+6:47
+Og Henning skulle på scenen når vi går en frem. Det er jo s mærke i nul.
+
+6:55
+Så derfor er hastigheden altså når vi siger 30 kilometer i timen.
+
+7:00
+Det giver rigtig god mening, for når der er gået en time, så er vi kommet 30 kilometer længere frem.
+
+7:08
+Og når vi så vil måle verden, så kan vi bare tage et differentialkvotienten i nul, fordi det er hæmning patienten.
+
+7:16
+Tænk på det når vi nu udvikler en sneget en anden snedig differentialkvotienten.
+
+7:20
+Og undskyld. Disse banale betragtninger. Men lad os nu bliver det lidt vanskeligere.
+
+7:27
+Fordi nu går vi direkte i gang med et eksempel og.
+
+7:40
+Og vi siger en vi har fladen. Som er.
+
+7:51
+Mængden af ekstra mil 1,6. Hvor i anden blev snydt i anden er mindre lig med 1 og Z er lig med en.
+
+8:10
+Og så har vi vækster så feltet ved. Som er eksklusive.
+
+8:20
+Den er minus Y i halve. Og sådan en her.
+
+8:31
+Så lad os lige prøve at se hvad er det egentlig for hvad er det egentlig for en bil?
+
+8:35
+En flade jeg betragter her. Jeg vil prøve at tegne den. Og I kan se.
+
+8:49
+Vi har hele tiden højden, sæt den. Den er lig med en.
+
+8:57
+Og så kan jeg ikke sige andet blev syg Jane mindre en lige med én.
+
+9:02
+Det er jo en cirkel, skibet bestemt ikke så syg, så vi har altså her en cirkel.
+
+9:09
+Skibet, der ligger her i højden en. Så det er altså min flade der ligger dér.
+
+9:19
+Og så har jeg altså et vægttab felt.
+
+9:27
+Og altså nu vil vi helt konkret prøve at få fat i den massive strøm, der går op igennem denne her firkant, heller ikke passer.
+
+9:38
+Vi kigger på alle de dér pile, der ligger også. Og så ser vi, hvordan det pibler ud af overfladen.
+
+9:44
+Alle de steder, der kommer her, og altså hvor meget fylder de?
+
+9:50
+For at få et indtryk er det her jo ikke, så vi ved, vi vil simpelt hen prøve at fange det volumen, der kommer igennem af denne her masse strøm.
+
+10:00
+Når. Det betyder for det første, at vi skal have en parameter fremstilling for fladen.
+
+10:19
+Og. En flade har jo altid to parametre.
+
+10:27
+Og Cirklen. Det kan jeg godt huske.
+
+10:33
+Den kan vi interessere her cosinus, ougaard, cosinus til ved sinus boots ved.
+
+10:44
+Bus i Næstved og et sæt koordinaten. Den var en.
+
+10:49
+Og hvor I altså skal løbe fra nul til 1.
+
+10:53
+Så vi får kommer helt inde fra centrum og helt ud til radio ikke u er nul til 1.
+
+11:00
+Og så kan vi sige, at vi ligger fra nul og til to ppi.
+
+11:07
+Sådan. Så for at komme fra væg topfeltet.
+
+11:15
+Som altså siger noget om hastighederne og konstrueres selv ved flowet.
+
+11:21
+Så skal vi have fat i flow kurverne. Og det vil jo så sige, at så skal vi have løst et differentialligning system.
+
+11:46
+Som. Skal her.
+
+11:58
+Ja, altså hvor vi jo altså siger, at for at få fat i flowet her, så skal vi kigge på.
+
+12:08
+Nogle af dem vil jeg hellere kalde for S. Jeg ændrer lige navnet af denne her, fordi nu gør vi som sædvanligt.
+
+12:14
+Vi siger, at den flove kurve. Dens hastighed skal være væk.
+
+12:23
+Feltet taget. På kuren, så er det ved vi det er sådan vi rekonstruerer.
+
+12:34
+Vi rekonstruerer flow kurverne, så det vil altså sige, at vi har.
+
+12:40
+Ex mærket til vi mærke til.
+
+12:45
+Sæt mærke til. Og så skal vi tage væk, så topfeltet på min altså på min bog.
+
+12:58
+Kunne det ikke også. Og her har vi altså fra feltet. Den hedder X+ ind.
+
+13:06
+Og så bliver der altså ikke sorte +1. Og så er den anden det minus y halve, det vil sige det minus en halv.
+
+13:17
+Vi mærke. Nej, sløjd slår vrøvl, you te og så den sidste.
+
+13:22
+Den er en. Så nu skal vi have løst de Gazet der er tre differentialligninger vi skal have løst her.
+
+13:35
+Den første. Ex mærke the. Minus x RT.
+
+13:44
+Skal man lege med en, så havner vi i en første ordens lineær differentialligning, som vi løser med panser formlen.
+
+13:55
+Det er ikke så 3. I kan se piger til den er minus 1, så her får vi en IT.
+
+14:05
+Og så skal vi integrere i det samme i minus 10 og sagt gange med kure ting som en, så får vi det til, og så får vi en konstant gange.
+
+14:18
+Det it. Vi skal finde en stamme funktion til E i minus til det minus E i minus 10, som bliver ganget med den dér eksponenter, der skal lægges sammen.
+
+14:32
+Det bliver nul. Så bliver det bare et minus ind ved at knuse et editing.
+
+14:43
+Så nu har vi altså her. Fra nu systemet her og nu vi ved at finde løsningerne.
+
+14:52
+Ekstra t y t da til.
+
+14:59
+Og så har vi altså her fundet sted ind i B 10 9 nu scenen.
+
+15:06
+Det var det resultat er nået frem til, at vi har løst den der. De næste to.
+
+15:10
+De er heldigvis lidt nemmere, fordi en funktion der differentieret giver en halv ganget med sig selv.
+
+15:18
+Det ved vi alle sammen. Den fuldstændige løsning B er eksponentiel funktionen minus en halv til.
+
+15:27
+Og der skal vi have set 2 selvfølgelig. Endelig så har vi sat mærke at se den skal være en.
+
+15:35
+Og som det siges, så skal Z være til plus en konstant. Sådan der.
+
+15:45
+Og. Se, nu skal vi have fat i begyndelsen.
+
+15:52
+Betingelsen fordi I ved, hvor vi plejer at løse striden.
+
+15:56
+Så har vi kun en begyndelse betingelser. Men nu skal vi have begyndelse.
+
+16:02
+Betingelserne for alle de punkter, der ligger på fladen her.
+
+16:06
+Det er alle dem, vi gerne vil have sendt af sted, fordi vi vil gerne følge vore flyder.
+
+16:11
+Den her cirkel skiver henne, når den følger med vægt, så feltet så vil sige alle de punkter, der ligger her.
+
+16:19
+Det er dem, der er begyndelsen. Betingelsen for tiden lig med nul. Så nu kan vi altså sige er nul.
+
+16:32
+Og der kigger vi så her op. Så det bliver jo.
+
+16:37
+C 1 minus 1. Den der giver sit 2.
+
+16:44
+Og den der giver C3. De skal altså være lig med et vilkårligt punkt på min cirkel skive.
+
+16:52
+Her. Sådan der og her a Fourier mine konstanter her.
+
+17:13
+C en c2 c3. Der skal så være lig med.
+
+17:21
+Så får vi her foruden U Kosovos TV. Plus en.
+
+17:28
+Og her får vi u sinus tv. Og her får vi.
+
+17:35
+Der får vi at se tre. Den skal være en. Så her havde vi den fuldstændige løsning.
+
+17:46
+Nu har vi løst den med begyndelse, betingelser og ved den begyndelse.
+
+17:52
+Betingelsen er det at hende. Så det er et spørgsmål jeg nu stiller er.
+
+18:01
+Se, nu kan vi sende denne her af sted. Den flade, der ligger her for at få fat i den piblende, der er i gang her igennem denne her.
+
+18:10
+Skiven her så prøvekørsel lige som at fylde den med ude i rummet.
+
+18:14
+Og så skal vi fange den ind på fladen. Det er det, vi gør til sidst. Så nu spørger vi Hvor er fladen så hen til tiden t.
+
+18:34
+Der skal vi gik for her. Der har vi nu.
+
+18:39
+En flade der hedder R, U, R, V er lig med.
+
+18:46
+Og så har vi her fundet se et. Så her har vi u cosinus TV plus en.
+
+18:56
+Og den skulle være ganget med den skal være gange.
+
+19:00
+Se, nu må jeg skrives ind. Og så har vi en it og min nu se.
+
+19:09
+Og vi kigger nu på C2. Den havde vi hernede, det var u sinus til T, og da havde vi a e i minus en halv t.
+
+19:24
+Og så til sidst der har vi så til.
+
+19:30
+Pludselig. Hvor U altså ligger stadigvæk fra 0 til 1, og vi ligger fra 0 og til 2 gik.
+
+19:45
+Så vi har altså sendt af sted.
+
+19:52
+Og nu skal vi se hvor den havner henne. Jeg vil sige du. Mere eksklusivt tv Jo tak.
+
+20:03
+Det var i begyndelsen betingelserne hernede fra jeg skriver forkert. Det skal være ved.
+
+20:08
+Så nu skal vi se hvor den flyder hen. Ja, hvis der var der.
+
+20:54
+Når måske ser. Så hvor langt er vi nået?
+
+21:00
+Vi kan se, at det har jeg skrevet væk feltet op. Dér har jeg løst de tre differentialligninger, som jeg gjorde her med hånd regning på tavlen.
+
+21:11
+Og. Så dér har vi altså nu tegnet min skive her i væg feltet, så vi kan lige prøve at kigge på, hvordan den ser ud.
+
+21:27
+Jeg se det pibler igennem, det pibler igennem med fladen går også, og nu skal vi så prøve at føle.
+
+21:34
+Hvor går de hen? Og nu kan jeg så se her.
+
+21:43
+Det har vi altså til tiden T. Det var det jeg skrev her hen.
+
+21:48
+Der har vi altså en ny flade, som er repræsenterede på dette. Så nu prøver vi altså.
+
+21:55
+Og ser hvor den går hen. Fra tiden nul og så til tiden 0,5.
+
+22:01
+Altså i løbet af et halvt sekund. Hvad sker der? Og så kan I se her.
+
+22:16
+Så på den måde der strømmer, altså denne flade af sted her, ikke sandt?
+
+22:22
+Og. Og det jeg nu vil.
+
+22:30
+Det er nu vil vi simpelthen måle hvor meget kommer der igennem?
+
+22:34
+Altså hvor meget fylder det område, der ligger imellem den oprindelige, og så den resulterende er, der når frem?
+
+22:41
+Det er det volumen, jeg vil prøve at regne ud, fordi så har vi selve masse strømmen.
+
+22:47
+Og når vi så har masse strømmen, så til sidst, så skal vi tage et differentialkvotienten natten i nul, fordi så finder vi strømninger hastigheden.
+
+22:57
+Så I kan vise her. Så nu prøver vi lige her og nu lige sat et nyt argument ind, og så kan I prøve at se her.
+
+23:29
+Hun nej, jeg skulle lige aktivere dem. Skal børste her.
+
+23:38
+Der har vi den måske ser. Vi sender den af sted.
+
+23:47
+Krise der. Forskelligt der op til den der så her kan jeg altså se.
+
+23:59
+Det her er det område, som den oprindelige Skive flyder med af, så er det den passerer.
+
+24:07
+Når altså når vi går fra tid, nul og teen. Og det er det rumfang, vi nu vil prøve at regne ud.
+
+24:52
+Og så ved jo at I. Et rummeligt område.
+
+24:57
+Der har vi jo tre parametre. Og der har vi altså det at op.
+
+25:04
+Det var jo til tiden t, men nu skal vi altså følge den hele vejen fra nul og TT for hele den punkt.
+
+25:10
+Mængde er med som chauffør. Så nu skriver vi den i stedet for sådan her.
+
+25:16
+Så har vi U. Kuznets tv. Plus en.
+
+25:24
+Og så har vi. Og nu står vi så W.
+
+25:29
+Her. Og så havde vi minus en. Og anden kortet.
+
+25:35
+Det var o. Sinus tv. Og den bliver nu ind i en hal.
+
+25:41
+Minus en halv. V. Her. Og så til sidst får vi så W.
+
+25:51
+Plus en. Og hvor u stadigvæk fra Nolting ved stadigvæk fra nul til to ppi.
+
+26:05
+Og så var W. Altså er parameteren, der gennemløber tiden fra nul og så op til.
+
+26:12
+Så den ligger jo altså her fra nul til til. Det dér rumfang vi gerne vil bestemme.
+
+26:27
+Og da skal vi have fat i hustand og det rumfang, så skal vi have fat i en terminal.
+
+26:33
+Vi skal have fat i Jacoby funktionen. Og nu skal vi differentiere efter guld.
+
+26:50
+Først da får vi cosinus tv.
+
+26:56
+Gange eksponentielt funktionen. Og ja, vi skal have den differentierede med hensyn til EU.
+
+27:05
+Det er også nemt sinus tv gange med ind i W.
+
+27:12
+Og den der med hensyn til EU. Det bliver bare nul.
+
+27:18
+Så skal vi differentiere med hensyn til ved. Så får vi minus o sinus til V og eksponentielt.
+
+27:28
+Funktionen er konstant. Og så skal vi differentiere den der med hensyn til vin.
+
+27:35
+Det bliver U. Kuznets tv gange eksponentielle funktionen.
+
+27:42
+Og så skal vi differentiere den efter, hvis den giver nul.
+
+27:48
+Ja, gør i hvert fald. På dem begge.
+
+27:52
+Tak for det. Der.
+
+28:06
+Så skal vi differentiere med hensyn til W. Så nu har jeg altså allerede regnet ud, at jeg vil regne determinanten ud efter tredje søjle.
+
+28:16
+Her. Det vil sige at jeg har nul, jeg har nul, og så skal vi regne den ud med det samme, hvis vi differentiere efter W.
+
+28:25
+Den bliver en. Og så er det sådan set ligegyldigt hvad der står dér.
+
+28:29
+Jeg gider ikke regne dem ud. Fordi nu bliver det.
+
+28:34
+Plus minus plus minus plus et. Og så den ganget med den minus den gange med det.
+
+28:41
+Og der får vi altså så u.
+
+28:47
+Cosinus i anden tv. Og der skal vi gange den eksponentielle med den der.
+
+28:55
+Det bliver så ind i en hal ved. Og så får vi det var dengang med den, så får vi et minus og minus, det giver plus, og så får vi U.
+
+29:12
+Og så får vi sinus i anden tv. Og så får vi den samme eksponentielt funktion, nemlig i en halv.
+
+29:22
+V der. Og nu kan vi bruge idiot reglen for ikke at se vi kan se det u e.
+
+29:32
+I en hal V uden for en parantes. Og så bliver det hele altså til U.
+
+29:38
+Ind i en halv. W. Så nu kan jeg altså skrive her.
+
+29:49
+Volumen. Til tiden t.
+
+29:58
+Den er skriblede integralet af Jacobi funktionen.
+
+30:02
+Her. Hvor uge går fra nul til en ved gå fra nul til to ppi.
+
+30:09
+Jobbet går fra 0 til 10, og det vi skal integrere, det er denne her.
+
+30:17
+Meget enklere. Indtil brand, som vi har fundet frem til her, et fuldstændig almindeligt integrale som jeg har fundet.
+
+30:33
+Til. At leve. To ppi.
+
+30:41
+Ind i en halv time bliver det nu min nozze.
+
+30:48
+Så I kan se volumenet er selvfølgelig afhængige af TB, kunne I også se på tegnefilmen.
+
+30:55
+Og der har vi altså det dér volumen til et hvilket som helst tidspunkt.
+
+31:00
+Så. Nu er vi måske her oppe af et eller andet sted med bilen her.
+
+31:07
+Men hvad hastigheden heroppe op er, det interesserer os sådan set ikke. Hvad så laver?
+
+31:12
+Nej, vi er interesseret i at få et mærke af nul. Så nu skal vi altså differentiere den dér.
+
+31:21
+Volumen mærke er til. Ja, den bliver jo bare ikke set to pive, og så får vi den det halve ned foran, så det må give pote.
+
+31:35
+Og så har vi en i en halv.
+
+31:40
+T. Og nu er vi parat.
+
+31:48
+Vi har rekonstrueret masser flowet op igennem her.
+
+31:54
+Nu stopper vi den med en differentiel for at måle hastigheden her til tider nul.
+
+32:00
+Så hvis det er nu, skal vi bare putte nul ind her.
+
+32:03
+Så får vi altså fluks en. Strømningen.
+
+32:08
+Hastigheden for hele fladen. Den giver så p, og så skal vi have nul og så giver den en.
+
+32:16
+Så flux ned igennem en skive dyrehandel denne er happy. Se.
+
+32:45
+Og I kan vise her altså for sjovs skyld, ikke sandt? Altså her har jeg bare.
+
+33:15
+Kan se at der var en duo der blev til minus P.
+
+33:21
+Nåh ja, undskyld. Jeg er så i det, heldigvis ikke fordi jeg nu skal sidde her.
+
+33:31
+Der er sket noget forfærdeligt. Kan I se.
+
+33:41
+Da en fejl. At beskrive blive API I har godkendt min hånd her.
+
+33:50
+Så der må være en fejl i arket. Her skal vi prøve at se, om vi kan hitte den.
+
+34:01
+For sidder. Kan I sætte det op?
+
+34:10
+Og dér da jeg er kommet til at sætte et minus ved i stedet, hvor vi på min parameter fremstilling.
+
+34:21
+Det har ikke noget som helst med selve vægtere feltet at gøre.
+
+34:26
+Det har ikke noget med den fysiske plade at gøre. Hvad kan grunden så være?
+
+34:30
+Nu prøver vi så at rette fejlen. Væk med de minusser.
+
+34:38
+Så nu er det dér hvordan vi. Praise nøjagtig samme.
+
+34:55
+Men. Før da mente den det at cirklen jeg har dér.
+
+35:01
+Se den løb med uret set fra Järegård også, det vil sige den løb sådan her.
+
+35:09
+Fordi at min ven min vinkel, der altså var et minus på den.
+
+35:14
+Nu drejer vi sådan så vi altså interesseret.
+
+35:19
+Omvendt. Det giver nøjagtig den samme flade, kan vi se.
+
+35:25
+Hvad kan det betyde? Gør vi det hele igennem igen?
+
+35:45
+Herefter var den. Der var den det var den fejl jeg lavede.
+
+35:50
+Bemærk altså at få i ned for slusen.
+
+35:56
+Denne er afhængig af den parameter fremstilling I vælger en en flade.
+
+36:03
+Den har når vi Paramore interesserer dem, så har den en orientering.
+
+36:09
+Og I kan altså se i mit første tilfælde der var orienteringen nedad.
+
+36:16
+For de sår jeg fik gjorde en negativ flux, selvom vi kunne se, at vækster feltet flyder opad.
+
+36:22
+Så fløden var orienteret nedad væg, så feltet gik opad.
+
+36:26
+Derfor fik jeg en negativ flux i det andet tilfælde.
+
+36:31
+Der har vi en orientering, der vender opad væk, så feltet kom opad.
+
+36:36
+Så får vi en positiv flux. Det er en rigtig vigtig pointe.
+
+36:41
+Fluxus fortegn. Kun dens fortegn, ikke dens størrelse, men dens fortegn er afhængig af den parameter fremstilling I har valgt,
+
+36:49
+fordi en bestemt parameter fremstilling producere en bestemt orientering af fladen.
+
+37:31
+Lad os nu prøve at kigge med det samme væk fra felt, men med en anden flade.
+
+37:38
+Så nu kan I se her. Der har jeg indtegnet denne her, denne her flade, og jeg tegner den her til os igen.
+
+37:48
+Prøve at betragte den der. Så er her Harry her har I den.
+
+37:57
+Midt i strømmen. Og kan jeg se nu, er situationen faktisk en anden end den var før.
+
+38:06
+Fordi kan I se det? Hvis vi altså hvad er det indre og det ydre, den flade.
+
+38:12
+Det er ikke til at sige. Men jeg tror godt, de forstår, hvis jeg mener, at det hvis vi kalder det her for det indre, så herovre i den side her.
+
+38:21
+Der går der flux ind i den flade dør, men det går den udad.
+
+38:28
+Det vil sige vægtere feltet.
+
+38:31
+Altså vægte feltet det har forskellig orientering i forhold til denne flade eller vi kan jo sige det omvendte vi kan sige vil svigte feltet og gide.
+
+38:41
+Så kan jeg se nogle steder. Der orienteringen medvirke til, at feltet andre steder, da den mod væg feltet.
+
+39:01
+Og nu kan jeg se at her har vi så fladen. Vi beder den om at flyde med vægt topfeltet feltet.
+
+39:08
+Nyd turen. Og kan jeg se, at hvis jeg nu lige drejer den her.
+
+39:20
+Se, nu føjer jeg faktisk en problemstilling, fordi når jeg nu måler hvad volumen er, er det som fladen.
+
+39:29
+Det er den, den løber igennem. Så hvis fladen den har sin positive orientering indadtil, så sker dette volumen positivt.
+
+39:41
+Og det er hende der sker regnede negativt. Så punkt to.
+
+39:49
+Kluxen er altid et overskud af det der flyder med orienteringen og det der flyder imod orienteringen.
+
+39:58
+Et overskud. Det positive flux minus den negative.
+
+40:04
+Og nu kan vi lige godt gå ned her. Så I kan altså se at.
+
+40:24
+Den har en flux på fire tredjedele, så det tyder jo på, at hvis jeg kigger på min på figuren der op.
+
+40:32
+At. Orienteringen af fladen, det må være den vej, for vi kan godt se det det royal der ligger dér.
+
+40:39
+Det er større end det der ligger her han. Så.
+
+40:47
+Og nu kommer jeg forresten i tanke om en anden fejl jeg har lavet. Prisen.
+
+40:57
+Her der havde jeg skrevet at jeg kuben bare er lig med determinanten.
+
+41:04
+Men hvad er Jacoby for en rum? Hvad har jeg glemt? Numerisk fordi.
+
+41:11
+Den havde jeg faktisk ikke brug for i det første eksempel, fordi der var Jacobi positiv hele tiden.
+
+41:17
+Men her skifter den fortegn. Og nu får I forklaringen på, hvorfor jeg ikke har sat absolut værdi.
+
+41:24
+Dette er nemlig en alternerende.
+
+41:27
+Jeg kubel funktion, det vil sige når når vækster feltet flyder med orienteringen, så regner jeg Jacobi funktionen volumen positivt.
+
+41:39
+Men når det er imod fladen orientering, så Vejlerne reglerne negativt.
+
+41:44
+Så jeg kan se, at Jacobo i Aalborg igen i dag mere avancerede hældning plejer.
+
+41:49
+Den holder hele tiden regnskab med, fordi jeg har glemt formeres fordi tegn.
+
+41:53
+Om det er positivt eller negativt. Og det kan man kalder man sådan sidder den alternerende Jakob i funktion, som vi så har brugt her.
+
+42:08
+Pause.

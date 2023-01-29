@@ -1,0 +1,707 @@
+0:07
+I dag skal vi snakke om to ting, som vi godt kender fra gymnasiet.
+
+0:12
+Det ene er, at determinanten og det andet er vektorer i planen og rummet, specielt hvad det sidste angår.
+
+0:20
+Da vi nok syntes er nået af det, kan I godt genkende.
+
+0:24
+Men den fremstilling vi laver, er alligevel lidt anderledes end den jeg er vant til fra gymnasiet.
+
+0:31
+Og grunden til det er, at nu skal vi jo forberede os til efter efterårsferien, hvor I kommer tilbage, friske og etablerede.
+
+0:43
+For der skal vi nemlig første gang efter efterårsferien. Der skal vi op på den helt høje hest.
+
+0:49
+Der skal vi nemlig have om vægter ro, og det er sådan set det eneste rigtige eksempel.
+
+0:55
+Vi kommer til at se på mad på en af somatisk teori.
+
+1:00
+Så vi bygger altså op til noget, der er meget spændende.
+
+1:04
+Abstrakt, men som vi nok skal få kød og blod på hen ad vejen.
+
+1:09
+Godt. Vi starter med determinanten. Og en del terminalt.
+
+1:17
+Det er bare tal. Det er et tal, der bliver knyttet til en en krus n matrix.
+
+1:24
+Vi taler altså kun om kvadratiske matricer i dag. Og hvis man skal forklare det meget generelt, så bliver det.
+
+1:33
+Utroligt svært. Og hvad skal sige og skrive op, så det jeg gør, det er simpelthen bare.
+
+1:38
+Jeg tager et kryds, et matrix 2 kryds, to, tre kryds, tre fire kryds,
+
+1:42
+tre af fire og så kan I selv se, hvordan man går videre til fem gange, fem op til 17 gange i 17 osv.
+
+1:49
+Så lad os nu starte med en kryds. Og det er simpelt hen determinanten af 1 1 kryds.
+
+1:58
+En matrix, der er en matrix, hvor det bare står i et tal.
+
+2:04
+Det er lig med tallet selv. Så går vi videre til 2 2, og vi kigger på et determinanten af en matrix, som vi kan kalde for et og to.
+
+2:20
+B et B 2. Den skal vi har regnet ud.
+
+2:28
+Nu skal vi se, hvad man gør.
+
+2:30
+Før vi gør det efter en metode der hedder opløsning efter første søjle, som vi skal gå første søjle igennem, og vi skal starte med et Okan.
+
+2:47
+Og når vi har valgt af ét, så skal vi slette den række, den står i, og dens søjle, da den står i, og det der er tilbage, det kalder man for snit.
+
+2:57
+Matricen, som den hedder, skal altså ganges med B2.
+
+3:03
+Så var vi færdig med det første led i første søjle og går ned til den anden.
+
+3:09
+Men nu skal vi skifter fortegn, så vi skal altså have et minus nu.
+
+3:14
+Og så kommer der er 2. Og så skal vi slette den række og den søjle, den står i.
+
+3:21
+Tilbage er der bid et, så er det, så er vi klar til tre krus tre.
+
+3:32
+Og vi vil altså have determinanten af en matrix, som vi er kaldt for ét af to af tre.
+
+3:42
+B 1. B 2. B tre og C.
+
+3:47
+Et c2. C3. Metoden er den samme.
+
+3:57
+Vi skal starte først med dem, så går vi videre til den, og så går vi videre til den.
+
+4:03
+Vi starter altså med af et ja, og så skal vi slette den række, den står i, og den søjle, den står i, og så gange af ét med den snit matrix.
+
+4:19
+Så kommer jeg til at se stort determinanten af, og så bliver det B-2.
+
+4:25
+Det er tre. Se to, se tre.
+
+4:32
+Så var han færdig med det første. Nu skal vi skifte fortegn.
+
+4:36
+Der kommer et minus nu. Så har vi A2 og så skal vi have gang i dens snit matrix.
+
+4:45
+Det vil altså sige vi sletter den række, den står i, og den søjle den står i.
+
+4:50
+Og så skal vi altså have et determinanten af den matrix, der hedder.
+
+4:58
+B et C et og så har vi b tre og så se 3.
+
+5:09
+Og så mangler vi bare den sidste. Nu skal vi skifte fortegn igen.
+
+5:12
+Nu bliver der altså plus, og så får vi tre og et determinanten at dens snit matrix slette den række, slet den søjle.
+
+5:27
+Tilbage har vi så B, et B, 2 og så c et og to.
+
+5:38
+Og så kan I se.
+
+5:39
+Nu har vi så Ray udregnede determinanten af en tre krus med tekst, det vil sige vi har fået den reduceret til den problemstilling, vi havde før.
+
+5:49
+Den ved vi jo, hvordan vi skal regne ud, så nu ved vi også, hvordan vi skal række de de tre år ud, så det gør vi bare.
+
+5:57
+Den metode jeg nu gennemgik, det er det vi kalder for opløsning efter første søjle, men nu er det mærkelige ved de dertil determinanten.
+
+6:07
+De er ret underlige. En mærkelig udregning som metode, men som viser sig at have nogle flotte egenskaber,
+
+6:14
+fordi den første vi nu kan nævne, er, at man kan opløse efter vilkårlig række eller søjle.
+
+6:43
+Så. Jeg kunne have have valgt anden søjle eller hvad som helst, og så er det bare lige.
+
+6:53
+Nu skal vi have fuldstændig styr på det der med fortegn. Kan huske det, da jeg skiftede.
+
+6:58
+Så jeg mener lige her, om vi skal huske en fortegningsret, som jeg kommer nu.
+
+7:12
+Og prøv at se når det handler om tre kryds 3 matricer.
+
+7:21
+Så har vi jo ni pladser. Dér havde vi plus minus og plus minus plus minus plus minus og plus.
+
+7:32
+Så sådan ser fortegn skemaet altså ud. Så lad os nu prøve det med oplysning efter for eksempel anden række.
+
+7:53
+Og nu går jeg lidt frem og tilbage. Også det vil sige nu vil vi altså bruge de elementer i stedet for.
+
+7:59
+Og ideen er den samme. Jeg vil nu starte med at 2, så der går hen i mit fortegn skema og så se hvad er fortegnet dér?
+
+8:09
+Jamen, det var jo minus. Så har vi et minus A2.
+
+8:15
+Og så skal vi så have ganget med en determinanten. Lad os kigge på hvad det er for en determine.
+
+8:21
+Slet den række, slet den søjle, så er det b et b3.
+
+8:29
+Og se et C3. Og så går vi videre til det andet element i denne her række.
+
+8:39
+Det så B2 vi skal kigge på. Hvad er det for et foretagende, vi skal bruge?
+
+8:43
+Det er plus. Og så skal vi have kigget på en.
+
+8:54
+Ja, det er sjovt det her. De går lige til jeg begynder at danse.
+
+8:58
+Dancing Queen Police her.
+
+9:03
+Dette er ikke os. Vi sletter rækken og søjlen. Og så har vi et af tre og så se et se træ.
+
+9:17
+Og så skal vi lige have det sidste element med. Det er så se 2.
+
+9:21
+Vi kigger på det fortegn. Det er minus. Så har vi altså minus se 2, og så skal vi lige have slettet den trækket og den søjle.
+
+9:32
+Og så bliver det determinanten af a.
+
+9:38
+Et a træ, og så må det blive b et og b 3.
+
+9:45
+Sådan er. Og de kan jo selv prøve at regne det hele ud.
+
+9:55
+Altså hvis I prøver at regne den ud det vil sige også udregner de de to CO2 matricer og bagefter udregner den dør.
+
+10:02
+Så ville I så kunne se det giver samme resultat godt.
+
+10:11
+Så skal vi kigge på fire kryds fire. Og lad os prøve.
+
+10:26
+Determinanten af hvad skal vi sige? 2 minus 1, 1 og 4 og så 5, 0, 1 og 0.
+
+10:40
+Og så kan vi se 1 og 1 og 0 og 0 og 1.
+
+10:52
+2 0 og 0. Se.
+
+11:04
+Nu vil vi gerne prøve at udregne den her determinanten og se hele ideen i dette med at vi kan vælge frit imellem rækker og søjler.
+
+11:13
+Det er jo, at vi skal finde den række eller søjle, hvor udregningerne bliver nemmest mulige.
+
+11:20
+Det vil sige den, som indeholder flest nuller. For så behøver vi slet ikke at udregne deres snit matricer.
+
+11:27
+Så det vil altså sige, at vi studerer denne her og også at se, da der var en mulighed her.
+
+11:33
+Der var to huller i går og to nuller. Men hov bum hernede.
+
+11:37
+Fjerde række. Det er jo faktisk den mest fordelagtige. Da er tre nuller, og så skal vi jo lige have fastlagt fortegn skemaet her.
+
+11:49
+Og det er sådan set bare en udvidelse af det fortegn skema, som vi så over ved 3 3.
+
+11:56
+Så foretager skemaet her. Det ser sådan her ud. Og så plus minus plus minus minus Kluges Venus plus plus minus plus minus minus plus minus plus.
+
+12:17
+Sådan er. I. Så vi prøver nu at udregnet efter fjerde søjle her i Gosh, og de kan alle se, at vi skal starte med et minus.
+
+12:30
+Så har vi minus fire. Og så skal vi gange med dens snit matrix stil matricen, den får vi, hvis vi sletter den række.
+
+12:43
+Undskyld den søjler og den dér række ikke så tilbage, der har vi den der 3 3 med et trick som hedder 5 1 1, og så har vi 0, 1 og 2.
+
+12:57
+Og så har vi en nul og nul. Og så kan I se det.
+
+13:07
+Så skulle vi have brugt det her element. Det behøver jeg jo ikke, for det er det, jeg skal gange med.
+
+13:13
+Så det vil jeg sige nul gange dens snit. Matrix giver nul nul gange med den snit med, at teksten giver nul og lidt stand her.
+
+13:21
+Så nu er vi sådan set færdig med den første iteration. Så nu har vi altså minus fire.
+
+13:31
+Og så skal vi have, så skal vi have et determinanten af den her.
+
+13:40
+Og igennem filmen dér hvor der er flest huller og denne gang, så er det jo tredje række her.
+
+13:47
+Det vil sige at det bliver så bare plus minus plus.
+
+13:53
+Vi skal altså sige gange med ind og gange med determinanten af det, der bliver tilbage.
+
+14:01
+Det er 1, 1, 1.
+
+14:05
+2. Og så får vi.
+
+14:10
+Så får vi minus fire, og så får vi her.
+
+14:17
+Se den bliver altså determinanten, der bliver vist bare en. Og det vil altså sige at determinanten er den 4.
+
+14:28
+Hos firmaet Traktere laver der. Den er endnu svir.
+
+14:34
+Nu har den fundet dens tal, så I kan altså se besynderlig udregning smøgede her.
+
+14:40
+Men sådan er det altså. Nu skal vi se på overordnede egenskaber eller regler for for determinanten.
+
+15:10
+Og den allerstørste. Den kan måske hjælpe mig med.
+
+15:28
+Se hvis vi kender determinanten A. Hvordan kan vi så finde determinanten a transponeret?
+
+15:37
+Hvad siger du med det samme? Det er den samme. Har du et argument for det?
+
+15:47
+Det letteste trækker med søjler, der er stort set det samme retning og taler det samme fra Damstedt.
+
+15:53
+Der bliver sagt, at det er jo noget med, at vi bygger om på rækker og søjler.
+
+15:57
+Og så. Hvis vi har udregnet determinanten efter anden række i A og så bagefter.
+
+16:04
+Du kan vælge at udregne den efter anden søjle. De er i transponeret det samme, så den det nok.
+
+16:16
+For så har vi her. C Den skal jeg lige op her vist.
+
+16:22
+A har en nulre række eller nul søjler.
+
+16:41
+Har været så determinanten lige med den. Får du noget og hvorfor dig?
+
+16:49
+Ja, det er den, der bliver sagt, at den er sekulære. Det er den i hvert fald.
+
+16:53
+Det kommer vi grusomt tilbage til lige om lidt. Men grunden er selvfølgelig, hvis I har en.
+
+16:58
+Hvad skal vi sige? I står historiske, udregne en 21 gange 21 matrix og så begynder I altså også snit matricer osv.
+
+17:07
+Osv. Hvis I til sidst opdager. Jamen den nittende række, det var jo en nulre række.
+
+17:15
+Så skulle vi have valgt at opløse den efter den 19.
+
+17:19
+Række, fordi der havde været nul og hele vejen igennem. Så må den give nul, så det kigger vi lige efter om.
+
+17:28
+Om de har sådan en nul eller nul sejlads, så begynd ikke at højne ud.
+
+17:36
+Når så kigger vi lige her med, hvis vi starter lige med et eksempel.
+
+17:44
+At se jer laver her en matrix 1, 2, 3 4, 0 5, 6 7, 0 0.
+
+18:01
+8 og 9 0. 0 0.
+
+18:06
+Godt 10. Og dette tal.
+
+18:15
+Det er selvfølgelig bare nogle jeg lige slynger ud. Det vigtige er, at her serie et eksempel på det man kalder for en trekant matrix frikassé.
+
+18:26
+Her har vi diagonalen. Og hvis I kan se nede under diagonalen datter lutter nuller, så kan I se, så siger man ligesom her har vi en trekant.
+
+18:37
+Og så er der en trekant matrix.
+
+18:39
+Det er en da en øvre trekant matrix, fordi det kunne også være blevet at have haft tal, altså forskellig fra nul nedenunder diagonalen.
+
+18:49
+Og hvis de her op de havde været der allesammen, så havde det været en nedre trekant med matrix.
+
+18:58
+Når nu skal vi gerne. Nu vil vi gerne have udregnet determinanten.
+
+19:05
+Og de vælger at lave den oplysning efter første søjle.
+
+19:10
+Det vil jeg sige, vi skal vælge. Den fyr er ikke sendt ind og gange med dens snit matrix.
+
+19:19
+Så vi har altså en gange. Og I kan se dig nå hele vejen her, så der kommer ikke flere bidrag fra første søjle.
+
+19:27
+Her så vil sige, at vi skal altså bare have gange med et determinanten af snit matricen her og da igen opløsning efter første søjle.
+
+19:37
+Det vil jeg sige. Der har vi fem giver et bidrag. Nul giver ikke noget bidrag.
+
+19:42
+Nul giver ikke noget bidrag. Så det er altså bare fem gange med den snit.
+
+19:47
+Matrix som I ser det. Så vi har altså fem. Det er en gang hver 5.
+
+19:53
+Og så skal vi have determinanten af den. Er to CO2 matrix igen opløsning efter første søjle?
+
+20:01
+Den der giver bidrag. Den giver ikke noget bidrag, fordi der er nul. Så det bliver altså bare otte gange dens snit matrix, som er 10.
+
+20:19
+Den har sørm'e determinanten fire århundreder. Det var vildt.
+
+20:25
+Pointen er, at vi nu har. Vi har nu følgende regel at hvis a det er en trekant matrix, så gælder der at determinanten er A.
+
+20:54
+Det er produktet. At diagonalen.
+
+21:06
+Det er måske lidt poppet sagt, men jeg mener, at jeg så produktet af diagonale elementer.
+
+21:10
+Jeg gider ikke skrive det, så det var jeg.
+
+21:13
+Regel nummer 3. Så kommer vi til regel nummer fire og jeg dør.
+
+21:24
+Den har jeg også lige glemt. Så nu må I hjælpe mig.
+
+21:31
+Hvad er determinanten enheds matricen i en krydsning?
+
+21:38
+Der er forslag hvorfor der bliver sagt én.
+
+21:41
+Hvorfor? Fordi det var det der bliver sagt.
+
+21:46
+Det er jo bare produktet af diagonal elementerne. Ja, fordi enheds matricen er selvfølgelig også en trekant matrix.
+
+21:54
+I kan både kalde det for en øvre eller nedre trekant matrix, så vi ganger i en gang en gang én indgang, og det giver en.
+
+22:06
+Og det vil altså sige det der. Det er sådan set altså i betragtning af, hvor styrede en udrednings af toget, der er til sådan en.
+
+22:15
+Til sådan en en matrix at vores enheds matrix.
+
+22:20
+Den får bare talt sit tal et. Det er flot.
+
+22:26
+Nå ja, så skal vi lige have.
+
+22:36
+Nogle regler her I ved det. Når man laver gau, suger den elimination.
+
+22:41
+Altså når vi prøver at forandre en matrix til dens trappe matrix.
+
+22:47
+Så der er lige spørgsmål her. Rekonstruktioner? Det er der ingen grund til.
+
+22:55
+Den sætter vi det. Vi bruger tre egne operationer når vi laver gaucho sådan en mission.
+
+23:05
+Så nu er det lidt interessant. Hvad sker der egentlig med determinanten, når vi bruger de tre regnum på at de tre række operationer?
+
+23:14
+Så det er det, jeg gennemgår nu. Vi siger, at hvis vi bytter 2 rækker.
+
+23:34
+Så sker der det at determinanten skifter fortegn.
+
+23:53
+Det var den første række operation, så kan vi godt huske den anden.
+
+23:57
+Det er jo det, man må gerne gange med et tal.
+
+24:02
+En række med tal, der forskellig fra k f. Så du har også lige spørgsmål her?
+
+24:06
+Det der med at skifte fortegn gælder det så også, hvis man mødte op på flere rækker?
+
+24:10
+Så skift dem hver. Hver gang du skifter én gang, så skal du gange med minus ét.
+
+24:17
+Bind 2 rækker skal der så også stå Herring den anden der så hvis.
+
+24:27
+En række garneres med en konstant kog.
+
+24:40
+Så sker der det at determinanten skal gange med K.
+
+24:50
+I. Så det var den første.
+
+24:59
+Det var den anden, og nu skal vi så kig på den tredje række operation, og det var den med, at man lægger et multiplum af en række til en anden række.
+
+25:14
+Altså et multiplum af en række mænd der lægges til en anden række.
+
+25:35
+Så er det meget nemt, for det tager determinanten ændres ikke.
+
+25:55
+Så disse tre rækker. De sådan set de rare have.
+
+25:59
+Og der er en øvelse i øvelses programmet, hvor I bliver bedt om at I kigger på en matrix vi skal udregne.
+
+26:09
+Den er terminalt. Og så forstår man så lave lige den.
+
+26:13
+Det er terminalt om til en trekant. Det er også ved at lave nogen række operationer, så somme tider kan man, hvis man kigger på en mail til selv.
+
+26:24
+Jeg behøver kun at gøre to ting. Så har jeg jo en trekant med et tryk tjekker bare gange diagonal i elementerne med hinanden.
+
+26:30
+Så kan det være nemmere. Så på den måde har vi en fordel af de tre række operationer her hvis.
+
+26:40
+Men nu kommer vi frem til noget som.
+
+26:44
+Er noget I kommer til at høre rigtig mange gange, og der var faktisk en der allerede har nævnt det her regulære og siden Guldager matricer.
+
+26:52
+Hvad har de med determinanten at gøre? Så det skal vi prøve og studerer nu.
+
+27:01
+Og jeg vil prøve at lave det man kalder for et modstridende bevis på lige at se om I kan følge med til det fyrstelige, siger er.
+
+27:11
+Hvis A er regulære.
+
+27:25
+Så kigger vi på dens. På dens terminalt.
+
+27:35
+Det der er, så prøv at se hvis den er regulær, så.
+
+27:48
+Hvis en digter, hvis en matrix er regulære, hvad er så dens trappe matrix.
+
+27:56
+Og vi taler altså om en krydsende matrix af den regulære. Hvordan ser dagens trappe matrix ud?
+
+28:03
+Altså om vi har reduceret dem fuldstændigt. Den er meget smuk.
+
+28:12
+Hvad siger du? Diagonalen? Ja, det er enheds matricen.
+
+28:17
+For der er jo ikke noget med, at festen er regulære. Så er der jo ikke noget med, at du ikke kan finde et ét telt, og du skal hoppe videre osv.
+
+28:23
+Nej, så kører den fuldstændig skarpt efter diagonalen.
+
+28:28
+Så en regulær matrix, dens trappe. Matrix. Det er enheds matricen.
+
+28:37
+Og så kan I se her, så er determinanten. Af Trap A.
+
+28:50
+Så er den altså lig med en vis. Som noget så lang, og vi har altså antaget at A er rødgule af regulære.
+
+29:04
+Nu antager vi så at determinanten er A den er nul.
+
+29:12
+Sendte vi det, gjorde vi sådan her. Antag at determinanten af A den er lig med nul.
+
+29:29
+Nu går vi. Hvad siger du? Nej, det er da altså.
+
+29:36
+I må undskylde en gang imellem, så glemmer jeg de streger hér. Jeg skal altid huske under matricer vektorer.
+
+29:42
+Der skal da være en fejl. Se, er der en grund til, at der ikke er en streg under dér?
+
+29:49
+Overhovedet ikke. Skulle vi så ikke sætte den? Nu har vi antaget at det simpelthen er nul.
+
+29:57
+Nu begynder vi at lave rygoperationer for at nå frem til dagsordenen dimension.
+
+30:02
+Skal vi så prøve at se? Hvad sker der det, at vi skal bytte om på rækker?
+
+30:11
+Så skifter determinanten fortegn som stadigvæk nul. Vi skal have garnet nogle gange med et tal, der er forskellig fra K.
+
+30:24
+Så skal den determinanten ganges med K som stadigvæk nul.
+
+30:30
+Til sidst så vi jo brug for at lægge et multiplum af rækker til den.
+
+30:36
+Determinanten ændres ikke. Så er den stadigvæk nul. Men hov, det er jo i modstrid med det, vi har fundet ud af.
+
+30:46
+Hvis den er regulær, så skatten hvad så?
+
+30:51
+Vi har altså nu lavet et modstrid bevis. Og hvad vil det så sige?
+
+31:01
+Det vil sige den antagelse dér den er forkert. Så nu kommer så pointen.
+
+31:07
+Som du var inde på før og er A er en regulær.
+
+31:17
+Det er ensbetydende med, at determinanten af A.
+
+31:25
+Den er forskellig fra nul. Og så må det modsatte også gælde ikk?
+
+31:34
+Så vi har os. A er single guldager det vil sige den har ikke fuld rang.
+
+31:45
+Det er så ensbetydende med at determinanten af den er lig med nul, så den her.
+
+31:55
+Det ser simpelt ud. Men. Den er altså bare meget vigtig, og I kommer allerede til, tror jeg,
+
+32:06
+når I skal løse den lineære ligning systemer hvor koefficient matricen den for eksempel er kvadratisk.
+
+32:14
+Da kan vi bruge det til eminent til at finde ud af noget om rammen.
+
+32:19
+Og når vi senere er meget stort emne, vore egne værdier skal finde dem, så er det igen det at tager om determinanten,
+
+32:26
+den er sinke Guldager, eller om den er regulær, og hvor vi så bruger det terminen til at afgøre det gustne?
+
+32:38
+Ja, og så til sidst, så kan vi lige se, hvad er vi oppe i?
+
+32:43
+Det var sektoren. Så er vi i Syveren. Nu nævner jeg bare lige her to også afsindigt fede sætninger.
+
+33:04
+Det. Jeg håber virkelig at sådan noget her det får jeres hjerte til at pumpe lidt hurtigere, fordi den er så syge.
+
+33:16
+Den der udregnes metode. At den så kan give sådan et flot resultat som det her.
+
+33:21
+Det er vanvittigt. Og så er den sidste.
+
+33:25
+Så slipper vi for det. Nu vil vi gerne have determinanten af den inverse matrix.
+
+33:39
+Så altså det vil altså sige vi kender determinanten af A selv.
+
+33:47
+Nu skal vi udregne determinanten af dens inverse matrix.
+
+33:52
+Skal vi så til at finde den inverse matrix. Hvad siger du?
+
+33:57
+Nej, fordi den ligger jo A og engelsk.
+
+34:01
+Men inden da er det rigtigt, så på Elten bliver simpelt hen, at det er determinanten A i minus første.
+
+34:12
+Det er. Determinanten af A.
+
+34:19
+I mine første som også kan skrive sådan her ind over determinanten af a sonder.
+
+34:29
+Det er bare flot. Så har vi hørt om determinanten.
+
+34:34
+Mine tavler de er fulde. Værsgo lige at trække vejret.

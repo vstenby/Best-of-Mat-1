@@ -1,0 +1,539 @@
+0:04
+Skal tilbage til geometriske egne vektorer og andre typer af lektorer se.
+
+0:13
+Vi har nemlig nu det nederste afsnit som er egenværdi.
+
+0:18
+Problemet for matricer, og nu skal vi så udvikle en metode til, når vi har givet en matrix.
+
+0:28
+Hvordan vi så kan finde ud af, om den pågældende vine er afbestilling, hvad den har af egenværdier og bad.
+
+0:35
+Dens egen vektorer er det, jeg vil gøre.
+
+0:39
+Det er så jeg tager et eksempel, og det kører så grundigt igennem.
+
+0:44
+Og så i løbet af det eksempel, da udvikler vi så den generelle metode, som vi skal bruge, når vi skal finde egenværdier egne vektorer for matricer.
+
+0:57
+Godt så altså egenværdi.
+
+1:01
+Problemet for matricer. Så vi siger altså givet en lineær afbytning.
+
+1:46
+Og dengang da erne far er tre til tre.
+
+1:55
+Som har. Afbildning matricen.
+
+2:09
+Som jeg skriver her. Den er f. Er lig med nul minus 2 og 0 1, 3 0 og sådan 0, 0 og 2.
+
+2:26
+Så punkt A er fin. Alle egenværdier.
+
+2:39
+Hvordan gør man det punkt B? 5.
+
+2:48
+Eje med rummene og egne rummene.
+
+2:55
+Det er jo alle de egenvægt toner, der hører til de egenværdier, som vi måske finder hen ad vejen.
+
+3:02
+Så vi starter altså med punkt A. Og så skal vi jo løse ligningen.
+
+3:20
+Og den ligning vi skal løse, det er egenværdi.
+
+3:24
+Problemet. Kan vi finde?
+
+3:31
+Ja, nu bruger jeg faktisk her ex i mit eksempel i stedet for.
+
+3:34
+Det giver ingen forskel. Findes der en vægtere ex og et og et der og et tal lambda.
+
+3:43
+Sådan er den der egenværdier problem. Ligningen har en løsning.
+
+3:51
+Og dette er jo ensbetydende med at afbilde Mengs matricen.
+
+3:59
+Gange med den ukendte vægt, så den skal være konstant den lambda.
+
+4:07
+Gange med vægteren selv, så det er det her, vi skal i gang med at kigge på.
+
+4:16
+Så regn med problemet.
+
+4:17
+Det er sådan set en problemstilling med en teori, altså en vægteren ligning, hvor der sådan set er to ubekendte, nemlig vægteren og tallet.
+
+4:27
+Det er det sammenhørende i Ajmal er problemet når dette er så ensbetydende med dette.
+
+4:35
+Det kunne vi godt sige i forvejen. Nu går vi så i gang med at se, hvordan kan vi sætte det op?
+
+4:41
+Nu sætter vi det op på matrix form. Så det vil sige at så skal vi have skrevet den op igen.
+
+4:55
+Og så har vi altså den ukendte vægt så x 1 x 2 x 3.
+
+5:05
+Skal være lig med lambda x 1 x 2 x 3.
+
+5:18
+Og det er jo så tre ligninger som vi er i gang med her.
+
+5:24
+Lad os lige prøve at skrive dem op, så nu tager vi matrix væk fra produktet her.
+
+5:29
+Så får vi. X2 skal være lig med Lambda exit og så får vi minus to x et plus 3 x 2.
+
+5:50
+Skal vi være lige med Lambda gange med X2. Og så til sidst, så får vi den gange med dem, så får vi altså 2 x tre.
+
+6:06
+Skal være lige med Lambda gange med ekstrem.
+
+6:13
+Det er selvfølgelig et meget simpelt eksempel jeg jeg laver her, men så nu gør vi det generelt, så kan se, hvad der egentlig princippet i det her.
+
+6:23
+Nu flytter jeg den her højere side over på venstresiden.
+
+6:28
+Så får jeg minus lambda ex et.
+
+6:34
+Og så får jeg plus ex to. Skal være lig med nul og på samme måde her.
+
+6:45
+Så får vi minus to. Exit.
+
+6:49
+Dem havde vi i forvejen, og så skal vi se, hvor mange X2 er, får vi?
+
+6:54
+Der får vi et tre og minus lambda. Og så er der ikke flere dér, og den skal også være lige meget nul, så.
+
+7:10
+Og så til sidst, så trækker vi også den her højreside over på den anden side, og så får vi altså et 2 minus lamper.
+
+7:22
+X3 skal være lig med nul. Er.
+
+7:36
+Det er altså det her ligning system vi arbejder med, når vi skal løse egenværdi problemet.
+
+7:42
+Og husk hvad var en egen vektor?
+
+7:47
+Jo, hvis der var et tal lambda og indlæg og indtægter.
+
+7:52
+Det vil altså sige, at vi skal have en en vægtere exit x2, x3, som ikke er nul vektoren.
+
+7:59
+Vi skal have en egentlig løsning. Det her er jo et homogent ligning system.
+
+8:08
+Og hvis der skal være en flig af løsninger,
+
+8:11
+så skal kunne efficient retorik matricen være sinke Guldager koefficient matricen må ikke have fuld rang, hvis koefficient matricen har fuld fart.
+
+8:21
+Så er der kun 0 løsningen. Så vi skal altså have en seng, Gulag og Matrix.
+
+8:27
+Og derfor koefficient matricen for den der er særlig vigtig, fordi det er den vi bruger, når vi skal løse egne, der er problemet.
+
+8:44
+Så den konklusion skriver lige her. Og fordi den er så vigtig, så har den selvfølgelig sit eget navn.
+
+9:05
+Den hedder nemlig den karakteristiske matrix. Den skal være sekulære.
+
+9:34
+Så er der altså et nyt ord i den karakteristiske matrix, og den skruer jeg op nu.
+
+9:42
+Og så var der lige en overraskelse her. Ja, flere hemmeligheder.
+
+10:02
+Så lad os prøve at skrive Kommersant. Den karakteristiske matrix op.
+
+10:20
+Og vi skal altså have fat i koefficient matricen. Det er op, og den bliver minus lambda, og så har vi en nul.
+
+10:35
+Og så har vi minus to. Og så har vi tre minus lambda.
+
+10:43
+Og så har vi noget, og så har vi nået noget.
+
+10:50
+Og så har vi to minus lamper.
+
+10:59
+Bilen karakteristiske matrix er for en ordens skyld, så skriver jeg lige det her op, så vi kan få den på en mere formelt form.
+
+11:09
+Hvordan kan man hvordan? Hvad består den egentlig af den karakteristiske matrix, og kan I se dem her?
+
+11:16
+Kan jeg skrive som. 0 1 og 0 minus 2 3 og 0 0 0.
+
+11:31
+Og 2. Minus ByLarm der gange med Enheds matricen.
+
+11:50
+Og det er sådan en smart måde at skrive på at være det.
+
+11:53
+Hvad er det, vi egentlig har gjort? Vi har taget den givne.
+
+11:59
+Den givne afbytning smag af tricks, og så har vi trukket lambda fra i diagonalen.
+
+12:06
+Det har jeg nu skrevet op som det samme som Buildings matricen minus Lambda gange enheds matricen.
+
+12:13
+Dette er den karakteristiske matrix, hvis vi skal skrive den generelt.
+
+12:19
+Så er det altså matricen selv minus lambda.
+
+12:25
+Gange med en enkelt, så det er sådan set den generelle måde at opskrive den karakteristiske matrix på.
+
+12:35
+Afbilledes matricen minus lambda gange med en, og det betyder lige præcis den koefficient matrix vi har her.
+
+12:42
+Hende som jeg altså har fået op fra linje systemet derhen. Og her skal det så gælde.
+
+12:54
+Fordi den skal være sekulære. Determinanten.
+
+13:07
+Er den der matrix F minus Lambda E.
+
+13:19
+Hvad skal den være lige med? Hvis det nu ellers skal være lige os, fordi en kvadratisk matrix er sekulære, netop når determinanten er lig med nul.
+
+13:32
+Og hvorfor ønsker jeg det? Jo, så har den ikke fuld ret.
+
+13:37
+Så er der egentlige løsninger. Jamen, så har jeg en egen vægter.
+
+13:42
+For sådan hænger disse ting altså sammen. Det er teorien i det. Determinanten af den karakteristiske matrix skal være nul.
+
+14:01
+Dame determinanten. Og nu kommer der noget I måske lige undrer jeg over i starten.
+
+14:15
+Denne determination kaldes det karakteristiske polynomium.
+
+14:40
+Og hvorfor gør den så det? Jamen vi må jo så prøve at udregne den.
+
+14:59
+Og nu skal jeg altså så tilbage til den karakteristiske matrix, som jeg havde.
+
+15:05
+Jeg skal have har udregnet determinanten af den dér matrix her, og jeg bruger opløsning efter tredje søjle, og det er det dermed.
+
+15:17
+Plus minus plus minus plus minus plus. Og så skal vi have den ganget med den minus den ganget med den, skal jeg se, om jeg kan huske alt det jeg.
+
+15:42
+Minus Lambda gange med 3 minus lamper.
+
+15:52
+News 2. Og det er at det er så der skal være en parantes mere.
+
+16:01
+Det er så to minus lamper, og der får vi lamper i anden.
+
+16:09
+Og så får Robbie minus tre lamper. Og det her er jo et tredjegrads polynomium i lambda.
+
+16:26
+Så altså determinanten af den karakteristiske matrix.
+
+16:31
+Det er et polynomium i lambda.
+
+16:34
+Og I kan se det her må være et tredjegrads polynomium, fordi vi har så lambda i anden dér, og vi har lamper dér, når vi regner det ud.
+
+16:41
+Så får vi noget med Lambda i tredje. I stedet for at regne det ud, vil jeg hellere have Factory seere den dér fuldstændigt.
+
+16:50
+Og jeg kan jo se, at den og den har i hvert fald roden en.
+
+16:55
+Fordi hvis jeg siger, så får vi. Så får vi 1+2 melodien.
+
+17:01
+Det giver nul. Sådan har jeg ruten ind. Den har også roden 2 præcis, så har vi fire minus 6 +2.
+
+17:08
+Det vil sige den der kan få aktualiseres. Og så kan vi se det der er næsten det samme som den der.
+
+17:28
+Bortset med få bortset fra fortegnet. Den er minus den parantes der står her, så nu kan jeg skrive den op på fuldstændig aktualiseret form.
+
+17:39
+Nu kommer hele teorien omkring polynomier minus lambda minus en.
+
+17:52
+Og så har vi altså dér Lambda Minato to Jane.
+
+18:03
+DT karakteristiske polynomium.
+
+18:05
+Nu har jeg skrevet tredjegrads polynomiet op på den mest bekvemme form, nemlig fuldstændig aktualiseret form, for nu kan jeg nemlig aflæse lambda.
+
+18:21
+Hvor mange egenværdier har den mattrick, som jeg har skrevet op det hen?
+
+18:27
+Den har to egenværdier, det egen værdierne er rødderne i det karakteristiske polynomium.
+
+18:45
+Og det er nemlig larmen, da et lig med en og der kan vi se den optræder kun en gang i den fuldstændig Factory seedede form, så vel sige den her.
+
+19:01
+Har alt hebraisk musik prioritet. En.
+
+19:08
+Og så har vi en anden egenværdi det er egenværdier 1 2. Og tilfældigvis.
+
+19:23
+Så har den så britisk multiple sitet Vild med to.
+
+19:31
+Hvis du er. Og det er altså tilfældigt at indekset her er det samme som den der lige med det.
+
+19:43
+Selvfølgelig, men altså nu har vi sådan set. Nu har vi sådan set fundet egne værdierne.
+
+19:52
+Så kort får. Hvad kan vi konkludere af spørgsmål a.
+
+19:57
+Find alle egne værdier. Tjek på afbilledes matricen.
+
+20:05
+Træk Lambda fra i diagonalen. Udvejen Determinanten er den dér.
+
+20:17
+Så får i det karakteristiske polynomium. Rødderne i det karakteristiske polynomium.
+
+20:24
+Det er egne værdierne. Så nu har vi altså den generelle metode til at finde egne værdierne af matricer.
+
+20:38
+Og I vil selvfølgelig. I vil måske ikke når I går til GRU beregningen.
+
+20:42
+Altså i meget velkomne til at følge det og udviklet det helt sådan.
+
+20:47
+Så I forstår alle skridt i det her. Men den korte mig er jo straks at skrive det karakteristiske polynomium,
+
+20:53
+finde determinanten, finde rødderne det karakteristiske på år, så har jeg egne værdierne.
+
+20:58
+Der kan ikke være flere. Og så går vi til punkt B.
+
+21:12
+Nu skal vi finde egen rummene. Først finder vi alle de egenvægt ture som hører til egen værdien 1.
+
+21:49
+Og nu kan vi jo gå tilbage til det Linings system som vi betragtede, nemlig.
+
+21:59
+Vi har her et et homogent living system.
+
+22:10
+Vi er nået her til, og vi kunne ikke komme videre, fordi her var der jo fire ubekendte.
+
+22:16
+Altså Lambda var jo også en ubekendt her.
+
+22:21
+Den har vi nu fundet en mulighed.
+
+22:24
+Så hvis jeg nu egentlig sætter en op i den homogene hvilen system her op, så har jeg altså mulighed for at løse ligningen.
+
+22:33
+Så er det tre ligninger med tre ubekendte. Så jeg kan altså straks nu skrive totalt matricen op.
+
+22:49
+Og det vil jeg så sige det op. Der skal jeg bare sætte lamper lige mad ind.
+
+22:56
+Og hvad får vi, så får vi 1 0, og så har vi højreside nul, og så husker vi især her.
+
+23:08
+Hvad har vi så mine to en? Og så har vi tre minutter inde i anden linje op, så der kommer et to tal, og så har vi nul og nul.
+
+23:22
+Og så har vi 0 0. Og så har vi 2 minus 1.
+
+23:30
+Så vi har altså et et tal på det sted her.
+
+23:44
+Og så kan vi udregne trappe matricen på sædvanligvis en lige nu se 1 0, 0 0, 0 1 og 0 0, 0 0 og nul, så I bemærker.
+
+24:01
+Vi har altså en nul række forneden. Det skulle vi have, fordi vi ved jo, der er andre løsninger end nulløsningen.
+
+24:09
+Så nu skal vi lige se, hvordan kan vi så endeligt finde alle egne vektorerne?
+
+24:18
+Dvs sige. X1, x2, X3.
+
+24:28
+Er lig med, og så har vi en fri variabel som er som X2.
+
+24:37
+Og så får vi en ind og X3 er dømt til altid at være nul.
+
+24:44
+Så skal der stå et nul dernede. Og så har vi altså her at.
+
+24:55
+Eje rummet der hører til egen værdien 1.
+
+25:00
+Det er altså ud spændingen. Er den væk, så er der.
+
+25:20
+Og nu skal vi så lige have fundet det andet med egenvægt til rum.
+
+25:28
+I 2 to. Og så skal vi altså have det oppe i venstre hjørne.
+
+25:40
+Der har vi, så kunne vi 15 minus to. Fordi Lambda den 2.
+
+25:48
+Og så har vi en. Og så har vi nul, og så har vi nul.
+
+25:53
+Og så går vi til anden vare, ikke den, og den er født med minus to.
+
+25:59
+Og så skal vi have set tre minus to. Nu er agn værdien CO2, og der får vi en, og så får vi nul og nul her 0 0.
+
+26:10
+Og så har vi så dér i tredje linje. Der har vi så 2 minus 2.
+
+26:14
+Den giver nul. Og så bliver trappe matricen.
+
+26:32
+Den bliver så en minus en halv nul nul, så bliver den altså 0 0, 0 0 og 0, 0 0 og 0.
+
+26:50
+Og vi kan jo se, at der har vi så betingelse på exit.
+
+26:57
+Vi har igen X2 som som som fri parameter, så vi får altså her.
+
+27:07
+X1, x2, X3. Det var X2 jeg har omdøbt her.
+
+27:15
+Den bliver så en halv 1 og 0.
+
+27:23
+Og så kan I se. Der er slet ingen betingelser på X3. Den kan være lige præcis, hvad den vil.
+
+27:37
+Og hermed har vi så fundet egen rummet for altså egen rummet for.
+
+27:48
+Altså alle dyr egenvægt, ture, hele det underrum af egne vektorer, som hører til agn værdien 2 den er så udstillingen.
+
+28:02
+Af vektoren en halv komma 1,0.
+
+28:09
+Og så 0,0 komma i.
+
+28:14
+Og det vil så sige til allersidst, at skal vi lige kigge på, hvor det var,
+
+28:21
+at de her hemmelige rum for denne her ligende afbildning, hvor vi har fundet dem hen.
+
+28:42
+Og i kan jeg så se alle de alle de egenvægt 2'ere, som hører til en af så alle fix vektorerne.
+
+28:52
+De er udspændt af den ene væg. Så er det altså en dimensionalt, mens egen rummet der hører til denne her, er to dimensionale.
+
+29:05
+Og det kan vi bare lige se her. 1. En villa illustration på her til til allersidst.
+
+29:17
+Så kan I her har vi altså en ved et væk, som er udspændt af en kommer, ind kommer nul.
+
+29:26
+Så ved at se alle de vektorer, der ligger på den rette linje i x y z koordinat systemet.
+
+29:33
+De bliver bare afbilledet på sig selv. Det er feks. Vektorer.
+
+29:39
+Så har vi de to andre, altså egen rummet der hører til egenværdi 1 2.
+
+29:45
+De er udspændt af vægteren, der hedder Hvad bliver det? Ind kommer 2.
+
+29:50
+Kommer nålen? Så denne er altså udspændt af den væg der og så vægteren 0,1 0,1.
+
+29:56
+Det er den der. Så nu kan vi tegne hele den plan her igennem Rodrigo.
+
+30:02
+Alle de vektorer det lige meget om det kunne ved et det vil to eller vil sige lægger vi et og vi to be tre sammen.
+
+30:10
+Alle de vektorer der ligger i den her plan, de bliver afbilledet på det dobbelte af dem selv.
+
+30:17
+Så det er altså hemmelighed under de hemmelige rum bliver fundet.
+
+30:20
+Og jeg siger tak for i dag.

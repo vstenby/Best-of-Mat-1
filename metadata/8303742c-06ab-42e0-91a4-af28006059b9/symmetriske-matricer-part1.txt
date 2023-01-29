@@ -1,0 +1,995 @@
+0:06
+I dag er det sidste gang, at vi har ren lineær algebra, fordi fra næste uge A, da handler det hele om differentialligninger og altså i lineær algebra.
+
+0:19
+Der har vi så indtil i dag. Altså jeg håber, det har været sjovt, og det har været charmerende.
+
+0:26
+Men okay, vores bygninger. De har kun være lidt skæve en gang imellem, og nogle gange var der lige, at der var nogle underrum, vi gerne ville finde.
+
+0:35
+Og så var de der ikke, og så bukhari egen værdierne.
+
+0:40
+De var komplekse og den slags ting.
+
+0:43
+Så i dag skal vi fejre afslutningen på behørig vis, og det vil sige nu søger vi i en særlig klasse af fordrag matricer, hvor tingene bare er i orden.
+
+0:55
+Der er ikke noget med, at der mangler underrum. Der er ikke noget med egne værdier, der giver komplekse og vigtigst det hele.
+
+1:03
+Det skal være lige, og det skal være vinkelrette og svarede på den udfordring.
+
+1:09
+Det er symmetriske matricer. Og det er så programmet for i dag.
+
+1:15
+Men inden vi kan gå i gang med det, så skal vi jo lige have værktøjerne på plads.
+
+1:21
+Det vil sige, vi skal vide. Altså hvad er længder, og hvad er vinkler?
+
+1:26
+Så det starter vi ud med. Og det handler om prikproduktet.
+
+1:33
+Og vi snakker først lige om de to og giver tre. Det betyder jo planen og rummet, så vi siger, I giver to og tre.
+
+1:46
+Da tegner vi en væg tager af og vi tegner en væg trappe.
+
+1:55
+Og lad os sige at deres mellemliggende vinkel vi, så har vi et prick produkt som vi kalder a prick b.
+
+2:08
+Det er defineret som længden af a gang med længden af b gange med cosinus til deres mellemliggende vinkel.
+
+2:19
+Det er definitionen, og her kan vi jo allerede sige, at hvis vi har at prikproduktet,
+
+2:29
+det er nul, så må det jo være fordi vinklen er 90 grader, og så er A og B så vinkelrette.
+
+2:45
+De er eller skal vi kalde dem ortogonale vugge.
+
+2:57
+Men så har vi også noget der hedder bagefter, og så får vi noget, der hedder coordinator, og så kan vi sige, at I giver to og gik tre.
+
+3:10
+Da er standard baserne de er overtog normal.
+
+3:28
+Og lad os lige se hvad jeg mener om, at det altså her kan vi jo bruge rummet som eksempel.
+
+3:36
+Vi ved at standard basen denne kalder vi for i J og K, og der har vi jo at længden er i er lig med.
+
+3:48
+Længden af J er lig med længden af K, fordi nemlig 1.
+
+3:58
+Og det vil sige at de er normale. Altså når man siger man når mere end vægtere, så betyder det at den får længden 1.
+
+4:11
+Og ydermere så gælder der, at hvis I prikker i med J.
+
+4:20
+Så er det jo længden af den ene gange længden af den anden gange cosinus til deres mellemliggende vinkel, som er °90, det vil sige at de giver nul.
+
+4:30
+Og på samme måde i gang. K. Vi prikker dem.
+
+4:34
+Det giver noget og vi prikker J med K.
+
+4:43
+Og det vil altså sige at de er ortogonale.
+
+4:53
+Så når vi så bruger ordet i overtøj nummer et basis, så betyder det,
+
+4:57
+at basix vektorerne de er én, og at alle vektorerne de er indbyrdes vinkelrette godt.
+
+5:09
+Så har vi. I en standard basis gælder der.
+
+5:25
+A. Prikproduktet A, A og B.
+
+5:32
+Det kan udvikles ved hjælp af koordinaterne. Og nu tager jeg altså her planen som eksempel, hvor de har to koordinater hver.
+
+5:49
+Og det får vi jo ved at sige første koordinat gange. Første nat.
+
+5:53
+Det er B plus altså ét gange B. Et plus er to gange med B 2.
+
+6:03
+Og der ved vi også noget om længder.
+
+6:10
+Altså at længden af A og det her er ren Protagoras.
+
+6:18
+Og I kender det fra gymnasiet. Det er første koordinaten i anden plus anden koordinaten i anden.
+
+6:31
+Prøv at se det vi nu kan finde ud af, er, at det kan vi skrive på en rigtig knight's måde,
+
+6:38
+fordi det der står her under Kvadrat tegnet dér i virkeligheden a prikket med sig selv.
+
+6:51
+Altså drikker vi de to, så får vi jo netop er et i anden plus er to i anden.
+
+7:00
+Så nu generaliserer vi, fordi passé indtil nu det vi har lavet.
+
+7:09
+Det er noget altså for eksempel det Brick produkt, vi har lavet der. Det kan enhver tømrer, som har en cosinus tabel, lave.
+
+7:17
+Han tager sin tommestok frem, måler af og tager sin tomme straks frem igen måler b vinkel.
+
+7:23
+Måleren måler vinklen cosinus tabel 1 frem, og så kan man regne ud, hvad der er i virkeligheden.
+
+7:31
+Og altså vi kan så her med koordinater, der kan finde ud af længder osv.
+
+7:37
+Og vi kan kontrollere det hele, så vores store udfordring er nu.
+
+7:42
+Hvad nu hvis vi går op I er fire eller er fem eller er 17?
+
+7:48
+Altså der giver det jo ingen mening at have tommestok med.
+
+7:54
+Så nu er vi altså lidt farvet. Så vi skal jo altså bare finde på noget, og vores idé er selvfølgelig vi generaliserer bare fra,
+
+8:04
+ligesom vi plejer at vi generalisere fra plænen med rummet. Så nu kommer der altså generalisering.
+
+8:17
+I sig selv er en prikproduktet det skal vi have.
+
+8:29
+Så det prikkede med B. Så skriver vi koordinaterne op af et af to af N og B et B 2 til B 1.
+
+8:45
+Og det skal så simpelt hen være af et B, et plus og så videre a n b 1.
+
+8:54
+Så har vi generaliserede prikproduktet. Og okay, hvad skal vi så for at stoppe en længde af en vektor?
+
+9:11
+Jamen, der generaliserer vi bare det vi sagde før. Det er kvadratroden af væk Toms prikproduktet, men så selv.
+
+9:22
+Og hvad skal vi så forstå ved vinklen imellem dem?
+
+9:27
+Så siger vi ja, men vinklen. Altså vinklen mellem dem.
+
+9:45
+Den bestemmer vi. Og så har vi jo altså vores prikproduktet formel som står dér og der isolerer vi så bare cosinus til hvidt på venstre side,
+
+10:03
+så er vinklen er bestemt ved at cosinus tv skal være prikproduktet divideret med længde produktet.
+
+10:21
+Og vi tager lige et eksempel. Og nu er vi er fire.
+
+10:29
+Vi har. Den vektor der hedder 1,91 kommer 1,9.
+
+10:39
+Og vi har begge vægteren en kommer. Nul komma 1,0.
+
+10:48
+Og nu vil jeg gerne bestemme vinklen imellem de to vektorer, der står her, og der har jeg så brug for deres længde.
+
+11:03
+Og det vil så sige det bliver jo så en i anden plus en i anden plus en i anden plus en i anden.
+
+11:12
+Og det vil sige under kvadratur. Stegen får jeg fire, og så har jeg altså bestemt længden af den vektor, som står der og på samme måde med b vektoren.
+
+11:26
+Vi skal have en hjerne plus nåle i hjernen plus en anden +0 hjerne.
+
+11:35
+Og det giver os både 2. Så har vi deres længder.
+
+11:43
+Og nu vil de så gerne have deres deres vinkel, så cosinus til vinklen imellem dem.
+
+11:53
+Det skal så være lige med deres prikproduktet,
+
+11:57
+og det finder vi så lige en gange med en 1 ganger med nul en ganget med 1 1 ganget med nul, så den bliver 2.
+
+12:11
+Og den skal så divideres med deres deres længde produkt, og det er jo så to gange med et fradrag på 2.
+
+12:26
+Og så forkorter vi med 2.
+
+12:31
+Og så har vi en divideret med fradrag på 2. Og så kan I godt huske, at så har vi jo, at vinklen er arcus cosinus til den dér.
+
+12:44
+Det vil altså sige vinklen den er 45 grader eller pi kvarte.
+
+12:55
+Så kort sagt det kører og så lige en sidste pointe.
+
+13:08
+Det er at standard baserne. De overtog normalt.
+
+13:24
+Så jeg ved jo at vi har i talt rummet. Der har vi indført standard basserne.
+
+13:29
+Så hvis jeg nu bruger, er fire som et eksempel. Så ved vi godt at i ét.
+
+13:41
+Det er jo vektoren en kommer. Nul komma nul komma nul.
+
+13:47
+Og så er det jo klart, at hvis I tager længden af den, så er det jo kvadratroden at denne i anden og de andre der giver.
+
+13:56
+Det er altså kvadratroden af en, og det giver så en.
+
+14:02
+Og det kan jeg sige. Sådan må de også de andre være i to, et, tre og fire.
+
+14:06
+De har alle sammen længden 1 og lad os prøve at finde.
+
+14:16
+F.eks. E et gange med et 2. Denne er 1 0, 0 0, prikkede med 0 1, 0 0, og altså vi prikker i indgangen med noget.
+
+14:37
+Vi kan se, at det giver nul hele vejen hen. Og I kan se, jeg så i et gange i 2.
+
+14:43
+Den er nul, og så kan jeg godt se, at alle de andre, når vi ganger dem indbyrdes med hinanden.
+
+14:50
+Så giver de nul. Så nu kan jeg se, at alle de standard bag sig.
+
+14:54
+Vi har altså for eksempel er 17. Det er altså en 8'er normalt basis.
+
+14:59
+Så har vi også fået generaliserede det begreb. Godt.
+
+15:11
+Nu skal vi så snakke om hvordan kan vi så skaffe en Orta normalt basis, og der har man en berømt metode der hedder Kram Smitt algoritme.
+
+15:25
+Den handler om hvordan man skaffer sig en Orta normalt basis, og det vil jeg nu gennemgå.
+
+15:33
+Og altså det syntes jeg selv er meget sjovt, og jeg kan give.
+
+15:40
+Altså forudsætningen for, at man forstår Gauss Smiths algoritmer.
+
+15:47
+Altså, man kan sagtens lære at praktisere dem.
+
+15:50
+Men hvis man skal forstå dem, så er det min overbevisning, at et meget vigtigt element er en lille simpel ting, et meget effektivt værktøj.
+
+16:00
+At forstå. Hvad er produktionen af en vægt på en enhed svigter?
+
+16:05
+Så er det min lille introduktion til det, vi går i gang med nu. Jeg indrømmer, jeg har nævnt over over for jer før, men det er noget,
+
+16:13
+jeg bruger mange gange, og jeg kommer til at se det flere gange, altså også til foråret.
+
+16:17
+Så det her er min lille intro eller peptalk.
+
+16:23
+Eller hvad I vil kalde det? Se. Hvis jeg har en vægter A.
+
+16:34
+Og jeg har en anden vægt, så en. Nu vil jeg lave produktionen af A på E.
+
+16:48
+Og hvad mener man med det? Ja, vi laver en forlængelse af den linje, hvor på den ligger, og så tegner vi en vinkelret linje.
+
+17:00
+Nedfælder den vinkelrette port den linje, der ligger her.
+
+17:08
+Så den væg vi kalder for produktionens vektoren.
+
+17:12
+Det er den vektor, som ligger her fra og her til.
+
+17:18
+Den kalder jeg for prof. A.
+
+17:24
+E. Så er jeg altså bare at sige vi lukker den her ned på den linje her.
+
+17:33
+En vægtere. Den har jo en længde og en retning. Lad os nu først kigge på dens længde.
+
+17:43
+Selv længden af Paul. Hvis jeg nu tegner den mellemliggende vinkel, så kan I se.
+
+18:02
+Så den trekant længde jeg har her, det er jo en katedral i en retvinklet trekant.
+
+18:08
+Så altså fra gymnasiet. Der ved vi så, at længden af denne her kateter, det er længden af hypotenusen gange med cosinus til den mellemliggende vinkel.
+
+18:26
+Så det var C-niveau stof. Så kommer mit lille trick her.
+
+18:35
+At nu indsætter jeg så længden af inspektøren, for den er jo bare en.
+
+18:39
+Det har jeg jo lov til. Det gør ingen forskel.
+
+18:45
+Og så kan I se. Her har jeg jo lige præcis prikproduktet af A og E, sådan som vi definerer det.
+
+18:52
+Altså i starten af forelæsningen. Så det er altså a prik i.
+
+19:04
+Så nu har jeg længden, er der, er vægteren her, og så skal jeg bare have skrevet den rigtigt op,
+
+19:10
+og det gør jeg selvfølgelig med at gange med dens retning, som jo bare er inspektøren i.
+
+19:16
+Så nu har jeg altså her, at H.J. Vægteren af A på E.
+
+19:25
+Det er prikproduktet af de to vektorer også at gange med enheds vektoren, så er mappen.
+
+19:44
+Så er vi klar til Graeme Smith. Og situationen er følgerne af det, så I er en.
+
+20:06
+Der har vi et underrum. O kan vi kalde den med basis der har vi u et U2 op til UPI kan vi sige.
+
+20:33
+Så det er altså et endimensionalt væg til ord.
+
+20:39
+Og i det ekstra rum har vi altså et underrum, som har dimensionen P,
+
+20:44
+og den skal selvfølgelig være mindre end inden for ellers giver det ikke rigtig nogen mening.
+
+20:48
+Godt det vi nu vil, det er.
+
+20:55
+Find en over to normal basis. For det underrum O.
+
+21:13
+Så lad os prøve at se hvad er situationen? Det er altså, at vi har givet en række lineært uafhængige vektorer her.
+
+21:22
+De har selvfølgelig forskellig længde, og vinklen imellem dem er forskellige. Nu skal vi gøre tingene perfekt.
+
+21:28
+Vi vil gerne have, de allesammen har den ind, og at vinklen imellem dem er 90 grader.
+
+21:34
+Og det blev tegn igen.
+
+21:38
+Vi tegner situationen. Lad os sige at her har jeg i ét væk, så.
+
+21:49
+Og det er højere U2 vægter. Så det første jeg vil gøre det er den første Basix Specter i min nye basis i den Orta normal basis.
+
+22:07
+Den vil jeg kalde for ved et tryk og dens skarpere jeg mig ved, at når mere den vektor der er her, så på den normerede, ja o et.
+
+22:21
+Det gør jeg ved at tage ud og dividere med dens længde, så har den automat automatisk længden.
+
+22:27
+1. Så altså det er o et divideret med længden af et sådant.
+
+22:37
+Så det er den første i mit nye sæt af vektorer.
+
+22:45
+Så hvis jeg tegner vægteren ved et. Så er den måske her.
+
+23:03
+Nu tegner jeg en hjælpe vektor, som jeg kalder for et dobbelt veto.
+
+23:08
+Og det gør jeg ved, at jeg produceret vindkraft ned på et vægteren her, og den kalder jeg for dobbelt V-2.
+
+23:38
+Kan endnu se. Hvis jeg tager den vektor, der ligger herfra og hele vejen hen til, og så lægger den vægt sig til dér.
+
+23:49
+Så forlag U2 vektoren. Så det vil sige at W 2.
+
+23:55
+Det må være U2 vektoren minus den vektor der ligger her.
+
+24:07
+Og hvad er det for en vægtere der ligger her? Den vektor der ligger her fra her til byen,
+
+24:15
+det er jo lige præcis projektion er en vektor på én enhed svigter ved et sådan er altså minus Croy U2 på v EP.
+
+24:32
+Og det vil sige at U2 og nu ved vi jo fra min lille Intruder oppe.
+
+24:40
+At det er nemt at producere en vektor på én enhed svigter, fordi jeg skal jo bare tage deres prikproduktet.
+
+24:48
+Det vil sige ud to gange med LP, EP og sagt gange med enheds vektoren.
+
+24:54
+Bum! Der var den så. Så nu har jeg fundet en hjælper væk.
+
+25:04
+For så den rigtige vægt, så jeg vil bruge det på.
+
+25:08
+Jeg ved, at når mere ved 2 som min ved to vektorer den anden vægt, så i min overtog normalt basis,
+
+25:16
+finder jeg sig ved at jeg siger ved to divideret med længden på v.
+
+25:23
+2. Og så har vi den anden stående her.
+
+25:35
+Skal vi lige prøve at se hvor langt er vi nu nået? Se det vil sige at jeg normerede altså den hjælpe værktøjet her.
+
+25:43
+Det vil sige, den skal have den samme længde, som jeg har her.
+
+25:49
+Så det vil jeg sige. Den vil to væk, så jeg har fundet her.
+
+25:56
+Den kan jeg tegne der, og jeg kunne også sige, at nu flytter jeg den her hen til ord i god.
+
+26:11
+Og nu har jeg så en smuk overtog normalt basis for den plan, der ligger her.
+
+26:18
+Og den udspænder det samme som UiT og U2.
+
+26:23
+Det selvfølelse er selvfølgelig meget nemt ud, fordi altså nu ligner det bare som om, at det her er noget, jeg har lavet i planen.
+
+26:31
+Men I skal jo forestille jer, det her ligger i en dybere plan. I er en.
+
+26:37
+Og det vil altså sige de to vektorer udspænder i en præcis det samme som de to vektorer, som vi startede ud med i vores set.
+
+26:49
+Godt nok. Så går vi lidt videre fordi prøv at se.
+
+26:57
+Hvis jeg nu tegner mine første to vektorer, altså dem som I har set her her.
+
+27:04
+Dem tegner jeg nu tredimensionelle, fordi nu vil vi gå videre med vores algoritme.
+
+27:11
+Så lad os sige, at. At der har jeg min første enhed svigter, jeg har fundet.
+
+27:21
+Det har jeg, min anden enhed svigter vi to, og vinklen imellem dem er 90 grader.
+
+27:35
+Så nu skal jeg gå videre med et kram, smidt algoritmen, og så skal jeg kigge på.
+
+27:41
+Og jeg har brugt U2 vægteren, så nu kigger vi på U3 vektoren.
+
+27:46
+Lad os sige, den ligger og siger, at U3 væk, så den ligger her.
+
+27:59
+Og jeg producerer nu tre værktøjer ned i den plan, som er udspændt ved et op i 2.
+
+28:14
+Så når jeg måske beder til. Den vektor der ligger fra dette skæringspunkt med planen og så op til den væg der.
+
+28:30
+Det er en ny hjælpe værktøjer som jeg kalder for dobbelt V3 og skal lige se, hvis jeg nu tager herfra i god.
+
+28:53
+Og så hurtigt kalder den vægtere, der ligger for ordet, god til det der skæringspunkt.
+
+28:58
+Hvis jeg kalder den for for for A, så kan jeg altså se, at tre nej, undskyld ved tre min.
+
+29:08
+Og jeg skriver her hjælpe lektor. Så vil den jo være U3.
+
+29:22
+Min nu sag. Og så kommer min næste pointe, fordi den af Vectra, der så nu forlænger hen til den der bliver 2.
+
+29:43
+Jeg her og nu tegner vi et parallelogram og på samme måde til den anden side.
+
+29:51
+Her. Kan I så se, at den bagvæg der ligger her?
+
+30:03
+Den er jo summen af den væg, som ligger helt herud til.
+
+30:07
+Altså summen af den væg, der ligger dér, og den væg, som ligger her fra origo og ser ud til det skæringspunkt dér.
+
+30:17
+Og skal vi lige se på, hvad er de vektorer så egentlig?
+
+30:23
+Ja, den vektor, der ligger her. Det er produktionen af u træ på ved et.
+
+30:45
+Og den anden summende væg er her. Det er produktionen af U3 på VEI 2.
+
+31:04
+Og så er jeg næsten færdig, for dér har I så u tre vægteren.
+
+31:12
+Og hvordan producerer vi en væg så på en enhed sektor?
+
+31:16
+Jo, det er jo bare deres produkt. Gange med indhold sektoren.
+
+31:22
+Så er jeg så bruge tre prikket med ved et.
+
+31:29
+Gange med et minus ud tre prikket med ved to gange med ved 2.
+
+31:46
+Så det var min form for hjælpe vækster. W 3 og så får jeg v tre.
+
+31:57
+Ved at mere min hjælpe svigter altså ved tre divideret med dens længde.
+
+32:07
+Sådan da. Og sådan går algoritmen så videre.
+
+32:14
+Hvis jeg er 17, så skal vi altså fortsæt algoritmen med hele tiden at tage en af de dér nye U2 vektorer ned, ikk?
+
+32:24
+Og I kan se hele tiden. Hvad er det vi gør er så her?
+
+32:28
+Der fik jeg normerede min ved tre væg. Så I kan altså se min ven ved tre.
+
+32:35
+Den jeg bruger i mit nye sæt. Den ligger dér. Og hov.
+
+32:39
+Den kan vi jo bare flytte herop til. Bum!
+
+32:46
+Så har vi altså det. Ved 2. Ved 3. Det er ligesom i J og K vægter.
+
+32:51
+Vi har altså fundet en overtog normal basis for det tredimensionale underrum.
+
+32:56
+Og sådan fortsætter vi til et 4. Demo, som hedder underrum 5 dimensionelle underrum og hele vejen op til vi har dækket det underrum, vi betragter.
+
+33:05
+Spørger du, om de vil være i U3 på de to?
+
+33:13
+Nej, altså a på sigt. Vi ved vi havde tegnet de to først, og så har du tre som du som du producerer ned.
+
+33:24
+Der er vektoren. Det er en vægt, der ligger dér, og den er summen af de to vektorer,
+
+33:30
+der ligger dér og dér, og det kan godt være, at det er lidt svært at forestille sig.
+
+33:35
+Men den vektor, der ligger der. Det er den vektor, der producerede ned vinkelret på den første aksen og på den anden måde den vektor, der ligger her.
+
+33:47
+Det er U3 deroppe, du ser den vinkel. Den skal altså være vinklet ret.
+
+33:57
+Nå, men vi får altså så lige her hjælpe Victor P.
+
+34:05
+Den sidste vi har brug for. Den vil jeg altså så være u tre.
+
+34:11
+Nej, den får vi så vi også i u. P minus u.
+
+34:16
+P prikket med et gange vip.
+
+34:23
+Plus skal vi sige minus, og så får vi u p prikket med V to gange med begge to.
+
+34:36
+Og så videre hele vejen hen til U.
+
+34:41
+P. Prædikede med v p.
+
+34:45
+Minus 1 gange med v. P minus 1.
+
+34:51
+Det er så den sidste vægter, og det var en hjælpe vægtere.
+
+34:55
+Og så den sidste enhed svigter i sættet. Jo mere nu, så hele vejen hen.
+
+35:05
+Og så vil P den forrige så ved at igen at nominere den sidste hjælper svigter.
+
+35:12
+Vi har brug for hr. Og så vil de vektorer det, og det vil være en overtog normalt basis for det der underrum.
+
+35:25
+Det kan godt være, at vi lige kan nå et eksempel på det her fra er fire.
+
+35:47
+Se League betragter vektorerne u et.
+
+35:54
+Lig med en kommer, ind kommer en kommer ind, og vi har vægteren U2, som er en kommer.
+
+36:02
+Nul komma in komma nul. Og så har vi tre.
+
+36:10
+Som er lig med en komma nul komma nul komma in.
+
+36:20
+Og de vektorer. Det siger jeg bare at de er lineært uafhængige.
+
+36:28
+Det vil sige de udspænder et tredimensionalt underrum i A4.
+
+36:34
+Og I kan se, at de har lidt forskellig længde, og faktisk så ved vi godt,
+
+36:39
+hvad vinklen mellem de første to er, for det var det eksempel, jeg brugte tidligere i dag.
+
+36:44
+Vi ved, at vinklerne mellem de to pigvar det så nu vil.
+
+36:48
+Vi er altså skarpe i en Ortona med et basis for dette underrum og den første.
+
+37:02
+Ved et. Det var jo i følge Gram Smidt normering er den første.
+
+37:16
+Og vi har allerede fundet hvad længden af den var, den vektor der står herude.
+
+37:22
+Den var nemlig 2 meter, og det er jo så det, vi skal dividere med, så vores første.
+
+37:31
+Den normering giver altså bare at vi har koordinaterne en halv hele vejen igennem.
+
+37:41
+Så skal vi have en hjælper lektor. Hvor vi så hiver U2 ind.
+
+37:55
+Som var 1, 0, 1 og 0.
+
+38:03
+Minus, og nu skal vi have prikproduktet. 1 0.
+
+38:11
+1 og 0. Prikket med den ved ét væk, så vi har fundet sammen var en halv en halv en halv og en halv.
+
+38:26
+Og det skulle så gange smed den ene svigter.
+
+38:30
+Vi har fundet igen en halv. Det er en halv en halv og en halv.
+
+38:46
+Vi starter med at udregne prikproduktet, og der har vi så en gang imellem.
+
+38:52
+Det giver en halv. Der får vi noget, der får vi en halv.
+
+38:56
+Der får vi nul. Så prikproduktet her, den er altså en.
+
+39:03
+Og så vil det altså sige, at min dobbelt veto boykotter.
+
+39:09
+Den blev jo så en minus en halv. Det vil sige en halv, og så bliver den nul minus en halv.
+
+39:16
+Det vil sige minus en hæl, og så bliver den en minus en halv.
+
+39:22
+Det giver en halv, og så giver den nul minus en halv.
+
+39:26
+Det giver minus en halv. Så er det, og så får jeg.
+
+39:38
+Den anden fase svigter ved at normeret den, jeg lige har fundet.
+
+39:51
+Men I kan se den har jo de samme koordinater som et nyt.
+
+39:58
+Så det vil sige, at den er jo allerede normeret.
+
+40:03
+Altså jeg var så heldig, at den der kom ud. Den var en enheds vækster i sig selv, så det vil jeg sige ved.
+
+40:10
+Den bliver simpelt hen en halv komma minus en halv komma en halv komma minus en halv.
+
+40:22
+Så skal vi have fat i den tredje hjælper vækster så det, og så er det slut.
+
+40:29
+Og der har jeg altså her dobbelt B3. Er lig med, og nu skal vi så have fat i vores sidste ven herovre fra, som var en 0 0 og en.
+
+40:50
+Og fra den skulle vi trække to produktioner og det vil sige den første produktion er så en 0 0 og en prikket med den første bassist Spector,
+
+41:06
+som var en halv en halv en halv og en halv.
+
+41:16
+Og som så skulle gange på den første basis fik sig altså en hal, en hal, en hal og en halv.
+
+41:26
+Godt det var den første produktion, og så skal vi sige den nye vægtere.
+
+41:36
+0 1 0 1. Prikket med den anden enhed svigter vi fandt frem til, som var en halv minus en halv og en halv og minus en halv og det rødt prikproduktet.
+
+41:57
+Det skulle så games med vægteren.
+
+42:03
+En halv minus en halv en halv. Og minus en halv.
+
+42:13
+Og vi regner lige prikproduktet ned her ud. Og der kan I se, der er jeg igen heldig med det eksempel jeg har lavet her til at.
+
+42:28
+En gang imellem pludselig en gang en det giver i. Og så tager vi prikproduktet her en gang imellem.
+
+42:40
+Helle er en helle en gang med minus. Det mener.
+
+42:45
+Så der blev prikproduktet sig med nul. Og det vil sige når jeg skal have min hjælp væk tager ud, så bliver det altså en minus en halv.
+
+42:59
+Det giver en halv, og så bliver der nul minus en halv.
+
+43:06
+Det giver minus en halv, og så får vi igen nul minus en halv minus en halv og så til sidst en minus en halv.
+
+43:16
+Det giver altså en. En halv. Så er jeg klar til den sidste af mine nye vektorer, for det er nemlig hjælpe vægteren.
+
+43:32
+Normerede. Og igen er jeg heldig den der vægter har i forvejen længden 1.
+
+43:43
+Det vil sige, at jeg får simpelt hen den sidste vægt. Det er en halv.
+
+43:48
+Minus en halv. Minus en halv og en halv.
+
+43:55
+Hermed mine damer og herrer har vi fundet en Orta normalt basis for det underrum, der er udspændt af de tre vektorer.
+
+44:03
+De består nemlig af vægteren, som står her ved et.
+
+44:12
+Og så fandt vi vi to vægteren her.
+
+44:18
+Og her har vi den sidste væg så her, og hvis de prøver at gange de to vektorer sammen prikker dem med hinanden,
+
+44:27
+så giver det nul og ligesådan ved ét med vel to og vi tre.
+
+44:31
+Så altså Smidt har gjort jobbet her godt.
+
+44:49
+Og så er min sidste point inden pausen.
+
+45:13
+Den handler om den ny slags matrix, som hedder en ortogonale matrix, og jeg skal lige have lidt mere kridt under neglene her.
+
+45:27
+For vi skal altså tale om ortogonale matrix.
+
+45:36
+Så vi kan skrive en matrix.
+
+45:45
+Q. Hvis søjler er en 8'er normalt basis.
+
+46:10
+Den kaldes ortogonale. Form Der var så et nyt ord.
+
+46:22
+Symbolet for sådan en ung ortogonale matrix kalder man ofte Q.
+
+46:28
+Eller det gør vi i hvert fald altid af. Og der er så lige en sjov ting, man skal lægge mærke til her.
+
+46:34
+Altså sådan en fyr der. Den består altså af søjler.
+
+46:41
+Sammen udgør en Overton normalt basis, det vil sige alle de søjler de skal have længden 1.
+
+46:48
+Og hvis vi ganger to søjler med hinanden, så skal deres prikproduktet skal være nul.
+
+46:55
+Sådan en matrix den kaldes altså for en ortogonale matrix, og det er sådan set lidt sjovt, ikke sandt?
+
+47:05
+Det ville have været meget mere passende, hvis nu traditionen havde sagt, at sådan en matrix kaldte man for en 8'er normal matrix.
+
+47:12
+Men det gør man altså ikke. Traditionen i lærebøger rundt omkring i verden kalder den derfor en ortogonale matrix.
+
+47:20
+Husk det betyder altså, at søjlerne er en ottow normalt basis.
+
+47:30
+Se nu synes at vi skulle prøve at lave et lille eksperiment.
+
+47:39
+Nu ser vi antag. At den kunne Mattrick opskriver hér.
+
+47:49
+Q er lig med V et.
+
+47:54
+Vi er to op til ved en. At den er ortogonale.
+
+48:11
+Så laver jeg det eksperiment, at den ganger jeg nu med dens transponerede matrix, altså q transponerede gange med Q.
+
+48:22
+Først prøve at gøre det. Og transponerede hvad vil det sige?
+
+48:32
+Kan I se her? Når jeg så opskriver ved på den måde, så mener jeg jo søjler, søjler, vektorer,
+
+48:39
+og når jeg så transponerede den, så betyder det jo bare, at i stedet for at ved ep.
+
+48:45
+Det er en søjle vektor, så bliver den i stedet for en række væk.
+
+48:51
+Skal vi prøve at se, om vi kan antyde det, så har vi altså her. Det er et.
+
+48:59
+Som en række værktøjer. Vi er to som en række vækster og hele vejen ned til V.
+
+49:06
+N er en række vektor. Så den prikker vi nu med ved et veto op til ved en.
+
+49:25
+Som nu er søjle vektorer. Og kan I huske hvordan er det nu vi laver et Matrix Matrix produkt?
+
+49:43
+Jamen, det består jo af en helt masse prikproduktet, hvor jeg først skal sige prikproduktet at Neururer strejke ganget med den.
+
+49:53
+Det skal stå her oppe i hjørnet. Det vil sige det er vi et gange medvind.
+
+50:01
+Og så skal jeg jo så sige den øverste række værktøjer her ganget med den anden søjle vektor.
+
+50:08
+Men hov, ved EP og ved 2. De er ortogonale, så det vil sige, at der må komme et nul.
+
+50:17
+Og så ganger jeg ved ét med den tredje søjle, hvor de var søde med os, fordi det er en ortogonale matricer, altså Grundahl.
+
+50:26
+Så det giver noget, og så får jeg altså navler hele vejen frem som resultat at den øverste række her, og så går vi videre.
+
+50:38
+Så skal vi tage den anden række prikke med den første og de to.
+
+50:43
+De er jo ortogonale, så der får jeg altså nul.
+
+50:48
+Så tager vi anden række og ganger med anden søjle, og hov, der var bid, så får jeg så vi to gange med to, men alle de andre.
+
+51:00
+De giver nudler, og den får vi altså noget 0 nul, og så får vi altså bid hernede, hvor vi har v en.
+
+51:11
+Prikkede mave en. Så nu prøver vi lige jamen det øverste søjle er det det øverste element.
+
+51:23
+Her altså hvad er det så egentlig? Ja, I ved jo et prik produkt.
+
+51:29
+Det er længden af den første vægter, buketten skulle være i sig selv.
+
+51:34
+Undskyld. Der står jo ved et gange med ved det, så det er længden af den første, der hedder B.
+
+51:40
+Et gange med længden af den anden, som også er vip og så cosinus til deres mellemliggende vinkel.
+
+51:49
+Og eftersom det jo er den samme vægt, så er den jo nul, og så bliver der altså en ganget med en ganget med en bom.
+
+52:01
+Så det vil jeg så sige. Alle de steder i diagonalen, så bliver de dér prikproduktet, og de bliver lige med én hele vejen ned.
+
+52:12
+Så hvad har jeg opnået? Jeg har såmænd bare opnået enheds matricen.
+
+52:18
+I er en så altså q transponeret gange med Q.
+
+52:26
+Det giver enedes matricen, og så får vi selvfølgelig et meget smukt resultat, for det betyder jo,
+
+52:34
+at hvis vi transponerede, hvis vi transponeret en ortogonale matrix, så er det det samme som dens inverse matrix.
+
+52:45
+For I kan jo huske dette her var jo lige præcis det der karakteriserede Q i Minos første gange med Q.
+
+52:53
+Det var enedes matricen, så her har vi det flotte resultat for ortogonale matricer er altså, at Q.
+
+53:01
+Den værste er lige med Q transponeret starter en mine damer og så fortjener I en pause.

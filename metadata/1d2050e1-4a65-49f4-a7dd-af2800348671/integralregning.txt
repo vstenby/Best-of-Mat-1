@@ -1,0 +1,920 @@
+0:04
+Her fra morgen til aften. God morgen.
+
+0:13
+Dette er den sidste forelæsning i dette første forløb i matematik EPP, som har handlet omkring komplekse funktioner,
+
+0:25
+og hvor vi også har været en del inden på reelle tal og reelle funktioner hen ad vejen.
+
+0:30
+Og i næste uge, da begynder vi på et helt nyt emne.
+
+0:35
+Det er nemlig vine af algebra, og det kommer så til at køre igennem det meste af efteråret.
+
+0:41
+Og så slutter vi af med differentialligninger, hvor vi bruger alt det, vi har lært om komplekse tal og lineær algebra.
+
+0:50
+Så det vil sige at jeg så et lille spring herfra tirsdag over til vi ses igen på tirsdag,
+
+0:59
+men så er der jo et lille mellemspil, idet jeg vil minde jer om, at det er en lille prøve på fredag.
+
+1:08
+En prøve som består af to dele.
+
+1:12
+Den første er en opvarmnings prøve på 30 minutter, der handler om reelle tal og reelle funktioner og derefter en prøve,
+
+1:22
+der handler om komplekse tal og komplekse funktioner.
+
+1:26
+I har sikkert set den beskrivelse af prøven, som ligger på Internet og da også oploadet besked om,
+
+1:38
+hvor det er I skal møde hende alt efter hvilken fase I gå i.
+
+1:44
+Og så er det jo bare at møde op og så have kigget godt på den liste, hvor der står, hvad der er særligt vigtigt,
+
+1:52
+at de kender enhedscirklen og sinus cosinus, regneregler, komplekse eksponentielt funktioner og alt det der så er jo en prøve uden hjælpemidler.
+
+2:05
+Så det bliver rigtig spændende at se, hvor meget der hænger fast på fredag.
+
+2:10
+Så jeg vil bare have rigtige. Held og lykke med repetition og med prøven på fredag.
+
+2:21
+Godt at de møder friske og optimistiske frem for på på mandag, hvor vi starter med et nyt spændende emne.
+
+2:34
+Men i dag dør skal vi have en båd ind.
+
+2:39
+Hvad skal vi sige? En bagsmæk og en forsmag på integralregning.
+
+2:45
+Det handler også om noget af det, jeg har lært i gymnasiet.
+
+2:49
+Men I vil se, at vi griber sagen måske an på en lidt anden måde, og det hænger sammen med, at vi vender grusomt tilbage til de emner her i foråret.
+
+3:02
+Altså en faktisk.
+
+3:04
+Den største del af forårets pensum handler om integralregning, integralregning i flere dimensioner, altså trippel integraler og den slags ting.
+
+3:14
+Så det tror jeg bliver rigtig spændende, og det vi har i dag, er altså en en forsmag på integralregning.
+
+3:21
+Men der er også lidt om komplekse i en skraldere, men ellers så er det nogle klassiske emner, vi er er inde på.
+
+3:32
+Så vi starter med at tale om tal og deres konvergent.
+
+3:39
+Det må ske et lidt underligt sted at starte med. De kan se, at vi får brug for det, når vi skal snakke om venstre summer.
+
+3:46
+Og så vil jeg bruge ti minutter deromkring på at udregne det her vanskelige integral.
+
+3:56
+Vi har jo allerede haft en fundamental sætning, det var algebraens fundamentale sætning.
+
+4:00
+Det var jo den, der sagde, at ethvert polynomium har mindst én rod.
+
+4:06
+Hvis vi betragter det inden for de komplekse tal, så i dag skal vi have differentieret regningens og integralregning.
+
+4:14
+En fundamental sætning, så er vi rigtigt godt rustet med med to så dybe resultater med store konsekvenser.
+
+4:23
+Men så handler det ellers efter om nogle regneregler.
+
+4:26
+Nogle eksempler, nogle særlige metoder og også noget da er jo en stor forskel på et differentialregning og integralregning,
+
+4:35
+fordi differentialregning da er der nogle regler, der siger, hvordan og hvordan man skal regne det ud.
+
+4:41
+Altså er der et produkt, så er der også en sætning der siger Hvordan laver man de France differentialkvotienten af produktet?
+
+4:49
+Er der en sammensat funktion? Jamen så er der en kæde osv. Så det er altså at differentiere regningen.
+
+4:56
+Det er noget for håndværkere, der har værktøjet med og kender reglerne.
+
+5:01
+Indtil gravhøjen ingen da er det lidt vanskeligere, fordi hvad er en stamme funktion?
+
+5:07
+Hvordan finder man den?
+
+5:08
+Og det er tit noget med nogle regler og beskidte trick og sådan noget, som man kan prøve sig frem med, men som ikke er generelle.
+
+5:16
+De virker nogle gange. Andre gange virker de ikke. Men vi skal altså se på nogle af dem.
+
+5:21
+I kender selvfølgelig substitutionen metoden.
+
+5:25
+Vi skal også snakke lidt om partielt end til integration og hvordan indtil hvordan integrerer man rationale funktioner.
+
+5:32
+Så vi har rigtig meget mange forskellige emner på programmet, og lad os starte med et tal.
+
+5:38
+Følgerne. Og lad os se på tre eksempler.
+
+5:57
+En talfølge a m. Givet ved at a m er lig med en.
+
+6:08
+Og så har jeg en. En talfølge b n.
+
+6:17
+Livet ved at. B N er lig med en over 1 og endelig har jeg en talfølge c, n.
+
+6:33
+Som er givet ved. At se EM denne er to EM minus 1 divideret med 1.
+
+6:52
+Vi husker måske dette. Det er den mængde betegnelse vi kalder en liste form, så det betyder altså, at der er en række elementer herinde.
+
+7:01
+Her ser vi altså hvordan elementerne de rent faktisk er defineret, og vi kan altså nu se at en.
+
+7:10
+Så. Altså at der i virkeligheden er tale om en 2, 3, 4, 5 osv.
+
+7:21
+Så det er altså en talfølge der kom bare en stribe tal, hvor der er til ordnet i en eller anden reglen for, hvordan de her elementer bliver givet.
+
+7:32
+Og hvis de er inde over ende.
+
+7:36
+Jamen så er det jo en en halv en tredjedel, en fjerdedel, en femtedel og så videre, og så kan vi også se, hvordan den kører.
+
+7:54
+Og så er der den sidste af serien, hvor vi altså skal prøve at se, hvordan I kan finde ud af den.
+
+8:06
+Her ser ud til, at den starter med to gange med en minus 1.
+
+8:11
+De vil der med én. Mon ikke det giver en. Og så har vi.
+
+8:18
+Det andet ned, der har vi to i nævneren, og så har vi to gange 2 minus 1 i tælleren, det vil sige tre.
+
+8:29
+3 halve. Og så har vi. Tre i nævneren, 2 gange 3 minus 1.
+
+8:37
+Det er 5. Og så har vi fire i nævneren to gange 4 minus 1.
+
+8:46
+Det giver 7. Osv.
+
+8:55
+Så vi skal altså bare vi altså her fem. To gange 15 den.
+
+9:01
+Det bliver os der får besøg 9 foroven. Så vi kan se den kører den altså der ud af.
+
+9:10
+Det man interesserer sig for med talfølge er ofte om de konvergerer.
+
+9:15
+Det vil altid sige, om de har en grænseværdi. Når enden bliver altså går mod uendelig kort sagt og grænseværdier.
+
+9:26
+Hvis vi nu kigger på på den første del af M.
+
+9:32
+1 2, 3 4, 5 6. Det er klart, den har ikke nogen grænseværdi.
+
+9:36
+Den blev jo bare større og større og større, så den konvergerer ikke.
+
+9:57
+Derimod kan vi godt se den her. Altså en femtedel af en sjettedel en tusindedel en milliontedel, der bliver mindre og mindre og mindre.
+
+10:07
+Og der er vist ingen tvivl om, at den går i mod, hvad S.
+
+10:14
+Så b en konvergere. Med, og så skriver vi sådan her.
+
+10:34
+Altså grænseværdien for b m, når indgår i mod jo egentlig den er nul.
+
+10:49
+Og så lad os se på det sidste eksempel.
+
+11:04
+Hvad med den divergens eller konvergent? Ja, hvis I nu bare at det ikke nødvendigt at nævne, at hjemmet skal være en del af det tøj.
+
+11:19
+Det burde man strengt taget jeg har undladt at gøre det fordi at det er underforstået.
+
+11:29
+At når består her af en ven vi kan godt skrive det.
+
+11:39
+Mit spørgsmål nu er Er denne konvergent. Altså har den en grænseværdi, er der et bestemt tal, som værdien vil gå imod, når Ingolf møde venter.
+
+11:53
+Hvad ser du? Ja, der bliver sagt 2.
+
+11:59
+Og I kan se når bliver altså det er sådan intuitivt.
+
+12:04
+Ja, gæt går ud fra det. Noget i den stil at du tænker, at det er et tal et tallet.
+
+12:09
+Det bliver af mindre og mindre betydning, når en bliver større og større og større.
+
+12:13
+Hvad siger du? Nok. Så ligger det overalt.
+
+12:19
+Det kan der også er. I højere grad, ja, det er det en rigtig god idé.
+
+12:32
+Se se den dem der står her.
+
+12:39
+Den er på øvelses programmet fordi I skal formelt begrunde hvorfor at den konvergerer imod nul.
+
+12:49
+Selv om det sådan set er indlysende.
+
+12:50
+Men det er bare for som en øvelse i altså hvordan bærer man sig ad med helt konkret at forklare, at en talfølge, den konvergere man godt sige.
+
+13:02
+Når listerne er meget nemme med eksempler, så er det måske latterligt at lave sådan et.
+
+13:08
+Hvad skal sige formelt teoretisk arbejde? Men sagen er jo den, at senere og også på matematik 2, hvor man arbejder meget med konvergent,
+
+13:17
+så kan det være svært at afgøre om forskellige talfølge om de er divergerer eller konvergere.
+
+13:21
+Det kan være altafgørende for forskellige typer af problemer, så introduktionen til hvad det er, vi forstår, ved konvergent, den kommer nu.
+
+13:32
+Og så ligger der også nogle beskrivelser i øvelses programmet og de øvelser, I skal arbejde med i gruppe øvelserne.
+
+13:39
+Så jeg vil lige give jer selv. De fik altså her, at den her den var 2.
+
+13:46
+Og jeg vender lige tilbage til dit argument om lidt. Fordi vi siger per definition.
+
+14:11
+Vi siger at a. M.
+
+14:18
+Har grænseværdien alfa. Hvis der for et været lille tal.
+
+14:36
+Var lille og lille i parantes. Det eller.
+
+14:46
+At afstanden mellem a, f, a er altså at der for ethvert findes et.
+
+14:59
+Et tal på. Således at hvis M er større end på.
+
+15:12
+Så gælder det at afstanden fra grænseværdien til A inden den er mindre end epsilon.
+
+15:29
+Så den skal man altså lige tygge lidt på. Altså for ethvert lille efternavn skal vi altså kunne finde på.
+
+15:37
+Som et naturligt tal, sådan at hvis det emne vi bruger her er større end K, så er forskellen ind imellem.
+
+15:45
+Tallene i talfølge og grænsen. Den er mindre end det tal, der ligger her.
+
+15:52
+Så kom lad os lige på og kik denne gang på hvordan. Hvordan det her, det kunne se ud.
+
+16:08
+Lad os sige vi altså her har placeret tallet alfa.
+
+16:17
+Som vi altså påstår er grænseværdien. Det betyder jo altså, at hvis jeg nu afsætter al min a ender.
+
+16:29
+Altså for et for 2. For 3 4, for 5, for 6 7, 8, 9, 10 11 osv.
+
+16:36
+Så skal den altså komme tættere og tættere på den værdi. Alle fatter det.
+
+16:42
+Det jeg siger, det er så uanset hvilket epsilon jeg vælger mig.
+
+16:52
+Lad os sige at jeg vælger mig et lille tal Epson her.
+
+16:59
+Jeg afsætter det her. Så har jeg ligesom lavet mig en sluse hvor det a ender, og de skal ligge inden for slusen fra et bestemt tidspunkt.
+
+17:20
+Sådan er jeg. Jeg har her en, to, tre, fire, og her ud af der afsætter jeg så mine evner.
+
+17:30
+Jamen, så kan det være, at den første ligger her. Den anden ligger her.
+
+17:36
+Den tredje ligger her den fjerde, den femte, sjette, syvende og ottende osv.
+
+17:44
+Men fra et eller andet tidspunkt. K.
+
+17:55
+Hvad skal der så gælde at. Nu begynder de så allesammen at falde her inden for slusen.
+
+18:08
+Så er det er den måde man prøver at udtrykke det her rent formelt på.
+
+18:15
+Og ideen er altså at man siger for et værk.
+
+18:21
+Epsilon Fordi nu kunne I spørge mig. Jamen, nu kunne det jo være, at de tal de slet ikke går imod al for,
+
+18:30
+men at de hele tiden overskrider en eller anden form for grænse dér inde i slusen også.
+
+18:39
+Men hvad er problemet? Altså jeg kan sige Jamen, det gælder for ethvert epsilon.
+
+18:45
+Det vil altså sige uanset vold, hvor en lille en sluse jeg laver mig, så kan jeg finde sådan et kog.
+
+18:54
+Så jeg sørger for at A indånder de på et eller andet tidspunkt kommer her indenfor.
+
+19:00
+Og så kan det jo godt være, at det kog, der svarer til min nye sluse, dem ligger måske så herude.
+
+19:09
+Så ideen er altså uanset hvor lille jeg gør det her. Så kan jeg finde et eller andet cover her, så jeg får presset alle enderne ind i slusen.
+
+19:21
+For sammen definerer man sig som definerer man konvergent, og så i sådan nogle specielle tilfælde som dem vi har det ok, der gælder det om at få.
+
+19:33
+At få argumenterer for at der findes sådan et ko, uanset hvilket epsilon jeg har givet dem,
+
+19:39
+må jeg prøve at tænke igennem og så arbejde videre med de her ideer i de øvelser der.
+
+19:54
+Og det var så vil jeg lige sige at døren.
+
+20:04
+At så findes der også nogle rene regler for sådan nogle tal følger.
+
+20:11
+Nemlig at grænseværdien. For en talfølge der består af to tal.
+
+20:33
+Det er grænseværdien for den ene. Kluges grænseværdien for den anden.
+
+20:48
+Sit. Og grænseværdien.
+
+21:07
+For en konstant ganget med en talfølge. Den er konstant den gange.
+
+21:22
+Grænseværdien af. Talfølge en.
+
+21:36
+Så det vil jeg så sige havde jeg nu. B ende op som to over én, og jeg skulle finde grænseværdien for den.
+
+21:42
+Så var det altså nok, at jeg havde fundet en over Overeem, fordi jeg skal bare sige 1 over.
+
+21:48
+Den har jo grænseværdien nul. Og så har to over en grænseværdien to gange er nul lig med nul.
+
+21:57
+Og så endelig så har vi denne her måske mere overraskende.
+
+22:03
+At grænseværdien for et produkt. Den er grænseværdien af den ene.
+
+22:20
+Gange med grænseværdien af den anden.
+
+22:30
+Som vi ser så laver en ny talfølge ved at jeg siger ét gange med B et a 2 gange med B, 2 A, tre gange med B 3 osv.
+
+22:41
+Og jeg spørger Hvad er grænseværdien for den? Ja, så er det grænseværdien for A alene ganget med grænseværdien for Berliner YF.
+
+22:49
+Så læsernes? Men det gør jeg selv ved at blive inviteret til sådan noget, i hvert fald hvis man får det, kan man jo ikke bare rejse.
+
+23:02
+Det er et rigtig godt spørgsmål. Dette forudsætter, at. Altså at de har en grænseværdi.
+
+23:10
+Fordi altså når jeg siger dette, så har jeg altså forudsat at hver af dem har en grænseværdi, for du er altså du har fuldstændig ret i det du siger.
+
+23:25
+Lad os nu sige at jeg laver en enden af følget der hedder det M, som faktisk består af a m gange med b n.
+
+23:38
+Så i det her tilfælde vil der være en grænseværdi i Hjørring, fordi det vil være M.
+
+23:44
+Denne er m. Gange med den der, og de giver en, så i dette tilfælde vil den have en grænseværdi.
+
+23:54
+Men i andre tilfælde vil den ikke have. Så som tid har den, og somme tider har den ikke.
+
+24:02
+Det var en lille jeg vil sige nu. Det er det du skal gøre i i denne de opgaver du skal lave i dag.
+
+24:11
+For det afhænger helt af den, der altså er den talfølge, du arbejder med i øvelsen i dag.
+
+24:22
+Hvor hvor er den første af dem, du skal arbejde med? Det er den, der hedder bil.
+
+24:26
+Rækkefølgen 1 over 1. Og der bliver du først sagt hvis nu talfølge en eller slusen her.
+
+24:34
+Det skal være en tusindedel. Så skal du finde DK.
+
+24:39
+Altså det konkrete tal K, der passer til en tusindedel som dit epsilon.
+
+24:45
+Og så må du altså bare kigge på ulighed, der opstår og finde dig.
+
+25:03
+Vi skal have snakke om venstre summer. C.
+
+25:33
+Vi betragter en. Funktion F.
+
+25:43
+Som er defineret for et eller interval fra A til B.
+
+25:56
+Fremgangsmåden er nu den. At vi deler.
+
+26:07
+A til b e i en liter store stykker.
+
+26:27
+Og så siger vi de har længden.
+
+26:34
+Delta Ex som selvfølgelig er en forvandling kan.
+
+26:41
+Divideret med 1. Så i dette tilfælde har jeg altså delt den i fem lige store stykker.
+
+27:01
+Og så kan I se, så opstår der sex. Punkter som er interessante her.
+
+27:08
+Det første punkt, der giver jer navnet exit. X2.
+
+27:19
+Og så det sidste der det hedder så x N, så det svarer til, at jeg, hvis jeg kigger på det her som et dele interval.
+
+27:30
+Så har jeg altså valgt at benævne det venstre punkt i dele intervallet.
+
+27:36
+Så derfor har jeg ikke noget her hende, for det er jo højere punktet. Hvis man laver sådan en inddeling her, så lægger jeg op til en venstresving.
+
+27:50
+Og nu definerer jeg en venstre som. Og lad os kalde den for.
+
+28:16
+Ved en. Den er så hvor jeg tager funktionsdygtige i Flex et.
+
+28:30
+Og ganger med interval længden. Plus, så tager vi funktionens værdien i X2.
+
+28:52
+Og ganger med interval længden, og så fortsætter jeg sådan til f.
+
+29:00
+Ex. M. Gange med intervaltræning den.
+
+29:08
+Det er en venstre som jeg har lavet her, og den har vi en forkortet skrivemåde for.
+
+29:18
+Vi siger at det er summen for kog lige med ét til enden.
+
+29:24
+Hvor jeg har taget funktionens værdien i det korte.
+
+29:29
+Interval punkt og ganget det med intervaller længden.
+
+29:36
+Så det betyder altså, at det her som at jeg skal lægge alle dem her sammen, altså først indsætter kul i med en Corley med NATO osv.
+
+29:46
+Sådan at jeg netop får den række, vi har stillet her op.
+
+29:57
+Se biometrisk fortolkning af denne her venstresving.
+
+30:04
+C f, a, except da så er ganget med x2.
+
+30:10
+Svarer jo til det. Rektangel der ligger dér.
+
+30:21
+Og på samme måde med det andet led der ligger her. Det er højden gange med grundlinjen.
+
+30:30
+Så det er altså det der ligger dér. Og der kan vi altså se.
+
+30:46
+At den biometriske fortolkning. Der har vi så, at det er en rigtig tanker, der bliver lagt sammen.
+
+31:08
+Og så siger det jo nu sig selv, at hvis jeg lægger disse fem vægge, tænker rektangler sammen, altså er venstre sund.
+
+31:19
+Vi kan jo godt sige, at det der ligger her. Hele dette er jo netop min venstre, som ved en.
+
+31:30
+Og den vil selvfølgelig være en tilnærmelse til arealet under grafen.
+
+31:39
+Og da kan I sikkert godt se at hvor god den tilnærmelse er, det må afhænge af, hvor mange end jeg har.
+
+31:49
+Her da er tilnærmelsen jo ikke særlig god. Jeg kan se, at der er fejl og fejl og fejl, og det har fejl.
+
+31:56
+Og det at fejle. Men havde jeg nu gjort lavet endnu flere dele intervaller.
+
+32:05
+Så vil jeg jo haft noget der ser sådan her ud i stedet for.
+
+32:10
+Og hvor fejlene ville have været meget mindre, så derfor er vi jo interesserede i grænseværdien af disse.
+
+32:17
+Vi ender når en går i mod uendelig, fordi så må vi jo have noget der.
+
+32:24
+Kan defineres som arealet af det der ligger under kurven.
+
+32:28
+Her. Og derfor er det vigtigt at vi har en sætning, der sikrer, at det er tilfældet.
+
+32:37
+Og det er rigmands sætning. Der siger at hvis f er kontinuert.
+
+33:07
+Så har V end den grænseværdi.
+
+33:22
+Som skrives sådan her.
+
+33:37
+Hermed har vi altså fået indført det vi kalder for et integrale, altså integralet af EF fra A til B.
+
+33:47
+Og I ser altså at indtil grad er i virkeligheden en grænseværdi for en sund.
+
+33:58
+Det er et tegn der er her, det er som på gammel europæisk skriftsprog.
+
+34:05
+Et S. Og det her er også et es.
+
+34:11
+Så hvis man får et kig på de to symboler her, så har de altså rigtig, rigtig meget med hinanden at gøre.
+
+34:17
+Det er begge to s'er og det her. Det betyder i virkeligheden sådan en venstre som her, hvor der bare er lavet uendeligt mange inddelinger.
+
+34:29
+Så det er altså noget der også er værd at tænke godt igennem et integral er altså kort sagt en grænseværdi for en so.
+
+34:40
+Men så er vi jo parat til at udregne integralet af ikke, siger Anne.
+
+35:11
+Byen for at kunne lave det her. Denne vanskelige opgave, så er jeg nødt til at have nogle hjælpemidler, og først så har jeg en sång,
+
+35:23
+som jeg kender i forvejen, og som jeg altså nu bare introducerer føjer.
+
+35:42
+Altså summen fra. Fra kog lige med en til kåd lige med en.
+
+35:59
+Så hvad er det egentlig der står her? Det er altså, at vi skal sætte tallene i anden.
+
+36:05
+Og vi skal altså gå fra én og til én. Så det vil altså sige det er lig med nul plus en plus fire plus ni plus 25 osv.
+
+36:22
+Altså hvis jeg lægger alle de kvadratalen sammen op til ende, så har man altså følgende form.
+
+36:31
+At det er end minus en. Gange med M.
+
+36:39
+Otte gange med to end minus én. Sjettedele.
+
+36:49
+Så det er sådan en en sætning fra et matić, som jeg altså bare smider i hovedet på jer her.
+
+36:55
+Den får jeg nemlig brug for. Og så prøver vi lige at tegne grafen for den funktion vi betragter.
+
+37:17
+Vækst i hjernen fra nul til en. Og jeg deler intervallet fra nul til en.
+
+37:35
+Det. Endelig er store stykker af.
+
+37:46
+Som jeg kalder for. Delta ex.
+
+37:52
+Og de må jo så tydeligvis være en endt del.
+
+37:57
+Hver. Og det her jeg har gjort her, er jeg, siger det første fort her, fordi det er en venstre zone.
+
+38:11
+Jeg er ude efter at lave. Det kalder jeg for exit.
+
+38:20
+X2 og så videre. Og så lad os lige få at se hvad vi får ud af dem.
+
+38:28
+Exit Det må jo så være nul. X2.
+
+38:38
+Den er så en del. X3 der ligger bare en intet dele til.
+
+38:46
+Det vil sige at det er to over en. Og det vil så sige, at hvis jeg tager den korte lede.
+
+38:59
+Så er det på minus 1 divideret med 1. Nu er jeg parat til at lave min venstre som.
+
+39:25
+Som jo er. Kog lige mad ind til EM.
+
+39:32
+Søn af køn. Funktionens værdien af F i Egeskov.
+
+39:42
+Og så gange med Delta Ex.
+
+39:48
+Så nu har jeg jo i det her tilfælde udregnet, hvad de her eks kobber værdier er.
+
+39:56
+Så det er summen for K lige med ét til én af f af K.
+
+40:05
+Minus ét. Over en. Og mit delta ex det var en ændret del.
+
+40:22
+Og vi regner videre. F.
+
+40:26
+Det var jo den funktion der hedder i anden. Så enhver el-Sisi.
+
+40:32
+Det er. Så for at have det her, altså Vitara bryggen her.
+
+40:48
+Jamen det er jo tælleren i anden over nævneren hjernen.
+
+40:56
+Og så er det skal de stadigvæk scannes med en embedded.
+
+41:06
+Så kan I se. Nu har jeg en række led her.
+
+41:10
+Jeg har en lede. De bliver alle sammen divideret med inde i anden gange med én.
+
+41:16
+Det vil jeg så sige, at de bliver alle sammen divideret med én over én i tredje.
+
+41:21
+Så 1 år inde i tredje kan jeg sætte uden for sundtolden ned.
+
+41:35
+Og så har vi altså K minus et i anden.
+
+41:44
+Og det er så ind over end i et tredje. Og hov.
+
+41:51
+Her opstod jo lige præcis den som her, som jeg har brug for.
+
+41:58
+Det vil sige, at jeg har et konkret udtryk for den sum, der står her.
+
+42:02
+Hendes far tidligere har et matić. Så her siger vi altså end minus en.
+
+42:16
+Og så er det vist nok gange med en. Og så er det ganget med 2 end minus 1.
+
+42:26
+Over en tiendedel. Nu sætter jeg en sjettedel hen som faktor foran de andre.
+
+42:39
+I tredje dør, der tager jeg et af disse ender og her for kort og væk med det, der står deroppe.
+
+42:45
+Så har jeg endelig anden at gøre godt med. Så her får vi altså end minus 1 divideret med M.
+
+42:55
+Og så får vi altså to 1 minus 1 divideret med 1.
+
+43:05
+Og jeg behøver ikke parenteser. Nu har jeg så fået opstillet en venstre sång, og jeg har udregnet, hvad den skal være.
+
+43:19
+Og nu skal vi så til at snakke om grænseværdier. Jeg ved, at den skal have en grænseværdi for sige andet.
+
+43:27
+Det er nemlig en kontinuert funktion. Så spørgsmålet er nu hvad grænseværdien rent konkret er.
+
+43:40
+Så lad os kigge på grænseværdien for de her summer.
+
+43:56
+Det er grænseværdien at en sjettedel gange med end minus 1 over en.
+
+44:05
+Gange med 2 end minus 1 over en.
+
+44:14
+Når jeg nu skal udregne denne her grænseværdi, så har jeg jo heldigvis de regneregler vi snakkede om før.
+
+44:24
+Altså indgår da en konstant i et tal følgende.
+
+44:28
+Så kan jeg sætte konstanten uden foran. Så der har jeg altså en sjettedel.
+
+44:40
+Dér har jeg et produkt. Af to talfølge kigger jeg på grænseværdien.
+
+44:47
+Så kan jeg tage dem hver for sig. Så har vi lige.
+
+44:55
+Af. Endelig new en debateret med igen og så ganget med legen.
+
+45:05
+2 end minus 1 divideret med 1. Og så har vi altså en tiendedel.
+
+45:20
+Og nu skal vi altså betragte grænseværdien for den talfølge, der hedder 1 minus 1 end minus 1 divideret med 1.
+
+45:30
+Da vil jeg bruge den samme metode, som der blev foreslået dernede på tredje række før, at det her deler vi op i 1 minus 1 endte det.
+
+45:40
+Fordi en entitet. Den går ind i nemlig imod nul, og så er der kun én tilbage.
+
+45:49
+Og så det konkrete eksempel du besvarede. Det var grænseværdien for denne, fordi der divideret du også op,
+
+45:55
+og så sagde du Det her er lige med 2 minus 1 ante del og i og med en ændret del går imod nul.
+
+46:02
+Så har vi to tallet tilbage. Så det er altså to sjettedele.
+
+46:10
+Og så har vi altså en tredjedel. Der har vi grænseværdien for venstre summen, og hermed har vi altså svaret på det interessante spørgsmål.
+
+46:22
+Vi har fået udregnet det her integral.
+
+46:42
+Skal vi se hvor langt vi er nået på dagsordenen.
+
+46:49
+Vi er nået til differentialregning, integralregning, fundamentale sætning I kender lidt til det i forvejen,
+
+46:57
+men nu kan I se hvor dybt den egentlig er for det den siger det er.
+
+47:30
+Den siger hvis f er kontinuert.
+
+47:38
+Så gælder følgende at integralet fra a til b, a, f, ex.
+
+47:48
+Ex. Det vil altså sige grænseværdien for venstre summen kan udregnes på denne her måde.
+
+47:59
+Store f. Eks. Mellem A og B og det er store f af B ligner store f.
+
+48:10
+A. Hvor Store F er en vilkårlig.
+
+48:25
+Stamm funktion. Til F.
+
+48:38
+Og så ved vi godt at stamform aktion betyder jo, at vi siger, at den afledede er store eff, at det er lille et.
+
+48:56
+Så vi har brug for en en eller anden stamme funktion til lille for urin.
+
+49:02
+Det integral, som vi er i gang med her. Så skal vi afprøve den sætning her.
+
+49:12
+Se om den sætning sandsynliggør, at den er sand.
+
+49:20
+Så lad os stille os selv den opgave, at vi vil udregne dette integrale her.
+
+49:28
+For det ved vi jo, hvad det skal blive. Det har vi udregnet. Det skal blive en tredjedel, så det er jo givet på forhånd.
+
+49:36
+Det, vi nu gør, er, at vi tjekker. Om den fundamentale sætningen om den stemmer i dette eksempel.
+
+49:49
+Ja tak. Fra 0 til 1 har.
+
+49:57
+CD'er. Først vil gøre, er at jeg finder samtlige stam funktioner.
+
+50:13
+Til F. Og det ved vi godt.
+
+50:19
+Den er en tredjedel ex i et tredje plus en vilkårlig konstant.
+
+50:27
+Så her har jeg alle samme funktioner stående. Det ved vi fra gymnasiet.
+
+50:38
+Her står der, at jeg kan vælge en vilkårlig af dem.
+
+50:42
+Når jeg nu skal udregne integralet, så vil jeg sige integralet fra nul til et jeg sige.
+
+50:51
+DX. Det skulle altså være en vilkårlig stamme funktion, og nu vælger jeg den stamform zone, hvor konstanten er nul.
+
+51:05
+Jeg kunne også have valgt den vej konstanten. Den er en, for resultatet vil blive det samme.
+
+51:11
+Så hvorfor ikke tage den nemmeste? Og så skal vi altså først indsætte tallet et, så får vi en tredjedel ind, sætter tallet nul.
+
+51:28
+Og så får vi heldigvis et rigtigt resultat, når vi bruger fundamentalt sætningen som det vi vidste i forvejen.
+
+51:36
+Bag det rigtige integral. Det var okay. Pause.

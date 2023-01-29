@@ -1,0 +1,989 @@
+0:09
+Fredag morgen. Og ja.
+
+0:21
+Programmet i dag programmet i dag er.
+
+0:29
+På sin vis lidt afslappet fordi vi skal. Vi skal fortsætte, hvor vi slap sidst, og der er ikke nogle nye ting.
+
+0:36
+Vi skal bare lige lege med symmetri.
+
+0:40
+Så vi skal prøve at undersøge det nærmere, hvad man kan, og hvordan man kan beskrive disse matricer, som vi ved, Diego realiserede sidst.
+
+0:53
+Så der kommer ikke noget nyt som sådan. Der kommer det samme.
+
+0:58
+Måske i en lidt anden forklædning. Så den Dolly.
+
+1:05
+Eller hvad man siger. Så lad os se gang.
+
+1:12
+Altså jeg ville lige starte med fem minutter om ortogonale komplement.
+
+1:27
+Og det er bare. På. For lige at realisere hvad det var.
+
+1:32
+Og så er det ellers sjov med symmetriske matricer. Og det er det måske i virkeligheden handler mest om er, at vi vil kigge på.
+
+1:53
+Specielt I er to og. Der er tre hvor vi vil kigge på udregninger.
+
+2:03
+Og rotationer. Fordi det er sådan set det der er hele pointen.
+
+2:13
+Og så skal vi være klar over, at der er et møbel med kabelbaner.
+
+2:18
+Så vi skal sørge for at åbne som det første, fordi der er en hel masse af disse ting,
+
+2:23
+som er i virkelig banale udregninger med de godt, være meget store og tager lang tid.
+
+2:30
+Så for at man kommer til at synes, at det er lidt interessant, så er det godt at gøre det med Mabel så afklædt.
+
+2:38
+Så lad os lige se en gang ortogonale komplement. Så lad os nu se en gang, at vi har en vandmængde ude.
+
+2:50
+Som ligger inde i er i vente, og så definerede vi det som hedder ortogonale komplement til den mængde.
+
+2:58
+Hvad var det nu det var? Og det var alle de lektorer eks.
+
+3:03
+De er hjemme. Som stod vinkelrette på U.
+
+3:08
+Det vil altså sige hvor X prikkede med et eller andet lille ord gav noget, og så var det for alle ovre i den mængde.
+
+3:19
+Vi havde fat i u der. Og der indførte jeg det her for alle bare så har I set den og også.
+
+3:28
+Og. Det spøjse ved dette her er, at ligegyldigt hvad du er for en fisk, så vil du vinkelrette vel altid været under år.
+
+3:45
+Forstået på den måde, at hvis man har to vektorer, der står vinkelret på et U,
+
+3:50
+så vil deres sorg og alle andre kombinationer af dem i øvrigt også stå ved på beretning.
+
+3:55
+Dog viser en lille detalje som er interessant er, at hvis nu.
+
+4:04
+Hvis nu mængden U selv. Er du underrum?
+
+4:16
+Hvad gælder så? Ja. Så gælder.
+
+4:25
+At hvis man tager dimensionen for U. Fralægger sammen.
+
+4:32
+Ved dimensionen af ortogonale koblet med intet. Så får man det hele, og det er sjov med det hele, det er en.
+
+4:42
+Og det kunne vi godt lave et lille bitte. En lille bitte tegning af et fordi vi gjorde det.
+
+4:50
+Og sidst men altså hvis nu, hvis nu vi er her i. Er to eller det er planen beklagende vektorer det er jo fuldstændig ens.
+
+5:02
+Så et underrum. Det er jo så en ret linje. Eller et ægte underrum af den enkelte ret linje,
+
+5:09
+der indeholder noget det tegner sådan her når vi tegner det som stedet vektorer, så vil ortogonale komplement.
+
+5:16
+Hvad er alt det der? Hvilket var på? Så det er denne her. Var det linje.
+
+5:22
+Så vinkel skal selvfølgelig være ret og. Der kan man så se logikken i det her, ikke fordi.
+
+5:30
+Det er sjovt med den pludselige, men sjov med den. Tilsammen giver det hele de disse to rum.
+
+5:35
+De udspænder hele er to. Så det er egentlig godt at vide.
+
+5:43
+Så var der så så noget med, hvis nu man.
+
+5:50
+Hvis nu man havde nogle væk to ord. Hvis nu man for eksempel havde en mængde, hvis nu for eksempel var givet som.
+
+6:02
+Smagen af to vektorer a. Og B.
+
+6:10
+Så leger altså heraf abberline at uafhængige vektorer, så u det så nu for et spand, så et underrum salt dækker også.
+
+6:19
+Hvordan finder man så? Hvordan finder man så ud vinkelrette?
+
+6:24
+Det gjorde vi faktisk ved et eksempel. Fordi vi sagde Okay, vi skal finde de vektorer x, hvoraf prikket med x er 0, og hvor b prikkende x er nul.
+
+6:42
+Så det her er de ligning systemer, som vi skal løse.
+
+6:48
+Og hvis man løser dem. Og skriver løsningerne op, altså skriver sine æg sig op på standard parameter, for så får man vinkelrette.
+
+6:59
+Og det er der ikke så mange ben i. Og ud fra den der standard parameter form kan man lave en basis bagkæde.
+
+7:07
+Så var der måske noget der som. Et et specielt tilfælde, hvor det er lidt simpelt.
+
+7:17
+For hvis vi nu. Hvis vi nu er i.
+
+7:23
+I er tre. Og.
+
+7:29
+Vores, men vi igen er sådan et Spanien. Af to vektorer.
+
+7:37
+Og hvis man skal finde. Uværgeligt. Lad os så lige se på det.
+
+7:46
+Hvis vi er i er tre og vi leger af A og B er to lineært uafhængige vektorer.
+
+7:53
+Så det er sjovt at det er under to. Og så er ortogonale komplement.
+
+8:00
+Det må så have det sjovt. En gyser den.
+
+8:04
+Og spørgsmålet er, om der er en lidt hurtigere måde at finde en basis for at kunne komplement end at gå i gang med at løse de ligninger.
+
+8:14
+Ja, fordi. Jeg kan jo bare gøre sådan.
+
+8:22
+Klasse. Jeg tager krydsproduktet mellem A og B. Så får jeg en vægter, som helt sikkert står vinkelret på både A og B pct.
+
+8:32
+Og den kan bruges som basis for ortogonale Humble mærket.
+
+8:36
+Kridtede. Så. Så vi kan i virkeligheden sige at ortogonale kom blev malet.
+
+8:46
+Deres bane. Er den vektor der står der.
+
+8:51
+Der er en lille femte, men det kan man jo i sagens natur kun gøre i tre, fordi det er der, vi har krydsproduktet.
+
+9:00
+Ağca. Går det var sådan set hvad jeg ville sige om.
+
+9:06
+Ortogonale komplementere. Så. Så lad os.
+
+9:13
+Lad os lige gentage det som vi fandt ud af sidst med symmetriske matricer.
+
+9:20
+Så. Kan du lade A. Lade være.
+
+9:28
+En symmetrisk. Engang af en matrix.
+
+9:39
+Hvad kan vi så sige om den? Der er.
+
+9:45
+Har. A. Lille end lineært uafhængige.
+
+9:56
+Arjen lektorer. Så der er en lineært i egen vektorer.
+
+10:08
+Den kan vi kalde vi et. Vi tog op til.
+
+10:14
+Ved en. Okay. Gjort ingenting.
+
+10:22
+Hvad kunne vi sige om dette egen vektorer? Når.
+
+10:29
+Ja. Der har jeg sendt en mail om, at det er fuldstændig rigtigt, men det er bare at gå ind i 43 og sige de skal gå ind i 41.
+
+10:47
+Kan det græske lufthavnen der inden. Og så skal vi slukke for lyden i.
+
+10:54
+I 43 det 43. Du skal bruge ikke hvad det vil sige slukke for lyden i 43 år.
+
+11:00
+Nu kan jeg huske hver fredag med 43. Det finder vi ud af.
+
+11:09
+Vi får ministerbesøg så. Når.
+
+11:15
+Det vil være så laver vi en hel masse larm og med. Hvis vi ser med næste år, så begynder vi at vi træner Allan eller en sjofel ko.
+
+11:25
+Sig nej, hold nu op og. Og når jeg var ved at fortælle kom at disse vektorer.
+
+11:39
+Se det er sådan at de egenvægt vektorer. Der hører til forskellige egenværdier.
+
+11:45
+De står vinkelret på hinanden, så egen vektorer eller ved eget vektorer.
+
+11:54
+Kørerne til forskellige. Forskellige egenværdier.
+
+12:11
+Er I indbyrdes overfor eller. Afgav.
+
+12:25
+Hvad de allesammen ligner, er du afhængig. Det kan du være helt sikker på. Ja, jeg beklager meget.
+
+12:31
+Blev I smidt ud? Men der er masser af plads inde ved siden af jeg.
+
+12:37
+Fadøllen er altid gratis. Nu kan i egen hørelse forskellige egne, ja da indbyrdes også banale.
+
+12:48
+Og. Hvad kan vi så gøre? Ağca.
+
+12:54
+De egen vektorer der ikke nødvendigvis det, kan vi skrive op her egne vektorer.
+
+13:06
+Eine vektorerne. Når Meyers.
+
+13:14
+Hegn i sort kan når eller skrive sådan her. Kan.
+
+13:19
+Når mere. Og så. Eventuelt bruges.
+
+13:28
+Graeme Smith. På.
+
+13:37
+På egen vektorer. I egen røv.
+
+13:49
+Med. Dimension. Større end eller lig med to.
+
+13:57
+Det vil sige vi ved jo ved snude ved snude, jeg har et egenværdi, der er tredobbelt egenværdi.
+
+14:02
+Så ved jeg, der kommer tre linjer. Jeg vektorer ud. De slår bare ikke nødvendigvis vinkelret på hinanden.
+
+14:08
+Så kører jeg grahamsmel på dem. Så får jeg et sæt, som er normeret, og hvor de står indbyrdes vinkelret på hinanden.
+
+14:16
+Og så er jeg for, og når jeg alle de andre, så har jeg et sæt.
+
+14:20
+Så har jeg et orso normalt sæt. Derved.
+
+14:27
+Fås. Den. Overtog jeg, og vi har indført betegnelsen en om.
+
+14:35
+Orso nummer El Basses. For. Er det.
+
+14:43
+Afgav. Så kan vi kalde.
+
+14:50
+Kaldet. Overtog normalt basen. Den kan vi kalde for den kan vi kalde for Basis Co.
+
+15:00
+Og den hedder altså ko et. KO to op til.
+
+15:05
+Q en. Og det betyder altså at disse vektorer.
+
+15:12
+De eneste vektorer, og de står alle sammen vinkelrette på hinanden og.
+
+15:19
+Da er denne matrix som vi kalder Q.
+
+15:24
+Som består bare vi. Skriver. Vektorerne.
+
+15:31
+Som søjler. Er.
+
+15:37
+Så dette en ortogonale matrix. Og.
+
+15:51
+Hvis vi så gerne vil bruge den til noget,
+
+15:54
+så plejer vi lige at sørge for at den er positiv ortogonale for enten den positive ortogonale eller også den negative ortogonale.
+
+16:00
+Hvis den er negativ ortogonale, skal vi bare sørge for at bytte rundt på to af søjlerne.
+
+16:10
+Og kan i det sådan over New Normal Matrix. Og der gælder.
+
+16:22
+At hvis jeg tager vores. Matrix A og Garden med Q fra højre og kus inverse, som bare er den transponerede, fordi den ortogonale matrix.
+
+16:36
+Så får jeg. Ud af det. En diagonal matrix.
+
+16:41
+Hvor. Diagonalt matricen. Det er simpelthen bare den hvor der har ejet værdierne.
+
+16:50
+Stående i diagonaler. Og.
+
+16:59
+Den sætning der siger at man kan gøre det her, det er sådan vi kalder spektral sætningen.
+
+17:14
+Sådan. Se.
+
+17:21
+Den kan man jo bruge den kan man jo i virkeligheden bruge den anden vej.
+
+17:26
+Fordi. Hvis jeg nu tager. Hvis vi nu tager denne her identitet er.
+
+17:35
+Og så skal jeg lige hen på. Den næste tavle her.
+
+17:47
+Fordi så kan jeg jo bare i den identitet gange.
+
+17:53
+Med K transponerede fra højre og q fra venstre.
+
+17:57
+Så vil der stå at A er lig med.
+
+18:01
+Og så er det det, der vil blive pakket ind. Med et ko transponeret.
+
+18:06
+Fra dansk side og et kup. Fra den anden side, så har vi fundet.
+
+18:14
+Og læg mærke til. At hvis man har skrevet en matrix A på denne måde.
+
+18:21
+Så kan man i know matricen aflæse hvad dens egen vektorer er.
+
+18:27
+Og i det matricen aflæsse hvad dens egenværdier er Kesser det så dette kunne vi jo bruge som puslespillet byggeklodser til at lave matrix.
+
+18:41
+Så. Lad os prøve at lave et lille eksempel. For hvis jeg nu laver vi selv nu laver to vektorer.
+
+18:58
+Lad os sige la k et være en vægter, så den kunne så hedde en over kvadratrod, tåge og inde over kvadratrod to.
+
+19:08
+Så skal jeg så have et eneste vektor der står vinkelret på den.
+
+19:13
+Der tager jeg bare gøre sådan her. Der tog jeg lige den sværvægter.
+
+19:22
+Det. Så nu farcen to vektorer der enes vektorer står vinkelret på hinanden.
+
+19:29
+Lad os nu sige, at vi vil lave en matrix, der har de to som egne vektorer.
+
+19:34
+Det vil sige Arjen Robben, det ene Arjen Robben udspændt af Dante det andet.
+
+19:39
+Arjen Robben udspændte Dante, og så skal vi bare give den af vejen, vurderer. Så.
+
+19:45
+Konstruere. Lav en matrix af.
+
+19:52
+Med. K, S og.
+
+19:57
+Quito. Så megen vektorer.
+
+20:04
+Og. Så kan guiden okay med det.
+
+20:07
+Jeg skal ikke sidde to og fire. Og så er det bare hvad hører til hvad?
+
+20:22
+Lad os nu siger to hører til Cuvée. Ét og fire hører til Culto og af.
+
+20:27
+Hvordan skal sådan en matrix se ud? Vi ved præcis hvordan den skal se ud, for de kommer trissende den der står der, der skal kunne st.
+
+20:36
+Først. Og så skal Couto stå her.
+
+20:46
+Og så skal jeg have min diagonal matrix. Og hvad var det noget to skulle høre til den første torsdag først?
+
+20:55
+Sådan der. Og så skal jeg have den inverse debatten om det bare den transponerede.
+
+21:01
+Så ser jeg. Det er en af to en af to Venus, en der tog.
+
+21:09
+Og en af sover. Der står matricen og.
+
+21:15
+Lige nu synes jeg egentlig bare vi skal prøve at regne det ud, fordi. Det er jo sådan set til at have med at gøre.
+
+21:21
+Jeg beholder lige, den gør jeg ikke noget ved lige nu. Lige så ganger de to først.
+
+21:31
+De to bag stod først. Sådan er.
+
+21:36
+Og så skal jeg sige to gange denne gang. Det var de to år, der deltog.
+
+21:42
+Og så skal vi dengang være på plads. Dengang var skiture og kødretter.
+
+21:46
+Her. Og så skal jeg se den gang plus denne gang, og det må være minus fire.
+
+21:53
+Over drabet tog dengang den dengang den det var være fire år over hvad der sorg.
+
+22:00
+Hold kæft hvor det kører. Så er jeg sikker på, at vi kan finde ud af at lave vores vores frisør.
+
+22:09
+Der skal jeg sige. Gang bad. Plus dengang det.
+
+22:15
+Dengang. Det giver to over to og det giver en.
+
+22:20
+Og så den gang. Det giver plus fire over to.
+
+22:25
+Det er to 1+2. Det tre. Og orkestret kører den eliteuniversitet jeg kan mærke.
+
+22:34
+Ja. Dengang, men det giver to år, overtog B 1 og den over dem det giver minus fire overtog den flotte 1 minus to.
+
+22:47
+Det minus en. Er det ikke et.
+
+22:52
+Så kunne jeg regne denne ned ud med hvad nu er ved at være. Den er symmetrisk når jeg.
+
+23:00
+Det kører jo bare. Dengang den 2 tog over to dage en klods den over den.
+
+23:09
+Det er to 1+2 D3, så den blev meget asymmetrisk at se.
+
+23:17
+Men der har vi. Det. Så det er vores matrix.
+
+23:24
+Så er det jo at vi måske lige skulle. Prøv at kigge på hvad det er der foregår i det her eksempel.
+
+23:34
+For det. I virkeligheden er det jo denne matrix vi kigger på.
+
+23:41
+Det her er den lineære afbildning, sådan som den er matricen for den lineære afbildning, sådan som den ser ud.
+
+23:50
+Med hensyn til standard basen kan det. Hvad er det så der sker her?
+
+23:56
+Når. Det er i virkeligheden et Basses skift, så eller rettere sagt basse skiftet er det der foregår her hen med.
+
+24:04
+Lad os prøve at prøve at se, hvad det er der sker så. Hvis nu jeg lige.
+
+24:10
+Gøre sådan her. Så lad os se gang.
+
+24:13
+Her ligger i ligevægt som vores første standard basis vækster.
+
+24:19
+Her ligger i øjet vægteren med anstand, der er basis værktøj.
+
+24:24
+Så skifter vi koordinater. Første søjle i Q.
+
+24:29
+Det er den, der bliver den nye første Basix værktøj.
+
+24:35
+Og hvor ligger den med den halve længde en, så den må ligge på?
+
+24:40
+Et eller andet sted her på en dag sidder man der, og så hedder den ene af drabet på en af Panopto.
+
+24:47
+Det er lige præcis dem, der ligger her. For dette.
+
+24:54
+Altså ko et. Og eftersom Q2 såvel på den.
+
+24:58
+Så er det dem der ligger der. Sådan.
+
+25:04
+Det er så. Det nye koordinatsystem der ligger her.
+
+25:08
+Dette er det nye basis for ordet ortogonale positivt ortogonale.
+
+25:14
+Det betyder bare at man ligger til højre, men lidt derfra dertil løber til højre.
+
+25:19
+Hvis den en eller anden grund hvor negative ortogonale, så betød det bare at Q2 lå den forkerte vej.
+
+25:29
+Lad os prøve at se hvad er det så vores Matrix A her i virkeligheden gør?
+
+25:36
+Og det der er dens egen vektorer og egen vægteren. I denne ret eller ej.
+
+25:42
+Værdien i denne retning var to. Og eje værdien i denne retning var fire.
+
+25:51
+Kan vi udnytte det? Det kan vi egentlig gøre, ikke for vi jeg nu. Hvis vi nu tager en eller anden vægtere her.
+
+25:58
+Denne væk den kan vi kalde ex. Så kunne jeg se hvad sker der med den vægt så når jeg nu putter den ene af?
+
+26:13
+Jamen. Uha, det er svært. Det ser sådan her ud, men.
+
+26:21
+Jeg kan jo forklare hvad den gøre, men jeg kigger på egen vektorerne, fordi lige have noget.
+
+26:29
+Noget pædagogisk krig. Der er noget med rød er okay.
+
+26:39
+Så hvis vi nu tager. Dette er dette eget rum med hønse egne, idet en so der kan prøve preussere vores vægge for eksempel, så vil det stykke.
+
+26:53
+Da vores vækster x, der producerer inden på den måde det bliver garnet veje med en to, dvs.
+
+27:01
+Et billede lægger bær. Sådan der.
+
+27:07
+Og det andet øjendråber det ligger her. Der kan vi også producere den en.
+
+27:15
+Sandager, der ligger den anden Campushalle. Læg mærke til at kunne et af kunne to er basis for er to.
+
+27:24
+Det vil sige at jeg kan opløse vægteren x efter kunne et og kunne to, så har den de to Campushalle dig.
+
+27:31
+Okay. Og det kan jeg altid gøre fordi folk symmetrisk matrix der laver disse vektorer jo en basis.
+
+27:40
+Okay, hvad sker der med den derhjemme? Den ligger så i egne ord med høns og egenværdi 1 4, så den bliver ganget med fire, en, to, tre, fire.
+
+27:50
+Lad os gå. Der ligger billeder af den. Og hvor ligger så billedet af eks.
+
+27:57
+Jamen det så så med det tog, så den ligger. Det og hvad?
+
+28:06
+Påklædt så. Der op. Ligger f.
+
+28:12
+Eks. Grunden til at vi kan se det her. Det er jo fordi jeg har tegnet egen vektorerne.
+
+28:18
+Hvis vi nu ikke havde det billede, så ville vi bare se, at vægteren eks.
+
+28:22
+Den var røget herind og var blevet garnet med et eller andet, som vi ikke lige kan se.
+
+28:26
+Men den er altså blevet ganget med to i den retning og fire i den retning. Og så lander den der.
+
+28:32
+Det er præcis det der sker, og det er det som de skal man sige, det er jo det jo det samme, der står her.
+
+28:41
+Men altså er det, som Q og B fortæller os. Kan I se det?
+
+28:45
+Så når I har den information, så har I alt information om jeres matricer.
+
+28:51
+Det er ret fedt. Ja, jamen okay.
+
+28:59
+Så lad os prøve en gang. Så lad os prøve at forfølge dette.
+
+29:08
+Fordi. Hvad var det egentlig der skete med vores koordinatsystem?
+
+29:15
+Vores i j koordinatsystem det blev vejet op til et koordinatsystem, der hedder Kouyate Couto pct.
+
+29:23
+Det er bare en drejning. Og.
+
+29:30
+Der er jo i en eller anden vinkel her. Så den vinkel kunne vi jo eventuelt kalde U.
+
+29:39
+Og hvis jeg nu. Vi prøver at lave tegningen igen, bare sådan.
+
+29:45
+Og ellers er. Så her har vi nu. Vores værktøj.
+
+29:51
+Q i dag. Dette enhedscirklen. Jamen.
+
+29:57
+Hvis denne vinkel hedder U. Hvad så koordinaterne til den vægter?
+
+30:03
+Kunne et. Jamen så hedder kunne et jo. Costners O.
+
+30:10
+Kommerciel so blessed. Fordi dette er det jo et retnings punkt pointe cirklen og punkterne på enhedscirklen hedder Costas kommercielle CEO.
+
+30:19
+Når den vinkel bliver drejet ud. Kan det altid lade sig gøre at skrive den på den måde?
+
+30:26
+Ja, fordi. Det her er jo en ene svigter den anden bestande af med en.
+
+30:35
+Det. Hvad er CO2 sørge for en? CO2 jamen det er jo blandt deres sværvægtere.
+
+30:45
+Denne hedder minus sinus til U. Kom kost og støv.
+
+30:53
+Det vil sige at. Alle positivt ortogonale matricer.
+
+31:03
+En positiv. Overtog. En matrix.
+
+31:11
+Den skal så være 2 gange, 2 kan altid skrives.
+
+31:22
+Som ko ned 9 vade og helvede. Kaster sig over.
+
+31:29
+Single So. Og så Venus. Senere slog.
+
+31:36
+Kommer kost og sukker. Og. Den fortæller bare hvad der er sket.
+
+31:42
+Altså hvad er det ved skift af koordinater, vi har lavet? Det er bare en drejning af koordinatsystemet.
+
+31:49
+Og det er en drejning. Men den vil inkludere hvor vi sørger for at der skal være en eller anden vinkel som lægger fra, mener Stig.
+
+32:01
+Til. Det er vores spilleregler. Og fordi denne matrix er positive over Superman dengang den minus dengang den Korsørs hjerne.
+
+32:13
+Du Signes hjerne det pludselig så bevarer. Den omløb forretningen da vil se i det nye koordinatsystem, som jeg har tegnet, som jeg også kan tegne her.
+
+32:28
+Der går man til højre når man går fra Kuwait til Q2. Hvis den var negativ så banal, så ville man finde opløbsstrækningen.
+
+32:38
+Så sådan en matrix af ortogonale matrix. Kan alt skrives på denne måde, og det er en drejning som matrix.
+
+32:51
+Jeg større mand til drengene er. Blegning.
+
+32:57
+Og hører. Så og hjem.
+
+33:09
+Det skulle da egentlig meget sjovt. Ikke fordi så kan vi forklare, hvad det er.
+
+33:14
+Hvad det er der foregår. Hvad med vores?
+
+33:21
+Vores Matrix A gøre? Den drejer koordinatsystemet op til kobjælder kunne.
+
+33:29
+Så tager den vægteren eks og ganger dem det kun på Xander, som ligger i koma eller 2's retning med egne.
+
+33:39
+Og så drejer det hele tilbage igen. Og så lander vægteren der på den måde som vi havde fat i før.
+
+33:51
+Så det er jo helt fantastisk. Kan man.
+
+33:57
+Kan man udvide det her? Ja, det kan man godt. For det.
+
+34:02
+Hvis vi nu. Hvis vi nu er i tre. Så bliver det sådan lidt tricky.
+
+34:16
+For er det der sker når vi laver det her nummer tre, er igen, at man drejer koordinatsystemet.
+
+34:24
+Men det er jo svært at beskrive sådan en drejning. Fordi den bliver brede i alle mulige retninger.
+
+34:32
+Det er stadigvæk et hvad skal et vinkelrette koordinatsystem, men det bliver drejet i alle mulige, altså svært at beskrive, hvordan det bliver drejet.
+
+34:40
+Så har man en der har man en en smart notation for det, indførte man det, der hedder rotations matricer.
+
+34:56
+Rotations matricer. Og.
+
+35:01
+Det første man gøre det er at man ser okay. Hvis vi nu holder.
+
+35:08
+Hold og ekskorteret nallerne fast og kun hvor til et nyt sæt planned.
+
+35:16
+Så det er en rotation. Omkring.
+
+35:27
+Ja, og så er der sådan lige det med hvad det her er, bare for at kalde tingene det, som vi plejer.
+
+35:32
+Prøv at se her, hvis det er det vores koordinatsystem. Så kunne det her være vores eksakte.
+
+35:38
+Det er her, det kunne være vores y akse og det her. Det kunne være vores akse sådan, at det her er et højere koordinatsystem.
+
+35:46
+Du kan ikke.
+
+35:48
+Det jeg nu gøre, da jeg skriver Matrix' og som laver en rotation rundt om ikke saksen til den, ændrer ikke på eksklaver signalerne, men den roterer.
+
+36:01
+En eller anden vinkel. A omkring.
+
+36:06
+Ikke saksen. Men hver enkelt uge.
+
+36:14
+Hvordan ser sådan en ud? Ja, vi kalder den er eks. Og.
+
+36:19
+Måske. Skulle man skrive er U. Fordi den afhænger af U.
+
+36:25
+Og. Det må gøre det, siger AaB på ikke saksen, der svarer til den første koordinat, man har her.
+
+36:34
+Der sker der ikke noget. Men.
+
+36:40
+På sæt. I y z aksen sker der præcis det.
+
+36:46
+Som vi lavede det op fordi man kan jo i virkeligheden bare lege man kan lege.
+
+36:51
+Dem der går til højre ad y aksen, og dem der godt og ophedede sætter aksen og så ikke saksen, stritter lige ud af tavlen,
+
+36:59
+og det vil sige, så kan jeg sætte en matrix hernede, der gør det, som vi havde færdige ideer op.
+
+37:04
+Nemlig den matrix der. Så her står der korsets.
+
+37:10
+Senere slog. Venus senere slog.
+
+37:16
+Og og sus. Det er en rotation omkring ikke saksen, men vinkel u.
+
+37:24
+Så kan vi lave. Omkring.
+
+37:31
+Byer Aase. Men anvendelig.
+
+37:36
+Og den kunne så hedde Ve den matrix vi så har fat i.
+
+37:40
+Denne hedder så er en. V.
+
+37:46
+Og. Der skal vi sørge for at den bliver positiv ortogonale. Så det må man gøre det man ser.
+
+37:52
+Okay, vi anbringer det her, hvor øllet er det lige med den.
+
+37:59
+Og her skal der så Stockhausens over. Og her skal der til.
+
+38:04
+Så er den med, står Venusinus jo. Og så skal der stå scener til.
+
+38:09
+Her. Hvorfor skal stå ud af den ved. Og den offenlige der skal stå ved.
+
+38:18
+Og så ved at så. Korsene CV og.
+
+38:23
+Hvorfor er det anderledes i orden? Det er jo fordi.
+
+38:28
+Hvis jeg roterer omkring y aksen. Så skal jeg lige tænke på at jeg roterer til højre.
+
+38:35
+Og det vil sige min rotation går den vej rundt. Går ned her, og det er faktisk den modsatte retning af det, vi har fat i deroppe.
+
+38:45
+Og det er derfor. Af minusset i stedet for at stå der kommer til at stå der stadigvæk en positiv ortogonale matrix.
+
+38:54
+Fordi vi hele tiden drejer til højre. Det er det der er pointen.
+
+38:59
+Godt, så kan vi lave. Omkring.
+
+39:05
+Sætter aksen. Og der kan vinklingen så være.
+
+39:11
+W der vil rotations matricen.
+
+39:15
+Sådan herude. Er sat.
+
+39:19
+At droppe det, og det vil faktisk være en næsten magen til denne, bortset fra at et tallet står nede i hjørnet nu, så her vil der stå kassens.
+
+39:31
+W. Sinus. W 0.
+
+39:40
+Og så vil der stå mindes. Scener der aldrig koges, nås dog noget.
+
+39:47
+Og så vil der stå 0 0 i et. Se.
+
+39:54
+Nu har jeg lavet rotations matricer der drejer omkring x, y og z aksen.
+
+40:03
+Ved hjælp af dem. Der kan jeg skrive enhver positiv ortogonale matrix.
+
+40:10
+På denne måde. Og jeg må desværre lige.
+
+40:23
+Og pille dem ned her. Enhver på syv år på grund af matrix.
+
+40:35
+Kr. Skrives. Og den positive mail med teksten skal så hedde Q.
+
+40:47
+Og den kan vi simpelthen lave ved at gange vores.
+
+40:55
+Rotations matricer med hinanden. Og.
+
+41:10
+Det betyder altså. Det betyder at man kan når man drejer et koordinatsystem.
+
+41:20
+Så kan man opløse dette man gøre ved koordinatsystemet ved at dreje rundt om ikke så aksen rundt om y aksen over dem sætter aksen.
+
+41:28
+Det er det, der står. Hvis I lige tænker på noget der minder en lillebitte smule om det her, så er I allesammen prøvet en Rubiks terning.
+
+41:37
+Drikker også. Der kan være lavet en eller anden fuldstændig tilfældig kombination.
+
+41:42
+Det er lidt anderledes, men er altså. Dette er lidt det samme med at enhver operation man laver med den kan brydes i simplere operationer,
+
+41:52
+så det er det der er pointen, som siger Hvorfor er det simplere? Og det er det, fordi her kan vi overskue, hvad der sker.
+
+42:00
+Og man kan også overveje om det ikke er ligegyldigt, hvis man bytter rækkefølge med dem.
+
+42:05
+Det er det faktisk altså. Så sådan her kan enhver positiv ortogonale med effekt skrives, og det betyder altså,
+
+42:16
+at I er to og tre, har vi helt styr på de positive ortogonale matricer kan.
+
+42:23
+Det kan udtrykkes ved hjælp af cosinus og sinus. Og vi kan regne dem allesammen ud.
+
+42:28
+Og hvis man. Hvis man nu kigger. Hvis man nu kigger på sin ko matrix for eksempel herover.
+
+42:37
+Så kan jeg sige at en af to Decos sendes ud.
+
+42:43
+Hvad er vinklen så? Den er Fisher del eller 45 grader kan se, det kan man se på matricen.
+
+42:50
+Hvad er den gøre? Så langt, så godt.
+
+42:55
+Og jeg tror egentlig at det her det er, at vi skal nå ud i dag, fordi.
+
+43:01
+Dette er jo. I virkeligheden nogle byggeklodser til at begynde at lege.
+
+43:06
+Kan I se det? Men det er altså ikke ret sjovt at lege denne leg.
+
+43:10
+Hvis man ikke har Mabel til rådighed, kan det. Så hvad er taget og kan folkens tak for i dag.
+
+43:18
+Fortsat god dag. Held og lykke med øvelserne.

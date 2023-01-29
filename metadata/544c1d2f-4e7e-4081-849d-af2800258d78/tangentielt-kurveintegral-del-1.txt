@@ -1,0 +1,905 @@
+0:04
+Sidste gang snakkede vi nemlig om stamme funktioner til vækster felter, og vi sagde, at en funktion f.
+
+0:14
+Det er en stamme funktion til vækster feltet, hvis dets gradient er lig med væk fra feltet.
+
+0:21
+Og det er et tænke vi lidt over, og så konstaterer vi, at vi har to slags vækster felter.
+
+0:29
+Der er dem, der gradient begge felter. Og så er der dem, der ikke er en videre.
+
+0:36
+Så kigger vi på en nødvendig betingelse for, at et vægttab felt er et gradient væk felt, og det er, at det er rotations frit.
+
+0:46
+Det vil altså sige, at rotationen i ethvert punkt i rummet, at da er rotationen lig med nul vektoren.
+
+0:55
+Så det var en nødvendig betingelse. Hvad skal der så til for at det er en tilstrækkelig betingelse?
+
+1:01
+Ja, der skal sådan set bare det til at vækster.
+
+1:05
+Feltet er defineret overalt i rummet, altså der ikke er nogen huller og den slags ting i dens definitionsmængde.
+
+1:13
+Så det er et resultat, vi vil vende tilbage til.
+
+1:18
+Se det der er. Udfordringen i dag er, at nu skal vi snakke om tankens sjæl kode integrator, og det er så at forstå.
+
+1:26
+Hvad har stamfar funktionens bestemmelse med tankens sjæl?
+
+1:31
+Integral at gøre. Altså de der har koden til grad det interessante i sig selv.
+
+1:36
+Men de har en rigtig vigtig funktion i forhold til stamform, sorgens bestemmelse, og det skal vi prøve at se, om vi kan forstå i.
+
+1:46
+Se, vi begynder at snakke lidt om arbejde.
+
+1:53
+Og vi siger at her vi laver tre stemte.
+
+1:59
+Vi kigger på en retlinede bevægelser. Altså i et konstant.
+
+2:16
+Vægter fælles retning. I.
+
+2:24
+Det første sted. Så lad os sige at vi har altså et.
+
+2:32
+Konstant vækst felt. Det ved jeg godt.
+
+2:34
+Det betyder, at det er den samme vægt, som vi skal afsætte overalt i rummet, og nu er jeg altså bare tegnet en repræsentant for den her.
+
+2:44
+Så har vi altså en bevægelse. I den vægtere retning og måske en bevægelse fra A til B.
+
+3:05
+Vi kan kigge på et lille objekt og det objekt, det vil så være påvirket af.
+
+3:14
+AC ac vægteren der. Så vi har altså.
+
+3:21
+Vægteren ved den er også repræsenteret her, og det spørgsmål vi så stiller os selv,
+
+3:27
+er hvor stort et arbejde udfører vægter feltet, når objektet bevæges fra A til B.
+
+3:35
+Og der har vi per definition. Så har vi da arbejdet.
+
+3:51
+Det er lig med kraftens størrelse. Ganget med vejen, og det vil altså sige at vi får at arbejdet.
+
+4:13
+Det er længden af vektoren gange med vejen som så er stykket.
+
+4:21
+B Minus af. Så det vil altså sige hvor jeg er sidste gang.
+
+4:32
+Da havde jeg som min yndlings metafor for vægteren felter.
+
+4:37
+Da havde jeg hastighed svigter filter. Det var dér vi fandt flow, cow og den slags ting.
+
+4:42
+I dag, da min yndlings metafor det er kraft, vægt så fælt.
+
+4:47
+Og så er vi altså set et eksempel her og nu snakker vi altså om det udførte arbejde.
+
+5:02
+Det. Og nummer to.
+
+5:07
+Nu kigger vi igen på en retlinede bevægelse. I kontinuert midterfelt.
+
+5:31
+Så igen er min situation er den, at jeg kigger på.
+
+5:41
+På sådan en retlinet bevægelse fra A til B.
+
+5:49
+Men nu er vektorerne. De er så vigtig, at feltet er kontinuert.
+
+5:53
+Det vil sige, at det er variabelt. Hvis vi kigger her på partiklen, så kan det måske være, at det vektoren her.
+
+6:08
+Altså hvis vi kalder det her sted. Her bestiller U som i den der vægtere altså være afhængig af det sted, hvor vi kigger på den,
+
+6:17
+og hvor den altså påvirker det altså, og når den er kontinuert, det vil sige.
+
+6:23
+Altså når vi, når vi taler om continuo vægt så fælt. Og så betyder det altså, at vektorer, der ligger tæt på hinanden.
+
+6:30
+De er næsten ens, men de kan altså varierer lidt hen ad vejen og det som er det afgørende nu for arbejdet.
+
+6:43
+Det er så at kigge på den resulterende kraft, så hvis vi producerer.
+
+6:54
+Min Viva 12 ned, så er det afgørende. Det er så den vægtere jeg tegner her.
+
+7:02
+Hvad? Som er ved S.
+
+7:14
+Og ved Sue. Er den resulterende kraft.
+
+7:32
+Og hvis vi nu kigger på bidragede for et lille stykke.
+
+7:39
+Så nu skal jeg se om jeg kan tegne et lille stykke her, hvis vi altså siger, at jeg kigger her.
+
+7:46
+Far. Og dér hen til.
+
+7:53
+Det lille stykke der det kalder jeg altså for Delta U og så bidragede.
+
+8:05
+Fra stykket. Del sig ud.
+
+8:17
+Det kan vi så kalde, altså bidraget til arbejdet.
+
+8:24
+Det vil så være længden af den resulterende kraft.
+
+8:35
+Gange det lille stykke som vi som vi så bevæger partiklerne der.
+
+8:45
+Og læg mærke til. I stedet for hele tiden at kigge på den variable vægt, så her siger vi, fordi den er kontinuert.
+
+8:54
+Så behøver vi kun at kigge på den i ét punkt, fordi længere hende på dette lille stykke, da er den jo næsten det samme.
+
+9:02
+Så det her bidrag? Jeg burde sådan set skrive det her. Og det afgørende er altså det her er en kontinuert vektor.
+
+9:11
+Og nu er vi jo på vej igen til at lave en venstresving. Men først arbejder vi lige lidt videre på det.
+
+9:25
+Fordi nu skal man nemlig gerne have udtrykt denne her resulterende vægt, så hvor stor den er.
+
+9:35
+Og skal vi kalde denne her vinkel for Tata. Så får vi jo at vi igen kan skrive her deltager A.
+
+9:50
+Det er så i stedet for en længden af den oprindelige vægtere.
+
+9:58
+Altså ved jeg u. Også I kan se.
+
+10:04
+Vi har her en retvinklet trekant, det vil sige Kathy, den dér hypotenusen gange cosinus til den mellemliggende vinkel.
+
+10:20
+For at få det skrevet op på en lidt mere tjekket måde, så indfører jeg nu en enhed svigter i bevægelsens retning,
+
+10:32
+så nu tegner der sig her en endnu svigter, som jeg kalder for en.
+
+10:41
+Fordi nu kan nemlig sætte dem ind her i mit regnestykke.
+
+10:46
+Længden er ved vægteren ganget længden af en vægteren gange cosinus til teater.
+
+10:59
+Jeg laver altså et lille trick her. Og hvorfor gør jeg det?
+
+11:07
+Længden af den første vægtere gang med længden af den næste vægt, to gange cosinus, da deres mellemliggende vinkel hvad er det nu er?
+
+11:16
+Yes! Tak. Og så skal vi jo lige have de her.
+
+11:28
+Det er uge stykker med. Og så har vi altså nu fået et bestemt bidragede fra det lille stykke ved hjælp af et prikproduktet.
+
+11:46
+Og så opstiller vi selvfølgelig en venstre zone, og nu har vi en kontinuert belastning.
+
+11:56
+En kontinuert belastning på en a b, fordi hvis den er kontinuert og dette er en konstant enhed svigter,
+
+12:04
+så vil dette prikproduktet vel også være kontinuert.
+
+12:07
+Og så ved jo en venstre, som den vil have en grænseværdi, og den grænseværdi er selvfølgelig integralet fra A til B.
+
+12:17
+Så når vi har fået det lille stykke skrevet op, så ved vi, at det må være integralet fra A til B.
+
+12:28
+Og så altså a, v u gange den dér og så er det er jo.
+
+12:38
+Det rigmand sætning, som vi her har brugt uden at gå ned i alle de mindste detaljer her.
+
+12:47
+Det var andet step, og nu kommer så hovedet støvet. Og nu skal vi nemlig kikke på en bevægelse langs en parameter kurve.
+
+13:12
+I et continuo at så følte. Så lad os nu sige vi er i x y z rummet.
+
+13:35
+Og her kigger vi så op på én på én parameter kurve.
+
+13:47
+Hvor vi så har et begyndende tidspunkt, skal vi kalde det for pli.
+
+13:56
+Det parameter fremstillingen i det første interval punkt fra A og så har vi altså her et slutpunkt Q.
+
+14:10
+Som er parameter fremstillingen taget i det sidste punkt.
+
+14:14
+Her. Se, nu kan vi kigge her.
+
+14:22
+På et bestemt punkt. Lad os kalde det for er U.
+
+14:34
+Og nu vil vi altså i stand. Nu vil nu vi virkelig interesserede i sige. Hvor stærk er strømmen af dette værktøj felt langs den kode, der er her?
+
+14:43
+Hvor meget trækker væk feltet i koden? Og lad os nu.
+
+14:48
+Kig bare på et eksempel. Lad os nu sige, at vi har. Vi har her.
+
+15:02
+Min kraft vægter som i det her punkt trækker i den retning der er her,
+
+15:11
+så vil vi jo gerne i lighed med det vi kigget på det at sige hvad er det afgørende?
+
+15:18
+Det afgørende? Det er jo ikke kun balance. Denne vektor er mindre effektiv.
+
+15:23
+Den trækker. Det kommer også an på bevægelsens retning.
+
+15:27
+Og derfor skal vi igen have fat i den resulterende kraft, og det vil sige vi laver en tegning vi tangenten her.
+
+15:43
+Og så laver vi produktionen ned på tangenten. Og så kigger vi altså på den her produktion svigter, der ligger her.
+
+16:03
+Lad os bare for nemheds skyld bare kalde den for. For V. S i det punkt.
+
+16:07
+Det er en. Og nu kigger vi igen på et lille stykke af vejen.
+
+16:14
+C Hvis vi siger at her havde vi altså er u.
+
+16:19
+Og så lidt længere hende. Her.
+
+16:24
+Der har vi måske er U Kluges Delta show.
+
+16:31
+Her var vi til tiden U. Nu lader vi et lille tidspunkt gå, og så kigger vi på den vej, vi har kørt langs med her.
+
+16:41
+Under påvirkning af dette væg felt så det stykke vej, der ligger her.
+
+16:50
+Det er det jeg kalder for Delta S. Og så kigger vi altså på vægter feltets virkning på det lille stykke vej her.
+
+17:15
+Altså bidraget fra stykket d. S. Der får vi altså et bidrag til det samlede arbejde selvfølgelig her og bidraget her.
+
+17:30
+Det vil så være. Det vil så være vi har.
+
+17:38
+Vi har længden af. Hvis vektoren også, så skal vi have ganget det med 1.
+
+17:52
+En enhed svigter i bevægelsens retning.
+
+17:58
+Og. Også gange den vej vi har gået.
+
+18:09
+Se da, jeg mener selvfølgelig, at det er jo ikke den nu.
+
+18:13
+Hvis jeg ganger. Jeg går direkte til Skalar produktet. Jeg beklager.
+
+18:16
+Vi skal lige have lavet det her om, fordi det var det, vi fandt ud af hænde, at det udtryk hér.
+
+18:25
+Det kan vi erstatte med produktionen af den ind på tangenten.
+
+18:31
+Det var skalar, produktet er er af U og så ganget med en enheds svigter, som går i tangenten retning.
+
+18:46
+Og så skal vi have ganget med det s. Så vi har altså et prikproduktet her.
+
+19:06
+Hvem kan skaffe mig en enhed svigter.
+
+19:12
+I bevægelsens retning her. Hvordan får vi den?
+
+19:22
+Formulerede i termer af det vi har snakket om her.
+
+19:35
+Ja, vi er her i punktet Hvordan er tangenten?
+
+19:41
+Hvad den bestemt dag. Hvis jeg nu er mærket, ja så skal vi i hvert fald have en.
+
+19:51
+Så har vi jo tangent vektoren, men du kan jo ikke være sikker på, at det er en enhed svigter.
+
+19:58
+Hvad gør du så? Fuck eller yes, tak. Så fik vi klarede den ene specter i bevægelsens retning.
+
+20:13
+Nu skal vi huske vejen den vej, vi går på det stykke her.
+
+20:20
+Det er jo farten. Gange med den tid, der er gået.
+
+20:26
+Så nu skal vi altså få erstattet vejen, så ganger vi med farten.
+
+20:36
+Gange den tid der er gået dér, altså deltage u.
+
+20:44
+Og så kan I se. Så får vi følgende smukke udtryk, fordi nu går den der og den er væk, og så får vi simpelt hen her skalaer produktet.
+
+20:57
+Af Vectra feltet taget her også og gange med tangent vektoren.
+
+21:05
+Og så gange du. Sådan er.
+
+21:16
+Så nu har vi fundet en kontinuert belastning, nemlig arbejdet på et lille stykke.
+
+21:26
+Og vi har altså en kontinuert belastning hele vejen igennem den kontinuerte belastning.
+
+21:32
+Det ved gange at mærke. Og så ved vi at det samlede arbejde.
+
+21:42
+Som vi kalder for det er tanken tæller kurve integrale.
+
+21:58
+Ved. Langs den parameter kommer den har følgende formål.
+
+22:07
+Når vi summerer op. Integralet fra A til B, RV er R er r, u.
+
+22:18
+Gange hastede vektoren. Det er jo.
+
+22:26
+Og det er så den form, som vi nu har udledt for det tangent selv til integral.
+
+23:09
+Og. Lad os kigge på et eksempel.
+
+23:35
+Så vi har givet et væk så fælt ved ex Germany Command Z, som er minus y komma ex kommer to sæt.
+
+23:52
+Og kuren. R u.
+
+23:59
+Den er cosinus til EU komma sinus to komma u halve.
+
+24:11
+Hvor U ligger i intervallet fra nul til fire ppi.
+
+24:20
+Og så skal vi altså have bestemt det Tankian Shield Code Integral af Vectra feltet langs det her.
+
+24:28
+Eller vi kan også kalde det.
+
+24:30
+Vi skal have fundet ud af, hvor stærk strømmen er langs denne kurve, eller vi skal have fundet det arbejde, som væk feltet udfører fra A til B.
+
+24:45
+Og lad os lige prøve at kigge på kurven. Vi kan se vi starter med U lige med nul.
+
+24:58
+Så har vi en nul nul. Det vil sige hvis vi har ikke saksen her.
+
+25:10
+Så starter vi altså herude et sted. Og dér i midten skulle der ikke stå sim, mens Simons tog ud.
+
+25:22
+Sådan er cosinus til sinus til uge og så halve, og I kan se første koordinaterne.
+
+25:28
+Det er DN cirkelbevægelser og Sepp Koordinaten løfter den opad, så det vil altså sige vi kommer to gange rundt, fordi vi kører fra nul til to py.
+
+25:50
+Så den dér. Vi starter så her i punktet 1 kommer 0,0.
+
+26:02
+Og vi slutter her i punktet Q, som så bliver en komma nul komma to pi.
+
+26:17
+Så det er altså den bevægelse vi kigger på. Og så finder vi.
+
+26:28
+A limede integral fra nul til fire API. Og nu skal vi have et prikproduktet, så nu skal vi først er taget væk, så feltet på denne kurve her.
+
+26:43
+Så kan I se vægter feltet taget på kurven.
+
+26:49
+Vi skal væk fra feltet starter med minus 7. Det vil sige, at vi skal ned og kigge på anden koordinaten her.
+
+26:55
+Sæt minus foran. Og hvad gør vægter feltet?
+
+27:03
+Så på andenpladsen har den første koordinaten, skal vi hen og snuppe den derhen?
+
+27:15
+Også på tredjepladsen har den to sæt. Det vil sige, at vi skal ned og snuppe tredje koordinat den her gang den med 2.
+
+27:23
+Og så får vi altså ud på den plads her. Og så skal vi prikke med hestens vektoren for parameter fremstillingen.
+
+27:34
+Så vi skal altså have differentieret den. De tre koordinat funktioner dør, og der får vi så min nu signatur.
+
+27:46
+Og vi får cosinus to. Og vi får en halv.
+
+27:54
+Sådan dør. Og det er så integralet fra nul til fire ppi.
+
+28:04
+Og så bliver det sinus i hjernen, cosinus i hjernen.
+
+28:10
+Det giver en. Da. Og så u gange en halv.
+
+28:24
+Og det dér det giver. 4.
+
+28:32
+Pige anden +4 pige. Se, nu kunne jeg godt tænke mig at sige.
+
+28:50
+Hvorfor dog gå den besværlige vej? Her lad os dog prøve en anden vej.
+
+28:57
+Lad os bevæge objektet direkte. Så kom så kort som muligt, så nu kigger vi på en anden vej.
+
+29:09
+Nemlig den direkte vej her, og det vil altså sige at jeg indfører en.
+
+29:19
+En ny parameter kurve. Som er begyndt.
+
+29:27
+Tidspunktet her. Plus U.
+
+29:39
+Og så ganget med den vægtere, der løber fra P til Q.
+
+29:45
+Altså den retning svigter, der ligger her, og det første koordinat minus først kun er, at det giver nul.
+
+29:51
+Det giver nul, og det giver to ppi. Og så får vi her samlet.
+
+30:03
+Hvad bliver det? Det bliver. 1. Den giver nul.
+
+30:15
+Og så giver den altså to peg u. Så nu prøver vi så vi, hvis vi kalder det.
+
+30:24
+Det første arbejde, det kalder vi for et. Og så kan vi kalde det næste arbejde for to.
+
+30:36
+Denne er så integralet fra nul til en, fordi vi skal huske hende, at der her.
+
+30:48
+Der løber ud fra nul og til. Og så skal vi have væk topfeltet.
+
+30:56
+Taget på kuren, og det er altså det samme.
+
+31:02
+Altså samme idé som før. At vi altså kigger på parameter fremstillingen her.
+
+31:11
+Vægt topfeltet feltet hiver anden koordinaten op på førstepladsen og sætter minus foran.
+
+31:15
+Det giver dog bare nul, og så skal vi have et et et tal på andenpladsen.
+
+31:23
+Og så skal vi have to sæt.
+
+31:28
+Det bliver fire, Pilou. Og så skal vi gange med differentialkvotienten af denne tangent vektoren, og den giver jo nul, nul og to ppi.
+
+31:57
+Og så får vi her integralet fra 0 til 1.
+
+32:01
+Og så får vi otte ppi. I anden uge.
+
+32:12
+Og de 8 pieces sætter vi ud foran. Så bliver det en halv uge i anden.
+
+32:16
+Vi skal substituere mellem nul og én, og det vil i praksis sige, at vi deler dette med to, og så får vi fire ppi.
+
+32:25
+I anden. Så I kan jeg se den samlede strøm af viden langs den kurve her.
+
+32:40
+Den var altså større end strømmen af vind langs med den linje, der ligger her.
+
+32:50
+Det arbejde væk topfeltet udfører. Når vi går langs den første kurve.
+
+32:55
+Det er større end det arbejde, vi udfører Bispegården direkte lodret op.
+
+33:35
+Nu er jeg ved at gå i gang med mit eksempel to, og da er Gide en funktion af tre variable.
+
+33:59
+Eksil i anden by plus pludseligt og vi betragter.
+
+34:13
+Følgende vægter felt. V.
+
+34:19
+A. Ex company kommercielt. Som er grade i enten a, f.
+
+34:33
+Det vil sige nu tager vi altså i enten af den funktion, der står her.
+
+34:39
+Først skal vi differentiere efter ex. Det giver to sexy.
+
+34:47
+Så skal vi differentiere efter Y. Det giver ikke sige andet.
+
+34:54
+Så skal vi differentiere efter sæt. Det giver bare en.
+
+35:06
+Og så betragter vi en kur, nemlig er er u den er o komma u i anden kom amino sol.
+
+35:25
+Hvor U ligger i et interval fra minus 1 til 2.
+
+35:47
+Så vi kan lige prøve at antyde, at det er ikke vigtigt, at vi er meget præcise.
+
+35:59
+Men prøv lige at se her kan jeg se, at de første to koordinater.
+
+36:04
+Det indikerer en parabel som ligger i ICTY planen.
+
+36:11
+Vi har i. Det er eks parameteren, og vi har y det u i anden parameteren.
+
+36:18
+Så hvis vi alene kiggede på dem. Så ville vi altså have den dér parabel dér.
+
+36:28
+Men nu er der så noget med, at vi altså har.
+
+36:34
+Ikke en hævelse, men en af så få minus her.
+
+36:38
+Og det vil sige her, da er vi jo i eksakt negativ retning.
+
+36:43
+Det vil sige, vi bliver hævede her, mens vi bliver sænket her.
+
+36:49
+Så alt sammen i en kurve. Den kommer samlet til at se sådan her ud.
+
+36:58
+Her har vi rumfærgen som altså starter i.
+
+37:04
+Se hvor har vi. Den starter i. Minus en.
+
+37:14
+Og så bliver det en. Og så bliver det en. Det starter vi, og vi slutter i punktet.
+
+37:24
+Vi indsætter 2 2 par med 4 kommer minus to, så dér går turen altså langs den rute.
+
+37:31
+Her. Og vi prøver at finde det Tonkin selv code integral.
+
+37:45
+Det er integralet fra minus 1 til 2.
+
+37:53
+Og så skal vi have væk topfeltet taget på kurven her.
+
+38:01
+Det er to x y. Det vil sige at det bliver to gange U i enden.
+
+38:07
+Det giver to ud i tredje. Og så skal vi have.
+
+38:17
+Ikke sige andet på den plads her. Det vil sige at vi skal have hævet denne over og sat den i anden.
+
+38:25
+Og så er vi tredje koordinaten. Den er en. Det er den altid.
+
+38:29
+Den er ligeglad med pap eller fremstillingen, så den bliver bare en.
+
+38:38
+Og så skal vi have differentieret altså selve parameter fremstilling, altså her og uge.
+
+38:52
+Og det vil sige den giver en. To U om endnu to.
+
+39:08
+Og regner man det her prikproduktet ud, så får vi.
+
+39:15
+4 ud i tredje minus en.
+
+39:22
+Det u. Og det giver resultatet 12.
+
+39:54
+Se, nu skal vi lave noget lidt spændende her inden pausen, fordi nu prøver vi at udregne arbejdede langs en vilkårlig kurve.
+
+40:05
+Altså nu har vi regnet den ud. Altså vi har regnet. Vi regnede arbejdet ud her.
+
+40:12
+Når vi kører langs denne kurve i kraftfelt. Men nu vil vi ikke bare sige den rette linje, som vi gjorde før, men nu vil vi se en vilkårlig vej.
+
+40:24
+Vi går herfra fra dette punkt til dette punkt. Vi skal se, hvordan vi kan modellere det.
+
+40:31
+Det eksperiment. Og det vil sige nu indfører vi jo bare en helt generel parameter fremstilling.
+
+41:16
+Så lad os sige en vilkårlig vej. Den har følgende parameter fremstilling.
+
+41:28
+Så den skal altså være givet ved. R er u lig med.
+
+41:37
+Den første kort er i funktion den anden koordinat funktion og den tredje koordinat funktion her hvor OO løber i et interval fra A til B.
+
+41:59
+Og så skal vi jo på den igen. Så nu udregner vi arbejdet.
+
+42:07
+A er lig med integralet fra A til B. Og igen.
+
+42:15
+Så skal vi jo tage væk fra feltet på Cohen herinde.
+
+42:24
+Og nu bliver det jo sådan set nemt fordi eks. Det bliver jo erstattet af min par med 3 serien er ikke stabil, siger ikke så.
+
+42:33
+På samme måde med Y, så får vi her 2 x r u gange y, r u.
+
+42:43
+Når vi har indført parameter fremstillingen her i midterfeltet, og så er her på andenpladsen, der får vi så ikke sig ud.
+
+42:53
+I anden. Og så har vi selvfølgelig hele tiden et tallet her, fordi der er en konstant tal, der på tredje kort inden natten er væk, så feltet.
+
+43:09
+Og nu skal vi så gange den med parameter fremstilling differentieret ex mærke af u, y, mærke r, u og z mærke r, u.
+
+43:29
+Og så får vi altså arbejdet, ved jeg mig at regne prikproduktet ud.
+
+43:35
+Arbejdet er så integralet fra A til B, og så får vi 2 x r u gange y, r u gange.
+
+43:49
+Så bliver det ex mærke r u. Plus, så skal vi have anden koordinaten.
+
+44:02
+Ekser ser ud i anden gange y mærke er U.
+
+44:10
+Og så endelig det sidste led. Det bliver jo så bare sæt mærke af U!
+
+44:26
+Sådan her. Og så har jeg sidde derhjemme.
+
+44:38
+Da jeg forberedte denne forelæsning og kiggede nøjere på dette eksperiment vi laver, og så har jeg opdaget, at det der står her,
+
+44:47
+det er faktisk er produkt grenen for differentialkvotienten, så bortset altså de første to led, der står her.
+
+44:57
+Det er ikke ser ud i anden.
+
+45:03
+Gange Byggeren er passé.
+
+45:11
+Hvis jeg differentierer det her led. Så skal jeg først sige det er en sammensat funktion.
+
+45:18
+To skal ned foran gange med den anden funktion.
+
+45:22
+Gange med den indre funktion differentieret osv.
+
+45:27
+Plus Så beholder vi den første funktion og ganger med den anden funktion differentieret.
+
+45:34
+Og så skal vi bare lige have den med her. Så har vi et sæt af bud.
+
+45:43
+Og så differentieret det jo.
+
+45:52
+Så denne her parantes differentieret. Dette samme som står deroppe, og hvorfor vil jeg gerne det?
+
+45:58
+Jo, fordi hvis jeg fjerner differentiation tegnet her, så er det, der står her i parentesen, jo en stam funktion.
+
+46:08
+Det var forskellen på det indtil kampen og den stamp funktion. Så det vil sige det der.
+
+46:15
+Det er lig med x u i anden gange.
+
+46:22
+Fy og U + sætter O imellem A og B.
+
+46:42
+Og nu skal vi sætte. Nu skal vi så set B og A 1 også for jer her.
+
+46:47
+X er B i anden bølge og B.
+
+46:56
++ sætter ben og som minus.
+
+47:03
+Så får vi ekser af hjernen. Gange byger af + sæt af.
+
+47:21
+Også oplades, blev ved med at kigge på det udtryk, der står hende for.
+
+47:25
+Nu skal vi se, om vi får nogle resultater hjem på dette. Se, nu kommer jeg til at tænke på, hvad var det inden for en funktion, vi startede med?
+
+47:34
+Kan se. Det her er den givne funktion.
+
+47:44
+Og kan I se det er jo dem der står der ikke sige anden gang med Y plus Z, der bare er taget i de to punkter der.
+
+47:54
+Så det der står dér, det er i virkeligheden ikke så Y og Z.
+
+48:01
+Det er nu os koordinat funktioner.
+
+48:05
+C er vektoren, som vi har stående deroppe. Så det vil sige dette er i virkeligheden f taget i r er b.
+
+48:18
+Minus F taget i er A.
+
+48:26
+Så det bør være mit resultat. Og det som er rigtig spændende her, og det som vi altså virkelig trækker på efter pausen, er det kan I se.
+
+48:42
+Nu står der overhovedet ikke noget om den parameter kurve her.
+
+48:47
+Der står kun noget om slutpunktet og begyndelse punktet, så arbejdet er alene defineret af min oprindelige funktion.
+
+49:02
+Taget i slutpunktet minus begyndelse punktet.
+
+49:21
+Sådan er. Så lad os prøve at gøre det, så får vi altså nu skal vi så kigge på den der op.
+
+49:30
+Så får vi altså 2 i anden gange 4 og så minus 2.
+
+49:39
+Det giver 16 minus 2. Det giver 14, og så skal vi se.
+
+49:48
+Og så skal vi have f's værdi i det første punkt, så der har vi altså minus inde i anden.
+
+49:57
+Gange med en +1 og da et minus foran, så har vi altså to.
+
+50:06
+Og så gav det 12. Og det var jo præcis det vi havde fundet, da vi to en helt specifik vej.
+
+50:19
+Men der tog vi. Da tog vi den, der hævede parabel boder og fandt konkret ud af, at det gav 12.
+
+50:27
+Nu har vi så fundet ud af jamen, det var faktisk ligegyldigt hvilket som helst andet cover, vi havde taget.
+
+50:33
+Så var det også givet 12. Det har vi bevist her. Helt konkret. Det eneste det afgørende er Hvad er begyndelsen?
+
+50:41
+Punktet på min tur? Og hvad er slutpunktet på min?
+
+50:45
+På min tur? Og der kan i set, der har vi jo så en markant forskel fra det vi arbejdet med før det vigtige felt vi arbejder med før der så vi,
+
+50:57
+at arbejdet langs den kode, det var mindre end langs med det andet.
+
+51:02
+Det er det, der karakteriserer et gradient væg felt i et gradient væg felt.
+
+51:09
+Da er arbejdet ligeglad med den vej vi er gået.
+
+51:13
+Arbejdet er uafhængigt af vejene.
+
+51:17
+Det eneste vi behøver gøre det er at tage stammen funktionen, stamme funktionens værdi i slutpunktet minus damp funktionens værdi i begyndelsen.
+
+51:31
+Punktet vandt en pause.

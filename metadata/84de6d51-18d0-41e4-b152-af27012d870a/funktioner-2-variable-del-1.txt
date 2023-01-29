@@ -1,0 +1,1151 @@
+0:04
+Okay, det kan jeg høre mig indvende.
+
+0:14
+Okay, jeg gå efter mig. Vi skal fortsætte lidt, hvor vi slap sidste gang, der kiggede vi på sæler, sæler,
+
+0:26
+polynomier og det var funktioner af en variabel og helt fidusen med taler og taler.
+
+0:34
+Approksimation mer. Det er jo et eller andet med at erstatte komplicerede funktioner med nogle tamme løver,
+
+0:40
+som jeg kaldte dem som simple funktioner, som i dette tilfælde var på linjerne.
+
+0:47
+Og nu skal vi fortsætte den leje med funktioner af flere variable,
+
+0:52
+og det vil sige i første omgang skal selvfølgelig kun kigge på funktioner af to variable, men der er sådan lidt notation, hvor sådan et bør.
+
+1:00
+Vi skal have ordnet, inden vi rigtig kan kigge på dem. Så programmet for i dag.
+
+1:07
+Værd at prøve. Lad os se gang.
+
+1:17
+Vi er nødt til at indføre nogle navne for punkt mængder i planen, så vi kigger lidt på mængder i planen og planen.
+
+1:29
+Det er der to er i anden.
+
+1:32
+Det er tavlens plan typisk. Og hvad skal vi så have?
+
+1:39
+Så skal vi kigge på funktioner. Af to variable.
+
+1:46
+Jeg skriver det bare sådan jeg f er ikke kommet i. Og det vi skal have snakket lidt om det er.
+
+1:57
+Altså. Hvad vil det for eksempel, siger en af continuo atter så kontinuitet.
+
+2:07
+Og det er ikke fordi der bliver opfundet noget som helst nyt her. Vi er bare nødt til at træde lidt vane i gaden i de her epsilon funktioner.
+
+2:20
+Og det er ikke fordi vi skal plage livet af jer med epsilon funktioner, men vi er nødt til at have og have det på banen her.
+
+2:28
+Hvad skal vi så også kigge på? Nu kommer så det spændende, fordi nu skal vi til at kigge på det fra instabilitet.
+
+2:37
+Det fører vejen til a, b, v fedt og.
+
+2:46
+Der kommer der altså virkelig til sin ret. Vi har indført disse epsilon funktionen, og det kan jeg love jer for, om vi skal indføre.
+
+2:52
+Begreberne hedder partielle afledede. Og det kan jeg til gengæld love jer for det.
+
+3:03
+Det vil jeg vædde med, at I ikke kommer til at synes er svært.
+
+3:09
+Og når vi har lavet partielle afledede, så skal vi til at lave noget der hedder en gradient.
+
+3:16
+Og vi skal have noget der hedder en tanke plan. Og.
+
+3:26
+Det er sådan set det. Så lad os lad os fluks gå i gang.
+
+3:33
+Så i første omgang skal vi kigge lidt på om på mængder i planen, der er det mest for at indføre nogle navne, så lad os se gang.
+
+3:43
+Hvis nu vi starter med at kigge på denne her mængde.
+
+3:50
+Men broderet med vilje. De formelle symboler. Vi kan se præcis hvad det er vi har gang i her.
+
+4:04
+Sådan så står der ikke andet plus i anden mindre end eller lig med fire.
+
+4:10
+Så håber jeg at I kan se at det her er en cirkel skive med radius to.
+
+4:21
+Fordi der står to i anden herovre og centrum er i 0,0, ringer en klokke.
+
+4:29
+Er okay, så lad os lige prøve at tegne denne her mængde af.
+
+4:36
+Så lad os se en gang. Hvis nu jeg gør. Sådan hedder.
+
+4:42
+Således underforstået at dette her er mængden A. Det er vores cirka Skive.
+
+4:48
+Det er hele baduljen her. Vi har alt det her indeni maden, og vi har selve cirke periferien hermed.
+
+5:00
+Man siger også at dette er den afsluttede cirkel skive.
+
+5:06
+Med Radio 2 og centrum i 0,0. Jeg indfører med et øjeblik et lidt nemmere navn for noget her eller nemmere måde at skrive det på.
+
+5:16
+Men. Lad os lige kigge på på denne her mængde. Så I kan se, så er der hvis man nu kigger på den, så kunne man jo skralde.
+
+5:29
+Man kunne skrælle periferien fra. Krise.
+
+5:34
+Så vil man have det der hedder den åbne cirkel skive. Så hvis jeg nu lige siger.
+
+5:41
+Giver denne her et navn, så vil jeg sige, at det er en afsluttet cirkel skive.
+
+5:58
+Hvis jeg nu skræller regnen fra. Hvad sker der så?
+
+6:11
+Så får jeg det her, og så må jeg ikke ligge på ryggen.
+
+6:15
+Så må lighedstegnet ikke være rigtigt. Så skal laves. Se sådan her ud.
+
+6:20
+Og så får jeg jo en mængde.
+
+6:24
+Der på en eller anden måde skal kunne tegnes, og hvis jeg nu prøver at tegne den her lige ved siden af, så plejer vi at tegne sådan her.
+
+6:35
+Det er den måde at markere. Er periferien her ikke at møde, men til gengæld har man alt det ændrer hermed.
+
+6:48
+Og yoga. Godt. Så er der nogle begreber.
+
+6:56
+Lad os lige se en gang. Hvis jeg nu tager et punkt, der ligger herinde.
+
+7:02
+Så kan sådan en pung have den egenskab, at det er et indre punkt.
+
+7:13
+Hvad betyder det? Jo, det betyder.
+
+7:19
+At det er muligt at tegne en lille åben cirkel skive som er sådan.
+
+7:25
+Enhver som ligger rundt om punktet og helt inde i mængden.
+
+7:33
+Og. Så hvis man er et indre punkt.
+
+7:39
+Så der findes. En.
+
+7:45
+Åbning. Cirkel skive med punktet som centrum.
+
+8:03
+Den skal være helt indeholdt. I midten.
+
+8:17
+Så er man et indre punkt. Og som I kan se på denne tegning, så de indre punkter i denne her mængde.
+
+8:25
+Denne her afsluttede cirka Skive. Det er alt det der ligger herinde, det vil sige, det er faktisk denne her mængde.
+
+8:37
+Kan I se det? Det er ligegyldigt hvor I stiller jer. Ligegyldigt hvor I spiller er.
+
+8:44
+Så selv om vi kommer meget, meget tæt på randen, jamen så er der jo stadigvæk at der lokalt da retten.
+
+8:48
+Men altså selvom der kommer meget, meget tæt på periferien, så er der stadigvæk en afstand ud til,
+
+8:53
+hvor man kan lægge en lille bitte bitte bitte bitte bitte cirkel skive rundt om fliserne.
+
+8:59
+Det er det, der kendetegner et indre punkt for for at gøre notationen lidt nemmere.
+
+9:08
+Også når I nu skal til at måske at argumentere i nogle opgaver for sådan nogle ting her.
+
+9:15
+Så lad os lige indføre lad os lige indføre et begreb.
+
+9:23
+B for borgernes nej, okay.
+
+9:28
+B er engelsk. Det er bogen, og det er cool. Men hvis så nu skriver, er her, og så skriver jeg X0 kommer i nul.
+
+9:40
+Hvad er så et bed town nummer 12 i havneløbet? Jeg har skrevet en stor seddel til mig, hvor der står tavle nummer på tavle nummer.
+
+9:47
+Husk tavle nummer. Der står også Kjøller, og der er rødvin, men det er noget andet.
+
+9:52
+Så sådan og kan jeg tage tilbage til tilbage til dagens tjek.
+
+10:02
+Okay, nu skal prøve. Se det her. Det er bare for at have en smart notation.
+
+10:08
+Dette er den åbne kugle, kalder jeg det, selv om det er cirka skiver med det, fordi vi ved, at når man laver matematik,
+
+10:16
+så er det smart at kalde tingene én ting ligegyldigt om vi 1, 2, 3 eller 27 dimensioner, som vi kalder det.
+
+10:22
+Alt sammen for kugler og så den åbne kugle med centrum i X 0,70 og Radius R.
+
+10:32
+Lad os lige skrive den op definitionen. Det er de ikke så dyr i det her tilfælde.
+
+10:38
+I er i anden. Rigtige kugler. De ligger er tre af tre variable, men nu kan den åbne kugle.
+
+10:47
+Så skal ex manus x0 i anden klodes by minus synåle Jane ved at skrabe mindre end er hjernen.
+
+10:58
+Priserne det er simpelt hen hvis alle tegner det her lægger x 0,40.
+
+11:09
+Og så har jeg denne her mængde til sådan herude.
+
+11:13
+Afstandene herude er er. Og så hvis man er et indre punkt som for eksempel det jeg har tegnet det op,
+
+11:23
+så findes der altså sådan en åben kugle rundt om punktet, som ligger helt inde i midten.
+
+11:30
+Der er spørgsmål. Jamen, jeg har glemt at skrive hjernen på nyrerne fuldstændig rigtigt.
+
+11:37
+Sådan har jeg glemt andre steder. Det har ikke sådan.
+
+11:44
+Godt. Så kan vi se her. Hvis jeg spoler dem ned igen.
+
+11:52
+Det dér ville jo faktisk. Med denne notation, så ville det jeg havde fat i i anden linje.
+
+12:05
+Det ville jo være kuglen med radius to og centrum i 0,0.
+
+12:13
+Krise. Det står ikke alene. Pussy er en mindre end fire. Så når man skriver det her.
+
+12:20
+Så det en hurtig måde at skrive det på. Det bliver I glade for på et eller andet tidspunkt.
+
+12:24
+Og det er godt.
+
+12:29
+Så kommer definitionen af en åben mængde. En mængde er åben.
+
+12:41
+Hvis alle punkter er indre punkter. Hvis.
+
+12:50
+Alle. Dens. Punkter er indre punkter.
+
+13:06
+År. De her er åbne.
+
+13:13
+Og organ. Så bare som eksempel er alle kugler med radius R og et eller andet centrum er åbne.
+
+13:27
+Det er ikke så tosset, når vi nu kalder dem åbne kugler, så her er der da et eller andet logik i.
+
+13:33
+Navngivningen i hvertfald. Okay, så hvis I lige kigger på min tegning herover op, så det her åbenbart en åben mængde.
+
+13:43
+Den er cool. Jeg har tegnet den her afsluttede cirkel skive.
+
+13:47
+Den er ikke åben, fordi. Hvis vi tager et punkt der ligger her.
+
+13:55
+Så ligegyldig hvad for en lille kugle.
+
+14:00
+I prøver at lægge rundt om det punkt, så vil den ligge ligge helt ind i midten.
+
+14:07
+Okay, godt. Så er der en.
+
+14:14
+Anden inden skabelsen venter. Den har og kan have eller kan have en ret.
+
+14:22
+Varmen af i det her tilfælde kigger vi vores mængde af her op.
+
+14:33
+Og der var lighedstegn vrængende af det få et navn man bruger sådan et krøllet da den Grasque lille delta.
+
+14:44
+Og så. Der der står brandene i.
+
+14:53
+Hvad skal der til for at ligge på randen af en ægte. Hvis et eller andet på vægtskålen tilhører randen af vores med ægte,
+
+15:07
+så vores mening det her op, så skal det være sådan vil enhver og jeg kalder det altså kugler.
+
+15:17
+Selvom det er cirkel skriver. Enhver af disse kugler med centrum i om i.
+
+15:26
+Jeg stiller mig her tegner sådan en kugle en lille åben cirkel skive rundt om punktet,
+
+15:35
+hvis punktet ligger på vrangen, sådan som jeg har indikeret, den gør det op.
+
+15:38
+Renden er nemlig bare cirkel periferien. Så vil enhver kugle.
+
+15:43
+Der har centrum i punktet indeholde. Punkter fra mængden.
+
+15:50
+Og udenfor mængden. Ved enhver kugle indeholde.
+
+15:59
+Både. Punkter.
+
+16:06
+Fra mængden. Og det der ikke ligger i mængden, det har vi tidligere givet navn.
+
+16:15
+Det er nemlig af komplementære mængder. Så nu kan vi faktisk skrive om varanen er fordi rammen for denne mængde vi er færdige ideer.
+
+16:28
+Det er lige præcis de eks'er og øgler. Hvor jeg ikke ser anden Kluges byde, anden skal være lig med fire.
+
+16:41
+Det er lige præcis cirkel periferien. Og da.
+
+16:51
+Så er der et navn til. Det indre af en mængde.
+
+17:15
+Og hvis mængden hedder A, så kalder man det indre af mængden for af og sådan en lille rund bold op i hjørnet.
+
+17:23
+Det ligner et lille nul. Det betyder, at det indre er mængden.
+
+17:28
+Det er simpelt hen alle de indre punkter. Er mængden.
+
+17:39
+Af. Ændre punkter.
+
+17:45
+I midten af. Og det vil sige at vi tager alle de punkter, som ligger inde i mængden.
+
+17:58
+Det er faktisk lige præcis denne jeg har tegnet her, så hvis det her var vores med en del af, så dette her den indre indre er mængden af.
+
+18:12
+Og det er en åben mængde, for det er bare indre punkter, så i det her tilfælde med det her af.
+
+18:18
+Der kan vi lige skrive det op. Det er det ikke.
+
+18:21
+Så øger vi er Jane, hvor om det gælder, at x hjernen plus af andet er skarpt mindre end fire, og det var så den besked har sat indre på sådan.
+
+18:36
+Det er jo det, som jeg sagde, det her er, kan vi faktisk skrive meget hurtigere.
+
+18:40
+Det er jo kulden med centrum i 0,0 og Radio 2, og så skal den være den.
+
+18:46
+Så det er bare en smart notation. For denne mængde.
+
+18:52
+Okay, så nu ved vi. Nu ved vi, hvad et indre punkt er.
+
+18:58
+Vi ved, hvad det indre af en mængde er. Vi ved, hvad vejen er en mængde er.
+
+19:03
+Så kan vi definere det, der hedder afslutningen. Afslutningen er normalt.
+
+19:22
+Og hvis mælken hedder A. Så sætter man sådan en streg over hvad det betyder afslutningen.
+
+19:30
+Nogle gange ser man også avlen lukningen. Hvad er det?
+
+19:39
+Det er lig med mængden selv. Forenet med sin ret.
+
+19:52
+I vores tilfælde. I vores tilfælde er op med den mængde af fattige der, så er den vi med sin egen afslutning.
+
+20:08
+Og en parantes var årsag. Her er vores a afslutning lig med mængden selv.
+
+20:18
+Mængder. Der har den egenskab, kalder man lukkede eller afsluttede mængder.
+
+20:28
+For det skriver vi lige op her. Hvis mængden er lig med sin afslutning det betyder altså, at den indeholder sin rang.
+
+20:40
+Er. Den afsluttet. Afsluttet eller lukket ser man også, og man skal altså være klar over, at dette er ikke et begreb, et enten eller begreb.
+
+20:59
+Altså en mængde kan være åben. Den kan være afsluttet, og den kan også være.
+
+21:03
+Ingen af delene. Og rigtig mange gange vil mængder være ingen af delene.
+
+21:12
+Den allersidste ting, som vi lige skal have med her, er begrebet begrænset.
+
+21:20
+En mængde. Er begrænset.
+
+21:32
+Hvad vil det sige at en mængde er begrænset?
+
+21:34
+Sådan hvis man nu spørger til en gammel bedstemor har det svært og kan i en eller anden levende person, som ikke havde matematik.
+
+21:42
+Hvad vil du tro, at det betyder at være begrænset, så man har noget med størrelsen af Gaga også så en begrænset med ægte?
+
+21:48
+Det har også noget at gøre med, at man kommer ikke uendelig langt væk i den og hér en begrænset mængde.
+
+21:55
+Det betyder bare, at der findes en eller anden kugle med en eller anden radius, som den ligger indeni.
+
+22:01
+Det kan være en kæmpe kugle, men det er jo lige meget. Og gav så en mængde af begrænsede.
+
+22:10
+Hvis dagen er. Ende i en kugle.
+
+22:23
+En eller anden kugle med en eller anden radius og et eller andet centrum, altså det er sådan det er og kan.
+
+22:35
+Lad os nu lige prøve at lave et eksempel, fordi denne her mængde vi har fattige her op ad den er meget, meget p.
+
+22:44
+Så lad os nu en gang prøve at lave et eller andet.
+
+22:50
+Vi skal tage et eller andet begrænset, hvis vi udtager noget er.
+
+23:00
+Hvad Signe. Så er det snart den 14. Februar for at være sikker på det kan ikke være bedre når forkert.
+
+23:07
+Hvis vist er det vores mængde. Lad os nu se det i vores mængde af for at kigge på den er, at denne mængde åben ret er den ikke.
+
+23:23
+For hvis jeg står her, så ligegyldig hvor lille en cirkel jeg laver rundt om det punkt,
+
+23:30
+så vil der både være punkter Eniig mængden og udenfor med den klasse.
+
+23:36
+Så der er punkter i denne her mængde, der ikke er indre punkter.
+
+23:41
+Den har et stykke af en rad med i virkeligheden. Det må man næsten kunne se.
+
+23:47
+Så lad os lige prøve at tegne de forskellige ting. Hvis jeg nu tager og fjerner den sløjfe, så får jeg ellers er nogenlunde i stand til at tegne det.
+
+24:00
+Så får jeg det her. Det er alle de indre punkter, så det er det indre af mængden.
+
+24:13
+Nu kan jeg, hvis jeg så tager vrangen ud.
+
+24:23
+Så er det det her. Kun det jeg har tegnet, hører ikke det der ligger herinde, så det her, det er randen af mængden.
+
+24:32
+Fordi det er alle punkter som når jeg stiller mig ikke læg mærke til det, når jeg stiller mig på vrangen her, så står jeg jo ikke i mængden.
+
+24:43
+Men det står der heller ikke noget om. Definitionen af at være et brændpunkt på alle punkter, som når man stiller sig i dem,
+
+24:50
+så vil man ramme ind i mængden og uden for mængden samtidig, så rangen ser sådan her ud.
+
+24:55
+Det er jo også altså meget fornuftigt og okay.
+
+25:00
+Hvad er så afslutningen? Det er så det her.
+
+25:10
+Så er begreberne isfrit og sådan er det.
+
+25:15
+Så det var nogle navne godt. Så skal vi til at bruge det til noget.
+
+25:32
+Og det har noget at gøre med.
+
+25:37
+Kan I huske for funktioner af en variabel? Du har spørgsmål for at denne formentlig begrænset.
+
+25:44
+Der blev ikke taget kugle i hjertet. Der blev spurgt, om mængden er begrænset.
+
+25:49
+Ja, det er det. Fordi hvis nu. Lad os nu forestille os, at jeg har valgt mit koordinatsystem til at ligge, hvor jeg for eksempel ligger også.
+
+25:59
+Så kan jeg jo bare tage en radius, der er cirka fire meter eller et eller andet først og så tegne en voldsom kugle.
+
+26:07
+Så ligger de allesammen indeni. Og det er det bare det.
+
+26:16
+Så disse mængder er begrænset. Der er spørgsmålet om hvad er det egentlig, der ikke vil acceptere en mailgate, der ikke er begrænset?
+
+26:26
+Et eksempel på en mckee, der ikke er begrænset. Lad os tage en i to dimensioner.
+
+26:36
+Er Jan hele planen. Kriseplan, der kan fortsætte ud i alle retninger, lige så langt vi overhovedet er løst.
+
+26:45
+Vi stopper aldrig. Vi kan også lave en. Vi kan også lave en mængde, der er ubegrænset.
+
+26:51
+Der ser sådan her ud. Den kan jo kalde B. Det kan være de eks'er, øyer i hjernen, hvor om det gælder, og absolut værdien af eks.
+
+27:04
+Mindre end to. Hvordan ser det ud med frygt ikke på det.
+
+27:14
+By kan løve fuldstændig frit, så hvis man nu ser. Dette er ikke saksen og dette er Øyer aksen.
+
+27:20
+Så står der bare at eks skal åbenbart holde sig i minus to og to og ikke kan leve frit.
+
+27:27
+Men hvis jeg nu skulle markere den mængde, så ville det være.
+
+27:36
+Denne uendelige landingsbane kan I se, da den er begrænset på den ene led, men den er ubegrænset på den anden led.
+
+27:44
+Ergo er den ubegrænset. I kan ikke lægge en kuglerund, men dette er ogsaa godt.
+
+27:51
+Nu skal vi til at kigge på nogle funktioner af flere variable,
+
+27:57
+og helt generelt så kigger vi altså på funktioner, der går fra en eller anden mængde af en af de reelle tal.
+
+28:09
+Og sådan som opsætningen er her, så skal jeg altså være en eller anden delmængde af er.
+
+28:15
+Jamen, det betyder bare, at vi kigger på funktioner, der har to variable, og det kan godt være defineret for alle, ikke så yder man.
+
+28:25
+Vi kigger også på funktioner, der ikke er defineret for alle, ikke så ydre. Det er sådan set typisk dem, der er sjovest og det som.
+
+28:33
+Vi skal lære at gøre det vi skal være i stand til at finde minimum og maksimum for sådan nogle funktioner.
+
+28:40
+Og det vil altså sige, at vi skal finde deres værdige mængder, og vi skal også kunne bestemme deres definitionsmængde.
+
+28:49
+Det er det, vi går efter at finde metoder til at gøre det. Hvornår er en funktion af flere variable så stor, som den overhovedet kan blive?
+
+28:57
+Lad os kigge på nogle eksempler, fordi det er sådan, fordi der er to variable.
+
+29:05
+Så skal man jo lave nogle tricks for at visualisere, hvad det er, der foregår.
+
+29:09
+Så hvis vi nu kigger på en funktion af to variable, som er altså en ret simpel sag.
+
+29:16
+Denne her. Ikke stjernen Pussy Jane.
+
+29:23
+Hvad for nogle ekstra ører kan man sætte ind i den funktion, der kan sætte hvad som helst?
+
+29:27
+Der er ingen problemer, så definitionsmængden her.
+
+29:33
+Hvis man skriver det sådan her, er alle tal så der kan være er jamen okay, lad os lige tjekke, om vi kan finde ud af, hvad værdimængden er.
+
+29:45
+Se uden at lave sådan en en funktions undersøgelse af det, vi skal til at lære.
+
+29:51
+Så lad os få en gang at se, om vi kunne få et et billede af grafen for den der.
+
+29:55
+Hvordan fanden skal man tegne grafen for en funktion af flere variable?
+
+30:00
+Der er tricket altså at man skal have et billede oven i hovedet ad.
+
+30:07
+X y planen ligger her nede på gulvet.
+
+30:10
+Jeg har ikke sagt til den vej, og I har en nyere aktie den anden vej, og så skal jeg have en sætter aktier op af OCA.
+
+30:19
+Når I så har et ekstra Murry 2,3, ligger der for Plummer egentlig funktionen 2 i anden del 4 3 i alt 9 4 plus i det 13.
+
+30:29
+Så skal jeg op i højden. 13. Der ligger punktet på grafen.
+
+30:36
+Okay. Det betyder at så er grafen for en funktion af to variable.
+
+30:43
+Det er et eller andet der ligger hen over planned.
+
+30:48
+Kan vi sætte så det ene eller anden figur?
+
+30:52
+I skal forestille jer en anden modeljernbane i virkeligheden? Ikke også det ser det.
+
+30:56
+I har du et landskab, der ligger? Og så er der nogle forskellige højder, og de forskellige højder svarer til de forskellige funktions værdier og gab.
+
+31:06
+Denne her er ret simpel, så det kan oven i købet være, at jeg kan tegne den,
+
+31:10
+og der må man altså gøre op med sig selv, hvordan man nu vil tegne sine koordinatsystemer.
+
+31:14
+Der er mange måder at gøre det på. Mabel er ret skrap til at gøre det, fordi Mabel Mikkel har i øvrigt også mange farver.
+
+31:20
+Det jeg ikke. Så lad os se her, hvis nødder vi laver en ikke Faxe og så lader som om, at vi kan finde ud af, at Ten Years så den så egentlig tavlen.
+
+31:33
+Så nu prøver jeg at tegne i 3D. Det er dømt til at gå galt, for de må bære over med mig, så dette er nu ikke sygeplejen, der ligger inde tavle.
+
+31:42
+Og så skal jeg altså have min sættere akse, der stritter op her.
+
+31:49
+Okay. Hvordan ser så grafen for denne funktion ud?
+
+31:55
+Ja. Hvis jeg skal veje en funktions ved det ud, så skulle jeg sige for eksempel to på eksakt tre på aksen.
+
+32:04
+Det giver et punkt, der ligger her i ægge sygeplejen.
+
+32:08
+Det hedder 2,3. Det ligger her. Nu har jeg fingrene inde i tawny. Okay, så sad jeg det egentlig funktionen.
+
+32:15
+Så røg det her op i højden 13 og oppe i garagen, og der skal vi så mit midtpunkt.
+
+32:23
+Det kan jeg ikke, tegnefilm bliver pænt, men jeg kan jo kigge på denne her, og så kan jeg sige Norge.
+
+32:30
+Hvis man nu kun kigger lige oven over, ikke saksen, så øger nul kvalitet af.
+
+32:38
+Så kan vi bare holde hånden over den der, og så har jeg altså en graf, der hedder Sæt 9 Excel anden.
+
+32:43
+Det er bare en parabel. Kan vi sådan så lige ovenover ikke saksen.
+
+32:49
+Der ligger parablen. Sædelige exit er anden.
+
+32:55
+Den ser sådan her ud. Vi kan allerede se Vil Nørregade.
+
+32:58
+Det her er ikke fordi det er meget svært at have divisionerne i hovedet, men på den anden side.
+
+33:04
+Hvis det nu stod lige ovenover Isaksen, så ville Exo være nul.
+
+33:09
+Så vil den vejede sædelige y Jane. Det er jo den samme parabel som denne er lige tegnet.
+
+33:14
+Det er bare drejet 90 grader inde i planen. Kan I sættet?
+
+33:20
+I må godt. Vi må godt sige nej og ja, men det er det nu prøver.
+
+33:24
+Nu går det galt. Ikke fordi nu prøver jeg at tegne denne her parabel.
+
+33:30
+Så ligger der. Hvad er det?
+
+33:37
+Det er en frugtskål. Jeg kan også få en italiensk frugtskål, for prøv at forestil jer hvis I nu hvor.
+
+33:49
+Jeg er. Jeg er. Og man kan købe Varga sag, og det er lavet i et italiensk designer.
+
+33:59
+Og det er bare nogle parabener der drejede rundt. Finn Frugtskål kan kassette.
+
+34:05
+Det er grafen for en funktion. Og så fortsætter selvfølgelig bare i det dette.
+
+34:11
+Dette det her hedder en omdrejning parabol, lod I vide.
+
+34:17
+Så jeg skal altså forestille jer sådan en Jaʿfar, der stritter opad, er det fint,
+
+34:22
+og det her er altså et eksempel på det aller aller aller simpleste, vi overhovedet kan.
+
+34:29
+Jeg kan også allerede nu er det simpelthen svært at tegne, så.
+
+34:34
+Man må bære lidt over med lærerens kunstneriske egenskaber her.
+
+34:39
+Men fordi vi kan tegne dette billede af verden, så kan vi jo se.
+
+34:46
+Så kan vi jo se, hvordan den opfører sig. Vi kan se, at den mindste funktion ved, det må være den, der ligger hernede også.
+
+34:53
+Det må være den, når jeg sætter 0 1 og f 0,0. Det giver jo nul da disse dage, og ellers så kommer vi lige så højt op, som vi nu har lyst til.
+
+35:06
+I denne frugtskål. Så vi kan simpelthen med det samme sige, at værdimængden for denne her det må være fra nul til vor tid.
+
+35:16
+Fra noget tøvende. Så det var et eksempel på en lad os lige tage et andet eksempel.
+
+35:30
+Hvis nu man tager en funktion. Der ser sådan her ud kvadratroden med minus ikke serierne minus af anden.
+
+35:42
+For eksempel. Så kunne jeg godt tænke mig lige at finde ud af hvad er egentlig definitionsmængden for denne her?
+
+36:01
+Så hvad for nogle, hvad for nogle eks'er? Øyer må man egentlig sætte ind i denne her, og der er der jo et krav.
+
+36:08
+Her er godt også, for man må jo ikke sætte. Noget ind i denne her, der gør den negativ.
+
+36:15
+Så vi har et krav der siger at 9 minus XL er en minus hjernen.
+
+36:23
+Det skal simpelthen være større lige man udlægger også. Og det betyder, at hvis jeg nu bare vil, var det rundt her.
+
+36:36
+Så står der det her.
+
+36:38
+Det vil sige det kan vi jo se hvad er fordi det her er jo lige præcis en cirkel med centrum i 0,0 og radius tre mænd rendende med.
+
+36:52
+Der er de spørgsmål i medierne. Det må man fylde.
+
+36:58
+Der bliver der spurgt. Undskyld, undskyld. Der blev spurgt, om man må sætte noget imaginært ind.
+
+37:04
+Og det må man ikke, fordi vi kigger kun på funktioner med reelle værdier.
+
+37:10
+Og så der skal jeg sige pyt have det kan gøre noget, fordi det er virkelig en anden boldgade, så.
+
+37:21
+Og kan jeg så her? For hvis jeg nåede at skrive definitionsmængden på en smart måde for vores funktion her,
+
+37:31
+så ville jeg sige, jeg tager den åbne kugle med radius tre og centrum i 0,0.
+
+37:39
+Men jeg må godt være på randen, fordi der står lige madkasse. I må godt komme helt ud på periferien af denne cirkel.
+
+37:45
+Jamen, så tager det bare afslutningen for den afsluttede cirkel.
+
+37:50
+Skive med centrum i 0,0 og Radio 3. Det er definitionsmængden for den der funktion.
+
+38:02
+Og så kunne man begynde at lave funktions undersøgelser, anden for at finde ud af, hvor store og små værdier og jeg skal komme efter.
+
+38:07
+Det skal nok få lov til, bare ikke lige nu. Nu skal vi have defineret noget andet, fordi.
+
+38:18
+Vi skal have defineret en epsilon funktion.
+
+38:24
+Og heldigvis er en efterhånden funktion af to variable præcis det samme som når den efter funktion er en variabel.
+
+38:36
+Så når jeg skriver. En efterlod en funktion af ekskl Molly.
+
+38:44
+Hvad betyder det så? Så er det bare en funktion der har den egenskab, at den går mod noget.
+
+38:55
+Når X kommer y går mod 0,0.
+
+39:00
+Det vil altså sige, at når man, når man nærmer sig begyndelsen på koordinatsystemet, så går funktionen mod nul, og så skal den være defineret.
+
+39:14
+Defineret på en åben mængde.
+
+39:23
+Omkring 0,0. Så jeg plejer bare at skrive den skal indeholdende en pod.
+
+39:30
+Børn da 0,0. Det betyder bare præcis det samme som hvis det havde været en epsilon funktion af en variabel, nemlig en funktion.
+
+39:43
+Der går mod nul, når jeg ikke skammer noget og har værdien nul i nul.
+
+39:46
+Der skal være kontinuert hele vejen. Okay, fordi så kan vi også definere hvad det vil sige at være kontinuert.
+
+39:57
+Så. Vi siger nemlig følgende definition F er og det er hele tiden underforstået og jeg glemmer hele tiden eller jeg glemmer ikke mere,
+
+40:14
+undlader med vilje at skrive det. Altså vi har en funktion af to variable, så vi er i denne her, sagde den her.
+
+40:22
+Så vores funktion er kontinuert er forkortet til.
+
+40:29
+Nogle af os i et eller andet punkt x nul komma nul inde i vores med ægte.
+
+40:38
+Hvad betyder det? Ja, det betyder følgende at.
+
+40:50
+Forskellen mellem værdierne i et ekskongen er øy og værdierne i x nul komma nul.
+
+41:01
+Skal være små. Når ikke så y nærmer sig x0 og y nul.
+
+41:10
+Tænkelige, hvis vi nu går herover, hvis vi udtager en funktion af en variabel.
+
+41:20
+Det er jeg ikke. Slim. Ikke serien. Hvorfor er den kontinuerte?
+
+41:28
+Det ser vi jo fordi dens kraft hænger sammen.
+
+41:32
+Men det er jo fordi, at hvis vi tager forskellen mellem et g'er x og agerede x0, så vil det jo gå mod nul, når x nærmer sig x0.
+
+41:46
+Er I med på at det der står her? Er bare at vi kan tegner grafen her.
+
+41:57
+Så stiller jeg mig i et x0 her. Og her ligger det her x0, hvis så jeg kommer her med mit ex og nærmer mig mit.
+
+42:10
+X0 her. Så ligger agerede ekspert.
+
+42:15
+Så når mit ex nærmer mig mit x0, så nærmer mixer jeg ikke smag. Så mit g.
+
+42:19
+A x0. Det er det der betyder at grafen hænger sammen her.
+
+42:25
+Hvis nu grafen havde haft et knæk. For eksempel sådan.
+
+42:30
+Så havde det ikke været tilfældet. Nu kan jeg.
+
+42:36
+Men det her går mod nul. Kan godt være et lidt upræcist udsagn.
+
+42:42
+Så derfor vil vi gerne formulere det ved hjælp af epsilon funktioner, så vi vil gerne have, at forskellen imellem værdierne,
+
+42:51
+et punkt og værdierne et andet punkt opfører sig som en epsilon funktion af x minus x0 og y minus i nul.
+
+43:03
+Fordi det betyder. Det betyder bare at hvis X kommer y nærmer sig da x 0,10.
+
+43:21
+Så vil det her gå mod nul, og det vil sige så vil den gå mod dem.
+
+43:27
+Så vil jeg for ex komma ikke nærme sig F.A.
+
+43:33
+Af x0 komma nul. Så.
+
+43:40
+Det her betyder præcis det samme for grafen, som jo altså er sådan en flade, der ligger over ikke MyPlanet.
+
+43:49
+Som det gjorde for funktioner en variabel, nemlig at der ikke er huller i.
+
+43:54
+Der er ikke lige blusen nogle steder, hvor hvis vi forestiller os et stykke papir. Der bliver ikke revet hul i papiret.
+
+43:59
+Det hele hænger sammen. På en fornuftig måde.
+
+44:04
+Så det er præcis det der betyder. Og. Heldigvis er det sådan det er.
+
+44:13
+Hvad skal man sige? Måske ikke så underligt, men hvis de for eksempel kigger på denne funktion af to variable.
+
+44:21
+Hvordan er den fremkommet? Den er fremkommet ved hjælp af ikke anden og øve anden.
+
+44:29
+Ikke serierne er en kontinuert funktion af en variabel øge Jane Anne konsumeret funktion af en variabel.
+
+44:37
+Så hvis man laver funktioner af to variable på denne her måde ved at lægge funktioner,
+
+44:43
+der er kontinuerte funktioner af en variabel sammen eller trækkes fra hinanden eller garnene med hinanden,
+
+44:50
+så kan man være stensikker på, at man får kontinuerte funktioner.
+
+44:56
+Så det går ikke galt. Jeg vil give et eksempel på, at det går galt for nogle andre typer.
+
+45:06
+Så denne her er kontinuert.
+
+45:12
+Denne her er også konstrueret, men jeg vil lige give et eksempel på, at.
+
+45:19
+Der er funktioner der ikke er det. Lad os lige starte med dog at vise, at denne her faktisk er konserveret, så I ved tro på mig så.
+
+45:33
+Nu vil vi vise, at FN ikke skammer Øvig, men ikke ser anden Clowes bøger.
+
+45:41
+Anden er. Faktisk en kontinuert funktion.
+
+45:51
+Og der vil jeg bruge et lille trick, fordi hvis I kigger på denne notation her x minus x0 og y minus ved 0, så er det en lidt tung notation.
+
+46:05
+Så det jeg vil gøre for at hjælpe mig selv lidt undervejs, da er at sige okay, lav en tegning her.
+
+46:18
+Hvis vi tager et tog der hedder X 0,70, så går jeg hen til et punkt her der hedder ex Germany.
+
+46:24
+Så kan jeg jo. At kigge på den vægtere der ligger fra X 0,70 til ekskongen Y.
+
+46:33
+Det er den vægtere, der ligger her. Og siden den deres side.
+
+46:38
+Det må være X mener 6 0. Og den side der det må være i minus i nul.
+
+46:48
+Dem kalder man tit og ofte for tilvækst, jo, for denne her kan vi kalde det.
+
+46:54
+Så i denne kan vi kalde for delta eks.
+
+47:00
+Det gøre at vi kan skrive det her på en lidt smartere måde,
+
+47:07
+fordi hvis jeg bruger denne her notation, så vil X det vil jo så være x0 flodslette, sagde X og y.
+
+47:17
+Det ville være en noget klods bælte af X.
+
+47:24
+Og det bliver faktisk trommer. Det bliver faktisk nemmere at regne med, så når jeg nu skriver det, som jeg skal vise der, skal jeg så tage f.
+
+47:33
+Eks. Komma yderlig minde os for x nul komma nul.
+
+47:39
+Det er den jeg skal kigge på. Okay, hvad er det så lige med?
+
+47:46
+Det er det samme som f. Eks 0 PLO's bælte af x komma bygge nul plus minus F.
+
+47:57
+Blakes nul komma nul. Er jeg med på sådan, må det være med den notation jeg har lavet.
+
+48:04
+Jeg er bare kaldt eksterne. Og øerne noget andet så sætter ind i funktionen det her.
+
+48:11
+Det må være X+ af Experian, Clowes det her.
+
+48:17
+Det må være h, der skal stå x0. Det her må være y 0 plus delta y i anden b funktion.
+
+48:25
+Værdierne her satte ind i vores funktion. Kan I selv så bare tage hjem?
+
+48:34
+Dem der to gange oftere står der hvis jeg ikke får gøre underfrankerede der står her.
+
+48:39
+Undskyld. Det skulle være et lys. Sådan er det tilvækst der her.
+
+48:45
+Undskyld. Er der ikke andre steder det går galt hvad? Og gab.
+
+48:50
+Her skal jeg så bare tage mine funktions værdier, det vil sige x0 + 0.
+
+48:56
+Jamen! Det er forskellen på de to funktions vurderer, så regner jeg dem bare ud.
+
+49:05
+Og det eneste sted hvor der overvejende ud det her, så min mit lighedstegn kommer, og nu må vi gøre sådan, fordi så regner vi her.
+
+49:17
+Hvad kommer der til at stå her?
+
+49:18
+Her kommer til at stå snorlige inden forårets to x0, der tager eks + bag sig x i anden klods, og der kommer præcis det samme med ørerne i 0.
+
+49:34
+Clowes tog i 0 dele sig i minus, og så kommer x0 minus ud i 0 i anden.
+
+49:47
+Det er det, jeg får. Hvad giver det så spørgsmål?
+
+49:53
+Mangler jeg? Jeg mangler altså Jane her flods delta øge Anzac indtog træer, en flod tre.
+
+50:02
+Så kom vi med ideer. Sådan. Og nu håber jeg så er nede på sex og få lidt mere plads.
+
+50:07
+Her prøves engang værker ud. Dem der må gå til middag med dem.
+
+50:13
+Og dem der må gå til middag med dem der så tilbage står der to x0 bedeflag, ex.
+
+50:22
+Clowes bælte i anden. Og Clouseau tog byen noget dels at øge Clowes, men i anden.
+
+50:36
+Det er det det giver, når man regner det ud. Hvad skal det være ligemeget?
+
+50:44
+Skade. Værre vil det stå når der skal være en epsilon funktion af.
+
+50:51
+X minus 6 0 og ydmygende 0. Dem der vælger at deltage X og det der er at deltage i.
+
+50:59
+Det har vi lige døbt dem. Så det er udtryk der skal være en epsilon funktion at deltage ex.
+
+51:07
+For dels at. Er det det jeg kunne fanerne det for 10.
+
+51:16
+Prøv at lade deltage eks og deltage i gå mod nul. Hvad sker der så, når der så ikke kommer noget?
+
+51:23
+Så var det derimod noget. For her står bare tag. Deltage exit anden gummer nul, når det altså ikke sker mig noget.
+
+51:32
+Præcis det samme her. Når det så Hygum og noget, så var det her mod noget.
+
+51:35
+For det er bare et tal og deltage. Øvig anden Det går mod nul.
+
+51:39
+Så det er fuldstændig rigtigt. O.k.
+
+51:46
+Den er kontinuert i det punkt som hedder x 0,10. Og det er jo fuldstændig ligegyldigt hvad for et punkt jeg har valgt.
+
+51:54
+Og når det er ligegyldigt hvad for et punkt jeg har valgt, så siger vi den kontinuert funktion for den kontrol over det hele.
+
+52:00
+Så konklusionen er F.
+
+52:04
+Er. Kontinuert.
+
+52:10
+Og. Men altså husk at hvis funktionen er lavet ud fra.
+
+52:25
+Summere eller differences eller produkter. Er Peine konserverende funktioner en variabel, så er de konturerne.
+
+52:35
+Så det kan jeg godt bruge fremover til følge bare at bruge dem, hvis I bliver bedt om at komme med et argument for det.
+
+52:41
+Men altså, det er rigtigt godt. Jeg tror det meget godt tidspunkt at holde pause på nu, så lad os gøre det.
+
+52:51
+Det er helt enig i.

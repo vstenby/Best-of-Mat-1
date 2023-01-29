@@ -1,0 +1,986 @@
+0:04
+Jeg tror det bliver nødvendigt med når lyden af første sanglærer.
+
+0:14
+Ja, jeg tror ikke det bliver nødvendigt med klokken her i dag. Den kommer lige til at dingle vandtårn ud.
+
+0:23
+Ja, i dag skal vi jo i gang med systemer, differentialligninger, og det vil sige, at den bygger videre på det, vi lavede sidste gang.
+
+0:32
+Vi skal have sat sin dag løsningen først over dens lille differentialligninger.
+
+0:39
+Og vi skal også bruge alt det stort set alt det lineær algebra, vi har lært indtil nu.
+
+0:45
+Det er lidt svært at købe programmer for i dag, for der er næsten kun ét punkt, og det hedder systemet.
+
+0:49
+Men jeg skriver alligevel lige noget. A Leg med et kamera en serie linjer.
+
+1:04
+Det er det første vi skal tale om et system af lineære differentialligninger.
+
+1:09
+Det næste, der kunne blive interessant for os, er der er nogle forskellige løsninger tilfælde, at de kommer til at afhænge af egne værdierne.
+
+1:20
+Løsningen, når systemets væsen har en basis af egne vektorer, og der bliver et reelt og et komplekst og komplekst tilfælde.
+
+1:53
+Og så bliver der løsningen.
+
+1:55
+Når systemet matricen ikke har en basis af egen vektorer, og der bliver tager vi kun det reelle tilfælde, og så kommer der noget våben til.
+
+2:13
+Det er sådan lidt en mystisk dagsorden i Finland. Det er jo lidt svært at forstå.
+
+2:16
+Hvad har egne vektorer med løsningen af differentialligninger at gøre dem, der har læst en undtaget.
+
+2:23
+De ved godt, hvad det er, men det vil måske ikke har noget af det de. Der er det jo lidt hokuspokus.
+
+2:30
+Jeg vil også i dag til forelæsning her. En orden bygger meget op, sådan at man får nogen form bud ind i formen.
+
+2:37
+Så får man løsningen ud i alle de forskellige tilfælde. Nu laver jeg tilforladeligt dag.
+
+2:41
+Vis at det ene ikke er noget mystisk. Ikke nogen mærkelige formler sammen, man har fundet på.
+
+2:46
+Og så kan man lave det, kommer det ikke. Men det er sådan set bare. Det kommer ganske simpelt ud, næsten uden at bruge en form løsningerne.
+
+2:53
+Det han vi gøre for to gange to matricer med tal i rigtige rigtige almindelig reelle tal.
+
+3:02
+Så kan vi se det på tre forskellige tilfælde. Og vi vil selvfølgelig også bruge formlen, der står i en orden, så man ser, hvordan man gør i praksis.
+
+3:11
+Når man skal løse en, så skal man ikke opfundet det hele forfra igen. Men ja, vi starter ud med systemer, differentialligninger.
+
+3:19
+Og for lige at motivere, hvad der skal ske, så må jeg godt tænke mig lige at sige om den 1.
+
+3:25
+Maj opgave, der i dag er de 2 vandtanke lære.
+
+3:30
+Det havde jo sådan en, hvor man laver noget vand ind, og der løb noget vand ud her sidste gang til øvelserne når saltvand og salt vand ud.
+
+3:40
+Og skulle jeg bestemme koncentrationen af det, der foregik herinde i den konstellation, hed så ikke Satan.
+
+3:46
+Og i dagens anledning kaldte den Ex the saltkoncentration en hane.
+
+3:50
+Hvis nu vi forbandt den med endnu en tank, som så hedder med en konstruktion der hedder X2 og ting der løber også ind og ud,
+
+4:00
+og der løber måske noget vand vej, og det kan også være der noget baner vej for den sags skyld.
+
+4:06
+Og der er jo noget ind og ud. Så vil koncentrationen og i denne tank afhænge af koncentrationen og i denne her i hvert blod.
+
+4:17
+Hastigheden, hvormed koncentrationen her ændrer sig, vil afhænge af hastigheden, hvormed hvad eller afhænger af koncentrationen.
+
+4:25
+Det, der løber ind, har jo en koncentration på X2, og sidste gang så vi, da vi stillede differentialligning systemet op.
+
+4:32
+At det bliver en differentiale i ikke tilvæksten er ikke set, der kunne skrive sådan noget med den konstellation.
+
+4:37
+Allan havde Löwen i forhold til det, der løb ud her.
+
+4:43
+Så hvis man nu har to tanke, så influerer det, der foregår i tank et det, der foregår i Taranto, influere på det, der foregår i tank og omvendt.
+
+4:52
+Det vil sige, at differentiale hænger på en eller anden måde sammen.
+
+4:58
+Lad os prøve at se en cyklus skrive sig op, det vil sige det differentialligninger, der havde med koncentrationen af eksperter at gøre.
+
+5:06
+Nu vil jeg ikke skrive disse differentialligninger op, fordi det var øvelsen i dag,
+
+5:10
+så derfor vil jeg bare skrive generelt op med nogle generelle politiagenter og ikke kunne procenterne i dag på vores frasælge.
+
+5:17
+Det er bare tal. Vi vil altså ikke kan kontrollere alle funktioner ind i dag.
+
+5:21
+Det vi skal lave i dag, så det kan vi jo så kalde a event. Det afhænger af koncentrationen i erklärt plus koncentrationen og dokumentation i X2.
+
+5:34
+På en eller anden lineare måde. Og så vil konstellationen med X2 tilvæksten selvfølgelig også afhænge med nogle andre konstanter.
+
+5:46
+Er det samme som op til. Det vil sige at man kan ikke løse en af de differentialligninger.
+
+6:01
+Man kan ikke sige nu lige at løse denne her uden samtidig at løse den her, fordi de hænger uløseligt sammen, fordi vi ved ingenting om X2.
+
+6:12
+Vi skal jo finde vores funktioner for disse differentialligninger ved hjælp af
+
+6:17
+at løse dem og så få en løsning ud for ikke at nedlægge de ukendte fra start.
+
+6:21
+Vi kan ikke løse den Neurosis. Derfor har vi ingen informationer om X2. Gå i gang med den.
+
+6:25
+Vi kan ikke gå i gang med denne. Der har vi ingen information om exit, så de skal løses samtidigt i alle linjer,
+
+6:31
+og vi skal altså finde løsninger ikke sætter i stå, der tilfredsstiller begge ligninger samtidigt.
+
+6:36
+Det lyder jo umiddelbart vanskeligt at komme i gang med, men det er det jo et smart eksempel.
+
+6:42
+Nu prøver vi at skrive lidt mere generelt op på. Det viser sig at være fantastisk let.
+
+6:48
+Så generelt system er første ordens differentialligninger eller forsikringssystem
+
+6:54
+af første rundes linjer differentialligninger med konstante konstanter,
+
+7:00
+og vi arbejder kun med konstante Coruscant af, hvad der går i den første kurve.
+
+7:04
+Centerleder og klient. Den afhænger af funktionen.
+
+7:08
+Glæd dig til et plus et 2 x2 af tab plus A med de tre ekstra ting når i bluff a et l exchange tab.
+
+7:25
+Det her er det her er simpelt hen hvad det afhænger af, og da skal der en.
+
+7:34
+Der er en ukendt funktioner i land.
+
+7:37
+Så får vi brug for, hvis vi skal kunne løse det her og få EM differentialligninger, og den næste ransagning ser næsten ligesådan ud.
+
+7:57
+Strandvejr. Kursuscentret noget for en anderledes, men den afhænger af de samme funktioner.
+
+8:02
+Domenico centrene står foran. Det kan være noget, de hører ikke alle sammen må indgå i hver eneste.
+
+8:07
+Og så skal vi have ligninger. Det er altså en betingelse for, at vi kan løse det her.
+
+8:13
+Så der står punktum, punktum, punktum og ex end mærke alting.
+
+8:17
+Der hedder så a end et erklæret dating plus plus a m n.
+
+8:26
+Eksempler til. Så her står det, vi kalder en koblede linje af differentialligninger.
+
+8:34
+De er koblet, fordi de hænger uløseligt sammen. De skal løses samtidig for at få løsningerne ud.
+
+8:42
+Det vil vi skrive på en lidt anden måde. Det her er vores differentialligningen system.
+
+8:53
+Det vil vi i stedet skrive. Vi laver en vægtere sammen, vi kalder vækst og den vækst, som består af.
+
+9:00
+Jeg kan slet ikke stå op til eksamen.
+
+9:07
+Så kan vi differentiere sådan en vægter, og når man differentierer en vægter, så differentierer man bare en automat dynamisk score.
+
+9:17
+Når man skriver helt hvor helt op, så kan man den ekstra sag om billetter til en og opklaring.
+
+9:22
+Se Anatole. Det afhænger jo, det er jo funktionalitet. Når vi ser sådan en med hensyn til tal, så differentierer vi bare conant vist.
+
+9:41
+Så her står en anden væg, nemlig ex mærke at se. Vi har også en matrix involveret i det her opvakt optisk.
+
+9:50
+Han kalder missilsystem system matricen, og den ser sådan her ud. Det er simpelthen gået centrene til at slå det op.
+
+10:11
+Samvær. Det er bare nogle ting som vi kalder denne kaldes system matricen.
+
+10:32
+Så kan vi skrive hele vores linje learning system på en anden måde.
+
+10:36
+Det er noget nemmere. Vi kan jo skrive Hvad hedder højresiden noget?
+
+10:40
+Jamen, det er jo denne her. Ex mærker man ikke, så jeg står her og kan skrive som ex mærke til at lege med det der.
+
+10:48
+Det er jo et produkt mellem af matricen og søjle vektoren ex.
+
+10:56
+Så hele vores komplicerede ligning som sådan går bare skrives i den lille ligning, der står nær.
+
+11:03
+Altså ikke smerte er lig med a kassen og undskyld.
+
+11:09
+Hør her men før nu. Men det hjælper altså ikke så meget nu, fordi det hænger stadig kunne løfte sammen.
+
+11:20
+Dette kunne være rigtig godt. Det var nu ved vi, at ex et mærke kun afhang af x1, X2 mærkede kun afhang af S2 og ikke enemærke kun afhang af X1 på ny.
+
+11:32
+Hvis vi var i den situation, så kan vi løse differentialligninger med hver for sig.
+
+11:38
+Så havde vi det vigtige, og så havde vi afkoblet, de havde differentialligninger. Forstår afhang vi kun af en ukendt funktion.
+
+11:45
+Hver differentialligning kan vi gøre det. Og til det svarede jeg Det kan vi godt.
+
+11:52
+Vi skal bare lave et lille trick, og det trick består i og skifte basis i virkeligheden.
+
+12:00
+Men det kan ikke altid lade sig gøre. Desværre.
+
+12:06
+Så vi skal ikke se på nogle situationer, hvor det er i hvert fald kan lade sig gøre,
+
+12:12
+og det må jo starte med at se på det vores system matricer af Nordea.
+
+12:26
+Jeg var i øvrigt vikar på skema se i går, og de lærte mig noget, som de var vant til.
+
+12:36
+Til forelæsningen lærte, at deres folder har han nummereret tavlerne i dette hjørne.
+
+12:41
+Så besluttede jeg nemlig at starte på, og nu glemte jeg det. Her til morgen, for hvis jeg hvisker noget, så får man ikke min.
+
+12:48
+Så en to. Og det gør det altså ikke.
+
+12:59
+Sådan gør. Sådan er det så når er A er system matrix.
+
+13:17
+Og lad os i første omgang sige, at der findes. Der findes en basis for A-prøven inden gange inden matrix, så der findes.
+
+13:36
+Der findes ikke en basis, der gør det lige om lidt. Men der findes end lineært uafhængige egne vektorer til a og med endelig at uafhængige egne med,
+
+13:59
+der mener at der findes inden legene er et uafhængigt eget tour. Og det kan nogle af dem eventuelt godt være komplekse.
+
+14:05
+Ja, altså ikke noget reelt krav her. Det kan være en blanding af komplekse og reelle egenværdier, bare at de er lille.
+
+14:13
+Er du afhængig? Godt.
+
+14:19
+Det vil altså sige i denne situation.
+
+14:21
+Hvis vi arbejder komplekst, så findes der mere end komplekse egne værdier, og deres algebraiske og geometriske multiplicere er hele tiden ens.
+
+14:33
+Det vil sige ved sin egen værdi. Her har en britisk model PlayStation 3.
+
+14:38
+Så har den også geometrisk multiple stiltræk. Og vi regner altså her videre komplekst nok, så der findes endelig natur ikke egne vektorer at tage af.
+
+14:51
+Så laver vi en en matrix der vi kalder V, som består af de her.
+
+14:59
+En linje er uafhængig egenvægt, toer i søjlerne.
+
+15:11
+Den sådan en matrix her er jo hvad invertibel, og vi ved også noget andet, fordi vi ved, at hvis vi tager denne her matrix her,
+
+15:27
+så ved vi godt, at det jo i virkeligheden, hvis vi skriver det op som en basis skifter matricer, så er det den, der skifter fra V til E.
+
+15:36
+Altså det er vel hvad der skifter fra den basis af, hvad der skal være valg, der består af vektorerne V til standard basen.
+
+15:48
+Hvis det er rigtigt, så ved vi også godt, at hvis vi tager det produkt, der hedder en vej fra vest til og fra tv og gang på af,
+
+16:06
+så får jeg en matrix med egenværdier, en diagonalen og nul uden om, og lad os lige slå det op på V-form.
+
+16:17
+Det vil sige ved i minus første, fordi alt hermed var jo ved ganget a ganget med er altså denne her diagonal matrix.
+
+16:31
+Vi kalder den tit for gamma. Men jeg synes bare, i dag skriver vi den helt ud til mad.
+
+16:36
+Så vi havde da ingen grund til at introducere et nyt bogstav. Lige her og nu taler udenom alt eller noget vi fik fra vores lineær algebra,
+
+16:46
+og som umiddelbart ikke havde noget at gøre med vores differentialligning system, andet end vi har set på denne her system.
+
+16:52
+Matrix Matrix og vi har set, at den har været, og vi har antaget, at den har endelig Nanu i egen vektorer tab.
+
+17:00
+Hvis den ikke har, kan det her jo altså ikke lade sig gøre. Så kan man ikke skrive det.
+
+17:05
+Vi havde en ikke diagonalen. Så kan vi ikke lave en diagonal matrix bestående bare af egenværdier løvendahl.
+
+17:12
+De skal lige bemærke, at nogle af de egne værdier, der står i den, lige må godt være ens.
+
+17:16
+Alle for eksempel hvis vi har en egen værdi, der har algebraiske multipliceret 3, så han også gjorde mest de fleste til et træ.
+
+17:22
+Og så indgår den altså tre gange den Divonne A. Nogle kan godt være ens.
+
+17:27
+Så er vi klar til at starte, fordi nu gør vi noget. Vi ser vores funktioner ex.
+
+17:35
+Dem gør vi noget ved, fordi vi siger, vi definerer nogle nye funktioner og ting, som er defineret på denne her måde her.
+
+17:45
+Og hvis man vil vide helt præcist, hvordan de er defineret ud fra ex,
+
+17:48
+så kan man jo bare gange med hvem jeres første gælder, da et yantai er lig ved minus første gang ex.
+
+17:58
+Så vi kan altså lave nogle nye funktioner, når vi har vores vores løsnings funktioner eksterne,
+
+18:04
+så kan vi lave nogle nye ved at gange ved mine første breaks og ved minus.
+
+18:09
+Det er jo en indgang indmad. Tænk bare med nogle tal. Så øerne er bare nogle af Dinart kombinationer af vores eks'er.
+
+18:17
+Det er der nu går ud på. Nu vil vi prøve at afskrive vores differentialligning system, hvor vi putter disse byer ind i stedet for aserne.
+
+18:26
+Og så vil vi prøve at se, om vi kan løse det og finde nye funktioner.
+
+18:32
+Om det er nemmere, hvis vi kan løse de lignende systemer, findes samtlige ny funktioner.
+
+18:38
+Så er vi færdige, for så har vi jo vores rigtige ex løsninger,
+
+18:41
+for det får jo bare vi så gange med denne system matrix, som jo består af egen vektorerne i søjlerne.
+
+18:47
+Altså bare nogle tal. Jamen, lad os se på det.
+
+18:53
+Lad os se hvor vores differentialligning system for det er. Fortællingens system hed jo dér hvor fortællingens system hed jo ex mærke er lig a ex.
+
+19:14
+Det var jo sådan vi havde skrevet vores store fordelingssystem. Nu går vi så ind.
+
+19:19
+Hvad ekstasen er, og vi dropper lige taget. Det kan vi altid putte på scener for ikke at få for mange bogstav.
+
+19:25
+Altså ikke tage. Pusher II er en funktion af ting. Det har vi bare undladt til.
+
+19:29
+Så står der her og læse, at hvis vi lige på et år A i stedet for eks.
+
+19:37
+Da vi så ved Grand øy ikke hvad jeg skal differentiere.
+
+19:46
+Ex. Ja, så er det sådan set det samme.
+
+19:51
+Hvis vi differentierer denne op, så sætter et mærke på den. Hvis vi skal have læst det samme, der står herude, skal differentiere den.
+
+19:57
+Sker der ikke noget med V. Ved jeg bare en masse konstanter.
+
+20:01
+Hvis vi forestiller os, at vi ganget det der stod herude, så ville vi få, at første række har op.
+
+20:06
+Det ville blive en af sådan nogle tal. Narkoen nation er et U2 U3 optrin.
+
+20:11
+Når jeg differentierer et andet, liberaliserer bare én på alle øerne. Lakolk standeren så ude foran.
+
+20:16
+Så i bund og grund sker der ikke noget, når vi differentierer sådan en konstant masse.
+
+20:19
+Så står her gang i denne fusion. Så er det corny, vi det.
+
+20:23
+Man kan bare gang altså skrive det symbolsk op ligesom det store system, der også differentierer en på hver side.
+
+20:31
+Hvis jeg gør det, så er eks mærke, at alting er lige med ved gange y mærke.
+
+20:38
+Og vi skal jo ikke at på hver gang.
+
+20:40
+Vi hverken ved at jo invertibel, for at var jo en linje af et uafhængigt egenvægt to, og derfor så er den der matrix fuld rang den invertibel.
+
+20:53
+Og så kan jeg altså guide med hvem mine første på denne her sted ved forsvinder.
+
+20:59
+Og så er der ved minus første A ved gangen.
+
+21:09
+Vi må også gøre op at vinde har fået lavet. Nu jeg står her differentialligningen system her op.
+
+21:15
+Der står så en søjle herude, der hedder mærket. Dan hedder Y. Et mærke af 3 2.
+
+21:20
+Mærke at det nye 3 mærke er tænkt n mærke er tændt.
+
+21:30
+Det er denne her Ceed, det der står nær. Det er jo ved mere end første dage, men det er jo lambda diagonalen.
+
+21:40
+Jeg har en badge lam der. Om dagen noveller udenom.
+
+21:47
+Og så har vi en. Det var alt. Det her var jo vores.
+
+21:51
+Det var bare den masse ekstra, står der. Altså har vi gakkede øl, og denne havde øget RT.
+
+21:59
+Vi tog alting en ende. Og det der er sket nu.
+
+22:05
+Det er sådan set meget fantastisk, fordi at vi har fået afkoblet vores differentialligninger.
+
+22:12
+Nu kan vi simpelthen lyster en for en, og det vil vi gerne have hen.
+
+22:39
+Hvis vi læser ind i den matrix, så står det hen som den første, der står i et mærke alting.
+
+22:46
+Vi er et mærke til at lege med.
+
+22:49
+Og så sker gange, at denne søjle vektor, der på den første eller på den første række ender op i det ene, jeg både er væk.
+
+22:57
+Det er at bygge et mærke af ting. Hvordan er lige med Lambda ét gange byen?
+
+23:10
+Et er. Dette første jeg får, hvis jeg ser på anden række der oppe i mit store i min store masse jeg så, står der i 2.
+
+23:21
+Mærke. Athen er lille lambda to byer tung at tage.
+
+23:26
+Og sådan kan jeg fortsætte hele vejen ned til min by end mærke. Alting er lig med lambda n gange y n rt.
+
+23:38
+De er afkoblet, de kan løses meget let, fordi at det var nogle de sætninger magen til dem vi tog sidste gang.
+
+23:46
+Der er nogen der hedder Bø et at se.
+
+23:50
+Altså lig med en konstant blevet kaldt sayyid gangen i lambda indtag.
+
+23:57
+Den fulde fuldstændige løsning til den første differentialligning der.
+
+24:03
+Man kan nemt ved at brygge den over på den anden side have en homogen differentialligning magen til dem vi løste sidst.
+
+24:11
+Den næste her, man kan løse på tilsvarende måde i to af tag, er lig med selv to gange ind i en lampe.
+
+24:17
+Der to ting den næste ender tag er lig med c n gange 1 i lambda integer.
+
+24:27
+Så er de løst. Problemet er bare, at de løse både er de og ikke dem.
+
+24:31
+Vi har spurgt og spurgt om vi er interesseret i eks løsningen. Men denne er fantastisk let nu og få skrevet op fordi hvad er den?
+
+24:49
+Kun lige ud af landevejen. Vores ekstra ting den fuldstændige løsning til vores system er, så ægsortering er jo lig med.
+
+25:09
+Nu må jeg tage den mærker på det opholdssted, Le nu også har stået op ekstra til.
+
+25:13
+Alle ved en gang jo ikke at se. Så er der lige mad midt i første søjle ved 2.
+
+25:25
+I anden søjle optælle mere end i sidste søjle gange.
+
+25:30
+Den løsning vi nu har fået, og som hedder se gang en alarm, da et tag op til en gang i Lambda inviterer.
+
+25:40
+Når jeg ganger ned på, så får jeg sådan set bare det tal der står hér, eller den funktion, at der.
+
+25:45
+Eller om der et tænkt garnede på den første egenvægten. Egentlig hed den gang, da Vandsøjle Plus sendte 2 gange 1 eller 2 3 gange efter hinanden.
+
+25:58
+Egenvægten plus plus se engang.
+
+26:01
+I gamle dage. Antal gange den sidste egenvægt.
+
+26:08
+Det var nogle vektorer der står nær det der står individerne er bare tal. Så lægger man dem bare sammen koordinat mest.
+
+26:15
+Og så står der, at nu var det jo vores Excel væg.
+
+26:18
+Tag det her, så står der, hvad ægte et af teatrene er. For eksempel at se vores første løsning til vores system når op.
+
+26:28
+Den består af en gang Eelam dating gange, første koordinaten i med plus to gange eller to til fire gange.
+
+26:35
+Første koordinaten i 2 Plus blev se engang en om dagen antal gange første koordinaten imellem.
+
+26:43
+Så det bliver forholdsvis langt udtryk med en masse Elam betjening.
+
+26:50
+Ja, så kan man finde X2, X3 og teksten.
+
+26:55
+Man kan bare angive løsningen som denne her vektor ex, hvor der er en koordinater, og det svarer til de endnu ukendte funktioner.
+
+27:01
+Vi startede med. Det kan også have været en situation, hvor man kun er interesseret i for eksempel ex 7, fordi ægge 7 er det man man kan man skal.
+
+27:10
+Resten er biprodukt, der var værd at investere i.
+
+27:13
+Men tanken med værd, så var man kun interesserede i tanken nummer 7, fordi at det var den koncentration der interessant for denne her problemstilling.
+
+27:20
+Og så er det jo kun den løse, man sidder med. Man er nødt til at løse alle sammen samtidigt for at finde koncentrationen i tanken nummer 7,
+
+27:26
+så derfor kan jeg kun, at det er forskelligt, hvad man interesserede i. Men man kan jo selv finde en hvilken som helst løsning.
+
+27:31
+Og her står de allesammen. Der skal flyttes nogle kommentarer til dette, for det er jo fint, hvis det er så let hver gang, og det er det i princippet,
+
+27:39
+der er i det hele står jo i princippet næsten her, fordi hvis alle lambda ærinde er reel, så er alle egne vektorerne også reelle.
+
+27:51
+Og så står løsningen faktisk dér.
+
+27:53
+Så vil enhver løsning være en Linak kombination af eksponentiel funktioner med egne værdierne oppe i eksponenten gange ting.
+
+28:03
+Men vi sagde jo, at Lambda eventuelt godt måtte være komplekse.
+
+28:06
+Det har vi jo ikke sagt nej, hvis de er komplekst, og så har den løsning, der står her.
+
+28:10
+Ingen direkte fysisk mening, vel? Vi kan ikke sige koncentrationen i tanken.
+
+28:16
+Nummer fire er et komplekst tal. Det giver ingen mening.
+
+28:19
+Så kan vi finde en metode til blandt alle disse komplekse løsninger, der står her, og kun pille de reelle ud.
+
+28:25
+Der kan jo godt være reelle løsninger. Altså de reelle tal er jo en delmængde af de komplekse tal,
+
+28:30
+og det kunne jo være at få passende valg af nogle af disse konstanter foran de også komplekse ved passende valg.
+
+28:35
+Så gik alle indledende ud, og så havde man de reelle løsninger aldrig vil ville finde en metode til at pille de her ting ud.
+
+28:44
+Det er den ene ting. Altså har vi komplekse egne værdier. Så er der noget mere at sige om det her, hvis der ikke var det, der var færdigt.
+
+28:51
+Men der kan være komplekser med.
+
+28:52
+En anden vigtig ting er jo, at vi har lavet lidt under antagelse, at der faktisk var en linje at hente egne vektorer, og det er der jo ikke altid.
+
+29:01
+Og når der ikke er nær, så kan vi jo også kunne løse et system, der ligner differentialligningen.
+
+29:05
+Og det viser sig ofte i ingeniørmæssige sammenhæng, at er faktisk de steder, hvor det bliver interessant.
+
+29:10
+Er alle de steder, hvor det ikke er så smart, at der er en reelle linje uafhængig af andre.
+
+29:16
+Så derfor er vi nødt til at skære igennem de besværlige tilfælder. Det handler resten at forelæsningen om i dag.
+
+29:21
+Hvad gør vi i alle andre tilfælde, end det er fordi det her.
+
+29:24
+Det viser jo, hvad gør vi, hvis vi har tre egenværdier reelle egenværdier med tre linjer, dog i reelle egne vektorer?
+
+29:33
+Jamen så er det bare at skrive løsningen op på den måde her færdigt, så er der ikke mere.
+
+29:39
+Godt, men vi prøver at gå videre og er.
+
+29:46
+Ja, så.
+
+29:51
+Det vil du gøre nu. Det er at prøve at se et eksempel på hvad gør vi, når der er både blandede regler og komplekse egne værdier?
+
+30:03
+Jeg skal lige se, hvad der kom til 4, 7 eller 8.
+
+30:23
+Hvis sidste sag inden vi går videre, så skal man lige se noget, og det er jo,
+
+30:31
+at når vi har endt differentialligninger med end ukendte funktioner en og skal finde en fuldstændig løsning,
+
+30:38
+så viser det sig, at hvis vi har et system med differentialligninger, der hedder Ex Lerke, er tal lig af x.
+
+30:48
+Antal A er en gange n matrix indgange inden.
+
+31:00
+Og så skal der vel egentlig narre kombination.
+
+31:13
+A. N lineært uafhængige løsninger.
+
+31:27
+Man skal kalde det løsnings funktioner. Udspænder.
+
+31:39
+Synes Roma. Er altså hvis vi på en eller anden måde kan finde en linje, er du afhængig.
+
+31:55
+Løsnings funktion er til denne her ligning. Jamen, så kan vi bare lave en lille argumentation, og dem har vi den fuldstændige løsning.
+
+32:04
+Det vil vi ikke vise. Det betyder så, at vi skal jo på en måde kunne finde nogen, vi kan se.
+
+32:11
+Det vi lavede før da, havde vi jo klart endelig at uafhængige løsnings fusioner her.
+
+32:17
+Nu vil vi så finde en reel. Hvis vi kan finde en reelle linje i lønposen, formentlig narkoman og dem ud af spændende løsninger frem.
+
+32:29
+Og ja, så nu kan vi jo tage lidt af gangen.
+
+32:34
+Vi kan se. Lad os se på 2.
+
+32:43
+Lad os antage, at vi som system matrix og vi har fundet en egnet værktøjer,
+
+32:49
+en egenværdi da er komplekse, siger vi Lambda Ali nærmere et plus en lambda 2.
+
+32:58
+Og vi har en egen vektor v sammen, så hører til egen og din lambda.
+
+33:03
+Det vil sige den er komplekst.
+
+33:18
+Så har vi automatisk en egenvægt til egen værdi mere, for så ved vi hvad er en reel matrix, så er denne her hvad hedder det egenværdi også?
+
+33:31
+Ellers har denne værdi også en egen værdi for den samme matrix, nemlig den komplekst konjugerede til lambda.
+
+33:37
+Da vi ændrer fortegn på imaginær delen, og så er denne her.
+
+33:45
+Hvad hedder det? At den komplekst konjugerede egenvægt ton.
+
+33:49
+Den egenvægt. Til den sag.
+
+33:57
+De to egenværdier med tilhørende egenvægt tog, og det svarer til to af de funktioner, der indgår i kombinationen op i den fuldstændige løsning.
+
+34:06
+De har den skavank at de er komplekse. Så hvad kunne vi erstatte de to med?
+
+34:11
+Jo klart, men vi har fundet en hel stribe egenværdier egenvægt 2'ere, så alle dem der har reelle egenværdier og egenvægt.
+
+34:17
+2'ere. Jamen, dem er vi tilfredse med. Dem der står i vores løsnings udtrykker op, men er en af dem komplekse.
+
+34:25
+Dem der for eksempel vil lade alt være et andet sted, heraf en anden.
+
+34:30
+Der er komplekst, som er dens komplekse konjugerede. Det er fordi, at hvis man har en egenværdi, hvis af er reelle, og man har en egen egenværdi,
+
+34:39
+som er kompleks, så vil den kunne blæse man i ged også egne værdier.
+
+34:42
+Det kommer sig simpelt hen af, at hvis man nu ser på hvad, hvad betyder noget at regne med.
+
+34:50
+Det vil sige, at alle ved at lige lambda ganget med. Nu siger vi så, at det er opfyldt for en eller anden værdi.
+
+34:57
+V og Lambda. Jamen, så kan jeg komplekst konjugerede begge sider,
+
+35:01
+og så står der alt komplekst konjugerede gange ved komplekst og legeret alligevel lambda komplekst på gearede gang med komplekse ved.
+
+35:08
+Vi ændrer fortegn på. Imaginære delen var lig med, men af hvor reel er mere komplekst end nu giver den eller ej.
+
+35:13
+Det er fuldstændig ligegyldigt, da ingen går ingen komplekse tal i den,
+
+35:16
+og så står det jo her at læse, at lambda komplekst navigerede også er en egen værdi.
+
+35:21
+Tag med egne vækster med komplekst konjugerede. Så har man en hamato, hvis af og reelt.
+
+35:27
+Det gælder altså kun af ren is. Hvis der er komplekse værdier inde i systemer prisen.
+
+35:32
+Så gælder det her selvfølgelig ikke som.
+
+35:35
+Så har vi de to, kan vi erstatte de to løsninger, altså de to løse ender står vi med noget reelt, og det kan vi ifølge EU normen.
+
+35:43
+Så kan man bare simpelt hen. Der er lige næste tavle, hvor Panopto.
+
+35:59
+Det. Ja.
+
+36:12
+Ja, det må han gøre. Man kan tage de to løsninger, der var to løsninger.
+
+36:18
+Der er en, der hedder ind i Lambda t. Gange med.
+
+36:22
+Og så havde vi det dér kompleks. Det var en løsning.
+
+36:28
+Og så havde vi en anden løsning, der hed ind i Lambda kompleks konjugerede greentech gange ved et komplekst konjugerede eller også kompleks.
+
+36:37
+Det tog dem erstatter vi da op i vores udtryk med følgende en løsning der hedder ex.
+
+36:44
+Et tab som vi siger er andelen af en i Lambda sag gange med, og en anden løsning er imaginær delen af en lambda ting ved.
+
+37:06
+Det er jo klart at det reelle løsninger og i realiteten er et komplekst tal,
+
+37:09
+den reelt imaginære del af os, så man så man, så vi får altså her ud af de to komplekse løsninger.
+
+37:18
+Får vi to reelle løsninger, og de to reelle løsninger kan man så oppe i sit udtryk på den 2.
+
+37:26
+Komplekset. Og så har vi altså pludselig fået, så kan vi eliminere samtlige komplekser.
+
+37:31
+Hvad hedder det? Løsninger op eller lødige løsninger motion?
+
+37:35
+Og vil det her udtryk hér? Så står der altså alt det om, hvor langt der var reelt.
+
+37:39
+De bliver stående. Og alt det andet, der ikke var reelt. Det erstatter vi med det, der står her.
+
+37:47
+For at forstå hvordan det fungerer i praksis, er vi simpelthen nødt til at se et eksempel på det, så vi ser lige et eksempel på det.
+
+37:53
+Og når vi starter på det, så holder vi pause i os.
+
+38:06
+Og jeg har begrænset mig til at se på to gange tog man så sig for hovedet.
+
+38:13
+Ellers bliver det meget lidt for meget. Se det første eksempel jeg tager med i dag.
+
+38:23
+Det hedder.
+
+38:31
+1 2 3 0 er system matricen, det vil sige, at hvis de var sande ens system hedder det, ville vi ikke have fået givet, at det ville have set sådan ud.
+
+38:44
+1 billetter til 2 x to RTL og exit 2 mærke RT.
+
+38:53
+Det viste sig havde 3 eksperter til. Sådan ser det ud, så går vi ud fra det danske system matricen, men vi har jo her bare givet system matricen.
+
+39:08
+Det er den dag, du ser de første gange. For hvad skal vi starte med? Vi skal først have fundet ud af, hvordan ser ned på den egen vektorerne.
+
+39:15
+Og denne vil jeg snyde. Jeg vil sige, at eje værdierne er fundet.
+
+39:19
+Jeg tror, lambda fra et diagonalen taget determinanten sig med nul, og så får jeg to valg forskellige egenværdier ud.
+
+39:26
+Det vil jeg gøre her, fordi jeg vil den næste. Det jeg laver, der vil jeg ikke snyde den vej, jeg selv komplekst, for jeg synes,
+
+39:33
+jeg alligevel regnet ud i hånden, så jeg kan se, hvordan man gør det.
+
+39:36
+Og der er fundet to egne reaktorer, så hvis I ikke kan se Danmark, så kommer der os lige om lidt.
+
+39:40
+For den komplekse verden. Så lad os se ud.
+
+39:49
+Det er invaderende egne vektorerne. Vi kan også bare forestille sig, at jeg lige har skrevet egenvægt toys i Mabel og så det der dukkede op.
+
+40:00
+Hvad er løsningen så? Ja, den er jo faktisk umiddelbart klar til at støve op nu, fordi de vil.
+
+40:05
+De er jo linje uafhængig, fordi vi har to egenvægt 2'erne hørende til to forskellige egenværdier.
+
+40:13
+Så er det per definition linje at skulle hænge høringerne og undersøge det og tænke over det.
+
+40:17
+Fordi når vi har to forskellige egenværdier, så har vi linjer.
+
+40:21
+Du må hænge egne motorer, og hvis vi så skriver op være løsningen, ja så er ex.
+
+40:28
+RT, så er løsningen lige med ekstra tand.
+
+40:33
+Og det er en vægter, og den skal så skrives om ét gange. A. I den første egenværdi tre 3 gange.
+
+40:41
+Den første egenvægt tager 1 1 blev sat to gang ind i den anden egenvægt.
+
+40:48
+Minus total gange. Den anden egenvægt for to år minus tre.
+
+40:56
+Det er jo altså det, der står op, vi skal gøre.
+
+40:58
+Men vi har fundet en egenværdier eller en restaurant, og så lad os da lige prøve hér og sige Hvad er except?
+
+41:07
+Og hvad er de to, der virker? Det er jo to virkelige funktioner. Vi kan bruge dem her, og selv om det passer.
+
+41:11
+Det jeg ikke set, kan vi aflæse som første koordinaten til det her, så det vil sige, at ex eternittag.
+
+41:17
+Den er så lig med c et gange e i 3 t gange en gang stærk plus c to gange 1 minus 2 3 gange to.
+
+41:33
+Så X2 er TDC anden koordinaten af dette udtryk.
+
+41:35
+Det er så snævert et skæring af 1 3 til igen for den gangs med en plus set 2 gange e i minus to 3 gange minus 3.
+
+41:51
+Her står vores to løsnings funktioner danse. Hvis man putter dem ind i vores differentialligninger, så løser de hver differentialligninger nogle.
+
+42:00
+Man kan altså gøre prøve. Man kan bruge den heller ikke 2 ind i den øverste lærer og ser det faktisk passer.
+
+42:05
+Det gør vi ikke lige her. Her skal man være lidt varsom.
+
+42:10
+Man kan jo godt blive fristet af at synes, at der står nogle konstanter her, som næsten er ligegyldige, når nu der står en tilfældig konstant herude.
+
+42:18
+Men det er ikke helt ligegyldigt, hvad de er, fordi det giver forholdet.
+
+42:23
+Det kan ikke hjælpe noget at sætte den endnu, og den konstante den konstant, for så bliver forholdet ikke rigtigt her.
+
+42:27
+Jernved. Man kan godt tage denne konstant endnu af den tid, den forsvinder, men så skal du det her ned.
+
+42:32
+Jo, altså, så det er en ny konstant, vi putter på, som hedder to gange C2, og så skal vi altså dele den.
+
+42:39
+Men med to af. Men det skal vi ikke.
+
+42:44
+Man skal konstant forstå, selvom der står nogle arbitrære konstanter.
+
+42:49
+Sætter de to foran, så kan man altså ikke umiddelbart bare lægge dem ind under det.
+
+42:53
+Men det er de samme arbejdstager konstant, der indgår. Selv to betød det samme i hver ligning, og set betød det samme i værdien godt.
+
+43:02
+Jeg tror, vi lige tager timers pause nu. Og så fortsatte.

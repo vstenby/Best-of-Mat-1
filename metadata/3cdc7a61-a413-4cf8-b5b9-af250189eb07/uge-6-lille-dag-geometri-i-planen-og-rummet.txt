@@ -1,0 +1,1271 @@
+0:00
+Go morgen Vi begyndte med vægttræning sidste gang vi fandt ud af, at vi kan lægge dem sammen, og vi kan gange en vektor med et tal.
+
+0:12
+Og så kunne vi lave alle mulige regninger med vektorer og en masse regneregler og den slags ting.
+
+0:20
+I dag stiller vi det spørgsmål kan vi også gange vektorerne med hinanden,
+
+0:25
+og der har vi noget, der hedder prikproduktet også kaldet for skalaer produktet.
+
+0:31
+Og så har vi noget, der hedder krydsproduktet, som kun findes i rummet.
+
+0:36
+Prikproduktet. Det har vi både i planen og rummet, og det vi så gerne skal nå i dag,
+
+0:42
+er simpelt hen ti sætninger, der handler om prikproduktet, krydsproduktet og determinanten.
+
+0:51
+Og så prøver vi lige at binde det hele sammen med en flot eftermiddags buket, og så ser vi på et eksempel.
+
+0:59
+Så puha, vi må hellere se at komme i gang, og vi starter med prikproduktet.
+
+1:13
+Og situationen er den at vi har vi har to vektorer a og b.
+
+1:26
+Og vi har afsat dem ud fra det samme punkt.
+
+1:30
+Og så er der måske sådan en vinkel dér imellem de to vektorer, så helt oprindeligt så er prikproduktet mellem A og B.
+
+1:44
+Det er defineret ved, at det er længden af den første og gange med længden af den anden og så gange med cosinus til den mellemliggende vinkel.
+
+1:58
+Sådan er. Så det er noget for eksempel en tømrer.
+
+2:05
+Nemt kunne lave mål denne her.
+
+2:09
+Måle den der måler vinklen imellem dem frem med cosinus tabellen ganget de to længder med hinanden og så cosinus til den vinkel der er prikproduktet.
+
+2:22
+Og dette er det centrale her er altså prikproduktet er uafhængigt af et koordinatsystem.
+
+2:32
+Så det har jeg altså en geometrisk størrelse. Nå, men hvad sker der så, når vi indfører et koordinatsystem?
+
+2:41
+Og det gør vi nu, og vi siger simpelt hen i det følgende.
+
+2:46
+Da betragter vi altså en standard basis, og som vi kan kalde for E!
+
+3:03
+Og det jeg laver nu med de første sætninger her.
+
+3:08
+Dem laver jeg i planen. I kan se sætningerne indtil 6.
+
+3:12
+De handler nemlig både om planen og rummet, og jeg viser dem altså fra planen.
+
+3:18
+Og så er de meget nem at generalisere til rummet, for der skal bare en koordinat mere på hvert vektorerne, så er det fuldstændig på samme måde.
+
+3:27
+Så når vi har givet en basis, så kan vores vektorer.
+
+3:33
+Så kan de jo opskrives ved hjælp af deres koordinater, så vi kan sige,
+
+3:38
+at a vektoren den har måske koordinaterne af ét og A2 og på samme måde med b vektoren.
+
+3:46
+Den har koordinaterne B, 1 og B2 med hensyn til den standard basis vi betragter.
+
+3:55
+Og så kommer den første sætning. Som vi allerede har snakket om sidste gang.
+
+4:03
+Og det er altså en sætning et. Og den siger så at dette prikproduktet.
+
+4:15
+Det får man simpelt hen ved at sige ét gange B ét plus er to gange B2.
+
+4:29
+Så kort sagt Hvis I kender koordinaterne, så behøver I ikke tommestok en vinkel måleren.
+
+4:36
+Så kan I direkte udregne det ved hjælp af dets koordinater med hensyn til den givne basis.
+
+4:46
+Så lad os lige prøve at kigge på. Her i vores standard basis.
+
+4:56
+Vi kigger på en væg, tager af og så har den måske.
+
+5:08
+En kan TT på ét døgn kan TT på A2. Og så ved vi jo ud fra Pythagoras at længden af hypotenusen.
+
+5:21
+Det er kvadratroden af den første kan TT i plus den anden kan tt jan.
+
+5:32
+Og så til videre brug i efterårets semestret, så det her kan man også skrive rigtig fint som A prikket med sig selv.
+
+5:44
+For kan I se det der står her? Det er prikproduktet af A med sig selv.
+
+5:50
+Så længden af en vektor det er kvadratroden af prikproduktet, er vektoren med sig selv.
+
+5:58
+Så det var sætning nummer to.
+
+6:15
+Nå ja, men se, hvis vi er ude efter en vinkel imellem to vektorer, så får vi jo direkte en formlen til vinklen udfra det her.
+
+6:27
+Så altså. Så altså cosinus til en vinkel mellem to vektorer.
+
+6:36
+Det er så deres prikproduktet divideret med deres længde product.
+
+6:45
+Sådan er. Prikproduktet divideret med længde produktet, og så skulle vi lige prøve at kigge på et lille eksempel.
+
+6:57
+For nu også at regne lidt på det.
+
+7:02
+Så kigger vi lige her point en situation 1 2, 3 4 og 5 1 2 3.
+
+7:12
+Jeg kigger på det punkt, der ligger dér. Det punkt der ligger dér.
+
+7:18
+Og det punkt der ligger dér. Læs også Så spørger jeg jer om hvor stor den vinkel som ligger imellem de to linjer der.
+
+7:35
+Og det vil vi så lave ved hjælp af vægttræning.
+
+7:41
+Så skal vi lige kigge på, hvad disse punkter hedder. Der har i punktet en komma i.
+
+7:48
+Det punkt der ligger her. Det er punktet 3,0 og det punkt jeg har fået tegnet her.
+
+7:56
+Det hedder 5,3. Og så kan vi jo sige dem.
+
+8:03
+Vi lægger en vægtere langs med den linje her.
+
+8:08
+Som vi kan kalde for a vægteren og en vægtere langs med den anden linje, den kalder vi så for b vektoren.
+
+8:21
+Og. Så vil vi gerne have fat i vinklen imellem dem.
+
+8:29
+Og så har vi at cosinus til V er lig med.
+
+8:38
+Så skal vi have. Prikproduktet af de to.
+
+8:50
+Og så divideret med deres længde product. Og så skal vi jo have fundet koordinaterne for den der af vektoren.
+
+9:10
+Og skal vi se om vi kan finde ud af den.
+
+9:14
+Så vi skal jo have et prikproduktet af to vektorer, som vi skal have fundet koordinaterne for den første og koordinaterne for den anden.
+
+9:24
+Og hvordan er det nu man finder koordinaterne for sådan en en vektor?
+
+9:29
+A? Jamen, det er jo første koordinat minus første koordinat.
+
+9:37
+Det er 3 minus sten, der må give 2. Og så anden koordinaten.
+
+9:43
+Minus kort. Natten giver som minus en. Og så skal vi på samme måde have fundet koordinaterne her for B.
+
+9:53
+Den første koordinat minus første koordinat 5 minus 1.
+
+9:57
+Den giver fire, og så skal vi a anden koordinat minus en koordinat.
+
+10:02
+Den giver to. Og så skal vi have længden af.
+
+10:15
+Og det var jo noget med en kvadratrod. Hvor vi i har første koordinaten i anden.
+
+10:22
+Det giver. 2. I anden. Og så plus minus egentlig i anden.
+
+10:32
+Det var den første længde, og så skal vi have den anden længde.
+
+10:39
+Hvor vi får fire i anden. Plus.
+
+10:44
+To i anden. Og så skriver vi lige med.
+
+10:54
+Og så får vi, nu skal vi prædike. Det er to gange fire, og det giver 8 plus minus 1 gange med 2.
+
+11:02
+Det giver minus 2. Så da må vi få simpelthen. For oven i Bryggen, der har vi så 6.
+
+11:12
+Og hvad får vi så forneden? Der får vi. 4 plus 1.
+
+11:18
+Så det er kvadratroden af 5. Og her får vi 16 plus fire.
+
+11:31
+Det giver kvadratroden er 20. Og så når man har to kvadratrod.
+
+11:45
+Så kan der er ganget med hinanden. Så kan vi gange det der står under kvadrat hos tegnet sammen, så det bliver altså fem ganget 20.
+
+11:54
+Så står der kvadratroden af 100, og det giver så 10.
+
+12:02
+Og så forkorter vi lige, så er det tre år over fem.
+
+12:09
+Så nu ved vi, at kurset norsk tv denne er tre år over fem.
+
+12:19
+Og så vinklen finder vi jo så ved den omvendte funktion til COS news, som hedder arcus cosinus.
+
+12:32
+Arcus cosinus til et træ over fem. Og dette det giver ikke en eller anden smart tale med pli eller et eller andet, så vi holder bare her.
+
+12:48
+Det her er det eksakte svar, så vi sætter to streger under. Så fik vi prøvet nogle af de første sætninger her.
+
+13:06
+4. Hvor vi lige går tilbage til den situation her.
+
+13:28
+Se hvis prikproduktet er nul. Vi antager selvfølgelig det er to vektorer som ikke er nul vektoren.
+
+13:35
+Se hvis deres prikproduktet nul. Den er forskellig fra nul.
+
+13:41
+Den er forskellig fra nul. Så er der kun den mulighed, at Kuznets ved den er nul.
+
+13:48
+Og hvad betyder det samme vinklen ved. Hvis cosinus leverer nul, hva så vi?
+
+13:56
+Den er 90 grader. Det er et resultat vi meget ofte har brug for, altså prikproduktet er to vektorer lig med nul.
+
+14:10
+Det er så ensbetydende med at. De er ortogonale, dvs.
+
+14:20
+Vinklen imellem dem, dem er 90 grader. I må også gerne Seppi halve.
+
+14:27
+Og ja. Så kan vi også godt sige, at hvis produktet er mindre end nul, så er vinklen mindre end 90 grader mindre end pi halve.
+
+14:45
+Nej, omvendt hvis prikproduktet er positivt.
+
+14:52
+Så har vi lært at vinklen er mindre end nul, og det er vi.
+
+15:08
+Prøv at se hvis vinklen er mindre nul, så er cosinus den at den er positiv.
+
+15:18
+Men hvis vinklen er større end 90 grader, så bliver cosinus negativ.
+
+15:26
+Så vi kan se at prikproduktet er positivt, hvis vinklen er mindre end pi, og den er negativ.
+
+15:34
+Hvis vinklen hvis den er stump vinklet sonde, så må sætning nummer fire.
+
+15:59
+Se nu har vi her en vægtere a. Og vi har en vigtig B.
+
+16:18
+Så er vi mange gange brug for at kigge på produktionen af B på F.
+
+16:27
+Så hvad mener vi med det? Jo, vi nedfælder den vinkelrette her.
+
+16:35
+Og så ligger der en ny væg så her. Som vi kalder for produktionen af B på A.
+
+16:53
+Og den skal vi altså lige kigge kigget lidt på. Se.
+
+17:01
+Hvis vi nu kalder. Den vinkel der ligger her får vi.
+
+17:10
+Så ved vi jo ud fra vores sætninger om retvinklet trekant at cosinus til vinklen det er den hos liggende kan TT divideret med hypotenusen,
+
+17:22
+så jeg ved altså, at cosinus til vi den højtliggende kateter, som så er længden af den dér produktion svigter.
+
+17:41
+Og så divideret med hypotenusen som er B.B.
+
+17:45
+Tom. Det er jo den, der ligger her i den retvinklet trekant, så der skal vi altså divideret med den der.
+
+17:56
+Og ud fra dette her, så får vi jo. At længden af produktionens vektoren.
+
+18:13
+Er det det svarede så bare til. Nogle gange er den der længden af bede over på den anden side, og så får vi altså cosinus til V.
+
+18:23
+Gange med længden af begge. Det.
+
+18:33
+Jo. Tak for det.
+
+18:39
+Det skal der stå B er og skal der stå A der skal der står by, og det skal der stå a.
+
+18:46
+Ligesom vi har skrevet den her hende, for det er jo produktionen af B på.
+
+18:50
+Tak når cosinus tv.
+
+18:58
+Snakkede vi om i sætning nummer tre. Hvor der stod at den var prikproduktet af A og B.
+
+19:10
+Divideret med længden af de to vektorer gange med hinanden, og så har vi stadigvæk den der begge vægter.
+
+19:25
+Og så kan vi så se nu at den længde dér.
+
+19:30
+Den går væk med den længde der så tilbage, der har vi så her.
+
+19:38
+At længden af produktionen den f a gange med b divideret med længden af.
+
+19:51
+Så. Så altså en lille enkelt form længden af produktionen af B på A den er prik.
+
+20:04
+Produktet af de to divideret med længden af den vektor, den bliver produceret ind på.
+
+20:13
+Så er der måske nogle af jer der vil tænke på, at denne sætning som så hedder nummer fem.
+
+20:28
+Står der sig en længde af et prikproduktet divideret med a en længde er jo altid positiv.
+
+20:39
+Så hvad har vi forudsat? Vi har forudsat at vinklen er mindre end pi halve, sådan at det er prikproduktet rent faktisk er positivt.
+
+20:51
+Så står der altså noget positivt skal være noget positivt.
+
+20:54
+Så det vil jeg gerne lige bede om at huske her, at det, jeg har lavet her i første omgang, handler om, at vi har en spids vinkel trekant her.
+
+21:07
+Hvis den var stump vinklet, så skulle vi har haft et minus foran her, fordi længden skal være positiv.
+
+21:15
+Men for ikke at komplicere det, så holder vi den altså til det her indtil videre godt.
+
+21:21
+Det var sætning nummer fem, hvor vi så har fundet ud af, hvor langt denne produktion svigter.
+
+21:30
+Men vi vil også gerne have den formuleret som en vektor. Det her er jo et tal.
+
+21:36
+Dens længde er et tal, men vektoren selv. Hvad er den så?
+
+21:40
+Og det bliver sætning nummer seks. C.
+
+22:05
+Jeg vil gerne have opskrevet det her som en vægtere, og jeg kender jo dens længde.
+
+22:22
+Og hvordan kan jeg så få vægteren selv, for jeg kender dens længde.
+
+22:29
+Her kommer vi i tæt første gang og hører et trick.
+
+22:35
+Jeg har ved hvor lang den er når jeg skal også skrive vægteren selv, så ganger jeg den med.
+
+22:40
+En enhed svigter. En inspektor har jo længe den ind, og den har den rigtige retning.
+
+22:46
+Og så får vi en rigtig vægteren ud af det. Og hvordan kan jeg få en eneste sektor i det scenarie her?
+
+22:53
+Dér har I, hvor lang den er at definere dens længde.
+
+22:58
+A er for lang. Det er ikke en eneste sektor, så derfor dividere jeg A med dens længde.
+
+23:09
+Selv hvis jeg tager af vektoren og dividere den med dens længde, så er det her jeg har skrevet her.
+
+23:17
+Det er en enhed svigter. Den har længden 1. Og så kommer det hele til at passe.
+
+23:22
+Og så får vi at. Så får vi her.
+
+23:28
+Vi sætter den lige lidt sammen, så står der, at dette er prikproduktet af A og B.
+
+23:37
+Og så får vi i en bryg. Her får vi så længden af A i anden, for den står både her og her, og så skal det ganges med a vektoren.
+
+23:55
+Så sådan fik vi altså fundet selve produktionens vektoren.
+
+24:01
+Den væk, så her kan jeg finde. Hvis I laver prikproduktet af de to vektorer.
+
+24:09
+Divideret med længden af den vektor der produceres ned på i anden.
+
+24:13
+Det her giver så et tal som så skal ganges med vektoren af den er lidt hård at se første gang, men nu er den altså smidt lige i hovedet på jer.
+
+24:37
+Sætning nummer 7. Se, vi kigger på en.
+
+24:50
+Vi kigger jo på en vektor af. Og så kigger vi på en væg B.
+
+25:05
+Denne her sætning handler kun om planen. Der findes ikke en direkte ækvivalent for rummet.
+
+25:16
+Det kommer til at se lidt anderledes ud. Det kommer vi ind på om lidt. Men prøv at se her.
+
+25:21
+Vi har givet dette vektorer, og nu betragter vi det parallelogram, som er udspændt af disse to vektorer.
+
+25:29
+Så I kan altså se, hvis vi lige laver nogle parallelle linjer her.
+
+25:38
+Så har vi et parallelogram det parallelogram.
+
+25:42
+Det kan vi kalde for Alfa. Så er altså altså parallelogram.
+
+25:58
+Alfa er udspændt at de to vektorer a og b.
+
+26:10
+Og det vi nu interesserer os for, er arealet af det parallelogram.
+
+26:19
+Som vi skriver her Royal A eller Alfa er det.
+
+26:31
+Og om sådan en idé om sådan et parallelogram, der kender Mia.
+
+26:36
+En helt grundlæggende sætning, der siger, at den er grundlinjen gange højden.
+
+26:55
+Grundlinjen er det. Det kan vi så sige. Det er. Længden af vektoren, og så skal vi altså her højden.
+
+27:05
+At det er dér parallelogram, og nu skal vi se, hvordan vi får højden af dette parallelogram.
+
+27:10
+Det gør jeg ved, at jeg nu laver. Sværvægteren til af set sværvægteren der ligger her.
+
+27:25
+Her har vi a hat vektoren. Og ja.
+
+27:35
+Så højden. Den har vi jo repræsenteret her.
+
+27:41
+Det er længden af det stykke der ligger her. Men.
+
+27:48
+Det er jo lige præcis længden af begge sprog reaktion på a hat.
+
+27:54
+Kan I se det? Altså hvis jeg producerer den dér. Bevæg dig ind på a hat, så er det den vægt, der ligger her.
+
+28:02
+Den vægter vi kigger på her. Den hedder altså Paul. B.
+
+28:10
+På hat. Så det vil altså sige vi har brug for længden af A.
+
+28:28
+Og så har vi brug for længden af produktions sektoren.
+
+28:34
+Og længden af produktionens vektoren. Det var jo.
+
+28:40
+Prikproduktet af de to. Og så divideret med.
+
+28:53
+Længden er den vektor der produceres inde på. Det vil sige at det er at have et indlæg her.
+
+29:03
+Så her fik vi brug for sætningen nummer fem. Den der.
+
+29:14
+Og kan i se længden. Så er hat får vi jo bare ved at svinge den med 90 grader, så de to længder dér er lig med hinanden.
+
+29:24
+Den går væk med den. Og så har vi her.
+
+29:30
+B et over B2. Der skal prikkes med.
+
+29:41
+Ja, så skal vi, så skal vi have koordinaterne for a hat.
+
+29:48
+Hvad er koordinaterne for sværvægteren? Det er der ingen der ved der menes at to, og så den får vi nemlig, som der bliver sagt.
+
+30:00
+Vi trækker anden koordinaten op, for oven sætter et minus foran os.
+
+30:08
+Første koordinaten ned i kælderen.
+
+30:12
+Der har i koordinaterne for en sværvægter og så prøvelser og og regn det her ud den gange med den kan vi starte med.
+
+30:23
+Det er et gange B2, og så får vi altså minus er to gange b et.
+
+30:37
+Og siger det noget. Eventuelt for sidste gang.
+
+30:45
+Terminalen, der var determinanten af A og B. Altså af ét af to.
+
+30:59
+Ét af to B et for B 2, og som vi også beskrives sådan her.
+
+31:08
+Det er determinanten at den matrix der fremkommer.
+
+31:16
+Ud fra de to vektorer I har der. Og dette var så lad mig se.
+
+31:24
+Ja, det var sætning nummer 7. Vi er så er nået frem til meget enkel formel.
+
+31:34
+Hvis I har et parallelogram, der er udspændt af to vektorer.
+
+31:40
+Hvordan kan man finde det? Det er simpelt hen bare determinanten at den matrix, hvor der står a koordinaterne og bede koordinaterne.
+
+31:52
+Så hermed fik vi forbundet de to ting fra sidste gang, som sidste gang stod klart adskilt, hvor vi først talte om det til Menander.
+
+32:01
+Altså et tal, der bliver regnet ud på en mærkelig måde. Og så geometri og jeg lavede parallelogram dér.
+
+32:07
+Determinanten af de to vektorer udspænder det godt. Nu vil vi så snakke lidt om.
+
+32:25
+Krydsproduktet. Og krydsproduktet det har vi ikke i planen, så det handler kun om rummet.
+
+32:39
+Så vi har her. Vi har givet her.
+
+32:48
+Vi har givet en en af vector.
+
+32:57
+Som har koordinaterne af ét af to og er tre.
+
+33:05
+Og så har vi en b væg, så hvis koordinater med hensyn til standard basten er B et, B to og B 3.
+
+33:23
+Og så indfører vi krydsproduktet, så er det sådan her ikke definition kunstprodukt.
+
+33:34
+Definition af krydsproduktet. Og krydsproduktet, det kalder man tit for store EM.
+
+33:55
+Og det er A Cruys B.
+
+33:59
+Sådan skriver vi det også. Og det DSK det netop fremkommer som 3.
+
+34:10
+Determinanten første koordinaten er en determinanten and koordinaten and determination og så tredje koordinaten af en determinanten.
+
+34:23
+Og. Jeg er så heldig at min mors telefonnummer er 23 31 12.
+
+34:30
+Så derfor har jeg nemt ved at lave denne her. Determinanten.
+
+34:44
+Er to af tre B to.
+
+34:50
+B 3. Den gange med den minus den ganget med den.
+
+35:00
+Og så er det determinanten af C.
+
+35:05
+Den gange med den minus den gange med den det giver a et a tre.
+
+35:16
+Og så b et B 3. Så ser.
+
+35:34
+Han kan huske min mors telefonnummer bedre end jeg selv og så til sidst.
+
+35:44
+Så skal vi have determinanten af at ét er 2.
+
+35:51
+B et og B2 fonde. Og det er altså 23 31 12.
+
+36:07
+Og jeg husker det på den måde at R2 skal ganges med B3,
+
+36:11
+og så ser vi minus den ganger med den og så sige a tre gange med den mener stemte ganget med den,
+
+36:17
+og det siges den ganget med den minus den gange ved det. Krydsproduktet kommer til at lave mange gange og noget denne stil.
+
+36:26
+Sådan husker jeg det altså. Så nu har vi altså fået defineret krydsproduktet ved hjælp af tre determinanten.
+
+36:44
+Når det fine ved krydsproduktet altså i første omgang er, at krydsproduktet er vinkelret på hver af de to vektorer til stammer fra.
+
+36:58
+Så det er en god måde vi har to vægt to vektorer, og jeg skal have en tredje vektorer, som er vinkelrette på dem begge to.
+
+37:06
+Så laver man bare deres krydsproduktet og. Det tror jeg bare simpelt hen, at den tager vi som sætning nummer 8.
+
+37:19
+Det er at en. Er Otto Grundahl.
+
+37:32
+Både på A og B. Og hvis I har lyst til at vise at det er sandt.
+
+37:54
+Så ved vi jo altså hvornår to vektorer hvornår de er ortogonale.
+
+38:00
+Det er de nemlig når hvad. Det samme.
+
+38:05
+Kryb i deres prikproduktet og nul, så den måde I altså kan vise det på er at I laver simpelt hen.
+
+38:12
+Altså udregner disse tre determinanten, og så tager I så prikproduktet af den og den.
+
+38:21
+Og så giver det nul. Det må I selv prøve.
+
+38:24
+Og på samme måde som at bede vektoren udregne de tre determinanten, tage prikproduktet, så vil det giver nul.
+
+38:30
+Så derfor er en altså ortogonale på dem begge to.
+
+38:40
+Og så er vi. Op i sætningen nummer ni.
+
+38:59
+Og hvor vi så vi er i nu, er vi i rummet.
+
+39:13
+Og der er givet to vektorer. Og så igen kigger vi på det parallelogram, som er udspændt af de to vektorer, og vi havde sætning 7,
+
+39:32
+der handlede om denne her situation i planen, og hvor det var et determinanten med fik brug for.
+
+39:40
+Det kan vi ikke bruge her. Men så er der noget andet der er lige så fint, og den sætning tror jeg godt I kender fra gymnasiet.
+
+39:48
+Hvordan finder vi arealet? Af det parallelogram er nogle af jer der kan huske.
+
+40:03
+Der er længden af krydsproduktet, så der skal vi altså bare lige har udregnet disse koordinater.
+
+40:12
+Og så tager vi altså længden af krydsproduktet. Det er selvfølgelig et lidt mere kompliceret udregning.
+
+40:19
+I ét eller i planen der har vi kun brug for en determinanten.
+
+40:23
+Her får vi så brug for ikke mindre end tre determinanten, og så skal vi udregne dens længde,
+
+40:28
+så arealet er parallelogram, der er længden af krydsproduktet, eller for at vi lige husker det er så krydset med B.
+
+40:43
+Og så får jeg lige brug for.
+
+40:50
+Den tavle der her sonde, ja, og så skal vi have den.
+
+40:58
+Den tiende sætning. Vi er stadigvæk i rummet.
+
+41:10
+Og vi kigger her på en vektor med en vektor a.
+
+41:24
+Vi kigger på en væg, så B. Og nu kigger vi sørme også på en væg, så se.
+
+41:36
+Søndag. Tre vektorer afsat ud fra det samme punkt i rummet, og nu kigger vi på den figur,
+
+41:47
+som hedder et parallel epitome, og nu skal jeg se, om jeg kan få tegnet den.
+
+41:57
+Se, her har jeg tegner den en gang til. Og så trækker vi lige af vektoren derhen.
+
+42:04
+Så kan vi tegne den en gang til dér, og så tegner vi den her.
+
+42:11
+Og så har vi her den. Gå derhen til den går derhen til, og så har vi.
+
+42:22
+Dér og så har vi dér. Og jeg siger.
+
+42:30
+Bum bum. Sådan er. Så har vi altså sådan en.
+
+42:39
+Kan I se sådan en en skæv kasse her form? Sådan der.
+
+42:55
+Og den kunne vi kalde for den kunne vi kalde for beta.
+
+43:03
+Altså Parallel Pippi.
+
+43:15
+Parallelt i bederum udspændt af tre vektorer a, b og c.
+
+43:28
+Og nu vil jeg gerne se om vi kan finde ud af volumen af det her parallelt libitum.
+
+43:35
+Og et parallelt epidermis, som vi vil kalde for beta.
+
+43:45
+Altså herinde der har vi så parallelle Pipi dum beta.
+
+43:51
+Og det vi er interesserede i er volumen.
+
+43:58
+At dette parallelt bliver beton, og her er der så også en elementær geometrisk sætning, der siger at det er grundflade gange med højden.
+
+44:32
+Grunden fladen. Da kunne vi jo betragte det parallelogram, som er udspændt af A og B, og det er her,
+
+44:40
+og der bruger vi nu sætningen nummer ni, for det er nu betragter vi deres krydsproduktet, som er en vektoren.
+
+44:55
+Det har i indikatoren. Så grundflade det simpelt hen.
+
+45:06
+Længden af. Krydsproduktet af de to vektorer, og nu skal vi så have højden af dette parallelogram,
+
+45:16
+og det får vi ved at producere se vektoren ind på den der lodrette vektor.
+
+45:24
+Så her kigger vi altså på den vægtere her.
+
+45:31
+Som hedder Troy. At se vægtere på investor.
+
+45:46
+Og vi har brug for produktionen af.
+
+45:52
+Man sagde se på en. Leg med og finde beholder lige den dér.
+
+46:08
+Og så husker hvad længden af en produktionsfaktorer at den var.
+
+46:14
+Det var jo prikproduktet af de to. De vil derfor med længden af den vægtere der pryder ind på.
+
+46:28
+Og så får vi altså her, at der står både længden af en på dette sted og i nævneren, og så går de væk mod hinanden.
+
+46:37
+Og så har vi her. Meget fin form.
+
+46:45
+At vi kan få volumen af beta ved at prikke se vektoren med krydsproduktet af A og B.
+
+46:56
+Gør. Der. Øhm undskyld.
+
+47:02
+Næste gang venter et valg.
+
+47:08
+Ja tak. Det er selvfølgelig et gange tegn.
+
+47:12
+Det er jo ikke det der var kendt gange med den, ja tak for det.
+
+47:17
+Og det er jo derfor, at de to er, at de går ud mod hinanden.
+
+47:22
+Sondering når. Og her kunne vi sådan set godt stop for det her.
+
+47:28
+Det er rigtig flot, men. Vi skal jo selvfølgelig lige fejre at det er efterårsferie.
+
+47:39
+Og så prøver vi nu at prikke de to med hinanden se væk, så denne nede at se et set to til tre,
+
+47:47
+så der får vi altså at se ét og sejrer det gange med det terminalt.
+
+47:55
+At to af tre bind, to, bind tre og plus anden koordinaten for den gang angår den aaben for dem, og det var set 2.
+
+48:11
+Og så var det, at tre af et bind, tre bind et.
+
+48:18
+Og så er det tredje koordinaten her. Det er så se tre gange determinanten af at ét af 2 og b et og B-2.
+
+48:46
+Og så begynder det måske at ligne et eller andet.
+
+48:50
+For det kan jeg huske når vi udregner determinanten af et tre kryds tre Matrix', så fik vi netop summen tre her.
+
+49:02
+Vi skulle gange med hinanden. Der var godt nok et minus her.
+
+49:09
+Så vi har opløst den efter tredje søjle. Selv et til to til tre.
+
+49:14
+Mangler bare et minus her. Men så husker vi jo determinanten den skifter eller det skifter fortegn.
+
+49:22
+Hvis vi byder dem op, så får vi et minus der. Og så bliver det lige med determinanten af ét af 2.
+
+49:35
+Og 3. B et b 2.
+
+49:40
+B tre. C et. Se 2. Se.
+
+49:44
+3. Og denne er altså så opløst efter tredje søjle her.
+
+49:53
+Det er c et gange.
+
+49:58
+Den fyr der står dér og så mine to.
+
+50:03
+Gange med den der står her, der bare lige er vendt om, så vi får det rigtige fortegn.
+
+50:11
+Og så til sidst skal der stå sit tre her og så gange med den sidste.
+
+50:16
+Så nu har vi fundet et rigtig, rigtig flot resultat, nemlig at volumen af et parallelogram udspændt af tre vektorer.
+
+50:33
+Lima determinanten af de tre vektorer. A, B og C.
+
+50:48
+Så flot kan det gøres. Så I har altså Janet parallelogram.
+
+50:56
+Og nu har vi også fået et en volumen form. Hvad siger du?
+
+51:01
+Ja, hvis det er negativt, ja, så skal vi alle de steder.
+
+51:05
+Så det var det, jeg sagde. Altså, jeg har taget udgangspunkt i alle de sætninger, vi har arbejdet med nu.
+
+51:12
+Det er altså den situation, som står her. Hvis A og B er dumping, glider.
+
+51:23
+Så skal vi jo alle vegne, hvor det handler om her og da handlede det om en længde, så kommer, så kommer den, der sætter den med røde streger.
+
+51:34
+Så skal vi have numerisk værdi af prikproduktet og i areal.
+
+51:41
+Formlen se hvor havde vi? Syveren viser, at den selvfølgelig her.
+
+51:52
+Så der skal vi have et areal. Det er altid positivt og så.
+
+51:58
+Altså hvis vi lige korrigerer igennem for det forbehold her også.
+
+52:03
+Så pointen er til sidst, at arealet. Hvis de to vektorer der er stumpt vinklede,
+
+52:13
+jamen så skal de altså have numeriske værdi af determinanten og altså på samme måde her til sidst, at hvis de to vektorer her.
+
+52:23
+Altså hvis det ikke kan være en spids vinkel vi havde her, jamen så var volumenet vi regnet ud på denne her måde.
+
+52:30
+Det ville så er blevet negativt. Men der klarer vi den også ved at sætte numerisk værdi.
+
+52:36
+Tegn på det? Ja, spørgsmål Hvad ansatte normalt?
+
+52:42
+Det kunne vi godt. Der bliver foreslået. Hvorfor har du ikke bare skrevet numerisk?
+
+52:46
+Fordi hele vejen. Og at det altså er en pædagogisk reduktion, jeg har lavet, fordi at der er rigeligt af teknisk stof i det her.
+
+52:55
+Hvis jeg skulle have sat alt i den numeriske værdi tegn helt hen af vejen, så derfor vil jeg hellere tage dette forbehold og takke jer to,
+
+53:03
+fordi de spørgsmål, de har stillet her og ikke for det er forklaringen for, hvorfor jeg har gjort det?
+
+53:09
+Ja, men det var altså lige det der.
+
+53:14
+Og så skal vi prøve at sammenfatte noget af det, vi har lavet forrige gang.
+
+53:21
+Altså på store dag og det vi har snakket om nu. Og jeg skal lige have lidt tid til at få visket nogle tavler ud til det sidste.
+
+53:30
+Her. Nej, det kan være den figur.
+
+53:46
+Christian. Aften.
+
+53:54
+Så. Der er bare tre sætninger hvor du sagde at der var en stump engelsk, skulle man til mummespil.
+
+54:02
+Og så kan jeg lige så Viotti sætning. Ja, det var sætningen. 7. Og så 25.
+
+54:09
+Ja, der var de lækreste. Ja, det klippede.
+
+54:12
+Snoren står. Jeg hænger ikke vande. Er det tjek for mit hold? Kan du holde, kan du?
+
+54:16
+Ja. Ja, jeg tager en lige efter er. Sag.
+
+55:32
+Der er nogen der har glemt sådan en fin notesbog som denne dans studerende, der lige har været nede med dem.
+
+55:38
+Jeg ved ikke hvem der ejer den. Er der nogen af jer, der ejede den eller kender den, er dem selv.
+
+55:45
+Ellers ligger den her, som I kan tage den, når vi er færdige lige om lidt.
+
+55:50
+Se. For at se i planen.
+
+56:04
+Der snakkede i sidste gang om lineært uafhængige vektorer for at se sættet.
+
+56:16
+Sættet A kan vi kalde det da består af de to vektorer af ét og er to er en basis.
+
+56:31
+Se hvornår var det? Vi kunne bruge to vektorer som en basis.
+
+56:38
+Af en basis for planen en ny basis hvad var kravet er nu ensbetydende med, at det ligner lejerne lineært uafhængig.
+
+57:01
+Som jeg også når det i planen, så kan vi sige, at de ikke er parallelle. Og så er de, så er de på denne her måde her.
+
+57:10
+Det er to lineært uafhængige vektorer. Se nu kigger vi på det parallelogram, som er udspændt af de to vektorer.
+
+57:18
+Her. Så hvis de ikke er parallelle.
+
+57:23
+Så er deres areal parallelt parallelt parallelogram lokummet udspændt af disse to vektorer forskellig fra nul, og så vil det sige at hvad?
+
+57:36
+Parallelogram med her. Det er ikke nul, da gælder det om determinanten.
+
+57:47
+Og. De lineært afhængig.
+
+57:56
+Hvor stort er det parallelogram som de udspænder? Hvad siger du?
+
+58:01
+Det er noget at være så determinanten. Den er også nul.
+
+58:05
+Bum! Parallelogram med at I kan sidde her.
+
+58:09
+Arealet er ikke nul, og så determinanten heller ikke er nok. Så de to vektorer.
+
+58:17
+De er altså en basis, der kan ikke bare udregne deres determinanten.
+
+58:31
+Sådan her. Og det var jo også ensbetydende med sorg ved sidste gang, at matricen af A og B er regulær.
+
+58:52
+Og så har vi altså fordi det er en basis, så kan enhver vektor v.
+
+59:02
+Den kan skrives som en vinder og kombination af de to vektorer på et gang a et plus kort to gange a.
+
+59:10
+2. Og så er det vi skriver, at hvis koordinater med hensyn til A basen er K et.
+
+59:24
+Over CO2. I rummet.
+
+59:39
+Altså sættet. Vi kan også se det kalder det også her for a vi med et vægtere to vektorer er tre vektor er en basis for rummet.
+
+1:00:05
+Hvis og kun hvis de er lineært uafhængige.
+
+1:00:22
+Proteser. Hvis de er lineært afhængige.
+
+1:00:29
+Hvor stort er volumen af det parallelle epitome, som disse tre vektorer udspænder, er nået.
+
+1:00:38
+Så hvis det er lineært uafhængige, så er determinanten altså nul.
+
+1:00:43
+Hvis det ikke er lineært uafhængige, så kan vi se her.
+
+1:00:46
+Så har vi et parallelt et bederum, hvis for lugen er forskellig fra nul.
+
+1:00:51
+Det vil sige, at determinanten er forskellige fra nul.
+
+1:00:55
+Og hermed har I et genialt forslag til, hvordan vi kan afgøre om tre vektorer om de er en basis for rummet.
+
+1:01:05
+De tager bare simpelt hen deres terminalt.
+
+1:01:14
+Og så er det gyldigt, hvis volumen af det parallelle epitome, det vil sige et determinanten, er forskellig fra nul.
+
+1:01:25
+Og det vil selvfølgelig også sige at. Når der lige her.
+
+1:01:35
+Prøv at se herover. Jeg havde jo kaldt vektorerne er et af to.
+
+1:01:40
+Og så skal det også her stå determinanten af et og to.
+
+1:01:47
+Og sang, og det samme er ét og af to. Sådan som fik vi lige rettet den, og her har vi så.
+
+1:01:58
+At matricen af ét er to og tre, at den er regulære.
+
+1:02:11
+Og at en hver vektor i rummet ved at den kan skrives som en lille nara kombination af basis vektorerne går et a,
+
+1:02:22
+et kort, to A2 plus kort tre af A3 og at den dermed hvis vi skriver V op på koordinat.
+
+1:02:32
+Tom husker at bassen den bestod af vektorer.
+
+1:02:37
+Så er det her dens koordinater med hensyn til bassen her.
+
+1:02:45
+Og nu tager jeg lige et meget hurtigt eksempel. Til sidst jeg beklager, jeg lige gå et par minutter over tiden.
+
+1:02:56
+Så. Prøv at se.
+
+1:03:10
+I planen har vi givet tre vektorer.
+
+1:03:16
+Vi har en a et vektor som hedder 2 komma 1.
+
+1:03:23
+Vi har en af to vektorer som hedder 1 kommer minus tre.
+
+1:03:29
+Og så har vi en v vektor som hedder 7 komma minus 7.
+
+1:03:41
+Og punkt ét vis at sættet af bestående af de to, at de to af vektorer er en basis.
+
+1:03:59
+Og Panopto. Find koordinaterne for den tredje vægter med hensyn til basen A.
+
+1:04:20
+Det er lige de to ting, jeg gerne vil have fundet ud af her.
+
+1:04:34
+Se hvordan gader viser meget nemt at de to vektorer der.
+
+1:04:39
+De udgør en basis for planen. Hvad den nemmeste metode.
+
+1:04:45
+Tag til determinanten, da determinanten to over 1 1 over minus 3.
+
+1:05:00
+Og vi udregner den den giver minus 6 og minus serien, det giver minus 7.
+
+1:05:09
+Og pointen her er, at den er forskellig fra nul.
+
+1:05:16
+Er. Af ét år er to.
+
+1:05:24
+Lineært, uafhængige og af et komma er to er en basis og.
+
+1:05:42
+Nu ved vi, at hvis to vektorer udgør en basis, så kan en hver anden.
+
+1:05:53
+Enhver anden vægter kan skrives som en Leynar kombination af de to.
+
+1:05:57
+Så nu skal vi have fundet ud af, hvordan vi opskrives ved hjælp af et ATO som en vinder akkumulation, ikke?
+
+1:06:08
+Altså vi skriver her ved vægteren. Den skal være en konstant gange af et vektoren, altså et er et plus CO2.
+
+1:06:19
+A2. Og det er jo så på et af vektoren.
+
+1:06:30
+Det var to over én og et plus på 2.
+
+1:06:37
+Og så er det en over minus tre. Sådan her.
+
+1:06:48
+Og vi skriver videre på se at vi ganger K et én på hver af de pladser dér.
+
+1:06:56
+Så får vi altså her at 2 K et plus K to og gange er nu ned her forneden.
+
+1:07:05
+Der har vi k et minus tre CO2.
+
+1:07:15
+Og det skal være lige med ved lektoren, som var 7 over mine 7.
+
+1:07:28
+I. Se de to lektorer her meget en basis.
+
+1:07:37
+Vi skal finde ud af være koordinaterne for den dér med hensyn til den basis her kan vi se.
+
+1:07:43
+Det fører til et lineær glidning system. To ligninger med to ubekendte ét og to er de ubekendte.
+
+1:07:52
+Og hvad får vi så i? Vi får en total matrix. Som hedder 2 1 7.
+
+1:08:02
+Og så hedder den. 1 minus tre og minus 7.
+
+1:08:09
+Ja, faktisk er det bare de tre jeg har skrevet op som en matrix her.
+
+1:08:15
+Af ét er to og vi vektoren, for så laver vi lige her en hurtig.
+
+1:08:25
+Reduktion Trapp T.
+
+1:08:30
+5 giver så en over nul nul over én, og så står der to og tre.
+
+1:08:37
+Så bliver sige k et. Den har ideer.
+
+1:08:43
+Det er to og tre. Den er jo 3, og så har vi altså besvarede spørgsmålet koordinaterne for V.
+
+1:08:51
+Med hensyn til basen af den er to over tre så endnu gang et eksempel på,
+
+1:09:02
+hvordan de spørgsmål vi stiller os om geometri og mange andre steder, det havner med et line og udligningssystem.
+
+1:09:11
+En total matrix, som vi skal reducere. Og så har I svaret Det var jeres tur.
+
+1:09:16
+Jeg ønsker jer en rigtig god efterårsferie. Tak for nu.

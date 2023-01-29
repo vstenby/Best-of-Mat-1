@@ -1,0 +1,1073 @@
+0:04
+Jeg går morgen hellere i dag skal vi snakke og arbejdet med polynomier, og hermed er vi kommet direkte ind i hjertet af de komplekse tal.
+
+0:20
+For det er jo herfra, det hele stammer. Se.
+
+0:25
+Problemet er. Hvorfor er der nogle polynomier der har rødder, nogle der ikke har.
+
+0:31
+Spørgsmålet. Og spørgsmål 2 er altså hvor mange rødder har egentlig polynomier?
+
+0:40
+Der er 17 gratis polynomier, der har 13 rødder.
+
+0:44
+Der er 17 gratis polynomier, der har tre rødder, og det er jo noget værre rod, og det kan matematikere ikke li, så det skal vi have gjort noget ved.
+
+0:56
+Og så indfører vi jo de komplekse tal, og hermed har vi løst det første spørgsmål, der er nævnt hermed.
+
+1:05
+Hvorfor er der nogen, der ikke har? Og det problem blev løst af Gauss.
+
+1:17
+I hans. Doktorafhandling fra 17.
+
+1:21
+Han er 99 som hedder Algebraens fundamental sætning.
+
+1:33
+Som siger at alle polynomier har mindst en rød.
+
+1:48
+Det lyder simpelt, men det er altså kun fordi vi har gået ind i de komplekse tal og.
+
+1:56
+Gauss havde selvfølgelig et bevis med et perfekt bevis, kan man godt sige.
+
+2:01
+Han var bare ikke selv helt tilfreds.
+
+2:03
+Så han udarbejdede i sin karriere fire forskellige beviser for det her, så det var noget, der lå ham virkelig meget på sinde.
+
+2:11
+Han blev regnet for måske verdens største matematiker nogensinde.
+
+2:17
+Så det er altså et held vi teorien vi har fat i her i dag.
+
+2:22
+Selv om det ser så simpelt og uskyldigt ud.
+
+2:27
+Det andet spørgsmål var så det der med hvor mange rødder har de så?
+
+2:31
+Nu ved vi, de har en sten. Hvor mange har de så? Det vender vi tilbage til senere i dag.
+
+2:40
+En ting er jo så det at vi ved at polynomier har rødder.
+
+2:44
+Noget andet er jo, så hvordan finder vi dem? Og der er også lidt historik her.
+
+3:02
+Altså at I får læst med cirka 8.000.
+
+3:08
+Altså løser. I sin berømte bog Hopper.
+
+3:18
+Alle eller forskellige typer af anden grads ligninger har altså formler på forskellige typer af Andras ligninger.
+
+3:27
+Og så har vi ca. Persisk matematiker.
+
+3:40
+Som sådan cirka 11 12 århundreder altså løser.
+
+3:48
+Tredje og fjerde gang er stigninger.
+
+4:00
+Altså sådan en, altså sådan en geometrisk grafisk metode han finder frem til Hvis han har for eksempel en Kjærgaards ligning,
+
+4:09
+så kan han tegne en bestemt cirkel med en bestemt radio. Han kan tegne en parabel og dér hvor de så skærer hinanden.
+
+4:17
+Det svarer til at løsninger af fjergræs ligningen.
+
+4:22
+Det han sagde også var, at man kan ikke give en almen algebraisk løsning på tredje og fjerde grads ligninger.
+
+4:31
+Der tog han jo altså fejl, fordi der har vi Carballo og andre som cirka.
+
+4:44
+15 århundreder giver altså konkrete formler.
+
+4:52
+For tredje og fjerde grads ligninger. Og det vakte selvfølgelig stor opsigt, at man så kunne det alligevel.
+
+5:06
+Og så. Er dog uklart, da man havde fundet de former for tredje og fjergræs ligninger.
+
+5:13
+Så var meldingerne jo klar over, at den der kunne finde formlen for femte grads ligningen, var sikker på berømmelse i matematikkens historie.
+
+5:23
+Så det arbejde man så heftigt på i flere århundreder en til.
+
+5:33
+Jeg kender ikke det præcise årstal, men skal vi sige cirka 18 105.
+
+5:40
+Der har vi. Hvad griner jeg?
+
+5:46
+Eller hvad var hvorfor gør der ikke når at bombe igennem?
+
+5:53
+Det her var jo flot en. Altså at dansk norske matematiker ALK-Abelló og gav Loiret samt i det omkring sagde, at der findes ikke løsninger,
+
+6:16
+altså formler eksakte formler for løsninger af ligninger, der er større end eller lig med Grade 5.
+
+6:28
+Så det var altså et negativt bevis, som jo altså så skaffede dem berømmelse, fordi så var den potte ude.
+
+6:36
+Så var der ingen længere, der gad at arbejde med det spørgsmål. Så det vil jeg sige, at så skal man jo have, altså det selvfølgelig.
+
+6:57
+Der kan være mange forskellige metoder til at gætte løsninger eller finde løsninger i specielt polynomier og så videre.
+
+7:07
+Det er selvfølgelig også er dyrket, og så er der jo masser af numeriske metoder, hvor man kan tilnærme sig løsningerne.
+
+7:15
+Men altså formlen for eksakte løsninger findes ikke. Vi skal i dag arbejde med anden grads ligningen om hvor vi skal se på generelle formål,
+
+7:27
+og vi vil også hen ad vejen komme til at kigge på forskellige tredje,
+
+7:30
+fjerde og femte grads ligninger, som vi arbejder med, og som vi altså kan finde løsninger til uden decideret og gik i gang.
+
+7:39
+Går i gang med med eksakte formler. Så lad os nu få tingene lidt mere præciseret.
+
+8:00
+Altså et polynomium. Har bogen.
+
+8:13
+Pincet er lig med a n gangen, et sæt i vente plus end minus en opløftet til et sæt i minus center,
+
+8:27
+og sådan kan vi fortsætte ned til én ad gangen i sæt og nul, som bare er en konstant.
+
+8:39
+Og der siger vi så at hvis a m er forskellig fra nul.
+
+8:49
+Så er. Så siger vi, at det er et integreres polynomium vi har fat i.
+
+9:03
+Så lad os lige prøve at se nogle eksempler på polynomier.
+
+9:13
+Altså et sæt som er i gange med sæt i anden plus pi gangen i sæt plus tre i for eksempel.
+
+9:27
+Er så et andet Kongrespolen. Vium. Altså vi kan jo grad på 1 2.
+
+9:49
+Altså hvis man har et polynomiet med denne type p.
+
+9:53
+2. Sæt alligevel 5. Så taler vi om et nul begraves på lokum.
+
+10:07
+Og hvis vi decideret har p er sæt lig med nul, så taler vi om nul polynomiet.
+
+10:30
+Og så selvfølgelig bare lige for at præcisere. Det her emne og videre som med bare generelt eller i det er koefficienterne og a i z i det.
+
+10:55
+Er det måske dumt, når vi nu har komplekse tal og Bo-Bi som index.
+
+10:59
+Vi kan sige på. Det gør. Det kalder man for polynomiet lede, så det vil altså sige polynomiet har aller højest en plus et led.
+
+11:22
+Og så bør vi også lige fastlægge at P er Z er lig med Q og Z for alle Z.
+
+11:38
+Hvis og kun hvis P og Q har de samme koefficienter.
+
+11:57
+Så man kan altså ikke forestille sig et eller andet polynomium af grad 735.
+
+12:04
+Og man lægger en masse led til og så et andet polynomium med nogle andre led.
+
+12:12
+De to kan ikke være identiske med mindre at alle deres coffee center er identiske, så det vil altså sige at kopiere budgetterne for et polynomium.
+
+12:23
+Det fastlægger polynomiet fuldstændigt. Og ja.
+
+12:37
+På den enorme Meyer er der biler.
+
+12:48
+Med hensyn til addition. Og multiplikation de siger jeg også bare for en ordens skyld.
+
+13:03
+Altså har jeg to polynomier. Lægger jeg dem sammen?
+
+13:08
+Jamen så kan jeg kom.
+
+13:09
+Så kan jeg opskrive dem på den standard form ved at bytte lidt rundt på leddene og aktualisere og ganger jeg to polynomier med hinanden.
+
+13:18
+Så får jeg også et polynomium. Og hvis Steen har gravet en og anden har gravet M.
+
+13:25
+Ja, så er produkt polynomiet der har gravet m plus m.
+
+13:32
+Så det er nogle resultater vi simpelthen er nødt til lige at nævne, fordi at det bygger forelæsningen her på.
+
+13:42
+Når det sjove ved polynomier er selvfølgelig deres rødder.
+
+13:50
+Så lad os lige give en definition på det.
+
+14:00
+Og hvor vi siger at Z0 er rod i polynomiet p.
+
+14:10
+Hvis helt at sætte noget er lig med nul.
+
+14:21
+Og så bemærk lige det her vi kan se. At finde rødderne under.
+
+14:31
+I P. Er det og det samme.
+
+14:40
+Som at løse ligningen når.
+
+14:51
+P er z er lig med nul. Så bemærk altså det Når vi taler om polynomier, så taler vi om deres rødder.
+
+15:05
+Og hvad er rødderne for noget? Rødderne. Det er løsningerne på den ledning der opstår, når man sætter polynomiet lig med nul.
+
+15:16
+Så få en opgave der hedder løst denne her ligning.
+
+15:21
+Så kunne jeg lige så godt være blevet spurgt om. Find rødderne i polynomiet, så det er sådan et sprogbrug.
+
+15:28
+Lad os tage et eksempel. Og det er et første grads polynomium.
+
+15:56
+Og polynomiet lyder sådan her. P.
+
+16:01
+Z. Er 2. Venus by.
+
+16:05
+Sæt. Minus fem i.
+
+16:18
+Og opgaven lyder. Vi skal finde rødderne.
+
+16:26
+Så vi skal finde rødderne, så skal vi altså løse den ligning her.
+
+16:30
+P er z er lig med nul. Så vi siger altså 2 minus de sæt minus 5 1 er lig nul.
+
+16:45
+Jeg tror i øvrigt, at det var sådan her, ingen havde tænkt det. Vi altså har et plus her.
+
+16:52
+Og så kan vi jo bare gå frem som vi plejer, når vi løser ligninger. Vi skal have isolerede sæt.
+
+16:59
+Først flytter vi. 5 i over på den anden side og få minus 5 i.
+
+17:13
+Og så dividere vi med koefficienten på begge sider.
+
+17:19
+Og så får vi at Z er lig med minus fem i.
+
+17:30
+Divideret med 2 i. Ja, og det skal stå dér.
+
+17:43
+Og så ved vi jo, at hvis man skal finde sådan en bryg her på betongulv rektangulære form, så ganger man med nævneren.
+
+17:53
+Kun en byret i både tæller og nævner det metoden. Så vi får altså at Z er lig med minus fem i.
+
+18:04
+Også her har vi altså i nævneren 2 minus melodi, som vi så ganger med den konjugerede dvs.
+
+18:11
+2 +1 og så 4 gange med det samme tal i tælleren.
+
+18:23
+Og så får vi altså her forklaret sætningen Det er to tal sång gange to tals differens der altså kvadratet på første led minus kvadratet på anden led.
+
+18:35
+Det giver fire, og så giver det.
+
+18:42
+Så giver det minus i hjernen, det vil sige at det giver én, og så får vi altså fem.
+
+18:47
+I nævneren og så i tælleren får vi ganger minus 5 ind med i her, og så får vi 5 og som minus 10 i.
+
+19:01
+Og så skal vi have skrevet tallet på rektangulær form, og så får vi en minus 2 i.
+
+19:10
+Og så har vi altså her løsningen på ligningen. Og der blev bedt om rødderne.
+
+19:16
+Vi står, og der var netop en rod. Og hvad er det nu rådet betyder?
+
+19:28
+Det betyder jo, at hvis jeg indsætter bruden, så skal det give nul.
+
+19:39
+Så lad os lige lave et tjek på det her. Så jeg siger P af roden.
+
+19:54
+Skal jeg så være lig med 2 minus 1 gange med 1 minus 2 i, så skal vi se +5 i.
+
+20:12
+Og så mangler vi parenteserne ud. 2 minus 4 i minus 1, og så får vi minus 4 i plus 5 i.
+
+20:29
+Og lad mig lige se her. Det er også der mangler vi lige et led.
+
+20:34
+Dette. Der er jo i det bliver vi får +2 i, og det vil sige at det giver minus 2.
+
+20:46
+Og så går to ud mod minus to.
+
+20:48
+Og så har vi altså minus fem plus fem i, og som forventet fik vi altså, at ruden indsat i polynomiet giver os som forventet nul.
+
+21:11
+Godt, så skal vi snakke om hullet når.
+
+21:15
+Division. Det er en bestemt algoritme, der meget ligner den sædvanlige divisions algoritme for hele tal,
+
+21:24
+så derfor er jeg håber I undskylder mig, at jeg tager udgangspunkt i noget meget elementært.
+
+21:31
+Men jeg tror I forstår pointen. Når vi når frem til hullet, nogen os.
+
+21:35
+Division. Se vi kigger på fem århundreder og 49 år 13 indbrud.
+
+21:56
+Nu vil vi lave en division ud fra det her. Vi skriver her til venstre, der skriver vi et beviser om.
+
+22:10
+Og så starter jeg altså med divisionen.
+
+22:18
+13 oppe i 54. Det giver en 4 gang vi ganger 4 med 13.
+
+22:24
+Det giver 52 trækker fra.
+
+22:28
+Det giver 2 trækker 9 ned.
+
+22:33
+Så får jeg et 2 tal her. Jeg ganger 2 med 13.
+
+22:37
+Det giver 26, og så når vi frem til tallet tre.
+
+22:44
+Og så ser vi et tre er mindre end tretten, og så er divisionen ophørt.
+
+22:51
+Og så kalder vi det rareste. Og vi kan nu sige, at den bryg jeg havde skrevet op 500 og 49 divideret med 13 bind er så procenten.
+
+23:14
+42. Plus resten over divison.
+
+23:27
+Ganger jeg nu med 13 på begge sider, så får jeg at 549 det kan skrives som det viser om.
+
+23:41
+Ganget med procenten og så plus at resten.
+
+23:52
+Altså hvor vi så bemærker at tre er mindre end 13.
+
+24:01
+Det tror jeg jeg. Det var svært.
+
+24:09
+Så nu tager vi et stykke, der er lidt nemmere. Vi kigger på 136 divideret med 4.
+
+24:26
+Det er højere. Det viser om. Herover skal jeg skrive mit resultat.
+
+24:33
+Så fire oppe i 13. Det giver tre.
+
+24:39
+Vi får 12 trækker fra at den bliver en trækker med 6 tallet ned, så står der 16 fire op i 16.
+
+24:51
+Det giver fire. Nu skal jeg gange fire med fire. Jeg skriver 16 trækker fra.
+
+25:00
+Og så er der en rest på nul. Og så er det vi siger er divisionen.
+
+25:08
+Den gik op. Og jeg kan skrive endnu at 136 divideret med 4 altså giver 16.
+
+25:23
+Og det er så ensbetydende med at hundreder.
+
+25:30
+Er det lidt mere? Det var det jeg sagde det var svært.
+
+25:38
+4 gange ved 4 4 gange med 34 og så plus resten der var nul.
+
+25:46
+Så jeg er altså nået frem til dette resultat her.
+
+26:00
+Når man kan konkludere de to hele tal.
+
+26:10
+P og det. Min påstand er så.
+
+26:20
+Der findes hele tal som vi kalder for Q og er.
+
+26:36
+Sådan at tallet p det kan skrives som det ganget med Q.
+
+26:48
+Plus resten er. Og hvor resten er mindre end det.
+
+27:06
+Det her resultat, det vil vi nu bruge for polynomier og så opstille en lignende sætning for polynomier.
+
+27:37
+Og man skal lige se hvor jeg har. For denne.
+
+27:45
+Ellers må vi se det vi siger der hvis.
+
+27:54
+Eller givet. Polynomier.
+
+28:04
+P og det. Så findes polynomier.
+
+28:22
+Som vi kan kalde for Q og er.
+
+28:30
+Sådan at polynomiet p er z.
+
+28:41
+Det kan skrives som. Det viser polynomiet. Det er sæt gange kursen polynomiet Q og Z.
+
+28:54
+Plus rest kulde nå er set. Og hvor er graden?
+
+29:07
+Altså hvor grejet er er mindre end.
+
+29:16
+Altså graden af resten af nummet er mindre end graden af det viser polynomiet.
+
+29:42
+Og det vil jeg så gerne vide via et eksempel på dette.
+
+29:52
+Se. Se nu betragter vi det der hedder en nu sprød, som hedder X i femte plus en.
+
+30:14
+Divideret med. Ex i anden minus.
+
+30:22
+Og nu vil jeg udføre fulgte nogle byers division. Så her har jeg altså det polynomier.
+
+30:34
+Ja, vi er oppe i. Her der har jeg det viser polynomiet.
+
+30:47
+Og så vil jeg gerne finde courgette polynomiet her hen.
+
+30:54
+Så nu skal jeg altså finde en grade her af X.
+
+30:59
+Sådan at når jeg ganger med ægte anden, så skal jeg få X i femte.
+
+31:05
+Og det er selvfølgelig ikke sit tredje jeg har brug for.
+
+31:10
+Og nu skal jeg altså gange det tal der står her med.
+
+31:14
+Det viser om. Så får jeg eks i femte minus ex i tredje.
+
+31:30
+Og nu skal jeg trække frem.
+
+31:32
+Det vil sige, at jeg ser exit i femte min udsigt til femte, der går som ventet forventet væk, og så bliver det altså en minus minus.
+
+31:40
+Exit tredje det vil sige vækst i tredje plus en.
+
+31:51
+Og nu skal jeg så kigge på et. På et en grad er ekser sådan at gange med exit ende for et exit.
+
+31:59
+Tredje Det er selvfølgelig et plus. Eks. Jeg tager eks garner med.
+
+32:05
+Det viser om så får jeg eks i et tredje og minus ex.
+
+32:16
+Og vi trækker frem og giver nul, og så får vi så eksklusivt.
+
+32:27
+Nu er jeg nået frem til et polynomium som har lavere grad end mænd.
+
+32:33
+Det viser, og så giver det ingen mening at fortsætte divisionen.
+
+32:40
+Så hermed er jeg færdig. Divisionen gik ikke op, for der var altså en rest, som er forskellig fra nul polynomiet.
+
+32:48
+Men det jeg kan sige nu er altså at X i et femte plus 1 divideret med x i hjernen minus 1.
+
+32:59
+Det er lig med det resultat jeg fandt. Exit tredje plus x.
+
+33:06
+Og så plus resten. Bukke.
+
+33:19
+Og det vil så sige at det her det er så ikke ensbetydende med, at X i femte +1,
+
+33:29
+hvis jeg ganger over med devise om, at det så er lig med X i anden min numse.
+
+33:37
+En ganger med exit. Tredje plus x.
+
+33:43
+Og så er plus. Vækst. Og dermed kan jeg se den algoritme jeg har lavet her hende.
+
+33:55
+Den passer altså. Et givent polynomium, altså det der står her.
+
+34:02
+Det er mit polynomium. Dér har jeg beviserne.
+
+34:16
+Derfor har jeg procenten. Og det har jeg rejst på donorblod, som har lavere grad end mit.
+
+34:26
+Det viser polynomier. Så nu var jeg altså eksemplificeret ved det her.
+
+34:31
+Helt generelt resultat jeg har brug for. Nu vil jeg trække en vigtig konsekvens ud af dette resultat.
+
+34:59
+Jeg har skrevet op nu. Hvis hullet nominerede P.
+
+35:24
+Divideres. Med et første grads polynomium.
+
+35:34
+Er den her form z minus z nul.
+
+35:45
+Så findes et polynomium q. Så bange at.
+
+35:56
+Det givne polynomier med Q eller P og Z.
+
+36:03
+Kan skrives som det viser om. Gange med Bruxelles polynomiet.
+
+36:18
+Også her kommer det interessante. Plus en konstant.
+
+36:34
+Og hvordan når jeg frem til den konstant? Hvorfor er den konstant der skal stå den?
+
+36:51
+Hvis de kigger på. Hvis I kigger på denne her.
+
+37:06
+Ja, hvad siger du? Jeg har brugt.
+
+37:16
+Det er Brest polynomium der kommer ud her. Det skal jo have en grad der er mindre end det viser puttet ned, da det viser polynomiet.
+
+37:27
+Det er et første grads polynomium, så må det være et.
+
+37:32
+03 grads polynomium og et nul sikkerhedspulje nogenlunde.
+
+37:38
+Det Mario er den type herover. Her havde vi et der hedder 5. Jeg.
+
+37:56
+Se. Se nu indsætter jeg tallet sæt nul i dette udtryk.
+
+38:14
+Så får jeg. P. At sætte noget.
+
+38:21
+Er lig med z nul minus sæt nul.
+
+38:25
+Gange Q er Z. Plus en konstant.
+
+38:32
+Eller blev stemt konstant, som vi altså har fundet her op. Hvad det.
+
+38:39
+Ja. Og der kan vi altså se i og med at denne her faktor i hvert fald er lig med nul, så er.
+
+38:52
+Så hvis. Hvis det er nul skal være en rod, så skal Peter sætte den skal være nul.
+
+39:01
+Og så skal hele højresiden være nul. Så hvis vi sætter den dér lige med nul.
+
+39:10
+Så det her ved lige med nul. Og så skal det også være lige mig noget.
+
+39:17
+Så det her altså ved at sætte den ned i nul.
+
+39:20
+Så skal konstanten være nul, og det vil altså sige divisionen.
+
+39:27
+Den skal gå op resten. Den er nul.
+
+39:42
+Så det vi nu kan skrive sætning. Ud fra dette er at sætte noget er rodet i et polynomium.
+
+39:56
+P hvis og kun hvis.
+
+40:09
+Der findes et polynomium q. Startbanen at.
+
+40:21
+P. Z kan skrives som sæt minus, sæt nul gange med polynomiet.
+
+40:41
+Sagt på en anden måde har jeg et polynomium, og har jeg en rod der hedder sæt nul, så skal den division der hedder p divideret med z minus tæt nul.
+
+40:54
+Den skal gå op. Lad os tage et eksempel på det.
+
+41:18
+Jeg kigger på et et. Polo normsæt, som er et tredjegrads bud, men set i et tredje minus to sæt i anden.
+
+41:31
+Plus sæt. Minus to.
+
+41:48
+Og hvis jeg indsætter tallet to her, så har vi otte minus 8 plus 2 minus 2.
+
+42:06
+Altså ved indsættelse serier. At PET er 2.
+
+42:11
+Den giver nul. Så er sæt noget lig med 2.
+
+42:21
+Rod i hundelort. Påstanden er altså nu, at jeg kan finde et Q Poul norm om.
+
+42:36
+Sådan at Pind kan opskrives som sæt. Minus 2 gange med polynomiet.
+
+42:44
+Så lad os se om det holder vand. Så jeg har altså her sæt i tredje minus to sæt i anden plus sæt minus 2.
+
+43:07
+Om et det viser polynomium fordi roden boenheder hedder 2. Så er mit beviser bulen med z minus 2.
+
+43:17
+Og så skulle jeg altså gerne kunne få polynomiet ud her og hen.
+
+43:25
+Og I ser. Jeg skal altså lede efter en grad af Sepp, så man bliver ganget med Z, for vi er sætte et tredje, og da gætter jeg på sæt i anden.
+
+43:39
+Og så skal jeg gange det med beviser om. Så får jeg selv i et tredje minut 2 sæt i anden.
+
+43:52
+Trækker fra det gav tilfældigvis nul det at vide alt muligt andet.
+
+43:56
+Nu er gaten altså nul, og så trækker jeg de to ved ved.
+
+44:09
+Og nu skal jeg så lede efter et tal her hen.
+
+44:13
+Så når det ganget med sætningen U2 giver det, der står her, og det er selvfølgelig bare tallet en.
+
+44:19
+Jeg er ganger det giver Z minus 2.
+
+44:25
+Trækker fra resten. Den blev nul.
+
+44:32
+Divisionen gik altså op. Så her til sidst jeg kørte.
+
+44:44
+Når jeg så. Altså jeg må jo altså ellers stå ved et, trækker man den ned efterhånden.
+
+44:48
+Det er sådan set lige meget. Jeg kunne være der.
+
+44:53
+Altså, jeg forstår godt, hvem mener, men vi når nøjagtig samme sted hen.
+
+44:58
+Når. Hvad var det givne polynomium? Det var Peter Z.
+
+45:06
+P er z havde altså skrives som første grads polynomiet der hedder z minus to og så gange med Bruxelles polynomium, som er set i anden pludselig.
+
+45:24
+Og hermed har jeg altså fået Factory citerede fulgte med.
+
+45:33
+Og her kan I sikkert allesammen godt se at det her er jo også et polynomium,
+
+45:39
+som har en rod en dag en meget berømt rod i det her kursus, nemlig roden i.
+
+45:48
+Det vil så sige at jeg kan Factory ser videre.
+
+45:58
+Nemlig Tilsæt minus 2 og så sæt minus.
+
+46:07
+Ruden i. Det er bare den ene råd og minus i den anden rod.
+
+46:14
+Derfor får jeg her pludselig. Så nu har jeg altså lavet en fuldstændig Factory Ziering af dette polynomiet.
+
+46:27
+Men det var altså min sætning der gav mig altså kun første del, men for en ordens skyld, så tog jeg det sidste.
+
+46:32
+Hermed.
+
+47:10
+Når vi skal lige inden pausen, hiver den sidste altså teoretiske gyser, men som også vil give mig smagt på det spørgsmål, jeg stillede op i starten.
+
+47:25
+Altså mit første spørgsmål var Hvorfor findes der polynomier, der ikke har en rod?
+
+47:29
+Det har vi fået svar, at alle de har en råd. Det andet spørgsmål var Hvorfor er det så rodet dermed, hvor mange rødder et polynomium det har?
+
+47:40
+Det er det spørgsmål, vi skal afklare nu, og det kræver altså lige en.
+
+47:49
+En lille teoretisk udvid udledning her dybet.
+
+47:55
+Politologen Joachim P. Med.
+
+48:04
+Hvor graden altså er så kort sagt et integreres polynomium.
+
+48:10
+Vi ved at den har en rod. Det har Gauss fortalt os.
+
+48:28
+Så der findes i hvert fald råd, og den kan vi kalde sætte et.
+
+48:35
+Nu kan py så skrives som stemte minus sæt et.
+
+48:45
+Gange et procent polynomium. Q et.
+
+49:01
+Og hvor graden af q et den må være præcis en mindre end graden af polynomiet p.
+
+49:09
+Hvis jeg tager det største led her og ganger med det her, så får jeg jo set i et andet niveau seen gange med Z.
+
+49:18
+Det giver sig selv I endte, så roret falder sammen med én, når jeg dividere her med et polynomium.
+
+49:27
+Og der fandtes altså et polynomium. Det er det udsagn jeg nu har udnyttet.
+
+49:34
+Så vil det altså sige, at q et det er et n minus 1.
+
+49:38
+Det gratis polynomium. Så siger Gauss Jamen, det polynomium har jo en rod.
+
+49:56
+Og lad os sige at vi tager en af dem og kalder den for at sætte 2.
+
+50:02
+Ja man så kør pr. Sæt jo skrives som sæt minus, sæt ind og q et.
+
+50:12
+Det kan skrives som sæt mine sæt 2.
+
+50:19
+Gange med et polynomium q er z.
+
+50:30
+Som har varet 1 minut 2. Så er q A2 et end minus to graders polynomium,
+
+50:41
+og nu fortsætter vi med simpelt at sige Jeg må jo også have en rod, lad os kalde den for Z Tre og så videre.
+
+50:55
+Så vi fortsætter, og så siger vi altså at p er z den kan skrives som z minus Z, et gange Z minus 2 og så videre op til z minus Z.
+
+51:14
+En gange Q af M er Z.
+
+51:27
+Q er en må nu være et nulte grads polynomium. Det vil sige at det må være en konstant der står der til sidst.
+
+51:37
+Nu er den jo gået alle grader med ned. Vi har trukket infra, og så er den altså er nul.
+
+51:53
+Og så. Der skal. Er.
+
+52:05
+Og så kan vi sætte kure ind, som er en konstant tænker Michael M.
+
+52:10
+Og så kan vi altså skrive pik set på den her form a i m z minus z ep.
+
+52:22
+Gange. Sæt minus sæt 2 gange gangen gange.
+
+52:27
+Sæt minus sæt en. Og ligesom jeg altså fik lavet en fuldstændig aktiv isolering her hende, der viste at tredjegrads på nummeret, har tre brødre.
+
+52:46
+Så kan jeg se nu, at det er lykkedes mig at lave en fuldstændig Factory Ziering af polynomiet ud i tre.
+
+52:56
+Eller ud i en første grads polynomier. Og herovre kan jeg læse da ud fra nul reglen.
+
+53:04
+Husk et produkt kan kun gå i nul, hvis en af faktorerne er nul.
+
+53:10
+Så ud fra nul reglen her. Hvis det her skal være nul.
+
+53:15
+Det kan det kun være, hvis en af faktorerne er nul.
+
+53:19
+Så vil jeg sige Sæt en per være en rod. Så giver det nemlig nul sæt.
+
+53:25
+2 kan være en rod og så videre. Optisk set n kan være en rod, og der kan ikke være andre rødder.
+
+53:37
+Så det betyder altså svar på spørgsmål 2.
+
+53:46
+Ja. Så det her er altså en konsekvens af Gausel sætning.
+
+54:09
+Hvad siger du? Et andet grads, et MB grads polynomium har præcis n rødder, så vi får ryddet op i den butik.
+
+54:20
+Men hov. Ja, hvad siger du? Er det med vilje? Nej, det gjorde mig selv bosat på fristelser.
+
+54:27
+Ja, det ville jeg også foreslå. Tak for rettelsen.
+
+54:36
+Jeg ja, travlt nok. Jeg kom til at skrive nul i stedet for to der.
+
+54:45
+Men hov, vi har jo et problem. Når jeg nu har skrevet denne her sætning op.
+
+54:52
+Jeg har jo et altså et kraftigt forklaringsproblem, for lad os nu sige, at for eksempel at polynomiet p.
+
+55:05
+Og Q. De har en fælles rod. Sådan at.
+
+55:12
+Det sæt et jeg indsatte her og det sæt.
+
+55:17
+2 i virkeligheden er den samme rod. Jamen så er der jo ikke en rød.
+
+55:23
+Så er der jo kun end minusser mod at få. Nogle af dem kan altså være ens. Så det er det sidste vi lige skal have set.
+
+55:31
+Hvad kan vi dog gøre ved det? Eksempel.
+
+55:43
+Ca. Se.
+
+55:48
+Lad os sige at p. Z. Den er to gange især den femte.
+
+55:56
+Plus fire gange med Z i tredje.
+
+56:04
+Plus to sæt. Lad os prøve at forenkle det lidt.
+
+56:17
+Jeg sætter to tallet udenfor en parantes.
+
+56:21
+Det er jo det er jo koefficienten til tilsæt i femte.
+
+56:27
+Og så har jeg altså selv i femte plus 2.
+
+56:31
+Sæt i tredje. Plus sæt.
+
+56:40
+Men der er jo også en fælles faktor her. Nemlig fælles faktoren Z.
+
+56:47
+Så kan jeg også sætte udenfor en pause. Så har vi altså her 2. Sæt i femte.
+
+56:55
+Som bliver til sætte i fjerde. Plus, og så får vi to sæt i anden.
+
+57:03
+Og så får vi plus en. Og så har jeg altså Factory i med Z.
+
+57:22
+Er der kommentar til denne her? Kvadrat sætninger.
+
+57:36
+Den er vistnok set i anden plus en anden.
+
+57:46
+Altså kvadratet på 1 2 leddet størrelser, hvor der på første led besætte fjerde.
+
+57:53
+Hos kvadratet på det andet led. Det giver ingen plus det dobbelte produkt, produktet giver to sæt.
+
+57:59
+Så nu har jeg altså opnået den faktor i serien her. Det her er jo set i anden plus en.
+
+58:07
+Den har rødderne i og minus i.
+
+58:11
+Og den står altså to gange. Og det var første gang jeg har skrevet den op, men den er jo i potensen.
+
+58:31
+2. Så vi får altså set bluesy gange med Z nu se.
+
+58:38
+Også så gange med sæt. Og nu samler jeg.
+
+58:48
+Så de faktorer som er ens, så får jeg et sæt plus i i anden.
+
+59:00
+Og så får jeg sæt mine osei i anden, og så får jeg sæt.
+
+59:10
+Ja, sæt af plus i anden og det her er ikke sandt.
+
+59:16
+Se, nu har jeg skrevet denne her op på fuldstændig Factory ser reformen sådan som den står her, og vi kan jo se,
+
+59:25
+det var jo i femte grads polynomium, og der kom jo ganske rigtigt fem led ud af det den sidste.
+
+59:34
+Her kan jeg vælge at skrive som sæt minus nul.
+
+59:39
+Altså. Fem parenteser kom der ud af det her.
+
+59:46
+Så det vil altså sige, at det siger vi så som om i denne her rod to gange.
+
+59:52
+Det er den samme rod, men den har multiplicere T2. Ligesådan med mere nu.
+
+59:59
+Se den har rod to gange, så den er altså også med multi boligsitet 2.
+
+1:00:06
+Sæt denne her rod en gang. Det vil altså sige at det er med multiplex sitet.
+
+1:00:12
+5. Så går jeg altså ned og læser her.
+
+1:00:17
+Så står der altså 2 plus 2 plus 1. Det giver 5.
+
+1:00:23
+Så den sætning jeg har skrevet op her.
+
+1:00:30
+Skal altså have følgende modifikation. Når rødderne.
+
+1:00:48
+Regnes med mod 10 pct.
+
+1:00:57
+Multiplayer sitet, så jeg ser indgangen til Minos I havde multiplayer sitet 1 2, pludselig havde også multiplayer sitet 1, 2 og nul.
+
+1:01:09
+Den havde Hotel Boligsite den 1. Når lækker multi bliver sites samlet sammen, så får jeg fem.
+
+1:01:16
+Så i den forstand har vi altså fået løst problemet med antallet af rødder i polynomier og pause.

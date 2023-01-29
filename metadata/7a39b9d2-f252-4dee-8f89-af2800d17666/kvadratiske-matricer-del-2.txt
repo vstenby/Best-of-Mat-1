@@ -1,0 +1,887 @@
+0:04
+Der er kommet et spørgsmål, og svaret er, at det kan vi jo godt tale om.
+
+0:14
+Vi kender det i dag, men hvis man skulle gøre sådan noget.
+
+0:18
+Det er jo sådan, at hvis man skal bage en kage, så slår man op på en opskrift. Så meget mailer så meget smør.
+
+0:23
+Og så skal der noget kakao boller alle dele, når man lukker på næsen. Men der vil altid være noget mel til overs for eksempel.
+
+0:29
+Det har man fået meget af, ikke? Man er ikke så meget sukker, virkelig bare på det resten af mentees.
+
+0:33
+Ikke nogen kage, noget frygteligt noget. Hvordan optimerer vi det her sådan, at vi får med forskellige opskrifter?
+
+0:40
+Kan vi vælge? Hvordan får vi mest mulig kage ud af de ingredienser? Der er en Lombarda linje af programmering.
+
+0:46
+Når operationsanalyse noget en del af mig antik, som faktisk bygger på matricer og sådan noget, så det er ikke et helt tosset spørgsmål.
+
+0:54
+Men detaljerne i lineær programmering er ikke en del af dette kursus. Men der findes kurser, der handler om det.
+
+1:00
+Så ikke kun kager med alt det, der er vigtigt. Eksempel Så jeg når, så fik vi taget det.
+
+1:09
+Hvad kan vi mere finde på? Vi skal i gang med determinanten. Og det er egentlig noget, der er ret sjovt, fordi det er et tal.
+
+1:18
+Et reelt tal, der siger ret meget om hele vores kasse med tallene.
+
+1:23
+Altså hele vores matrix. Vi har en masse kasser med hundrede søjler og hundreder rækker fyldt med tal.
+
+1:29
+Og så får vi et tallet ved determinanten af ledende matricer, og det fortæller os ret meget om,
+
+1:33
+hvordan denne her matrix opfører sig, så vi går i gang med det tager man alt det tavler.
+
+1:40
+10. Jeg vil dække hele fem ting.
+
+1:46
+Jeg skal også lige sige, at når nu vi sidder brugt al denne tid i dag, så vil vi jo blive meget skuffede,
+
+1:52
+når vi ser Mabel Dæmon, når man bare på en eller en Mascis skal skrive en, hvis A.
+
+1:58
+Det er meget kedeligt, altså at så for kommer denne inverse matrix ud.
+
+2:06
+Men det skal vi nok få at se senere. Hvis jeg det som en munter, og vi starter med et simpelt eksempel, nemlig vi har en med tricks af.
+
+2:20
+Det er det stadigvæk alle med at vi ser A er af type 1 procent, og i det første tilfælde her vil vi tage en af matrice.
+
+2:32
+Der er to gange, to er et a a et, to, a to, et og a to to, og det tal vi vil knytte.
+
+2:42
+Det er det, vi kalder determinanten af. Man skal jo her. A.
+
+2:55
+Er defineret som determinanten af og det skriver vi sådan her.
+
+3:02
+Irriterer af og det er så man tager hovedet diagonalen.
+
+3:07
+Her er et sæt gange af et to a to 2 minus A tog et a en to gange a tog et.
+
+3:14
+Altså man trækker denne. Er det Unal minus den helt godnat fra. Det har det til hinanden.
+
+3:19
+Det giver et tal matricen. Her ganger de der engang sammen og ud, og så får vi tal.
+
+3:29
+Ja, nogle har måske regnet sådan her ud før.
+
+3:34
+Der findes forskellige steder, det optræder.
+
+3:38
+Men lad os lige vende lidt med, hvad de siger til, at vi nu lige vil introducere regner for en større matrix.
+
+3:47
+Altså en ændring, indmad, tricks og ideer for at klare det.
+
+3:53
+Så må vi lave lidt forarbejde, hvis de taler om snit matricer. Hvad er en slidt matrice?
+
+4:02
+Ja, jeg ser lige på en Matrix A her.
+
+4:07
+Og lad os bare tage en kæmpestor ind a i lidt af et tog af et træ af et 80 A tog et a 2 2 a 2 3 a 2 4 a 3 et a 4 et a tre to a 3 3 a.
+
+4:28
+3. 4. A de to a five træer af 84.
+
+4:35
+Det lykkedes at få den skrevet op. Nu vil vi definere en snit matrice for og deres, mens vi bare en definition.
+
+4:45
+Snit matricen. Og den kalder vi her A.
+
+4:50
+Så sætter vi et en hat, en second flekser bog. Og så skriver vi i J defineres som.
+
+5:03
+Netop som matricen.
+
+5:10
+A. Uden nat uden søjler ved række.
+
+5:20
+Det der står i og uden søjle.
+
+5:28
+J. J stod det så.
+
+5:38
+Nu var. Nu kommer der Agerley i stedet tænke, hvorfor han ikke svarer med et spørgsmål, der trækker må sige tiden er forpasset.
+
+5:45
+For det første har flere jo. Hvis nogen af, så må jeg lige spørge mig, til øvelserne i dag kom over forbi.
+
+5:50
+For da jeg så folk bliver fjollet, hvis vi begynder at forklare noget af det her og nu,
+
+5:56
+mens vi i gang med det så svarer til øvelserne alder eller kom ned efter forelæsningen.
+
+6:03
+Jeg spørger Hvad skal jeg nok forklare igen? Langsomt og fint.
+
+6:09
+Så lad os prøve at finde en slidt matrice. Lad os for at finde den snit matrice her, der hedder A.
+
+6:14
+Og hvad fanden skal vi tage? Vil vi tage to tre? I forhold til vores af matricer står her hen.
+
+6:27
+Og svaret Jeg skal undlade søjle ray eller ved at række 2 og søjler 3.
+
+6:33
+Så jeg skal altså ikke have række 2 med, og jeg skal ikke have søjle 3 med, så det vil sige den hedder a lidt af et 2 af et 4.
+
+6:48
+Så hedder den altså et a 3 2 og a 3 4.
+
+6:55
+Og så hedder den a 4 et af 4 2 og 4 4.
+
+7:03
+Så er den snit matricen. Her.
+
+7:10
+Jeg ved bare jeg siger det bare den ikke, så må jeg jo også sagt være a 1, 3 osv.
+
+7:17
+Jeg tænker vel? Det er bare hvordan laver vi denne her snit matricer? Se, det vil vi gøre nu.
+
+7:22
+Det har vi vil regne vores del terminalt ud af en vilkårlig matrix ved hjælp af de her snit matricer her.
+
+7:29
+Og fidusen er, at så får vi en rekursivt procedure til at udregne lige havde determinanten.
+
+7:34
+Først skal vi finde determinanten og først skal finde determinanten af den store matrix, så kan vi skrive.
+
+7:39
+Det ville som det talenter af mindre matricer,
+
+7:42
+som vi så igen kan bruge snitte matricer bor Strødam ved determinanten af mindre matricer og mindre matricer mindre matricer,
+
+7:47
+indtil vi er nede ved to gange to matricer. Og så kan vi altså skrive vores determinanten.
+
+7:54
+Vi siger også det kom nu at vi opløser når vi skal finde determinanten a a er en l.
+
+8:04
+Undskyld. Jeg henter anden matrix, hvis den har fat i hele næsen.
+
+8:13
+Nu er jorden engang enmands.
+
+8:22
+Vi vil nu finde determinanten af. A.
+
+8:31
+A. Ved at opløse efter.
+
+8:41
+Veje kan i. Og kan jeg så finde determinanten af ved at oplyse efter række i det ved vi ikke hvad betyder endnu.
+
+8:51
+Det betyder følgende at vi tager et determinanten af er lig med.
+
+8:58
+Det bliver en sum. Jeg skal som en helt masse lede sammen. Jeg kan skrive her.
+
+9:02
+Harry J. Lig med ét til N. Det er altså en det der submission sandt vi sidder bare her end ved injicerede ved det her.
+
+9:11
+J Jeg skal tage Minos ind i denne række i opløse efter plus.
+
+9:17
+Denne er J, som varierer mellem en og en.
+
+9:21
+Og så skal jeg guide dem med elementer der hører til det første element, når den er indtager i række 1 6 i A i J.
+
+9:34
+C. Det er allesammen af ejerne. Her er elementer fra hvor store matrix A, og de lægger alle sammen i række 1.
+
+9:40
+Men så varierer J, når vi summerer mellem 1 og 1. Vi tager os alle elementer ned i række II på et eller andet tidspunkt,
+
+9:47
+og så skal vi gange det med determinanten af snit matricen, hvor ud vi har pillet række ind og rengjort.
+
+10:02
+Det er et ret stort arbejde at lave det her. Ja, der er frygtelig mange operationer fordi at når så nu kan jeg finde determinanten af.
+
+10:13
+Vi hjælper de slidte matrice, der bestiller en tolv gange 12 matrix, ikke så dem her.
+
+10:18
+Det er heldigvis kun 11 gange 11 matricer, men hver dem skal jeg lave.
+
+10:22
+Det her på skal skrive op til ti garanti matricer, hvis der tikker en times tid.
+
+10:26
+Han skal også 9,9 matricer og Hverringe, og så kan jeg lide enkelte. Tager man ud i den der zone, hvor der er altså 11 ned.
+
+10:31
+Hvis man skulle gøre det for en 50 gange 50 matrix med en lynhurtig computer, jamen så kunne vi godt have den til at regne i dag.
+
+10:40
+Og I kan også kirken i morgen, og I kan også tjekke om 14 dage. Og der var ikke færdig endnu.
+
+10:46
+Så det har været en fantastisk langsommelig procedure her i danmarkskendte og slidt løjer.
+
+10:53
+Men det er i hvert fald noget, der tager folk lang tid selv fra en computer, fordi der vokser rekursive. Det vokser helt kolossalt hurtigt det her.
+
+10:58
+Mængden af beregninger er heller ikke, som man gør i praksis, det sådan vi gør i praksis for vores små matricer.
+
+11:03
+Derfor gør vi det som vi skal også se nogle andre tricks til. Hvordan gør det? Hvordan gør Mabel?
+
+11:07
+Godt nok lidt, som vi skal sælge med en lidt anden metode, men lad os bruge den nye definition, som vi kan finde i,
+
+11:12
+at determinanten, som vi endnu ikke ved hvorfor er vigtige, men som jeg har sagt er vigtig, da sprogbrug definitionen er.
+
+11:23
+I. Diaz, lad os bare tage et eksempel jeg tager med her.
+
+11:46
+Lad os sige at jeg vil finde determinanten af hvor A er lig med følgende matrix.
+
+11:58
+En, to, tre, tre, to, en minos, en nål, en.
+
+12:11
+Jeg bruger min nye definition eller min nye måde at regne ud på.
+
+12:15
+Determinanten af at lege med. Jeg må selv vælge hvilken.
+
+12:20
+Jeg skal lige huske at sige det glemte at sige, for nu har jeg udviklet dem der efter en eller anden række.
+
+12:24
+Jeg man lige så gerne tage en hvilken som helst søjle og udviklende efter.
+
+12:28
+Så sker der ikke andet end de der elementer, der består af i øjet, i videoer, i et søjle.
+
+12:32
+Så skulle jeg bare stå J i og snit. Matricen skulle der j i.
+
+12:36
+Så jeg mig selv om hvilken om det søjle eller rækkevidde noget er taget rækker.
+
+12:40
+Og når man skal udvikle sådan en, så vælger man den søjle.
+
+12:45
+Nu er det jo så rækker, vi har taget, såvel i den række, hvor der er flest nuller i med at finde.
+
+12:52
+Den række kigger ned igennem krisen. Her er ikke nogen nåle. Heller ikke her var et nul.
+
+12:55
+Vi tager denne række vidt, udbygger den efter den tredje og række den her.
+
+12:59
+Hvorfor er det nemt, når der er noget der aviser? Så skriver vi Summa J lige med en, står der.
+
+13:06
+Og hvor hvor stor er matricen? Den tre gange tre J lige med en til tre. Så har vi minus en i række.
+
+13:13
+I er jo række tre, så det er tre plus J. Og så har vi a 3 J.
+
+13:22
+Husk I er hele tiden tre direkte tre ydervægge efter, og så har vi de her snit matricer eller det tangenter de har slidt matricer som hedder A.
+
+13:31
+3. J. Kan jeg hvordan, så regner vi den så mod første led.
+
+13:38
+Det J er et sandt J lige et sætter ind og så står der minus ét i fjerde forstår hvad A.
+
+13:47
+A skal skrive det. A tre et.
+
+13:51
+Og så står der determinanten a a tre et halvt plus næste led.
+
+13:59
+Hvad skal vi så tage da j lige to, så der står minus én i femte gange a tre 2 gange determinanten af a tre 2 snit decimal.
+
+14:12
+Man er slidt matricen plus det sidste led der hedder minus 1 J.
+
+14:16
+Den er blevet 1 3. Så står der minus 1 i sjette gang er A i 3 3 gange determinanten af a 3 tre sæt med teksten a 3 3 C.
+
+14:32
+Dette a 3. Det er jo det element, der står der. Række tre søjler et det minus en, så den er ved med minus 1 den her á 3 2.
+
+14:42
+Den er nul. Det er jo derfor den var så god at have med forsvinder helt ned.
+
+14:45
+Han skal ikke regne de deres snit matricer ud, og her står så et for alle tre lag.
+
+14:52
+Du udregne alle hvide snit matricer, kan vi finde determinanten af a tre et hat.
+
+15:01
+Hvad skal jeg gøre? Det er så determinanten af hvilken matrix jeg skal udelade at række tre søjle tid om 2, to, tre, et.
+
+15:13
+Det er noget vi kan regne ud, fordi det var en savant i formen fra før det to gange tog det to gange 1 minut, tre gange 2, så den er minus 4.
+
+15:23
+Denne her er lige, hvad denne er ligeglade med.
+
+15:25
+Der skal ganges med nul alligevel til jeg tager lige den der, der hedder determinanten af at snitte matricen a tre, tre.
+
+15:35
+Jamen, den er også let at undlade række tre søjle 3 eller ned to 1, 3 2.
+
+15:41
+Ja så determinanten af. 1 2 3 2.
+
+15:46
+Og det giver sig to grene giver 2 minus 6, og det giver igen minus fire.
+
+15:55
+Så har jeg alt hvad jeg skal bruge til min summen her. Hvad nummer er tolderen.
+
+16:26
+Tolderen 13. Der har valgt at vi skal bruge til vores lange zumba op, der står som et determinanten af alene mad.
+
+16:40
+Ja, der står minus egentlig fjerde.
+
+16:43
+Det er +1 gange minus 1 ganget determinanten af 3:1, som er minus fire størrelser, en gang minus 1 gange minus 4 plus det næste.
+
+16:58
+Det giver nul, fordi det var der, hvor vi havde a 3 2 bar nul.
+
+17:02
+Man giver sig ikke noget. Det sidste led har hen. Det giver minus.
+
+17:05
+En sjat giver en af tre træer, en det en gang en og determinanten af denne her, da der er minus fire, så den giver en gang.
+
+17:14
+En gang er minus fire. Alt i alt giver determinanten nul plus fire minus hvilke nul.
+
+17:23
+Så det var en moderat norm nul, og så giver den det. Hvad betyder det?
+
+17:27
+Det ved vi ikke endnu. Vi har bare udregnet ved, at det er vigtige tal, som siger en masse.
+
+17:34
+Ja, når man gør op i rækkerne for at skabe en række, når jeg kommer godt sporet.
+
+17:40
+Men det er jo ikke nødvendigt. Du kan jo bare udvikle efter en af rækkerne ind midt i.
+
+17:45
+Hvis det havde været en nål i en meter i en to anden række, havde bare udviklingen efter anden række.
+
+17:50
+Men hvis jeg nu er så i en række med et nul nej om I for at skabe en række.
+
+17:56
+Ja, det kommer nu godt. Du spørger.
+
+17:59
+Man skulle næsten tro, du er blevet bedt om det i pausen, sådan at det skulle virke som helt tilfældigt, at netop det spørgsmål.
+
+18:04
+Kunne vi bruge vores række operationer til og reducere disse matricer, så vil det være betydeligt lettere, hvis Gausdal ned.
+
+18:12
+Og svaret er Det kan vi godt. Og hvor meget vi interesserer Gaustad ned?
+
+18:17
+Svaret er hvis. En matrix er øvre eller nedre triangulær.
+
+18:35
+Og det betyder altså, at hvis matricen ser sådan her ud.
+
+18:40
+Der står noget i diagonalen, når der står noget her med nogle tal, men der står nul ovenover diagonalt.
+
+18:47
+Sådan så nær så den nedre triangulære, hvis den til os ned.
+
+18:51
+Der står nul under diagonalt. Der står noget hele vejen i diagonalen og står også noget heroppe.
+
+18:55
+Sådan behøver triangulær altså et stort tal, men over det, om kun noget eller under det andet er kun nul.
+
+19:02
+Så gælder det, at determinanten. Er produktet.
+
+19:15
+Af Ronald Menton. Det er ret let at vise det jo bare udviklet efter den første vi tager udblik efter første søjle hele tiden,
+
+19:27
+så vil I se, og så får vi simpelthen bare produkter af det vinanmelder.
+
+19:31
+Så hvis der står 0 over eller under finalen, kun så ganger vi bare de, men den sammen, så skal vi slet ikke bruge denne her vanskelige definition.
+
+19:38
+Ja, ellers.
+
+19:44
+En på der står jo Californien står der jo i plus jeg i træ og førster.
+
+19:52
+J Når vi starter i sumpen ved J lige ét, så bliver den 4.
+
+19:57
+Så J 2 bliver den 5. Og så j lige. 3. Den sidste led så J 6.
+
+20:02
+6 det fint. Så kunne vi bringe vores matrix her på den form der står nul over eller under diagonalen.
+
+20:11
+Så kan vi lynhurtigt femte terminalen, og det kan vi godt.
+
+20:15
+Ja, og det åbne samfund. Determinanten er produkter af diagonale elementerne når den er altså øvre eller nedre tre upolære.
+
+20:28
+Så det vi vil gøre nu er at sige må vi bringe vores matrix på en øvre og nedre trækul, lære former.
+
+20:34
+Hvad har det at gøre med determinanten, og der gælder vores tre række operationer, som vi kender.
+
+20:40
+Vi kan bytte to rækker, om vi kan guide en række med et tal, eller vi kan tage og guide en række med tallet lægge til hinanden.
+
+20:48
+To af dem vil jeg anbefale, at man ikke bruger alt for flittigt. Og en af dem skal man bruge alt det, man har lyst til, fordi.
+
+21:02
+Hvis nu kommenterer sætning. Vi har en indgang anmeldelser i sagen.
+
+21:17
+Og. Sætning Vi har en indgang en matrix af.
+
+21:33
+Hvis. Hvis.
+
+21:40
+2 rækker. Byttes om i a ændrer determinanten af a fortegn.
+
+21:58
+Så selvfølgelig 2 rækker om, så får vi modsat fortegn. Så skulle vi få den lyster bytte to rækker omme i en matrix.
+
+22:05
+Så byt to rækker mere om, så sker der ingenting foran dem.
+
+22:08
+Fortegn to gang. Hvis en række gange med en konstant går gange.
+
+22:30
+Determinanten. Grand determinanten.
+
+22:44
+Med på den er ikke så god at bruge, for det betyder, at hvis vi nu tager vores matrix af og gerne finde determinanten på en måde,
+
+22:51
+så får vi lyst til at gange række fem med en tredjedel, ja, så kan vi husker den determinanten fod.
+
+22:56
+Den er ganget med en tredjedel, så vi skal have den rigtigt. Er vi nødt til at den med tre.
+
+23:03
+Men hvis man helt undgår at bruge denne her. Det er faktisk ikke ret tit nødvendigt at bruge den, for i den sidste er det den vigtige.
+
+23:09
+Hvis. Det er en række at den sidste række operation ganget med en konstant.
+
+23:22
+Og lægges til. En anden række.
+
+23:32
+Ændres. Determinanten.
+
+23:42
+Ikke, og det er jo dejligt, så vi nøjes med at bruge den tredje her, så sker der ikke noget som helst,
+
+23:49
+så jeg må altid tage en række ad gangen med konstant liggende til hinanden. Det ændrer ikke spor ved determinanten, og prøv at se den.
+
+23:55
+Da operationen er lavet før, skal Wiibroe udføre den. Med vores nye metode her og hvad vil det være de 12 14 dage efter at have studeret lidt?
+
+24:11
+Hvorfor er vi når så højt op? I tavle tal har jeg faktisk fundet ud af, at efter vi går til matricer, det fylder meget mere.
+
+24:18
+Altså eksempler regnet. Det hele fylder mere. Sådan noget fylder mere, så der står mere på tavlen, da det jo komplekse tal.
+
+24:25
+Hvis jeg ikke tror mig så tælle tegn i hver eneste forelæsning, så tager fem.
+
+24:35
+Der er ejet mere end hvad jeg synes i hvert fald lige have det her med, for så det er altså dejligt at se, hvor let det kan gå med den nye metode.
+
+24:48
+Det er godt, at jeg nu tog en let. Det var jo en. Det var jo en tre gange tre og to før, for de vidste jo, at de der snit med 3,
+
+24:54
+som ville blive to, er to, vi umiddelbart kunne regne ud, hvis jeg havde en fire gange fire.
+
+24:58
+Havde de deres snit? Matricer stod jo her biden tre gange tre matricer, og på hver af dem skulle vi så lave den operation indgang til tjek også.
+
+25:06
+De vokser vanvittigt hurtigt og bliver meget, meget svært. Man er stor og mulighed for regnefejl.
+
+25:12
+Nå, men vi skal prøve at se på vores.
+
+25:14
+Vi vil gerne finde determinanten af følgende matrix den fra før 1, 2, 3, 3, 2, 1 og den der 1, 2, 3, 3 2 1 minus 1 01.
+
+25:26
+Og vi vil gøre det på få minutter for er hvad vi gør.
+
+25:31
+Jeg må jo, jeg må sige, at det vil jeg. Det må være det samme som determinanten er følgende.
+
+25:35
+Jeg må jo gerne tage en tand konstant af gangen, men rækker ikke til en anden uden at ændre determinanten.
+
+25:40
+Så hvis jeg nu tager den øverste række hér. Og lækker og lækker til den nederste række her.
+
+25:48
+Jeg har min stamme med, siger han nu også var i gang. Minut Træer lægger til den her excesser.
+
+25:52
+1. 2 3. Så siger jeg minus tre gange i den fuldstændig.
+
+25:56
+Giver nul minus tre gange i den forstand. Det giver minus 2 minus tre gange i den påstand.
+
+26:01
+Det giver minus 8. Der var noget større, altså ikke minus tre gange i den forstand, det bliver rigtig fint nok, siger den.
+
+26:12
+Blev stemt giver nul. Den blev stande i 2.
+
+26:17
+Den blev stemt. 4.
+
+26:23
+Skal jeg gøre det, når jeg kigger på det, og skal jeg bare lige til at sige, jeg købte, laver jeg ingen pile her, fordi en snitter to kan.
+
+26:32
+Så det jeg gør, laver en pil hernede, hvor jeg skriver det græske 2 minus 3 gange række ét, og så er det række 3 minus eller plus række ét.
+
+26:44
+Jeg forstår notationen, altså det matricer er gjort, det ved man det tager man jo en ændring.
+
+26:51
+Så tager jeg nu og vil gerne skaffe mig et nul hér.
+
+26:55
+Men jeg vil ikke have det fristende lige at gange med minus en fjerdedel i denne række, to og forvænte og så videre.
+
+27:01
+Det vil jeg ikke, fordi det er det, vi skal lave hver med. For skal vi til at huske noget?
+
+27:05
+Det er meget bedre værd at bruge den og se, om han ikke husker. Den tager jeg bare og ganger række to med med en halv og lægger til her.
+
+27:12
+Ikke sandt, for så er de ens de her hampplanter. 1 2, 3 0, minus 4 minus 8.
+
+27:19
+Og så siger så minus eller en halv gang imellem plus den. Det giver nul nul en halv gang i procent.
+
+27:25
+Det giver også nok. Nu er jeg færdig, fordi nu har jeg en yngre, triangulær og mattrick faster nuller.
+
+27:32
+Så er det bare produktet af diagonale elementerne der en del gange.
+
+27:37
+Minus fire. Og det er gange nul, og det giver altså nul.
+
+27:43
+Fuldstændig samme regnes Iran på samme måde som med regnede herover bare var noget nemmere
+
+27:48
+måde at hive godt til med fra ikke brug for det der med at bippe er en række med en konstant,
+
+27:53
+fordi jeg lige. Jeg skal ikke skaffe mig et og her kan gøre den øvre eller nedre trikolore.
+
+28:00
+Nå, hvad er det der sker? Prøv at se. Jeg kan altid skaffe mig noveller under her, hvis jeg ingen nulrer har.
+
+28:10
+I diagonalen her, så får jeg ingen nål rækker. Hvad hvis jeg har et nul et eller andet sted?
+
+28:15
+Diagonalen her, så kan jeg flytte den række herned, og så får jeg en målrettet.
+
+28:21
+Det vil sige, nu har jeg fundet en ny betingelse. Vi ved, at determinanten er en matrix.
+
+28:29
+Den er forskellig fra nul. Når A har vang, når barnet er en lille dreng med at lege.
+
+28:43
+Eller når A er det samme som at sige A er regulær, og på samme måde kan vi se, at når den er determinanten adam bliver nul.
+
+28:57
+Så er a sekulær.
+
+29:02
+Den har altså en rang, der er mindre end en. Så nu har vi en ny måde at opdage på om drengen er fuld.
+
+29:09
+Nemlig at tage determinanten af determinanten. 02 er der ikke futura at determinanten forskelligt fra nul.
+
+29:16
+Så er der fuld uran, og det er det gælder for kvadratiske matricer.
+
+29:21
+Der gælder nogle regneregler for determinanten også, nemlig xenon, som at determinanten er igang.
+
+29:28
+B matricen er i gang med det determinanten af gangen.
+
+29:32
+Determinanten af b. Der gælder også determinanten af den transponerede er lige determinanten af.
+
+29:37
+Der gælder også at determinanten af den inverse af en divideret med determinanten af da en hel masse ting, der gælder om det Terminator' regneregler.
+
+29:46
+Dem kan I selv lige kig på, når I kommer prøvelserne, for vi skal lige nå Mabel.
+
+29:51
+Vi har tid nu. Det er ikke helt slut, med mindre projektoren selvfølgelig strejker eller ferien heldigvis ikke.
+
+30:00
+Det med fordi alle vi har set i dag, er jo let, men det er endnu lettere, når vi har Mabel i.
+
+30:10
+Vi ved, hvor smart det bliver, sker lige for aldrig at blive helt venner med det her.
+
+30:17
+Sådan er der ikke flere spørgsmål. For i dag kommenterer Luk stationen nejer.
+
+30:23
+Det gør heller ingenting. Registeret ved lineær algebra.
+
+30:28
+Alt er som det plejer, og her løser vi så den der. Matri brænder det ud.
+
+30:32
+Har jeg bil, eller at vi løser denne her matrix ligning her?
+
+30:38
+Den løser vi sammen med Mabel. Gør vi det? Vi tager A, vi tager B, og vi tager den da ekstreme ved at sætte af ved siden af ben.
+
+30:46
+Det er jo det kommaet gør mest. Har været en fejl at sætte dem over hinanden med avissiderne.
+
+30:50
+B. Det er den, der er kommet i gang, så nu får vi en matrix linie A, C, b, a, når der undskyld hvilken.
+
+30:57
+Det vi gør noget helt af handler om Adderley. Kirsten. Vi laver en linie.
+
+31:01
+Hjortholm på a komme. B Det kan man også to matricer linje solgt og så får vi ex matricen derinde lige tænke et øjeblik.
+
+31:09
+Det var bare at vi ville gå afstand ned, selvom vi sidder med Gauss med. Det gør vi ikke i et eksempel.
+
+31:15
+Det kom. Så. Jakob nedkalder måske en mand.
+
+31:24
+Jeg skal lige bryde med det. Den er ikke helt let, den er da. Nu kan I se hvor jeg glad for kridt klovnene der lyste.
+
+31:35
+Folk ved hvad jeg gør. Jeg kan jo bare trykke her sammen der.
+
+31:45
+Og sådan find en en matrix E således at A gang herlige af det var det der med enheds matricen, og det er det samme vi har lavet.
+
+31:54
+Væk med dig. Det gider Veland. Jeg beklager det her.
+
+31:58
+Jeg bliver altså god til. Ja, jeg prøver at ramme den der.
+
+32:03
+Det er også lige, men jeg gør det jo så længe. Var du da?
+
+32:18
+Jeg giver op. Og hvad nu venter mig.
+
+32:25
+Jeg tror det er. Her er ikke gør noget forkert og funktion.
+
+32:35
+Ja, det er sådan det er.
+
+32:40
+For det er jo lidt pinligt. Det er bedre til computere.
+
+32:44
+Alligevel er førstelærer. Det er vigtigt at hele amøbe. Okay, det her er en matrix af den står her.
+
+32:51
+Kan vi finde den værste. Til den første var vi ind i den ene enheds matricen i dens til Matrix 3, og den fabrikerer simpelthen en teres.
+
+33:02
+Men med ETA detonator og nuller uden om maven kunne man så fri var seedet til at tage salte, der ikke er identisk med X3.
+
+33:08
+Så laver vi den der med et trittau i skiver af op og på den anden side her.
+
+33:13
+Her står af og til, så der skal vi jo Gauss helt ned.
+
+33:17
+Og det gør vi så i næste hug, og det kan vi jo gøre med ituslået efter en form, og vi opdager pludselig hov.
+
+33:23
+Den går ikke, der bliver målrettet hernede. Den har ikke den værste.
+
+33:26
+Det ser ikke godt ud, skriver vi ser. Hvad er egentlig rangen af? Den er kun 2.
+
+33:31
+Den er ikke fuld rand. Den er ikke regulære. Den har ikke nogen enhvers.
+
+33:34
+Så vil hun så der er ingen løsning til dem, der ser drengene totalitarismen af træ.
+
+33:39
+Det går ikke. Vi kan ikke løse, det her er. Derfor er det en tre gange tre.
+
+33:47
+Hvis jeg havde fire, havde du får en med fire i taget detonator uden om mig. Det er bare en hurtig måde at lave en på.
+
+33:54
+Denne er sekulære, denne må ikke lade. Vi tager en ny, der ser sådan her ud.
+
+33:58
+Vi må hellere tænke fra start, at der i er rigtige, inden vi leder efter en rangen A.
+
+34:02
+Der er 3, og den har en enhvers. Den er regulær. Vi laver igen totalt Mattesen med af og ind og reducerer den ned.
+
+34:11
+Og så står den inverse hér, og det kan vi så skrive ud, dele matricen og kan selv læse lidt.
+
+34:17
+Det er godt, at jeg må gaverne og piller den ud der, står der. Men vi kunne jo også have gjort noget.
+
+34:22
+Vi kontrollerer den rigtige rigtig adgange. En værst af alt. Det passer, hvis vi ganger en på for vi enheds matricen.
+
+34:28
+Men vi kunne jo også bare have spurgt A opløftet i Minos første.
+
+34:32
+Så kommer den ligeud. I gamle dage trykte man kun med.
+
+34:35
+Der kunne man bare skrive en divideret med, men er stadig trods alt stoppet.
+
+34:39
+For Maybellene melder så a minus først, at det giver den inverse meget let.
+
+34:43
+Der er også halveret matrix en sådan noget. Det kan I selv gik på. Jeg læste.
+
+34:48
+Vi tager lige det sidste af. Det kan vi så løse ligningen der igen. Vi havde fra før.
+
+34:52
+Jamen, vi tager jo bare og ganger med a enhvers på begge sider. Hér og ud kommer den der ex.
+
+34:57
+Vi startede eksemplet med ud da vi startede her. Så kan man sige hvor er determinanten henne, og hvordan finder man determinanten af en matrix?
+
+35:07
+Og svaret er ja. Det er et godt spørgsmål. Jeg tror bare, at det er den stod her, men det gør man bare med en kommando,
+
+35:12
+og det kan da være, at vi lige skal gøre det, for de ser, hvordan vi skriver.
+
+35:16
+Simpelthen bare det tager mere end af én ting.
+
+35:25
+Hvad mener at mange har deres mandattal og dem hvor det er virkelig godt.
+
+35:31
+Der var. Det er jo meget sludder, at det går godt.
+
+35:41
+Sådan er. Noget farligt er det ikke at vi havde derude, ligene er ikke meget var blevet til.
+
+35:51
+Og er det nu da det går godt? Ja.
+
+35:57
+Længere væk har vi lavet med jurister øjeblik. Nu skal sagen.
+
+36:05
+Det gør jeg aldrig gav nogen for mig. Det her var. Sandra anses førstepladsen.
+
+36:21
+Og ja, undskyld undskyld, jeg har lige været en rigeste art. Så DR 2.
+
+36:28
+Det var godt fordi der var en entydig løsning, så vi havde forventet, at determinanten var forskellig fra nul, fordi regnen skulle være total.
+
+36:36
+Tak for i dag. De første.

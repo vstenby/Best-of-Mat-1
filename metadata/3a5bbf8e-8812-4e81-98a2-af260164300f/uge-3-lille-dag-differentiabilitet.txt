@@ -1,0 +1,1178 @@
+0:07
+Ja, go morgen Danmark. Allerede sidste gang, da begyndte vi at differentiere komplekse funktioner uden rigtig at vide hvor kommer de regler fra?
+
+0:17
+Så i dag skal vi selvfølgelig have tingene på plads i deres rigtige rækkefølge,
+
+0:23
+og det bliver forhåbentligt til et behageligt gensyn for jer med alt hvad I ved om differentialregning fra gymnasiet, som vi starter helt forfra.
+
+0:34
+Og ja, se det her, som jeg har set mange gange.
+
+0:39
+Vi kigger på en ganske almindelig reelt funktion af en reelt variabel, og så betragter vi et fast punkt, som vi kalder for x0.
+
+0:52
+Et eller andet reelt tal. Se den kan blive tegn i et ganske almindeligt koordinatsystem i et Eksjö koordinatsystem, som vi kender i gymnasiet.
+
+1:05
+Vi tegner her grafen for funktionen. Det har vi ef.
+
+1:11
+Og så har vi altså valgt os et fast punkt, som vi kalder for x0.
+
+1:18
+Lad os sige, at det ligger dér, vi går op til grafen, og så har vi vores F.A.
+
+1:25
+X0 liggende her. Det trick man så gøre, det er, at nu vælger vi et ex, som er et variabelt punkt, og som ligger i nærheden af ex.
+
+1:36
+Det kan for eksempel være, at det ligger her igen, gå op til grafen, og så betyder det jo, at her har vi punktet f.ex.
+
+1:50
+Og så tegner man den rette linje, der går igennem de to punkter, vi har tegnet her.
+
+1:56
+Selv om eksemplet kan ramme, så har vi den, og det kalder man så for se kanten.
+
+2:04
+En. Hele ideen er nu den, at nu nu op skriver vi hældning officielt for kanten.
+
+2:17
+Og så lader vi dette ex gå imod x0.
+
+2:20
+Og når dette eks det går imod x0, jamen så betyder det at dette punkt kommer tættere og tættere og tættere på dette punkt.
+
+2:30
+Den er at se kanten. Den kommer tættere og tættere på tangenten, og sådan da håber vi altså at vi kan finde Hennings koefficienten for tangenten.
+
+2:39
+Det er hovedet ideen i b pensum i gymnasiet.
+
+2:46
+Så lad os lige prøve at skrive det op. C Så skriver vi sådan her hvis.
+
+2:53
+Og nu skriver vi så Hennings koefficienten for trekanten. Det ved jo, det er f.
+
+2:59
+Eks. Minus F.A. X0 divideret med x minus x0.
+
+3:07
+Og så siger vi altså, hvis den er hendes kopi selv.
+
+3:12
+Gå mod et bestemt tal a. Når X går imod x0, hvis det er det gælder, jamen så er der differentiabel i x0.
+
+3:29
+Og så har den entydigt tangent. For så vil det tal a.
+
+3:34
+Det ville være Hennings Kofi sentens, som vi så kalder for et mærke x0.
+
+3:40
+Det er der mange der måske har været til mundtlig eksamen i gymnasiet i dette.
+
+3:44
+I det spørgsmål er læring når nu skal jeg høre den formulering, og den vil vi lave en lille smule om.
+
+3:54
+Altså her på matematik ét. Og det er fordi om lidt, så vil vi gerne generalisere det her fra de reelle tal til komplekse funktioner.
+
+4:05
+Og ikke kun nu har vi brug for det, men også til foråret, når vi skal have de Franchell procent af funktioner af flere variable.
+
+4:14
+Så nu skal jeg lige vænne mig til det her.
+
+4:17
+Og der har vi altså lige brug for nogle epsilon funktioner, nogle sjove hjælpe funktioner, som jeg lige kort gennemgår her.
+
+4:25
+Se epsilon funktion. Sidder en funktion der bare opfylder.
+
+4:41
+Punkt ét. Sådan en epsilon funktionen i nul.
+
+4:45
+Den skal være lig med nul point. To epsilon funktionen x.
+
+4:52
+Den skal gå i mod nul, når x går imod x0.
+
+5:00
+Det er to meget banale egenskaber den skal opfylde. Og skal vi lige kigge på det grafisk.
+
+5:14
+Jamen, det betyder bare sådan, det er såmænd det eneste sådan en epsilon funktionen den skal opfylde.
+
+5:21
+Det er så den går igennem ordet god her. Og den går i mod nul, når ex går imod x0.
+
+5:27
+Dermed er der uendeligt mange apps i hjernen. Sinus til x y er lig med ekstra masser af funktioner, der epsilon funktioner.
+
+5:38
+Nu laver vi lige et såkaldt variabelt skifte, for i stedet for ex.
+
+5:44
+Da skriver vi så epsilon af x minus x0.
+
+5:54
+Prøv at se hvis nu eks. Går imod x0, så står der ikke snorlige minus x0, og så kommer der bare til at stå nul her, og den skal være lig med nul.
+
+6:06
+Så jeg kan altså skrive, at dette er udtryk. Det går imod noget, når X går imod x0.
+
+6:18
+Så den funktion her. Den ligger ikke dér, men den ligger så i stedet for parallelt forskudt.
+
+6:25
+Der har i Epsom en funktion ex. Manus x0 et dette punkt, der hedder x0.
+
+6:34
+Det var I har brug for at vide omkring efterlønnen funktioner.
+
+6:40
+På Se nu går vi tilbage til det vi snakkede om før vi sagde hvis den der viste den hældning, skulle vi selv hvis den går imod af sig selv.
+
+6:52
+Det vil vi nu skrive på en anden måde i stedet for at skrive, at den hældning skulle efficient.
+
+6:58
+F. Eks. Minus F.A. X0 divideret med x minus 6 0.
+
+7:06
+I stedet for at skrive, at den går imod A. Så siger jeg, at den er lige med.
+
+7:14
+Plus en Epson funktion f. Eks. Minus x0.
+
+7:21
+Indgang til køkken i stedet for at den går mod, når I ikke går imod x0.
+
+7:28
+Så skriver vi den er lig med a plus en epsilon funktion, som jo går mod nul når ikke skåret x0.
+
+7:35
+Det er nøjagtig det samme vi har skrevet i de to linjer der.
+
+7:41
+Ydermere så omskriver vi den dér bryg ved at vi isolere funktions værdien f.ex.
+
+7:51
+For først at skære gang nævneren over på den anden side, og så flytter jeg også x0 over på den anden side bagefter.
+
+7:59
+Så kommer dette udtryk til. Hed f. Eks. Er lig med F.A.
+
+8:04
+X0 plus a gange med dæks minus x0 plus en epsilon funktion af x minus 6 0 og så gange med x minus x0.
+
+8:20
+Set er den nye måde, som I skal vende jer til at kigge på.
+
+8:24
+Den hedder noget så fornemt som trailers grænse formen af grad 1.
+
+8:31
+Og det kommer vi allerede til at snakke om i næste uge,
+
+8:37
+for at I ligesom kan vænne os til den nye skrivemåde, så er der en øvelse til jer i øvelses programmet.
+
+8:46
+Det er øvelse nummer 6. De skal kigge på funktionen f.
+
+8:52
+Eks er lig med ikke sige andet, og så skal I vise at i hvert x0.
+
+9:04
+Det ved vi godt fra gymnasiet allerede, men der skal jeg så bruge den nye definition til at vise den der differentialkvotienten.
+
+9:15
+Forud for ligesom at klæde sig på til I selv kan lave den dér differentiel.
+
+9:21
+Så vil jeg lige lave et eksempel, der er nemmere og stadig eksempel er sværere end den I skal lave.
+
+9:28
+Og så tror jeg godt, I lige kan ramme i midten. Så jeg tager altså et eksempel.
+
+9:36
+Jeg kan også se. Lad os sige vis, at funktionen f.
+
+9:45
+Eks. Er lig med eks. At den er differentiabel.
+
+9:56
+Foregik det min opgave tit. Og nu vil jeg altså gerne bruge det nye dermed epsilon funktioner.
+
+10:09
+Og sådan som jeg gerne vil starte den. Hvis jeg kigger på den linje.
+
+10:12
+Der er sådan set, at jeg får isolerede. Epsilon af ex Minos X0 på venstresiden.
+
+10:21
+Sådan er det måske klogt at gå op til den foregående linje derhen, hvor vi så kan skrive den Epson funktion.
+
+10:31
+Den skal så være lig med f. Eks. Minus f.
+
+10:35
+A x0 divideret med x minus dæks nul minus aa kommer til at stå her.
+
+10:45
+Sådan scorer vi den, når jeg ser op den har nye betingelser, der skal sig findes et a her,
+
+10:51
+således at det der står på venstresiden den epsilon funktion. Og hvad var det for en funktion vi betragtede?
+
+11:01
+Jamen det var jo ex. Så i stedet for f ikke?
+
+11:04
+Der kan jeg så skrive ex minus.
+
+11:09
+Så skal vi have F.A. X0. Når dette regner forskriften, så kommer det jo bare til at stå x0.
+
+11:17
+I forvejen havde vi x minus x0, og så har vi stadigvæk det der a.
+
+11:28
+Og nu kan jeg se at vi har jo en bryg, hvor der står det samme i tælleren og nævneren, så det giver jo bare tallet ét, og så står der her en minus A.
+
+11:38
+Så er vi altså nået frem til det der, så nu spørger vi os selv Hvad skal A være for et tal?
+
+11:47
+Hvis dette er en epsilon funktion? Jo, den der epsilon funktion.
+
+11:52
+Den skal jeg jo kunne give noget. Det skal den være i. Når ex er x0, ikke sandt?
+
+11:58
+Og det vil sige det kan kun ske hvis a er lig med hvad et så.
+
+12:03
+Vi har altså her ensbetydende med at A er lig med 1.
+
+12:09
+Og så har vi altså konklusioner mærke i et bestemt x0.
+
+12:15
+Det er altid vi med en. Så tager vi et nyt eksempel, og vi kigger nu på funktionen f.
+
+12:32
+Eks. Er lige med kvadratrod af ex.
+
+12:40
+Og så igen der vil jeg så bruge det udtryk, som jeg skrev op før.
+
+12:44
+Og der har I så epsilon af eks. Minus x0 skal så være f.ex.
+
+12:53
+Det vil sige det kvadratrod ex. Minus og så skal det være fr.
+
+12:58
+X0. Den bliver så kvadratroden af x0 og så skal der stå x minus x0.
+
+13:07
+Og så skal der stå minus A på det sted der. For at komme videre her, så er man nødt til at bruge en lidt tricky omskrivning igen.
+
+13:24
+Delen af de sætninger er to tal Sång gange, to tals differens, det er kvadratet på det første led, mener Spar drabet på det andet led.
+
+13:33
+Den skal vi nu bruge på nævneren. De beholder altså tælleren.
+
+13:40
+X minus x0, høj og nævneren.
+
+13:45
+Den kan omskrives til x minus kvadratroden af x0 ganget med kvadratroden af x plus kvadratroden x0.
+
+13:57
+Og så har vi stadigvæk dette minus. Hov, hvad var det lige der skete her?
+
+14:06
+Kan I se det? Det er to tals så to tals differens.
+
+14:12
+Det er kvadratet på det første led. Altså kvadratet på altså kvadratet på på grund af ex.
+
+14:19
+Det gjorde bare X og så minus kvadratet på kvadratroden og x0.
+
+14:23
+Det er bare x0, og jeg kan altså godt omskrive den det jeg nævner til den nævner, der står det.
+
+14:33
+Og fordelen nu er jo så at den ene faktor her i nævneren, den går væk med tælleren.
+
+14:42
+Og hvad har vi så tilbage? Så står der en dvd'ere med for brat brugen af eks plus kvadratroden af x0.
+
+14:52
+Og så har vi stadigvæk her minus A. Nu er jeg færdig med mine reduktioner.
+
+15:02
+Nu kommer så igen spørgsmålet her. Hvad skal A være for et tal for det der står på venstresiden her?
+
+15:12
+Det er faktisk gerne epsilon funktion. Så er vi jo nødt til at ex.
+
+15:17
+Gå imod x0. Så nu kommer der til at stå en dvd'er med kvadratroden af x0 plus parat runde af x0.
+
+15:26
+Så har vi to kvadratrod x0 i nævneren, og det skal jo være for, at det giver lige mig nul.
+
+15:33
+Der er kun én mulighed. A er lig med en over to kvadratrod x0, og hermed har vi altså fundet at et mærke i x0.
+
+15:48
+Den er en over to kvadratroden af x0.
+
+15:54
+Og det var det vi gerne ville finde ud af. Så vi har altså nu fundet to differentiel på, og så prøver I selv at kigge på den, der giver øvelse 6 7.
+
+16:11
+Så er der en ting, som jeg gerne lige vil have jer til at forstå.
+
+16:15
+Dette er x0. Det er jo sådan lidt mærkeligt. Hvorfor bruger man egentlig det?
+
+16:21
+Jamen, det bruger man.
+
+16:22
+For når man opstiller definitionen, og når vi skal lave den slags udregninger, så har vi brug for at kunne skelne mellem et fast punkt.
+
+16:31
+Det kalder vi for x0 og så få et variabelt punkt.
+
+16:34
+Det kalder vi for ex. Så kan vi lave vores udregninger.
+
+16:38
+Men når vi ligesom er færdige med de elementære ting, så begynder vi at sige, at jeg er det der x0.
+
+16:45
+Er det egentlig nødvendigt, så prøv lige at ligge og hør her og ikke.
+
+16:49
+Vi siger, hvis F er differentiable i ethvert x0, altså i et eller andet interval.
+
+17:11
+Sagt kaldes funktionen set, så kan vi altså skrive sådan et mærke af ex.
+
+17:18
+Den kaldes den afledte funktion. Så der sker altså ligesom et step fra at vi bare kigger på et x0, og så finder vi en hældning Sanofi sendte til,
+
+17:39
+at nu siger vi, at vi betragter den hæmmedes kommercielt for et hvert punkt.
+
+17:44
+Og så opstår der en ny funktion, der hedder f. Mærke eks.
+
+17:49
+Som vi kan bruge til alle mulige herlige ting. Der.
+
+18:00
+Nu vil vi så gerne kigge på følgende.
+
+18:04
+Altså nu har vi givet den funktion f, a er ind i C, altså en kompleks funktion af en reelt variabel og et til en nul, som tilhørte de reelle tal.
+
+18:25
+Så siger vi. Hvis du er fattig.
+
+18:36
+Den kan skrives som f at til nul plus et tal.
+
+18:45
+Se. Gange med 10 minus til nul og.
+
+18:53
+Og så plus en epsilon funktion. The minus til nul gange ned til minus til nul.
+
+19:06
+Hvor se det er et fast tal. Altså et fast komplekst tal.
+
+19:17
+Altså hvis man kan opskrive f, rt samt dets funktions værdi i begyndelsen se værdien plus dette konstante tal ganget
+
+19:26
+med et minus til nul og plus epsilon funktionen ganget med til minus til nul.
+
+19:33
+Så er F. Differentiable en til nul, og vi skriver følgende at mærke i til nul.
+
+19:51
+Det er lige med set. Og det hedder så så og det vil altså sige at FC differentialkvotienten af ehf de til nul og i serie.
+
+20:05
+Vi har en kompleks differentialkvotienten her. Se, nu er der noget spændende her.
+
+20:15
+For det vi kan se, da vi bare snakkede om hvor funktioner.
+
+20:21
+Der havde differentialkvotienten en ganske bestemt geometrisk betydning.
+
+20:25
+Det var nemlig hendes kommissæren for tangenten. Men hvorfor en betydning må dette se, så har det jo et komplekst tal.
+
+20:38
+Kan vi have en kompleks hældning skueproces. Det kommer til at se lidt mærkeligt ud, tror jeg.
+
+20:46
+Det er faktisk nået. I kommer til at lege med i tema øvelsen i næste uge, og jeg kan nu kan jeg bare lige fortælle jer en gange.
+
+20:55
+Altså ganske kort lille intro. Her har vi de reelle tal.
+
+21:03
+Her har vi de komplekse tal c t.
+
+21:07
+Det er jo bare en reel variabel. Det snakker vi om sidste gang.
+
+21:12
+Altså vi har sådan en t aktie her. Og så kigger vi over i den komplekse tal plan.
+
+21:22
+Der har i real aksen, og det er høj i imaginær aksen, og der vil det altid være sådan, at hvis jeg tager et t her.
+
+21:34
+Og så går vi i baren, for eksempel i positiv retning. Hvad sker der?
+
+21:39
+Det er altså dette. Det er det tal.
+
+21:44
+Det har en funktions værdi, som ligger i den komplekse Talpa. Det ligger måske dér.
+
+21:51
+Og hvis jeg ligesom Röcker siger hvad sker der hvis det dertil, hvis det gennemløber den reelle aktier?
+
+21:58
+Ja, men så vidt det er for ting her, så vil det lave en eller anden kurve i den komplekse tal plan.
+
+22:11
+Så har vi altså sådan en kode for efter T, og der kan ikke se om der er sørme også et eller andet med tangent dér.
+
+22:20
+Det er lidt andet end det, vi har derovre. Men måske den del af hendes koefficient måske.
+
+22:29
+Den har et eller andet med dette at se at gøre, så det bliver rigtig spændende at prøve at undersøge næste uge.
+
+22:39
+Når. Nu bliver det så lidt spændende.
+
+22:46
+Jamen, hvordan i alverden skal vi så udregne dette differentialkvotienten?
+
+22:50
+Og da er det så heldigt, at man kan bevise følgende sætning, som vi allerede begyndte og brugte sidste gang.
+
+22:56
+Men husk vi skal altså starte her, for det skal være en generalisering af det, vi har lært i gymnasiet.
+
+23:02
+Og så kan vi altså finde frem til en herlig sætning, som kan opstå på tavlen nu.
+
+23:13
+Og den sætning den siger hvis fvt.
+
+23:19
+Vil sige op, skriver den på rektangulær form. Det vil sige her har i funktionen med al værdi også plus i gange med dens imaginære del.
+
+23:32
+Nu har vi fået opskrevet funktionen på rektangulær form.
+
+23:40
+Så viser det sig, at så kan vi differentiere et mærke RT ved at vi bare ligefrem ser real delen for sig.
+
+23:51
+Det mærke er T, og så skal vi beholde en.
+
+23:58
+Og så skal vi differentiere imaginære delen.
+
+24:06
+Så det er altså en vigtig sætning, som er den vi kommer til at skulle bruge, og faktisk så kan I så se, at det er se, vi har det oppe.
+
+24:18
+Det har vi kaldt for A i B. Så det betyder, at hvis I tager G mærke i til nul, så får vi altså af værdien.
+
+24:29
+Altså reelt værdien af den der. At det er se vi kigget på før og mærker i H og T.
+
+24:38
+Jamen, så er den så lig med B. Så sådan er sammenhængen.
+
+24:43
+Og sådan kan vi så bruge tingene her. Skulle vi lige tage et hurtigt eksempel på det?
+
+24:53
+Og der har vi altså her. Hvis I kigger på funktionen f.
+
+24:58
+T er lig med t. Plus de fradrag og brugen til.
+
+25:11
+Og vi prøver at differentiere funktionen og så få lige præcis brug for de to differentiel,
+
+25:20
+som jeg har brugt som et eksempel på gymnasie differentiation. Altså differentialkvotienten af den, der hedder the den er jo bare en.
+
+25:30
+Og nu skal jeg så skrive. Så skal jeg have differentialkvotienten af imaginære delen.
+
+25:34
+Det var den, der var 1 divideret med 2 fradraget på t.
+
+25:39
+Og den skal så bare ganges med en, så se, sådan er det at differentiere komplekse funktioner af en bare i.
+
+25:54
+Men hov, det her er jo også lidt farligt, fordi nu betyder det.
+
+25:58
+Nu får vi jo brug for al den viden, vi har om differentierer et center fra gymnasiet.
+
+26:03
+Alle de regneregler osv. Som vi kender dem, skal vi altså have frem igen hos dem udenad osv.
+
+26:09
+Fordi dem skal vi også bruge, når vi skal differentiere komplekse funktioner. Puha.
+
+26:20
+Så lad os lige kigge her. Vi laver en lille tabel her.
+
+26:26
+En konstant ex x i hjernen kvadratrod x en ekstra del.
+
+26:36
+Se nu 6. Knusende 6 1 i Alex Landex.
+
+26:48
+Så hvis vi skal have differentialkvotienten er de funktioner der, så er det noget I skal kunne udenad så.
+
+26:57
+Skal vi prøve at lave den sammen? Det er en konstant den er.
+
+27:05
+Den er nul. Den dér har vi fundet ud af i dag.
+
+27:09
+Dette Derulo så sex. Den dér lavede jeg på tavlen en divideret med to kvadratrod ex.
+
+27:19
+Hov, hvad med den? En diverterer med ægte hjerne bare med minus foran én.
+
+27:27
+Den er en DVD med ex Jane og minus foran scener sex Kosovos ikke selvfølgelig differentialkvotienten af knusende sex.
+
+27:40
+Venusinus differentialkvotienten af den naturlige eksponentiel funktion.
+
+27:47
+Den er bare sig selv, og så vil jeg ikke om kan huske den.
+
+27:53
+Hvad ser du 1 år? Eks og det kommer vi lige til at skulle vise senere i dag.
+
+27:58
+Sådan har vi dem. Når vi har de elementære differentierede procenter på plads, så kan vi også lave differentiel af mere sammensatte funktioner.
+
+28:14
+Og lad os så lige prøve at repetere de regneregler som iste, som vi kender fra gymnasiet.
+
+28:21
+Så vi tager altså lige regneregler ned. Så den første.
+
+28:32
+Den er nem. Det er summen eller differensen af to funktioner, der skal forandre differentieres.
+
+28:42
+Det gider jeg ikke at spørge om der er obskur bare resultatet her.
+
+28:45
+Det er jo et differentialkvotienten, at den første og så plus eller henholdsvis minus at den anden at det er et digt så.
+
+28:54
+Så det er så den første. Regneregler som I skal kunne boltre sig i og så 2.
+
+29:03
+Det er det man kalder for produkt reglen. Vi har altså nu to funktioner, der er ganget med hinanden, når vi skal have deres differentialkvotienten.
+
+29:14
+Og ja, men det er jo bare differentialkvotienten, at den første gang at beholde den anden.
+
+29:22
+Plus det modsatte, nemlig beholde ef og gange med et differentialkvotienten af ex.
+
+29:38
+Og nu tager jeg bare lige. Lad os lige huske den, der også altså har en konstant, som er ganget med en funktion.
+
+29:48
+Behold konstanten og differentiere funktionen. Og så den såkaldte kæde regel.
+
+30:01
+Hvis I tager af, at en anden funktion som leder agerer ex.
+
+30:07
+Så en, to, tre i to tre, hvis den skal differentieres.
+
+30:14
+Så skal man sige den ydre funktion differentieret taget i den indre funktion og
+
+30:22
+så bagefter gange med differentialkvotienten af den indre funktion kæde reglen.
+
+30:34
+Og så lad os lige se her. Differentialkvotienten er en brøk.
+
+30:53
+Den har også en form der måske nogle af jer, der kender den,
+
+30:57
+men det jeg bare lige gør opmærksom på her, er jo, at den kan man måske differentiere ved at sige.
+
+31:06
+Da Yossi f af eks. Garner med den reciprokke TG altså division er bare en variant af multiplikation,
+
+31:22
+så vi kan altså udregne den ved hjælp af produkt reglen regel nummer to scorer man et produkt ind i stedet for.
+
+31:33
+Lad os nu lige se nogle eksempler på disse regneregler og vi kan vi kan for eksempel sige hvis det har f.
+
+31:41
+Eks. Er lig med sinus til 5 x i anden.
+
+31:58
+Så får vi faktisk brug for to regneregler når vi kan se det er jo en sammensat funktion,
+
+32:04
+hvor den ydre funktion den hedder sinus, og den indre funktion, der hedder 5 æg, siger han.
+
+32:12
+Så når jeg skal differentiere den, så ved at danne sig et mærke, at X er lig med, at vi skal differentiere den ydre funktion det koster.
+
+32:20
+6. Nu har jeg gjort det der står her i Real 4.
+
+32:27
+Jeg har differentieret den ydre funktion. Jeg skal nu bør holde den indre funktion og den indre funktion.
+
+32:34
+Det var jo 5 x i anden.
+
+32:40
+Gange med og så står der Nu skal jeg så differentiere den indre funktion.
+
+32:46
+Det vil sige jeg skal differentiere 5 x i hjernen.
+
+32:50
+Det er jo en konstant ganget med en funktion, så nu bruger jeg reglen her nummer tre for at sige det er fem gange med differentiel.
+
+33:02
+Procenten er ikke hjernen. Det har vi set. Den er 2 x.
+
+33:08
+Så hvis vi lige skriver det lidt pæne ord op, så har vi altså her 10 ex.
+
+33:13
+Og så har vi cosinus til 5 x i anden.
+
+33:19
+Så har vi fået barberet den ged. Og vi tager et nyt eksempel.
+
+33:34
+Vi tager nemlig vi tager f.
+
+33:38
+Eks. Lad os sige den er e i x borgere ex.
+
+33:52
+Så den vil jeg gerne prøve at differentiere i.
+
+33:58
+Så hvad er det, vi siger? F. Mærke er ex, så den tror jeg den ville jeg så skrive som det i ex.
+
+34:14
+Gange med den der så i stedet for en PRO-centret.
+
+34:20
+Så kan jeg nu bruge produkter inden og produkter inden den siger Jo, først sker det.
+
+34:27
+Ser den første funktion. Garnet beholder den anden funktion.
+
+34:36
+Og så skal jeg sige B+ og nu skal jeg beholde den første funktion.
+
+34:41
+Det er jo bare ikke igen. Og så skal jeg gange med differential på sund.
+
+34:47
+Det er fortjent portionen af en ekstra del. Og den har vi jo set.
+
+34:50
+Den er minus én over, ikke sige andet. Og så kan vi måske lige prøve at skrive det lidt pænere.
+
+35:00
+Der har I så i ECC over eks og har i minus E i x divideret med x i anden, og så fik vi klarede den.
+
+35:16
+Så. Når du skal se en øvelse til i dag.
+
+35:27
+Det er denne funktion, den er cosinus til cosinus, til cosinus af ex.
+
+35:35
+Og så skal vi prøve at tælle 1 2. 3 1. 2 3.
+
+35:42
+Så den skal jeg altså differentiere i øvelserne. Og det er selvfølgelig kæderygende man skal bruge her, men kan I se?
+
+35:51
+Vi har cosinus lort, og så har vi en indre funktion, der hedder cosinus til knusende 6.
+
+36:00
+Det er set før at de forandrer den nyder. Behold den indre og så gang med differentiel den indre bagefter.
+
+36:08
+Men hov, der gik der jo en indre funktion mere.
+
+36:15
+Nej, det kan jeg vist ikke klare. Den overlader jeg trygt til jer.
+
+36:19
+Den skal nok finde ud af, hvad der var lige.
+
+36:25
+Der var lige en regel, vi ikke fik snakket om. Men den kan måske så lige hjælpe mig med.
+
+36:38
+Hvordan er det nu man gør den der? Værdi.
+
+36:43
+Hvad siger du? 13 minus foran mig, så handler det for mig om, at jeg en gang er med ex i minus ét.
+
+36:56
+Sådan skal vi lige hermed ind i listen af dem, som I selvfølgelig kan udenad.
+
+37:01
+Jeg har fyldt tavlerne. Jeg blev nødt til at slette lidt, så træk lige vejret et øjeblik.
+
+37:10
+I. Og netop her kan du være hurtig og nå højere, end hvis du efterlader politikerne to af gangene hjemme.
+
+37:44
+Ja, for Venstre baglandet. Nej, du skal ikke. Du skal ikke dividere der, hvilket den ikke den der.
+
+37:57
+I takt. Regner.
+
+38:07
+I meget begrænset omfang. Jeg har 3.
+
+38:16
+Jeg da. Jeg.
+
+38:34
+Så langt så. Når man læser en og dem man ser interessant, er det interessant.
+
+38:48
+Jeg kigger, som derfor gerne vil se dag på vej om potens funktioner.
+
+38:52
+Nej, nej, men sådan noget der når for eksempel ikke eller. For.
+
+39:18
+Skal. Så.
+
+39:39
+Den. Restauranten, som er designet, har slået dørene op ikke mange.
+
+40:03
+Så er vi klar til at snakke lidt omkring omvendte funktioner, og de har symbolet.
+
+40:16
+Jeg fik Minos første. Så lad os prøve lige her igen og lave et skema.
+
+40:27
+Jeg vil skrive nogle funktioner her, så skal vi se, om vi kan finde deres omvendte funktioner.
+
+40:33
+Og selv om I måske ikke har tænkt så meget over begrebet omvendte funktioner, så er det alligevel noget.
+
+40:41
+I praksis har brugt mange gange og tænkt igennem mange gange, så jeg tror simpelt hen,
+
+40:46
+at hvis jeg nu prøver her og skrive Excel, ja, hvad mere kan man finde på?
+
+40:54
+Så ja, vi kan prøve at tage ex i ende, og vi kan prøve at tage Eriks.
+
+41:04
+Og vi kan prøve at tage Siu 6 og knusende 6, og så er der også en funktion der hedder Tankian.
+
+41:13
+6. Og så skal vi prøve at se om vi kan finde deres FB, mener største.
+
+41:27
+Så hvad er den omvendte funktion til at tænk til kvadrat tech?
+
+41:32
+Bare sætningen her til hjernen? Hvad den omvendte for dig?
+
+41:40
+Hvad er det omvendte af at sætte i en potens?
+
+41:46
+Dertil er den endda råd. Og den gjorde man også som eks.
+
+41:53
+I en ændret del. Hvad er egentlig den omvendte til den naturlige eksponentielle funktion?
+
+42:04
+Det er den naturlige logaritme og så de to.
+
+42:11
+Dem har vi jo haft på programmet her i forrige uge, ikke sandt?
+
+42:16
+Her har vi jo. Hvis jeg har første koordinaten til bugen, så kan jeg også finde bordene til første koordinaten,
+
+42:25
+så denne hedder sig ark sin nu 6 og den der hedder ark knusende 6 tangent x er defineret som sinus over cosinus.
+
+42:39
+Så det er lidt kompliceret. Det er en lidt kompliceret funktion, men den har en smuk omvendt funktion, der hedder Arcus tankens.
+
+42:53
+Så det var bare lige for at få lidt begreber på, hvad det er for noget vi snakker om her omvendte funktioner.
+
+43:02
+Så lige at bemærk. Se nu har jeg sagt.
+
+43:10
+Her har vi funktionen. Det har vi den omvendte funktion.
+
+43:16
+Jeg kunne lige så godt være startet her og sagt Her har jeg funktionen. Og jeg vil gerne have den omvendte funktion.
+
+43:26
+Pointen her er hvis I tager den omvendt af den omvendt.
+
+43:31
+Så kommer jeg tilbage til den oprindelige funktion, så altså vi kan tale om, at de er hinandens omvendte.
+
+43:38
+De optræder altid i par. Så skal vi lige tage den pointe ikk af sig.
+
+43:46
+Hvis I tabte den omvendte at den omvendte, jamen så er det funktionen selv.
+
+43:58
+Og så er der en anden pointe her, som vi lige skal have frem.
+
+44:05
+Det er at. Hvis jeg nu har taget et funktions værdien af F.
+
+44:15
+I et ex, så tager jeg bag efter EF i minus først.
+
+44:21
+At det der er så ef i minus først er den omvendte funktion af funktionen selv.
+
+44:29
+Hvad kommer der så ud her? X dette.
+
+44:37
+Det er hen til kommoden og de tilbage igen.
+
+44:41
+Vi starter med ex, hvoraf jeg bruger. Jeg fik min første tilbage i tekst.
+
+44:50
+Lad os lige tage et par eksempler på det. Prøv at se hvis jeg skriver dette ex.
+
+45:01
+Så bruger jeg kvadratrod funktionen. Efter jeg har gjort det, så bruger jeg så at sætte hjernen så i enden af kvadratur eks.
+
+45:12
+Det er lige med ex. På Hvis jeg først så L ender eks.
+
+45:28
+Og så bagefter, så bruger jeg den som eksponent for eksponentielle funktioner, så der er så få sådan der, altså en i LF Index.
+
+45:40
+Jamen, så er de to. De er hinandens omvendte funktioner, og så kommer jeg tilbage til ex igen.
+
+45:48
+Eller omvendt havde jeg nu først taget eksponentielle funktionen f.
+
+45:54
+Eks. Og så bruger jeg bagefter eller Elena Ex på det.
+
+46:00
+Jamen, så er det også lidt mad ex. Det ser måske lidt spøjst ud, men det er faktisk noget vi har brugt mange gange det her.
+
+46:12
+De har i gymnasiet skulle løse funktioner eller løse ligninger af denne type.
+
+46:17
+Det i X er lig med to. Den er løst mange gange det man gør det, har man tabt den omvendte funktion af en på begge sider af ligningen.
+
+46:30
+Vi bruger en 1X på begge sider af lighedstegnet. Så står der her el af E i X, og så skal vi også bruge LN på højresiden.
+
+46:41
+Og så står der altså 1 2 god kaj.
+
+46:45
+Men ln og 1. De er jo hinandens omvendte funktioner, så der kommer bare ex ud af dette.
+
+46:51
+Og kære venner. Sådan har I i praksis gjort masser af gange.
+
+46:57
+Så I ved godt noget om omvendte funktioner. Godt.
+
+47:11
+Nu skal vi så snakke lidt om de Franchell patienter før omvælte funktioner og se hvordan vi kan finde ud af det.
+
+47:26
+Og kan I se, hvis vi har givet en eller anden funktion Y er lig med f.ex.
+
+47:39
+C, så ved vi jo fra den identitet de har opskrive før.
+
+47:45
+Og der skulle vi jo lige have stået et minus her. F minus første af f.
+
+47:50
+Eks. Er lig med X eksternt. Og deres spørgsmål.
+
+47:55
+Lad os tage. Ja.
+
+48:02
+Ja, ja altså tak. Så den gælder jo kun for ex.
+
+48:08
+Større end lige mig nul og den gælder kun for eks større af Novo Link og her den
+
+48:15
+giver kun en værdi og så videre ikke så der er nogle begrænsninger på det øverste.
+
+48:22
+Der er det altså det gælder jo kun for så vidt, at den er større lige nu.
+
+48:29
+Og det er samme udtalelse gælder, når man siger FN minus gør sit livs første roman.
+
+48:34
+Ja, ja, altså, det er jo kun i de intervaller, hvor det giver en mening, når selv vi har det ikke.
+
+48:41
+Og så har vi så identiteter, at hvis jeg tager FC minus, svares der af f.
+
+48:48
+Eks. Det var den der vej hen til kommoden og tilbage igen.
+
+48:56
+Nu prøver vi at differentiere på begge sider af lighedstegnet. Så har jeg så EHF i minus første af f.
+
+49:07
+Eks. C en, to, tre af de med eks.
+
+49:14
+Differentierede. C.
+
+49:23
+R. Vi skal også have håndteret det på vestsiden af kan vi se det her?
+
+49:27
+Det er jo faktisk en sammensat funktion, så der skal vi bruge hede reglen på venstresiden, så det er kæderygende.
+
+49:37
+Det vil sige, at vi skal differentiere den ydre funktion. Det er F.
+
+49:41
+I min nostras. Det mærkede beholde den indre funktion også har gange med mærke, at den ændrer funktion.
+
+49:51
+Og hvis vi mærker eks, så bliver det lige med en. Og nu skal vi se hvad vi så gør.
+
+50:01
+Så nu har vi altså den omvendte funktion mærket i f.
+
+50:08
+Eks. F. Eks. Den kalder vi for Y. Så står der altså her f.
+
+50:13
+Den omvendte funktion mærket i y v.
+
+50:17
+De vil der med ét mærke eks. På begge sider af lighedstegnet.
+
+50:21
+Denne er altså et mærke af ex. Værsgo.
+
+50:32
+Det er den form vi skal lære at bruge. Så det jeg laver lige et eksempel.
+
+50:49
+Se, nu vil jeg gerne. Jeg vil gerne finde L.
+
+50:55
+N. Mærke Ex ud fra kendskab til dens omvendte funktion, som jo er en ekstra del.
+
+51:09
+Vi har kigget på den før der var nogle af jer, der kendte den. Det skal give en overvægt.
+
+51:15
+Men nu skal vi altså se. Hvordan kan vi bruge formen for omvendt funktion til at finde den der?
+
+51:22
+Så vi skal altså have den omvendte differentierede Herrik.
+
+51:28
+Det vil sige, at jeg kan skrive den omvendte til i Ex. Det var jo L 1 mærket i Y.
+
+51:36
+Den er ind over den oprindelige funktion.
+
+51:40
+Det er i Excel som skal differentieres, kan jeg se.
+
+51:44
+Nu har jeg brugt det udtryk her på den på det scenarie, vi har her.
+
+51:55
+Når jeg men. Det er ikke differentierede.
+
+51:59
+Det er jo bare lige med en ægcelle. Og ind i Excel Dairy funktionen, så nu står der altså dér 1 år.
+
+52:12
+Og nu har vi sådan set resultatet, for der står L 1 mærket i et vilkårligt tal.
+
+52:17
+I er lig med 1 år. Y. Vi er jo bare et variabelt navn i stedet for vi kan jeg bare sgu ikke.
+
+52:29
+Så nu vil jeg altså fundet her. Elle en mærke af eks.
+
+52:33
+Den er en over eks, og det var så det, vi gerne vil finde ud af.
+
+52:48
+Og så tager vi lige det sidste eksempel, og det er dagens sidste eksempel, fordi vi kigger nu på følgende.
+
+53:00
+Vi vil gerne finde arcus cosinus differentierede i ex ud fra kendskab til cosinus.
+
+53:13
+6. Vi ser hvad var det vi gjorde.
+
+53:25
+Jeg trækker lige denne tavle ned et øjeblik. Den oprindelige funktion kalder vi for Y, så Y er så lig med cosinus til ex.
+
+53:41
+Så er det. Og så starter vi altså med at skrive arcus cosinus mærket i.
+
+53:58
+Og så ud fra formlen, så var de jo ind over den oprindelige funktion.
+
+54:04
+Mærket i ex. Og Kate.
+
+54:14
+Cosinus mærket er jo minus sinus. Og minus altså en over min nu siger nu 6.
+
+54:28
+Det er jo det samme som minus 1 over sendes til ex.
+
+54:39
+Sådan. Det.
+
+54:47
+Parken. Vi skal jo gerne have et andet resultat der hedder noget med Y.
+
+54:55
+Det hedder stadigvæk noget med eks. Så vi skal så prøve nu og omskrive det dér, så det kommer til at hedde noget med Y i stedet for.
+
+55:07
+Så er et eller andet med ham. Hvordan forholder sinus og kusse sig til hinanden?
+
+55:15
+Det er det, der hedder grunden relationen. Hvis man taler pænt, og hvis man ikke taler pænt, sidder det idiot reglen.
+
+55:24
+Selv den siger jo at cosinus i anden til x plus sinus i anden til X er lig med 1.
+
+55:35
+Nå ja, men det betyder jo så at nu i enden til X den er lig med en minus cosinus i anden til ex.
+
+55:47
+Og så er sinus til X.
+
+55:54
+Selv dér står der i anden den omvendte til. Det var jo kvadratrod.
+
+55:59
+Så der har jeg altså sinus til extender. 1. Minus cosinus i andet til ex.
+
+56:09
+Skulle vi prøve at skrive det derovre i stedet for. Så har I minus en borger i stedet for sinus til ex.
+
+56:17
+Så skal vi kvadratroden af en melos cosinus.
+
+56:22
+I enden til ex tager vi minus en over og der har I så pådraget brud en minus og hov nu kommer på enten cosinus til ex.
+
+56:39
+Det var jo den vi havde kaldt for Y. Og så kommer der altså her til at stå y i anden.
+
+56:47
+Så nu har vi altså fundet arcus cosinus mærke r y.
+
+56:53
+Den er som minus 1 over kvadratrod in memory. Ja, vi er jo bare et variabelt navn, som jeg lige har lånt et øjeblik.
+
+57:03
+Det kan også gælde den Forex. Og så har vi løst opgaven, fordi nu har vi så fundet ud af at arcus cosinus.
+
+57:15
+De mærket i X danner sig lige med minus 1 over kvadratroden af 1 minus X i banen.
+
+57:26
+Så nu har vi også fundet den differentiel procent. Værsgo.
+
+57:31
+Således kom vi hele gymnasie pensum igennem, og vi lærte også at differentiere komplekse funktioner.
+
+57:37
+Så nu er det træning, og alle reglerne skal i gang igen.
+
+57:42
+Og god fornøjelse med arbejdet. Tak for i dag.

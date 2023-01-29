@@ -1,0 +1,677 @@
+0:04
+Hvad hvis en gentleman gør søndag aften?
+
+0:10
+Lad os komme videre. Så slår jeres dertil indrettede så op og okay, lad os lige skrive herover, hvad det var vi nu fandt ud af.
+
+0:28
+Vi havde en matrix af engang en matrix.
+
+0:36
+Hvis det så var sådan, at den havde end lineært uafhængige egne vektorer.
+
+0:43
+Eller sagt på en anden måde af dens egne vektorer laver en basis for det rum, vi er i.
+
+0:51
+Så kunne vi skrive egen vektorerne op som søjler i en matrix, som vi ikke indtil videre har kaldt V.
+
+1:00
+Hvis vi så ganger fra venstre side med V minus 40, så er dette en omskrivning af laget.
+
+1:06
+Så kommer der ud af det her. En diagonal matrix, hvor der i diagonalen står egen værdierne i præcis samme rækkefølge som egen vektorerne står her.
+
+1:23
+Så hvis jeg har skrevet egne vektorerne i en bestemt rækkefølge, så kommer den bestemt rækkefølge til at blive gentaget her i diagonal matricen.
+
+1:34
+Det her hedder og diagonalt senere en Matrix A og når det går galt.
+
+1:44
+Grunden til at det så går galt, det er, at I har en eller anden egenværdi, som har en algebraisk multiple sitet, som er to eller større,
+
+1:54
+altså en dobbelt rod eller en tredobbelt rod, men hvor den geometriske mod simplicitet vil være til sit dimensionen af egen rummet ikke følger med.
+
+2:05
+På den betingelse vi havde derovre. Så hvis man for eksempel har en dobbelt dobbeltradet, men vore egne rummet kun havde dimension 1,
+
+2:12
+så kan man ikke diagonal i seeren og bare for lige at lave et lille eksempel på et lynhurtigt eksempel.
+
+2:21
+Så lad os tage en matrix, der hedder noget, der hedder Hvad kunne møde derude?
+
+2:26
+Et et et nul. Den der for eksempel.
+
+2:33
+Så hvis man så den der. Hvis jeg skal finde dens egenværdier og klage, så skal jeg kigge på determinanten for vores matrix.
+
+2:46
+Minus det her det vil sige at jeg skal trække kampe fra diagonalen, det vil sige en minus lambda 1 0 minus Lambda.
+
+2:57
+Det ser sådan da ud. Hvis jeg regner det ud, så får jeg bare et minus lambda I anede dengang den minus dengang vandt.
+
+3:06
+Det er jo bare 1 0, og det skal så være lig med nul.
+
+3:11
+Og der kan jeg så se, at der er kun én rod, nemlig Lambda lige med en sådan algebraiske mod simplicitet af den.
+
+3:19
+Der er faktisk to.
+
+3:24
+Så her har jeg en egen idé. En egenværdi med algebraisk guld til.
+
+3:28
+2. Så lad os tjekke egen råbet, det vil sige vores egen rom hørende til egne gin.
+
+3:35
+1. Der tager jeg denne her og sætter Lambda til at være en.
+
+3:44
+Og skriver Total Matricen er op. Det vil sige en minus lampe.
+
+3:49
+Det var en minus 1 0 1, 0 0, og så stod der 0 0 på højresiden.
+
+3:59
+Krise, da der er sat lamper lige ind, skrevet totalt matricen skal løse det her ligning system.
+
+4:05
+Jamen hovsa. Her står jo af en ex 2 skal være 0.
+
+4:11
+Det vil sige her skal X2 være nul.
+
+4:16
+Ex. Et er en fri variabel. Så den kalder vi bare for the.
+
+4:26
+Og hvordan ser Arjen Robben så ud? Det er de vektorer x 1 x 2, som kan skrives som selv i gang med x skulle være et, så der har et 1 tal.
+
+4:38
+X2 skulle være nul. Det her er jo bare første aksen.
+
+4:48
+Antallet af frie variable antallet af parameter her var en dimensionen af dette egne rum er en.
+
+4:58
+Så dimensionen af vores egen form her det 1.
+
+5:04
+Det er jo så det man kalder den geometriske multiplicere set af egenværdi 1 1.
+
+5:11
+Og den er åbenbart mindre end 2. Det betyder fordi jeg kun har en egenvægt, så ikke også så kan jeg jo ikke lave en basis bestående af egne vektorer.
+
+5:29
+Nu kan jeg så. Der er.
+
+5:36
+Ikke en. Basis.
+
+5:42
+Bestående af egenvægt til over.
+
+5:51
+Sådan så at Matrix her kan ikke diagonale i Ceres.
+
+6:00
+Der er et specialtilfælde, som er godt at kende. Det er, at hvis matricen, hvis matricen er lig med sin transponerede,
+
+6:12
+hvordan er det nu vi skriver transponerede er det lille C eller stort til stort T.
+
+6:18
+Så er der Anneke. Det vil sige, at hvis en matrix ser sådan her ud.
+
+6:25
+Det vil sige, at hvis de spejler den i diagonalen, og den så ikke forandrer sig,
+
+6:29
+det vil sige der står det samme på begge sider af diagonalen, så er den symmetrisk.
+
+6:33
+Ser man, så kan den altid dyrke realiseres. Så.
+
+6:42
+Går over det. Godt, og det skete bare.
+
+6:50
+Det får jeg at vide senere. Men altså det er et godt specialtilfælde.
+
+6:53
+Der kan man være stensikker, og det vi har gjort, det er op, når vi har diagonal i serien Matrix.
+
+7:04
+Det har faktisk et andet navn, fordi definition.
+
+7:14
+Endsige mine lære. Transformation.
+
+7:26
+Endsige simi lærer transformation af en kvadratisk matrix. Den hedder sig at A er.
+
+7:47
+En. Matrix er B, som så ser sådan her ud.
+
+8:05
+Hvor M. Hvor EM selvfølge er regulære.
+
+8:13
+At det er fuldstændig oplagt, for ellers kan jeg ikke skrive en af mine første.
+
+8:19
+Det kalder man assimileres transformation.
+
+8:22
+Det vil sige at man tager sin matrix, og så ganger man folk højere med M og fra venstre med Emmy mine første, så kommer der et eller andet ud af det.
+
+8:31
+Der kommer en eller anden matrix ud af det op. I vores tilfælde dér og væk har vi kaldt M for V.
+
+8:39
+Det der kom ud af det, er den der hedder det deroppe. Så det der står deroppe øverst på tavlen, er en simuleret transformation af matricen A.
+
+8:49
+Man siger når dette er muligt, så siger man, at man friserne A og B assimilere.
+
+8:58
+A og B er.
+
+9:05
+Similar er. Så det vi har fat i når vi diagonal i SE.
+
+9:14
+Når vi siger vi kan diagonalt I ser en matrix, så svarer det i virkeligheden bare til at sige, at vores matrix a assimilere med en diagonal matrix.
+
+9:25
+Det er det der står deroppe. A assimilere, men diagonal matrix.
+
+9:32
+Okay, hvad kan man sige om Simi matricer?
+
+9:38
+Jamen vi så jo dér op. Da vi kiggede på otte af den regulære matrix, ved jeg, hvor vi havde skrevet egen vektorerne over.
+
+9:49
+Den svarer bare til et basist skift. Det er præcis det der sker.
+
+9:54
+Så når man kigger når man kigger på denne ligning, der står her, som jo er fuldstændig magen til den der.
+
+10:01
+Bortset fra at der ikke nødvendigvis står en diagonal maltraktere. Han står bare et anden matrix.
+
+10:06
+Så kan vi jo bare tolke dette emne som et koordinat skift.
+
+10:12
+Og det der står er at to matricer de simulerer, hvis det i virkeligheden svarer til den samme lineære afbildning.
+
+10:23
+Bare ved et koordinat skift. For tænk lige på det vi skrev her op.
+
+10:32
+Den lille afbildning vi startede med, ikke også den har vi overhovedet ikke rørt ved.
+
+10:37
+Vi har kun rørt ved dens matricer. Og matricen afhænger altid af hvad det er for en basis man har valgt.
+
+10:46
+Og hvis man altså vælger den der basis bestående af egne vektorer, jamen så er den meget simpel, fordi så bliver matricen bare en diagonal masse.
+
+10:55
+Så er det en meget simpel måde at fremstille den på.
+
+10:58
+Hvis det ikke, jamen så havde vi for eksempel matricen A, som var med hensyn til standard basen her.
+
+11:06
+Da svarer den Matrix M. Den svarer bare til et eller andet koordinat skift.
+
+11:12
+Så her nu lever jeg lidt rundt med vores matrix af jeg skifter lige koordinater og så får en anden effekt, som hedder B.
+
+11:21
+Simulerer matricer svarer til samme linde afbildning, bare med et andet valg af basis svarer bare til et bassi skift.
+
+11:30
+Og så er der nogle forskellige ting, som er godt er gode at vide om simulere matricer, fordi der er nogen noget der hedder genvarianter.
+
+11:46
+Similar og. Matricer.
+
+11:53
+Har samme. Og gab.
+
+11:58
+Den første ting. Som simulerer med Friis, har de har samme determinanten.
+
+12:11
+Timelærer matricer har samme determinanten. En anden ting, som man kan sige om Semele, er matricer.
+
+12:17
+Det er de har samme karakteristiske på linoleum. Karakteristisk for linoleum.
+
+12:31
+Og den tredje ting. Det er noget som jeg ikke har defineret nu, men det er noget der hedder spor.
+
+12:42
+Så. Lad os lige prøve at kigge på dagen.
+
+12:49
+Og hvad vi får ud af det, fordi. De to nummer et og nummer tre.
+
+12:58
+Det er noget man lige bør skrive sig bag øret for det hører med i den skove, føre eller kasse af finner,
+
+13:04
+som er gode at kende, fordi de kan spare en for rigtig, rigtig, rigtig meget bøvl.
+
+13:14
+Så lad os prøve i gang lige at vise det der med determinanten. Så.
+
+13:22
+Bevis for nummer et. Så hvis jeg nu har det her, så vil jeg gerne vise at B og A har samme determine.
+
+13:37
+Så det ser altså lad os nu skrive B som dermed mine første A.
+
+13:47
+M, så lad os prøve at regne det som en med ud.
+
+13:53
+Så er determinanten forbi. Det er jo så bare determinanten af højresiden der.
+
+14:05
+Og så vidt jeg kan huske, men da vi havde om det Menander, der fik at vide, at determinanten er det der hedder en multiple negativ afbildning,
+
+14:14
+og det vil sige, at man skal tage et determinanten til et produkt, så kan man bare tage produktet.
+
+14:22
+At det med lanterne. Hvor der nu varsler helt almindelige gange tegn her imellem.
+
+14:36
+Og. Der er brugt determinanten med multiplikator siv og i nyt produkt her med garnet sejen kan jeg jo bare bytte rundt på.
+
+14:45
+På hvad hedder det faktorerne, hvor der står denne gang denne gang den som tager bare den og flytter her for skriver det i et lighedstegn.
+
+14:53
+Her står der determinanten for minus første gang det fermin alting for EM.
+
+15:03
+Gang determinanten for for A.
+
+15:08
+Og nu bruger jeg bare igen at determinanten af multiplikator liv, for her står der produkt af to determinanten.
+
+15:16
+Så sætter jeg det ind, så det først er. Det må bare være determinanten af dengang den.
+
+15:27
+Og. Determinanten for af. Og ML menes første gang M.
+
+15:34
+Det er jo bare identitets matricen, så det her er determinanten for identitets matricen, så det er et ETA.
+
+15:44
+Så det er bare determinanten for af. Så se min matricer har samme determinanten og kan.
+
+15:57
+Hvis vi nu ligger tilbage til det vi havde gang i det som står øverst på tavlen deroppe.
+
+16:04
+Jamen, der står jo netop at a assimilere med matricen.
+
+16:09
+Det. Så konsekvens. En konsekvens af det vi lige har regnet ud at op er at vores determine alt for af.
+
+16:25
+Vores af med fri stavrer op. Jamen det var determinanten for diagonale Friesen.
+
+16:34
+Og hvordan man tager determinanten af diagonale matrix. Andre gange har man bare diagonal elementerne.
+
+16:39
+Men hvad fandt vej, der står i diagonalen? Det var invaderende. Produkt, bedre kæder og invaderende.
+
+16:59
+Her er en måde til at tjekke at man regner rigtig. Determinanten som matricen man har fat i.
+
+17:07
+Determinanten skal være dens egenværdier gange sammen. Kan I huske den?
+
+17:13
+Vi startede med, som nu er forsvundet fra tavlen. Den havde egenværdier 1, 2.
+
+17:17
+Og 3. Jeg tror lige jeg skriver den op her overfor.
+
+17:21
+Så kan vi lige pudse den, hvad fanden der står 1 1, og så står der minus to og fire.
+
+17:26
+Er det ikke rigtigt på den, vi havde sidste time? Determinanten for den er 6 egen.
+
+17:33
+Værdierne var to og tre to gange. Tre er lig med sex, og det skal det være.
+
+17:40
+Husk det er godt at vide hvis I har determinanten for 1 2 gange 2 matrix som er 6 og I får at vide med en egenværdier tre.
+
+17:51
+Så ved I hvad den anden er kan se det. Det kan simpelhen spare jeg for nogle udregninger og kan i.
+
+17:57
+Lad os lige tage treeren. Sporet.
+
+18:05
+Sporet af en matrix er summen af dens diagonale elementer.
+
+18:20
+Nu skriver du denne her måde så med diagonalen. Nu kan jeg så overhus og ser over hos os her.
+
+18:30
+Der er sporet af denne matrix. Lad os nu sande og kaldes en af behøvede den.
+
+18:35
+Så er sporet af den. Det er bare en plus fire.
+
+18:43
+5. Så her har en matrix der har spor 5. Sporet står der bliver ikke ændret.
+
+18:53
+Når man laver det for en altså hvad skal man sige, når man laver en similar transformation?
+
+18:58
+Det vil sige, at vores matrix af ideer har samme spor.
+
+19:06
+Og øgle determined alt. Ja, som den demed Friis, der står der kan Hulstrøm.
+
+19:14
+Det var den vi fandt. Der står den ene af egenværdi i, der står den anden og enhver.
+
+19:19
+Sporet hører en +4 er fem sporet her.
+
+19:23
+To plus tre d5 og her er det bare summer og invaderende kasser.
+
+19:32
+Sporet er lig med. Summen af.
+
+19:42
+Er invaderende. Så her har en måde at tjekke om man regner rigtigt.
+
+19:50
+Jeg kan også. Man kigger på sin matrix, så skal man lynhurtigt findes bordet.
+
+19:54
+Det kan en gravhund gøre i blinde. Og så kan man tjekke om man har regnet rigtigt.
+
+20:00
+Determinanten kan man også tjekke, der skal man lige regne ud,
+
+20:03
+så det skal passe med produktet og invaderende og lægger også mærke til det, som vi også har sagt før.
+
+20:12
+Hvis noget er en egenværdi. Så må produktet af egen værdierne være nul.
+
+20:19
+Kan I sådan? Det må betyde at determinanten for a er nul.
+
+20:26
+Ağca, hvilket må betyde at matricen ikke er regulære.
+
+20:32
+Det kommer til at høre rigtig, rigtig, rigtig mange gange i alle mulige andre fag herude, at en måde at finde ud af, om en matricer er reguleret på.
+
+20:42
+Det er værd at tjekke, om Norlander egner det. Hvis noget er en egenværdi, er matricen ikke regulær.
+
+20:50
+For et eller andet galt med den. Det må man godt lige have i baghovedet.
+
+20:57
+Og så er der karakteristisk polynomium. Mildere matricer har samme karakteristiske polynomium.
+
+21:12
+Det betyder at de har samme egenværdier er jeg med hvordan?
+
+21:18
+Men I kan ikke være sikre på at se min lære af to matricer, der har samme karakteristiske polynomium assimilere.
+
+21:31
+Hørte i den similar matricer. Har samme karakteristiske polynomier.
+
+21:39
+Og. Men hvis to matricer har samme karakteristisk på linoleum, kan ikke være sikre på det civile lager.
+
+21:47
+I kan bare være sikre på, at hvis de ikke har samme karakteristiske anordning, så de ikke simulerer.
+
+21:55
+Men hvordan? Hvorfor er det egentlig sådan jeg skal at lave beviset?
+
+22:00
+Men prøv lige Simi simulere. Similar er hjemme.
+
+22:05
+Det betyder at det er den samme linde og afbetaling bare med forskellige baser.
+
+22:13
+Hvis de simulerer. Har de selvfølgelig samme egen røv og egne værdier, og derfor får de også samme karakteristisk på linoleum,
+
+22:25
+men to matricer, der har samme karakteristisk på linoleum.
+
+22:29
+Der kan vi bare være sikre på at de har samme egenværdier, men I ved ingenting om egen rummende.
+
+22:35
+Krise da. Bare fordi I ved at to og syv er egne værdier, så ved ikke en skid om egen.
+
+22:44
+Og hvis nu de to matricer man man kigger på, ikke har de samme egne rum, så de ikke smiler, så man kan altså kun bruge denne.
+
+22:54
+Denne her ting her. Den her sætning den ene vej for sig belære matricer har samme karakteristik på linoleum.
+
+23:02
+Lad os lige vise det. Så hvis vi nu tager det karakteristiske polynomium for vores bag,
+
+23:11
+som ser sådan ud pibe, er lambda det jo determinanten for vores b matrix minus lambda.
+
+23:22
+Gang identitets matricen.
+
+23:26
+Nu, og grunden til at vi gøre det er bare lige for at øve os lidt på disse determinanten udregninger, så kan I se det er ikke så forfærdeligt.
+
+23:34
+Nu skriver jeg bare det som bede jer begge skrive sådan. Så er determinanten.
+
+23:41
+Hvad skrev jeg m i mine første. Og så står der A her.
+
+23:46
+Og så står der embeder, og så skriver jeg minus lambda.
+
+23:52
+Og hvordan kan jeg skrive identitet? Matricen Norge? Det kan jeg i virkeligheden skrive som Emmy mine første gang i identitet.
+
+24:01
+Men Friesen, der M. Kan sætte.
+
+24:08
+Fordi. Emil Miele første gang identiteten giver bare Emil Mingus første og Emil Mines første gang EM giver bare identitets matricen.
+
+24:18
+Og så ryger jeg herhen. Så det er et rent trick.
+
+24:23
+Grunden til at jeg gøre det, det er fordi her kan jeg nu sætte Emmy Mines første uden for en parantes til venstre og M.
+
+24:31
+Uden for en parantes til højre. Sådan her. Prøv at se lige med determinanten af.
+
+24:38
+Så sætter en af mine første. Og inde i parentesen kommer det til at stå bag minus.
+
+24:47
+Lamper E og så ud til højre, skriver jeg mit m.
+
+24:52
+Og så slutter parentesen. Klasse, da.
+
+24:58
+Og dette sår vil jo lige præcis hvordan vi fjerner det og kan se det.
+
+25:06
+Vi bruger bare determinanten afbildning af multiplikator siv til at få samlet determinanten fra dem der og dvd'ere dem væk,
+
+25:14
+som der sker deroppe, for fuldstændig magen til det, der står dér.
+
+25:18
+Så bliver det her bare determinanten for a minutes.
+
+25:25
+Lambda E beskriver det op fuldstændig identisk med det der som produktet af tre determinanten.
+
+25:33
+Og så flytter jeg rundt på det. Så. Så nåede vi så langt, og det her er det karakteristiske polynomium for af.
+
+25:49
+Okay. Så er vi næsten ved vejs ende.
+
+25:57
+Det sidste er sådan lidt end en spøg.
+
+26:01
+Ej, det er ingen spøg, men det er noget som måske kan være hensigtsmæssigt,
+
+26:07
+hvis I lige kigger på vores vores ligning, som vi nu har kigget på rigtig længe.
+
+26:15
+Denne her. Hvor vi altså har diagonalt seere vores matrix.
+
+26:24
+Så læg lige mærke til at man kan jo garne, så man kan flytte disse VR over på den anden side.
+
+26:30
+Jeg kan gange fra højre med. Ved minus fyres det og fra venstre mave.
+
+26:36
+Hvis jeg gør det gang fra højre, så kommer der flere gange ved minus 40 st.
+
+26:43
+Så fik jeg fjernet, det vil jeg. Så ganger jeg fra Venstre med V.
+
+26:47
+Så får jeg flyttet veget det over. Kan ikke sætte.
+
+26:53
+Så den er fuldstændig ækvivalent, hvordan er det præcis det samme der står?
+
+27:01
+Lad os nu sige. Lad os nu sige at.
+
+27:09
+Lad os nu sige at jeg får til opgave. Jeg sidder på min øde, øøøh, ja, meget øde.
+
+27:17
+Jeg er helt alene, og jeg skal finde på et eller andet at lave. Så derfor siger mine gorillaer ven Mikael Vejen nu er efteråret.
+
+27:30
+Og det kunne godt være. Ikke en gang hvordan to gange to. Man forstår det godt være, at det var en 27.
+
+27:36
+Gang. 27 fox. Men Michael, du skal lige i gang i Granada i efteråret.
+
+27:41
+Det er under alle omstændigheder sur patriark med sig selv 11 gange, men spørgsmålet er, om vi kan gøre det smart, fordi det jeg laver her.
+
+27:52
+Det kan jo lige så godt lave mad, den der.
+
+27:54
+Så hvis jeg ganger af med sig selv 11 gange, så vil det jo sige, jeg skal bare skal CV det ved minus første.
+
+28:03
+Og det skal jeg så gøre. Jeg skal også skrive med sammen. Og det skal jeg så gøre.
+
+28:11
+11 gange. Du kan.
+
+28:20
+Og så er det man kan sige til sin Corina, men det skulle da ærgerligt,
+
+28:25
+du ikke har haft matematik ét, fordi det her kan vi hurtigt finde ud af, fordi folk er så her.
+
+28:31
+Hvis jeg hæver parenteserne, så prøv at se.
+
+28:36
+Så alle de steder hvor dette parenteser møder hinanden, vil der stå ved at mindes førsteret V, der møder hinanden.
+
+28:43
+Kan I se det? Det vil sige, at når jeg får fjernet parenteserne her, så vil jeg have det først ved.
+
+28:53
+Og så vil alle de andre vil jeg ryge. Men hvad vil der være tilbage? Der vil være det i gangene, det gangene, det 11 gange.
+
+29:00
+Det vil sige dig efter det i 11. Og så vil den slutte med, vil jeg mindes første.
+
+29:11
+Det er jo skide smart, ikke fordi det betyder det betyder, at i stedet for at gange matricen af sig selv 11 gange.
+
+29:19
+Så kan jeg bare gå ind og gange diagonalt matricen med sig selv 11 gange, men det er jo nemt nok fordi diagonal matricen i dette tilfælde hed to.
+
+29:34
+Og. Her er ikke, og vi har ganger den med sig selv 11 gange. Der kommer til at stå to efter og tre efter og 0 0.
+
+29:44
+Og så skal jeg bare gøre sådan. Kelly er. Dette er hovedregning det der er fidusen.
+
+29:53
+Og det her kan man jo gøre med alle mulige funktioner af en matrix, hvis man vil lave matrix funktioner.
+
+30:05
+I skal til jeres øvelser, lave det, der svarer til at tage den tredje rod.
+
+30:09
+Her er jeg opløftet. I et hæfte for jeres øvelse skal I tage den tredje rod af en matrix.
+
+30:14
+Det gør man på præcis den måde, som jeg har gjort her. Der skal selvfølgelig gangen samme 11 gange, men det kommer bare til.
+
+30:21
+Kommer bare ud på, at man skal tage den tredje rod og diagonal elementerne her.
+
+30:27
+Det er meget, meget simpelt, så det er en af grundene til, at man er glade for diagonal matricer.
+
+30:35
+Godt folkens. Jeg tror, at dette her var så langt, som vi kunne trække i.
+
+30:42
+Tusind tak. I dag kan jeg höger på Vega. Duer.
+
+30:50
+Have det rigtig godt.

@@ -1,0 +1,971 @@
+0:11
+Godt vi er klar. Ja. Så kom vi i gang.
+
+0:17
+Ja, Horesta programmet, for i dag har jeg lige skrevet op her. Det handler om egenværdier, egne vektorer og egne.
+
+0:23
+De problemer står der de tre. De to første er ligesom slået sammen.
+
+0:28
+Fortæller om det lige om lidt.
+
+0:30
+Så kommer noget om basis for et vektorrum og noget om egne vektorer og noget, der hedder bag punktet om matrix problemet.
+
+0:39
+Det kan være til eget problem, fordi afvandingsområder, masse samleværk, og så kommer nogle eksempler på, hvad der er det, der sker i dag.
+
+0:46
+Nu skal være så til for alvor at bruge den lille algebra, vi har lært til noget var det.
+
+0:53
+Resultatet er måske lidt mere overraskende. Altså hvor det virkelig sker noget i dag.
+
+0:58
+Så det fortsætter vi med på på torsdag og så i næste uge, så bruger vi det.
+
+1:04
+Vi lærer i dag, den her uge til at begynde at løse differentialligninger, så der sker et eller andet.
+
+1:10
+Så der er altså differentialligninger fra næste uge. Vi må i gang.
+
+1:15
+Egenværdier ej, problemet, sagde jeg. Egenværdi problemet også.
+
+1:31
+For en lineær afbildning F, der går fra et vægtere rum og vægge til rummet selv, og det er vigtigt i dag, de afvejer vi taler om her.
+
+1:44
+De har altså både definitionen trommer, dispositionsret det samme.
+
+1:49
+De går altså fra Bliktrommen til vægge, trommesæt. Det siger ej problemet fra denne linje.
+
+1:56
+Afvænning der siger, at kan vi finde en væg, tager ved sådan har efterprøvet,
+
+2:05
+så sker der ikke andet end at jeg får vægteren ved ganget med en konstant.
+
+2:10
+Det vil altså sige, at hvis jeg afbilleder en vektor ved I med over i.
+
+2:19
+Så sker der ikke andet, end at vi får vektoren selv ganget med en konstant.
+
+2:23
+Den konstant kunne eventuelt være én, og så vil vi simpelhen bare få vektoren salg.
+
+2:28
+Og så vil vi kalde ved en fiks vektor i det tilfælde, hvor vægt som vi afbøde, røg i sig selv.
+
+2:32
+Altså hvor langt der er i det her.
+
+2:36
+Det er sådan set et. Det ser jo ikke så besværligt ud. Det her er jo sådan set bare hvornår findes en vægtere?
+
+2:42
+Men der er lidt mere i det end som så. Den anden afgør, om der findes en vægter for en lille afbildning.
+
+2:48
+Og kan vi finde dem alle sammen? Og kan vi altså ikke finde ud af, at der ikke er nogen?
+
+2:52
+Det er også museer, og det er det, det drejer sig om i dag og deres først give et eksempel på dette.
+
+3:00
+Vi kan også se det her. Det kan jo altid opfyldes, fordi hvis vektoren v er nul, jamen så gælder der jo at f nul.
+
+3:10
+Det giver nul for en lille afbildning og et hvis ve den er nul, så passer det der står her.
+
+3:17
+Men hvis det er den eneste vægterne passer fra nulvæksten, så siger vi ikke så sig nulvæksten ikke en egen vægter for denne afdøde.
+
+3:24
+Der skal altså være vektorer skal mindst være en gevinst, der skal findes.
+
+3:33
+V. Store RV, hvor V er forskellig fra nul vektoren.
+
+3:44
+Så er betingelsen vist sig, at der findes en væg ved forskellig fra nul.
+
+3:49
+Så siger vi, at denne her væg tager ved er en egenvægt.
+
+3:55
+For denne afbildning hér. Hvis der findes sådan en den ved forskel fra nul, så ser vi ved at regne vægten for dette.
+
+4:04
+Så hvis det her er opfyldt, så siger vi alle ved er egenvægt sig.
+
+4:12
+Og Lambda Constand, der står her som bare et reelle tal, er egenværdi.
+
+4:25
+Så en egenværdi i det bare et tal. Det er det tal, vi ganger vektoren med den skala og en egenvægt tager sig en vægt tv.
+
+4:38
+Og ja. Så næste gang at der står en opgave, det er et eget problem, så er det altså bare det her der menings kan vi finde vektorer, som ikke er nul.
+
+4:50
+Således at hvis vi tager vores line afvænning på vægteren, så svarer det til at gange vektoren med en konstant.
+
+4:58
+Og lad os tage nogle eksempler på det. Vi kan jo tage en afvænningen af, der går fra for eksempel er en TRL.
+
+5:11
+Og hvis vi har et med og lyst, kan den blive et Excel.
+
+5:15
+Tilhørerne er end os skiller ef af Ex Ali 3.
+
+5:22
+Gang X. Det er simpelthen afbuddene der gør det det gør ved et exit end den talte bare over i tre gange sig selv.
+
+5:35
+Så kan vi se at alle at alle alle vektorer i er end er egne vektorer.
+
+5:50
+Med egenværdi. 3.
+
+6:01
+Fordi at alle vektorer der gælder, at vi selv tager efter på vægteren, jamen så får jeg bare vektoren selv ganget med 3.
+
+6:09
+Det vil sige dertil ville alle alle vektorerne blive en tur.
+
+6:19
+Det ville lige mangler at tjekke i virkeligheden er jo, at det er afbildningen jeg har skrevet op her.
+
+6:24
+Er den egentlig linje, og det er det, de vil overlade til man kan prøve at komme hjem.
+
+6:29
+Det er altså to ting. Betingelser skal være opfyldt. Dem ser vi lige om lidt i forbindelse med noget andet.
+
+6:35
+Det er et eksempel. Vi vil også se på en lidt mere kompliceret eksempel, var det ret klart, at der måtte være en egenvægt.
+
+6:44
+Men hvad nu hvis vi så på en indført nogle koordinater? Ganske kort.
+
+6:49
+Og så på en afvænnings matrix, der hed 1 0, 4 4 4 3 0, 5 4.
+
+7:06
+Hvad nu hvis vi tog på den der? Så kan vi jo sige den der.
+
+7:15
+Den er afvænnings matrix fra en eller anden lille afdeling, der går fra tre til tre bind, var skrevet, afbildedes matricen op i Standard Bast.
+
+7:30
+Lad os prøve at se på nogle forskellige ting kunne vi mon finde en væg, så har vi ganget på den her således at det bare bliver sig selv,
+
+7:39
+eventuelt ganget med en konstant, hvis man bare prøver sådan helt tilfældigt og siger Jeg kunne godt tænke mig at finde F ved ét.
+
+7:47
+Og hvad skal vi skrive med ét? Den er altså et i standard basis. Den kalder vi så 1, 1 1, altså et værktøj bestående af en ettaller.
+
+7:57
+Så svarer det til at sige denne her matrix gange på denne her ganger, altså 1 1 ind på land.
+
+8:11
+Det er jo FR-V. Hvad bliver det? Jeg er jo forholdsvis nem vejen ud.
+
+8:15
+Den første bliver den gang i vand på stænger, når den får stængerne. Det bliver jo 5.
+
+8:21
+Næste bliver 9. Næste bliver 4.
+
+8:24
++3 +4. Det andet er den. Og så er spørgsmålet jo kan dette her skrives som at F ved ét bare er lig med.
+
+8:37
+Altså kan f. RV ét. Er det mon bare en konstant lambda gange ved ét?
+
+8:44
+Og der kan man godt se, at det er det. Ikke fordi ved et. Det er jo et et Etika.
+
+8:48
+Bare gange den med en konstant, som får det her. Nej, det kan jeg ikke. For at få først den anden til at faste, skulle man være 5.
+
+8:54
+Men så passer anden og tredje på den anden ikke osv. Det kan ikke lade sig gøre.
+
+8:58
+De to vektorer kan vi sige. De er ikke parallelle. Vi er tre godt mænd.
+
+9:09
+Så det var lidt nedslående. Det var altså ikke nogen ved.
+
+9:13
+Der er ikke nogen egenvægt for denne afbildning, og vi kan ikke finde en egenværdi til dem, som ved, hvad du selv så på en.
+
+9:21
+En anden vægter, nemlig den, der hed V2, er lig med en halv en og en på tager altså bare en anden vægter.
+
+9:35
+Så vil jeg gerne vide, hvad er F V2 egentlig? Ja, det er jo så igen, hvordan man finder.
+
+9:43
+2. Man tager afvænnings matricen De om hensyn til standard basen.
+
+9:48
+Her er 1, 4, 4, 3 og 05.
+
+9:58
+Og så ganger vi simpelthen lægger vægt på, at hvis vi gør det, så har vi dengang vand på stænger,
+
+10:05
+og vandet giver ligesom til fire en halv stænger, der dækker nærmest alt Gianni og dengang vandt 2.
+
+10:14
++3 og +4. Det giver os ni, og det kan vi se, hvis jeg sætter.
+
+10:22
+Hvis jeg sætter ni ud foran en plantager, så kommer den havde ni gange en halv og en og en.
+
+10:36
+Det kan vi så se at F er 2.
+
+10:40
+Ved to af den her F.A. V2 er simpelthen bare ni gange ved 2.
+
+10:46
+Det vil sige, at V2 er en egenvægt. For denne her afbildning af hær og egen værdien er 9.
+
+11:03
+Det var lidt mærkeligt, det kunne vi ikke have gættet på forhånd, ikke lige.
+
+11:06
+Det kunne måske godt, hvis vi tænkte os rigtig grundigt om og kigget på det her.
+
+11:09
+Men det er ikke umiddelbart, den springer i øjnene, at endelig som det foregående eksempel har hun huseret.
+
+11:12
+3. Var han egen egentlig for alle vektorer?
+
+11:14
+Her er der nogle værktøjer, der har en egenværdi, og andre har nogle vektorer egne vektorer, og andre er ikke egnet vektorer her.
+
+11:21
+Han var ikke den var os.
+
+11:30
+Godt nu kommer der lige en hel stribe end en hel stribe sætninger eller hvad I vil kalde det fortolkninger,
+
+11:38
+der skal prøve at klarlægge, hvordan de her egne vektorer de egentlig ser ud.
+
+11:49
+Og jeg har i dag medtaget deres beviser.
+
+11:54
+Men fordi beviserne er en god repetition, er nogle vigtige begreber, som man godt kan støde på, når vi kommer til eksamen.
+
+12:04
+Selvom det første vi skal tale om er at lad os nu prøve at se på alle.
+
+12:11
+Vi kunne måske godt lige se, at vi jeg nu tog denne her ved to vægge, tage op og gange med en konstant.
+
+12:17
+Altså for eksempel i garnet ved 2. Alle indgange vil dermed 7.
+
+12:22
+Jamen, så vil det stadigvæk være en egenvægt, hvis jeg ganger alle dem med.
+
+12:25
+7 går Sanchez ud foran, og så vil jeg gang tilbage. Om det stadigvæk være en egenvægt med egenværdi 1 9.
+
+12:32
+Så altså enhver konstant ganger på B2 vil give en egenvægt, så der stadigvæk var en egenvægt sig til egenværdi.
+
+12:41
+9. Det vil sige, at alle de vektorer, der er parallelle op med at være 2 anti parallelle altså.
+
+12:49
+De har samme retning modsat vej. De vil alle sammen være egne vektorer for den der.
+
+12:58
+Det vil sige hele den alligevel ligger på en linje. De vil alle sammen være egnede i to plan.
+
+13:03
+Det vil sige, at de udspænder et et dimensionalt rum, en linje udspørgen så spandet af ved.
+
+13:12
+Det er simpelt hen alle sammen egen vektorer hørende til egenværdi 1 9.
+
+13:19
+Det gælder lidt mere generelt. Lad os se på det, nemlig at hvis vi ser på følgende mængde, men kalder vi en lambda ja.
+
+13:28
+Det er mængden af de vektorer, som ligger i vores vægt rum V og vi er altså hele tiden opfatter det som en linje afbildning,
+
+13:36
+der går fra væg til væg f og ved tv, hvor der gælder at f.
+
+13:41
+Af med Ali lambda vi. Det vil sige det er mængden af alle de vektorer i vores vektorrum, hvorom der gælder at de har egen værdi i lambda,
+
+13:53
+det vil sige de sendes bare over i sig selv ganget med en konstant lambda.
+
+13:57
+Så gælder hvad er der den mængde? Her gælder det, at en lambda er et underrum.
+
+14:07
+Af ved. Altså det er klart at en Lambda er en delmængde af R V op, fordi at vores mentorer de tages i ed.
+
+14:21
+Så tager vi en del med én ud af dem, nemlig lige præcis dem, hvor om det gælder, at FR-V er lige Lambda V.
+
+14:28
+Og hvis vi ser på vores eksempel hér, så ville den derovre. Der fandtes ikke nogen en lampe der, Tinndahn.
+
+14:33
+Så hvem ville ikke lægge i det åbne rum?
+
+14:35
+Men der ville, hvis det underrum, der hed 1 9, og så er alle dem, der havde brændt panini, så helt at underrum er væk.
+
+14:47
+Og hvorfor er der nogen at undersøge? Det er et underrum. Jo, det er det.
+
+14:52
+Den er jo en delmængde af V i forvejen, så vi skal bare undersøge disse to stabilitets betingelser.
+
+14:57
+Nemlig det at sige, at hvis jeg tager to elementer i dette underrum RV, så og lægger dem sammen, så skal jeg blive en underrum.
+
+15:05
+Og hvis jeg tager en konstant og ganger på én et element heri, så skal jeg blive enig eller armgang.
+
+15:12
+Så nu tager jeg to elementer i Lambda, og det kan jeg altid gøre,
+
+15:15
+fordi jeg ligesom jeg forklarer, har jeg en egen vægter, så har jeg også uendelig mange.
+
+15:20
+Jeg kan bare gange med en konstant sejr. Flere indlæg tog sig af Kata 2. Så jeg tager to elementer.
+
+15:25
+Jeg tager ved ét, som tilhører Lambda, og jeg tager med 2, som tilhører andre.
+
+15:32
+Det er bare skal vise det er, at ved et plus ved 2 tilhører Lambda, så har jeg vist stabilitets betingelse.
+
+15:40
+Ét der kan blive kaldt i toget for at vise det. Hvornår?
+
+15:46
+Ja, lad os se på det, kan vi afgøre det.
+
+15:51
+Hvad er det, der afgør, at det er et underrum?
+
+15:55
+Det vil sige, at der gælder et F. RV skal vel? Eller at det ligger, at det tilhører i Lambda.
+
+16:00
+Det er et FR-V. Skal vi lige lam der ved? Lad os undersøge om F er ved et +WAY 2.
+
+16:09
+Faktisk er lig med Lambda Guide ved et plus ved 2. Det kan vi nemt undersøge, fordi fl linjer dette første udnytter f linje.
+
+16:18
+Så kan vi sige f er vel et plus for v2 fr-v ét.
+
+16:24
+Jamen vi havde jo at ved ét lå i vores egen Rom.
+
+16:29
+Hvis vi indlægger i andedammen, så betyder det at EHF vil ét af lambda ved et så sidder lige med lambda ved et.
+
+16:38
+At V1 v2 lå i vores i vores mængde.
+
+16:42
+Det betød at F 2 var lige lam der ved to plus lam der med 2.
+
+16:49
+Så kan vi sætte lam både for en parentes og står der ved et plus B2, så står der at læse,
+
+16:58
+at ved et plus med 2 er en egenvægt otter for denne afbildning med egenværdi 1 lambda.
+
+17:07
+Det vil sige at et plus V2 tilhører simpelt hen i Lambda, og det er jo det vi skulle vise.
+
+17:19
+Visse betingelser er opfyldt. Vi bliver inde i vores rum, når vi lægger to elementer sammen dagen.
+
+17:26
+Betingelser 2 siger, at hvis vi tager en konstant og et ved tilhørerne vores lambda,
+
+17:37
+så skal vi vise konstanten gange ved så konstant en gang noget som bliver, så ligger den også inde i Lambda.
+
+17:45
+Vi ganger et element i vores lambda med en konstant, så bliver vi da enige.
+
+17:50
+Og det er på samme måde viser det f. K. Ganget med at lege med k legen line.
+
+17:57
+Arkitekten er Jeg giver dk gange fhv. Vind lægger i en lambda sas.dk ganget lambda ganget med.
+
+18:06
+Og så kan vi bytter rundt på Lambda kortet bare konstant som den Lambda Guide K ved.
+
+18:12
+Det viser at K v. Det viser, at et K ved er en egenvægt for afbildning med egenværdi lambda det medfører.
+
+18:22
+Det vil sige, at K V tilhører i Lambda.
+
+18:29
+Vi har vist det vi vil. Vi har vist, at en lambda vores mængde, der faktisk er et underrum, er V.
+
+18:37
+Det er ret vigtigt at vide. Det skal vi bruge mange gange, når vi skal løse differentialligninger osv.
+
+18:46
+Godt det var første ting vi nu ved om de herrer egenværdi, egne traktorer, alt og alle egne vektorerne hørende til en egenværdi.
+
+18:56
+De udgør et underrum er vi. Og kan.
+
+19:04
+Næste ting vi så vil undersøge er hvad nu hvis vi har to forskellige egenværdier?
+
+19:11
+Nu havde vi jo en der hed egenværdi 9.
+
+19:13
+Det kunne jo godt være, vi må finde nogle lektorer, så de havde en anden egenværdi, for eksempel fem eller syv eller et eller andet.
+
+19:18
+Hvad nu hvis vi tager to vektorer, som har hver deres egen værdi?
+
+19:22
+Det vil sige vi har været der. Et lam der 2.
+
+19:27
+Er egenværdier. Og lige for at være helt sikker.
+
+19:35
+Det er forskellig fra Lambda to. De er altså ikke ens. Og så gælder det at ét er egenvægt.
+
+19:51
+For når man tager ét og vel 2 er egen vægt tager.
+
+20:02
+For lob da 2. Vi har altså 2.
+
+20:07
+En eller anden en 1. Egenvægt, så hører det til hver egenværdi. Dette betyder jo bare at F.
+
+20:15
+Af med ét er lig med da et split og f v2 alligevel lambda 2 med to her.
+
+20:26
+Dette betyder at det der står her. Nu kan jeg så være Derveld bevidst nu eller forklare nu er.
+
+20:42
+Ved et og ved 2. Er vi ned af J.
+
+20:48
+U. Afhængigt.
+
+20:57
+Det vil altså sige, at hvis vi har to egenvægt 2'ere hørte, at vi, hvis vi tog egne med Tour, de hørte til hver deres egne af de linjer du har.
+
+21:09
+Det vil sige vi antager det modsatte, at ved et er en konstant ganget med to.
+
+21:21
+Dem sidder lige præcis, at de to er parallelle, at den ene bare en konstant gang ved den anden.
+
+21:28
+Det vil altså sige, at de i dette tilfælde jo linjers afhængige, men nu antager,
+
+21:35
+at de linjer, der jo altså regner os frem til at komme frem til noget, der er forkert.
+
+21:39
+Og derfor kan vi så vide, at derfor har de linje at uafhængige, så lad os prøve.
+
+21:47
+Det vil sige, at vi ved det her nu.
+
+21:49
+Det vil sige, at vi ved, at f a ved ét er lig med lambda et ved et fordele ved et er en egenvægt sig hørende til afbildningen der.
+
+22:03
+Vi kunne lige så godt skrive noget andet, fordi vi kunne ikke også skrive,
+
+22:06
+at det også lige med f, a, k ganget med to, fordi med ét voldlige lige k ganget med to.
+
+22:12
+Det er så lig med Lambda PS, så Nima K gange F er vel 2 som er lig med K gange lambda 2 ved 2.
+
+22:21
+For to jo også var en egenvægt som hørende til afvænningen, men med egne værdi.
+
+22:27
+Lambda 2. Så kan jo lige lidt panerede står fordi at det kan skrives som Lambda 2 og så bytte om på k af lambda k ganger ved 2.
+
+22:37
+Men hvad er ganger med 2. Det er vel et vældig lambda 2 ved et.
+
+22:43
+Nu står der så, at der to vel ét er lig med hele vejen igen.
+
+22:48
+Lam der evt. Det vil sige en lam, da ét med ét alligvel lambda 2 ved et.
+
+22:54
+Og. Jamen, hvad gør vi så?
+
+22:58
+Så tager vi den over på den anden side står der et minus slam, der to ganger med ét skal være lig nul vektoren,
+
+23:08
+så jeg ved jo en egenvægt sig for denne afvænning, så den var ikke nul.
+
+23:15
+Det vil sige, så er der kun. En anden mulighed er, at den er nul Koch-Jensen foran, men det kan heller ikke være nul.
+
+23:22
+For de er jo antaget forskellige. Alt sammen kom frem til en modstrid. Den går ikke, lyver sig ned.
+
+23:30
+Og altså at vores antagelse forkert. De er altså ikke parallelle.
+
+23:34
+De er linje uafhængig af de to. Så hvis vi har to egne med to har hørt til hver deres egen værdi, så er de Liniger, tror han.
+
+23:48
+Hess. Så er der det.
+
+23:55
+Godt den gælder faktisk.
+
+24:01
+Det her kan faktisk udvides fordi lade være står.
+
+24:11
+Det kan faktisk udvides fordi der gælder. Hun tager vi så vores egne rum hørende til en egenværdi, der hedder lambda ét.
+
+24:23
+Og vi vælger en basis for den. Med ét med 2 op til 9.
+
+24:41
+Og vi har også en basis. Vi tager en anden egenværdi, som er forskellig fra dag ét.
+
+24:49
+Den har en basis og den nummerere vi så bare videre i plus en optælle.
+
+24:57
+VK. Så gælder det rent faktisk, at alle de her vektorer at sættet så er sættet v et v tog helt op til VK lineært uafhængigt.
+
+25:29
+Fordi de første indlæg. To af de linjer du har hængende, fordi de er valgt som en basis for det første.
+
+25:36
+Dette indlæg om der et er jo et underrum. Derfor har de en basis, og der vælger vi så i vektorer.
+
+25:42
+Vi siger, det har dimension i. For det andet her.
+
+25:47
+Det har også en basis. Der siger vi så den nummerere vi bare videre dig op af.
+
+25:51
+De jo ikke havde været igennem det her. Den anden jo så også linje uafhængig.
+
+25:56
+Det må stå her for din basis for en argumentation, der er sætter hele sættet sammen.
+
+26:01
+Så bliver de faktisk alle sammen lineært hele sættet.
+
+26:06
+Linjer du har hængt for at larm, data eller om der to er forskellige egenværdier, og det kan man ret let overbevise om, at det er rigtigt.
+
+26:15
+Men da vi ikke gør. Vi har set specialtilfælde, hvor der bare var en vektor værksted.
+
+26:22
+Men det var vigtigt godt. Det er jo det vi skulle sige nu beklager til at komme i gang med det, der hedder hovedsætning.
+
+26:30
+Altså den der siger noget om strukturen, er det her og det vi skal bruge fremover, nemlig.
+
+26:50
+Så kan. Det så.
+
+27:00
+Under to of. Vi har en ligende afbrænding af en som helst vej frem fra vind til mad, og det er motionen er ved at blive en.
+
+27:19
+Det er altså et endimensionalt vægteren, det vil sige, at hvis vi indfører koordinater for den der afbildning vejr altså vælger en basis,
+
+27:28
+er det inden basis vektorer, og så bliver der inden koordinater hørende til sådan en lærer man.
+
+27:35
+Hvis man synes det er abstrakt, så kan man bare opfatte mest, som er en for eksempel helt Cervantes.
+
+27:42
+Det første jeg vil sige er, at der kan højst. Højst værre end forskellige egne medier.
+
+28:04
+Det er altså ikke muligt at finde flere ind, end hvis dimensionen af vores værktøjer med er en.
+
+28:11
+Vil i det tilfælde vi havde før hvor vi fandt egenværdi 9 for denne her tre gange 3.
+
+28:16
+Alder. Den er afvigende lige fra 3 til 3. Da vi havde en matrix der står, så ville, så fandt vi en egenværdi der hed 9.
+
+28:23
+Det ville højst være muligt at finde to mere. Så vil det ikke være muligt at finde flere, fordi dimensionen var 3, og derfor kan vi ikke finde flere,
+
+28:31
+der har overbevist os om, at det er rigtigt, det der står derude på det, vi har sagt tidligere.
+
+28:35
+Jamen, lad os forestille os i første omgang, at der var en egenværdier.
+
+28:42
+Så er der også en egnet værktøj hørende til forskellige 1 forskellige egenværdier.
+
+28:49
+Det vil sige, at de ville være af uafhængig i forhold til det vi har set heroppe.
+
+28:55
+Så vil vi have en linje af jeres uafhængige egne vektorer. Hver hørende til en egen værdi.
+
+29:02
+Så kan vi ikke have flere fordi at vores vektorrum er jo endimensionalt, og hvert egne rum er jo et underrum af vores vektorrum.
+
+29:11
+Så vi har fundet en linie uafhængige vektorer i dette vektorrum her.
+
+29:19
+Det vil sige, at der ikke plads til flere. Vi har fundet en basis bestående af egen vektorer i virksomheder som.
+
+29:25
+Vi har simpelthen fundet en, så der kan højst være en hvis der var 1+1.
+
+29:29
+Så ville vi have plus en linje, at uafhængige egenvægt er egenvægt.
+
+29:33
+Altså linje end linje at uafhængige vektorer i et endimensionalt vektorrum.
+
+29:38
+Det kan ikke lade sig gøre. Der er ikke plads til en nitte. Vi kan ikke finde fire linjer, et uafhængig ord uafhængig af vektorer i rummet.
+
+29:45
+Vi kan ikke finde tre linjer uafhængige vektorer i planen.
+
+29:48
+Der er kun plads til to i planen og tre år mere, så det giver altså, at vi kan højst finde enden forskellige egenværdier.
+
+29:55
+Så vi skal ikke lede efter flere har vi har vi inden 1 1 afvande,
+
+29:58
+der går fra 3 til at 3 har fundet tre egenværdi, så det kan betale sig at lede mere, for der er en flere.
+
+30:04
+Kom også tilbage til dette vanvid, så i praksis finder det jo den ene ting.
+
+30:12
+Det er simpel vane. Den anden ting har vi allerede sagt lidt, og det er en mere end forskellig.
+
+30:28
+Egenværdier. Og giver en basis for V bestående.
+
+30:41
+Af egen metode. Men så har vi inden forskellig, jamen så har vi en basis bestående af Panopto, og det er egentlig ikke.
+
+30:54
+Det er jo ikke så overraskende, fordi vi fandt jo en forskellige egn eller endelig er du egentlig toer, og så er det en basis af dem.
+
+31:03
+Det næste, der så kommer, er, at hvis vi nu lægger alle.
+
+31:10
+Vi tager lige. Et andet tavle skriver noget på først inden vi går videre.
+
+31:26
+Se på den tavle her skriver vi at dimensionen af en lampe.
+
+31:35
+Det er altså dette underrum bestående af alle egne vektorerne hørende til egen værdi.
+
+31:41
+Lambda divisionen er det. Det kalder vi den geometriske multi sitet.
+
+31:57
+A lambda og det skrives også. G m.
+
+32:02
+Lambda. Så dimensioner er jeg egne ord om hønen til den egen værdi lambda.
+
+32:09
+Det kalder vi simple geometriske model boligsitet. Jeg er en ting, jeg kan, siger man geometrisk kønsbestemt.
+
+32:16
+Der kan højst være. Ikke fordi det jo et underrum RV og V har dimension 1.
+
+32:21
+Men det gælder så, at.
+
+32:27
+Vi tager alle egne værdier ind og tager den geometrisk summen af den geometriske motor boligsitet.
+
+32:44
+Af alle egen.
+
+32:50
+Det ned er højst en.
+
+32:59
+Ja. Som alle hvis vi finder alle egne værdier større end egenværdier hér, så er det egentlig ret klart,
+
+33:12
+fordi hvis der er en egenværdier, så må den geometriske multiple stat at være egnet vil være et.
+
+33:21
+Hvorfor det?
+
+33:22
+Jo, fordi at de egne rum noget paladset større end egenværdier, så giver de jo hver en vægtere som eller et center vektorer, så giver det en.
+
+33:30
+Hvis vi har en egenvægt to og hører en til forskellige andre, så giver det jo en basis for en.
+
+33:35
+Så er der ikke plads til at den giver mest, for det bedst kunne være større, hvis vi siger var to for en af dem.
+
+33:42
+Jamen, så ville vi jo have to vektorer hørende til den egen værdi, og vi ville have enden minus en høne til resten.
+
+33:47
+Så ville vi igen have 1+1 lineært afhængigt vektorer. Så der er ikke plads.
+
+33:53
+Hvis der er en egenværdier, så er der også en forskellige egne med, og så er der også en linje i egne vektorer.
+
+33:59
+Og de har allesammen geometrisk mål fansitet ind fra deres egne rum.
+
+34:02
+Her kan højst dimension 1.
+
+34:05
+Men hvis der nu ikke er en metode, der er mindre end 1 forskellige egenværdier, så optræder den mulighed jo at nogle af disse.
+
+34:13
+De godt kunne være i princippet større end 1 dimensioner for de andre.
+
+34:19
+F.eks. Hvis vi nu har en afvigende går fra er 4 til 4, og der er kun to egne værdier,
+
+34:27
+jamen så kan det godt være, at nogle af de her eget rum har en højere dimension.
+
+34:31
+Men så gælder der stadigvæk, at summen af deres dimon, altså dimensionen af det ene øje rummer et eget rum.
+
+34:39
+De kan højst blive fig. 4. I det tilfælde, hvor det var meldingen fra 4.
+
+34:44
+Til 4. De kan højst blive én, fordi vi har jo set her, at det egne rum her vist har en basis bestående af dem der,
+
+34:51
+og det har en basis, består af deres såvel sættet her være linjer, du har hængt. Det vil sige hvis det ene ejd.
+
+34:56
+Rum have dimension 2 og det andet jo rummet af dimension 2, så vil de tilsammen med dimension 4.
+
+35:01
+Det kunne godt lade sig gøre, hvis det var en afbildning fra er 4 af 4 til A4.
+
+35:06
+Men det kunne ikke lade sig gøre. Vi ville have for mange linjer at uafhængige vektorer.
+
+35:11
+Hvis summen antallet af vektorer heri plus antal vektorer i oversteg en.
+
+35:19
+Så vi igen hvis vi tager de geometriske multiplicere en i betragtning dimension af vores egne rum, så må de igen højst blive inde tilsammen.
+
+35:27
+Det hele drejer sig bare om, at vi kan ikke have mere end én linje.
+
+35:30
+At have vektorer i er en. Så summen af alle de gammelsmølf forstætter.
+
+35:36
+Det kan igen højst pigen. Og så kommer den sidste som svarer.
+
+35:40
+Denne er den svarer lidt til ét, der jo egentlig hed 2. Nu kommer der intet fire dages varsel til 2.
+
+35:45
+Nemlig at vi har. Vi har en basis af egne reaktorer, hvis og kun hvis.
+
+36:06
+Summen af det geometriske.
+
+36:18
+På de fleste stater er 1.
+
+36:25
+Det vil altså sige, at hvis vi tager alle disse små kapaciteter til hønsebær egen værdi.
+
+36:30
+Hvis dette tilsammen giver en jamen så har vi jo netop skaffet os en linie uafhængig egne vektorer.
+
+36:38
+Den eneste mulighed på at vi kan have en basis bestående af egen lektoren.
+
+36:47
+Det er sådan en hovedsætning for mig, for det her med egen de egentlig tog en dag.
+
+36:59
+Jes og så kommer det store spørgsmål for vi er overhovedet ikke har talt om på noget som helst tidspunkt.
+
+37:04
+Det er jo hvordan finder man de her egne? Vil det være meget abstrakt, fordi ingen har en ide om, hvordan vi skal komme til at finde dem?
+
+37:12
+Det har vi intet sagt om. Det skal anden halvdel handle om, lige inden vi går til pausen.
+
+37:17
+Så må jeg lige nævne én ting, nemlig begrundelsen for, hvorfor vi har lavet alt det her værd.
+
+37:25
+Lad os prøve at sige. Ved at se på hvad det egentlig gør, hvis vi vælger en basis bestående af egne vektorer.
+
+37:37
+Det kunne vi jo gøre. Vi har en afbildning fra væg til væg.
+
+37:42
+Den har en basis af egne vektorer figur ved et optogene.
+
+37:54
+Det vil sige, at F er vel ét. Det er jo en egen vektor, når det gælder et F ved et Ahli Lambda et med et f 2 alene lambda 2 med to f.
+
+38:10
+VN er lig lambda 1. Men selvom.
+
+38:17
+Det er lambda de kan jo godt være en hær. Der må godt være nogen der ens bare har alle de her Tour niveau en basis.
+
+38:23
+De skal være linier, du afhængig hænge. Jeg har ikke sagt et ord om dage eller om det to kunne godt være den samme.
+
+38:28
+Der er I sagt nå ja, men hvis vi nu skulle lave en afbilledes matrix.
+
+38:36
+Ja, for den afdeling her og sætte den op i en.
+
+38:42
+Og vælge en basis for det behøver depressionsramte, der tager det samme.
+
+38:47
+Så tager jeg hen denne her basis her. Den vi kalder for hvem.
+
+38:54
+Så jeg ser på afmeldte matricen, der går fra VDV, altså ind og laver en afbøjes,
+
+38:58
+men altså ikke på den lille afdeling, hvor vi har valgt en basis bestående egen vektorer.
+
+39:02
+Hvordan ser den egentlig ud? Den bliver simpelt, kan jeg godt sige. Den hedder F.
+
+39:07
+Hvordan havde vi gør det? Vi skal tage f første basis vektorer og skrive den op i basis med det første søjle.
+
+39:13
+Så skal vi tage f er anden basis vektorer og skrive den op i basis ved anden søjle,
+
+39:20
+og det skal vi gøre helt op til f endda basis vektorer og skrive den op i basis væk.
+
+39:27
+Det er simpelt hen. Dette er definitionen på hvordan vi konstruerer vores afvænnings matrix.
+
+39:33
+Men hvad er F? Vil et F R ved et?
+
+39:39
+Det er jo lambda ét med et opskrevet en basis V.
+
+39:46
+Det vil sige, at F er vel et som er lamper ét med.
+
+39:50
+Det skal jeg så opskrive i basis. Det vil sige, at jeg skal tage et lambda. Ét af den første nul er vel 2 0.
+
+39:56
+3 0 er vi en første søjle af hævede lamper.
+
+40:00
+Et nul 0 0 0 nul. Næste basis svigter.
+
+40:08
+Næste søjle vægt har i denne havbundens matrix. Det er jo så f, at vi 2 opskrevet i basis ved FR-V 2 lambda 2 ved 2.
+
+40:16
+Nu skal den så opskrives i basis V. Det vil sige jeg skal tage en er ved egetræerne.
+
+40:21
+Jeg skal tal lambda to af metoderne. Jeg skal tage nul af bitrere og så videre hedder nul lambda 2 0 0 0 nul.
+
+40:30
+Vi begynder at se, at det bliver smart, fordi næsten alt bliver nul på nær det, der stod diagonalt.
+
+40:36
+Lad os bare tage den sidste, og han derfor ville FR-V andele lambda ende ende opskrevet i basis ved den nul af alle de første jeg ikke have nogen ved.
+
+40:45
+2. Jeg skal have lam, der ender ved enderne, og det vil sige, at vi får nul uden på diagonalen,
+
+40:52
+og kun det andet kommer til at stå under den slags matricer.
+
+40:56
+De er meget nemme at arbejde med. De nemmere gang sammen, de nævnte gange noget på, når du kontrol, noget de Randal.
+
+41:03
+Så det er hele begrundelsen for at arbejde med det her.
+
+41:05
+Det er for at kunne lave nogle meget simple afvænnings matricer, hvor vi kan afklare nogle spørgsmål og så derefter vende tilbage til standard fasen.
+
+41:13
+Hvis vi ønsker det, så Jes efter pausen, så bliver det meget med regne teknisk.
+
+41:18
+Så skal vi vide, hvordan gør vi det her i praksis? Vi har jo et godt team der.

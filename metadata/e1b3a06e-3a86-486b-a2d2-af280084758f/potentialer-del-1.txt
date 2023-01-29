@@ -1,0 +1,677 @@
+0:11
+Velkommen til den sidste forelæsning med nyt stof på dagsordenen.
+
+0:17
+Der har vi stramme vægte felter som også bliver kaldt for vækst og potentialer, så det snakker vi om før pausen.
+
+0:26
+Og for at ligesom at forstå det emne, så vil vi snakke lidt om stamme funktioner, og det har vi jo været inde på forskellige gange før.
+
+0:37
+Tidligere på semestret hørt, så det starter vi lige lidt med efter pausen.
+
+0:44
+Der tager vi så et bevis, for det er ikke sætning. Det er der nogle forskellige grunde til.
+
+0:51
+En af grundene er, at vi kommer ind på en række af de ting, vi har arbejdet med i forårets semestret under integralregning.
+
+0:58
+Altså de forskellige integrations typer cover integraler, flade integraler, divergens, flux.
+
+1:05
+Det hele kommer vi ind på i forbindelse med dette bevis, så vi kan tage det som en slags repetition.
+
+1:13
+Og så er der ingen grund til det er, at jeg synes, det er et et meget elegant bevis, og det er ikke et.
+
+1:23
+I kan se nogle andre steder, fordi det er et originalt digt til Ubevidst, som er lavet af Sten Markersen fra vores institut.
+
+1:32
+Og det glæder jeg mig til at at vise jer.
+
+1:36
+Og det udtrykker netop ånden i den måde, som vi her tilrettelægger.
+
+1:43
+Vægteren har lyst nøglen til grad regningen på. Så vi fejrer altså her sidste forelæsning med nyt stof.
+
+1:51
+Efter pausen med beviset. Det det handler om.
+
+1:59
+Det er jo de to sætninger som jeg har displayet og den første af sætningen.
+
+2:06
+Er Gausel sætning, der handler om forholdet mellem et rummeligt område og dets overflade.
+
+2:15
+Og så er der den sammenhæng, som Gauss har givet os imellem dem.
+
+2:20
+Altså at hvis vi tager divergens ind, som er rum udvidelsen inden i denne her.
+
+2:28
+Og ligesom senere på venstresiden af sætningen udtrykker altså et volumen overskud.
+
+2:35
+Højresiden udtrykker en flux. Så prøv at se den på den måde.
+
+2:41
+Altså der er et overskud af volumen udvidelse.
+
+2:46
+Det er den ene side. Den anden side er det, der presser sig ud igennem overfladen, altså flux ud gennem overfladen, så sådan kan I læse den.
+
+2:56
+Og så har vi altså Stokes sætning som. Handlede om en flade og dens ranke kurve, så i begge tilfælde, da er der sådan noget med,
+
+3:06
+at på venstresiden står der et integral, som er en dimension højere end det, der står på højresiden.
+
+3:15
+Så disse to sætninger de bygger bro imellem dimensionerne i integralregning.
+
+3:23
+Spørgsmålet er Så kan vi også bygge bro imellem de sætninger, og det er det beviset gør,
+
+3:30
+fordi vi vil tage udgangspunkt i Gausel sætning og med den bevises joke sætning.
+
+3:38
+Og det er altså den teknik osv. Vi kigger på efter pausen.
+
+3:44
+Se i øvelses programmet sidste gang.
+
+3:52
+Da kikkede vi på jokes sætning på den måde vi sagde da er et fint cirkulation vi skal have udregnet.
+
+4:01
+Men hov. Det er meget nemmere at lave det som en rotations flux.
+
+4:06
+Så vi gik altså her fra venstresiden og til undskyld fra højresiden og så til venstresiden.
+
+4:13
+Det vi skal gøre i dag. Det er at dyrke de modsatte veje.
+
+4:20
+Så altså problemet er. Hvis det nu er en flux vi skal have udregnet.
+
+4:29
+Så kan det måske sommetider være nemmere at udregne et en cirkulation af altså et tankesæt code integral.
+
+4:39
+Så lad os altså sige, at vi står i en situation.
+
+4:49
+Hvor vi skal have udregnet. En flux.
+
+4:57
+Og vi spørge os selv Kan vi i stedet for? Udregner.
+
+5:10
+Et Tonkin selv que integral. Og kan vi udnytte Stokes sætning til det?
+
+5:20
+Jamen så lad os lige prøve at se hvad egentlig forskellen på det der står her også er en joke sætning skrevet op i den version, der er her.
+
+5:29
+Set dette kan lade sig gøre. Hvis V er rotationen af W.
+
+5:38
+Så problemet i dag. Det er så givende.
+
+5:54
+Et vægttab fældes ved. Og så vil vi.
+
+6:03
+Finde. I et væk, så til W.
+
+6:13
+Således at rotationen af W er lig med det givne.
+
+6:24
+Væk så fælt. Det kalder vi et stamme væk trafik.
+
+6:29
+Og det er altså fordi det er lettere med en stamme funktion at finde en funktion, der differentieret giver den oprindelige funktion.
+
+6:36
+Her finde et væg felt som når vi roterer det, så får vi det oprindelige vækstlag fem.
+
+6:42
+Så det er så det problem vi tager udgangspunkt i. Og som er emnet for for for i dag.
+
+6:53
+Og lad os nu snakke lidt om det de har med samme funktioner sådan meget generelt.
+
+7:03
+Hvis F er stamm funktion. Til Lille F.
+
+7:15
+Så har vi jo at integralet fra a til b af f.
+
+7:20
+Eks. Det eks. Er lig med store f.
+
+7:25
+A b niveau store F.A. Det er integralregning og differentiel, hvis hovedsætning og den kender allerede fra gymnasiet,
+
+7:35
+og jeg har fornøjelsen af at bruge den adskillige gange her hænder i forbindelse med kurset.
+
+7:40
+Han så ud fra det.
+
+7:48
+Så er vi så videre til den der kan vi kalde.
+
+7:55
+Ja, den tager vi bare som en selvfølge. Og så så lad os lige se her for at få nummererede nogle af de ting, der vil komme ind på.
+
+8:05
+Så lad os kalde det her for sætningen et. Hvis jeg laver en definition.
+
+8:17
+Der lyder sådan her, at. Og nu kalder vi det for en store stjerne funktion.
+
+8:32
+Hvis den er defineret som integralet fra nul til x.
+
+8:39
+A en funktion f fattet. DT. Så hvis dette er korrekt.
+
+8:51
+Og det betyder altså at funktionen her er så.
+
+8:58
+Har ikke siddet her. Altså den anden renset som som sin variabel.
+
+9:04
+Og hvis vi lige tegner det op. Så vil det altså sige vi kigger her på et et koordinatsystem her, lad os sige, at vi her har grafen for F.
+
+9:24
+Og så har vi altså et x placeret her på den grænse, så den måde jeg har, definerede den dér funktion på.
+
+9:31
+Det er altså arealet af.
+
+9:38
+Det område der ligger under grafen for EF og det er jo så en funktion f.
+
+9:42
+Eks. Hvis jeg flytter eks. Jamen så er jeg jo store stjerne ikke?
+
+9:47
+Jo større og den bliver mindre. Den anden vej ikke sandt?
+
+9:52
+Og den funktion her. Det ville være en stamme funktion. Så det vil altså sige at hvis jeg differentierer.
+
+10:09
+Den funktion. Så har vi funktionen f.ex.
+
+10:21
+Og så også specielt kan vi så bemærke at.
+
+10:30
+Vi siger at differentiere stjerne funktionen i nul, så får jeg altså nul.
+
+10:39
+Altså den værdi der ligger herinde. Differentialkvotienten er hjernefunktion i nul.
+
+10:46
+Den er derfor noget. Så dette.
+
+10:52
+Vi havde snakket om at de indtil gravhøjen har vi brug for en stamme funktion, og så kunne det være en måde at lave en stamme funktion på.
+
+11:00
+I kan huske er uendeligt mange stamhuse under dette. Altså bare en af dem, så sådan kan vi altså formulere dem.
+
+11:10
+Og det er der en aktivitetshus med. Det er den første i dag, hvor I lige kan tænke lidt videre over den.
+
+11:16
+Men den er rigtig god at få fat i, som venter. Det er standard.
+
+11:21
+Det er sådan mere nyt, og man er nødt til at tænke det igennem for lige at forstå den variabel, der er på grænsen der.
+
+11:29
+Se. Så går vi videre og vi siger.
+
+11:38
+Hvis vi har givet et vægttab felt x komma Y, kommer z.
+
+11:49
+Og så giver vi igen en definition. Altså ligesom vi her havde en definition på en stjerne funktion, så siger vi altså at.
+
+12:12
+Ved denne her funktion af tre variable. Det er tanken selv.
+
+12:29
+Cover integral. A.
+
+12:36
+V. Langs den rette linje.
+
+12:46
+Fra origo. Til.
+
+12:56
+Et vilkårligt, det vil sige et variabelt punkt der hedder Sysette.
+
+13:02
+Så der. Så det jeg gør her.
+
+13:11
+Vi kigger på ikke Sysette Grundahl systemet.
+
+13:17
+Vælger os et vilkårligt. Hul i rummet.
+
+13:24
+Og så udregner vi det tankene cifrede kode integral.
+
+13:30
+Langs med den rette linje der ligger her. Og I kan se det igen.
+
+13:39
+Så er det her tankens SHIELD kode integral. Det er jo afhængig af renset punktet for min integration.
+
+13:47
+Ligesom den funktion var afhængig af grænse punktet.
+
+13:54
+Og integrere jer op langs den rette linje.
+
+13:58
+Jamen så får jeg lige præcis en funktion af tre variable.
+
+14:11
+Og den sætning som vi indfører her. Selv.
+
+14:24
+Det her kan jeg udregne foran ethvert fægter felt, som er defineret i området.
+
+14:30
+Selvfølgelig med. Med visse matematiske betingelser, men det kan du jo bare gøre her.
+
+14:35
+Men så siger vi altså. Hvis.
+
+14:41
+V. Er rotations frit.
+
+14:52
+I hele rummet. Det vil sige altså at rotationen.
+
+15:03
+RV. Den er nulvækst som.
+
+15:14
+Så er F stjerne. En stamme funktion.
+
+15:25
+Til væg feltet. Og det vil jeg så sige.
+
+15:33
+At gradient af en stjerne. Er lig med vægt, så feltet.
+
+15:48
+Og så. Og selvfølgelig er der selvfølgelig her af at vi er et gradient felt.
+
+16:07
+Og det var noget vi dyrkede, og derfor ja, hvad skal vi sige.
+
+16:11
+Halvanden måned siden da dyrkede vi denne her sammenhæng.
+
+16:16
+Vi havde altså et væk så fælt. Vi ville gerne vide, om det var et gradient væg felt, og så integrerede vi op langs den rette linjer.
+
+16:26
+Her fik en funktion af tre variable. Hvis vi så trak gradient den 18.
+
+16:32
+Så skal den give, hvis det hvis ved at gradient så fælt.
+
+16:37
+Og hvis vi tager fart i hjælpen af en stjerne, og at den ikke giver vil, så er vi ikke et gradient væk Staffeldt.
+
+16:48
+Og I kan måske huske hvorfor det er. Og her har vi oplevet at vi har taget rotationen af et så felt.
+
+16:57
+Se den giver nulvæksten i hele rummet. Så ved vi at gradient væg så fint.
+
+17:03
+Og så har vi altså her metoden til at finde Stam-Peter feltet.
+
+17:12
+Og gradient ægtefælle. De var jo altså i fysik og den slags områder deres værdi er jo meget ofte ofte forekommende ægtefælles type.
+
+17:22
+Og der kan jeg måske huske, at. Altså at hvis vi her har en knude i livet, så kunne vi udregne.
+
+17:38
+Hvis det er hvis vi er tjenere med et gradient ægtefælle, så har vi altså at skabe den på et.
+
+17:51
+Hvis vi et gradient væk, så fælt. Så kan dette kodede integral bare udregnes som.
+
+17:58
+Hvis vi kalder dette begyndelsen punktet for af dette, er begyndelsen punktet for B.
+
+18:07
+Så kan det udregnes som F stjerne af A Vi a b minus stjerner af.
+
+18:16
+Altså en sætning der svarede til hovedsætning der op, som vi tog udgangspunkt i.
+
+18:23
+Så er altså her en smuk sammenhæng mellem noget I kender i forvejen.
+
+18:27
+I gymnasiet finder en stamme funktion. Det kan vi altså sammenligne med, og det kan vi gøre blot at funktionen er kontinuert.
+
+18:35
+Så det er altså betingelsen for den sætning dér, at det skal være kontinuert.
+
+18:41
+Nu har vi det samme her med et væg, så felt vil vi kan finde en stamme væg tilfælde til det.
+
+18:47
+Men forudsætningen er, at vi er et fortjent vækstlag fem.
+
+18:52
+Og det kan vi altså finde ud af at vi tager på busstationen, når det. Og.
+
+19:09
+Og som I skal dyrke i dag. Så kan vi altså få den EfBs hjernefunktion, som jeg har talt om her.
+
+19:28
+Den får som et skalaer et produkt. Altså temmelig vilkårligt punkt og prikke det med.
+
+19:43
+Integralet fra 0 til 1 er ved.
+
+19:49
+U. X. Urby og uset.
+
+19:59
+Det jo, så det er sådan det er bare en måde at formulere det at lave.
+
+20:05
+Det er tanken selv koden til grad. Det kan jeg gøre ved at lave et prikproduktet her.
+
+20:12
+Så er det selvfølgelig ser selvfølgelig mærkeligt ud første gang vi ser det.
+
+20:17
+Men det skal forstås på den måde, at det der står her.
+
+20:22
+Dette integral skal forstås som tre integraler. I kan huske et væk så fælt.
+
+20:28
+Det består af tre funktioner af tre variable, nemlig ved et ved to ved tre.
+
+20:34
+Og det er som hver af dem vi skal differentiere med hensyn til brug fra nul og teen, og når vi har lavet de tre integraler, så tager vi prikproduktet.
+
+20:45
+Ikke syge sæt ganger det ud, og så får vi stjerne funktionen ud på den måde han.
+
+20:52
+Altså den stjerne funktionen som vi måske har brug for. Hør her hende.
+
+21:07
+Det var kapitel 2. Kapitel ét handler om det almindelige funktioner i en variabel.
+
+21:14
+Kapitel 2 Det handlede om stjerne funktionen for et vægtet felt.
+
+21:20
+Nu kommer vi til det tredje og sidste.
+
+21:23
+Det er nemlig stjerne væk fra feltet til et væk felt, og det er det, der handler om vægtere, potentialer eller stamme begge felter.
+
+21:36
+Så kom. Vi taler altså nu om stamme væk felter igen.
+
+22:00
+Givet et eller andet væk, så følte. Så laver jeg en definition.
+
+22:16
+Nemlig på et nyt væg felt som jeg vil kalde dobbelt vist stjerne.
+
+22:37
+Det vil jeg forstå. Derved vil jeg forstå og så bemærk.
+
+22:41
+Nu kommer der så et minus. Bemærk det.
+
+22:50
+Og så skriver vi her. At jeg skal fortsætte her, om jeg står.
+
+22:56
+Der var nogen, der prøvede at kigge ned under computeren, så vi tager den lige her op.
+
+23:00
+Altså den dér w stjerne. Den definerer vi som minus.
+
+23:07
+Ikke et ikke et. Prikproduktet, men et krydsproduktet, altså det vilkårlige punkt x kommer y kommercielt og så cruisede med.
+
+23:21
+Et integral fra 0 til 1. Og så skal vi have det sammen, som står her.
+
+23:29
+Men garnede faktoren u på. Så her står der altså ud gange med v.
+
+23:36
+A u ex komma ugly komma uset.
+
+23:45
+Det my. Den.
+
+23:56
+Det er jo ikke tilfældet. Nu har vi. Nu har vi dannet et nyt væg felt vi kalder for w stjerner, og nu kommer der så en sætning om det her.
+
+24:18
+Og vi siger. Hvis vi er divergens frit.
+
+24:33
+I hele rummet. Altså det vil sige.
+
+24:44
+Det vil sige at divergens er ved.
+
+24:51
+Hvis den er lig med nul overalt. Så er dobbelt tv stjerne.
+
+25:05
+Et stampe følte. Til det givne væk så fælt ved.
+
+25:19
+Så det vil altså sige. At rotationen.
+
+25:30
+W Stjerner er lige med ved.
+
+25:38
+Og det var jo sådan set den problematik vi stod i her.
+
+25:44
+Da vi ville bruge Stokes sætning baglæns, da fik vi brug for at finde et stamme væk fra felt.
+
+25:53
+Og nu ved vi altså, at det kan lade sig gøre i en bestemt situation.
+
+25:58
+Hvis ved er divergens frit, så kan denne procedure lade sig gøre og ellers ikke.
+
+26:21
+Nu har jeg sagt det dér med i det første tilfælde. Da skulle vi altså dér, hvor vi talte om stammen funktion og til et så følte.
+
+26:29
+Da talte vi altså om, at det skulle være rotations frit i hele rummet.
+
+26:34
+Det dér med hele rummet. Det er en.
+
+26:38
+Sådan behøver det ikke nødvendigvis at være. Altså hvis blot mængden er stjerneformet, så gælder det.
+
+26:46
+Altså hvis rotationen den er nul vægteren i en stjerneformede mængde, så gælder det altså, at vi kan finde en ens stamme funktion til det.
+
+26:58
+Og altså på samme måde med den sidste sætning her Hvis blot V er divergens frit i et stjerne og området er stjerne.
+
+27:07
+Er et fjernere område. Jamen så gælder det altså at vi kan finde en stamme væk født til det ud fra den procedure jeg har skrevet op.
+
+27:19
+Det er hende.
+
+27:21
+Og lad os lige se et enkelt eksempel på, hvordan vi kan udnytte denne her sætning, så I lige kan se hvordan det fungerer i praksis nemlig.
+
+27:33
+Vi kigger på et vægtet felt og finder DSBs stjerner væk så fælt.
+
+27:51
+Så. Vi betragter væg feltet der hedder Venus by komma x komma in.
+
+28:08
+Og opgaven er fin.
+
+28:15
+Stjerne væk, så feltet der hører til ved. Og det gør vi så.
+
+28:32
+Hvis stjerne. Er som minus.
+
+28:39
+Et krydsproduktet. Hvor vi her så har vores variable punkt x y, z.
+
+28:49
+Der er krydses med et integral fra nul og til en.
+
+28:56
+Og der har vi. En u faktor på her.
+
+29:05
+Og så skal vi se på de tre V funktioner, og I kan altså se.
+
+29:13
+V skal tage sig af Oubæks ugly og uset, og det bliver så lig med minus Ugly.
+
+29:25
+Minus U med U X, og så bliver det en.
+
+29:34
+Det er jo. Og det vil sige minus.
+
+29:42
+X Y Z cruisede med integrale fra 0 til 1.
+
+29:50
+Vi ganger blot en på, så har vi altså her u.
+
+29:54
+Du kan skrive det sådan her. Vi er nu sy o i anden.
+
+30:00
+Og vi har her ex u i anden. Og så har vi her u.
+
+30:15
+Og vi regner videre stadigvæk.
+
+30:21
+Ikke syv sæt krydser med.
+
+30:27
+Se det her betyder altså, at de skal integrere de her tre funktioner, og derfor skal jeg altså finde en stambord zone til hver af dem.
+
+30:41
+Og det gør vi så her. Det har vi altså Y nu i tredje.
+
+30:47
+Og det er jo den variable, vi har her.
+
+30:51
+Så det giver altså minus by i tredje fjerde.
+
+30:56
+Ud i tredje. Og her får vi extender konstant.
+
+31:03
+Så der får vi begges tredjedel ud i tredje.
+
+31:11
+Og her får vi så en halv uge i anden.
+
+31:21
+Og de skal jo så alle tre substituere imellem nuller i.
+
+31:26
+Og så får vi minus x y z.
+
+31:33
+Krydset med vi indsætter grænsen en gang for alle de uger der er her og bagefter nul ind på alle de uger, der er her.
+
+31:45
+Og så får vi bare minus by tredjedel, og så får vi x tredjedele, og så får vi en halv.
+
+32:02
+Og så skal vi altså. Vi har et minus foran her stadigvæk, og så skal vi krydse de to vektorer, vi er nået til her.
+
+32:11
+Den gange med denne by halve minus except tredjedele.
+
+32:21
+Og så sige vi set ganget med denne her.
+
+32:26
+Det giver minus y, z tredjedele og så minus x halve.
+
+32:35
+Og til sidst så får vi så ikke sige anden tredjedel over minus Y i anden tredjedel.
+
+32:49
+Ja, så endda. Så hermed har jeg altså fundet et stjerne væk såvel.
+
+33:02
+Nu er spørgsmålet så om det her det så er et vægtere potentiale.
+
+33:06
+Altså om det er et Stambolic felt. Og det kan jo afgøre simpelt hen ved at tælle de var ganzen af mit værk af det givne vægt, så følte.
+
+33:21
+Altså erkendelsen er ved. Den er jo så lige nu syg.
+
+33:27
+De fremstiller differentieret efter ex det giver nul. +6 differentieret efter nye den giver nul plus en differentieret efter Z.
+
+33:37
+Den giver også nul. Så det vil altså sige at det er væk så fælt, hvor til har fundet et stjerne væk, så fælt.
+
+33:46
+Det at divergens frit. Og så kan jeg altså konkludere Derfor er vi et dobbeltstjerne.
+
+33:59
+Et stamme væk felt. Selvig, så er det.
+
+34:10
+Og det er der øvelser omkring i dag. Og nu skulle I være klædt på til øvelses programmet.
+
+34:17
+Og pause.

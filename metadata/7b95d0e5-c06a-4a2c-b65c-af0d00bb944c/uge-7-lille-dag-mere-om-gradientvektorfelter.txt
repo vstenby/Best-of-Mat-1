@@ -1,0 +1,1319 @@
+0:06
+Der var god tid til at sikre en passende.
+
+0:14
+At sikre. Tjek.
+
+0:24
+Tjek. Tjek, tjek. Lød det.
+
+0:29
+3 tre. Lyd 1 2 3 Så ikke en lyd, blød lyd 1 2 3 er.
+
+0:42
+Diesel har. Så tager.
+
+0:54
+13. Undskyld udtrykket.
+
+1:01
+Vi kører det her car og det er altså.
+
+1:06
+Ligesom. Sikkerhed.
+
+1:12
+Føler du dig? Jeg er Gomorgen. Jeg er klar til at snakke videre om vægt felter, og jeg så det første.
+
+1:22
+Det er sådan rimelig stille og roligt. Vi laver lidt repetition, og der er lige nogle pointer, vi understreger fra sidst.
+
+1:32
+Vi skal kigge på det, der hedder nabla operatoren. Dem skal vi bruge til at lave sådan nyt symbol for gradient,
+
+1:40
+og så kommer der to nye begreber divergens og rotation, hvor vi også bruger den nabla operatoren.
+
+1:47
+Og så har vi lige fire hurtige sætninger om gradient fik felter, og noget af det kender I også godt.
+
+1:56
+Og så først her til sidst, så bliver det lidt vildt på midten.
+
+2:00
+Altså når vi skal forklare hvad ligger der egentlig i dette begrebet divergent.
+
+2:04
+Men vi starter lige med at snakke om en orienterede kurve.
+
+2:14
+Altså, der har jeg en kurve, kan jeg se. Men når vi siger, at den orienterede, så betyder det altså, at vi har.
+
+2:24
+Vi har et startpunkt, og vi har et slutpunkt sådan det.
+
+2:31
+Og hvis vi kigger på den dynamiske fortolkning ikke med.
+
+2:36
+Altså er det en partikel, der løber igennem. Så skal der altså være den vej her.
+
+2:41
+Vi kiggede så på sidste gang, hvis nu denne koger.
+
+2:46
+Den er placeret i et vigtigt felt. Så kan vi lave det, der hedder et tankens shield code integral.
+
+2:53
+Så hvis vi nu kigger på den dér, så hopper svigter fælt.
+
+3:00
+Det er jo en vektor i ethvert punkt, og nu kan vi bare tage nogle af dem. Det kunne være, det kunne være det, der er mit.
+
+3:06
+Der har jeg måske mit værktøj født, repræsenteret dér og her, og der har jeg måske en væg, så der ser ud på den måde her og her.
+
+3:18
+Der har vi måske en. Altså en vektor der ser ud sådan her.
+
+3:25
+Og der er selvfølgelig mange flere vektorer, som man kunne tegne på den der.
+
+3:30
+Men det vi betragter, er vel. Hvad er det samlede virkning af dette vigtige felt på denne kurve altså formuleret på en anden måde?
+
+3:39
+Hvad er det for et arbejde vektor feltet det udfører? Når partiklen går fra begyndelsen punktet og så til slutpunktet.
+
+3:47
+Det vi så blev enige om sidste gang, det var så, at vi kigger på en enheds tangent vektor i det punkt her, som hedder 1.
+
+3:59
+Og så kigger vi på projektionen af min oprindelige vektor ned på den da enheds tangent vektor, sådan som det vi skal integrere.
+
+4:10
+Det er faktisk den størrelse her. Det er den, der bestemmer, hvor effektivt denne her vektor trækker i det punkt.
+
+4:19
+Så og dette gør det. Det fandt vi ud af, at det kan vi få som prikproduktet af V og så en enheds tangent vektoren, da der ligger det.
+
+4:34
+Så kan I huske, når vi har et prikproduktet? Altså hvis vinklen imellem vektorerne er mindre end 90 grader, så er det prikproduktet er positivt.
+
+4:46
+Og sådan kan jeg altså se. Sådan er det i det her tilfælde, det vil jeg sige.
+
+4:51
+Vektoren er sådan set aktiv i partiklens retning, kan man sige, og det er altså fordi det er det, der prikproduktet er større nul.
+
+5:01
+Når kigger vi så på denne her. Og her kunne vi jo igen tegne den eneste tangent vektor.
+
+5:10
+Og jo, der var det altså sådan, at de to de var. De var altså vinkelrette på hinanden, så vægteren her og den står altså altså den.
+
+5:19
+Den bidrager ikke den ene retning. Heller ikke i den anden retning. Og helt præcist er det, fordi her har vi, at dette prikproduktet er lig med nul.
+
+5:33
+Når os, så kan vi jo så lige kigge på det sidste eksempel på den vektor, som vi har her.
+
+5:40
+Igen skal jeg jo tegne min min event, så det er, hvad jeg tegner den.
+
+5:47
+Og så skal vi have produktionen af min min lektor her ind på denne.
+
+5:52
+Det vil sige, jeg blev lige nu til at forlænge den, og kan I se nu?
+
+5:57
+Ja, nu stritter den bagud, og I ved, når vinklen er større end 90 grader, så det er det, der vægter produkt der.
+
+6:09
+Det er jo negativt. Sådan vil alt ses.
+
+6:13
+Den situation kan vi altså godt have. Altså at vi har et væg felt nogle gange.
+
+6:18
+Så laver den et positivt arbejde. Den medvirker til denne bevægelse.
+
+6:22
+Andre gange sådan altså negativt. Og når vi så udregner dette, er tanken selv kode integral sådan lige som at kigge på det samlede resultat.
+
+6:30
+Den måske positivt, nogle steder negativ. Andre steder. Men det er den samlede virkning.
+
+6:35
+Hvor stort er det? Det er groft, så der var det i orden.
+
+6:38
+Vi fandt ud af, at hvis vi ligesom skal have det her Tankian Shell kode Integral, så var det netop dette her, der var symbolet.
+
+6:48
+Det var det her, der ligesom står for belastningen på den kode, vi har dér,
+
+6:54
+og vi så her i år, at det kunne vi så få, hvis vi havde en parameter fremstilling.
+
+7:01
+Så kunne vi få det her ved at tage restriktionerne væk, så feltet på min parameter, fremstilling og gange med tangent vektoren.
+
+7:11
+Så det var altså lige som den formel, vi fandt ud af sidste gang, og skulle vi lige, skulle vi lige tage et hurtigt eksempel på det.
+
+7:20
+Altså hvis vi nu siger her at vægte feltet. Det hed y komma minus en komma to ex sæt.
+
+7:32
+Og jeg har en kode, som er interesserede. På følgende måde er r, u denne u.
+
+7:38
+Og så den eksponentielt funktionen af. Og så er den 2.
+
+7:42
+O. Min nu se. Sådan er. Og så vil vi altså gerne finde det tanke sjæl til gran.
+
+7:52
+Alt dette væk så fælt langs med den kurve, som vi har præsenteret her.
+
+7:58
+Og vi skal selvfølgelig her have intervallet definerede.
+
+8:03
+Det kunne være fra 1 til 2. Og så udregner vi så integralet.
+
+8:09
+Det var jo så fra 1 til 2. Og så skal vi have væk topfeltet.
+
+8:18
+Taget på min kurve. Her. Og vi kan se at vi skal starte med Y.
+
+8:24
+Så kan vi sige, at det er det, der bliver det første koordinaten.
+
+8:28
+Vi skal op her i en lektor, så det er up. Og så skal vi have et minus inden den konstant.
+
+8:36
+Den er ikke afhængig af ser serie. Den er minus muse.
+
+8:43
+Og så skal vi have 2 u. Minus en.
+
+8:52
+Nej, undskyld vi skal have to except. Så vi skal altså have to.
+
+8:57
+Og så skal vi have ud, og mit sæt er jo 2 to o min nu.
+
+9:04
+Se så om vi skal have et prikproduktet.
+
+9:14
+Og hvor vi altså her differentierer min kone, og så får vi en eksponentielt.
+
+9:22
+Funktionen bliver differentieret til sig selv, og herfra får vi to.
+
+9:29
+Og det er jo om vi går videre her.
+
+9:36
+Og så udregner vi dette prikproduktet, og vi kan se inden for +6 fundamentale funktioner minus eksponentiel funktion.
+
+9:44
+Vi går ud med hinanden, og så får vi her fire år.
+
+9:49
+Og så står der 2. O min nu scenen. Og så har vi det u der.
+
+9:59
+Og så kan vi lige. Så regner vi lige det. Der kan vi lige igang.
+
+10:03
+Det er fire uger. Så får vi her 8 o i anden, og så får vi minus 4 o.
+
+10:11
+Det er jo sådan der. Og så skal vi have fat i nogle stamme funktioner.
+
+10:20
+Stamme fusion. 2. Ja, det er jo en tredjedel et tredje. Så her får vi altså otte tredjedel o.
+
+10:28
+Et tredje og så minus. Samme funktion to dage en halv uge i hjernen, så det bliver 2.
+
+10:36
+O i anden mellem nul og 1. Og vi indsætter så en.
+
+10:42
+Og så kan I se. Så får vi altså 8 tredjedele minus to.
+
+10:48
+Undskyld! Er et to. 1 og 2 der var de grænser vi havde valgt.
+
+11:01
+Ja eller nej. Hvorfor ikke kan holde det sådan?
+
+11:09
+Der er vi altså nul til nul til én.
+
+11:13
+Og så har vi her novelty, fordi så bliver det jo.
+
+11:18
+Skal vi ikke bruge for meget tid på dette brøkregning. Og så får vi det otte tredjedel meter.
+
+11:24
+6 tredje bliver så to tredjedele, så er det.
+
+11:28
+Så det vil altså sige, at det er væk så fælt.
+
+11:32
+Vi har lavet her langs med den her kurve. Det var et positivt arbejde på to tredjedel, der kom ud af det.
+
+11:44
+Men hvis I lige prøver at kigge på indtil grænsen vi havde her, kan vi se ud, hvis vi bruger nul reglen.
+
+11:53
+Så hvornår den nul. Det er den selvfølgelig super lige med 0, men det er også, hvis du er lig med en halv.
+
+12:01
+Og vi kan se hvis den er mindre end halvt, så den er negativ, den er positiv, og så er det altså en negativ indtil Grant vi har her.
+
+12:12
+Så det dækker over, at så på det første stykke af denne kurve her, der har væg, så feltet har været negativt.
+
+12:20
+Altså før ulige mig nul til en halv, men så derfra en halv og så op til én.
+
+12:25
+Så det er altså positivt og det positive arbejde. Det virker altså.
+
+12:30
+Der må være nogle længere væk. 2'ere ikke sandt, at på det sidste? Da er det mere positivt end først var negativt, så at sige.
+
+12:36
+Så derfor får vi altså samlet et overskud sådan, så det er det.
+
+12:41
+Virkningen er i vækst, så feltet på integralet. Det bliver så positivt, idet eksempel her.
+
+12:48
+C. Vi kunne sagtens hvis det var. Altså have den Cuvier, og det går også på sig.
+
+12:56
+Her snakker vi om denne her kurve Herring. Altså den var parat med tocifrede sådan, så orienteringen var på den måde her.
+
+13:05
+Hvis vi nu lavet en anden parameter seeing sådan så orientering.
+
+13:09
+Den var modsat. Så ved du hvad betyder det resultat vi fik her?
+
+13:15
+Det var godt nok, men vi skal skifte fortegn. Så jeg vil sige Ambler og orienteringen af kurven, så vil det arbejde væk, så feltet laver.
+
+13:26
+Foss skal skifte fortegn, så det er altså forskellen, og derfor er det vigtigt, at vi har den rigtige orientering.
+
+13:32
+Der er repræsenteret her og så igen.
+
+13:35
+Altså hvis vi bør skifte orientering på denne kurve, så ville det selvfølgelig være et negativt arbejde, der samlet kom ud af det.
+
+13:46
+Se det vi nu skal snakke om. Det er nabla operatoren, og det er sådan et behændigt mærkeligt symbol, som jeg skal prøve at motivere.
+
+14:00
+Se nabla ser sådan her ud. Man kalder det for en operator, for hvad betyder den?
+
+14:13
+Den betyder det er det ex komma.
+
+14:20
+Det er det jo ikke et komma. Det er det sæt siger.
+
+14:30
+Så I kan jo se det handler altså om partier differentiation.
+
+14:35
+Først skal der altså differentieres efter eks efter y og c efter Z, men der står ikke hvad det er vi skal differentiere.
+
+14:43
+Det er det, der er dette. Det er derfor vi kalder for en operator, den stumme, den.
+
+14:47
+Den siger, hvad vi skal gøre, men ikke hvad vi skal gøre det med.
+
+14:54
+Det kan vi så gøre noget ved fordi. Altså hvis vi f.eks.
+
+14:59
+Ser dem det de godt kender i forvejen. Det er jo, at gradient er en funktion.
+
+15:07
+Og der ved, vi ved godt, at der bruger vi jo netop den. Dør den der operatoren F.
+
+15:13
+Så kan man altså lige så stille. Operatoren skal medvirke på F. Så altså.
+
+15:19
+Nu skal der bare står F på de tre steder der. Så det er altså det DF, det Dex Komma DF det er.
+
+15:31
+Og så er det komma det f. Det er set helt i overensstemmelse med det, som I har arbejdet med.
+
+15:40
+Altså når vi snakker om gradient og gradient væk, så felter. Det er de tre partielle afledet.
+
+15:49
+Men så kommer nu et nyt begreb som hedder at divergens er et midterfelt.
+
+16:03
+Og det vil man kun skrive ved hjælp af denne her nabla operator, fordi den skal vi så som gør at de gennem den prik og så vektor feltet.
+
+16:20
+Sådan som man opfatter det her som sådan et lidt mærkeligt prikproduktet, hvor vi altså har.
+
+16:28
+Vi har operatoren her. Som vi prædiker med et vægt så fælt som vi kalder for ved et B2B træ med ét, er den første nat med metodens dens godt med træ.
+
+16:40
+Det er den tredje koordinat, så når vi bruger den der operatoren, så betyder det altså, at det er.
+
+16:47
+Det vil et det, og sådan når det er prick, så er det noget med plus og så den anden.
+
+16:57
+Så har vi den der. Og vi har. Vi har det vi i 2.
+
+17:03
+Og dermed også. Så til sidst. Der har vi det vi tre og det ex.
+
+17:15
+Nej, det ser jeg tak. Sådan da.
+
+17:20
+Så sådan finder man sig erkendelsen af et vekslende felt, der var differentieret efter ex.
+
+17:25
+Plus differentierer efter y og plus differentiere efter efterset.
+
+17:31
+Og til sidst vi så mangler her. Som det nye begreb er det der hedder rotation.
+
+17:46
+Og hvis vi skal skrive det ved hjælp af nabla operatoren, så bliver det et krydsproduktet.
+
+17:53
+Så kan vi se, så ser det sådan her ud. Operatoren krydset med vægt, så feltet.
+
+18:05
+Så det bliver sådan lidt mere spøjst. Nu prøver jeg så at skrive det helt Dudek, fordi det var det operatoren betød.
+
+18:15
+Det var jo det der ex. Og så var det, det er det.
+
+18:22
+Og så var det det sæt. Så nu har vi altså skrevet den der er operatoren op som sådan en, som sådan en søjle vægter.
+
+18:41
+Som vi så krydser med. Første koordinaten for vægtere feltet, anden koordinaten for vægtere feltet og tredje kortene for Victor feltet.
+
+18:52
+Og så får vi altså nu her formlen for rotationen. Det er så at vi starter her med at sige, at vi som en første koordinat.
+
+19:04
+Der har vi altså det vil tre af dem.
+
+19:10
+Og så skal vi sige minus den det andet krydsere og IC minus 2.
+
+19:18
+Det sæt. Så sådan fik vi rotations første grundlag, og så skal vi have angår den den,
+
+19:27
+det vil sige vi kommer herfra og så her op til, og der har vi så det med ét.
+
+19:34
+Det er sært og så minus det modsatte. Det vil tre dæks.
+
+19:45
+Og så til sidst, så skal vi jo have det øverste cruisere. Denne hedder så DeVito efter eks.
+
+19:55
+Og så mener det modsatte. Det vil et efter det alt det.
+
+20:03
+Det kommer så til at stå som en vektor, der er udregnet på den måde.
+
+20:10
+Så det er altså definitionen på rotationen af et vektor felt.
+
+20:21
+Bemærk at selv når jeg skriver divergens, så er der ikke nogen streger under, det er der, når jeg skriver rotation.
+
+20:31
+Og det er så fordi at når I udregner divergent send, så blev det ikke til en vektor.
+
+20:37
+Det bliver til en får bare til en funktion. Men når I laver rotation.
+
+20:44
+Altså rotationen er et vigtigt felt. Det giver et nyt værktøj felt, der er udregnet på den måde, som der står her.
+
+20:59
+Sidste gang snakker vi om kusk betingelsen, hvor vi sad gradient væk så fælt opfylder en bestemt kusk betingelser.
+
+21:10
+Og hvis I kigger på det her, så var det netop disse udtryk, som var denne her kryds.
+
+21:15
+Betingelse for at vi altså startede her nedefra og sagde, at den skulle være lige med den.
+
+21:21
+Og hvad sagde vi så som nummer 2? Der sagde vi vistnok, at den skal være lige med den, og den skal være lig med den.
+
+21:26
+Det var den krydse betingelse, vi opsætte sidste gang.
+
+21:29
+Nu kan vi se, at Kusk betingelsen er ensbetydende med, at rotationen den er nul vektoren, altså kusk.
+
+21:41
+Betingelsen er opfyldt.
+
+21:53
+Netop når rotationen er væk, så feltet over alt er lig med nulvækst, som det vil sige en nul nul nul.
+
+22:11
+Det var det vi kaldte for fusk betingelsen sidste gang, da vi snakker om gradient ægtefælle, der vender tilbage til et offentligt men.
+
+22:22
+Vi kan godt lide at kigge på eksempel. Altså vi havde jo lige før det kan vi lide genbrug.
+
+22:33
+Dette vægtede felt by komma minus 1 komma 2 x sæt.
+
+22:42
+Så hvis jeg gerne vil udregne hvad er divergent? At dette vigtige felt.
+
+22:55
+Så skal jeg først sige første kort om natten differentieret efter ex.
+
+23:02
+Jeg kan se en den giver nul. Plus anden koordinaten differentieret efter Y.
+
+23:10
+Den giver også nul. Og plus tredje koordinaten differentierede efter sæt, og den giver så 2 to ex.
+
+23:24
+Og så har vi altså fundet det. Erkendelsen af dette vægt såvel.
+
+23:34
+Og så siger jeg, så har jeg sagt Hvis vi tager rotationen af dette vigtige felt, så skal vi få et nyt væg, så fedt et glas vin.
+
+23:40
+Lad os lige prøve det. Så nu skriver jeg her min differential operator op, som var det det ex.
+
+23:52
+Det er dø, og så er det sent, og det er mærkeligt kunstprodukt, hvor vi altså har ved et som her er Y.
+
+24:08
+Og så er vi to som her. Den er min odyssé. Og så har vi vi tre, som er 2 x set.
+
+24:21
+Så er det her krydsproduktet som vi laver.
+
+24:25
+Og I kan altså se det er en størrelse, der står her skal de fronter efter Y.
+
+24:31
+Den giver nul. Og så skal jeg differentiere den efter sæt.
+
+24:39
+Og træk fra, så den giver så nul minus nul. Okay, så skal vi tage den der.
+
+24:48
+Og sætte og lad virke på you og ikke sætte en også nål.
+
+24:54
+Og så skal vi sige minus den der virker på dem. Det giver minus to sætter.
+
+25:04
+Og så til sidst skal vi have den operatør virker på den, der giver nul og som minus y differentierede efter Y.
+
+25:13
+Den giver minus 1, og så regner vi den ikke sammen, og så får vi sådan.
+
+25:23
+Og så får vi minus to sæt, og så får vi minus 1.
+
+25:31
+Så det vægtige felt jeg har opskrevet her er så rotationen, at det er væk så fælt, som vi starter med her.
+
+25:40
+To nye begreber, som vi skal bruge de næste gange, når vi skal snakke om Gausel sætning og om Stokes sætning,
+
+25:48
+så er det divergent så rotationen, som er det helt afgørende.
+
+25:51
+Her er det bare lige et første snus på, hvordan vi udregner dem, og som lidt ser vi altså på.
+
+25:58
+Hvad er Divergent? Inden vi når så langt, så lad os lige repetere det med gradient vægt felter.
+
+26:09
+Det kommer også til at forfølge os hele vejen, så skal vi lige se mere om det.
+
+26:21
+Altså med fire sætninger om gradient væg felter.
+
+26:32
+Og så har vi Mikas vi kan se her. Antag ved er et eget felt.
+
+26:52
+Og. At F er en stamme funktion.
+
+27:06
+Til det midterfelt vi kan huske det er kun når det er gradient væg, så felter, at det har mening at snakke om samme funktioner.
+
+27:14
+Men det anså vi altså det er, og at F er en stam funktion.
+
+27:22
+Det vi så så sidste gang. Vi kan bare tegne det grafisk.
+
+27:29
+Altså at hvis jeg her har. En cure, en orienterede kurve der starter ved P.
+
+27:40
+Og slutter ved Q. Så det er som den fine sætning, sagde Niels.
+
+27:45
+Sidste gang det var, at når vi, når vi tager, er tanken selv kode.
+
+27:49
+Integral altså ved. Ja, så indtil garnet langs koden er prikproduktet v e.
+
+28:00
+Det μ det var så lige med stamme funktionens værdi i slutpunktet f.
+
+28:07
+Q minus FrP. Så det var et rigtig flot resultat.
+
+28:22
+Og så kommer så også en. Altså en rigtig pudsig ting.
+
+28:26
+For lad os nu sige, at den knude som vi betragter, er en lukket kurve, altså en lukket kurve.
+
+28:35
+Det kunne være, at det kunne være den, at den ser sådan her ud.
+
+28:43
+Så jeg har ved koen og Vicario udnævnt et begyndelsen på den kurve her, som vi ser tegner her.
+
+28:54
+Mit P. Så skal den være orienteret.
+
+28:56
+Det kunne for eksempel være det kan være, at den orienterer på denne her måde, og så vil det altså sige, at P er lig med Q.
+
+29:10
+Begynde tidspunktet lige med slutpunktet, derfor er det en lukket kurve.
+
+29:23
+Vi holde lidt adskilt her også, så vi taler som en lukket kurve.
+
+29:28
+Se. Hvis man taler om det tankene selv kode integral langs med en lukket kurve, så hedder det cirkulationen med et fint ord.
+
+29:50
+Og det vi så nu kan konstatere er så, at hvis vi tager os cirkulationen.
+
+29:59
+Og så gør man det, for ligesom at understrege, at det er en cirkulation den lukket kode,
+
+30:04
+så kan man sætte sådan lidt en cirkel dér midt på integrale tegnet.
+
+30:10
+Og så skal vi altså. Igen altså dette centrale prikproduktet V er en Demy.
+
+30:23
+Og hvem giver mig resultatet fra det regnestykke, der når det er et gradient væk, så fem?
+
+30:30
+Ja, hvorfor? Hvorfor bliver det nul? Fordi starter og slutter det samme punkt bliver der sagt.
+
+30:37
+Vi bruger bare den formen her op, og den er lig med hinanden. Og så giver det altså nul.
+
+30:45
+Så kan hos tyskeren, der serverer gradient begge felter.
+
+30:48
+Dem kalder man sommetider de konservative vægter felter og altså en måde at være konservativ på.
+
+30:55
+Deraf også, at det er et mærkeligt væk så fælt. Det er lige meget hvilken kurve de tegner, som er en lukket kurve.
+
+31:02
+Så vil det præcis være sådan, at de vektorer, der trækker i den rigtige retning, de bliver ophævet, er dem, der trækker i negativ retning.
+
+31:11
+Sådan som jeg ser det dér code integral. Samlet set bliver nul altid, når det er en lukket kurve, så det er en pudsig ting.
+
+31:20
+Nej, så kan vi lige udnytte denne her for cost betingelsen.
+
+31:25
+Det var jo det vi sagde, at et gradient væg felt altid opfylder Cruys betingelser.
+
+31:31
+Og hvis vi skal sige det på en for sådan én huske måde, så kan vi se et et gravet felt er rotations frit.
+
+31:45
+Ser man så et gravfelt, skal der stå her.
+
+31:54
+Og dermed mener man altså, at den i udregner rotationen, altså er et gradient væk så fælt.
+
+32:00
+Så vil den altid være nul vektoren 0,1 0,0. Og så lige det modsatte af den dér sætning, hvor vi så kan sige hvis V er defineret på hele, er tre år.
+
+32:28
+Rotationen er væk, så feltet overalt er lig med 0,1 0,0.
+
+32:37
+Så er ved et grade felt. Sådan da.
+
+32:53
+Og jeg håber I forstår altså det her.
+
+32:56
+Der går man den ene vej. Her går man den anden vej. Her siger vi, at hvis det er et gradient væk så fælt, så er rotationen altid lig med nul.
+
+33:05
+Nu vil vi prøve at gå den modsatte vej og sige Hvad nu hvis rotationen er nul?
+
+33:11
+Så kan vi altså sige lige, hvis vi lige får dette til at hviske.
+
+33:15
+Det må ikke have nogle huller. Den skal være definerede på hele tre. Så hvis den er rotations fri defineret for her får jeg 3.
+
+33:21
+Jamen, så er det et gradient dæk så. Så på den måde kan man sige det at I kørte fra den ene vej og herfra den modsatte vej.
+
+33:29
+Sådan så de to ting bliver ensbetydende med hinanden. Eksempel.
+
+33:39
+Vi har her et væg felt x 7 z, som er 2 x + x y med et +6 sæt.
+
+33:55
+Og så har vi to børn plus ex sæt.
+
+34:01
+Og så har vi et 2 x plus XL. Og her vil vi så gerne dele så meget væk, så følg dette eksempel.
+
+34:15
+Og så siger jeg vis at V er et grade felt og.
+
+34:31
+Hvis der findes Sampension. Så det er den opgave vi lige som vi lige stiller os her.
+
+34:51
+Baguette. Det vi konstaterer, er det vi har vægt, så.
+
+34:56
+Vi kan se, at der er ikke nogen, der ikke nogle steder, hvor vi ikke kan regne det ud.
+
+35:01
+Den er defineret over hele 3. Orkan.
+
+35:15
+Og så tager vi lige rotationen og udregner den. Og det var det er det ex det var, det er det.
+
+35:26
+Og det var det. Det sæt, der så skulle krydses med to X+ æg sæt og 2.
+
+35:40
+Y plus med. Nu skal vi lige fastslå.
+
+35:45
+Nu skal vi passe på. Ja, fordi jeg tror at her skal der stå der skal dog stå budget.
+
+35:52
+Beklager. 2. Ex. Bluesy. Sæt. Og så er vi 2.
+
+35:56
+Y plus Z og 2 ekstra sexy. Ukendt i stedet en vej så for eksempel.
+
+36:05
+HA ha ha. Men tak for forslaget og tilliden.
+
+36:12
+Ja, og så har vi. Så har vi et 2. Y plus ikke sætte også os.
+
+36:18
+Og så mener jeg altså her har vi 2 x plus Eksjö.
+
+36:24
+Og vi prøver at se om det og se hvor galt det kan gå her kan også fordi det her skal vi differentiere efter.
+
+36:34
+Det giver ikke. Og så skal vi se minus den dér differentierede efterset.
+
+36:40
+Den gav minus 6. Det er den første. Og så tager vi den dér og sætter her op.
+
+36:48
+Og der må vi få et yd her. Og så skal vi se den dér og her ned, og det får vi så mine syn.
+
+36:56
+Og så må vi håbe, at det sidste også kommer tilpas set. Dér får vi et sæt minus, og så får vi også et sæt, der så er det vil sige, at jeg ikke tog.
+
+37:12
+Tåbeligt selvfølgelig, der står også godt nok midterste den midterste Okan ellers lige prøve den igen.
+
+37:19
+Hvad de siger. Hvis de ser dem. Og så her ved.
+
+37:25
+Og der bliver et sæt der bliver set af. Ud af denne. Ved du noget så der bliver til?
+
+37:30
+Det er det i dit hoved. Hvad gør vi så? Skolebørn.
+
+37:38
+Skal vi på med det samme?
+
+37:43
+Jeg tror jeg lige skal se. Og så er jeg, så kan jeg vaziri se, hvis det var det denne var I brokkede mig og den da den giver minus den gange med den.
+
+38:06
+Det var den første ikke giver eks. Og jo, den er god nok.
+
+38:10
+Og så ser vi den, at den giver sæt, og så det her, hvor det går galt.
+
+38:15
+Hvor det bliver mine to æg nu, især om jeg har. Om det er en fejl, jeg har med hjemmefra.
+
+38:21
+Det når du bliver finansieret på den der lysegrønt, så det så ikke også føles.
+
+38:28
+Med et. Det er den jo ikke.
+
+38:33
+Den giver uden tvivl sæt med den giver.
+
+38:40
+Så hvordan den giver væk. Og så tager vi dem der.
+
+38:47
+At gå herned er der ikke lavet. Der er et eller andet, der er vissen ved den.
+
+38:53
+Så det kunne være, hvis det kunne være hvis vi to skal lige her ikke sætte i stedet for passer dem så bedre, at folk har det med et sæt tøj på.
+
+39:05
+Man kan være sikker. Hvor busser tog til, der hvor der sidder to søstre, er to set clue sexy.
+
+39:16
+Skal vi så prøve at se om om vi kan få det til at fungere? Og det ligner, om det er det, vi kigger på.
+
+39:22
+Det var det var enden på koordinaten, ikke? Det var den. Og der og der fik vi så set.
+
+39:29
+Og så ser vi. Nej, den virker heller ikke, og jeg ved hvad jeg har, tror jeg simpelthen, at den dækker den.
+
+39:43
+Den er tilnærmer sig at droppe. Og så indsætter jeg laver.
+
+39:48
+Jeg laver et table karakterer, og så tager jeg lige dette eksempel med, fordi det jeg så vil gøre bagefter,
+
+39:53
+er så altså lige for dette finde ud af hvad var det egentlig for et væk?
+
+39:57
+Så faldt vi havde her og sørge for, at det bliver et gradient væk så fælt.
+
+40:01
+Og så laver vi stamme funktionen efter trappe linje.
+
+40:05
+Du har du. Hvad siger du? Formentlig fordi han har fået op med den, der står nu.
+
+40:11
+Ja. Siger Så er okay vi så prøver vi det blev hævet.
+
+40:18
+Okay, så vi har her, at vi starter helt forfra for at være sikker på, at den der den giver ex.
+
+40:28
+Og så siger vi den der med, at den giver minus seks. Og så siger vi, den går op her, og den bliver Täby.
+
+40:37
+Og så tager du den og går herned, og så bliver det, mener Sy.
+
+40:42
+Og så tager vi den dér med den. Den giver os så.
+
+40:48
+Den giver sæt bør også. Tager vi den gennem endnu sæt, som så det vi har fundet frem til her.
+
+40:55
+Kære venner, tak for hjælpen.
+
+40:57
+Dette kan vi nu konstatere, at den er defineret på hele tre af rotationen denne overalt nul, og dermed har vi i følge her den fjerde sætning.
+
+41:07
+Her har vi vist, at vi er et grade felt.
+
+41:20
+Og så vil jeg altså. Ja ja, jeg fastholder det. Jeg lægger den ind på den der demo, som kommer op her, altså hen mod halv ti,
+
+41:31
+og hvor jeg så laver altså senere samme funktion ved hjælp af trappe linjen.
+
+41:37
+Det viste også et eksempel på sidste gang, og det har jeg prøvet.
+
+41:40
+Men nu får vi så også dette eksempel her, fordi nu vil jeg nemlig gerne videre til det sidste punkt,
+
+41:46
+vi har på dagsordenen, og det er snak om, hvad der er, samt hvad divergens er for noget.
+
+41:56
+For jeg tror lige. Se hvad skal jeg have brug for at savler her?
+
+42:04
+Det kan være, jeg lige bruger den her. Så.
+
+42:47
+Der lader til at være en lang kamp.
+
+42:57
+Ja, ok så. Altså vi er i gang med at snakke om divergens, så jeg tror I er lidt med på, hvordan vi skal regne det ud.
+
+43:05
+Nu tager vi de altså to hurtige eksempler fra.
+
+43:09
+Planen er så vigtige felter i planen. Bare lige for at få fat i nogle.
+
+43:15
+Noget er sådan noget helt, der er så vigtigt her og ikke. Hvis vi nu siger, at vi har det her væg, så faldt f.
+
+43:21
+Eks. Kommer der simpelt hen limes med.
+
+43:25
+Vektoren er lige med det punkt, hvor den bliver udregnet, så den er lig med eksplosiv.
+
+43:33
+Så det vil sige, at hvis jeg nu udregner divergens, så skal jeg, så skal jeg først differentiere det efter eks.
+
+43:43
+Den giver en differentieret efter ny.
+
+43:47
+Den giver også en. Så det vil altså sige, at den der divergens er overalt konstant.
+
+43:55
+Men det vil ikke tage fat. Jeg har lavet her. Og så det andet væk så fælt.
+
+44:03
+Det er så minus en halv x og minus en handel.
+
+44:12
+Vi udregner igen divergens. Her skulle der have stået.
+
+44:17
+Vi kan bare stå nok her. Minus en halv hex biler heraf. Som vil sige først de Frances første koordinaten efter ex og så er plus differentierer.
+
+44:29
+Anden kort natten efter. Så får I en handel.
+
+44:34
+Minus en halv Mimosen hal. Det giver så minus en. Så altså I kan se her er der også noget med plus og minus her, så I den første.
+
+44:47
+Da havde vi altså en dag havde vi en positiv divergens og i det andet tilfælde her en negativ og en første fornemmelse af,
+
+44:59
+hvad et væg så felt kan være. Det har vi lige snakke om det dér fortegn, og der vil derfor gå lige vise form på Pometet her.
+
+45:08
+Disse to vigtige felter. Den er hård demi to.
+
+45:38
+Kontanthjælp, og dermed skal vi prøve jætterne i stedet for.
+
+45:50
+Ja. Da.
+
+46:05
+Så jeg tror det var et eller andet ziska at omsætte selv om det. Mikrofonerne danner på stadigvæk Tour så som i begge tilfælde.
+
+46:44
+Jeg kiggede på hr. Det var så det var bare ikke kommet ny og udregnet til, at den er to.
+
+46:52
+Den er positiv. Og vi skal lige have plot plots bakken med, så vi kigger de her igen.
+
+47:02
+Og så kan jeg prøve ser. Hvis det ligesom det stråler ud fra ord i går.
+
+47:08
+Og vektorerne bliver større og større, så man kan kalde dette for et eksplosionsulykke,
+
+47:14
+såvel fordi det ligesom der sker en eksplosion her, eller vi kan se, at der sker en udvidelse.
+
+47:24
+Vi kigger på her på det andet væg felt, hvor vi udregnet at de erkendelsen den var minus en.
+
+47:34
+Og så kigger vi med film plot.
+
+47:36
+Der kigger vi så på væg, tag feltet og kan se, at de kommer udefra og er store, men så de som trykker sig sammen, og der sker en sammenpresning.
+
+47:49
+Så det er det jeg vil prøve at underholde jer lidt med her til sidst.
+
+47:56
+Det er så, hvad divergens i virkeligheden er.
+
+48:04
+Og her kigger vi. Der kigger vi så på et nyt eksempel, og hvor jeg har et.
+
+48:14
+Jeg har et væg, så felt ved at ekskongen kommer set, som er x minus Z minus en halv by, og så er den ex plus z sådan det.
+
+48:38
+Ja, og vi kan jo bare udregne de begavelsen. Altså differentierer det øverste efter ex.
+
+48:48
+Det giver en. De forcerer den anden efter Youyou, det gav minus en halv.
+
+48:54
+De ser den tredje efter sæt, den giver også +1, så vi har altså to positive.
+
+48:59
+Og så skal vi trække en hæl fra. Så vil jeg så sige, at I kan se her.
+
+49:04
+Det var erkendelsen af, at dette vægtede felt, den er konstant.
+
+49:09
+Det er det ikke for alle vægge felter, men den er altså kun konstant her, og den er så positiv.
+
+49:13
+Den er tre halve, så det skal vi nu bruge som et eksempel, fordi jeg vil lave et eksperiment.
+
+49:24
+Og at det, som divergens betyder divergens, er den lokale rum udvidelse per volumen enhed.
+
+49:56
+Så så altså divergens har altså noget med udvidelser at gøre.
+
+50:02
+Hvis den er positiv, er der modsatte sammentrækning og divergens end den måler sig rundt omkring.
+
+50:09
+Hvor stor er denne udvidelse, eller hvor stor er denne sammentrækning? Og det vi har set her, er altså, at divergens er uhyre nem at udregne.
+
+50:19
+Men den er lidt mere kompliceret at forstå, og det er derfor, vi underholder lidt med det nu.
+
+50:27
+Så hér deraf er påstandene altså i dette væk så fælt, da der en konstant divergens det vil sige over alt i og feltet.
+
+50:37
+Da er den lokale rumlig udvidelse pr. Volumen enhed. Den er tre halve, og den skal vi nu prøve at verificere igennem.
+
+50:46
+Et eksempel. Volumen, så cd'er det jeg først vil gøre, det er så vi tager altså om lidt, så tager vi et.
+
+51:00
+Så tager vi sådan et rummeligt område. Definerer det og så lader vi det flyde med vægt.
+
+51:08
+Feltet ved hjælp af flow kurver. Og så måler vi, så måler vi hvad er rumfanget, når det flytter sig?
+
+51:17
+Det vil sige altså rumfanget af dette, når det flyder med vægt tilfældig.
+
+51:21
+Det ændrer sig. Hvad er volumen til tiden?
+
+51:27
+T at det objekt vi sender af sted, og hvornår vi så har fundet den?
+
+51:36
+Så skal vi have. Så prøver vi at se. Altså hvad er så den dér udvidelses rater?
+
+51:43
+Det er en DR en differentialkvotienten, og den kan vi tage i tiden nul.
+
+51:50
+Og der har vi så dens udvidelses det til tiden nul.
+
+51:54
+Altså hvis vi tager og siger volumen differentieret til tiden 0 og så divideret med den volumen objekter,
+
+52:05
+det har til tiden 0, og det er så dets oprindelige volumen.
+
+52:12
+Til prøve det skal vi se det objekt vi vil bruge.
+
+52:18
+Det tegner nu. Se her.
+
+52:22
+Vi er så det objekt lige om lidt ved sende med dette vigtige felt.
+
+52:31
+Det er sådan en. Det er en lille solen og her.
+
+52:47
+Kan se der har vi sådan en cylinder eller en tromme og hér at den ligger herfra fra et.
+
+52:56
+Og så til 2 på z aksen. Så vi kan lige prøve at lave en parameter fremstilling af den.
+
+53:07
+Og det behøver altså det kan vi jo tage som et et et et omdrejning slemme se hvad er det vi gør?
+
+53:15
+Selv hvis I kigger her på x z planen.
+
+53:22
+Der tager vi en lille firkant her, som ligger fra en til to.
+
+53:32
+Dér og så svinger vi et ben.
+
+53:38
+Denne firkant, den svinger vi så rundt omkring, sætter aksen én gang og kan så se gennem den helt den tromme eller den cylinder, jeg har lagt herover.
+
+53:49
+Og hvordan er det, vi med trisser som en et omdrejning slemme, hvor vi har et profil område?
+
+53:58
+C. Her har vi et exit.
+
+54:03
+Den er meget nem og parameter ser, for vi kan bare sige, at den er u v, hvor du løber fra 0 til 1 og ved den ligger fra 1.
+
+54:13
+Og til 2. Så har vi par med til.
+
+54:18
+Sidder den der, og kan I så huske, når vi drejer den rundt?
+
+54:21
+Så får vi så den det rummelige område her, og vi kaldte den for os, og vi har tre parametre og så første koordinaten.
+
+54:33
+Den skal stå på de første to pladser her. Og her skal der så stå at drengens vinklen, som kan være dobbelt så v og sinus til dobbelt ben.
+
+54:44
+Og så har vi her til sidst ved. Hvad skal det?
+
+54:54
+Der skal stå Up Grand Koestlers W U gange F, Sinus W og så vi også er med i disse intervaller,
+
+55:00
+hvor vi så nu også har et W, der går fra nul og til to ppi.
+
+55:06
+Så det her er så det massive og rummelige område her, som vi har parametre seerne.
+
+55:14
+Og hvordan finder vi så ud af som volumen at denne tromme?
+
+55:20
+Da ved I godt. Der skal vi jo så have Jacobi funktionen. Og så lave et tripple integral over Jacobi funktionen.
+
+55:27
+Så får vi hvad den er. Hvad den volumen, hvad den er.
+
+55:32
+Men vi kan også bare elementært geometrisk sige, at den er altså volumen, altså den volumen til tiden nul.
+
+55:44
+Den er jo radio's i anden gange pi ganget med højden, så den bliver pi.
+
+55:54
+Så vi ved det elementært geometrisk. Men vi kårer så fundet Kobe og lave et triple integral.
+
+56:03
+Så. Fortsætter vi her? Nå, hvad gør vi så?
+
+56:12
+Når vi nu ønsker at lade den flyde med væk, tager feltet, så vi sender dem af sted til tiden nåle, der ligger dem her.
+
+56:20
+Men så begynder man siden at virke, så faldt om lidt. Der ligger den måske her overgik.
+
+56:26
+Og hvis vi kalder den derfor A, så kan vi kalde den for a t.
+
+56:36
+Og så ved vi, når vi skal finde fem flow kurven er RT.
+
+56:48
+Og så med en begyndelse. Betingelser som sådan er vilkårlig. Jamen så er det jo noget med at så får vi et differentialligning system.
+
+57:06
+For det er det der skal gælde det er at mærke, at ting skal være lig med fik topfeltet taget på den.
+
+57:16
+Som så det vil altså sige at vi får her ex mærke til ny mærke ting og selv mærker at ting skal være lige med,
+
+57:30
+og så skal vi tage væk fra feltet på den dér og væg feltet.
+
+57:34
+Det var den, vi havde stående her hen. Så den bliver den br lige med ex af te min nu sætter te og som minus en halv yo te.
+
+57:53
+Og så bliver den ikke så te. Plus sæt er ting.
+
+58:02
+Og det kan man jo skrive op som en matrix, hvis man vil. Og I har altså tre koblede differentialligninger, og som vi så skal have løst.
+
+58:10
+Og når vi har løst det, så har vi altså fundet løsningen for så vidt, at vi kigger på et punkt her.
+
+58:18
+Så det er altså flow kur til et bestemt punkt, men det vi nu gør.
+
+58:24
+Fordi nu er det jo ikke kun et punkt. Det er hele denne her, vi vil have sendt af sted.
+
+58:30
+Som sin Når vi har løst det her differentialligning system i forhold til dem der, så skal vi på x0 plads.
+
+58:37
+Der skal vi have indsat første koordinaten for min cylinder her og for 0.
+
+58:45
+Så på samme måde den der og så den der. Og når vi har gjort det, så har vi en parameter fremstilling.
+
+58:55
+Ikke for den der, men for den, der også tager.
+
+58:59
+Vi har kubel funktionen på den. Og så kan vi udregne dens volumen, og det gør vi nu på mail.
+
+59:21
+Jernbanenetværk. Skal vi? Ja, og det må være godt nok.
+
+59:32
+Så det vil sige at der har i min system matrice.
+
+59:40
+Og dermed hvis de så ganger den med eventyr sæt, så er det altså netop det der væk så fælt.
+
+59:46
+Vi skal jo op før det vigtige felt, der står herinde. Og altså den pave nemt urin er selve divergens ikke så den vej.
+
+59:57
+De tre hanved vi har set der, og nu skal vi så se, om vi kan verificere det her.
+
+1:00:04
+Og så laver vi nu dette differentialligningen system. Det sætter dagen i Mabel med lys som er de soul.
+
+1:00:12
+Med hensyn til den begyndelse betingelser der. Og så er det altså de tre fortællinger, der er kommet op.
+
+1:00:27
+Vi løser dem, så der har vi altså flow kurven med x0 i 0 og Z0.
+
+1:00:38
+Og nu vil vi lige så inden vi arbejder videre med det. Det vil sige inden vi putter de her tre koordinater for x0 y og z nul.
+
+1:00:47
+Jamen, så laver vi lige lidt illustrationer her, fordi nu tager vi så fladen tre dele.
+
+1:01:00
+Og så kan I se.
+
+1:01:01
+Her har vi det her har vi så vores lille chilener placeret i væg feltet, og det sender vi nu ud på rejse, siger du skal flyde med væg feltet.
+
+1:01:30
+Okay, så siger vi nu vi vil tiden 0, og nu skal du snige med vægt.
+
+1:01:36
+Feltet er så væk, så feltet skal hele tiden være din hastigheds vektorer, uanset hvilket punkt du er inde i den cylinder.
+
+1:01:43
+Og det gør vi så nu. Sådan så I kan se at den bliver så stor.
+
+1:01:53
+Det formerede under den rejse og ikke sandt. Men det vi gerne vil.
+
+1:01:58
+Altså vi skal kun udregne volumen, at den dør, som er fulgt med.
+
+1:02:03
+Så vi skal altså netop bruge den parameter fremstilling ud fra den løsning, og hvor vi indsætter den begyndelse.
+
+1:02:09
+Splitting ser udregnet. Jeg kobe og så tag et triple integral.
+
+1:02:16
+Og så og så altså pointen er jo så, at det vi sådan set er interesseret i det her inden ved nul.
+
+1:02:23
+Altså lige dér. Hvad er udvidelsespakken?
+
+1:02:28
+Differentialkvotienten af udvidelsen divideret med dens rumfang.
+
+1:02:33
+Så det er det vi gør nu her. Og det var den oprindelige par med til serien.
+
+1:02:42
+Og dér har vi så den oprindelige, og nu regner vi så jeg COBE determinanten for den samlede parameter fremstilling for det flydende objekt.
+
+1:02:57
+Så er determinanten og det så jeg kropsfunktioner volumen.
+
+1:03:03
+Det er trippel integral. Og der har vi altså volumen til tiden 0.
+
+1:03:11
+Men vi skal differentiere dem med hensyn til til. Og så skal vi indsætte tillige med nål.
+
+1:03:18
+Og divideret med det ppi vi fandt ud af, som var rumfanget høring. Og det giver 53 så.
+
+1:03:27
+Hermed har vi altså verificeret, at den der divergens, som er så nem at udregne,
+
+1:03:32
+at i dette tilfælde ikke sandt er den lokale udvidelses tendens eller rat som det her vægteren felt har, og det har vi påvist med denne.
+
+1:03:42
+Så tak for det. Hvad man kalder en ekstra gang, lyder det at end end lærere.

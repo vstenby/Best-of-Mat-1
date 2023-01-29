@@ -1,0 +1,1160 @@
+0:05
+I dag skal vi endeligt have lineære afbildninger på plads,
+
+0:09
+sådan at vi er klar til at bruge dem i næste uge for i næste uge der hedder det differentialligninger.
+
+0:15
+Der skal vi bruge ligende afbildninger til at få styr på deres løsninger. Så nu skal det bare på plads, så vi starter med struktur sætningen.
+
+0:25
+Der kommer to eksempler. Og så skal vi snakke om det med basis skifte.
+
+0:30
+Hvordan påvirker det afbildningen matricen? Det er anden del af forelæsningen.
+
+0:35
+Lad os komme i gang, og vi starter her med to forskellige scenarier er det samme.
+
+0:49
+Så her har jeg altså fordoblet min opstilling her, hvor vi altså starter med et V rum afbilleder over i W rum og det samme her.
+
+1:03
+Og lad os sige, at altså her har vi givet nul vægteren i W.
+
+1:12
+Og her har vi givet en eller anden vægt så b, som er forskellig fra nul vektoren og de to spørgsmål vi stiller.
+
+1:23
+Det første det kender I godt for sidste gang. Vi spørger hvor mange vektorer har nul vektoren som sit billede, så det kunne være her.
+
+1:34
+Vi spørger altså hvad er det for nogle, som rammer over i nulvækst, som det var det, vi kaldte for Carmen for EF?
+
+1:47
+Det var første scenarie det andet scenarie er. Nu spørger vi Hvad er det for nogle vektorer, som har b vektoren som sit billede?
+
+1:56
+Det kunne være, at det var en mængder der lå her, som er ved.
+
+2:01
+EF bliver afbilledet i Beille, så det er altså to forskellige mængder, vi er interesserede i at få fat i her og se, når vi skal finde ud af det.
+
+2:14
+Så giver dette anledning til en homo gen lineære ligning, og den ligning er selvfølgelig, at vi vil finde alle de x,
+
+2:28
+der ligger her, som har mauri nul, og i det andet scenario, der har vi så en en homogen ligning,
+
+2:41
+som hedder F af x er lig med b vektoren, og denne er selvfølgelig homogen, fordi der ikke er nul på højresiden,
+
+2:52
+og det vi nu spørger om er hvordan forholder de to mængder sig til hinanden?
+
+2:57
+De er ihvertfald ikke ens overhovedet. Det er to meget forskellige mængder.
+
+3:02
+Og hvad siger struktur sætningen? Se.
+
+3:17
+Struktur sætningen Den siger, at hvis jeg bare har en bestemt løsning på den ligning her Hvad syg hernede?
+
+3:28
+Det kunne være her i hjørnet her. Der har jeg et x0, som ligger inde i den dér mængde.
+
+3:35
+Og så siger struktur sætningen sig af, at hvis f.
+
+3:41
+Af eks. 0 den er lig med b vektoren her, så er den fuldstændige løsning til den.
+
+4:01
+Det er en homogene ligning, altså f a ikke særlig mad b den er givet ved.
+
+4:11
+Ja, den er den. Og det kan vi skrive som en hånd eller en hånd.
+
+4:21
+Den er så lig med den særlige løsning, som vi havde.
+
+4:25
+Og så plus kernen for en sejr.
+
+4:34
+Hvis bare vi har en løsning her. Og vi er ude efter den fuldstændige løsning, så alle dem der ligger her.
+
+4:41
+Så tager jeg bare x0 og lægger sammen med de vektorer, der ligger her hen i kernen.
+
+4:48
+Det er struktur sætningen for line afbildninger. Og ja, det mener jeg måske om noget, og det er mit første eksempel.
+
+5:01
+Og det er helt generelt Leningrad ligning system til.
+
+5:19
+Kan I godt huske, da vi snakkede om lineær ligning systemet. Så sagde vi da er en smart måde at skrive lineære ligning systemer på.
+
+5:28
+De kan nemlig skrives som en matrix ligning, hvor vi altså her a.
+
+5:33
+Det er koefficient matricen B. Det er højresiden og x er en søjle, hvor der står alle de ubekendte.
+
+5:43
+Og så kan vi gå direkte og derved godt videre til et total matricen lykkedes den og så videre, og så finder vi XD, X2, X3, X4, X5.
+
+5:52
+Hvor mange der nu står her i som ubekendte. Nu håber jeg I er med på en ide af processer vi ser på venstresiden.
+
+6:10
+I den ligning. Altså a gange ex.
+
+6:15
+Det er en lineær afbildning som vi gjorde her.
+
+6:21
+F. Eks. Er lig med a x plus.
+
+6:29
+Nej, så er denne her. Og hvordan?
+
+6:35
+Altså hvordan det jo kan I se, hvis jeg har et 1 æg svigter her.
+
+6:42
+Så kan jeg jo finde dens spillede ved at gange med dens afbildning smage trygt.
+
+6:47
+Så får jeg et nyt billede, ikke sandt? Den gange med den. Det giver jo en vektor, og det svarer altså ligesom til det scenarie, vi har det.
+
+6:56
+Og kan I huske, da vi snakkede om om lineære afbildninger?
+
+7:01
+Så fandt vi ud af, at elgen ham. Den var lig med en partikulære løsning.
+
+7:13
+Kluges L. Holm. Wauw, så er det altså se det vi har snakket om som struktur sætningen for legen er lige nu systemer.
+
+7:27
+Det er bare et specialtilfælde af noget meget mere generelt, som der gælder for lineære afbildninger.
+
+7:34
+En meget vigtig sætning, som vi får utroligt meget brug for næste gang, når vi skal snakke om differentialligninger.
+
+7:45
+Kan I så også huske? Så snakkede vi noget også om det.
+
+7:49
+Der var mange for mange frie parameter, der var. Det er jo ret afgørende at få sådan nogle fine Linux systemer, og hvad sagde vi?
+
+7:56
+Vi sagen viste noget med antal ubekendte. Det var lig med antal frie parametre og plus rangen af koefficient matricen.
+
+8:23
+Ja, jeg husker havde den smukke sætning her. Men hov.
+
+8:33
+Kan I se den X-faktor der står her? Det er jo dimensionen af mit verum.
+
+8:41
+Så den kan også læses som dimensionerne af V.
+
+8:49
+Og antallet af frie parametre. Det er jo lige præcis dimensionen af kernen for ved.
+
+9:03
+Eller undskyld kernen for EF og plus.
+
+9:07
+Så skal vi have dimensionen, er billedet rummet. Så det vil jeg se igen.
+
+9:17
+Det vi snakkede om, da vi snakkede om Line, er lige nu systemer.
+
+9:21
+Det er bare et specialtilfælde af noget mere generelt, der gælder for line og ligninger.
+
+9:28
+Og der var måske lige et Kemper, som vi ikke rigtig har snakket om nu.
+
+9:35
+Men det står der jo, at dimensionen af billedet rummede.
+
+9:40
+Det er det samme som at branchen afbildning matricen. Dimensionen af EF af V er lig med rangen af afbildning matricen.
+
+10:04
+Så det var sådan et lille spin off af det vi lavede her. Det var meget teoretisk.
+
+10:12
+Nu begynder vi på eksempler, og det var sådan set et eksempel, fordi vi var endnu højere oppe på hesten her.
+
+10:19
+Og så så vi lige at dine og lignende systemer. Det var et eksempel på det, vi havde her.
+
+10:24
+Regler vi kender fra legene og lignende systemer. Det er mere generelle regler, og så er det tid til et mere konkret eksempel.
+
+10:35
+Og vi kigger på en afbildning F af tre ind i R 3.
+
+10:48
+Og den er givet ved at f af ex et komma ex to komma ex tre den er lig med ex et +6 2 min.
+
+11:06
+Minus 6 3. Så den 2. X2 plus 2 ex.
+
+11:12
+3. Og så er den 5. Ex et plus X2 minus 9 x 3.
+
+11:29
+Og det er sådan et besøg. Her har jeg valgt at skrive vægteren input vektoren, altså vanrøgt, og dér står der står så billedet vektoren lodret.
+
+11:39
+Men okay, det skal I lære sommetider skrive ved det. På den ene måde som tid og skrive vi på den anden, der prøver det sammen.
+
+11:45
+Når. Hvad skal vi vise, at F.
+
+11:52
+Er lineær? Det kan være vores første spørgsmål, og så vores andet spørgsmål er lykkedes Leamington.
+
+12:05
+F. Eks. Et komma x2 komma X3 tre er lig med to komma to komma 6.
+
+12:22
+OK. Helt grundlæggende når vi snakker om lineære afbildninger, så er det jo det, der ligner architects.
+
+12:32
+Betingelserne er dem vi har kaldt for et ét og for L2. De er meget nyttige.
+
+12:38
+Dem har vi tit brug for, og vi får rigtig meget brug for dem i næste uge, når vi snakker om om differentialligninger.
+
+12:45
+Men når vi har, når der er tale om matrix afbildninger, altså nogle der har en afbildning matrix, så kan vi gøre det nemmere, og det er det,
+
+12:56
+der står i hovedsætning punkt 2, altså hovedsætning i en 8'erne og altså hele ideen, der altså består i, at vi ved hvad er en afbildning matrix.
+
+13:10
+Den består af basis vektorerne billeder. Husk det.
+
+13:15
+Det er fuldstændig fundamentalt, at vi kommer til at bruge det rigtig mange gange i dag.
+
+13:19
+Så lad os prøve det at finde billederne af basisk vektorerne.
+
+13:26
+De er tre der ved jo at den første. Den første.
+
+13:35
+Den hedder Joh 1,1 0,0, og vi prøver så at finde dens billede og det er simpelt hen X2, X3.
+
+13:44
+Det skal være nul. Der er kun ét tilbage, og den er selv ind.
+
+13:51
+Så her har vi så 1 0 5. Billedet af den anden er så et, altså 0 1 0, og nu er det kun eksterne, der overlever, og den må så blive en 2 1.
+
+14:13
+Og så endelig den sidste. F er nul komma nul komma in.
+
+14:19
+Nu er det kun X3 der overlever, så den må hedde mere nu scenen 2.
+
+14:25
+Og minus ni. Så har vi billederne og nu laver vi så testen.
+
+14:45
+Jeg opstiller simpelt hen de tre søjler i en matrix 1, 0 5 og den anden der hedder 1 2 1.
+
+14:56
+Og den sidste havde minus 1 2 og minus ni.
+
+15:04
+Og så tager vi en vilkårlig vægt, så den kan vi kalde for x 1 x 2 x 3.
+
+15:13
+Og så laver vi et Matrix vægtere produkt, og så ser vi, at det er jo så et prikproduktet.
+
+15:21
+Det bliver ex in plus X2 minus X3 noget på den første to på være de næste.
+
+15:31
+Det giver 2 x 2 plus 2 X3 og så prikproduktet at den sidste række med den med søjlen her.
+
+15:40
+Og så får vi 5 x et plus X2 minus ni X3.
+
+15:51
+Og så skal vi jo så se at vores test lykkedes.
+
+15:57
+Vi sammenligner med den rene forskrift, der var opgivet her på den lineære afbildning.
+
+16:04
+Og der kan jeg godt se. Vi får jo lige præcis det samme, som opskriften på den her linje af afbildning var.
+
+16:11
+Så vil jeg sige, den her ligner afbildning. Den kan skrives som en matrix gange med den vækster, som vi ønsker at afbilde,
+
+16:21
+så den er altså lig med F af x et komma, X2, komma, X3 og et mere skal der ikke til, så er den lineære.
+
+16:33
+Det står der i hovedsætning, hvor det er bevist. Kog.
+
+16:43
+F. Er Line. At når man selv trak denne herned.
+
+16:55
+Det første spørgsmål. Og så kommer vi altså her til andet spørgsmål.
+
+17:14
+Og andet spørgsmål. Det er jo netop sådan en enorm Morgan ligning, som vi har snakket om her fra starten af i dag og sådan en ligning.
+
+17:26
+Den kan os opskrives ved hjælp af afbilledes matricen, fordi det der står dér.
+
+17:34
+Det er ensbetydende med at afbestilling matricen for F.
+
+17:41
+Med hensyn til standard baserne i er tre.
+
+17:46
+For når vi ganger den med en vilkårlig vektor og her altså i koordinater, jamen så skal det jo give en koordinaterne af B.
+
+18:01
+Det der står her. Er ensbetydende med det der står det.
+
+18:08
+Og hvad er dette? Det er jo.
+
+18:11
+Hov, hvad var det vi snakkede om, før jeg smutter lige herop, så det var lige præcis den type, jeg ikke sandt, for her har jeg afbilledes matricen.
+
+18:24
+Det har vi den vægtere, som vi gerne vil afbilde, og på højresiden har vi den væg, der skal afbilledes over i.
+
+18:31
+Så kan I se. Nu kan vi gå direkte til en total matrix på det sted her.
+
+18:43
+Så jeg tror at jeg har lige gjort den op her. Totalt matricen for den ligning her.
+
+18:51
+Det vil så være afbestilling, matricen for funktionen og afbilledes matricen.
+
+18:58
+Det er jo billederne af basist vektorerne. Det vil sige, at det er den fyr, vi har stående her.
+
+19:06
+Så den bliver. 1 0 5, og så har vi en 2 1.
+
+19:17
+Og så har vi minus. 1 2 minus sne og dette er min badevægt så.
+
+19:30
+Så det blev altså højresiden i totalt matricen. 2, 2 og 6.
+
+19:40
+Og civiliseret, så skal vi have den totale matrix reduceret.
+
+19:47
+Og hvad gør vi? Vi siger vi ser er tre minus fem er et.
+
+19:56
+Og den der står i midten. Den kan vi passende gange med en halv.
+
+20:05
+Og så den næste Matrix' vi så får. Der har vi det samme stående for over 1 1 minus 1 2.
+
+20:16
+Og så får vi nålen 1, 1 og 1, og så skal vi altså se gang den med minus 5 og lægge til.
+
+20:29
+Så får jeg nemlig det ønskede nul. Gang den med minus 5 og læg til.
+
+20:35
+Så får vi minus fire. Gang den er med minus fem.
+
+20:47
+Så får jeg +5 og så får jeg minus fire.
+
+20:54
+Gang med minus 5. Det giver minus 10 og læg til 6.
+
+20:59
+Så giver den minus fire.
+
+21:05
+Og så kan jeg godt se, hvis jeg nu ganger den her række med fire og lægger til fra neden, så får jeg nul nuller hele vejen forneden.
+
+21:22
+Så vi er altså på vej nu imod Trapp t. Og så lad os lige først tage den midterste række den bare nul.
+
+21:34
+1, 1 1. Og så har vi nulre her forneden.
+
+21:42
+Og dette er et tal der bliver stående.
+
+21:45
+Og så skal vi lige gange for at få den for at få den der væk, så gavner vi altså den række dermed mere nu senere og lægger til fra oven.
+
+21:55
+Så får jeg nul gange med min sind. Så får jeg minus 2 ganget med minus én og lægger til det, og så får jeg en.
+
+22:08
+Så er jeg færdig med min reduktion, og så skal vi lige se, hvad er det for nogle ligninger, vi får frem her?
+
+22:16
+Altså det bliver jo så til. Ex delen er lig med 1 plus 2 x 3.
+
+22:23
+Og dér står der at X2 er lig med det er fyldte at minus X3.
+
+22:35
+Og så ved vi, så er det jo her vi siger X. Det er så en fri parameter, som vi kalder for the.
+
+22:45
+Og så har vi altså løsningen. Den kan vi så skrive op nu.
+
+22:49
+L 1 har. Den er så givet ved at de tre ubekendte x 1 x 2 x tre.
+
+23:06
+Bliver så lig med 1, 1 og 0.
+
+23:13
+Og plus den frie parameter. Samt hvor vi så får på førstepladsen, skal vi have to på andenpladsen minus en, og på tredjepladsen skal vi have en.
+
+23:42
+Så. Hermed har vi altså løst den endnu homogene ligning.
+
+23:52
+Og det var jo altså bare et line fordelingssystem.
+
+23:57
+Og jeg tror lige, at vi bygger lige den her opgave lidt ud, fordi nu tager vi så et tredje spørgsmål.
+
+24:20
+Bestem en basis for kernen.
+
+24:30
+Altså sådan et rigtig typisk. Spørgsmål herfra ligner afbildninger af.
+
+24:39
+Det ser ud som om, at det er et nyt spørgsmål, men hej.
+
+24:44
+Vi har faktisk allerede løst det her spørgsmål, fordi. Her har vi l.
+
+24:51
+Indhold. Den er jo lig med en partikulære løsning.
+
+25:01
+Det havde vi den fyr vi snakkede om, før vi har fundet den, der har gemt sig nede i hjørnet her.
+
+25:08
+Det kunne også være en af en anden disk bare være en løsning, ikke sandt?
+
+25:13
+Og så har vi det, der står her. Det er kernen for EF.
+
+25:27
+Så alene herudfra kan jeg se det. Men altså hvis I gerne vil have hele Matrix gymnastikken med, så kan jeg jo også se det på den måde,
+
+25:38
+at hvis det nu havde været den linningen, jeg havde startet med, hvordan havde min totale matrix så set ud?
+
+25:49
+Så ville det have betydet, at der var nulre hele vejen her.
+
+25:56
+Til. Og så når jeg har reduceret igennem, så vil der stadigvæk stå nulre dér.
+
+26:04
+Og det betyder at den var forsvundet. Tilbage var der kun den fyr, der står det.
+
+26:10
+Så når jeg har løst en enorm Morgan ligning, så har jeg samtidig fundet kernen for jeg.
+
+26:25
+Så den har vi her, og der kan vi altså bare simpelt hen tage 2 minus 1 og 1.
+
+26:41
+Så der har i den. I.
+
+26:58
+Jeg vil, siger du ja, hvis ja, fordi basis består kun af en vægter.
+
+27:07
+Se. Hvis jeg havde skrevet det på den måde, som du står som du ser her,
+
+27:12
+hvor der står ti gange med en vægtere, så havde jeg lavet en parameter fremstilling for kernen.
+
+27:17
+Det ville også være fint. Så den fortæller også fuldstændig, hvad kernen er.
+
+27:22
+Men hvis der i opgaven havde stået du skal angive en basis for kernen, sådan at det kun er en dimensionalt, så må du kun aflevere en vektor.
+
+27:32
+Og det skal altså være en vægtere, som er parallel med denne her.
+
+27:36
+Enten denne her eller en, som har ganget med en konstant. Hvis du afleverer i stedet for fire minus 2 og 2, så er det også en basis for kernen.
+
+27:47
+Det skal bare være en vægter, som udspænder alle dem, der ligger der.
+
+27:54
+Skal vi lige prøve at se. Her i x y z koordinatsystemer.
+
+28:12
+Nu kan vi først kigge på den 1 homogene ligning. Den har et begyndende tidspunkt som hedder en kommer 0,0.
+
+28:22
+Så vi skal altså en ud af første aksen. Og så.
+
+28:30
+1 ud af enden af aksen. Så vil sige Dér har vi altså et begyndelse et punkt.
+
+28:41
+Der har i én retning Specter. Det her er en parameter fremstilling for en ret linje, ikke sandt?
+
+28:46
+Så nu skal vi have retnings vektoren, det vil sige nu skal vi gå yderligere to frem.
+
+28:52
+2. En 2'er og så minus 1 vil sige, at vi skal rykke lidt ned.
+
+29:03
+Så kommer jeg ind dér, og så skal vi ind op.
+
+29:13
+Så her var mit begyndelse punkt.
+
+29:16
+Her har jeg afsat retnings vektoren, den gård, retnings vektoren, den gård dér, og så vil det se hele den linje, som jeg tegner her.
+
+29:29
+Det er l indhold. Hvordan skal jeg forstå det?
+
+29:43
+Ja, men det betyder, at alle de vektorer som er starter her, altså her.
+
+29:51
+Da er vi til tiden tillige med nul. Der har jeg en vektor, som er med.
+
+29:57
+Den ligger dér. Her har vi kørt retnings vektoren 1 frem, så der er til tiden 1.
+
+30:07
+Og der har vi en anden vægtere, som ligger i min løsning, så alle de vektorer.
+
+30:14
+Som går fra origo og ender på den rette linje her.
+
+30:18
+Det er direkte 2'er, som er med i alt indhold. Der er uendelig mange vektorer, og de er ikke et underrum, altså de vektorer, der ligger her.
+
+30:32
+De er ikke et underrum. De har ikke nulvækst som. Et underrum har altid nulvæksten, så El Lindholm har ikke den.
+
+30:45
+Så hvordan ser kernen for Ebbe ud? Jamen, det er jo, når vi ser bort fra den her.
+
+30:54
+Og det vil jeg sige. Nu skal vi tegne en linje, der er parallel med den her, men som går igennem origo.
+
+31:11
+Så I kan se eller høre. Det er løsningerne på kernen, men forskudt med den der, og det er et underrum, fordi de vektorer, der ligger i kernen.
+
+31:23
+Det er nemlig de vektorer, der ligger her på den linje.
+
+31:28
+Så det er altså kernen for et problem. Og det var lige en geometrisk fortolkning, men den kan i leben af meditere lidt over, så.
+
+31:50
+Vi har jo også. Ja, vi kan lege her til sidst. Der kan vi lige tage et fjerde spørgsmål.
+
+32:03
+Er bestemt en basis for billedet rummet.
+
+32:20
+Den opgave har vi faktisk også allerede løst. For hvordan er det nu med billeder rummet?
+
+32:28
+Billedet rummet er udspændt af basis væg, tårnets billeder og det er dem, vi har fundet deroppe.
+
+32:36
+Eller sagt på en anden måde. Det er de første tre vektorer, der står dér.
+
+32:53
+Så var den først hed 1 0 5. Den anden havde en 2 1, tror jeg godt den sidste havde min nu se.
+
+33:03
+2 minus 9. Billedet.
+
+33:06
+Rummet er udspændt af Basil slægternes billeder.
+
+33:14
+Men dette er ikke en basis for de kan jo se at der er tre.
+
+33:20
+Og være dimensionen af billede rummet. Verden.
+
+33:29
+Maj. Den er 2 kernen. Den har snuppet den 1.
+
+33:34
+Vi kom overfor er 3 som har dimension 3. Kernen snuppede lige den ene dimension, så der er kun 2 tilbage.
+
+33:44
+Så selvom det er rigtigt det der står her, så er det ikke en basis, da en for meget.
+
+33:51
+U. Og hvordan kan jeg også se det rangen af afbildning matricen?
+
+34:00
+2. Hvad var det vi sagde? Hangen afbildning matricen den 2.
+
+34:11
+Igen, det vil sige der kunne vi også se, at dimensionen af spillerum var 2 timer.
+
+34:16
+Og her har vi derby linet dem op. Vi har reduceret den matrix, og her kan vi se.
+
+34:26
+Hvis vi kigger på dette her alene, så kan I se, at de første 2.
+
+34:30
+De er lineært uafhængige. Faktisk står der her, at hvis I tager min nu seen.
+
+34:40
+Og gange, og med den første er det her noget vi skal se,
+
+34:44
+hvis vi sammenligner to gange med den første vægtere her og ind og ganger med den anden, så summen bliver den tredje væg.
+
+34:51
+Så det vil altså sige. Ud af den reducerede matrix kan jeg se, at to gange med en nul, fem minus 1 gange med 1 2 1 er lig med den tredje fyr.
+
+35:18
+Så vil jeg sige at den tredje kan få som en leg, når argumentation af de første to af de første to af lineært uafhængige.
+
+35:25
+I kan jo se de er ikke parallelle. Så vil altså sige ganske kort basis.
+
+35:32
+For f. V. Altså en basis kunne vi også have valgt anderledes, men det her er altså en basis.
+
+35:44
+Det er den første og 1 2 1.
+
+35:49
+De er nemlig lineært uafhængige og billede rummets dimensioner. 2.
+
+35:53
+Hvad ser du som en UFO? Er det her, den er i dialog?
+
+36:04
+Har vi skrevet fejl? Ja, det er jeg.
+
+36:12
+Det var det jeg kom til. Der skal stå min nu seen. Ja minus to og +1 eng.
+
+36:29
+Er vi enige? Ja, som det kan ses.
+
+36:35
+Og så passer regnestykket så, at det vi afl altså aflæser dem.
+
+36:39
+Jo altså vi aflæser dem ud fra de to talte.
+
+36:43
+Der kan vi opstille det regnestykke derhen, og så kan vi se, to af dem er så lineært uafhængige.
+
+36:48
+Det er basis for billedramme, og nu tager jeg lige en kort break, fordi jeg skal have visket nogle tavler ud.
+
+37:22
+Ja, jeg føler. Dansk Folkeparti.
+
+37:58
+Og. Deres sanktioner.
+
+38:20
+Jeg. Da jeg var barn nummer.
+
+38:47
+Jeg kan holde min. Den var også så forventer man at dyrke gratis.
+
+39:21
+Leje lokaler der ligger en række sager.
+
+39:56
+Jeg har. Men. Vi skal snakke om afbilledes matricer og vi skal snakke om Bassi skifte.
+
+40:12
+Og i mit første eksempel der har jeg taget P2 er der bliver afbilledet en i p idag, så er mit sæt op.
+
+40:25
+Det jeg så I kigger på P2 er er her som det er, hvor vi starter og vi havner over i polynomier.
+
+40:35
+Første Graasbøll er altså en afbildning fra Anders polynomier. Egentlig første gratis nummer.
+
+40:40
+De ved godt at en basis her er standard basen i polynomier.
+
+40:51
+Det er jo mono mir bassen som vi kalder for en M.
+
+40:55
+Denne hedder her 1 x x i hjernen og over i første grads polynomier, noget der hedder mono jo basen.
+
+41:04
+Kun de første 2, nemlig et h ex. Når vi skal opsætte en afbilledes matrix.
+
+41:22
+Det er jo nemt, for vi skal jo bare have billederne af Basix vektorerne.
+
+41:31
+Så det jeg har brug for det er f er en f.
+
+41:35
+Eks. F. A. Eks.
+
+41:38
+Jane. Det er basis vektorerne i EM.
+
+41:46
+Men hårde år. Dem har jeg jo ikke det en input dér kender vi jo ikke.
+
+41:55
+Men jeg kender nogle andre input, nemlig de tre der står deroppe.
+
+42:01
+Så bare det dog havde været min basis, for så kunne jeg have lavet afbildningen af matricen.
+
+42:09
+Men det kan jo være at de er en basis. Skulle vi prøve at undersøge det?
+
+42:23
+Så vi spørger Er A.
+
+42:27
+Sættet som hvor vi har? Hvad var det? Vi havde en endnu 6 hjerne komma minus 1 komma.
+
+42:36
+2 plus ex. Kluges ex i anden mund.
+
+42:40
+De er en basis. Hvor mange har vi en, to, tre?
+
+42:56
+Og det er jo o.k. Fordi vi ved at dimensionen er P2.
+
+42:59
+Den er 3. Det rigtige antal. Hvad er det næste krav?
+
+43:03
+De skal være. Vind er du afhængig af.
+
+43:09
+Der har vi snakket om, at når det er bages, så vi skal afgøre om de er lineært uafhængige, så er det aller nemmest at kigge på deres determinanten.
+
+43:30
+Men hov paa hvilken determinanten spørger så.
+
+43:35
+Jamen, nu skal vi aflæse deres koordinater, og så får vi her en noget mere nu seen.
+
+43:42
+For det første polynomium. For det andet får vi min nu seen, og denne har ikke nogen ikke så ikke nogen ægte hjerne og den tredje.
+
+43:52
+Denne 2 1. 1. Og så regner vi den determinanten ud.
+
+44:02
+Det kunne vi jo gøre, for eksempel ved at opløsningen efter anden søjle så er plus minus.
+
+44:11
+Det vil sige den der giver i sig selv. Altså plus minus.
+
+44:17
+Og den er minus i forvejen, så den må give 1 gange med. Og så sletter vi lige den række og den søjle den står i.
+
+44:27
+Bum bum. Og så siger vi nogle gange med noget.
+
+44:33
+Minus 1 gange med min nu se en gang.
+
+44:37
+1 Det giver en. Og så får jeg altså en.
+
+44:49
+Forskellig fra nul. Og det var det jeg havde brug for at vise at det er lineært uafhængige A er en basis.
+
+45:07
+Nå, men så er det en pacis og så hvad er det så for nogle input?
+
+45:13
+For hvis vi skal have lavet en basis altså en afbildning Staatsrecht så bare for en, kan vi nu lave en put i a koordinater.
+
+45:29
+Output i da kan vi jo bare bruge mod nogle af basen her, så vi bruger altså en ny basis A og vi bruger monomerer basen her.
+
+45:47
+Så altså den afbildning smag tricks vi kan opstille.
+
+45:51
+Det er den der har A som input og M som output.
+
+46:06
+Og hvem bliver den? Hvad det.
+
+46:20
+Hvad har vi? En afbildes man altså ikke for den.
+
+46:31
+Hvor mange rækker mange søjler? Vi har jo billeder under kysset.
+
+46:40
+Billedet af den første Basses svigter billede af, at den anden basis svigter, og her ville jeg have skrevet tre plus ex sonder.
+
+46:52
+Så det er de billeder, vi nu skal have om. Det går også, så det er det må være.
+
+47:00
+Vi tager billede af den først, og det er minus én ind i billedet af den anden.
+
+47:06
+Det er nul ind. Billedet af den tredje.
+
+47:10
+Det er tre en. Er I med på den?
+
+47:26
+Der har vi afvænnings matricen, men hov, hvad var det vi blev bedt om i opgaven?
+
+47:31
+Vi skal agere og buildings matricen med hensyn til EM i begge rum.
+
+47:36
+Og nu har jeg brugt A i mit første rum, så den har jo en fejl.
+
+47:46
+Hvordan kan vi rette dens fejl? Ser den vi ønsker er m f.
+
+47:55
+M. Og den vil vi gerne opbygge med den vi kender i forvejen.
+
+48:11
+Hjelm og reparationer laver vi altid med basis skifter matricer, så nu vil vi gerne.
+
+48:21
+Bruge den basis skifte Mattrick som ligger i det rum her.
+
+48:29
+Og se om vi kan læse direkte her. Der skal stå i dag i det.
+
+48:35
+De skal være forbundet. Og så skal vi have EM og så skal vi have EM her.
+
+48:43
+Sådan så regnestykket passer. Nu får vi EM som input og EM som output.
+
+48:49
+Hvis jeg ganger de to matricer sammen, så de to, forkorter vi væk, og så får vi dem, der står derhenne.
+
+49:00
+Har vi den der? Så nu skal vi huske hvad en basis skifter med tryksager.
+
+49:10
+Dette betyder jo mod nogen at basen i a koordinater.
+
+49:16
+Bare jeg havde den. Det har jeg desværre ikke.
+
+49:22
+Men jeg har nået næsten er lige så godt, fordi jeg har dens inverse.
+
+49:34
+Jeg har nemlig den nye basis. Det er den nye Basses består af de tre fyre.
+
+49:43
+Dem har jeg jo i Mono Mie Coordinator som se hvordan det ser ud i USA.
+
+49:52
+Det er faktisk den samme, som vi skal det hen. Det var jo en nål i New Zealand og noget.
+
+50:03
+Nej, minus 1. Og så er den 2, 1 og 1.
+
+50:12
+Set dem kender jeg. Og det jeg har brug for er dens inverse.
+
+50:28
+Og den står vi altså her. M. M.
+
+50:31
+A. I mine første den har jeg fundet til.
+
+50:40
+0 1 minus 1 og 0 1 og nul.
+
+50:51
+Så det vil altså sige, at den matrix ser ud efter.
+
+50:57
+Den får vi altså efter denne afbildning smag som havde en lille fejl.
+
+51:03
+Minus 1, 1, 0, 1, 3 og 1.
+
+51:08
+Og sagt ganget med ned i dag.
+
+51:12
+Der er noget galt her, og der skal selvfølgelig være. Det skæve bane 3, Puls 3 selvfølgelig.
+
+51:19
+Vi har her, det skulle være. Det skulle være minus 1, 3 og minus 1.
+
+51:31
+Og så har vi altså 0, 1 og nul. Det er den inverse af den der.
+
+51:36
+Så er jeg den, jeg lige skal have skrevet op nu. Altså minus 1, 3 og minus 1.
+
+51:44
+Og så har vi altså nul, 1 og nul og skal gange på.
+
+51:54
+Så er set den første.
+
+51:58
+Det var. Minus 1 0 3 og 1 1 1.
+
+52:09
+Det var min a, f m. Den har vi her. Der har vi den inverse basis skifter matrix, og når jeg så regner dem ud, så får jeg den ønskede afbildning.
+
+52:21
+Matrix 0 4, minus 1 og minus 1, 3 og 0.
+
+52:38
+Ja. Den der.
+
+52:51
+Jeg. Ja, det er.
+
+52:57
+Jeg forstår godt dit spørgsmål. Altså de skal netop. De skal jo være den samme.
+
+53:01
+Så det er så 0 1 og minus 1, og så er det minus 1, 3 og minus 1, og det er nul og nul.
+
+53:12
+Det har vi den afvænnings med et tricks, vi havde i stedet for. De ganger den der ud, og så har vi altså resultatet for den afvigende smag.
+
+53:19
+6 4 blev bedt om. Nu tager vi et sidste eksempel.
+
+53:32
+Og. Og her har jeg givet to vektorer et ten og to komma 1 og 2 den er lig med en command.
+
+53:59
+Og så har vi en. Line f.
+
+54:10
+Som går fra er 2 1 i 2. Og den opfylder.
+
+54:23
+At f. At den af et vægteren den er minus tre et plus fem a 2.
+
+54:36
+Og F er den anden vægt så f a 2 den er minus to a en plus 3 a 2.
+
+54:51
+Og her skal vi have bestemte.
+
+54:57
+Afbildninger matricen for den lineære afbildning, som altså laver de afbildninger der er der.
+
+55:11
+Der er en opgave i øvelserne. Da er det bare af F.A.
+
+55:16
+I skal finde den opgave vi skal lave. Den er sådan set modsat af det, jeg laver nu.
+
+55:26
+Billederne er basis vektorer, deres billeder, afbildninger, matricen.
+
+55:32
+Vi overvejer, har vi billedet af. Fra vi billedet af vores basis vektorer, har vi.
+
+55:53
+Nej, det er ikke givet i opgaven.
+
+56:00
+Så må vi finde på noget. Vi har billederne af de to.
+
+56:07
+Så hvis A er basis, så har vi billederne.
+
+56:25
+Sådan så er der ingen problemer. Og hvad er så input?
+
+56:32
+Hvis vi siger ja, har vi som input, så hvis vi vælger den basis de skal være i a coordinator.
+
+56:50
+Og afbud. Vi har i år put a koordinater kan vi se det?
+
+56:57
+Det er jo anekdoter som også står på oversiden her. iNPUT og output af den bevillingsmæssige jeg har.
+
+57:05
+Er a, f, a. Jeg har billederne.
+
+57:13
+Det er minus tre og det er fem. Og det er minus to og det er tre.
+
+57:26
+Så er vi i gang for alvor. Magen.
+
+57:39
+Vi skulle jo finde den afbilledes matrix som fører til.
+
+57:45
+Standard basen. Og den vil vi gerne bygge op fra den, som vi har fundet.
+
+57:54
+Altså den vi direkte kunne trække ud af opgavens oplysninger.
+
+57:58
+Det var den. Så er det den, vi skal have repareret. Vi har den dér.
+
+58:09
+Den har betydelige fejl. Den er både fejl forvejen og bagefter, så vi er nødt til at reparere den med to basis gift matricer.
+
+58:24
+Den vi ønsker, skal have input i ind, og det vil sige her er vi nødt til at gange med ind bag en basis skifte matrix, der ser sådan her ud.
+
+58:36
+For nu vil den nemlig have indgang i en coordinator, og de to passer godt sammen.
+
+58:45
+Den giver output af de reparere lige. Og hvad hedder den så, den hedder?
+
+58:55
+Den hedder sådan der. Frisag.
+
+59:01
+Nu har vi et produkt, når vi regner de tre matricer sammen, så får vi den ønskede matrix.
+
+59:09
+Og hvad har vi nu? Den basis gift med tekst der står her.
+
+59:20
+Det er jo af vektorerne en koordinator, har vi dem bias for det er jo deres standard koordinater, som står her.
+
+59:37
+Så er det vil jeg sige. Den første del er 2. 1, 1 og 1.
+
+59:46
+Den har vi ikke endnu, men den kan vi nemt få for a.
+
+59:50
+M. B. Det er den inverse til den vi lige har fundet.
+
+1:00:05
+Du laver lige et lille trick. Hver determinanten 2 min.
+
+1:00:09
+Onsdagens determinanten er 1. Så er det meget nemt at finde den inverse.
+
+1:00:15
+Jeg skal bare bytte de to og ski fortrin på de to.
+
+1:00:22
+Trafikken. Og så kan vi altså finde.
+
+1:00:30
+Så kan vi altså finde den ønskede matrix det at sige.
+
+1:00:35
+2 1, 1 1 ganget med den.
+
+1:00:39
+Vi fandt minus 3 5, minus to og tre og så gange med den sidste.
+
+1:00:52
+Og hvis ganger de tre matricer sammen, så er vi så se, at det giver noget og minus 1 og 1 og nul.
+
+1:01:08
+Det der kom ud af det. Det viste sig faktisk at være en meget spændende, for det er dér man sommetider kan, når man laver basist skifte.
+
+1:01:17
+Så finder man ud af, og hvor ser den kedelige ud. Den er ikke.
+
+1:01:21
+Hvad laver den dog i denne verden? Men det er jo den samme som I altså i standard koordinater, hedder det her.
+
+1:01:31
+Så skal vi lige prøve en gang som det aller sidste. Så prøver vi at se.
+
+1:01:37
+V er en eller anden vilkårlig væg, som er koordinaterne ved V2.
+
+1:01:42
+De vil gerne finde. Hvad er billedet af den?
+
+1:01:48
+Og så tager vi den afbildning, smag, tricks vi fandt.
+
+1:02:00
+Og hvad bliver den? Vi skal tage prikproduktet af den med den.
+
+1:02:05
+Det giver minus ved 2. Og der skal være et nul her.
+
+1:02:11
+Og så får vi altså her ved EP. Så det vil altså sige at f, a, b et komma ved 2 er lige med minus ved 2 komma ved 1.
+
+1:02:27
+Og hvad er det for en afbildning vi har fundet? Ja, du sagde det er et sværvægter afbildningen.
+
+1:02:37
+Så er jeg den der simpelt hen til vægteren her ved et komma ved 2.
+
+1:02:44
+Den blev afbilledet over i den vektor, der hedder minus ved to Parma med en hage.
+
+1:02:52
+Den grimme fyre, der ved at lave basis skifter, har vi set.
+
+1:02:57
+Jamen, det er jo sværvægter afbildningen, og det er det, der er pointen i linna afbildninger, når vi laver basisk skifte.
+
+1:03:04
+At vi kommer frem til en matrix, som er meget smukkere, hvis vi laver et passende basis skifte.
+
+1:03:10
+Det var pointen. For i dag. Tak for nu.

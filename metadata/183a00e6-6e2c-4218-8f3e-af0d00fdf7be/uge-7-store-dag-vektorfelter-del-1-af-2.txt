@@ -1,0 +1,1355 @@
+0:07
+Så er det alt, for man har jo ikke tid til rigtig mange og i hvert fald ikke er.
+
+0:18
+Jeg gør ikke noget, så det har jeg ikke.
+
+0:24
+Ja og nej, lad os prøve at se, hvad vi kan finde på i dag.
+
+0:30
+Da jeg havde kigget på den her forelæsning, så kunne jeg se, at jeg faktisk godt kunne bruge tre timer.
+
+0:35
+Men det går jo ikke, for vi har jo kun auditorier til klokken 12, så det bliver et stramt program.
+
+0:41
+Så kunne man smide noget ud, men der er ene spændende ting. Det ville også være ærgerligt, men lad os lige kort vrides op, være ske.
+
+0:48
+Vi skal tale lidt om vækst felter, og så har vi noget om flow kurver.
+
+0:59
+Og så kommer vi en lille smule her om gradient felter, og så kommer ligesom anden halvdel.
+
+1:13
+Det handler om vægtere felter. Der er ingen integrator involveret i det her.
+
+1:16
+Er der nogen integraler, fordi vi regner ud, men ikke nogen af vores nye integrale.
+
+1:21
+Det kommer til her. Så kommer det tankerne til gode. Indtil der. Og så kommer de der gradient felter ind igen.
+
+1:37
+Og så kommer der noget om stramme funktions bestemmelser. Skråstreg skalar potentialer der gør.
+
+1:59
+Vi plejer jo at have tre punkter. Nu er der sex, og så tænkte jeg fordi lejligheden var da.
+
+2:05
+Det kunne jo være meget sjovt at prøve at lave et eksempel, hvor vi bruger alt det, jeg overhovedet har lært i et.
+
+2:11
+Altså lige fra komplekse tal til lineær algebra og differentialligninger og så videre.
+
+2:18
+Hvis I med på det efterfølgende, så gør det selvfølgelig ikke. Men altså hvis ingen protesterer, så synes jeg, vi skal prøve at se som eksempler.
+
+2:25
+Men først det første her er sådan lidt fænomenologisk.
+
+2:29
+Vi skal have defineret, hvad det er, og skal vi se nogle eksempler for at få en fornemmelse af, hvad et vægter felt for noget og et vægtere felt.
+
+2:36
+Vi skal bare lige tænke sådan intuitivt over det. Så er det for eksempel som tyngde feltet omkring jorden.
+
+2:41
+Altså de vektorer, vi plejer at sætte sådan en tyngde kraft på.
+
+2:45
+Ting der falder ned. De vektorer, som har tegnet dem hele vejen rundt om jorden, varierer de lidt i længde,
+
+2:51
+fordi tyngde feltet er lidt forskellige styrker rundt om jorden.
+
+2:55
+Og hvis vi går langt væk fra jorden, så vil de også meget små komme tæt på jorden blive større.
+
+2:59
+Altså man får også en hel masse pile, og hvis jeg slipper kridtet her, så tager en af de pile fat i kridtet og trækker det ned mod jorden.
+
+3:06
+Så det er det.
+
+3:07
+Man kunne også forestille sig, at det var en sø, hvor der strømmede noget vand på overfladen, og så mødte man en flamingo kugle ned i søen.
+
+3:15
+Og så følger den jo på en eller anden måde en bane rundt alt efter strømmen og være strømmen.
+
+3:20
+Det er en hel masse små pile, der hele tiden peger i en eller anden retning, som når vi når hen til flamingo.
+
+3:27
+Kulden følger den her bane. Det er sådan noget, vi skal lave i dag. Altså sådan noget.
+
+3:31
+Man kan jo sig som tyngdefelt eller eller strømningen i Vesten.
+
+3:35
+Vi vil meget ofte bruge denne strømning i væske analogi. Så lad os få lavet nogle af dem.
+
+3:40
+Så vi ser altså på en hel stribe eksempler her på ekstra felter.
+
+3:49
+Vi tager de plane fordi at vi vi vi ligeglade med, om det er vigtigt for rummet eller i planen.
+
+3:53
+De var nemme at tegne. Skal nok lige give et par eksempler på rumlige vækster felter.
+
+3:58
+Så vi starter med dette ved at ex kommer ud og sådan et vægter felt det er givet ved.
+
+4:05
+Det er en funktion af to variable hvis det er plant, og så er det to funktioner vi ex af ex kommer i.
+
+4:12
+Og ved y af x kommer y. De havde to funktioner her de glatte.
+
+4:18
+Det vil sige man kan differentiere dem lidt tosset man gider, og de er kontinuerte afledt af alt det der.
+
+4:22
+Det gider vi ikke stå op hver gang, for sådan er det. Fra nu af.
+
+4:26
+Alt vi laver her, er pænt. Så der er nogle differentiable funktioner her, og så simpelt er det et glat væg felt.
+
+4:33
+Hvis de funktioner, der indgår, er glatte.
+
+4:35
+Vi har helt almindelige funktioner af to variabler sidder ved siden af et, så har vi en vektor funktion her.
+
+4:43
+Så kan vi jo prøve at sige lad os tage et eksempel på sådan et. Et vigtigt felt her.
+
+4:49
+Vi kan jo se på dette værktøj felt, der simpelt hen bare sendte ekskong med Y direkte over i x kommer y så den første funktion funktionen,
+
+4:57
+bare ekspansionen og den anden funktion er det bare. Y giver den.
+
+5:03
+Hvordan ser sådan et vægttab faldet ud?
+
+5:05
+Ja, det kan man prøve plottet ind på at tegne sådan et værktøj, feltet kan gøre her, så det ikke bliver for småt.
+
+5:12
+Og måden man tegner det på, det er, at man tager det punkt.
+
+5:18
+Man evaluerer det i punktet ikke Karmøy. Da tager man og starter en vækster i det punkt, som har den her.
+
+5:26
+De har koordinater. Arrogant. Så hvis jeg går op til punktet 1,1.
+
+5:32
+Det er nu jeg jeg punktet 1,1. Så giver jeg.
+
+5:36
+Så skal jeg tage en vægter, der har koordinaterne ind, kommer ind og afsæt fra det punkt, og det vil sige,
+
+5:41
+den har jo de samme som diagonalt, så den har en længde der den samme som afstanden hermed.
+
+5:46
+Hvis jeg går længere væk, så bliver denne afstand større. Vil, hvis jeg bliver væk.
+
+5:49
+Thomas dør, hvis jeg går tættere på. Så bliver vi ikke har en mentor.
+
+5:53
+Hvis jeg går i denne retning her, så peger vektoren i den retning.
+
+5:58
+Jeg går herned bare vektoren i den retning. Jeg kan godt se, at det er tegnet her.
+
+6:05
+Cykler lidt længere væk end det der ligger. Om der er tegnet.
+
+6:10
+Men selvfølgelig alle de pile ud, der mangler her. Det kan man jo ikke.
+
+6:13
+De ligger jo helt tæt, men godt tegn. Endnu flere ind.
+
+6:16
+Så har vi fået, så har vi ide om, hvad der sker her, og det er ikke så mærkeligt, at dette vækster fælt her.
+
+6:21
+Det kalder vi eksplosion svigter feltet. Vi har noget, der ligger stille.
+
+6:26
+Og så bliver det altså trukket fra hinanden med øget hastighed væk fra fra startpunktet.
+
+6:33
+Hvis jeg nu havde sat en ekstra koordinat på, ved jeg ekstra my Kommersant samvær og så sagt den hed x y z her.
+
+6:46
+Så ville det her vækstlag fælt jo bare være fuldstændig magen til. Men så vil de stikke ud i alle retninger her omkring 0,0.
+
+6:54
+Så uanset hvilken plan jeg snittede rummet med. Hvad havde alle langsiden med?
+
+7:00
+Havde det indhold med z aksen? Så ville jeg få et billede, der ser ud som den her.
+
+7:06
+Så det er altså de to vigtige felter vi kan kalde dem eksplosionsulykke felter.
+
+7:13
+Når vi så har set de to eksplosionsulykke felter, så er det næste man kunne spørge sig, om det var.
+
+7:18
+Nu kunne vi ikke have et inklusions væk fra felt og en implosion.
+
+7:22
+Det er jo det modsatte af en eksplosion, men der må man gerne vil trykke det hele sammen i et punkt.
+
+7:29
+Jeg ved, det var det, der var et af problemerne, da man skulle lave de første album,
+
+7:34
+og så skulle man jo have trykket lave en eksplosion, der kunne trykke dette her sammen i midten.
+
+7:38
+Så lade dem gå op en kritisk masse og snart eksplosionen. Så det er en implosion.
+
+7:43
+Det er altså det modsatte af en eksplosion. Det ved vi jo også godt nu.
+
+7:46
+Det kan vi lave meget let, for vi kan jo bare vende alle pilene om, så er det an.
+
+7:53
+Så har vi et implosion svigter fælt. For hvordan vil det se ud? Dermed ser ud på præcis samme måde som en pil hér.
+
+8:02
+Der skal jo snart bilen, og nu skal den altså pleje. Så vil man faktisk payday 1A.
+
+8:06
+Det er lidt svært til egen forvaltning, hvor jeg skal give pay.
+
+8:09
+Så får jeg en hær afsted, der er ligeså lang som afstanden ned til dem, og de peger ind mod 0,0.
+
+8:15
+Så det er et implosion svigter fælt dansetrin her indtil søndag, hvor det jo ikke ensbetydende med de rammer.
+
+8:22
+Der er bare hastigheden i det punkt. Den er så stor, og den aftager. Så jo tættere vi kommer ind mod 0,0, for det er jo to typer væk felter.
+
+8:31
+Vi skal lige se et par stykker mere, for det er sådan, når vi skal arbejde med fra nu af og så til den slutter.
+
+8:37
+Det er vores nye funktioner. Hvad med det her?
+
+8:41
+Et der hedder bare 1,1? For eksempel. Ja, det er os.
+
+8:46
+Det er også sådan et konstant væg felt, der vil det være sådan, at ethvert punkt, der skal afsætte vektoren ind, kommer ind.
+
+8:57
+Uanset hvor jeg er henne, så er det vektoren, en kommer ind.
+
+9:03
+Det vil sige, de ligger alle sammen parallelt og har en ind og har koordinaterne 1,1.
+
+9:11
+Så det er sådan et konstant bliktage felt.
+
+9:13
+Hvis vi forestiller os dette, der er hvisket strømningen, så er det sådan noget med, at der sprøjter noget væske op af et hul.
+
+9:18
+Det løber ud på et bord ud til alle sider for større og større fasthed.
+
+9:22
+Her er lidt mærkeligt i øvrigt det her, der lever det hele ned i en rist der her og ikke og her der lyver det bare konstant forbi.
+
+9:30
+Det sidste er væk. Så faldt vi lige, skal se, inden vi går videre. Det bliver der regner rigeligt.
+
+9:36
+Det er det her minus y komma ex. Det er også et kendt vægtet felt.
+
+9:43
+Det er sådan et felt, der roterer. Hvorfor gør det, ved vi?
+
+9:50
+Jeg skal tage et punkt X Company, der ligger dér. Den har netop en ekstra møde.
+
+9:55
+Og hvad skal jeg så afsætte for en vægter I godt genkende det herude?
+
+9:58
+Det har faktisk sværvægteren til den vægterne hær, så hvor lægger sværvægteren hænder?
+
+10:05
+Den ligger cirka dér. Hvor ligger den, der ligger dér? Hvor ligger den, der ligger dér og så har den samme længde som afstanden ud til punktet?
+
+10:13
+Det synes jeg tættere på her. Så vil den være dér, og vi kan se det.
+
+10:18
+Det giver sådan en roterende bevægelse rundt om rundt i sin plan.
+
+10:25
+Så det er nogle forskellige eksempler på vækst og felter, og så kan jeg sige Hvorfor skal vi se alle de eksempler?
+
+10:30
+Fordi alle de eksempler, de optræder. Lige om lidt i de regninger, vi skal lave. Ja.
+
+10:37
+Så lad os bare lige et af dem stå et øjeblik og lad være at bruge mere tid på lige at tale om dem,
+
+10:44
+for de dukker allesammen op lige om lidt en gang til. Og lad os prøve at se.
+
+10:50
+For hvad kan vi gøre ved de vigtige felter?
+
+10:57
+Det næste punkt vi havde et år var flugtvejene, og flow kurver er som ordet 4 er.
+
+11:08
+Vi kan forestille os, vi har et vækstlag felt givet. Nu tager vi en lille flamingo kugle og smider ned i deres strømningen.
+
+11:16
+Nær hvilken bane følger den? Altså et meget vigtigt fysisk problem, fordi.
+
+11:25
+Hvor ville den egentlig ende henne?
+
+11:27
+Det vil sige, at hvis det var forurening i et vandløb, ville forureningen så ende henne, hvis vi kendte strømningen i vandløbene?
+
+11:33
+Hvis det var hvad hedder det nu? Hvis hvis det var bevægelse af flamingo kuglen, som vi var i gang med her, hvilken bane vil Flamingo kunne følge?
+
+11:45
+Altså hvor vil den til sidst ende henne. Så lad os prøve at regne det ud.
+
+11:49
+Så nu har vi altså givet væk faldt, og vi har givet den flamingo kugle.
+
+11:53
+Og vi siger, de vækster feltet op. Det er hastigheds feltet for vores bevægelse.
+
+11:57
+Hvad betyder det? Hastighed feltet? Ja, det er faktisk ligesom vi forstår, hvad det betyder.
+
+12:02
+Så har vi faktisk løst matematiske problem, og det er der det nu her, hvor både komplekse tal og systemer,
+
+12:11
+differentialligninger, realisering af matricer, hele molevitten kommer ind i det værste tilfælde.
+
+12:15
+For i de fleste tilfælde kan vi klare det ret let. Næsten alle dem, vi har stående her.
+
+12:20
+Det kan vi klare uden alt dette ballade. Så lad os starte på det.
+
+12:25
+Hvad betyder det? Det betyder, at hvis jeg har mit vægter felt altså nogle pile, der går i en eller anden retning, er jeg helt fyldt ud med pile.
+
+12:33
+Jeg smider Flamingo Koloniherrer. Den følger den her pil her.
+
+12:37
+Når den er kørt med den, så rammer den jo en ny pil, som igen skal være hastighed til væk fra feltet.
+
+12:42
+Sige vores bane kurve for at have en hund. Den skal følge de her vektorer vi har i vores vigtigste mand.
+
+12:50
+Det skal være dens tank hastighed vektorer i ethvert punkt.
+
+12:57
+Men hvis det er rigtigt. Lad os sige, at den kurve vi ikke kender, det er kurven der er ukendt.
+
+13:03
+Vi kender vel ikke blevet. Vi kender ikke kurven. Der skal den er altså en så sidder kurve.
+
+13:08
+Hvad skal der så gælde? Jamen så skal der jo i hvert fald gælde, at er mærket af U, som altså er tangent vægteren til kurven her.
+
+13:18
+Den skal hele tiden være væk. Tager feltets værdi i det punkt, som svarer til den parameter, hvad de i hvert.
+
+13:27
+Så går jeg ind i kurven. Svarene parameter og nu fylder.
+
+13:31
+Det er jo en ægge søsat eller en type. Den giver min kone det her punkt.
+
+13:36
+For eksempel skal der gælde et vægttab feltets værdi i det punkt. Lige præcis skal matche kurven tangent i hvert punkt.
+
+13:43
+Det her er simpelthen betingelsen flow, kurv.
+
+13:47
+Betingelsen kan vi kalde den. Det er simpelthen betinget for at det er en flok det der er ukendt i den.
+
+14:01
+Det er u yoga. Skal vi prøve at finde sådan en flow gå og lad os gøre det i noget, hvor det er meget let.
+
+14:07
+Lad os starte ude med konstante vægte. Det havde vi faktisk ikke behøvet, at vi ikke ville gøre.
+
+14:11
+Regn, da ingen af dem behøver regn, skal jeg sige.
+
+14:14
+Men det er meget rart at se, at når vi er færdig med at regne, så får vi faktisk noget, der intuitivt passer her.
+
+14:19
+Og når det bliver mere avancerede væk fra feltet, så er det jo, regner vi det bare ud,
+
+14:23
+og til den tid er det en majblomst, et knap nok tryk på Makeba, og så kommer det hele ud.
+
+14:29
+Så der er ikke noget svært i, selvom vækster feltet ser meget mere avancerede ud.
+
+14:32
+Find dit flow, når vi har Mabel. Men lad os lige prøve at gøre det her hvert inden der foregår, så vi tager dette væk faldt hér.
+
+14:44
+1,11 som bestemmer kom. Og hvordan finansloven gør det står her.
+
+14:58
+Vi skal altså tage denne her. Og nu er det jo sådan lidt lidt underligt at have vores vores kurv stående på denne her måde.
+
+15:06
+Det er måske bedre i virkeligheden at sige Jamen, hvad er U?
+
+15:10
+Jamen, det har jo en ex koordinat som kurver. Og så har den nye koordinat.
+
+15:15
+Det er jo sådan vi definerede en pakke med forceret kurve. I sin tid.
+
+15:20
+Så putter vi det ind i den betingelse her, og så kommer der altså til at stå her ex mærke u over y mærke r u.
+
+15:30
+Det der er mærket af, skal være lige med vækster feltets værdi.
+
+15:35
+I R er u. Men nu er værktøj faldet konstant, så jeg kan være ligeglad med at indsætte mine kampe til serien, for det er hele tiden en.
+
+15:43
+Og så kigger vi lidt på det, jeg siger. Okay, dette er det differentialligning system.
+
+15:49
+Men det er afkoblet.
+
+15:50
+Der er ikke noget med at det er koblet Y afhænger ikke af ICC er i mærker afhænger ikke af ikke sammen, men vi kan direkte løse det.
+
+15:57
+Hvad? Hvad er det for en funktion, der egentlig giver, at når vi differentierer ex, så giver den et?
+
+16:04
+Jamen, det ved vi godt. Det er simpelt hen ikke, så du skal bare være up på en af de fronter,
+
+16:10
+denne her med hensyn du så forvent og tilsvarende her, så det munder ud i simpel stamme.
+
+16:17
+Funktionens bestemmelse ved den afledte skal givet være den funktion, det ser ud.
+
+16:22
+Så kunne jeg jo for sjovs skyld sige Jamen, det er helt rigtigt.
+
+16:27
+Det lærte mig ikke helt, for de kan jo altid længe konstant til et land og en anden konstant til,
+
+16:34
+som afhænger af selvfølgelig i begyndelsen, for vi har slet ikke talt om nogen begyndelse spendere endnu.
+
+16:39
+Vi har ikke sagt vores smed vi. Denne flamingo kunne ligge i det flove vejr, så der er altså to arbitrære konstanter, som skal bestemmes.
+
+16:48
+Nu kunne vi så gøre noget andet. Vi kunne jo prøve at isolere. Vi kunne på at kalde denne op nu på isolerer uge i denne her uge.
+
+16:57
+At lege mad og så sidder den så ex minutes på ét og y med her.
+
+17:03
+Og hermed. U er lig med y minus CO2.
+
+17:08
+Så går de to lige hinanden. Hvis jeg havde lyst.
+
+17:14
+Altså simpelt hen ser det ud. Altså den der leg med den her.
+
+17:20
+Så står der jo, at I minus CO2 er lig med ex minus ét.
+
+17:28
+Så kunne jeg rykke CO2 herovre, skrive plus CO2. Så kunne jeg kalde de konstanter for noget andet.
+
+17:34
+Y er lig med ex plus b. Lad os bare kaldes samlet konstant bundet.
+
+17:39
+Og nu tror jeg godt de kan se, hvad der er sket. Hvad er flove kurven hér?
+
+17:44
+Jeg har faktisk været ligninger for flow kurverne. Det er ret linjer hældningen et skæring nye aksen B.
+
+17:53
+Hvad afhænger både af den afledte og præcis af, hvor vi smider flamingo koloni i bunden?
+
+18:01
+Så smider vi flamingo koloni her. Så svarer det til den retning, den flove går.
+
+18:06
+Den følger de her pile. Smider kuglen i her.
+
+18:11
+Så er det den her ret linje. De parallelle og de har allesammen en hældning på en eller anden vinkel til eksakt på 45 grader.
+
+18:20
+Så nu har vi altså regnet flow kurven ud, vi altså starter med det problem.
+
+18:24
+Vi havde en ukendt kurv, som vi kendte. Og så har vi bestemt simpelthen.
+
+18:29
+Hvad er så? Først bliver vi den, som primært sidder her, kunne vi godt have stoppet.
+
+18:35
+Vi har ikke behøvet at lave det ned. Det er jo bare, at jeg synes, det er sjovt, fordi det gør vi lige om lidt med mad,
+
+18:39
+det næste vi får, og så kan vi også tydeligt se, at den retning svigter.
+
+18:44
+1. Kom ind, og den har så skæring herover med y aksen.
+
+18:51
+Så det er en beregning af en flow kurv, og nu kan vi så fortsætte.
+
+18:56
+Jeg kunne jo tage det næste eksempel. Jeg kunne for eksempel tage det eksempel, vi har givet her.
+
+19:05
+Dér hvor vi er. Og undskyld, for har vi det stående implosion som ikke feltet.
+
+19:11
+Så ville mine differentialligning jo komme til at hedde ex mærke over y mærket lig minus 6 år minus 1.
+
+19:18
+Det er stadigvæk meget let at løse, fordi den afledte eks den afhænger, så vi kan løse det som simple differentialligninger,
+
+19:25
+og vi kan også med det samme se, at sådan en differentialligningen der til denne her er bare en have en konstant gang i minus hult.
+
+19:36
+Så derfor nogle flow gående, for den bliver altså sådan nogle.
+
+19:42
+Rette linjer igen.
+
+19:44
+Det skal måske lige sige det blev lidt åndssvagt, at jeg siger det, vi gør lige hurtigt, inden vi går til det rigtig svære eksempel.
+
+19:54
+Vi tager lige et kort eksempel på flow på bestemmelse igen ved at komme ud af leg.
+
+20:02
+Minus 6 kommer min. Og 7.
+
+20:04
+Og vores differentialligningen system hedder nu at mærke er U heller ikke mærke af U og Y mærke af U skal være lig med det der står herover.
+
+20:20
+Altså her her. Minus ex er u og her minus Y er jo.
+
+20:29
+Og så indtaler vi simpelt hen bare vores. Så løser vi de fortællinger.
+
+20:34
+Den er let at løse, er ikke for ham og gælder,
+
+20:36
+at eksamen simpelt hen skal være en konstant seks gange én i minus rute, for så tager denne differentiere.
+
+20:45
+Så får jeg et minus ned foran, og her også har jeg bare sat ned, og der står minus i forvejen.
+
+20:49
+Så passer pengene. Det er en første ordens differentialligning, og den anden by er jo 2.
+
+20:56
+Gang i Minnesota. Så kan jeg sige Hvad er det her for noget? Lad os lige se igen.
+
+21:03
+Få et flow går. Hvordan kommer til at se ud af serien?
+
+21:09
+Jeg smider min flamingokasse lidt der. Hvad sker der med den?
+
+21:14
+Jeg kender altså nu et punkt på gåden her, for det vil sige jeg kender 1.
+
+21:18
+Z og en til to af de der, for jeg kender ikke sorry. Og lad os bare sige det er jo tid lig nul.
+
+21:24
+Os plague som parameter nul. Så se indtager DR. X koordinaten for det punkt, hvor vi kalde x0 kommer i nul.
+
+21:32
+Så bliver det det samme som set fra Mazda2.
+
+21:37
+Her selv har vi, så skriver vi lige denne her pakke, så serien om x y.
+
+21:44
+Den hedder jo så E! I minus ugedag gang en vægtere der hedder M1.
+
+21:49
+Nej, gang i en væg der hedder x0 by 0, som jo var en konstant ude foran her.
+
+21:55
+Og så kan vi godt se, at det her er jo faktisk vores retning svigter. Denne x0 nul.
+
+22:02
+Hvad retning peger den i denne Vækstfonden står der.
+
+22:06
+Det er sådan en vægt, der ligger der. Og hvad sker der så, når u den går mod nul?
+
+22:14
+Ja, når vi når ud af nul, så står der ét tager vi her. Og når tiden går, så bliver denne her mindre og mindre, og til sidst bliver den nul.
+
+22:22
+Og vi ender altså herinde i, når tiden er gået uendeligt.
+
+22:27
+Så den følger altså en ret linje en mod 0,0 V,
+
+22:31
+der også er i god overensstemmelse med vores flow kurve her, som jo altid er implosion aspekt tilfælles.
+
+22:39
+Den bevæger sig ind mod centrum. Det tager lang tid at komme derhen.
+
+22:44
+Det går ret hurtigt at komme tæt på, men det går rigtig lang tid om at komme helt ind, for der skal vi faktisk helt op i en uendelig tid.
+
+22:54
+Godt sidste eksempel, og det er desværre fordi det virker lidt tilfældig måde, jeg finder på.
+
+23:03
+Det er det ikke, fordi virkelighed kan man gøre noget selv her?
+
+23:09
+Det sidste eksempel Jeg tager dette her roterende vægge til felt.
+
+23:18
+Og hvad gør vi dér?
+
+23:22
+Vi gør det samme som heroppe, men på en lidt anden måde får vi sat op i lidt mere generelle ramme.
+
+23:27
+Vi skriver vores betingelser op igen. Flow går en gang til, og nu kommer den generelle måde som.
+
+23:43
+Som regel vil bruge eller trykke bruge denne hver gang. Se i stedet for nu at skrive min min min vægt, der faldt herover.
+
+23:57
+Så skriver jeg det som en matrix gange. X y.
+
+24:03
+Og se hvad I står i den matrix. Der skal altså stå her. Vi skal jo have et skal stå nul her.
+
+24:09
+Der skal stå mine og se her. Så skal der stå en hær, og så skal der være en nul, der så ganger denne her én.
+
+24:15
+Så får jeg mine Ozzy på Aspas, Spas og Forex på i Flash!
+
+24:21
+Jeg kunne også lægge en konstant til hvis det var nødvendigt. Den er i dette tilfælde 0,0.
+
+24:27
+Sådan nogle vækster felter, der kan skrives på denne her måde.
+
+24:32
+Katten vil den, hvis jeg stod γ i hjernen her. Så kan ikke lade sig gøre hvis.
+
+24:36
+Du kan ikke skrive det som en matrix med tal i plus en søjle væk med nogle tal i.
+
+24:42
+Hver gang en vektor i. Sådan nogle weltervægteren felter, der er på den her form for du står en matrice med tal.
+
+24:48
+Der står en lektor med tal her, og så står der ikke syg herover eller eventuelt ægge syge z, hvis der er tre koordinater.
+
+24:53
+Dem kalder vi vægteren felter af første grad, og det er sådan nogle, vi vil behandle i mad og ikke andre.
+
+25:00
+Så der er et vægtet felt af første grad. Og så genkender jeg også det her fordi at nu går vi jo bare sådan set skrue tiden tilbage.
+
+25:14
+Sådan cirka til slutningen af sidste år, hvor Michael han viste jer, hvordan man løser sådan noget.
+
+25:20
+For det er jo egentlig bare et simpelt system af koblede linje af differentialligninger første år.
+
+25:27
+Og hvordan man gør? Ja, det burde sidde lige i skabet. Ikke fordi det var der.
+
+25:31
+Det er altid med til eksamen, så man den kan alle. Hvad er det?
+
+25:34
+Man gør jo et eller andet med, at man finder egne værdierne fra den.
+
+25:40
+Han vil også skrive løsningen nær dig, så hvis Lambda ét og Lambda 2.
+
+25:51
+Er egne værdier. For min kalender er matrix a A.
+
+26:02
+Og med tilhørende egne reaktorer.
+
+26:12
+Ved et for V2 er løsningen ex af u fly er u lig med en konstant set gange ind i lambda et 3 gange ved et egenvægt.
+
+26:32
+1 plus 2 gange 1 i lambda 2 3 ganget med 2.
+
+26:40
+Jeg kan godt se. Mabel spørger Tager matricen skrive igen væk.
+
+26:46
+Så har vi egen værdierne. Og så har vi egen vektorerne, meget let, og så putter vi to konstanter ind, der arbitrære,
+
+26:53
+og det er jo så dem, der skal bestemmes ud fra vores start skal ting til vores vi koloni.
+
+26:59
+Alt var rart, hvis bare at de der var reelle, for så ville de det også blive reelle, og så de da også kunne vælge trailer.
+
+27:10
+Og så ville alt være lige ud af landevejen. Desværre. Er egenværdier eller for den der matrix komplekser når de bliver komplekse.
+
+27:19
+For lidt større arbejde, men ikke meget større. Se når vi har komplekse egenværdier for en reel matrix, så er der et eller andet med,
+
+27:29
+at så kan vi skrive den fuldstændig reelle løsning som en konstant se, som er komplekst ganget ind i lambda t, hvor det er en egenværdi for den der.
+
+27:42
+Gange en egenvægt som vi kan kalde bare ved. Plus, og så får vi nemlig for den der system matrice.
+
+27:52
+Den er reel, så vil den anden egenværdi være den komplekst konjugerede til den og den anden egenvægt, hvormed være den komplekst konjugerede til den.
+
+28:00
+Og hvis jeg så vælger konstanten til at være den komplekst konjugerede, er den konstant.
+
+28:07
+Jamen så får jeg kun reelle løsninger ud, selvom alt der står der er komplekst.
+
+28:15
+Så det er forklaringen. Man kan også godt forstå det, hvis komplekst konjugerede det og lægger det sammen med det her.
+
+28:22
+Hvad sker der så? Jamen, så sker der jo det med at lave de to sammen.
+
+28:25
+Jamen, så trækker de de to imaginær dele, er de jo lige store med modsat fortegn.
+
+28:29
+Vupti, de forsvinder. Og så får jeg to gange reel delen af det, der står nær den samme som to gange real del af.
+
+28:37
+Se gange ind i lam dating gange ved.
+
+28:45
+Så langt, så godt. Så er det bare at få fundet den der lambda og få fundet den der egen vægt, så der skal vi gøre det.
+
+29:00
+Vi gør det. Det er meget godt lige at repetere det, og jeg kan simpelthen ikke huske, om der er sådan en opgave på programmet til ugens test.
+
+29:11
+Det kan vi jo ikke bruge Mabel. Så må vi hellere lige se, hvor vi kan.
+
+29:15
+Vi kun komme ned til flov over, at klokken er drøner af sted.
+
+29:20
+Jamen, jeg skal lige lære at forklare os.
+
+29:25
+Den. Nu gælder det at gøre det derude.
+
+29:32
+Det er ikke noget stort arbejde, så vi siger vores system matrice a. Den hedder nul minus 1 1 0.
+
+29:40
+Vi skal have trukket langt og et diagonalen taget determinanten, så nu siger vi så hvad er et?
+
+29:45
+Determinanten er a.
+
+29:50
+Minus lambda i enheds matricen.
+
+29:54
+Og så skal vi sætte lig med nul. Det er jo måden, vi finder vores egne værdier på.
+
+29:59
+SAS har en alarm fra et diagonalen. Her tager determinanten af den, der står minus lambda minus 1 1 minus lambda.
+
+30:07
+Så trækker den gang i den. Det giver larm, da hjernen minus den gang i den giver minus minus 1 pludselig skal være nul.
+
+30:15
+Og så er det ret tydeligt at se, at folk kører langt før være lig plus minus 1.
+
+30:20
+Ellers kan vi ikke fortælle om, hvad egen vektorerne.
+
+30:25
+Ja, hvordan finder vi egenvægt vektorerne? Vi trækker egenværdi ind fra haven, behøver kun at tage den øverste række med,
+
+30:32
+fordi den nederste del vil automatisk være lineært afhængig af den øverste, fordi ellers ville det ikke være en egenværdi.
+
+30:39
+Så jeg tager bare og trækker, så du for eksempel igen og trækker en fart op.
+
+30:43
+Så får jeg så minus i min den exit og så her minus 1 gange.
+
+30:51
+X2 er lig med nul, og så er det ret tydeligt at se, at en egenvægt tager hér, som har koordinaterne ikke er der.
+
+30:58
+X2? Hvad kunne den være? Min ryg, den højre øje for X2. Den er et.
+
+31:03
+Og så er eller er undskyld exit. Den er ét og fair.
+
+31:08
+Hvad skal X2 sig værd? Der skal være minus i sådan så til egenværdi værdien hørende til værdien i.
+
+31:17
+Der har vi så en egenvægt der. Og den anden er den konjugerede til den får vi aldrig hvorfor?
+
+31:23
+Og der var lidt mellemregninger her over på vores flade papir. Så går vi i gang med at skrive vores løsning op.
+
+31:29
+Vores løsning er ikke ser ud, fylde dem bliver, så nu kan jeg så kalde mine konstant øvelser to gange.
+
+31:38
+Real delen er min konstant ser et plus i Z2.
+
+31:43
+Vi melder lige kalde den noget, så den til at regne på, hvor der nu er reelle tal.
+
+31:48
+Det er jo også komplekst konstant, og så skulle vi gange med ind i én ting.
+
+31:54
+EU. Fair. Og så skulle vi så gange den med den egenvægt, hvor vi fandt en minus i.
+
+32:07
+Så en anden. Og så er det bare at køre dig ned af den, hvis du bare at regne ud to gange hvad?
+
+32:14
+Så kan vi se, at vi nu kun har nul rige. En del af det ikke så alt det imaginære, det forsvinder.
+
+32:19
+Vi kan også lige huske på, at den der i u hedder cosinus 20 plus i minus 20.
+
+32:26
+Det var dem og arver deres fortalte os det. Så nu skal den øverste række først kantareller, man kan har fundet ud af.
+
+32:33
+Den hedder, så den gør ingenting. Når jeg så ganger DR's ham. Så kan jeg få at se ét ganger, noget cosinus.
+
+32:38
+20. Det giver alt. Jeg kan også få især to gange i finansloven.
+
+32:44
+Det giver så minus til 2. Signe og 7, der skal have den nederste række her.
+
+32:50
+Så jeg skal kun have noget imaginært herover for at jeg skal i gang med IT.
+
+32:55
+Sidste skal jo være reelt. Så her kan jeg så sige se ét gange denne her.
+
+33:01
+Det giver en gang sin motion, og så kommer der jo så ind i på gangene med minus.
+
+33:07
+I er også blevet til et tal for ned at se en gang finjusteret.
+
+33:12
+Så tager vi den anden. Vi skal også have denne gang i 2 gangen cosinus, men gange med i det giver det tal pludselig to poser,
+
+33:20
+og så jeg det lige til at regne ud uden egentlig de store Børge.
+
+33:24
+Det er næsten nemmere end egentlig Mabel. I virkeligheden skulle tage os. Den er ind.
+
+33:31
+Her står Løsning. Vi er færdig. Vi har fundet flow. Vi kunne fløjten.
+
+33:36
+Men så skal nogen have inde at sidde og se, hvordan bare det nu lige det væk faldt. Det så ud så lige her.
+
+33:45
+Hvordan ser flow kurverne egentlig ud for sådan et faldt der? Det tror jeg også godt, vi kan se.
+
+33:50
+Det er vel noget, der roterer her. Det ligner cirkler. Det ligner endda koncentriske cirkler.
+
+33:58
+Er det dem, der er gode til at se på kurve, og at de kan sige ja?
+
+34:03
+Er det dem, der er mindre gode til det, de kan sige? Hvad kunne vi gøre ved det her?
+
+34:08
+Vi kan jo sige denne her om det ex. Og den er det y.
+
+34:12
+Så hvis man skal undersøge, om noget end virker, så kan det måske være en meget god ide at se på Excel i anden glossy Jan.
+
+34:19
+Det er jo synd at undersøge om ting er cirkulær.
+
+34:21
+Hvis man har en parameter stående, tager man ikke andet pussy an, hvis det kan skrive, hvis der bliver konstant.
+
+34:26
+Her er en cirka. Og den konstante giver.
+
+34:30
+Det er jo så radiosenderen. Lad os undersøge om det er rigtigt. 2 tallet får vi selvfølgelig med.
+
+34:37
+Jeg skal altså tage export i natten her i anden. Det vil sige, jeg får et firtal fra det totalitære.
+
+34:43
+Så kan jeg tage den anden, og det er vel også herfra, den der i anden plus den der hjernen pludselig dobbelt produkt.
+
+34:51
+Og så skal jeg tage hjernen. Derfor går jeg, der i anden blev sendt i anden.
+
+34:58
+Plus det dobbelte produkt. Men bemærk det dobbeltdøre produkt hér og det dobbelte produkt her.
+
+35:03
+De er ens, men med modsat fortegn, der indgår fuldstændig de samme faktorer.
+
+35:08
+Men de har hver deres fortegn, så det er vel godt nok forsvinder i begge situationer, så jeg får kun den anden.
+
+35:14
+Jeg får altså se set i anden og så cosinus i an 20, og så får jeg den her.
+
+35:19
+I anden må jeg jo lige tage den ned først, da jeg så serier i anden sinus hjerne.
+
+35:25
+Så får jeg et plus. Så får jeg denne Z2 i Sinus hjerne 20, og så får jeg dermed så i anden cosinus hjerne.
+
+35:37
+Jo, og hverken fordi vi gerne se se ind i hjernen.
+
+35:42
+Tale i Anders kom udenfor parentesen står der Coteaux hjerne, cosinus, hjerne.
+
+35:46
+Det så vi de sidste par gange. Det er et tal, for alt i alt får vi her.
+
+35:52
+Sidde i anden sal 2 eller eller derfra sælgeren og tilsvarende ned fra 2.
+
+35:57
+Jan. Så vi er færdige nu kan skrive ikke sige andet pussy i anden halvleg.
+
+36:01
+Fire gange set i anden plus to. Sådan.
+
+36:06
+Hvad er det her for noget? Det er tal den konstant.
+
+36:11
+Det er cirka det her. Og hvad for en cirkel er vi på? Det afhænger af konsonanterne.
+
+36:16
+Og det kan vi så bestemme ud fra, hvor vi smed vores flamingo kugle ind for eksempel.
+
+36:23
+Så har vi radio's i den cirkel, vi bevæger os på. Der er flow bestemmelser i den vildeste form det her.
+
+36:32
+Men det er klart hvordan bestemmer I et lovkrav, at vi skal bruge hele dagen og vi i gruppeværelset?
+
+36:38
+Jamen da kunne man jo for eksempel sige, at når den skulle se en klovn,
+
+36:47
+der kunne man jo for eksempel sige lige så snart I var her eller faktisk ingen gang ville lige nå til.
+
+36:54
+Fordi vi jo ikke mærke U er lig med minus, ikke så.
+
+36:59
+Og så ville det jo udemærket ud lige med her.
+
+37:03
+Ex er jo inde i et par Tuborg komma imellem de to differentialligninger, og vi skal jo lige solgt den der system ex.
+
+37:12
+Karmøy og udvide får ikke det her. Heller ikke her I vil direkte får.
+
+37:19
+Det der står den. Det ville være det ud.
+
+37:23
+Jeg vil ikke være totalt med, fordi Total vil Mabel smide ind i de konstanter, som man ikke kunne se.
+
+37:28
+Det er jo lige meget om det står lidt overflødigt tog sig. Det kom bare med i vores beregninger.
+
+37:33
+Så det er måden i bordet, Mabel. Men I skal ikke. I skal passe lidt på.
+
+37:38
+For som sagt ugens test. Der kommer altså også nogen her jo ikke skal bestemme, men selvfølgelig noget simplere.
+
+37:44
+I kan ikke nå at lave det her på en time, og så ti af dem selvfølgelig. Men altså, der kommer i Mabel Emil Stær.
+
+37:49
+Der kommer noget, hvor I skal lave det? Ja.
+
+37:54
+Det er jo det, der er det værste. Nu bliver der ikke noget slemt med i dag. Ja, det har det hele.
+
+37:59
+Det var virkelig svært, for vi skulle jo ikke, at der var noget som helst værdi i nogen som helst beregningerne.
+
+38:03
+Men det var alt sammen noget, som lå langt tilbage.
+
+38:07
+Komplekse tal, og det er der, jeg synes, at det var dumt af mig ikke at tage det mere, for det viser jo, hvorfor har vi lavet alt det her?
+
+38:14
+Hvorfor startede med komplekse tal? Hvorfor er de vigtige for en ingeniør? Det her er et fuldstændig reelt problem.
+
+38:19
+Der er intet med komplekse tal, der gør, at vi er nødt til at skære en tur over for de komplekse tal for at løse det.
+
+38:24
+Vores reelle problem er ja. Godt, så skal vi lige have noget lært, inden vi går til pausen.
+
+38:36
+Så jeg hvisker. Ca.
+
+38:51
+Herfra flyver han om at finde ud.
+
+39:01
+Godt, der er ikke nogen af Mabel demo til dette, og det er der jo ikke fordi den er der fra sidste år var ikke store,
+
+39:09
+da semesteret sidst sidste år har et system af differentialligninger frisk eller finde den, hvis I vil bruge den i dag godt.
+
+39:19
+Vi skal se på nok den allervigtigste type vækst, så felter vi ikke kan komme i tanker om end dem der hedder gradient felter.
+
+39:29
+Og hvad er et gradient felt? Ja, det er et væg felt, hvor V er Gratian.
+
+39:35
+Den vil godt skrive det lidt mere specifikt ud. Hvis jeg ikke kommer ud, er gradient.
+
+39:41
+Den er en funktion. Her kunne jeg også have puttet en z koordinat på, men det er kun, at det kan der stå.
+
+39:49
+Men vi gør det ikke lige her, for det er nemmere at lede single plant. Og hvad så hvad er der givet her?
+
+39:56
+Dertil givet måtte altså en f er en glat funktion. En kvindelig vinter med glat med.
+
+40:05
+Det siger vi er den her før. Hvis den er glat, så kan vi sagtens differentiere den.
+
+40:09
+Og hvad kommer der? Hvad betyder Gratian den?
+
+40:11
+Det er jo et eller andet med, vi skal differentiere EF med hensyn til ex og sådan en funktion af de to variable.
+
+40:18
+Og så kan vi differentiere EF med hensyn til Y og Z, hvis vi er så heldig, at vores vækst har felt er givet som gradient.
+
+40:27
+En anden funktion. Så bliver alting fra nu af meget lettere, så det kan godt betale sig at bruge noget tid på at undersøge.
+
+40:36
+Er vores vægt tilfældet, må gradient en en funktion. Se vores nu vil beslutte os væk fra feltet gide som gradient med en funktion.
+
+40:44
+Vi har fået en funktion. Kunne vi tage gradient natten, så fik vi et væk, og så var vi jo ikke i tvivl.
+
+40:48
+Det er gradient funktion. Men typisk er ingeniør. Så har det ikke funktionen, man har givet, men så er det værktøj feltet.
+
+40:56
+Kan vi mon så finde den der funktion således at gradient denne portion giver fra feltet og det er det der stod valgte.
+
+41:04
+Årsagen var at det sidste stamme funktions bestemmelser. Kan vi mon finde en funktion f.
+
+41:10
+Det svarer lidt til at finde en sammensunkne. Vi kalder det et skalar på den. Kan vi mon gøre det?
+
+41:15
+Der kommer en teknik sidst i næste halvdel til, hvordan man gør.
+
+41:19
+Men før vi begynder at lede, så vil vi lige prøve at vise et eksempel og lave en nødvendig betingelse.
+
+41:27
+Her er det eksempel. Hvad med det her? Vi havde jo vores vægt felt.
+
+41:37
+Er det her mon et gradient felt? Gad vide om det er hvordan kan vi finde ud af det?
+
+41:53
+Ja. Den nemmeste måde er jo at gætte en funktion og så bare sige. Og så trækker den, når det passer.
+
+41:58
+Det gør jeg. Jeg siger denne her funktion. Den tror jeg er et godt bud.
+
+42:09
+Lad os prøve at bruge den. Lad os lige prøve at finde gradient den er den funktion jeg skal differentiere denne funktion med hensyn til ex konstant.
+
+42:19
+Noget bliver stående, så differentierer jeg den er ikke jernmands.
+
+42:24
+Konteksten giver 2x så differentierede. Den her giver nul plus size og giver den altså en halv gange 2x på anden koordinaten.
+
+42:33
+Der skal altså differentiere denne funktion med hensyn til by og symmetrien kirker.
+
+42:39
+At den giver en halv gange to i en halv og to efter hinanden, og så står der ikke kommer ind.
+
+42:46
+Heldigt. Det var lige præcis det værktøj felt, vi kiggede på. Så her er vi faktisk godt gjort ved direkte udregning, at dette er et gradient felt.
+
+42:58
+Og denne funktion er den der klarer ærterne for os, så det gradient fælt.
+
+43:04
+Og næste problem Hvad er klokken kvart tiden en rimelig tid lang nok.
+
+43:11
+Er jeg kommet til at bytte rundt på, lader vi lige stå. Og på samme måde så denne også gradient felt meget let at se.
+
+43:26
+Det er bare minus den funktion lige så. Dette er i øvrigt også et Gratian faldt væk, fordi i hvert fald én funktion kunne klare denne her.
+
+43:32
+Det kunne være et eller andet med den kunne hedde ex. +7.
+
+43:35
+Her differentierer den mellem synes jeg ikke, så for et det man siger, man synes syg, så må jeg jo set.
+
+43:39
+Så det var også et gradient felt. Men han flyver, og så kører jeg lige til at hviske videre.
+
+43:46
+Men den, der er det granitten, kan jo finde funktioner at differentiere den.
+
+43:51
+Så giver det min jozy, at de fortjente Mendelssohns sex. Og når man ser den med hensyn til Y.
+
+43:58
+Så giver den x.
+
+44:00
+Kan vi finde for, men det må jo være meget sjovt at stillede sig en opgave til at kunne sidde derhjemme og fryse røgen fra nu af til juleaften.
+
+44:07
+For det findes ikke. Man kan ikke finde sådan en funktion, og der er en meget simpel forklaring på det.
+
+44:14
+Og forklaringen er følgende.
+
+44:16
+Det er, at hvis jeg tager en funktion og differentierer den med hensyn til ex og så med hensyn til øl er det samme som under.
+
+44:29
+De er jo glatte funktioner, alter, pander, definition formåede da flot og så videre, så er det det samme som.
+
+44:36
+Den dør man kan, det har vi set flere gange, at man kan blive ombyttet differentiation rækkefølge.
+
+44:44
+Hvad kan vi bruge det her til? Jo, når vi skal undersøge her et tilfældigt vægt, så faldt V.
+
+44:52
+Det har jo altså koordinaterne vi kaldte den vi ex. Eller måske skulle hellere kalde den ved et og ved de diffusion er ikke så i.
+
+45:02
+Nu antager jeg uden at vide det nu antager jeg, at dette er et gradient felt, det vil sige at den der kan skrives som det f.
+
+45:09
+Eks. Og den der kunne skrives som det f.
+
+45:19
+Så kunne jeg så gå op her og sige okay, hvis det er gradient felthær. Det vil sige denne her at tage den.
+
+45:26
+Denne her med et talent. Så kan jeg sige denne her. Derefter er jeg ikke den ene af dem.
+
+45:32
+Kan jeg skrive som det nye. Er det efter jeg ikke?
+
+45:36
+Det er jo bare det, der betyder det her. Ikke at jeg først differentierer med hensyn til X.
+
+45:39
+Og så differentierer hver for manden sindssyg. Det, der står her, er jo min ved et.
+
+45:48
+Søndag. Men det skal jo være det samme som denne her år,
+
+45:54
+hvor jeg altså først differentierer nu med hensyn til ex og så bagefter differentierede den med hensyn til.
+
+46:02
+Men det her er jo det samme som den er det jo V2. Og så står der den.
+
+46:09
+Der skal altså være magen til den der.
+
+46:15
+De to skal altid være ens. Ellers kan ikke lade sig gøre.
+
+46:21
+For jeg sagde jo lige at den her vi sagde Okay, vi antager det at gradient faldt, så skal være opfyldt.
+
+46:28
+Det er altså åbenbart nødvendigt for at gør det anfald, at de.
+
+46:31
+Vi kender jo nu alle de kryds afledet for at differentiere den herover med hensyn til og den her med hensyn til.
+
+46:38
+At de her krydsord og livet skal være ens. Så nu skriver jeg det op her. Nødvendig betingelse. For at V er et gradient faldt det er, at det ved et d.
+
+47:03
+Y er lig med det med 2 x.
+
+47:10
+Hvis det ikke er opfyldt, så kan vi godt glemme det. Så er det ikke, så tjekker vi lige vores her.
+
+47:15
+Denne her kage skal vi se. Hvad er her?
+
+47:19
+Det ved et debut. Man skal altså tage den differentierede den med hensyn til øy.
+
+47:25
+Det giver minus 1. Jeg skal tage det. 2. Det er X.
+
+47:31
+Det giver ingen. De er ikke ens, de to lærer, så det kan ikke lade sig gøre.
+
+47:36
+Jeg kan ikke finde noget, der kan sige hvad nu, hvis der havde været tre variabler.
+
+47:41
+Du sagde, at vi gjorde det på et plan væk fra felt. Det er lidt hver onsdag.
+
+47:46
+Hvis vi sad tre variable eller fire, men tre variable.
+
+47:50
+Hvad sker der hvis alle tre variable? Så har vi jo både en ved et med 2 og med 3, og vi har en syge Z.
+
+47:57
+Og så skal alle de der kryds afledt altså være ens, hvis de skal lade sig gøre.
+
+48:03
+Det vil sige, denne her skal være opfyldt, men der skal også være opfyldt en, der hedder det vil tre.
+
+48:09
+Det ex er lige med det vil et det sæt.
+
+48:16
+Og en der hedder det ved hvad hedder det, vi tog det sæt af lig med det y.
+
+48:25
+Der er altså tre betingelser, man skal tjekke. De skal alle tre være opfyldt, for at det kan betale sig at gå videre.
+
+48:31
+Ellers er det ikke et radikalt fald. Der skulle du ikke skrive dem op, så vi jeg slå dem i Norton.
+
+48:35
+De står i noterne, så jeg gider ikke at skrive dem, tror jeg. Med de utilfredse skrive er, men vi kommer tilbage til dem om kort tid.
+
+48:43
+Jeg tror ikke I får brug for andet end denne her, for lige præcis den nemme måde at tænke det på.
+
+48:48
+Det kommer jeg senere. Så vil nogen sige Jamen, er det da okay, hvis det bare er opfyldt?
+
+48:54
+Er det så okay? Nej, for det er en nødvendig betingelse. Så stor en nødvendig betingelse.
+
+49:01
+Så en nødvendig betingelse betyder, at det her skal være opfyldt. Men det kan sagtens være, at det er opfyldt, og så er det ikke et gradient felt.
+
+49:09
+Det skal jeg vise et eksempel på efter forelæsning. Han ikke efter første i anden halvleg.
+
+49:15
+Men hvis I vil vide det inden i går, ud bare kort. Hvornår er det en nødvendig betingelse?
+
+49:19
+Det her er blot anden tilstrækkeligt også ved det rigtigt. Det afhænger af, hvad området vægter.
+
+49:25
+Feltet er defineret på områdets topologi. Siger man også, så det vil jeg lige sige kort, når der kommer en Janna.
+
+49:31
+Så er vi færdige med, at vi holder pause til to minutter. Og.

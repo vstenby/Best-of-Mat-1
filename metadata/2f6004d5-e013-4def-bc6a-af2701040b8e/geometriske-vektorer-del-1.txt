@@ -1,0 +1,965 @@
+0:04
+Og kage folkens. Velkommen til, så er det så er det fredag, og her er det ikke dejlige oktober.
+
+0:22
+Solen skinner, og der er efter at have stukket. Det håber jeg ikke glemmer.
+
+0:28
+Gade og formel om vi er lige nu faktisk halvt igennem første halvdel af kurset.
+
+0:38
+Mine damer og herrer, det skulle der stort. Så der er meget at være glade for.
+
+0:44
+Fredag er efterårsferie og det hele når kan programmet i dag.
+
+0:50
+Er vægttræning og meget af det vil være.
+
+0:57
+En meget direkte refusion af hvad I har set i gymnasiet. Det handler meget om lige at få hvad skal man sige?
+
+1:05
+Fund, slået nogle skrivemåder og nogle ord fast, sådan at vi taler det samme sprog.
+
+1:12
+Og så er der måske en enkelt ting til sidst, som jeg ikke har set før, men det allermest.
+
+1:18
+Alle vil nok falde jer meget nemt på den måde, at I har set det før, og vi vil snakke om vægt to ord, og vi vil give vektorer koordinater.
+
+1:28
+Og I vil se det, som vi ved i forvejen,
+
+1:30
+nemlig at man kan regne med vektorer ved bare at regne med deres koordinater for noget, vi skal snakke lidt om.
+
+1:37
+Parameter, fremstilling af forskellige ting så som sådan er det, tror jeg.
+
+1:43
+En lidt blød gang så længe tilbage og slapper af, så lad os se på det sæt prøvede.
+
+1:57
+Så lad os se på det. Vi skal lige kort snakke om hvilke over.
+
+2:09
+Og så skal vi snakke om parameter fremstillinger. Og det er jo noget som vi allerede har brugt.
+
+2:27
+Så det vil ikke komme bag på jer. Jeg er nødt til at lukke dørene. Jeg går har.
+
+2:33
+Var gift med børn. Og når så skal vi snakke lidt om bagefter.
+
+2:42
+Og vi skal snakke om lineær uafhængighed. Løb som er et begreb som er umådelig vigtigt, ikke bare i lineær algebra vægttræning,
+
+2:58
+men også senere, når vi skal til at snakke om differentialligninger.
+
+3:02
+Der vil blive mindet om det igen, og så skal vi til at snakke om noget, som vi slutter med her.
+
+3:07
+Altså basis skifte. Det er noget som.
+
+3:17
+Hvad skal vi der, er det meget, meget vigtigt, at man lærer den notation vi bruger, for ellers kan det godt, kan det godt drille.
+
+3:25
+Og så er der til alt det her er der selvfølgelig noget med Able.
+
+3:33
+Og endnu en gang det vil jeg ikke spilde min tid med at stå og bladre igennem her, så jeg vil bede jer om,
+
+3:41
+at det er noget af det første laver, når I, når jeg går over til øvelser, ikke lige at få åbnet jeres mave, da jeg må finde ud af, hvad er.
+
+3:48
+Hvad er de rigtige ord til det her?
+
+3:53
+Og så er der også noget med. Der er en anden måde et andet program man kan bruge til at tegne vektorer.
+
+4:01
+Noget med dæk får lov til at lege med, så lad os kigge på det stille og roligt.
+
+4:07
+Hvis vi nu lige. Hvis vi nu lige snakker om.
+
+4:15
+Om planen allerførst Der vil ikke være den store forskel på det vi gør i plan og i rum.
+
+4:22
+Men når vi snakker om planen, så kunne det jo bare være tavlen her for eksempel.
+
+4:28
+Så skriver man sit. Ærlig anden og en anden måde at skrive er hjernen på.
+
+4:37
+Det er denne måde er kryds er, og så kan man sige det har jeg ikke set før.
+
+4:42
+Hvad er nu det? Det er ikke så slemt. For det betyder bare, at hvis man står i planen.
+
+4:49
+Hvis man så har koordinater, så skal man jo have to, og det vil sige, hvis jeg har et eller andet et ekstra komma x2, der ligger i R i anden.
+
+5:02
+Hvis man skriver det på denne her måde, så betyder det bare, at første koordinaten er et reelt tal, og anden koordinaten er et reelt tal.
+
+5:09
+Det skriver man bare sådan her. Tilsvarende, hvis det er tre, så var der tre koordinater, og så var man i rummet.
+
+5:16
+Så når man siger planen, så ser man lige så tit er jamen, når man ser rummet, ser man tit er i tredje.
+
+5:24
+Og der er ikke nogen forskel i virkeligheden. På er i anden i tredje og er i 27.
+
+5:30
+De opfører sig fuldstændig ens. Så det vi så det vi kommer til at gøre her, selv om vi siger, vi er i planen eller rummet.
+
+5:40
+Så kunne det lige så godt være jer er i 27, hvis det var og opfører sig fuldstændig på samme måde.
+
+5:47
+Okay, så det var bare noget notation. Men hvis jeg nu tegner sådan en pil her.
+
+5:56
+I planen. Hvad udmærker den Pihl sig så, ved jeg jo.
+
+6:00
+Den har en bestemt længde, og den har en bestemt retning, og hvis man så gerne vil lave vægt ture, så ser man okay.
+
+6:08
+Det her er så det, jeg kalder en repræsentant for en vægter, som hedder væk, tager af og så sætter en pil over det.
+
+6:18
+Ja, eller over bogstavet. Og der kan man diskutere, om det er det fornuftigt.
+
+6:24
+Nogen sætter en streg over for at markere, at det er en vektor og en vægter.
+
+6:30
+Hvad er det? Det er en mængde af lige lange og ensrettede pile.
+
+6:36
+Det er den definition I kender fra gymnasiet er en mængde, og det vil sige det jeg har tegnet.
+
+6:41
+Her er en repræsentant for en vektor.
+
+6:46
+Vægteren hedder Vægt tager af, men det er bare en repræsentant, jeg har tegnet.
+
+6:50
+Jeg kunne lige så godt have tegnet. Repræsentanten heroppe.
+
+6:55
+Det er stadigvæk repræsentanter for den samme vægt, så det er lidt vigtigt at forstå, at en vægtere ikke ligger et bestemt sted.
+
+7:05
+Som udgangspunkt er en vektor en mængde lige lange ensrettede pile.
+
+7:11
+Nogle giver dem bare strejf over, det vil vi ikke gøre for, og så kunne man tro, at det havde noget med komplekse tal at gøre.
+
+7:19
+Og man kan også godt sagtens snakke om komplekse vektorer. Det kommer vi til.
+
+7:23
+Og når man så sætter konjugerede streger over, jamen så laver man altså en komplekst conn.
+
+7:28
+Og det er ikke det, jeg mener. Så her mener jeg bare, at det skal være en pil.
+
+7:33
+Senere vil vi også bruge notationen, hvor vi faktisk bare sætter streger under for at markere det vektorer.
+
+7:40
+Det er meget hensigtsmæssigt. Men lige nu lige nu også når vi laver det, vi kalder geometriske vektorer,
+
+7:48
+så nogle rigtige ting, vi bare kan tegne her, så bruger vi det der pile symbol.
+
+7:53
+Og det var bare for at slå spillereglerne fast. En vektor er en mængde af lige lange ensrettede pile.
+
+8:03
+Hvis man så har flere vektorer med sig nu for eksempel har det her det også er vores vektor a.
+
+8:11
+At den er allerede helt skæv, men altså pyt med da vi abstraherer.
+
+8:17
+Så her har jeg tegnet repræsentant for vækster A. Så kan jeg her tegne en repræsentant for en anden vægter.
+
+8:28
+Og hvad kan jeg så gøre? Jamen, der er jo de her forskellige vækster operationer.
+
+8:33
+Man kan lægge vektorer sammen, hvor man kan trække dem fra hinanden, og det ved vi udmærket, hvordan man gør.
+
+8:40
+Så jeg vil bare lige minde jer om, hvad vi for eksempel også kunne gøre.
+
+8:44
+Man kunne lave en vægter. Som sluserne derude, og det ser lidt ud som om at denne er lavet på.
+
+8:59
+På denne her måde. Den væk ved jeg har lavet det her.
+
+9:07
+Hvad er det i virkeligheden? Det ser ud som om jeg har taget to gange væk tager af.
+
+9:14
+Og så oveni den har jeg lagt vægt bag. Altså de må bære lidt over med min tegning kan især det.
+
+9:24
+Er og kan. For det er jo fredag.
+
+9:29
+Man må godt så være lidt skæv, hva så? Eller tegne det skæve gang?
+
+9:35
+Nå ja, så poesi.
+
+9:39
+Hvad har vi gjort her? Vi har skrevet en væg til væg.
+
+9:43
+Den har vi skrevet ved hjælp af to på forhånd givende væg.
+
+9:47
+To ord. Så noget her, så er det et udtryk her.
+
+9:53
+Det kalder man for en Dinart kombination. Lille A kombination af vektorerne A og B.
+
+10:15
+Og.
+
+10:17
+Som vi måske kan forestille jer, kan jeg jo tage enhver væg, der ligger her i planen og på en eller anden måde skrives som en kombination af de to.
+
+10:24
+Det er forholdsvis simpelt, og også der er et spørgsmål her.
+
+10:29
+Hvis. Kan man godt kalde det, at kun jeg gerne væk.
+
+10:36
+Når man finder den sværvægter. Nej, det kan man faktisk ikke. Fordi.
+
+10:43
+Konsolidering er komplekse vektorer er noget andet. Man kan ikke geometrisk tegne en kompleks.
+
+10:51
+Vector af den simple grund at den er Hvad skal vi set den?
+
+10:55
+Den er den. Den har fire dimensioner. To dimensioner på den førsteplads og to dimensioner på den anden plads.
+
+11:04
+Og hvis man komplekst konjugerede et kompleks, funderer man det hele, så det kan man ikke.
+
+11:10
+SVÆRVÆGTER er jo ikke kun defineret i planen. Det skal man lige være klar over.
+
+11:15
+Og kan nå tilbage til det her. Lennart Kombination det kalder man det her, man siger også, hvis man gør det her.
+
+11:25
+Man siger også at den vægter ved at vi har fat i her. V er opløst.
+
+11:38
+Efter. Vægt sig af.
+
+11:44
+Og vægttabet. Og det er vi lige skal forestille jer det sådan lidt.
+
+11:51
+Det som er vigtigt hen hen ad vejen her, er, at hvis man nu skal kommunikere med folk, der ikke nødvendigvis kun set kan se det, man tegner.
+
+12:04
+Hvis nu for eksempel jeg var i telefonforbindelse med julemanden.
+
+12:11
+Så vil jeg gerne forklare ham hvad værktøjet var for noget.
+
+12:14
+Hvad skal jeg bruge tilbage, når Venstre julemanden vidste, hvad vi så af, at vægttabet var?
+
+12:21
+Så han havde et stykke papir oppe på Nordpolen eller Finland, hvor fanden er julemanden bor?
+
+12:27
+Så kunne jeg bare sige til ham Kære Julemanden, den vækster vi har fat i.
+
+12:33
+Det er vægteren, der hedder to a plus en B. Det vil sige, jeg kunne bare sende Tjalfe et 2,11 til ham.
+
+12:42
+Kan I sætte jer? Så kunne han oversætte. Og så kan han se, hvad det var for en vægter.
+
+12:48
+Så når man har udvalgt sig for nogle vektorer a og b, så man kan opløse vektorer efter.
+
+12:57
+Så kan man og skal repræsentere vektorer på en meget snedig måde, nemlig ved hjælp af det der hedder deres koordinater, og det vender vi tilbage til.
+
+13:07
+Så det her er en opløsning. Godt, så lad os lige gå over til at kigge lidt på.
+
+13:17
+Ja, planen. Så hvis vi nu er i planen.
+
+13:23
+Altså der er ingen forskel på. Hvis jeg også gør det her i rummet, så.
+
+13:29
+Måske skulle jeg sætte det her i parantes.
+
+13:35
+Så man kan kun se forskel på det jeg laver nu, om det er planen eller rummet, hvis man regner i koordinater for.
+
+13:43
+I planen skal man have to, og i rummet er man nødt til at have tre, så lad os lige kigge på det.
+
+13:48
+Hvis man så i planen indfører et eller andet begyndelse på, som man plejer at kalde O.
+
+13:54
+Det hedder også ord i går. Og det er sådan et eller andet sted hvor man sidder.
+
+14:02
+Her er verdens navle. Det er vores begyndelse på. Hvis man så har et eller andet andet punkt liggende i planen.
+
+14:10
+Det kunne så være punktet p, der ligger her. Så kan man jo snakke om vægteren, der går fra.
+
+14:18
+Og TP, og den kalder man vægtere Ove P.
+
+14:23
+Og giver sig stridigheder. Op s.
+
+14:29
+Det kalder man en stadigvæk vægter. Stadigvæk så for punktet p.
+
+14:45
+Og det har I jo nok også set. Hvis man så gerne vil beskrive en linje.
+
+14:53
+Der går igennem det her punkt, som eventuelt kunne være givet på forhånd.
+
+14:59
+Så kunne linjen jo måske. Hvad vil jeg se sådan her ud? For dette er det vores linje L.
+
+15:08
+Hvis man så skal beskrive sådan en linje på en hensigtsmæssig måde,
+
+15:12
+så en af måderne at gøre det på er at sige jamen okay, lad os tage en vægtere, der ligger på linje, og det går.
+
+15:21
+Det kunne for eksempel være denne her. Så nu har jeg tegnet en lille fed sag her.
+
+15:29
+Og en vægter der peger i en linjes retning, der hedder en retning subjekter, og læg mærke til at der er uendelig mange retnings vektorer.
+
+15:39
+Jeg kunne have valgt en der lå her eller dér. Eller hvad ved jeg. Og når jeg tegner den på denne her måde, som om den starter i P.
+
+15:48
+Så er det jo bare for at have en pæn tegning med retnings vektoren fortæller bare hvad retning linjen lever i.
+
+15:55
+Og oveni det skal man så have at vide, hvad for et punkt jeg gav dem, for at de nu er bestemte og gav retning væk.
+
+16:03
+Så en dag kunne så for eksempel hedde vægtere er så. Er det en retning, så vi ikke tager.
+
+16:17
+Og hvis jeg nu for eksempel tager et eller andet andet punkt på denne her linje.
+
+16:23
+Jeg kunne for eksempel tage punktet her. Det kunne hedde Q.
+
+16:28
+Og hvis jeg så lige kigger på den vægt, der ligger her.
+
+16:36
+Så er det jo stadigvæk terroren til punktet Q, som ligger på denne linje.
+
+16:41
+Kan I sådan? Og hvis jeg kigger på min tegning vupti så må den vægtere der hedder Knud.
+
+16:51
+Hvordan kan jeg skrive den? Hvordan kan opløse den ved hjælp af det jeg kender?
+
+16:56
+Når jeg kan tage P. Vupti.
+
+17:01
+Så kom jeg op på linien. Og så kan jeg løbe herhen.
+
+17:06
+Det ser ud som om, at det er to gange værktøj er krisetiden. Ah!
+
+17:18
+Jamen, det fortæller jo lidt hemmeligheden om hvordan man kan beskrive denne linje.
+
+17:23
+Fordi jeg kan bare tørre dem der stadigvæk så.
+
+17:29
+Så ryger jeg op til et punkt på linjen.
+
+17:32
+Og så kan jeg finde ethvert punkt på linjen ved bare at lægge et eller andet antal gange er til det, kan I se det?
+
+17:40
+Hvis jeg nu står her, så var det 3. Hvis jeg nu står hernede, så var det måske minus tre eller minus fire.
+
+17:45
+Er det er sådan, det vil sige, at linjen ædes?
+
+17:53
+Parameter. Fremstilling? Parameter fremstilling.
+
+18:05
+Er jamen så kan vi simpelthen skrive den op. Det er alle punkter, der ser sådan her ud.
+
+18:11
+Ro p plus et eller andet gangen. Vores retningslinjer værktøj, hvor t kan gennemløbe de reelle tal og navne parameter.
+
+18:22
+Det kommer fordi det er sådan en variabel. Så hvis jeg vælger T til at være 27, så står jeg herude ved sit valg af T til at være mindst to.
+
+18:32
+Så står jeg her. Og ved at lade the gennemløbe alle de reelle tal, så gennemløber jeg hele linjen.
+
+18:41
+Hvis man nu var i planen, og havde selv valgt et eller andet sædvanligt koordinatsystem liggende her oppe.
+
+18:49
+Det vender vi tilbage til. Så havde man jo to koordinater, og så kunne man jo sige.
+
+18:56
+Ved hjælp af det her er et eller andet punkt x, som hed x et komma X2.
+
+19:03
+Det ville ligge i denne plan, hvis det var sådan at vi kunne skrive X eter ex tog på følgende måde.
+
+19:13
+Den er væk, så den ville jo så have nogle koordinater i det her koordinatsystem.
+
+19:19
+Det ville jo være punktet PETs koordinater. Skal vi ikke bare kalde lille et komma p2.
+
+19:25
+Så det punkt p. Og så har vi vores te.
+
+19:32
+Og så har vi vores retnings væk, så den kunne have en koordinator, der er et og er to.
+
+19:36
+Og jeg ved godt, at vi ikke formelt har indført coordinator endnu. Men I ved jo godt, hvad det er for det her.
+
+19:42
+Det er bare lige for at bringe jer tilbage til det, som helt sikkert har set i gymnasiet.
+
+19:49
+Kan I se det? Det er parameter fra omstillingen for en linje, der går igennem det punkt.
+
+19:55
+Med den retning svigter. Hvis det nu havde været en ret linje i rummet.
+
+20:02
+Den eneste forskel havde bare været, at der havde været tre koordinater her.
+
+20:08
+Der har været præcis det samme. Tegningerne er fuldstændig uændret parameter for indstillingen.
+
+20:13
+Her kan jeg ikke se, hvor mange koordinater hver væg har.
+
+20:17
+For den er fuldstændig den samme. Det er sådan. Lad os lige prøve at lave et lille et lille eksempel.
+
+20:32
+Så bare han får lov op på det her. Og det handler sådan set Vi vil nu prøve at lave den samme tegning, som vi har vores begyndelse på.
+
+20:46
+Så har vi vores punkt P på linjen, og så har vi her vores.
+
+20:53
+Retningsløs jeg ikke så. April og linjen L er så det er det jeg også så igen.
+
+21:03
+Hele linjen kan skrives som Ove P.
+
+21:06
+Clowes. Et eller andet talte i gange bare dens vægteren og T gennemløber de reelle tal, så det her er linjen.
+
+21:17
+Hvad nu hvis man skærer lidt i det her, som hedder parameter indtil valget af stemmer?
+
+21:22
+Parametrene løber som nu. Hvad nu hvis vi bare siger at det skal løbe fra?
+
+21:34
+Minus 1 til 2. Hvad sker der så når år?
+
+21:42
+Jamen så kan vi bare starter. Ikke fordi vi ved, at når til gennemløber de reelle tal, så lyver vi på hele linjen.
+
+21:49
+Så hvis nu bare piller nogen måde, er jeg sikker, hvis noterer minus en. Hvor står der Ove P.
+
+21:54
+Og så står der minus én gang er det vil sige, så starter jeg her.
+
+22:01
+Okay, og så sætter vi teer ind i hele det her interval, indtil vi slutter med at se TV 2 1 og Go Plus to gange er to gange er, så lander jeg her.
+
+22:15
+Og hvis teser gennemløber hele der intet valg, jamen så gennemløber jeg bare.
+
+22:20
+Det her linjestykke. Og hvis det nu hedder ko ét og det hedder det så hedder Q2.
+
+22:30
+Så har vi altså nu parat med et friserede linjestykke kunne et.
+
+22:37
+Cocteau og måske også i. Jeg har med vilje ikke tegnet nogen vægt, så.
+
+22:45
+Det er bare for at indføre begrebet linjestykke. Læg mærke til.
+
+22:49
+Der er ikke nogen pil over det her. Det betyder bare at linjestykke fra Kouyate til Couto eller CO2 til Kouyate, så er det et linjestykke.
+
+22:58
+Hvis jeg nu havde lavet en ekstra streg, så havde jeg ment denne her vægter.
+
+23:05
+Men det er ikke det vi har, fordi vægteren fra Kouyate til CO2 denne er præcis så lang herfra,
+
+23:12
+og hertil har den retning, hvor mod linjestykke indeholder alle de punkter.
+
+23:19
+Der ligger her, kan vi se at der er en forskel, et linjestykke og en vægtere er ikke det samme.
+
+23:24
+Når man tegner det, ser det ud som om det er det samme, men en væg, der har den længde, som går fra dens start til dens slutning.
+
+23:34
+Hvor er et linjestykke indeholder alle punkter. På linjestykke.
+
+23:40
+Så der er altså en forskel. Så. Det her der her når 3 løver fra et eller andet til et eller andet ved parameter frisere et linjestykke så det smarte.
+
+23:53
+Her har man en parameter sikring af et linjestykke, siger man og kan ikke ske, skulle vi skrive det op.
+
+24:09
+Parameter Riising f. Et linjestykke.
+
+24:18
+Og linjestykke det så fra quo et til to.
+
+24:28
+For kun godt hvad sker der så, hvis vi nu går op i er tre linjer, så var vi.
+
+24:36
+Der sker ikke noget som helst. Altså om denne her linje ligger i to eller tre i vores eksempel her eller i parameter fremstilling her.
+
+24:44
+Der kan jeg ikke se nogen forskel, men i R3 er det umuligt at lave planer.
+
+24:51
+Så hvis vi lige laver en sådan en her, så kan vi den.
+
+24:59
+Så kan vi skrive planer. I.
+
+25:05
+Er tre. Og. Det jeg forsøger at sige det er bare at det er planer i rummet, men det kunne ligeså godt være planned i vilkårlig dimension.
+
+25:18
+Så bliver det måske lidt højtravende, men altså. Det er ikke nødvendigt.
+
+25:23
+Kunder i tre dimensioner, det kan godt være i 27 dimensioner.
+
+25:28
+Og når så, men forestil jer vi er i rummet, og der har vi så også valgt et eller andet begyndende tidspunkt, som er vores ord.
+
+25:38
+Og så et eller andet sted. Har vi så valgt?
+
+25:43
+Eller har vi så fundet et eller andet punkt p. Det ligger her. Og så har vi to vektorer.
+
+25:51
+Vi kan jo forestille os, at den ene væg, så den kan hedde væg, tager over.
+
+25:56
+Den kan pege hen her i det her plan her, og så kan vi have væk, så ved.
+
+26:05
+Som er her og den ligger og nu skal lige være med.
+
+26:09
+Den ligger ikke sådan i det her plan. Den ligger som en egentlig tavle.
+
+26:13
+Det er sådan, det er det, der er meningen med det. For det er en væg, så er der nu.
+
+26:18
+Af både egentlig savnes eller forsøgere, der på de virkelig bærer over med om jeg forsøger at lave noget, der minder om en perspektiv tegning af.
+
+26:26
+Så. Hvordan kan jeg så?
+
+26:32
+Hvordan kan jeg så beskrive et punkt Q? Der ligger her.
+
+26:40
+Og okay, det kan jeg jo gøre ved. Og tage denne her vægter.
+
+26:47
+Så nu vil jeg gøre. Jeg vil godt beskrive punktet o.k. Sådan.
+
+26:54
+På forårsdage I har det her plan. Og så ligger Q et eller andet sted på den plan, som disse to vektorer ligger i.
+
+27:02
+Så kan jeg i virkeligheden skrive over Q.
+
+27:06
+Den kan jeg skrive som Ove P. Ligesom før.
+
+27:15
+Klods og hvad skal jeg så bruge? Ja, så ser det ud som om jeg måske skal bruge halvanden.
+
+27:22
+Garang euro. Og så skal jeg nok bruge en ved inde-VM plan der.
+
+27:33
+I SE kan se fidusen her. For jeg har en eller anden plan, hvor der ligger et eller andet på Q.
+
+27:41
+Hvis punktet Q ligger i denne plan, så kan jeg komme frem til det vil først og leve op til punkt P, som fortæller hvor planen ligger.
+
+27:49
+Hvorfor helvede har jeg ikke en plan ved hånden? Jeg har min plan herovre. Så er her er punktet p.
+
+27:57
+Formel om, og så har jeg punktet Q liggende her op og mit ord i går.
+
+28:02
+Det er på denne Ulla så først jeg fra at gå op til punktet på med loven.
+
+28:08
+Hvis så det her er væk, så u og det her er væk, som det så sker et eller andet antal gange hvem,
+
+28:13
+og så et eller andet antal gange den så lander i punktet Q.
+
+28:19
+Det var i hvert fald planen, hvis den var lodret plantet dertil, lidt bøvlet,
+
+28:24
+men det her lægger ihvertfald op til noget, som så er helt naturligt, nemlig parameter fremstillingen.
+
+28:31
+Forklaringen. Var.
+
+28:38
+Med ettere. Og hans stilling for en.
+
+28:48
+Klagen. Ja, jeg skal have.
+
+28:53
+Et punkt. Jeg skal have et punkt på planen.
+
+28:57
+Det fortæller sådan set. Hvor jeg er i rummet.
+
+29:01
+Det er hullet jeg over i planen, og så skal jeg på en eller anden måde ved hjælp af vektorerne ur v bevæge mig hen til punktet.
+
+29:09
+Og det kan jeg jo gøre ved at sige, at jeg tager eskadronen værktøj ud klods the grand væg trappe,
+
+29:18
+og så kan jeg så tage leve fuldstændig frit i de reelle tal.
+
+29:23
+Det skriver vi ofte sådan her. Det betyder bare at S er et reelt tal og er et reelt tal.
+
+29:31
+Og de lever fuldstændig frit. Så det her er en parameter fremstilling for planen gennem p udspændt af vægge, tårne u og v.
+
+29:43
+For den udspaltning af vektorer ser man. Så det man altså skal have for Hadsten planlægge, så skal man have et punkt.
+
+29:52
+Så skal man have to vektorer, men damer og herrer. Her er to vektorer, og her er et punkt, og nu tager de to vektorer.
+
+30:00
+De lægger sig sådan her. Så kan jeg se de udspænder indslag kysse dem.
+
+30:06
+Og alt det der ligger i den plan der kan skrives på den måde.
+
+30:13
+Og igen hvis vi nu regnede i coordinator, så ville vi få noget tilsvarende herover.
+
+30:21
+Der ville bare være, hvis vi var i rummet. Her ville der være tre koordinater. Det vigtige er så, at man har to vektorer, der udspænder det hele.
+
+30:31
+Og læg mærke til dem. Læg mærke til, hvordan det her sådan lidt geometrisk forklarer, hvad det er, der sker,
+
+30:38
+når I når I løser lineære ligninger, fordi de disse parametre, som står her.
+
+30:45
+Det er det, der kommer som frie variable. Når I løser ligning systemer.
+
+30:51
+Og det er dem der fortæller, at der er uendelig mange løsninger. Så.
+
+30:58
+Det punkt man starter med, det fortæller sådan set bare.
+
+31:03
+Hvis der kun er én løsning, så er det dér, vi er og det her.
+
+31:08
+Det udspiller sig bare hele planen og fortæller, at der er ufattelig mange løsninger her.
+
+31:17
+Her kan vi også lave en variant ligesom denne her, og lad os prøve gang at gøre det.
+
+31:23
+Vi vil gøre det her, den travle. Det skulle være.
+
+31:33
+Ja, jeg er bare venter i op i min alder.
+
+31:37
+Alle tal ens. Sådan er det jo med.
+
+31:43
+Det er bare et spørgsmål om at normalisere af fysikerne er rigtig skrap.
+
+31:47
+Det er ikke fordi, hvis man laver tilpas avancerede fysik,
+
+31:51
+så det enormt irriterende af lysets hastighed og pegede i og i grundtallet for den naturlige logaritme.
+
+31:58
+Altså nogle tal. De er forskellige, så man laver selvfølgelig bare en teori, hvor de allesammen er lige med en.
+
+32:07
+Men skønt der nu er meget smart, altså så stemmer man fra alle de der åndssvage.
+
+32:15
+Åndssvage enheder. Så langt er vi ikke gået endnu, men det kommer jeg vil gerne.
+
+32:22
+Jeg vil gerne lave det her på en ny tavle, så lad os prøve en gang at lave et eksempel.
+
+32:29
+Hvor vi sådan lidt har den samme situation så. Jeg har mit år her.
+
+32:36
+Jeg har mit punkt p. Her. Og så lad os.
+
+32:42
+Lad os sige det her er min væg så oven. Altså herinde i tavlen.
+
+32:48
+Her har jeg så min efter min væg, så vi.
+
+32:53
+Yoga og planned som deler planeten som disse så udspringer det ligger så på en eller anden måde Skt.
+
+33:00
+Jeg går også. Så kan du prøve at skrive herom. Hvad er.
+
+33:09
+Og P. Clowes t r s Garang over Clowes T Garang V, når s komma t skal tilhørere.
+
+33:24
+Det er hvad skal vi lære dem? Tilhører de gode tilhørere fra mine, sagde en til Tove kyssede med to.
+
+33:33
+Til tre. Denne skrivemåde. Så hvad er det jeg gør her?
+
+33:42
+Altså hvis SF til et løb fuldstændig fred, så var det den plan, som vi også havde fattige her op.
+
+33:48
+Nu ser jeg bare hvor S skal ligge. Mellem minus 1 og 2 og 3 skal ligge mellem to og tre.
+
+33:57
+Hvad er det, der kommer ud af det? Man forsøger at kigge på det.
+
+34:04
+Hvis vi starter kik for S, så står der altså vi må gange med mine sagen.
+
+34:10
+Hvis du ganger med mine se nu prøver at tegne. Men en linje her bare få gør det nemmere for os, hvis jeg starter med at sætte os til at være.
+
+34:22
+Så skal jeg gerne ud med sagen. Så står jeg her. Og kan.
+
+34:27
+Og så kan jeg gange med esser helt op til at jeg ganger med to.
+
+34:34
+Og det vil sige lidt ligesom før. Og så får vi så noget, der ligger på det her stykke.
+
+34:42
+Nu kan jeg så på det her stykke. Bringer dette års krise kriseplan.
+
+34:51
+Og kan I være med ved I?
+
+34:55
+Jamen tilgange V Der kan vi gange den med to afkog godt vejr begynde lidt kortere bare for at kunne få tegningen til at være her,
+
+35:04
+så lad os en gang til ganger ved med to. Så står jeg her.
+
+35:11
+Og hvis jeg prøvede at lave den tilsvarende. Linje her hvis jeg ganger og V med tre.
+
+35:22
+Så står jeg her, og det vil sige, at hvis jeg ganger med alt mellem to og tre, så får jeg sådan set dette stykke.
+
+35:31
+Spørgsmålet er, hvad det giver. Hvad giver det for nogle punkter?
+
+35:35
+Jamen, lad os lige brygger. Se hvad det er for denne vægt. Så her. Den ligger lige så meget her, så hvis man prøver at tegne.
+
+35:43
+Noget der ser sådan her ud. Vi prøver parallelle forskød her.
+
+35:51
+Sommervejr og sandaler og ulækker og lige så meget her.
+
+35:58
+Sådan der. Skal forestille jer det ligger. Det ligger sådan skrot af.
+
+36:04
+Hvad kommer der ud af det? Jeg var på den led varmer jeg det her, og på denne her lede varmer jeg det her.
+
+36:11
+Jamen, det der kommer ud af dage. Det er. Det her område.
+
+36:19
+Er den skulle have været lige rend mig et vist sted.
+
+36:23
+Det sikkert. Sådan. R&D.
+
+36:33
+Så nu tager noget pædagogisk farvekridt, så kan vi allesammen se hvad der foregår.
+
+36:46
+Pinsedag. Det er sådan et stykke rektangel og et rektangel.
+
+36:52
+Det er måske for meget sagt parallelogram eller et eller andet ikke? Vi kan ikke.
+
+36:58
+Jeg ved ikke noget som helst om vinklerne her. Hvordan? Hvordan det ser ud. Men.
+
+37:03
+Kan I se det? Det giver sådan et et plant stykke, må man nok klippe et stykke af planen ud.
+
+37:11
+Så det her. Vi kan se her det røde her, som altså ser sådan her ud.
+
+37:19
+Det kalder man for en parameter friseret flade eller et klart med friseret plan flade stykke, der er lige før hul.
+
+37:29
+Ved at stille vejr op og ned i sit svar til tv og ikke nede ved det centralt lyssky land, lad os se gang op, kommer du med.
+
+37:39
+Jeg vil være sikker, hvis du nu hvis du nu forestiller dig, at vi er vi er i.
+
+37:44
+Hvis nu, hvis nu denne her jeg havde tegnet, faktisk lå i denne her plan, kan du sætte.
+
+37:50
+Så skal du have fat i punkter. Som er så langt ude.
+
+37:56
+At de kan skrives på denne måde, det vil sige du er nødt til at gå to gange i den retning, før du møder det første punkt.
+
+38:05
+Kan du se det? Du kan ikke stå her, for eksempel fordi et punkt der ligger her.
+
+38:11
+Hvis jeg tager nu prøve på at gøre sådan her.
+
+38:15
+Et punkt, der ligger her ved hede. Et eller andet med en halv gangen ved.
+
+38:22
+Her sidder det så. Derfor er vi nødt til at komme så langt væk fra vores P.
+
+38:31
+Koster det, og det er fordi du har et punkt, som vi sådan navigerer ud fra.
+
+38:38
+Og ja så pramme interesserede flade stykke.
+
+38:49
+Pramme interesserede, flade vil jeg bare skrive her, og nogle gange vil man også bruge ordet flade stykke.
+
+38:58
+Sådan set det. Så det her er eksempler på hvad skal man sige?
+
+39:05
+Par med et fraseringer er forskellige figurer i planen og i rummet, og der er lige bortset fra,
+
+39:12
+at I nok ikke har lejet denne her lære i gymnasiet, så er der ikke noget nyt i det.
+
+39:17
+Krisetiden. Så. Det her er noget som vi kommer til at bruge meget.
+
+39:27
+Så er vi lige ved at være der. Jeg har lovet de sidste fem minutter til en repræsentant for et eller andet, som jeg har glemt.
+
+39:34
+Det gør jeg. Er der en repræsentant for et eller andet, som jeg har glemt?
+
+39:38
+Til stede. Hallo, det vejr er der egentlig ikke ved at stikke hovedet ud, selvom der står en der ser ud som om, at vedkommende gerne vil ind.
+
+39:49
+Man kan sig. Kom de efter mig nu?
+
+39:53
+Vi kom så 1 1, 2 3. Kom så en.
+
+40:04
+Okay, jeg tror at vil være. Vi holder bare lige pause, og så får han lige de første par minutter i stedet for.

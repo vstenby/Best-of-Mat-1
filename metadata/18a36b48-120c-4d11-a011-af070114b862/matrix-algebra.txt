@@ -1,0 +1,719 @@
+0:05
+Så nogenlunde. Nå, nu kommer vi så til.
+
+0:12
+Nu kommer vi så til dagens hovedemne, kan jeg sige, og det er en lille tur ud i studiet.
+
+0:24
+Matricer som matematiske objekter man kan operere med.
+
+0:30
+Det skulle vi i nummer være nummer om klart fra det altid foregående.
+
+0:34
+I forbindelse med at løse lineære ligning systemer, så er det godt at kunne kigge på matricer og uddrage deres egenskaber.
+
+0:42
+I det hele taget manipulerer med matricer, og det er så grunden til, at vi tager en lille smule matrix ikke bare i.
+
+0:52
+At bebrejde at man fortæller mig det,
+
+0:55
+et arabisk ord som bare betyder at regne med så en mere morgendagens udgave vil bare sige at kalde det for Matrix' regning.
+
+1:04
+Og den aller laveste ting man kan konstatere er, at man kan klare en matrix med et tal ved at gang den ind i alle elementerne.
+
+1:15
+Så hvis. Man har en matrix A og dens i øjet, da element hedder i J.
+
+1:27
+Så er. K ganger matricen.
+
+1:36
+I JV element. Det er sådan at var K gange J.
+
+1:41
+Sagt på en anden måde man ganger med tal med, ganger dette tal ind i samtlige pladser, hvor matricen.
+
+1:54
+Ganger et tal på alle matricen prisens.
+
+2:04
+Elementer. Nuvel, vi kan gange kan vi også pludselig hjerte, hvis vi passer på.
+
+2:18
+Så to matricer. A, som er en jeg plejer vi at sætte af og tage en m garnede hjem.
+
+2:34
+Og en anden baby, som også er en m gange en matrix, det vil sige to matricer med samme.
+
+2:49
+Antallet. Rækker. Og søjler.
+
+2:59
+Kun er det os. Det er nemt at skrive plusser på tavlen nu hvor jeg bliver filmet og kommer på internettet.
+
+3:08
+Så er der, hvor jeg skriver, er det os, og det er jo helt trivielt, fordi så siger man, at.
+
+3:19
+Plus B matricen i øjeblikket komponent.
+
+3:24
+Den vil simpelthen være det der stod på den i JP på hagen plus eller minus det J.
+
+3:34
+Man kan selvfølgelig få minus frem, hvis man starter med at gange B med minus 1.
+
+3:39
+Så får man et minus bare mere, og det hele er fuldstændig konsistent. Så nu har vi dage matricer med tal.
+
+3:47
+Og vi kan alle lægge dem sammen og trække fra hinanden, og det kan man sidde og gøre en lang sommer i et sommerhus og hygge sig med det.
+
+3:54
+Vi har først rigtig sjovt, når vi leger to gange matricer med hinanden.
+
+4:01
+To matricer. Kan.
+
+4:09
+Og man undlader ofte at specificere at bruger matrixmultiplikation som vi siger bare to matricer kan multipliceres.
+
+4:20
+Det. Hvis de mistes, hvis de stiller sig antænde, hvis de har facon til at gøre det.
+
+4:36
+For i modsætning til hvad man kunne tro, at man bare ville kræve,
+
+4:41
+at de har nøjagtig samme antal rækker og søjler, og så ganger man dem elementet sammen,
+
+4:46
+så viser det sig, at en meget mere anvendelig og praktisk måde og modificerede matricer sammen,
+
+4:53
+selvom den tilsyneladende ved starten ser en lille smule komplekse ud.
+
+4:59
+Det er bølgende. Man kigger på matricen A, og man kigger på matricen B.
+
+5:15
+Og så skal det være sådan, at der er lige så langt henne her, som der er lige så højt.
+
+5:24
+Her. Så overkanten af den matrix der står til venstre, skal passe med venstre side og selvfølgelig også højest af den matrix,
+
+5:35
+der står på den anden side, når lidt mere specifikt er antallet.
+
+5:44
+Søjler. I af matricen.
+
+5:50
+Slaget. Hvad er lige antal rækker?
+
+6:01
+I bind af trissende. Og endnu mere endnu mere konkret Hvis VS kommer til os, som er en m lange hjem,
+
+6:25
+så skal vi kunne genfinde det enheder som antallet af rækker i matricen.
+
+6:32
+Det vil sige at det skal være en N, og så må den handle så mange søjler, som den har lyst.
+
+6:39
+Det vil sige, at der kan komme et nyt tal K på banen her.
+
+6:44
+Men det er det ene her, altså antallet af rækker i Bay, der skal matche antallet af søjler i de af.
+
+7:10
+Hvis vi betragter. A som en samling.
+
+7:22
+Og søjler. Det vil sige vi tænker på Amatrice, som bestående af den første søjle vektor stående ved siden af den anden søjle værktøj,
+
+7:38
+som står ved siden af den tredje søjle og så videre. Og så her kommer den sidste.
+
+7:44
+Nemlig nummer 1. Så vi deler det sådan op i søjler og.
+
+7:56
+Faktisk er det både A og B, så vil både A og B og med beder ved endnu mere specifik.
+
+8:05
+Ja, skriver Berit L. Her med Tage B.
+
+8:11
+N et hernede. Og her kommer så b tove ned til b e, n 2.
+
+8:22
+Så nu spiller jeg meget ud, hvordan det er opspillet i sine søjler.
+
+8:27
+Som den sidste søjle der er vi nåede hen til nummer to af dem.
+
+8:32
+Sådan hedder det. Første række korte mediterede varede ved.
+
+8:43
+K deler med. Så nu skal vi mentalt.
+
+8:49
+Bare se på, at her har jeg ikke specificerede søjlerne. Og her har jeg benede søjlerne meget ud af sine elementer.
+
+8:58
+Så bliver. 40 søjle søjler.
+
+9:10
+En produkt matricen. Det der kommer når man laver netop den kombination af.
+
+9:27
+Søjlerne fra A, hvor de er ganget med elementerne fra den første søjle, er begge.
+
+9:35
+Der findes en hav af teknikere, og jeg opfordrer jer.
+
+9:40
+Eller skal de Mimmo tekniske regler? Telte. Jeg tror dig pænt karst med noget der hedder krumbøjet metoden.
+
+9:49
+Der findes Smiths metode. Tyggegummi metoden og den som jeg lærte, hedder skovhugger metoden.
+
+9:57
+Men man kan vælte sig i mærkelige navne og måske lære noget ved at kigge på alting her,
+
+10:03
+fordi i dag intet fejler allersidst, så ender det med det samme.
+
+10:08
+Ikke fordi de fortæller allesammen om den samme ting, og den samme ting er at sige. Den første søjle kommer vi til med os, siger.
+
+10:17
+Det allerførste element her fra det skal gange på denne her søjle vektor som bageste gange af en søjle vægteren.
+
+10:28
+Blods. Og så kører vi ned her, mens vi ganger hen jeg her.
+
+10:35
+Det vil sige vi tager B 2, et garnede på 2 og sommermad b tre et darnel på 3.
+
+10:49
+Solen, og når vi er kommet ind i haven, så er det sidste vi tager.
+
+10:54
+Det er B. N et som gange på nummer 1.
+
+11:03
+Og det er en søjle vektor, når alle disse lægges om målet nærved.
+
+11:08
+De bliver jo pudset sammen, så ender vi med en søjle, som egentlig er ligeså stor som søjlerne i A, så er den.
+
+11:19
+Og det bliver bare den første søjle.
+
+11:21
+Så for at danne den næste søjle i produkt matricen, så går vi videre til den nederste søjle i bede matricen, og så laver vi nøjagtig det samme.
+
+11:36
+Så det der skete med først, og så ligger vi så med op til sådan en instruktion her, som siger at lave en sjov for at J lige med et til N er B.
+
+11:52
+J. Et garnede med J.
+
+12:04
+Er det ikke rigtigt? Den sjov med jer, for det er sådan, at bliver blive en kombination af søjler, der laver den første søjle.
+
+12:14
+Tilsvarende. Med al.
+
+12:23
+Kobber søjler.
+
+12:28
+Så det vil sige at matricen som vi har lov til at kalde Break B Ren, bliver en sag, hvor de her sång Tarin står sammen som søjler, det vil sige B.
+
+12:43
+J. Et J. Og så er den nederste søjle, der bliver en b, e, j 2 glaring erne og den næste søjle bliver en som B.
+
+12:58
+J 3, altså hvor vi har brugt som koefficienter. De koefficienter som er ganget af sålerne her, er her taget fra første søjle.
+
+13:07
+Her er de taget fra anden søjle, og her sad tredje søjle i b matricen.
+
+13:15
+Så den sidste. Det sidste vi gør er at bruge den korte søjle.
+
+13:21
+Og det er matricen, men det er de sammen gode gamle søjler fra af matricen, som vi summer hen over.
+
+13:30
+Det vil sige at der bliver netop. K søjler ud af det.
+
+13:40
+Og eftersom alle de her vektorer her de er, og de har indrettet det, arver de nemlig fra af matricen.
+
+13:48
+Så kan vi sige, at der er m rækker. Så det passer med, at når man når man har tjekket, at de to matricer, som man har lyst til at gange sammen,
+
+14:05
+er klar til det jævnfør denne tegning her, så ved man også, at det der kommer ud af det, har ligeså mange rækker som A.
+
+14:13
+Det vil sige det får den denne her dimension. På den ene led og den får bedst antal søjler.
+
+14:20
+Altså den dimension får den på den anden til det, der står her.
+
+14:25
+Den får lige så mange rækker som regel. Matricen har lige så mange søjler, som Ben matricen har.
+
+14:37
+Er I klar til et eksempel? Så det er jo igen noget man kan muntre sig med.
+
+14:50
+Og I vil få opgaver som først og fremmest siger, hvilket på snedig vis ikke siger Hvilke af disse matricer kan man overhovedet gange sammen?
+
+15:00
+Og så skal jeg sidde at sige den med ved en kant. Det passer dimensionen ikke, da man hjemme og herude passer dimensionen.
+
+15:06
+Så kan vi gå i gang med gange sammen hjulspor i et vådt.
+
+15:09
+Man har tjekket, at det går godt. Jeg har i hvert fald lige forvisset mig om.
+
+15:16
+1 minut 1 0. Tre toge, fire flere godt med tre multipliceret sammen med to toge, en noget og tre mini zoo.
+
+15:33
+Målet er godt det ja, jeg var det med noget tøj, så for skove var metoden sådan set den.
+
+15:41
+Den går så ud på, at man tager sin økse, og så håber man den første søjle.
+
+15:46
+Så løfter man det ud og så som et træ, der vælter i skoven, og så vælter den herover, og så passer det jo netop.
+
+15:53
+Med 2 tallet ganger der et tal med ganger hver, og det havde 60 tal ganger på hvornår det.
+
+16:02
+Og så dømt for blandt andet går man så videre og emnet til næste 12.
+
+16:05
+Hvis jeg følger min min opskrift her, så skal jeg sige, at søjle mæssigt.
+
+16:12
+Så får vi. To gange er første søjle her en tre flods.
+
+16:22
+Det hedder et 12 gange på næste søjle, som hedder minus 1, 2.
+
+16:28
+Og endelig 3 tallet, som banker på den sidste søjle.
+
+16:33
+0 4. Nu har jeg skabt min første søjle, så nu går jeg videre til den næste søjle og debuterede.
+
+16:40
+Så går jeg herover og bruger 2 0. Og 2 0 er jo dejlig at have med, fordi det giver ingenting.
+
+16:47
+Så her behøver jeg bare at skrive, at jeg får to gange den første søjle i en tre, og jeg får minus to gange den sidste søjle noget i fire.
+
+17:03
+Så jeg er i hvert fald budt denne algoritme, og det tror jeg også, at det som bogen gør.
+
+17:10
+Er det, så er det sådan set bare ganget ud, så totalt ganger her op og et ad gangen heroppe.
+
+17:15
+Og når støvet sænker sig. Så lad os se indgangen.
+
+17:22
+2 minus 1 og ingen ting. Det må give os et.
+
+17:28
+Et et tal. Og hermed 6 plus to giver 8 plus 12.
+
+17:38
+Så når vi kommer op på 20. Herover for et totalt øverst.
+
+17:48
+Og nederst får jeg 6 minus otte, det må blive til minus to, og så tjekker vi, når vi har færdigheder,
+
+18:01
+at den resulterende altså produkt matricen har samme antal rækker som A havde, og at den har samme antal søjler som B.
+
+18:13
+Jeps, så tror jeg på er rigtig.
+
+18:18
+Og det er jo oplagt, at den her instruks, fordi alting er jo samlet og indicerer i rækker og kolonner.
+
+18:27
+Vores computere bønfalder os om at få lov til at lave det, fordi det er lige netop det, som vi er så gode til.
+
+18:33
+Og de vil meget gerne multipliceret 100.000 gang 100.000 matricer sammen.
+
+18:38
+Og det får de også lov til. Spørgsmål jeg.
+
+18:59
+Et. Bemærk.
+
+19:22
+At hvis matricen er kvadratisk, det vil sige at den er indgange, jern og bede matricen også er kvadratisk engang en, så er det jo meget nemt.
+
+19:40
+Så bliver. Produkt matricen.
+
+19:49
+Adgange blev også en genganger en.
+
+19:57
+Men det betyder jo at man kunne være fristet til at spare. Hvis nu vi havde byttet om på rækkefølgen b break, a.
+
+20:09
+Den bliver også en indgang en. Fordi når der står det samme, så hvis det er gyldigt her, så er det også gyldig.
+
+20:18
+Når vi bytter mobning hos Veggerby, så dommernes bare. Betyder det noget hvilken rækkefølge de to må tage sig sammen med?
+
+20:30
+Man skriver sig. Så tegner jeg et lille dødningehoved jeg.
+
+20:40
+I almindelighed.
+
+20:46
+Selv om det måtte kun lade sig gøre at lave et kombinationer, så er Matrix Garang af Matrix B ikke lige med Matrix begge gange Matrix af.
+
+21:05
+Med andre ord. Matrixmultiplikation.
+
+21:23
+Er ikke. Det man kalder kommutativ.
+
+21:34
+Der har været et forsøg på at fordi man kommutativ betyder, at man kan bytte om på rækkefølgen af ting man ganger sammen.
+
+21:41
+Det må man jo gerne med almindelige reelle tal.
+
+21:43
+Det må man også med komplekse tal, så den dem kalder man for, kommer til Chihiro tal kommutativ tal i maj.
+
+21:50
+Men med en samlingen af matricer, selv om vi havde nået inden for denne her genre, så ikke gode dativ.
+
+21:56
+Der bliver ballade. Der bliver forskel på, om man bare i gang ved eller ved gangen kan selv brødet.
+
+22:01
+For typiske værdier går det ikke godt. Det kan være, at man kan hoste op ad et mærkeligt eksempel, for det tilfældige sker godt.
+
+22:08
+Men hvis man skal have en regel, skal det være en regel, og den den duer altså ikke som regel.
+
+22:12
+I almindelighed er der forskel på de to meget spændende.
+
+22:18
+Det er muligt, at det er en dybere egenskab ved universet.
+
+22:23
+At hele vores geometri er bygget op på den måde, at der ikke kommer til at Tivoli 10.
+
+22:32
+Lige det værste er det jo normalt sådan, hvis jeg går to skridt frem og efter til højre,
+
+22:38
+så kommer jeg samme sted, som der er gået et skridt til højre og to skridt frem. Men er det nu nok?
+
+22:43
+Det skal vi ikke snakke om her. Var I husker på for himlens skyld og passer meget på?
+
+22:51
+Også hvis I har mange matricer og gange sammen. Og I får en brændende lyst til leger blå.
+
+22:57
+Hvor nogle af dem må I ikke? Fordi man kommer til et andet resultat.
+
+23:19
+Det som gik så godt med mig, der går fremad på gulvet to skridt frem og ét til højre.
+
+23:24
+Det går jo for eksempel ikke godt,
+
+23:27
+hvis jeg begynder at rotere ting og dreje det først indviklet den ene vej og sådan en, hvilket den anden vej i rummet.
+
+23:35
+Det vil ikke være det samme, som hvis jeg først havde bare den ene vinkel i rummet.
+
+23:38
+Så lagde den anden ned. Det kan jeg selv prøve efter, og det er et eksempel på, at matricer ikke er kommutativ eller ikke abelske.
+
+23:49
+Nyt emne, som ikke står hæder, men er helt trivielle ting.
+
+23:53
+Transponering. Hvordan transporterer man en matrix?
+
+24:09
+Hvis matricen A har som i JV eller med et eller andet tal i J.
+
+24:16
+Så bliver vi i Dane dagen transponerede matrix simpelthen ved at sige, at dens i øjeblikket element.
+
+24:23
+Det skal være det j ikke et element fra den oprindelige matrix.
+
+24:29
+Transponering byder med andre ord række og søjler op.
+
+24:47
+Og sandelig siger jeg, at jeg på et eller andet tidspunkt ved I sidder og knugede en matrix ind i et computerprogram,
+
+24:56
+så vil komme til at skrive på grund af syntaksen. Dens rækker, hvor I ville have skrevet den søjler og den søjler, var i høj grad dens rækker.
+
+25:03
+Og så skriver jeg ind i jeres gode den transponerede matrix i stedet for den oprindelige med en masse munterhed til følge.
+
+25:12
+Men når jeg siger, det varer, og jeg har også gjort det.
+
+25:18
+Som eksempel. Hvis jeg nu to havde to tre 0 1 minus 1 2 og et transponerende,
+
+25:26
+så man sætter sig en lille te som som ekspedient, så betyder det bare, at jeg danner den matrix,
+
+25:35
+hvor jeg så ned igennem søjlerne dér, hvor jeg ville næste hen igennem rækkerne,
+
+25:41
+så den skal hedde 2 og tre her og 0 og 1 hedder og minus en og to her.
+
+25:55
+Så har jeg netop udført denne besked her om at dele det i år, det event der skal være J i det her.
+
+26:02
+Så hvis man tager en en høj og smal matrix, så får man en lang og flad Materazzi ud i det,
+
+26:14
+og hvis man transponerede en indgang, er den altså en del praktisk matrix.
+
+26:18
+Så må man følge også brættets matrix ud af det. Og.
+
+26:27
+Så er det hvis nu jeg skal tænde for. Nu som forvarsel for og den er faktisk allerede på køl.
+
+26:38
+Jeg nævner bare én sætning. Som er relevant her.
+
+26:46
+Og som i al sin gribende enkelt Hades siger hvis man tager to matricer og ganger dem sammen.
+
+26:55
+Og derefter transponeret resultatet.
+
+26:58
+Så får man det man ville have fået, hvis man havde transponerede B og gange det sammen med den transponerede af A.
+
+27:10
+Brodsky er en spændende lille sætning og og det første man skal gøre, er at tjekke, at det overhovedet kan lade sig gøre.
+
+27:20
+Men, men hvis det kan lade sig gøre, så kan det her også lade sig gøre.
+
+27:24
+Matrixmultiplikation ismasse, og i det hele taget er beviset egentlig lige ud af landevejen.
+
+27:29
+Det kan godt drukne lidt i. I Index Gymnastik Alle er det her mænd.
+
+27:36
+Men så er der ikke mere, så der ikke mere i det. Så nu er jeg sådan set ført jeg igennem de vigtigste emner.
+
+27:46
+Herfra er det eneste jeg ikke har vidst meget eksplicit.
+
+27:50
+Det er, hvordan man endevender struktur sætningen, men det ved jeg, at I kommer til i øvelserne,
+
+27:55
+så derfor er der lige nogle få minutter til overs til, at jeg kan vise en en næbet.
+
+28:00
+Det må. Hvis jeg kan få teknikken til at virke.
+
+28:14
+Det ser lidt sådan ud. Waliserne har kasser i Nigeria der.
+
+28:42
+Den er. Det er muligt at det midterste forstørrelsesglas fremover.
+
+29:03
+Så nu. Nu har vi fyldt os op med biblioteker.
+
+29:10
+Så lad os definere nogle matricer dilemmaer det syntaksen.
+
+29:15
+I kunne også være gået ud i venstre kolonner og at bygge den op.
+
+29:20
+Det har vi Matrix A. Her har vi en Matrix B.
+
+29:26
+Og det har vi med i tryksag. Og så kan man spørge hver Hvad kunne man fortælle?
+
+29:33
+Hvad kunne man en gang? Sammen kan man ikke. Kan vi dannede reb ganger B.
+
+29:39
+Der er friske. Det er smart. Ja, hvad med hvad med bid?
+
+29:43
+Gang se. Kan det lade sig gøre? Er. Jeg er vild af lykke, når i programmet lægger op til det første.
+
+29:53
+Så spørger vi kan man finde ud af hvis er en konstant, som vil lægge mærke til det ingen gang har sagt hvad er så det?
+
+30:01
+Men ved bare, at det er en konstant. Det gør den faktisk meget trofast har den denne her Constantinsborg på alle pladser.
+
+30:10
+Svagere eller mere skeptiske programmer? Eller sagt du har ikke defineret på ordene.
+
+30:16
+Jeg kan ikke gøre andet det end at sidde med varm mave så let hårdføre hæren.
+
+30:23
+Selvfølgelig kan man pludselig A og B.
+
+30:24
+Netop fordi vi har nøjagtig samme dimension, og så kan man jo bare lave kombinationer tre gange plus fem gange B.
+
+30:37
+Det regner den jo lystigt ud, og man går lavede helt vanvittige kombinationer, som ville have sat normale mennesker en eftermiddag.
+
+30:43
+Men læg mærke til, at syntaksen her, hvor matrixmultiplikation så matricen C kæden barnets både på A og B bage og bære en boligannonce,
+
+30:55
+hvorved du så syntax, når man sætter et lille punktum her.
+
+31:00
+Og det er jo som regel fordi matrixmultiplikation og den prik, der står.
+
+31:06
+Jeg er jo mildt sagt ikke den sædvanlige gange prik.
+
+31:10
+Det skal i hvert fald fortolkes meget heftigt, og hvordan det så der står igen, der strikke en stjerne her i.
+
+31:19
+Jeg opfordrer altså til at prøve at se hvad ville der ske, hvis de satte en stjerne?
+
+31:25
+Jeg skal prøve det langt fra glemt hvad der sker i denne her udgave af hvad.
+
+31:37
+Fra og gav jeg så den, siger jeg.
+
+31:41
+Jeg ved ikke, hvad jeg skal gøre, men jeg vidste ikke, hvad du mener med og bare at fange lidt ærgrer jeg mig og gav sang.
+
+31:49
+Da vil vi, hvordan vi retter. Vi går tilbage til et punktum i stedet for. Var I løgnere?
+
+31:56
+Heldigvis er ikke på nettet er Beregn. En anden Anne Dove som venter.
+
+32:03
+Nu står han med den rigtige break og bingo. Så meget regner det nu, og det må jeg sige.
+
+32:08
+Det gjort gjorde jo nogle millisekunder hurtigere, end jeg turde og regne det ud, der stod på den tavle.
+
+32:18
+Der er et spørgsmål jeg tager spørgsmålet. Spørgsmålet er.
+
+32:32
+Man er hernede på min skærm står, at der ikke er nogen spørgsmål. Så vi har rigtig mundret ved hvad vores teknik i dag.
+
+32:41
+Hvordan er det med vilje at du bytte om på april b? Hvor.
+
+32:51
+Og her kunne man godt tro, at det var en, at det var en skrivefejl.
+
+32:57
+Ja, så er svaret Der skal i den grad stå ved gangen. Så der skal i den grad stå i gang.
+
+33:02
+Vil jeg så? Nej, det er ikke en trykfejl.
+
+33:06
+Det er det hele værd. Men jeg et godt.
+
+33:11
+Godt spørgsmål. Kun Mahmoud Transponerede selvfølgelig kan den dag.
+
+33:21
+Og nu kan vi tjekke ham her må jeg så sige.
+
+33:28
+Vi tjekker ikke sætningen ved at se den udført for et ægtepar ved et tilfælde.
+
+33:42
+Jeg retter lige. Så, men nu dyrker vi det.
+
+33:47
+Så nu tager vi os seere, og det var utroligt relevant spørgsmål, der ikke kan se.
+
+33:53
+Er det virkelig rigtigt? Når man får det ja,
+
+33:56
+hvad gør man så her er vi som ansat nabo tal først og matrixmultiplikation med se og så transponeret det resultat og derefter
+
+34:07
+mattress multiplicere den transponerede af ikke ganget med den transponeret at se hvor der netop er bygget om på rækkefølgen,
+
+34:13
+og det går godt. Som forventet står der hurra.
+
+34:19
+Så det eneste super vigtige skal lære her, som ikke er at ville gøre her, hvad jeg selv,
+
+34:24
+det ejer fra stripbarer, brikken og så kommando over transfers for transponerede.
+
+34:30
+Og ellers vil jeg sige hvis I er i tvivl, så skal jeg huske det, der står ved den øvre stoppe.
+
+34:39
+Når Mabel er taget væk, så står der en hær på kommando. Mabel sidder, hjælper på, er rigtig nyttig og grundig lavet,
+
+34:47
+og som regel så får man sådan et hjælper vindue ude, hvor der først står en masse snak om syntax,
+
+34:54
+og så scroller man ned i bunden, hvor de konkrete eksempler står, og på dem kan man kigge dem med hurtigbåd og copy paste inde i sit Meppen dokument.
+
+35:01
+Der har I sikkert ud af allerede går og vejen. Jeres øvelse har vi set.

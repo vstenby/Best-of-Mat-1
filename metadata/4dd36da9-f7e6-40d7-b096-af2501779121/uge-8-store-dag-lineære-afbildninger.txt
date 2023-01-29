@@ -1,0 +1,2336 @@
+0:06
+Ork. Velkommen til uge 8. Vi har i et nyt emne i dag, i denne uge og i denne uge, der handler om lineære afbildninger.
+
+0:18
+Dette går ud på er, at vi får mandlige serier en hel del om det vi har lært om matricer.
+
+0:26
+Vi har også tænkt en smule over afbildningen matricer, og nu vil vi se på det.
+
+0:31
+I første omgang på en ret abstrakt måde, hvor vi taler om vægtere rum.
+
+0:37
+Dem har vi indført sidste uge, og nu taler vi om,
+
+0:40
+hvordan vi overfører elementer i et vektorrum over til et andet, og det er det, vi kalder for en afbillede.
+
+0:50
+Så i år rammer jeg ikke helt på den 31.
+
+0:54
+Oktober her, men vi kan forestille os, at vores hekse sukke af teoretiske redskaber begynder at vokse og kan udføre mere og mere magi.
+
+1:09
+I hvert fald håber jeg, at den smager, når vi kommer til stykket.
+
+1:15
+Så jeg vil lige sammenfatte dagens emner, som alle får for i det første time at komme til at indføre afbildninger mellem rum.
+
+1:25
+Vi vil at forklare, hvad er lineære afbildninger, og så ved vi egentlig genbrug af en hel del af de begreb, vi har brugt om matricer.
+
+1:38
+Det vil sige kernen er en afbildning kobber ind og også afbildningen billeder rum.
+
+1:45
+Så kommer der noget egentligt nyt ser dimension sætning, der forklarer os, hvor store billeder rummer og kerner og er.
+
+1:55
+Vi vil se det er nogle underrum af vektorrum, og dermed vil de også have en basis og en dimension, som kan beskrives.
+
+2:07
+Så allersidst tror jeg vi så igen og også se hvordan vi fra de her abstrakte afbildninger og bringer vores forestilling tilbage til matricer,
+
+2:20
+og hvordan vi kan danne en afbildning smag af tricks. Sådan en matrix, der beskriver nøjagtig det samme ved en afbildning, gør nemlig.
+
+2:32
+Så vil der også være en gennemgang af baset skift.
+
+2:36
+Og som alle får en Maple demo. Så det fortsætter vi også på fredag.
+
+2:45
+Der kommer lidt flere eksempler og emner, specielt med fokus på Basses skift og afvænnings matricer.
+
+2:55
+Så før vi går i gang, så skal vi lige genkalde hvad er et vægtere rum?
+
+3:02
+Det er altså det vi sagde, var en stor mængde af elementer over tandlæge.
+
+3:09
+Det kunne være de reelle tal eller komplekse tal. Og så sagde vi, at de elementer af vægtere rummer.
+
+3:17
+Det vil jeg sige med rektorerne.
+
+3:19
+De er udsted med en addition, så vi kan dér vektorer, og vi kan også gange dem med en skalar værdi, det vil sige for eksempel af reelle tal.
+
+3:29
+Så kan vi strejke denne her væk, og den vil stadigvæk være inden for det vektorrum.
+
+3:34
+Og hvis vi deler dem, så skal de stadigvæk ligge inden for et vektorrum.
+
+3:41
+Det er sådan set de to regler, vi kan få som meget vigtige egenskaber for definitionen af værktøj over mig.
+
+3:48
+Det skal så lige nævnes, at der også er otte regneregler,
+
+3:53
+fire regneregler for addition af vektorer og fire for multiplikation med denne her skalar værdi.
+
+4:01
+Men de plejer som altid i de fleste tilfælde at være opfyldt automatiske.
+
+4:08
+Så dem opfordrer vi os i de fleste tilfælde ikke selv over.
+
+4:19
+Så det er egentlig det jeg lige sagde, så stabilitets gravene, de fortæller os, at dommen at et rummer har en struktur,
+
+4:29
+så hvis vi har de to stabilitets krav, så kan vi kigge på alle mulige Linnéa kombinationer de.
+
+4:37
+Så skal de stadigvæk ligge inden for det samme i år.
+
+4:43
+Så her lige at eksamen for at illustrere, hvornår et fik 12 år ikke kan være et vektorrum.
+
+4:50
+Her har vi begge tårne i plan, for der er man ikke så y, og så hedder det geometriske vektorer, vi ser på, og et vi ved.
+
+5:00
+Hvis vi kigger på ligner kombinationer af vektorer i det her rum i hele pladen, så vil de altid ligge i hele pladen.
+
+5:09
+Men hvis vi nu forestiller os, at vi så det rum opdelt i to dele ved ét på venstre side af y aksen og ved to på højre side,
+
+5:18
+så ved hver enkel delmængde ikke kunne være et vektorrum.
+
+5:25
+Fordi hvis vi tager en, så så må vi jo gange den med et tal, hvis den er udsat for y aksen og gange ender med negative tal.
+
+5:34
+Så ryger vi over i venstre halvdel af pladen og det andet.
+
+5:39
+Det er en anden delmængde af det oprindelige vektorrum. Det vil sige planen, så halvdelen af dette.
+
+5:47
+Denne plan kan aldrig være et vektorrum. Det kan vi også illustreret ved addition af vektorrum.
+
+5:55
+Hvis vi har en, der går den vej, og vi har en, der går den anden vej og længere, så ryger vi også over i den anden halvdel, sørme.
+
+6:04
+Så er det andet det rum. Forkel, så vægter ro det er noget vi har snakket om sidste gang.
+
+6:16
+Lettere er nye til højre er, at vi kigger på sådan enorme mængder.
+
+6:23
+Det er mængde V, og vi siger det et vægtere rum, og det er sådan en med den boble, så det ved vi, at det ikke er helt rigtigt.
+
+6:31
+Hvis vi forestiller os eller. Det er måske ikke helt rigtige i forestillingen af en plan med varme planer.
+
+6:38
+Er vi lagt væk såsom, så kunne vi ryge ud af dem bare. Men det symboliserer at vækster og rum.
+
+6:46
+Så hvis forestil jer det, og vi har nogle elementer, der hedder X og ve her.
+
+6:52
+Og i det andet væk så råvaren, hvad der hedder y og W.
+
+6:56
+Så kunne vi introducere en afbildning, som vi vil kalde et gør, selvom ordener til hvert element i V.
+
+7:06
+Et andet element over i W. Og når vi gør det, så taler vi så ved får vi starter.
+
+7:15
+Det kalder vi definitionen former. Og dér hvor vi afbilleder i det, er det, vi kalder for de små sessions.
+
+7:25
+Deroppe så her lidt mere formelt, men kan skrive ned med to linjer hvad man mener.
+
+7:33
+Hvis vi har en afbildning, så har vi de definitionen fra Move og der om pil hen i disposition former.
+
+7:43
+Det vil så ikke være tilstrækkeligt for at forklare vores afbildning.
+
+7:46
+Vi skal også fortælle, hvad er det egentlig, vi skal gøre ved de elementer i definitionen trommer, som vi.
+
+7:54
+Et element ved det bliver afbilledet i W og her på den højreside forklarer og ved, hvad det egentlig er, vi gør.
+
+8:03
+Og det vil vi se på i fem eksempler. Så har jeg eksempler.
+
+8:12
+Dem vil vi gå igennem i de næste knap to timer og undersøge på bagen og marv.
+
+8:22
+Med hensyn til de forskellige begreber, som vi skal se, så der ikke så meget teori på den måde.
+
+8:28
+Andet end vi anvender dem på de her eksempler. Så jeg vil skrive dem her op og starte.
+
+8:38
+Med nogle afdelinger og den første.
+
+8:47
+Det er sådan lidt abstrakt. Vi siger bare, at vi har et definitionen rum, og vi afbilleder på dets position former,
+
+8:59
+og vi vil også gøre det meget mere konkret ved at sige Doyle Member i V ved her, og dem arbejder vi på.
+
+9:11
+F. V. Sådan at hver DV giver os nulvækst som borgere i dispositionen former.
+
+9:21
+Det er meget enkelt beskrevet for at gøre det samme. Vi tager alle elementer for V og det vi spytter ud efter afbildningen.
+
+9:30
+Det er bare noget elementer, så vi forestiller os en anden afbildning, der tager geometriske vektorer.
+
+9:46
+Og det bud vil det kunne være planen eller rummet.
+
+9:50
+Det vil jeg ikke sige så meget om hr. Og det bliver afbilleder selv.
+
+9:59
+Runger af de reelle tal. Og vil gøre det ved at sagde at Ellemann væk søjler man og vi giver en forskrift for den her afbildning g v.
+
+10:15
+Og det er at vi giver tilbage det der kendes som længden af den her vægt.
+
+10:24
+Så er et andet eksempel på den afbildning. Så kan vi gå videre.
+
+10:32
+Vi kan kigge på vektorrum, som er tre og afbillede tilbage til tre.
+
+10:40
+Og det kunne vi for eksempel gøre ved at sige, at vores valg sorg bliver afbilledet selv.
+
+10:49
+H og V erklærede ved, at vi fra denne her væg og ganger den med et tal for eksempel tre eller fire.
+
+11:01
+Så er der lige to eksemplarer teltet lukket for hvem er du?
+
+11:08
+Her går vi fra er til de regler, tal er, og det vi gør her, er, at vi skriver, at J.T.
+
+11:21
+Er ved at lege med snarlige undskyldt. Det skal måske rettere.
+
+11:27
+Hvis vi tænker på de reelle tal, så giver det måske mere mening at kalde det for eks.
+
+11:34
+Så hvis vi skriver J.
+
+11:38
+Er X er lig med A ganget med X plus B, hvor A og B er reelle tal.
+
+11:50
+Til allersidst. Til allersidst har vi så en meget interessant afvænning for hvad vi kigge på afbildninger af på mere.
+
+12:09
+Det vil sige vi tager på de år mere i kredit.
+
+12:14
+Så er det var mængden eller hvad terrænet påfølgende år mere med højest grad tog.
+
+12:24
+Og vi skal have en afveksling, der giver os polonium af højeste grad en.
+
+12:30
+Og det gør vi ved at sige kære eks.
+
+12:35
+Vi er afbilledet på K. P. F.
+
+12:38
+Eks. K. Navnet er vores afbildning, og det vi får tilbage, det er.
+
+12:48
+Den afløste P. + Ex.
+
+12:53
+P er noget. Forleden var på en enorm avlede ordenen, og at det er en konstant yacht med eks.
+
+13:08
+Så det at det er sådan set de tre afbildninger.
+
+13:12
+Vi kan se på, vi kan også. Vi kan også prøve at overbevise, at det her er rigtigt, at vi så anden ordens polynomier og afbilder dem så første.
+
+13:26
+For hvordan er det nu, hvis vi har på de år?
+
+13:30
+Mere af X i to er.
+
+13:38
+Hvordan ser det ud? La stjerne.
+
+13:46
+Af Axel Jørn Moos B. X+ c.
+
+13:52
+Så skal vi tage den af og proppe dagen i kog og udregne dette tal vil sidde på p, x, d er p.
+
+14:03
+Mærket S plus skæring af P er nul, og det kan vi straks udregne for hver p mærke.
+
+14:11
+Det er to af X+. SPÖ børn konstant går ud, og så skal vi udregne p 0.
+
+14:19
+Dækker dækker ud, så er vi tilbage ganget med X, og der ser vi, at det er to af plus C ganget med X plus B, og det er rigtigt.
+
+14:32
+Det er et første år sprogligt. Nå. Og det lever inde i dette rum.
+
+14:38
+Med. Så nu har vi introducerer fem afbildninger, men det er sådan vi vil se, at der kun er tre af dem, der er interessante for os i dag.
+
+15:00
+Og det er jo fordi, vi ikke vil kigge på afbildninger af Ahlmanns generelt.
+
+15:06
+Vi vil kigge på nogle særlige, som dog opdrætter meget, meget hyppige.
+
+15:12
+Og det er de lineare afbildninger mellem vektor rum.
+
+15:18
+For det vi har, er det stadig ikke et definition rum Bond afbildning i disposition former,
+
+15:24
+og vi vil nu sige, at vi indskrænker vores afbildning til at være lineær.
+
+15:29
+Så hvad betyder det? Det skal vi have defineret. Det betyder, at mænd afbildning fra delfin i sorgens rum til disposition for fader linjer.
+
+15:41
+Hvis der gælder to regler og det ene er, at vi kun tør summen af to vektorer og udføre afbillede dem,
+
+15:51
+og vi får det samme som når vi afbilder hver væg.
+
+15:56
+Så enkelt for sig. Det vil sige f ved et plus FR-V to, der giver det samme resultat.
+
+16:04
+Det andet er, at vi giver strejken væk. Og for at afbilde den eller omvendt kan vi arbejde den og strejken bagefter med den skalar værdi.
+
+16:14
+Co. Det er de to linjer, tidens betingelser, og det er det, der er rigtig interessant.
+
+16:25
+Så nu har vi introduceret de fem eksempler. Så vil vi gerne lige se på Belgien.
+
+16:31
+Dem er faktisk lige her. Så vi tjekker de to regler.
+
+16:40
+Lad os se. Så for F. Jeg ved at vi afbilder en væg til væg til 0.
+
+16:56
+Det vil sige det gælder for alle vektorer i definitionen former, og derfor ved vi,
+
+17:02
+at hvis vi kigger på to vektorer, vil et sår i ved for gallatøj, at f er ved et.
+
+17:14
+Det er lige 0 vægteren og det ved vist gælder også for ved to vægge så.
+
+17:24
+For væk fra rummet ved er at være ung, så ved vi også, at ved et +WAY, så er der selvfølgelig også et element af det her værktøj år.
+
+17:35
+Og der må jo også gælde, at hvis så tager den værktøj og afbillede dem med F.
+
+17:43
+Så må den også give noget.
+
+17:47
+Og dermed ser vi, at hvad jeg så før, så summen og afbilleder mig, så får jeg det samme som når at gøre det enkelt hver for sig.
+
+17:57
+Det vil sige det her gælder også sådan den første.
+
+18:06
+Denne hjertets betingelse er faktisk givet, så det var l et.
+
+18:13
+Så kan vi tjekke nummer to. Dagen hed jo, at vi kan strække sig væk, så fødes ved at vække,
+
+18:21
+så hvor er så ved jeg også at K gange V er det element af det her vektorrum, og vi ved, hvad den afbildningen gøre på det her.
+
+18:32
+Det gør nemlig det, at K.
+
+18:36
+Garnet ved bliver afbilledet på nulvækst. Og vi ved det er det samme, som når vi havde gjort det med den anden vægt.
+
+18:45
+Så denne her sets betingelse nummer to må selvfølgelig også gælde for konklusionen.
+
+18:52
+Denne her fatter den afbildning er en lineær afvikling.
+
+18:57
+Det vil vi lige huske her. Den er lige Maier, så vi er fortid.
+
+19:05
+Men næste kilometer skal væk tog og afbilleder dem på vægten.
+
+19:10
+Den vil vi også gerne tjekke. Den havde jo D og G.
+
+19:22
+RV. Det var absolut eller længden af V, og vi kan gå i gang med den første linje og hjertets betingelse,
+
+19:34
+og den vil jo så sige, at hvis jeg har været ét år og ved et år i vægt, så rummer det giver jo helst skal vække sorg.
+
+19:45
+Så måler Gl. At det er vi et plus det ved et tog jeg lige må give, er summen af de to vektorer, og vi ved hvad gøres.
+
+20:03
+Det giver os længden af de her reaktorer. Det vil vi skrive noget højere, og her er det velgørende ved et +WAY.
+
+20:15
+Så er det her, alle får rigtigt. Du siger at der ikke var andre meninger.
+
+20:26
+Hvad du se, hvad er det? Vægtere Summen er for noget vi har anvendt, så her er ved et.
+
+20:33
+Det er så David lærdom, geometriske vektorer. Så vil vi lægge en anden vægt, så vi to tal.
+
+20:44
+Så får vi søvnen. Det var den ikke, så ved et +WAY tog er den så lige lang som hver enkel frygt, så nej, dette ikke.
+
+20:58
+Denne vej er længere end den direkte for givet ved et +WAY et sår.
+
+21:04
+For dette er alment forkert. Det er faktisk sådan, at det var omvendt, at den individuelle.
+
+21:16
+Det individuelle valg af lektor som medier er generelt større end længden af sång, så det er ikke elimineret.
+
+21:26
+Vi behøver ikke at tjekke for den anden med sagen, så vi ved, at den først tager fejl.
+
+21:32
+Og det er vi færdige. Flere skriver bare ikke alene at overherrer.
+
+21:54
+Så kan vi gå i gang med den næste. Det var den, der hed H.
+
+21:59
+V ved. Og det vi fik var væk så gakket med ved, og det kan vi tjekke hurtigt.
+
+22:13
+Vi ved, at der er to store element af definitionen for rod ved så.
+
+22:23
+Ved vi også at ved et +WAY sø ligger der en og især våd ved at gå af ved et + bog ved sår.
+
+22:37
+Det er tre gange ved et plus tre gange ved et sår, der ved samme foragter, så vi kan skrive det om som sådan.
+
+22:49
+Og hvad svarer det til? Jamen, det er selvfølgelig lidt det samme, som når vi afbilleder søvnen med H.
+
+23:03
+Og dermed kan vi se, at han ved et personligt sår hård ved et plus ho RV tog, så den her er går mellem to af rigtig og lettere rigtige og eltog.
+
+23:17
+Det er selvfølgelig, at vi har så vel, som vi vil gøre, ikke med den konstant.
+
+23:26
+Det giver os og tre gange to gange ved, hvor kabel bytte konstant og med rundt.
+
+23:35
+Så får vi to gange fri RV, og det ved vi.
+
+23:39
+Hvis vi så går bedre. De to elementer sammen, så er det det samme som K gange.
+
+23:46
+H er ved, så vi ser at eltog også er rigtige, og dermed er det også en lineær afbildning.
+
+24:03
+Ja, det kan vi sammenfatte bagefter. Så har vi den næste.
+
+24:09
+Den hedder løjede af eks. Men traurige er den lineære afbildning.
+
+24:19
+Ser med ud af. Lad os lige se på det. Vi ved for alle skal vi kigge på summen, det vil sige dommere.
+
+24:32
+Gale er J. J. Sæt +6 tog.
+
+24:36
+Det er lig med J. S et blues J.
+
+24:42
+X2. Ja, så lad os se J.
+
+24:49
+Eks. Det har givet ved det her udtryk. Så får vi af ganget med et plus X2 plus spil.
+
+24:59
+Og så skriveri jeg et sats det. A Grand Prix et plus.
+
+25:03
+B. J. S tog plus Grand Prix to plus B.
+
+25:09
+Dem skal vi lige sammenfatte Grand Prixet så gratis ser godt ud, så der var behov for to be.
+
+25:22
+Det er ikke det samme som Helle. Så vi kan se denne her afbillede der før X og spytter A, X+ b ud er kun lineært, hvis B ville være nået.
+
+25:41
+Så der er en lille pointe her. I kender lineære funktioner.
+
+25:47
+Og de ser sådan her ud. Hvis vi tegner sådan en linje funktion, der stikker et andet objekt til matematik kan skrive lineær og funktion.
+
+26:03
+Så kan vi lave en graf af den her funktion, og den ser så sådan her ud.
+
+26:10
+Det er f. Eks.
+
+26:13
+Så er der afsat B i nulpunktet origo og det historisk uheldigt, at man kalder den lineære funktion, for det er her, at det er på en lige linje.
+
+26:30
+Og det gør det. Sådan set den funktion ud. Jeg refererer til formen, hvorimod egenskaben er en lineær afbildning.
+
+26:39
+Det er nøjagtig de to egenskaber, der menes her,
+
+26:43
+at man kan udføre en afbildning på et vægtere element på en sum af hvilke to elementer sammen eller hver for sig,
+
+26:55
+og man får det sammen, og det er jo tydeligvis ikke rigtigt her.
+
+26:58
+Det kan ikke være sandt, hvis vi får både nu og her i en.
+
+27:09
+Godt, for så mangler vi lige så vi gennem fire af de her afvænning, vi mangler lige den sjove.
+
+27:16
+Det var den, der hedder Cover og tager.
+
+27:23
+Vi det her hen igen, så vi kan se det.
+
+27:31
+Det tager altså et polynomium og giver P mærket X+ Egsgaard P devalueret i nul, og det vil vi se på.
+
+27:44
+Så er det lineært ud. Lidt svært at sige. Jeg tror, det er bedre at tjekke det.
+
+27:51
+Så hvad er det, vi skal tjekke? Vi er ved med at kigge på to elementer i det, der er dette abstrakte vektorrum, der er dannet af paulino af købere.
+
+28:07
+Højest to, og vi vil udregne hvad k, p, f.
+
+28:21
+Det er. Eller måske. Vi kan kigge på som faktisk.
+
+28:31
+Det er lidt mere direkte her man kan klikke på K af p et plus p to af X.
+
+28:42
+Så får vi, at vi skal udregne den afledede af p et.
+
+28:52
+Kluges perito f. Eks. Det er det her og så ganget med p et er nul.
+
+29:00
+Klaus P. Sov af noget. Det fernisering.
+
+29:07
+Jeg har denne linje og ønske at virker på p, f og på to sager.
+
+29:13
+Stedet så er p et mærkat plus p to mærket X.
+
+29:21
+Det må vi godt trafikeret. Og dette udtryk må vi så følge gang ud.
+
+29:34
+Begavede kupeer. P Et lod når sammen for hevet op af p.
+
+29:39
+S mærke x klods x af garnede p s r nul.
+
+29:46
+Klaus P 2 mærke er x +6 gange p to i noget.
+
+29:58
+Og nu kan vi se det her. Det svarer til k p et x fra P.
+
+30:05
+Så skal det forceres plus ganget med x gange p.
+
+30:09
+Et er nul og dette svarer analogt så k at pille to af eks.
+
+30:21
+Så vi kan se at denne egenskab l et er rigtigt.
+
+30:29
+Den er tilfredsstillet og med eltog får vi så kig på en konstant den ved at kalde se i dette tilfælde på skærmen hårde kår,
+
+30:42
+men K allerede brugt for vores afbildning, som er at sige se et eller andet og reelle fald, og vi vil arve bl.a.
+
+30:53
+Dette reelle tal ganget med Paulino mio.
+
+30:57
+Grad holdets to. Jamen, hvad får vi så?
+
+31:03
+Så får vi c gange p et mærke +6 gange ekstra som hedder x gange c gange.
+
+31:19
+Det er noget. For der er en konstant herind.
+
+31:24
+Det må vi igen trække ud. Så får vi se gang af mærke.
+
+31:30
+Ex. Clowes c Grand Skakke P er nul, og det er selvfølgelig det samme, som når vi trækker sig helt ud.
+
+31:40
+Så får vi selv gang RP mærker et plus grand p nul.
+
+31:49
+Hvad er det for strækkende fra? Ja, godt studeret vine afvænning, men Messi co.
+
+32:02
+Alligevel. Og J var ikke.
+
+32:06
+Men hov, så var K. Og hov.
+
+32:11
+Der skal vi lige have noteret her, som jeg husker, var det ikke,
+
+32:22
+og den sidste er lyden af at Dante, Dante og dér, så vi har F, H og K, som vi er interesseret i.
+
+32:36
+I dag. Så fra nu af vil vi kun se på linie, afbildninger og en række begreb vi kan indføre for dem.
+
+32:52
+For eksempel kan vi kigge på lineare afbildninger vektorrum V til W og.
+
+33:03
+Vi vil gerne forklare hvad kernen er. Det har vi vidst det det skete.
+
+33:10
+Det er vi interesseret i.
+
+33:12
+Faktisk er alle de elementer i definitionen forum, der bliver afbilledet på nul elementet i disposition, rummer, og det er det, vi kalder for kernen.
+
+33:26
+Så formelt skriver vi bare Kære F. Det er mængden af alle elementer i definition former, som giver nul i dispositionen form og dem.
+
+33:38
+Man kan så også kigge på de her kerner, og en sætning siger, at kernen af en lineær afbildning er også et underrum af vektorrum.
+
+33:53
+Det vil vi gerne lige forstå, så.
+
+33:58
+Det er. Så hvordan er det nu?
+
+34:33
+Så det er beviset for, at kernen af F er at underrum.
+
+34:47
+Er der nogen der gav USG hvad betingelserne er for et underrum?
+
+34:54
+Det hører de her stabilitets krav, som også gælder for vægt former, fordi vi kigger på et underrum.
+
+35:02
+Så behøver man straks ikke at tjekke alle de regneregler.
+
+35:07
+Gælder i det store vægtere rum? Så må det også gælde for underrum, så alle der skal tjekke om under rummet om det.
+
+35:19
+Om det ude opfylder de her stabilitets kram.
+
+35:26
+Der er nedsat af visse med et og to mærker i et underrum, det vil sige kroppen skal teste.
+
+35:40
+Så dækker også summen i samme år, og det andet var, at vi har det element i underrum.
+
+35:56
+Så er også en vægtere, som blev ganget med en eller en konstant.
+
+36:05
+Det må også ligge i det her år.
+
+36:09
+Det er de to stabilitets krav, der skal tjekkes og bør gøre man.
+
+36:17
+Man siger. Vi ved jo, at det vi ser på, det tager altså et element og så et og afbilder der på nul elementer.
+
+36:34
+Det må også ske for ethvert andet element.
+
+36:40
+Sted svarer egentlig til den første afbildninger, vi lige har kigget på.
+
+36:49
+Men så og det er der vi skal teste.
+
+36:53
+Det ligger så også summen af de to i kernen, der ved vil med det samme, fordi vi ved, at denne her afbildning er lineær.
+
+37:09
+Så ved vi, at den her egenskab gælder, at vi må udføre og afbildning på hvert element hver for sig.
+
+37:19
+Det har vi lige skrevet ned. Hvad er det så? 0 0.
+
+37:24
+Om det er bare 0, og dermed har vi også det her element ved et plus vel to ligger i kernen.
+
+37:35
+Det kan man også tjekke. For det andet, så det var stabiliseret, skrev et tog.
+
+37:43
+Det kan jeg også lige tjekke. For det andet. Så er forudsætningen at det ligger i Kærene, for har vi, at afbildningen af V er lig med 0.
+
+38:01
+Det er definitionen. Nu kan vi undersøge F.
+
+38:12
+Kog ved at stille spørgsmålet Lægger det også noget?
+
+38:21
+Giver det også noget for en? Det er spørgsmålet. Og hvad ved mødet at før alene, så vi må tage K konstanten K ud af F.
+
+38:35
+Forstå det her udtryk. Og det er k gange noget for det.
+
+38:41
+Og også nulvækst. Så folk kan se, at det kan meget nemt se, at de to stabilitets krav er opfyldt for elementer i kernen.
+
+38:56
+Og dermed er det så også 100 år.
+
+39:01
+Nå, men lad os se på vores afbildninger og bestemme deres klagerne og se, hvordan de ser ud.
+
+39:44
+Så vi havde vores første afbildning der hed F. Og den gav os forværres eller man i ved.
+
+39:56
+0 disposition former, og med kødet står straks se at komme af det.
+
+40:07
+Det svarer til hele definitionen fra mig, så det er så stort, som det overhovedet kan være.
+
+40:14
+Pludselig kigger op i figuren på skærmen her.
+
+40:18
+Så vil det sige, at kernen udfylder hele definition tro.
+
+40:27
+Så det var det var nemt. Det er så stort som muligt.
+
+40:40
+Så skal vi kigge på næste kandidat, og det var sådan her der havde H.
+
+40:49
+Det var den anden. Men afbildningen var et vigtigt element.
+
+40:53
+I er frø og giv os tre gange den der vækster.
+
+40:58
+Og det er selvfølgelig stadigvæk et element i frø, som er kernen for det.
+
+41:20
+Så skal vi se på hvilke. Bælge Vælg hvilke elementer.
+
+41:31
+Giv os noget. Vi kan kun have det her.
+
+41:37
+Det er hård ved. Den kan kun få noget her, hvis selve ved at 0 så dermed er kernen af H.
+
+41:47
+Det er bare mængden bestående af et enkelt element, nemlig nulvækst, så du kan også se det er et underrum.
+
+41:56
+Ganger noget med noget, så får ved noget. Det ligger stadigvæk i år.
+
+41:59
+Hvis vi lægger 0 til 0. Det er det eneste, vi kan gøre.
+
+42:04
+Så får vi stadigvæk nok. For det er under år, for det er faktisk så lille som muligt som overhovedet muligt.
+
+42:19
+For så kommer de to eksempler. De var måske lidt meget nemme.
+
+42:25
+Så kommer det andet med K med den afbildning, der er afbilledet på Paulino, mere af anden grad til polynomier af første grad.
+
+42:38
+Og hvor skal vi så tænke en smule mere for det kan vi kræve mere plads.
+
+43:08
+Hvad har vi her? Det var går der fra anden ordens polynomier og bedre fra første år.
+
+43:19
+Og ved H. K. Er P. F.
+
+43:22
+Eks. P.
+
+43:25
+Mærket ex. +6, da mange p.
+
+43:30
+Er noget så umiddelbart, ser det ikke så nemt ud at bestemme kærren.
+
+43:35
+Man vil vide hvad kernen af ko er. Man vil gøre det på følgende måde.
+
+43:43
+Vi har allerede sagt hvordan ser et element i p toget?
+
+43:49
+Det er at anden ordens paulino mig, så kan vi skrive som den her sum af, siger plus spædes plus se.
+
+44:00
+Så vi kan proppe det i kog og se hvad der sker med det.
+
+44:05
+Så får vi nemlig aflad. Plus Bay +6 yacht P er nul, og de så ryger ud.
+
+44:16
+Så får vi se. Sådan her er K at P så om det vi skal få svar på, er hvad valgte Paulino?
+
+44:35
+Jeg er den der form giver os. Nulpunkt enormt.
+
+44:45
+Og jeg paulino mig er det så at A, B og C det er glidende konstanter, men.
+
+44:51
+Der må vi indsætte hvad som helst. Så den her betingelse af, at det her er lig med noget, der skal ske.
+
+45:00
+Det skal gælde for alle x. For eksempel.
+
+45:10
+Så kom der kog. Det betyder, at det her må være lig med nul og det skal.
+
+45:21
+Gælder for alle jer der er.
+
+45:28
+Er det et royalt polynomiet. Så for eksempel skal det gælde for X lige med nul og det at se.
+
+45:49
+Hvornår? Undskyld. Det er det sted. Skriv det om det er rigtigt.
+
+45:57
+X er lig med nul. Det er et eksempel. Og nu skal vi se på K.
+
+46:03
+Er P. F. Eks. Hvornår er det nul?
+
+46:06
+Og det har vi lige udregnet. Og det er det udtryk vi leverer for ikke så får vi et B.
+
+46:22
+Så kan vi se at B. Det må være lig med nul, hvis B er lig med 0.
+
+46:31
+Jamen så ved jeg også at resten af udtrykket er so a plus.
+
+46:38
+C skal være lig med 0 for alle x.
+
+46:44
+Også når jeg ikke er forskellig fra 0. Og så våd ved at vi får den betingelse, at to a plus C skal være lig med nul.
+
+46:59
+For sammenfattende når BR lige med 0 og 2 er plus C er lig med nul.
+
+47:05
+Ja, men så er der lige meget hvilket mig. Om vi propper her ind i afbildningen, så får vi altid målet her.
+
+47:14
+Det kan man også se, altså med det her nul og det her nul.
+
+47:19
+Så får vi også nul uanset hvad X er lige så konklusionen må være, at kernen er K.
+
+47:29
+Det er mængden af paulino mere q x, som ligger i definitionen tropper.
+
+47:42
+Det var dem her. Perito er vor om vort gælder, at det er lig med nul, og det er underforstået at kue.
+
+47:54
+A eksisterer på linie med nøjagtig den her form med disse koefficienter.
+
+48:05
+At de her to betingelser må være opfyldt.
+
+48:11
+Det er det der bestemmer kernen. Og det kunne jeg også lige skrevet lidt om.
+
+48:23
+Så dette betyder det at se er lig med minus to af.
+
+48:31
+Så hvis jeg indsætter de to betingelser her.
+
+48:37
+Hvad er det for Foligno med er? Det er noget der hedder da jeg ikke siger andet minus, red.
+
+48:45
+B plus B 0 plus se og at se det minus to a.
+
+48:50
+Det er altså på linier mere, der har den her form. Vil sige det polynomier, der hedder ikke serien minus sorg og kan ikke gange eller en konstant af.
+
+49:07
+Så udfra den overvejelse, så kan jeg se det her svarer til et paulino,
+
+49:12
+der udspænder hele kernen, så vi kan skrive, at kernen er kog det her spand af EDC, siger han.
+
+49:24
+Minus to. Og de har så en enkelt vægter.
+
+49:32
+Og dermed kan vi også se en anden ting er, at dimensionen af kernen den må være nøjagtig i.
+
+49:50
+Er det. Er det i orden? Ellers forklaringer er det klare at få for ex i almindelig so er en vektor.
+
+50:03
+Det ellers kan jeg også skrive det om for at gøre det helt klart, at man kan skrive, vi kan skrive.
+
+50:09
+Vi ved, at vi kan skrive denne her reaktor om i mono med basis, men koordinat væk, for det vil sige den vil så hedde.
+
+50:19
+Den vil, så hvordan ville den hedde? Den vil hedde.
+
+50:25
+Da vi lavede minus to 0 og 1. Det er 40 0 det første og andet år, og den her svarer til en vækst, og det er en dimension, den kan udspille Håkan.
+
+50:45
+I. For så at have begreb skal indføres det var så kom, før vi gør det andet, skal vi lige her sammenfattede det, vi har lært for af.
+
+51:02
+Det var vores afbildning her.
+
+51:04
+Den havde kun æren af at lege med ved fødslen her, og så var, at H stopper, kun er meget, meget lille ved siden kernen af H.
+
+51:23
+Det var det rum, hvor bare er nulvækst. Så er den mindst mulige underrum som overhovedet findes og kog.
+
+51:33
+Det var så den her kærne kår, der bliver udspandt af x, ja, minus to, og det er så dimensionen af kagerne, der hedder en hr.
+
+52:05
+Det andet begreb de kan indføre, er næste kernen.
+
+52:09
+Det her billede rummer af en lineær afbildning.
+
+52:14
+Og som navnet måske antyder, så ligger billedet på det billede afbildning, der skal ligge i disposition.
+
+52:22
+Fromme er bare mængden af alle de elementer i definitionen former, der kan afbildes a f.
+
+52:30
+Så det kan være så stor som disposition, formet eller men nok så formelt for at f a.
+
+52:39
+Et vektorrum skriver jo, så det er ikke en vektor, der giver mængden af alle vektorer i dets bisonen former.
+
+52:45
+Hvor om der gælder at de er vektorer, ligger i billeder af alle vektorer i definition som.
+
+52:54
+Og man kan også vise det vil jeg så ikke gøre nu. Det er meget flot bevist, kom det år i samme sætning i noterne man kan nemlig vise, at dette f.
+
+53:07
+Ved det ligger inde i dispensation former, og det er også et underrum af disposition Trump står for, og jeg vil lige bruge lidt tid på at bestemme.
+
+53:21
+Rummer for de to linier jeg afbildninger. Så ja, det kan vi jo lige så godt gøre herover med F.
+
+53:32
+Og få dem, har vi ellers forklaret her så.
+
+53:41
+Det har vi noteret. Så det er de to afbildninger, vi skal se på.
+
+53:51
+Nu er der altså Bælum. Vi skal have fat i.
+
+53:58
+Så vil vi finde ud af, hvad F er ved.
+
+54:04
+Og givet alle rum.
+
+54:08
+Undskyld alle vækster Royer væk. Vektorrum V giver os 0.
+
+54:17
+Ja, så kan vi faktisk bare skrive det ned, at det eneste.
+
+54:31
+Det eneste element vi har i disposition former der bliver afbilledet er jo nul elementer.
+
+54:36
+Så det er simpelt hen bare mængden bestående af en nål og det.
+
+54:47
+Det er en disposition for mig. For det er så lille som overhovedet muligt.
+
+54:51
+Kom før den var så stor som overhovedet muligt, fordi alle elementer i V bliver afbilledet på noget, så kan vi sige.
+
+55:00
+Omvendt så kan jeg sige billeder om alt, der bliver afbildet på nåle, så det er så lille, som det overhovedet kan være.
+
+55:10
+Så kommer den anden af H. V. Der har vi jo så den situation, at vi tager en bæk, så I er tre og afbilder det til en vægt, for I er tre.
+
+55:23
+Det udspænder hele vælter råbende folk så om, så vi kan også se, at det her.
+
+55:35
+Det svarer så til selve dispensation.
+
+55:39
+Former er tre lige så stort, som det overhovedet kan være.
+
+55:46
+Det sidste eksempel Det jeg sidder og co. Det bliver lidt mere indviklet, men ikke svært derfor.
+
+55:57
+Vi skal nemlig kigge på billeder af K og nu så.
+
+56:05
+Vi vil stadigvæk gemme letterne her.
+
+56:11
+I har stået og udregnet siden, men kigger stadigvæk på disse polynomier ved kigge på hvad k rp x er lige noget.
+
+56:22
+Det behøver jo ikke at udregne igen. Det var jo nu, skriver det bare lige.
+
+56:29
+Han var naglede to af X+. B. Og så.
+
+56:38
+Skæringer P er noget og C og D havde ved sammenfattet sådan, at det er to af C ganget med X plus B, og det var det første år Paulino mio.
+
+56:54
+Forskellen er, at vi ikke ser på hvornår kog RP X giver os nulvækst, så, men i stedet for når vi får,
+
+57:09
+når vi får noget forskelligt fra nul, så vil gerne vide, hvor stort det her rum er.
+
+57:17
+Og. Men skal meget hurtigt svare på det.
+
+57:23
+Vi ved, at det her ligger inde i rummet af Paulino af grad højest en.
+
+57:34
+Spørgsmålet er så hvor mange af dem afdækker vi alle 40 års Paulino med herinde?
+
+57:42
+Det kan vi svare på. Ja, det gør vi, fordi der denne her koefficient var den her.
+
+57:50
+De er uafhængige af hinanden. Det er jo som at A, B og C og se de vilkårlige koefficienter med reelle tal.
+
+58:04
+Vi må vælge og siden bede jer uafhængigt af at se.
+
+58:08
+Så kan vi også vælge dem som i vel også den her sum. Så faktisk kan vi hurtigt konkludere, at K af billeder af P.
+
+58:25
+Så er det faktisk p, f.
+
+58:32
+Og ja, vi kan så lige spørge os en seng søn, hvad er spandet af det her?
+
+58:50
+Fru Nono mirakel og en ja. 1 og ex.
+
+58:57
+Så hvor mange dimensioner vil de to så?
+
+59:04
+Man skriver dimension af kog af det to er, at det kunne man selvfølgelig også have skrevet sådan her.
+
+59:20
+Men det er et to dimensionalt underrum. Så lad os lige sammenfatte det her før vi gjorde i pausen.
+
+59:31
+Vi havde denne afbildning, der afbilleder rektorer på nogle elementer, der havde det størst mulige kagerne,
+
+59:39
+men i stedet for har dem med meget lille mindst mulige billede rum her.
+
+59:50
+Og omvendt har vi så denne her afbildning H.
+
+59:54
+RV, som er lineær, som var det mindst mulige kærne.
+
+1:00:00
+Det har så h.
+
+1:00:05
+Er tre. Det var også tre for det størst mulige.
+
+1:00:11
+Nu har vi paulino mere her. Der fandt vi at kue af perito er.
+
+1:00:25
+Lige med p et er og det har.
+
+1:00:31
+Dimension 2. Og.
+
+1:00:38
+Jeg tror de er godt tidspunkt at afholde en pause for laves mødes igen kvart over 11 med store spørgsmål formentlig frem, så vi kan snakke om.
+
+1:13:52
+Gennem. Hvis. Efter bukkede vi.
+
+1:14:07
+Vi skal lige blive færdige med en smule mere teori, før vi går i gang med to eksempler og kigger på flere e-mail.
+
+1:14:16
+Og det er sådan lidt akavet i luften.
+
+1:14:21
+Nu har vi kigget på diverse afbildninger af denne her Aube eller på noget på hår, der afbilder på alle straks vektorer i træ og den Aube længder.
+
+1:14:34
+Det fandt og polynomier og ikke noget til. For dem har vi bestemt kernen og billedet rummer, og vi har også kigget let om dimensionerne af kernen.
+
+1:14:48
+De her er så stort som muligt. Om EØF og billedet rummer stod for så lille med noget med med nåle elementet,
+
+1:14:56
+og når uventet situation er opstået her med afbildningen Cover og med vores afbildning af Paulino, så opstår noget imellem.
+
+1:15:08
+Der har vi kernen af dem mindre end.
+
+1:15:13
+Harvard billeder rummer i, når det gælder en sætning,
+
+1:15:19
+som forklarer sammenhængen mellem dimensioner er de forskellige rum, nemlig kan man se på dispositionen fra rummet.
+
+1:15:30
+Det er V, der afbilledes for W. Og dimensionen af disposition i definitionen through, hvor det bliver delt op i en sum,
+
+1:15:40
+nemlig summen af dimensionen af kærren clowes summen af dimensionen af billede.
+
+1:15:50
+Så lad os lige se på det i vores eksempler.
+
+1:15:55
+Der var afbildningen f. Der var det sådan, at vi kan det på dimensionen af rummet, ved vi.
+
+1:16:12
+Vi lige siden sætningen siger, at dimensionen af V er dimension af kæden klods.
+
+1:16:21
+Dimensionen af billeder rummer f. V.
+
+1:16:26
+Så hvad var det vi havde her? Kan F.
+
+1:16:31
+Lege med V og billeder over mig.
+
+1:16:34
+Det er bare nogle elementer der dimension noget, hvorimod det her så sort som dimensionen af det oprindelige definition from.
+
+1:16:45
+Så det her er lige med noget, og det er lig med dimension former.
+
+1:16:52
+Definitionen rummer. Og det er selvfølgelig det samme som her, så det passer i det her tilfælde.
+
+1:16:59
+Det passer selvfølgelig i alle eksempler, men jeg vil gerne lige illustrere det, så hvad har vi for H.
+
+1:17:06
+Der har vi så den anden situation, at vi hav balder på alle slags vektorer.
+
+1:17:13
+Jeg er tryg nu, kun for lille som overhovedet muligt, så den har dimension 0 og billedet rummer har dimension 3,
+
+1:17:25
+som vi skriver her, dimension af definitionen former.
+
+1:17:30
+Det er tre dimensioner at kernen er H.
+
+1:17:38
+Det var lig med nul drømmes dimensionen af B.
+
+1:17:46
+H er tre, og da vi afbilleder vektorer på vektorer jeg råber hva I er try, så må det selvfølgelig have det dimension tre fra tre plus nul.
+
+1:18:01
+Det er lig med tre, så det stemmer os.
+
+1:18:06
+Og så har vi denne her civilisation med GOG, hvor det er lidt mere indviklet.
+
+1:18:15
+Hvor har vi p? Så er det er dimensionen af kernen, plus dimensioner af billeder rummer.
+
+1:18:34
+Det to er I gav os hele p f.
+
+1:18:44
+Og det har så dimension tog orkanen.
+
+1:18:50
+Der fik vi en enkelt reaktor. Det var dimension ét og to.
+
+1:18:56
+Det ved vi. Det har monomerer bag os med en X og ikke sige andet, så det har dimension tre.
+
+1:19:05
+Så det stemmer i det her tilfælde, og der er også en lille fidus ved det.
+
+1:19:12
+Så hvad kan dimension? Sætningen bruges til, når jeg bestemte kernen og billedet rummer en eller anden afbildning.
+
+1:19:20
+Så kan tjekke om summen passer. Svarer det til at dimensionen svarer summen, så er summen af disse på så definitionen former.
+
+1:19:28
+Hvis ikke så er gjort noget forkert, og man kan, hvis man kun er interesseret i dimension,
+
+1:19:36
+så vil det være tilstrækkeligt at bestemme det ene eller det andet og så udregne den position dimensionen dér.
+
+1:19:42
+Og så ved vi formåede hvad dimensioner per definition former.
+
+1:19:48
+Så vi kan løse det efter den ukendte dimension.
+
+1:19:56
+Stiger sådan set sammenfatning af lineære afbildninger af vektorrum Kærvej og billeder rum.
+
+1:20:08
+Hvorfor også en anden ting vi vil se på?
+
+1:20:13
+Og det er afbildningen matricer. Det.
+
+1:20:19
+Her sådan set ikke formår nyt.
+
+1:20:23
+Bare vi vil bringe det i sammenhæng med lineære afbildninger, så vi har denne her lille afbildning fra V til omega 3 til et W,
+
+1:20:34
+og vi forsyner de to vægtere år med en basis A og en basis b e disposition former og om vi kan jo så skrive nogle ting ned, når vi har gjort det.
+
+1:20:47
+Og hvad er det, vi kan skrive? Hvilken som helst reaktor.
+
+1:20:52
+I definitionen rummer op med hensyn til denne her basis.
+
+1:20:56
+Det vil sige en vægt, så ekser kan skrives som en Linnéa kombination af de basis vektorer,
+
+1:21:02
+hvor det samme skal selvfølgelig også gælde med den afbillede vægt.
+
+1:21:06
+For f. Eks. Som de kalder Y.
+
+1:21:12
+Vi ved jo, at nidkære vi har en linie og afbildning.
+
+1:21:18
+Det vil sige, at vi kan tage den her vægt så x og afbillede den, så er den lineære.
+
+1:21:24
+Det vil sige den virker på hver enkelt, som manden fejer.
+
+1:21:29
+Og hver faktor, som vi får ud af det, at denne er konstant koordinat ex.
+
+1:21:35
+Et skarð f a et plus x 1 så f a 1.
+
+1:21:42
+Det er bare brugen af denne egenskab, at vi har en lineær afbildning.
+
+1:21:51
+Det næste vi så kan gøre, og det har vi også set før.
+
+1:21:55
+Det er, at vi kan nedskrive de her vektorer y og x eller y og f.
+
+1:22:02
+Og så videre til f. N. Med hensyn til en bestemt basis.
+
+1:22:08
+Hvordan ser det ud, hvis vi skriver Y med hensyn til basis B?
+
+1:22:13
+Det er jo den, vi har givet dispensation fra. Over for får vi så, at det er exit gakket med F.
+
+1:22:21
+Et nedskrevet i den her basis B og så videre, såmænd.
+
+1:22:27
+Så det kender vi. Vi ved, at F.A.
+
+1:22:31
+Der giver os en søjle værktøj, mens vi nedskriver det med en som basis B.
+
+1:22:38
+Den kan vi så se her. Og så videre og her, og så kan vi ikke genkende.
+
+1:22:44
+Den er som man matrix ganget med den her søjle væk, som er intet andet end en koordinat væk som X'et til eksamen.
+
+1:22:56
+Og kort skriver vi så denne her store ballade ned med, siger John.
+
+1:23:02
+Gravmælet ex. Matrix. Det er dagen hvor svarer til.
+
+1:23:08
+Matricen for givet vil vores oprindelige afvænnet.
+
+1:23:13
+Så det vi har gjort er, at vi har omskrevet den afbillede,
+
+1:23:18
+som kunne være noget ganske abstrakt i den forstand, at vi går over her til vores oprindelige eksempler,
+
+1:23:26
+så kunne det bare være længden af en vektor eller dekorere strejkende vækster eller gøre noget andet end vægt at noget af sølv eller endda
+
+1:23:36
+noget helt mærkeligt ved at aflede og Paulinho med og lægger en konstant noget på Lindum først overens Paulinho ganget med en konstant selv.
+
+1:23:46
+Se ganske abstrakte ting, og pointen her er, at vi faktisk er i stand til at nemlig skrive de her regler som en afbildning,
+
+1:23:56
+smage frys, og der er noget smart ved det, og det ved vi ved rigtig, rigtig meget om matricer her til nu.
+
+1:24:04
+Vi kommer også til at lære flere ting og matricer, når vi kommer til de næste uger med symmetriske matricer og egenværdier osv.
+
+1:24:15
+For rigtig mange redskaber, vi kan bruge her. Og det er dette point, det vil gøre i de næste to år.
+
+1:24:24
+Eksempler Det her illustrerer brugen af de afbildningen matricer.
+
+1:24:30
+I det første vil vi kigge på geometriske vektorer og kig på en regel og bare se på,
+
+1:24:36
+hvordan vi kan få fat i den her afbilledes matrix, som altså er givet ved valg af bestemte baser.
+
+1:24:45
+Det er så vigtigt. Det vil sige uden besvær.
+
+1:24:49
+Ikke nede, skriver denne her basis. Denne her, så kan vi ikke bestemme, hvad denne her afbildning smalt for især det blev vi nødt til at vælge.
+
+1:25:00
+Og i det sidste eksempel vil vi kigge på vores flotte afbildning af på det enorme og se,
+
+1:25:07
+om vi faktisk omskrev dette til en slags matrix, og det ville være ret sjovt, hvis vi kan det.
+
+1:25:18
+Nogle har fundet frem til den afbillede i smagfuld. Så kan man også kigge på Løsnings form, for det er den homogene ligning, der vil vi se.
+
+1:25:27
+Det svarer til kernen af affældig. Men da jeg ikke taler for meget fra min fremtid, går i gang og se, hvordan det her ser ud.
+
+1:26:00
+Så er der eksempel et, og vi vil kigge på mængden af geometriske vektorer, der ved jeg kalde v indeks steg.
+
+1:26:23
+Og ja, vi vil specielt se på en afbildning, der overfører geometriske vektorer, det vil sige,
+
+1:26:32
+at elementer af det her vektorrum til geometriske vektorer og dette skal gøre ved sådan en vægt.
+
+1:26:40
+Så det er er vi så, at Ellemann og Raubal har det, sagde den tilhørende sværvægter ved hat og.
+
+1:26:57
+Når nogen kan huske hvad jeg havde svære værktøjer. Hvad?
+
+1:27:06
+Det er nemlig en vektor som er drejet 90 grader eller pi, eller hvordan vi nu vil måle det i positiv omløb.
+
+1:27:15
+Strandet så positiv omløb.
+
+1:27:30
+Stramning i matematik. Det er altid mod uret. Så kan kan godt se det ikke matematikere der har opfundet uret, for ville det løbe den anden vej?
+
+1:27:48
+Så er det vi skal se på. Så det første vi måske skal finde ud af, er det her overhovedet den ligning, jeg afbilder?
+
+1:27:57
+Forælders, Hvis det ikke er det, kan vi ikke bruge alt det vi har lært om det i dag.
+
+1:28:02
+Jamen altså svaret er det er det? Og hvorfor er det det med sved?
+
+1:28:08
+En lille skitse af det, der foregår her. Så har vi altså den her situation.
+
+1:28:13
+Vi er i planen, og vi kan definere, for det er X og Y her.
+
+1:28:20
+Vi kan definere en standard based sager, så det er i, vi har her og I til faren J.
+
+1:28:31
+Og nu tager vi et eller andet væk, så ved.
+
+1:28:38
+Der sige den 5 fod, og her ved det vi gøre ved dem.
+
+1:28:43
+Vi drejer ned i den retning, så der er noget i vejen.
+
+1:28:51
+Så skal dreje 90 grader herover.
+
+1:28:56
+Så får jeg min svigerdatter og.
+
+1:29:04
+Vi kan. Vi kan selvfølgelig. Vi ved jo at vi kan.
+
+1:29:09
+Vi kan skrive denne vækst såvel som en sum ske x et skakke i plus.
+
+1:29:25
+Ex. Gang i plus Y Jagd J, som er. Og vi ved godt at sådan en vægt, så den vil også blive, hvis vi drejer den straf.
+
+1:29:40
+Faktisk overså de to basis vektorer på samme måde, så man kan overveje, at det også må handle sig om en lineær Cowbell.
+
+1:30:04
+Det går også en. Altså overvejelserne er måske så klar Hvis vi tager væk, så er vi her.
+
+1:30:13
+Eller lad os lige. La civita to vektorer, der var en væg ved her, og vi tog, så ville det blive draget med 90 grader.
+
+1:30:26
+Hvis vi gør det til solen, så får vi også den samme vægt. Bidraget med samme måde, som hvis vi tænker på biomasse skal væk, sover ved et +WAY et sår,
+
+1:30:38
+så får vi så den her sum, og hvis det drejer, vil der være et sår eller dagen her.
+
+1:30:45
+Så er det faktisk sådan, at vi drejer hele denne her trekant med 90 grader, så det må gifte sig.
+
+1:30:53
+Så det er det, vi vil gøre. Det er at bestemme afbildningen matricen for den her afbildning, så vi er først.
+
+1:31:01
+Indtil nu har vi kun forklaret, hvad vi gøre ved den her stakkels vækster.
+
+1:31:05
+Nu vil vi gøre det ved, at vi finder fejl, så den her vækster så.
+
+1:31:18
+Så vi skal finde raubal langs med, frydede tilhørerne.
+
+1:31:38
+F. Hvad er det?
+
+1:31:41
+Det er opgaver, og det vi så her, er, at vi skal vælge den Basses.
+
+1:31:57
+Og om sidde ved afbilleder fra det enerum se nøjagtig det samme.
+
+1:32:02
+Så kan vi jo lige så godt også bruge den samme Basses i begge tilfælde og være en god basis vi har her,
+
+1:32:09
+hvor vores standard har det da det vil sige standard basis det bestående af det her for ægtepar i og J.
+
+1:32:22
+Det er vores standere, Basses og det vi vil gøre nu.
+
+1:32:28
+Det er så at nedskrive en afbildning matrix med hensyn til den her standard bagest.
+
+1:32:46
+Og vi ved her med denne opskrift, som vi lige har argumenteret for, hvad vi skal gøre.
+
+1:32:56
+Det er nemlig den matrix, der er dannet ved at vores afbildning og afpillet vores standret Matrix.
+
+1:33:04
+Det gør vi ved den første Basses væg. Så får vi søjler væk.
+
+1:33:09
+Og det gør vi for den anden også.
+
+1:33:14
+Og selvfølgelig skal vi så nedskrive, hvad den afbildning er i vores standard koordinat standere Basses,
+
+1:33:23
+så det vil jeg også skrive ned, for vi skal have fat i den her gut.
+
+1:33:30
+Det er egentlig meget enkelt. Hvis vi ser på det.
+
+1:33:34
+For hvad er det f. I gøre det?
+
+1:33:41
+Det er jo det. Det her er vores egne, mens vi tager i her.
+
+1:33:50
+Jamen, så bliver det en dreng. 90 grader. Så er det den anden basis værelser, jeg får ud af det, og hvis jeg tager den, så får jeg den flyttet her.
+
+1:34:01
+Noget der svarer til minusset. Så det er intet andet.
+
+1:34:12
+Vores afbildning gøre og I kan se, at vi er stadig på den abstrakt beskrivelse.
+
+1:34:17
+Tag den vægtere dritten med 90 grader i positiv retning. Det er det, jeg gør her.
+
+1:34:22
+Det er så meget heldig. At får det allerede nedskrevet i meget enkel måde for vores danner basis, så lad mig lige forklare det her.
+
+1:34:38
+Skæbne. Lidt bedre opstilling skal skriver det våde når oven over hinanden.
+
+1:34:50
+Det var så vi tog det af F. I at give os J.
+
+1:34:55
+Og Fr. J. Bonus i. Og vi ved for at.
+
+1:35:05
+F. Er I skrevet ud i standret basis. Det er det J.
+
+1:35:12
+Og koordinat vægt som danner basis. Hvad er det så J.
+
+1:35:16
+Det er det der svarer til nul og hvor en eller hvis vi beskrive det hele ud.
+
+1:35:23
+Det er måske bedre. Så har vi altså nul gange.
+
+1:35:31
+Ja, lad mig gøre det sådan her, så bliver det helt klart, det er jeg.
+
+1:35:36
+Det er nul gange i plus 1 gange i øjet, og det her bliver så følgende.
+
+1:35:43
+Så skriver I, så får vi minus 1 gange i plus 0.
+
+1:35:51
+Grand J. Så vi får os koordinat vektorer som følgende.
+
+1:35:59
+Det er 0 over 1 på den første søjle, og for den anden så får vi minus 1 og 0.
+
+1:36:11
+Og da det er dem, vi skal fylde på her, så får vi 0 over 1 og minus 1 over nul.
+
+1:36:22
+Og det er vores afbildning smage tricks.
+
+1:36:29
+Så vil vi lige afprøve den på en eller anden lykke, for vi vil se på vægtere, og det er den, vi har i vores tegning.
+
+1:36:40
+Det skriver vi som en sum. Med Coordinator A og J, så vil vi.
+
+1:36:52
+Udregne f. V. I.
+
+1:37:05
+Det ser sådan her ud. Vi ved at F er lineært. Så vi kan trække vores koordinater ud og opdeler summen af.
+
+1:37:21
+Så ville de få den som. Det kan vi ligeså godt skrive om i vores standard basis.
+
+1:37:37
+Så ser det sådan her ud, og det er det, vi lige har regnet ud.
+
+1:37:41
+Det giver sig den her afbilledes matrix.
+
+1:37:53
+Med de to søjler ganget med koordinat væk som a b.
+
+1:38:02
+Og det ved vil være. Det er nemlig vores afbildning smager af 6 0, 1, minus 1 og 0.
+
+1:38:12
+Gør arket med A, B og det vi forude.
+
+1:38:17
+Det er så er i gang med det her.
+
+1:38:21
+Det bliver minus B, og her er noget får vi a guide.
+
+1:38:25
+En af er vores sværvægtere, og det er nøjagtig det, vi kender.
+
+1:38:33
+Det er definitionen på at udregne træer og vækster, som vi kender den fra før tid.
+
+1:38:43
+Så dette her eksempel. Og hvordan vi udregner en afbildning smag af sex, er denne her branche afvænning, når der spørgsmål til det vej.
+
+1:38:58
+Så vil vi køre videre med det næste. Og sidste eksempel.
+
+1:39:29
+Det var altså vores afbildning kobber formede baner, der flytter anden grads polynomier over til 40.
+
+1:39:41
+Ved at differentiere dem og slikke skæringer P er selv, så vi vil først finde med af frisen sådan her.
+
+1:40:05
+Vi vil bruge Standard Basses. Hvad er det de er perito?
+
+1:40:16
+Det har. M 1 x og X Jane.
+
+1:40:24
+Og det der ryger ud er altså en mindre del.
+
+1:40:26
+Kan du mærke en X, så den er mindre, og vi så kan gøre det at nedskrive en Matrix cover, der tager koordinat reaktorer.
+
+1:40:41
+Med hensyn til den basses og gøre noget ved dem, så ville de 40 m mærke noget i coordinator i e-mærke, så det er dem, vi skal have fat i.
+
+1:40:57
+Vi kan skrive definitionen ned ved det, for Q er en første søjle k af x anden søjle k a ser anden fodfejl,
+
+1:41:13
+og det skal vi jo sådan noget skrive i vores monomerer. Bagels og standard masses.
+
+1:41:20
+Så vi skal gøre det udregnet hvad side de er værd at se.
+
+1:41:25
+Søjler skal hedde. Det får mig til at spole er placeret så vi skal have.
+
+1:41:43
+Kog er en det er bedre at besidde, hvis vi propper ind her end at aflede, og så få vi 0 p af noget i det bare en gang med eks.
+
+1:42:00
+Vi får 0 plus en gang eks. Så skal vi afbillede.
+
+1:42:08
+Hvornår eks eks mærker er ved. Og så skal vi have Egsgaard P f nul i X6 lige med noget der giver os nul, og til allersidst kan jeg ikke sige andet.
+
+1:42:26
+Det er så x navnet, siger Anni.
+
+1:42:30
+Det er to x kløves jo ikke, siger Anne.
+
+1:42:36
+Ved nul den bare nul. Få det her. Så skal vi have fattige koordinat væk, zoo'en.
+
+1:42:44
+Med hensyn til vores basis, det vil sige. Dagen her.
+
+1:42:52
+Den hedder bare 0 1.
+
+1:42:58
+Co. A S har det 1 og 0, og til sidst har vi få ekser anden.
+
+1:43:15
+Ja, hvad hedder den? Den hedder noget her for to hernede.
+
+1:43:22
+Det er sådan set det er de tre søjler vægtige over fem, kan vi så føle på her.
+
+1:43:27
+Såvel 0 1, 1 over 0 og 0 over to.
+
+1:43:34
+Se om det er os, der har bøderegn derhjemme. I stemmer og fint, så har vi fået fat i vores afvænnings matrix fra neden.
+
+1:43:46
+Med hen til de to baser M og 1 mærket.
+
+1:43:51
+Så kan vi måske lige se på, hvad der sker ved en vægt, så hvis vi sender den i gabet, som når afbilledet koordinat, så.
+
+1:44:08
+Det er altså de her søjler vektorer har vi allerede nedskrevet her.
+
+1:44:20
+Så har vi da se hvad sker der? Vi ser på.
+
+1:44:28
+K er p f. Eks. Og æren leverede et på Foligno med om bord på parasollen alle imellem form a serien plus spæd eksplosiv.
+
+1:44:42
+Det er det, vi altid har brugt, og det har selvfølgelig også en koordinat vægt,
+
+1:44:47
+så ved at skrive sådan her MP er X der så lige se kortene bag Comin og A.
+
+1:44:58
+Og det er jo denne her lidt omvendt rækkefølge. Fordi jeg har skrevet med basis for en eksakt, siger Anni noget.
+
+1:45:06
+Og det er derfor først koordinat koordinaten skal sidde her. Husk nu, at rækkefølgen er basis vektorer.
+
+1:45:14
+Det er vigtigt. Den er sat fast med sit bytte rundt på dem.
+
+1:45:18
+Så skal vi også bytte rundt på koordinater for.
+
+1:45:25
+Så kan vi så udregne hvad er sådan en?
+
+1:45:34
+Koordinat. For flere gange på vores afbildningen smager af for eksempel jeg den.
+
+1:45:45
+Ja, den bliver så nemlig 0 1 0.
+
+1:45:51
+1 0. To gange mod c b.
+
+1:45:56
+A. Det giver os. Se gangene plus bed gang en + α gange nul gå ud.
+
+1:46:07
+Så er vi sikkert en klods begynder med nul plus to gange.
+
+1:46:18
+Det er vores koordinator pølser. Det kan vi også skrive om igen.
+
+1:46:25
+Til hvad svarer det til? Det svarer til.
+
+1:46:33
+Hvis I vil skrive det som en afbildning af. RP X, der giver os navnet på linier, men hvor der står B gange en.
+
+1:46:45
+C plus to A ganget med X. Det er jo nøjagtig det vi havde i begyndelsen.
+
+1:46:54
+Før vi havde indført afbildningen matricer. Så det er godt.
+
+1:47:01
+Så kan vi regne med, at det er helt superb, og det egentlig lidt imponerende er,
+
+1:47:06
+at vi kan skrive noget om en dum operation, hvor for nogle, da de fandt seerne død, ganger på med noget, og det er der.
+
+1:47:18
+Alt det kan man udtrykke bare med en matrix.
+
+1:47:22
+Så længe man har valgt de de rigtige baser eller baser i definition for disposition som så bliver hele denne her regel fuldstændig afhængig.
+
+1:47:36
+Fra da vi tænkte os i forvejen, om det så var en beregning af en vektor eller strejken, eller at de fandt seere.
+
+1:47:47
+Så kan vi udtrykke det som en matrix ved et produkt, og det er egentlig ret stærkt.
+
+1:47:57
+Så en flere dusør er så at ingen kan bestemme.
+
+1:48:03
+Kernen er sådan en masse eksisterende afbildning smager. Så kan man også tænke over, hvad kernen er.
+
+1:48:09
+Det ville jeg lige viser, før vi kigger på Mabel daimon.
+
+1:48:39
+Så det her får os.
+
+1:48:49
+Kærren F.
+
+1:48:53
+Når nu hedder den altså kog det svarer til det homogene løsning i form af.
+
+1:49:06
+Den her ledning. Det er en homogen matrix ligning til svar homogent ledningsnet steg, og det er jo sådan,
+
+1:49:25
+at det vi ser på, hvor vi kigger på, kan er, at vi tager imellem vækster og serier.
+
+1:49:32
+Hvornår blev den afbilledet på 0? Så bare den er væk, så den laver så endelige søjle?
+
+1:49:41
+Matrix og vækster verden med søjle koordinater, og er I for at løse det,
+
+1:49:49
+så skal vi så se på en total matrix af det her, og det svare sig til den afbildning.
+
+1:49:56
+Smage sextet koefficient matricen. 0 1, 0 1, 0 2.
+
+1:50:02
+Og så skriver vi noget skriveri. Nulvækst sådan her på højre side.
+
+1:50:10
+Og det er meget nemt og lykkedes det her.
+
+1:50:13
+For når man skal gøre fascinerede Gaustad ned til trappe form, så behøver jo egentlig bare at bytte rundt på de to rækker, så gøre sig her.
+
+1:50:38
+Der er intet mere vi kan gøre for har den maksimale tunnel ved et salg, og der må opstå totalt heroppe,
+
+1:50:48
+fordi der ikke står et salg her nedenunder, så der i hvert fald nogle ting, vi kan se herfra, er.
+
+1:50:58
+Hvad er løsningen så, det rum drejer?
+
+1:51:09
+Hvor er der to muligheder. Der er to ting vi ser, hvis vi kigger på en koordinat væk, så nedre c, b, a.
+
+1:51:22
+Så skriver vi den her sang, så det er den besked lykkedes for som det ganger.
+
+1:51:29
+Hér, så har vi altså at se plus to af alle med nul, og at B er lig med nul.
+
+1:51:38
+Det er det, vi har set tidligere. De har for så vidt ikke noget nyt.
+
+1:51:43
+Vi kan så også omforme det til en.
+
+1:51:49
+Den løsning som ser sådan her ud, nemlig at vi vælger.
+
+1:51:55
+Vi kan for eksempel vælge A som fri parameter. Så betyder det at se er minus to A, minus to T og B er lig med nul.
+
+1:52:10
+Det kan vi så skrive noget, så får vi. Minus står og bag den noget og A er en gang med vores fri parameter på hver side.
+
+1:52:26
+Vores løsning som har, bliver opspændt af en enkel vægt, for og dermed er løsningen formel en dimensionalt.
+
+1:52:36
+Det have vi skrevet ned. Det håber vi en af løsesummen svarer til fyren, der dimension ind, for det passer ganske godt.
+
+1:52:53
+Så er samme svar som vi har i begyndelsen. Og man kan jo så konkludere at spandet.
+
+1:53:03
+Eller undskyld kernen af KO fan blev spændt op.
+
+1:53:12
+En vægt der svarer til netop den helt.
+
+1:53:24
+Det havde selvfølgelig været lidt bedre år for år mere heroppe ved koordinator, for her tænker vi på Paulino mere som en skriver.
+
+1:53:32
+Det er ækvivalent med det her rum, hvis du skal være helt nøjagtig.
+
+1:53:37
+Men kan se ideen her til sidst, hvor allersidste skytte også nævnes, at billedet rummer og også kan bestemmes.
+
+1:53:52
+Ud fra at vi har denne her trappe form, og her har vi altså vores afvænnings matrix for M til m mærke afbilledes matricen.
+
+1:54:09
+Det er jo den, der har vi set. Den indeholder her afbildninger af basis for fra definition former til vi har taget basis vektorer.
+
+1:54:22
+Det svarer til vores m basis. Dem har vi afbilledet.
+
+1:54:27
+Det er dem der står som søjler herinde i afbilledes matricen,
+
+1:54:31
+så det må være dame og udspænder billede rummer vores afbildning eller af vores afbildning matrix, der svarer til det samme.
+
+1:54:43
+Spørgsmålet er så, hvor mange af dem er lineært uafhængige?
+
+1:54:47
+Hvis vi skal bestemme størrelsen af det rum og en Basses, så skal vi bestemme, hvilken af dem er leveret uafhængigt.
+
+1:54:56
+Og det kan man hurtigt svare på. Vi kan godt se ud fra denne her opstilling, at der hvor vi har noget med at salte den ene og den anden søjle.
+
+1:55:12
+De to vektorer de to søjler suger, bliver ligninger uafhængigt, og den tredje kan skrives som summen af de første to,
+
+1:55:23
+og dermed kan man så sige, at billeder under den blide udspændt.
+
+1:55:31
+De første to søjler vektorer, og det er to så dimension, at rum er også to.
+
+1:55:38
+Det ser vi også i vores Mabel damer. Det foregår der som et eksempel, og vi ser så husker ikke også hvem er det på fredag?
+
+1:55:53
+Godt lade sig skifte til Mabel.
+
+1:55:59
+For kommer mødet, skal jeg ikke så godt. Til noget med.
+
+1:56:06
+Man skal genstarte her. Det er så heller ikke et større problem. Vi ser lige på to eksempler Mabel, hvor faderen sidste ting jeg vil nævne.
+
+1:56:17
+Så kommer der da alle i Mabel til allersidst.
+
+1:56:22
+Det giver nok både om redning bagefter. Vi skal lige i Nashville se at få vores lineær algebra pakket ind og det første eksemplar Mabel.
+
+1:56:34
+Det handler om at undersøge om en afvæbning af ligene blot givet sådan en opskrift, som endte på et som argumenter.
+
+1:56:45
+Jeg sætter ikke står og vil gøre noget ved det der ved side. Den giver os nogle værktøjer i fire.
+
+1:56:54
+Det kan vi i nedskreven som en pile procedure.
+
+1:56:57
+Det er gjort her, og så kan man, når man har gjort det eller ved at levere det, og man får så tilsætter tilsvarende resultat som en søjle øvelse.
+
+1:57:09
+Hvor egentlig ganske enkelt vi skal teste det er jo om °F virker på summen af to vektorer på samme måde som når vi gjorde det hver for sig.
+
+1:57:20
+Det er skrevet her, og det er det, vi trækker fra første udtryk her.
+
+1:57:25
+Så kan vi bare evaluere. Det giver os noget, for det må være det samme.
+
+1:57:31
+Så den ene. Den første linje har sættets betingelser er opfyldt.
+
+1:57:36
+Det gør vi også med den anden. Det vil sige, vi strejker væk som en konstant kort, før vi afbilleder den,
+
+1:57:44
+og efter vi har bedt om flere, får vi også en nulvækst, for det er det samme.
+
+1:57:51
+Det er en metode. Der er også fremstillet en anden.
+
+1:57:59
+Her er man kan nedskrive den her.
+
+1:58:05
+Denne her er fjervægter, som er Matrix Vækstråd produkt, og vi ved, at det svarer til en matrix.
+
+1:58:14
+Han afbildning smager tryksager og matricer opfylder nøjagtig stige.
+
+1:58:22
+De egenskaber en lineær afbildning har jeg ikke, forklarede damen.
+
+1:58:28
+Det er meget nemt at regne ud, hvad sag og på at de har en matrix.
+
+1:58:38
+Så ved vi at for eksempel adgange eksplosiv.
+
+1:58:44
+Det er det samme som adgange X+.
+
+1:58:50
+Ganger 9, og det samme gælder selvfølgelig bredsiden, der er en konstant på 6.
+
+1:58:59
+Så får vi at se Jaco gakket, gakkede eggs, og det ved jeg egentlig godt.
+
+1:59:06
+Og så er der også en lineær afbildning og kasser, som jeg lige ser forstås som en afbilledes matrix med hensyn til standard basses.
+
+1:59:20
+I er to og er fire. Hvis det er i orden, så må vi også få første søjle væk ved at afbillede standard basen.
+
+1:59:34
+Den hedder 1,0 som Talpa. Ind i vores abstrakte pile procedure.
+
+1:59:43
+Det er jo før vi har defineret en afbildning smag af succes, for får vi så faktisk også denne her søjle vægt?
+
+1:59:50
+Og det gælder også for den anden. Bagest svigter. Nu er to dele, som får vand.
+
+1:59:59
+Så går vi lidt tilbage til de her yngre emner vi har set på med afbildningen matricen.
+
+2:00:05
+Nu har vi kigget på ligninger et set af afbildninger, så her er en afbildning matrix, der allerede er givet.
+
+2:00:13
+Den tager så 3D væk, sover og spytter fire dimensionelle tal par ud.
+
+2:00:22
+Det er denne her. Vi kan multiplicere en koordinat væk på, så det er ikke noget nyt.
+
+2:00:31
+Vi kan også undersøge, om den er væk, så er ligger i kernen.
+
+2:00:35
+Det er nøjagtigt selv faldet, hvis vi får nulvækst, for det gør det.
+
+2:00:42
+Så går man selvfølgelig også sige avocado og æren. En cárdenas.
+
+2:00:47
+Det her er noget, vi i starten ikke folk ihjel kan. Andet som er større end bare nul.
+
+2:00:51
+Man kunne prøve at bestemme hele karret, og vi ved, at jeg ikke slækker kagerne aktivt for ikke så lidt med novellens,
+
+2:01:00
+der svarer til denne her masse expect så ligning, som jeg også har set før.
+
+2:01:04
+At ef gakkede med koordinat værk sådan ex.
+
+2:01:08
+To tre er lig med 0, så det er den vi skal løse ved at reducere vores matrix F i trappe form, og vi får det her.
+
+2:01:19
+Vi aflæser, at der er to med et salg. Dermed er den ramte to, der er, hvor mange ubekendte er der ikke?
+
+2:01:27
+To vekslede et, to, tre, tre. Så er antallet af ukendte minus vrangen 3 minus sorg og begiver os af antallet af frie parameter.
+
+2:01:40
+Og siden da er den her homogene ligning viser selv, der svarer til vor løsning, som svarer til kærren 40.
+
+2:01:49
+Så kan man så under kampene lege med 1 altså 3 minus to.
+
+2:01:55
+Løsningen af løsningen for mig er altså her bestemmelsen 2 minus 1 1, og det er det, der binder kernen og optager.
+
+2:02:05
+Spørgsmål. Ikke soleklart.
+
+2:02:09
+Fantastisk. Så var det siges det.
+
+2:02:13
+Det var billeder rummer. Vi var set før. Jeg har lige bestemt, at rangen af matricen er tung.
+
+2:02:22
+Det svarer til dimensionen af belåner. Det er der nedskrevet.
+
+2:02:26
+Her skal vi se, om dimension sætningen indeholder ser mere.
+
+2:02:31
+Jeg regnede rigtigt dimensionen af RV. Det var tre her, så jeg husker det.
+
+2:02:36
+Vi tager tre det væk tredimensionale vektorer, som bliver afbilledet for tre.
+
+2:02:42
+Det lige med det besungne kagerne i plus to dimensioner. Billedet rummer, så den er god nok.
+
+2:02:50
+Skal man også se på hvad udspænder billede Rugård er, er lige da vi har se på lidt før.
+
+2:02:57
+Det er, at vi kigger på den reducerede med tryksager, viser den første og den anden søjle vækst.
+
+2:03:05
+Så er linje uafhængig, vi ikke opspind. Først med den anden.
+
+2:03:11
+Så det er tilsvarende søjler væk i den oprindelige afvænnings matrix, der kan give os en basis for billeder år.
+
+2:03:22
+Det er så det man har nedskrevet her sit billedrør billedrammer fr.
+
+2:03:27
+3. Det blev udspændt af de to søjler.
+
+2:03:31
+Flexor. Man kan også undersøge om en væg så ligger i Ballerup.
+
+2:03:41
+Det er så gjort her, har vi at vide.
+
+2:03:45
+Vi vil se, om det er element af billedrammer af træ, og det svarer til det enorme med Løsnings system med afdelings matrix F.
+
+2:03:56
+Grand Ex er lige med B, så om vi vil løse den her ligning.
+
+2:04:04
+Det så gjort her. Og man får at total matrix dannet ved EF og og hvad der to eksempler og skilt
+
+2:04:14
+der betager totalt med dannet F med B et der giver os denne her trapped form.
+
+2:04:21
+Og man kan se at rangen er totalt matricen eller større end koefficient matricen Drang, så det kan ikke løses, og det betyder så at.
+
+2:04:34
+Det her. B mand er skrevet på højre side. Det kan du aldrig få ihjel ved den afdeling, og dermed kan det ikke ligget i Bælum.
+
+2:04:45
+Men i det andet tilfælde der gøre det, da har vi, at rangen er det to matricer producenters tal med to, så kan vi godt løse.
+
+2:04:56
+Vi kan også se, at så løsningen for mig er en dimensional.
+
+2:05:03
+Og man kan så gå hen og løse det.
+
+2:05:06
+Og det er så også gjort her, så det at sove får vi at se på forelæsning, for der lige en sidste ting, og det skal vi.
+
+2:05:17
+Det er et udblik. Det er det, vi skal snakke om på fredag. I mere detalje.
+
+2:05:22
+Der er nemlig én ting, som vi kan gøre med afdelings matricer.
+
+2:05:28
+Som er meget vigtigt. Vi har jo. Kigget på en.
+
+2:05:35
+Tilsvarende ting. Da vi kiggede på baset skifte, da kunne man skifte en basis til en anden.
+
+2:05:41
+Ved hjælp af en Matrix Basses skifte matrix nu her i denne sammenhæng drager vi har sagt vi kigger på afbildninger,
+
+2:05:51
+så kan vi nedskrive en afbildning matrix med hensyn til de baser A og B, der er givet i definition for dispositionen drummer.
+
+2:06:02
+Hvis vi nu i stedet for at ønsker at have en anden basis, så bliver vi nødt til at omskrive det hele.
+
+2:06:10
+Med hensyn til den anden basset og det så vi stager, ja, så lad os sige, at vi var nået så langt.
+
+2:06:18
+Vi har et vektorrum V og W den afbildning, og vi har fundet eller ikke fået ved den her afbildning smages og CV'et videre fundet på fader den med B.
+
+2:06:28
+F. A. Men vi vil hellere bruge en anden basis, fordi det er bedre at regne med en eller anden årsag.
+
+2:06:39
+Så kunne man tænke sig. Man vil finde en afbildning, smage 6 fra den basis, se selv den anden vej, hedder det.
+
+2:06:51
+Jeg allerede nævnte. Vi ved hvordan vi skifter. Hov. Vi ved den.
+
+2:06:56
+Vi ved hvordan vi skifter fra en til den anden Basses.
+
+2:07:00
+Det var denne basis skifte matrix M forklarer koordinat væk for altid se.
+
+2:07:07
+Det kunne også være, vi kender den vej.
+
+2:07:11
+Jamen så prøver at konstruere en afbildning smask før det til se eller for se til det ved at gå hele den vej omkring.
+
+2:07:21
+Her. Det så gjort lidt anderledes, kan jeg se så.
+
+2:07:31
+Lad os sige vi problemstillingen er at. Ja, det er vist lidt forvirrende at se om hvor.
+
+2:07:49
+Det er. Billeder af afklædte.
+
+2:07:55
+Men i hvert fald hvis man vil. Vi ved vi kan opstille en, så i den vases og i den her.
+
+2:08:02
+Og vi vil bestemme, hvad den afbildning smager tryksager.
+
+2:08:05
+Så kan vi gå den vej ved at invitere den matrix gakket med den afvænnings Matrix Po på er kendt,
+
+2:08:13
+og så gå den vej tilbage med den anden med sex og det man får ud af det.
+
+2:08:18
+Det er et Matrix produkt. Det er svært.
+
+2:08:23
+Undskyld. Det er sværd skrevet den forkerte og per stavere lige opskrive helt rigtigt.
+
+2:08:38
+Så hvis jeg forstår det. Kørt til Sverige, blændet ud, men lettere på står det er at manden.
+
+2:09:03
+Man ønsker at nedskrive en afdelings matrix fra c cd basis, og den kender vi ikke, men et sted for kender vi danskere, står det og op.
+
+2:09:21
+Der går fra A til B. Som kan gøre det for kan man simpelt hen skrive det som matrix produkt af denne her kæmpe afbilledes matrix,
+
+2:09:38
+hvad man bliver nødt til at have Basse skifte matrix på, for den basis kender jeg C.
+
+2:09:46
+Hvor alt for. Skal stå a.
+
+2:09:51
+Til Se Hør, hvorfor se så af. Så kan vi bruge den fra a afvænnings masse for basis til B.
+
+2:09:59
+Og så vil vi gå tilbage til det der, hedder det. Så skal vi skæve.
+
+2:10:05
+Havde en basis skiftet. Matrix det på så aller sidst.
+
+2:10:13
+Så de kan se at man undgår at skulle vide.
+
+2:10:20
+Den her afbildning smager tricks, hvis man bare kender hinanden.
+
+2:10:24
+Så kan jeg gennemføre de her basis skift med de tilsvarende matricer og så få en ny afbildning matrix, der tager koordinat væk for selv så.
+
+2:10:37
+Det er det, der er fidusen ved det her, og det ser vi i mere detalje på næste gang på fredag.
+
+2:10:45
+Der er også nogle eksempler her. Der er lige et svar, en lineær afbildning og er to sejre, to brumbasse straf givet, der hedder A.
+
+2:11:00
+Og i afbildningen smager trissende den alle over gedehyrde, der hedder a, f a.
+
+2:11:06
+Den ser sig nu ud. Og spørgsmålet er Hvad er av Ballings matricen for denne afmelding med hensyn til standard baset i to og I er to.
+
+2:11:19
+Der ved vi, at afbildningen smager 3.000.
+
+2:11:25
+Basses skifte matricen så koordinerer du ikke så fra a basis til standard basis.
+
+2:11:32
+Den har i søjlerne Basels vektorerne, der allerede er nedskrevet her og her.
+
+2:11:41
+Der er dog nedskrevet her undskyld. De to vektorer danner basis vektorer, og dem er nedskrevet hér.
+
+2:11:51
+Og vi skal udregne det her produkt, så vi bliver nødt til at finde den omvendte vej.
+
+2:11:57
+Det vil sige ikke for altså, men for ét af først og den inverse matrix, som vi ganger på.
+
+2:12:03
+Så kommer af og til sidst a. M. A.
+
+2:12:07
+Så får vi en ny hav. Buildings matrix fra E.
+
+2:12:10
+C e standard basis. Det var det. Tak for i dag og kolde egentlig og spørger hvad I vil vide når ekstra.

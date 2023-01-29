@@ -1,0 +1,746 @@
+0:07
+Se I har fået et nyt hjemmeopgaver sæt for det sæt.
+
+0:11
+4. Og det skal afleveres fredag morgen i næste uge i det hjemmeopgaver set.
+
+0:18
+Der har I faktisk to meget spændende anvendelser af egenværdier, egne lektorer og diagonale i serien.
+
+0:29
+Den første. Det første eksempel. Det er noget, vi har arbejdet lidt med i gruppe øvelserne dér kunne forstå nogle bestemte.
+
+0:35
+Det hænger i den geometriske plan og det andet eksempel, det er det, vi skal se på i dag.
+
+0:45
+Det er nemlig, hvordan vi kan bruge egenværdier, egne lektorer og diagonale i serien til at løse differentialligninger med.
+
+0:54
+Så det er det, jeg gennemgår i dag. Det er lidt af en nyser, og det kan jeg godt sige med det samme.
+
+1:00
+Der er masser af teknik i det. Som sagt diagonal i serien også har en masse om komplekse tal og komplekse eksponentiel funktion osv.
+
+1:10
+Så er det bare om at prøve at hænge på her. Se, det allerførste er, at vi lige kan snakke om hvordan opstår overhovedet den slags situationer?
+
+1:20
+Og se, nu er jeg tegnet her. En situation fra en Maybellene øvelse, der ligger tættere på gruppe øvelserne i dag.
+
+1:31
+Så situationen er sådan, at vi har to beholdere, der er vand i, og så er der helst salt i.
+
+1:39
+Så vi har nogle salt opløsninger, vi kan se her. Som udgangspunkt altså til tiden nul.
+
+1:46
+Der kan vi sige, at der har den første tønde måske en saltkoncentration på tre, og den anden har en saltkoncentration på 1.
+
+1:53
+Det vi så gør der, så sætter vi et røgeri her. Og så lær lavet at vi tilfører noget rent vand.
+
+2:10
+Så nu kommer deres rent vand ind i den første her, og så forsyner vi os med et gennemgangen røre her.
+
+2:20
+Så er der går lige så meget væske igennem per tidsenhed, som der kommer ind, og så topper vi så ud.
+
+2:32
+Så vi altså har sådan et et flyver igennem de her to beholder.
+
+2:36
+Og så er det jo klart, at det vi nu så prøver at betragte, er hvordan vil saltkoncentration så udvikle sig afhængigt af tiden?
+
+2:47
+Og så kan vi kalde saltkoncentration i den første.
+
+2:52
+Den kalder vi så ikke slipper the. Og saltkoncentration i den anden ægsortering.
+
+3:02
+Det er uklart. Koncentrationen falder fordi jeg kører rent vand ind, så der sker sådan noget.
+
+3:08
+Udvaskning kan man sige, da jeg jo så en forskel på de to situationer her, fordi X2 saltkoncentration her.
+
+3:17
+Hende afhænger selvfølgelig af, hvordan saltkoncentration i den første tank udvikler sig.
+
+3:24
+Så der er så en afhængighed af altså X2 afhænger af exit.
+
+3:30
+Og hvis jeg yderligere komplicerer situationen, så kunne jeg, hvis vi har en situation,
+
+3:36
+hvor der også er et røre her, så vi altså har et tilbageløb et vist tilbageløb hér.
+
+3:46
+Så vi altså får noget cirkulation af forskellig slags.
+
+3:50
+Så vil exit altså saltkoncentration her, så vil den jo også være afhængig af saltkoncentration i tanke nummer to og i den mail, Blue Ocean nævnte.
+
+4:03
+Der bliver jeg altså lige som gejlede til at lave en matematisk model af den situation her.
+
+4:10
+Og det vil jeg så ikke. Nu har jeg præsenterede opgaven.
+
+4:12
+Jeg vil ikke gå mere ind i det, men det jeg så vil gøre, det er så at sige Hvordan behandler vi matematisk de modeller, som vi kommer op med?
+
+4:24
+Og nu kan I se her.
+
+4:33
+Så jeg forventer at I får en model der nogenlunde ligner det her, ikke med de talte eksempler, men altså i selve Linings formlerne.
+
+4:46
+Så jeg har her et eksempel. Exit mærke RT er lig med 10 x eter 10 minus 12 X2 og ting.
+
+5:04
+Og så har vi X2 mærket til er med seks exit til.
+
+5:16
+Minus 8 X2 to ting. Så jeg forventer I når frem til noget der ligner det her, skal vi lige prøve at kigge på den første her.
+
+5:32
+Det er jo klart en første ordens lineær differentialligning.
+
+5:38
+Her har vi altså den ubekendte funktion except, som vi kan finde.
+
+5:43
+Men hov. Problemet er, at sidste gang, da havde vi en kendt funktion, der hed kure til is.
+
+5:50
+I sådan en differentialligning. Nu er det i stedet for en ny ukendt funktion, der står der.
+
+5:56
+Sådan noget. Jeg kan ikke løse den ligning alene.
+
+6:00
+Det svarer jo altså til, at hvis jeg går op og kigger på den der.
+
+6:02
+De to problem stikker de fuldstændig afhængig af hinanden, og her har vi altså en differentialligning, der ligner fuldstændig.
+
+6:10
+Denne her er altså bare nu X2, der er i fokus. Men denne er jo altså afhængig af exit, så sådan et differentiabel problem, som vi har her.
+
+6:22
+Det kalder vi for ja, et differentialligning system, og vi kalder det for koblede differentialligninger.
+
+6:28
+Vi kan ikke løse den ene, uden at vi kan løse den anden. Vi er nødt til at løse dem samtidigt, og det er rigtig, rigtig svært at finde ud af.
+
+6:37
+Hvordan skal vi overhovedet gøre det? Så vi må jo prøve at se, om vi kan gå lidt frem efter.
+
+6:47
+Hvad skal vi sige? Matrix metoder. Og det er altså det jeg nu begynder på om lidt.
+
+6:56
+Fordi den generelle metode, den generelle form, den opstiller jeg i løbet af, at jeg gennemgår det her eksempel.
+
+7:04
+Og ja, jeg har antydet den begyndelse betingelser.
+
+7:09
+Altså, der er jo en bestemt udgang situation, så dem skal jeg så bruge, hvis jeg skal finde en betinget løsning.
+
+7:17
+Og så er der altså noget med komplekse egenværdier os.
+
+7:22
+Puha! Altså da alt mo med konjugerede Inger og eksponentielle funktioner.
+
+7:27
+Jeg ved ikke hvad. Så glæd jer til det. For så har vi jo også nogle invalide matricer, kan vi sige.
+
+7:35
+Det er den slags matricer, som ikke kan samle geometrisk multiplicere tæt nok til, at vi kan få løst dem.
+
+7:42
+Og hvad kan vi så gøre? Ja, det er det, vi kigger på til sidst når.
+
+7:52
+Det her system, det vil jeg gerne løse under den begyndelse betingelser som står der oppe på den øverste tavle,
+
+8:02
+og I kan se at jeg starter med at skrive ex et mærke rt x2 mærke rt.
+
+8:14
+Og så kan jeg exit både dér og dér, og det betyder, at jeg kan sætte en seta t neden for.
+
+8:27
+Og så har vi plus X2 og the.
+
+8:33
+Og minus 12 minus otte. Og Matrix' vektor product igen kan I se.
+
+8:49
+Det svarer jo til, at vi har lavet et matrix vækster produkt af den form her 10 6,
+
+8:57
+minus 12, minus 8 og sagt ganget med den første funktion og den anden funktion.
+
+9:14
+Jo, altså svarende til vi tager den dér ganger med den første søjle, så har jeg dette plus den hernede gange med den anden søjle.
+
+9:23
+Så har vi det op. Så med et svigter Prado baglæns. Se, nu vil jeg skrive det her på en altså mere en generel form.
+
+9:36
+Den dér. Den kalder jeg for den ukendte vægtere.
+
+9:47
+Så nu betragter jeg de to ukendte funktion som en ukendt vektor.
+
+9:54
+Og den er differentieret. Dér har jeg matricen A.
+
+10:02
+Den kalder jeg for system matricen.
+
+10:11
+Og dér har jeg igen den ukendte vækster denne gang ud differentieret, så det vil altså sige det problem vi studerer i dag.
+
+10:22
+Det er altså en problem at den her type. En ukendt vægter differentieret er lig med en kvadratisk système matrix.
+
+10:38
+Og så gange med den ukendte vækster differentieret. Se.
+
+10:48
+Den idé jeg har, er altså. Jeg har hørt to ligninger som er koblede og som er umulige at løse.
+
+10:58
+Nu vil jeg erstatte dem med to andre ligninger.
+
+11:03
+Ved hjælp af egne værdier egne vektorer og giver hun alting to andre ligninger,
+
+11:08
+som er afkoblet, og som jeg nemt kan løse ved hjælp af de former, jeg kender fra gymnasiet.
+
+11:14
+Så det er min målsætning her, og jeg starter med at kigge på egenværdi problemet, fordi jeg spørger om a den har egenværdier.
+
+11:28
+Og så kigger vi jo på. System Matricen 10 minens lamper minus 12 6 minus 8 minus Lambda.
+
+11:47
+Den tager determinanten af. Det er ti minus Lampre gange minus 8 minus Lampre og så minus 6 gange minus 12.
+
+11:59
+Det er plus 72. Og det regner jeg så lige ud.
+
+12:05
+Vi får lam i anden. Og så har vi minus 10 lamper plus 8 lamper, det giver minus to lamper.
+
+12:17
+Og så har jeg minus 80 plus 72 gram endnu, så det er så 1.
+
+12:25
+Her har vi de karakteristiske polynomium. Et andet på linoleum.
+
+12:35
+Og vi kan se her. Det er nemt at se det er da en rod på 4 16.
+
+12:42
+Mine sorte mine sort og en rød på minus to giver fire og så plus fire og endnu minus ordentlige manuel.
+
+12:53
+Sådan har jeg rødderne lambda et lig med fire og lam der to lige med minus to.
+
+13:06
+Og så kigger vi på a minus den første egenværdi, som var fire.
+
+13:16
+Og så får vi matricen. Vi kan tilbage til den oprindelige.
+
+13:22
+Træk fire fra i diagonalen. Så har vi i 6 og vi har.
+
+13:31
+Så har vi minus 12. Og så har vi sex, for så har vi minus 12.
+
+13:41
+Og så vil det med sex. Så har jeg en minus 2.
+
+13:48
+Og den denne her går væk med den det er op. Så har vi altså nul nul her.
+
+13:52
+Så vil jeg sige, at jeg har ejet værdien 4 og egen rummet, der hører til fire.
+
+14:01
+Den er så spændende at 1,2 som jeg altså aflæser her fra, så det her er så en egen vektor som hører til egenværdi 1 4.
+
+14:13
+Og så tager vi A og så den anden egen vej.
+
+14:18
+Det var minus to. Så nu skal alle sige minus minus to I giver plus to.
+
+14:27
+Så nu skal jeg altså lægge to til diagonalen. Så får vi 12, og jeg har mindst tolv, og så har jeg sex.
+
+14:35
+Og så har jeg lige nu sex. Og dividere med 12 her i første række for den sidste til at forsvinde, så står der altså en lige nu sten.
+
+14:47
+Nul og nul. Og så har vi her egen rummet der hører til minus 2.
+
+14:54
+Det er udsendingen af vægteren, som jeg aflæser her.
+
+14:58
+Ind kommer en. Og så ved jeg jo, at hvis jeg nu sætter en Matrix V.
+
+15:15
+Så hvis vi sidder.
+
+15:19
+Altså definere en matrix ved hvor jeg hiver den første egenvægten ud én over to, og jeg hiver den anden indikator ud, som er en over en.
+
+15:38
+Og så indfører jeg også en diagonal med et trick, som jeg kalder for Lambda.
+
+15:46
+Og som består af egne værdierne i diagonalen. Så under den definition der står her, så ved jeg jo så, at så gælder det at lammet der.
+
+16:11
+C Nej, jeg skal jo ned på en anden måde, skriver V i minus første A V.
+
+16:23
+Er så lig med lam, da det diagonale i seriens metoden, som jeg har lavet her godt.
+
+16:34
+Se, nu har jeg brug for A jeg vil så gerne isolere A i den ligning der står her.
+
+16:40
+Og det gør jeg ved at gange fra venstre med V og fra højere med minus vind, fordi så forsvinder de her to.
+
+16:51
+Og så har jeg altså isoleret af matricen.
+
+16:57
+Den er så ved, og så har vi lamper. Og så har vi V i minus første.
+
+17:09
+Så det var min egenværdi problem løsning jeg har lavet her.
+
+17:17
+Så hvad er det vi har gang i? Ja, vi har jo gang i, at vi skal have løst den ligning, der står her.
+
+17:24
+Den matrix ligning, der står her, som jo altså stammer fra mit oprindelige differentialligning system.
+
+17:31
+Så jeg vil altså gerne løse, at den ukendte vægt så differentieret er lig med system matricen og så.
+
+17:45
+Den ukendte vægter ud differentierede. Og det er jo så ensbetydende med.
+
+17:57
+Og nu skriver jeg hele denne her det her matrix product op i stedet for af.
+
+18:02
+Så nu har jeg altså her ved. Jeg har lamper, og jeg har været i minus først, og der så er ganget med den ukendte vektor her.
+
+18:16
+Og så finder jeg på nu at gange med ved enhvers fra venstre fra begge sider.
+
+18:27
+Så har jeg ved. Og så gange med den ukendte vægt så differentieret og ved at jeg ganger med enhvers på venstresiden, så forsvinder den dér.
+
+18:40
+Så har jeg altså Lambda V i minus Svarstad og den ukendte detektor.
+
+18:52
+Set, så er der lige en tikkende teknikalitet her, som jeg håber I er med på.
+
+18:58
+Her står der et Matrix Spectra produkt. Det her er nogle rene tal, for det er jo bare de tal, der står i min v matrix.
+
+19:07
+Det er op og her henne. Der har I to funktioner, som er differentieret, så altså gange denne her med de differentierede funktioner.
+
+19:17
+Det kan jeg lige så godt gøre i den omvendte rækkefølge, så jeg først ganger V i minus første med den ukendte funktion ude foran Céret osv.
+
+19:26
+De fronter jeg bagefter. Det er nøjagtig det samme. Så bliver al-Sisi det, der står her.
+
+19:31
+Det kan jeg i stedet for at skrive sådan her.
+
+19:39
+Matrix produktet af V minus først den ukendte vektor, når jeg har gang i dem sammen, så de France serier.
+
+19:54
+Og så skriver jeg lige altså faktorernes orden herovre er jo ligegyldig.
+
+20:00
+Der er tre faktorer. Og så betragter vi altså først lamper, og så sætter vi de sidste to faktorer her for sig.
+
+20:14
+Nu har jeg nemlig opnået noget som er ret smart, fordi nu har opnået,
+
+20:18
+at der står det samme i den parantes, der står her, som der står i den parantes herover.
+
+20:27
+Så læg mærke til at nu kommer tricket. Jeg indfører nemlig nogle nye funktioner, som jeg kalder for øy funktioner.
+
+20:44
+Nu har jeg altså en ukendt by vægtere. Som består af to ukendte funktioner.
+
+20:54
+Y etter there you to the. Som er lig med ved i minus første og så.
+
+21:04
+Den oprindelige ukendte vækster, der står på den måde her. Se hvis jeg gør det her.
+
+21:16
+Så opnår jeg nu fra at jeg går her. Så opnår jeg nu en ny ligning.
+
+21:28
+Nemlig herfra står der jo den nye ukendte vækster vi mærke er lig med lamper og så den nye ukendte funktion ud differentierede.
+
+21:45
+Sådan her, så jeg startede altså her med mine eks funktioner.
+
+21:53
+Et koblet system. Og nu er jeg havnet her.
+
+22:00
+Det var lige præcis det jeg gerne ville det her. Det er et afkoblet system.
+
+22:07
+Og hvorfor er det egentlig det? Lad os lige prøve at se her står der jo så.
+
+22:22
+Så her står det jo så y et funktionen differentierede by to funktionen differentierede.
+
+22:36
+At lege med min lambda funktion, som jo kommer helt op fra.
+
+22:42
+Og som var 4 0 nul fra minus to.
+
+22:48
+Og så gange. By funktionerne udi Francis J.
+
+22:59
+Og så laver vi lige det her med et trick svigter produkt, og der får jeg lige præcis her fra den første.
+
+23:06
+Der får jeg så fire y et t.
+
+23:12
+Og her får jeg minus to i to ting.
+
+23:21
+Og kan I se hvad jeg har opnået? Nu har jeg opnået at Y et mærke er lig med fire y et.
+
+23:40
+Hvad er yeah? Hvad er Y et af the så lig med? Men er du opdaget?
+
+23:59
+Ja, vi skal bruge et, vi skal bruge den. Helt sikkert. Du skal løse den differentialligning, der står her.
+
+24:05
+Y Et mærke er lig med fire. Hvad er det for en funktion som differentieret med sig selv?
+
+24:11
+Differentieret giver sig selv gange med fire se. Dets konstant, så skal vi have fat i hvilken kendt funktion jeres.
+
+24:29
+Så har vi den der. Og i 2.
+
+24:35
+T. Er lig med 2.
+
+24:39
+E i minus to ting fordi det er jo den differentialligning, der så står her.
+
+24:45
+En funktion der differentieret er minus sig selv ganget med 2.
+
+24:51
+Og det har de løsninger, der står i gymnasie formel sammenhæng.
+
+24:54
+Fra et meget besværligt dining system har jeg altså nu kunnet løse et andet lignende system.
+
+25:04
+Hvad kan jeg så bruge det til? For det er jo min.
+
+25:08
+Jeg vil jo vide med Exit og X2. Hvad er så?
+
+25:12
+Nu skal jeg tilbage igen. Og da tager jeg så udgangspunkt i det der står her.
+
+25:22
+For der står der jo at by er the. Har jeg indført som den er ved matrix invaderet.
+
+25:33
+Og så ikke så ting. Og nu kan jeg jo bare gå baglæns.
+
+25:41
+Jeg ganger med ved matricen fra venstre begge sider her.
+
+25:46
+Så får jeg isolerede eks. Og så på den anden side kom der så til at stå ved matricen og så gange byer til.
+
+26:09
+Så lad os se. Så har vi altså ikke sorte.
+
+26:16
+At lege med og lad mig se mine ved med trick teksten står det op.
+
+26:23
+1 over 2 1 over 1. Og så har vi altså.
+
+26:31
+By vektorerne. Som var det et.
+
+26:39
+Og det er bare én i fire ting.
+
+26:43
+Og den anden det var c2 e i minus to rt.
+
+26:52
+Og så igen. Dette er et trick Sumatra produkt jeg skal tage den øverste det øverste element.
+
+27:02
+C et E i fire t. Og gange med den første søjle der står hen.
+
+27:10
+Det er en over to. Og så skal vi sige det andet element gange med den anden søjle, altså c2 e i minus to t.
+
+27:23
+Og så ind over en. Der var løsningen.
+
+27:32
+Det her er den fuldstændige løsning på differentialligning systemet. Vi skal nok lige vænne sig til at se, hvordan det egentlig er læge, så det her.
+
+27:41
+Men der står jo her. Der står ex et. At se et fire i gang i den der pludselig to gange den gang i den der.
+
+27:53
+Og X2. Den ganget med den plus den gange med den.
+
+28:04
+Så. Det er kun lige første gang man ser dem, og ser det besværligt ud, vender jeg til det,
+
+28:12
+og specielt håber jeg, at de kommer til at synes, at dette er en fantastisk smuk formel.
+
+28:18
+For vi har været i gang med noget med salt opløsninger og altså en fysisk problemstilling, og vi har løst den.
+
+28:32
+Der kommer selvfølgelig to op i træer konstant og ind i den, men prøv at se denne her eksponentiel funktion.
+
+28:39
+Det er høje og den første egenværdi. Dér har jeg den egenvægt som hører til dem.
+
+28:48
+Dér har jeg den anden egenværdi minus 2, og her den egenvægt, der hører til den.
+
+28:55
+Det er simpelt hen det der er indholdet i denne løsning.
+
+28:59
+Egen værdierne og egne vektorerne for system matricen.
+
+29:03
+Flottere kan det næsten ikke være. Se det jeg har gennemgået nu.
+
+29:16
+Det har så været et. Altså et system, der består af to ligninger med to ubekendte.
+
+29:24
+Se i tekniske anvendelser.
+
+29:29
+Der er så nogle line og lignende systemer.
+
+29:32
+De er meget hyppige, og nogle af de store projektopgaver vi har, når vi skal lave det store projekt i foråret,
+
+29:40
+handler om sådan nogle systemer her, og jeg ved ikke, om jeg tror, der er nogen af jer, der har.
+
+29:45
+Har er nogle af jer, der har arbejdet med svingninger svingende systemer.
+
+29:50
+Det har jeg, fordi for eksempel vi siger hvis vi tager 12 metal klodser og sætter nogle fjeder ind imellem dem og så skubber til den ene side,
+
+29:59
+så begynder de der. Og så hvis man modellere det, så kan man så sætte det op i altså i 12.
+
+30:08
+Første ordens lineære differentialligninger med 12 ukendte funktioner.
+
+30:13
+Og da den metode her jeg har brugt den, kan generaliseres sådan, at så får vi ikke en system med tricks på 2 kryds to.
+
+30:25
+Men så får vi en système matrix på 12 gange 12.
+
+30:29
+Og der vil det så være den samme model her. Når man skriver løsningen op altså en eksponentiel funktion,
+
+30:38
+den første regnmængder eller egenværdi og dens første egen digter og så videre ud til den tolvte egenværdi, da så at garnede på den tolvte egn væk.
+
+30:48
+Som altså nu bliver lidt højere.
+
+30:50
+Men det vil altså sige, at den diagonal i serien vi har set hér, er altså virkelig noget, der er meget aktuelt i tekniske anvendelser.
+
+31:05
+Se. Det her jeg har fundet.
+
+31:10
+Og det er jo dér man næsten altid starter. Det er den fuldstændige løsning på et differentialligning systemet,
+
+31:16
+og det har jeg så gjort, fordi nu kan jeg så gå ind og kig påbegyndelse betingelser.
+
+31:22
+Der er jo en bestemt salt opløsning i hver af de her tønder, inden jeg sætter røret på og begynder at hælde rent vand ind.
+
+31:44
+Så nu vil jeg finde den løsning der opfylder begyndelse, spørger de.
+
+31:51
+Betingelsen. Se, nu kan jeg så begynde at skrive den op.
+
+32:08
+Exit er nul. X2 er nul.
+
+32:17
+Og nu begynder jeg simpelthen at skrive her. Det er at se et.
+
+32:23
+Og tiden er nul, så vi får her e i nul.
+
+32:29
+Gange med den første egen vektor og plus 2, og så får vi også her e i nul.
+
+32:38
+Og gange den anden egenvægt, så det vil sige det er c et.
+
+32:45
+Og så en over to. Plus et 2.
+
+32:51
+Og så er det en over en. Og igennem.
+
+33:02
+Det er noget jeg bruger rigtig tit. Matrix vækster product i baglæns rækkefølge.
+
+33:09
+Det er jo en over 2 1 over 1.
+
+33:15
+Og så gange med det. Det der nu er det ukendte, nemlig de to konstanter her, som jeg skal bestemt.
+
+33:24
+Og begyndelsen svært. Betingelsen er bare at den første skulle være tre, og den anden skulle være en altså begyndelse svær.
+
+33:31
+Betingelsen for tiden. Nålen dermed en ukendt vektor.
+
+33:35
+Den er det, der står her hen, og nu har jeg altså regnet ud sådan som vi har her.
+
+33:41
+To ligninger med to ubekendte, som har en total matrix.
+
+33:53
+Som vi så har to 1. Og så 1 1 og så 3 og 1.
+
+34:01
+Sådan her. At omvendt.
+
+34:28
+Øv. 1 og 2 skulle du være. Sondern.
+
+34:36
+Og så får jeg. Trap T til en over nul, nul over 1 og 2 og minus 1.
+
+34:49
+Det vil sige, at så har vi, at den første konstant skal være to, og at den anden konstant skal være minus 1.
+
+35:00
+Og så min betingede løsning. Den er så at funktionen salt opløsningen i den første tønde den skal så være sikker, har vi.
+
+35:23
+Der har vi. Nu har vi altså fundet sep. Den er så det var den der var 2.
+
+35:29
+Og så den 2. Og så gange en.
+
+35:37
+C 2, 2 og så H.
+
+35:45
+Det vi skal. Vi skal jo helt. Vi skal helt op helt oppe foran.
+
+35:48
+Altså vi har altså set, den er to gange en i fire ting og så den anden konstant.
+
+35:57
+Den er minus én, og det er også det, jeg har stående hen i vektoren, der så bliver minus i de minus to ting.
+
+36:06
+Og så har vi stort set. Der er lige mad, og der har vi stadigvæk to, så der får jeg altså fire ind i fire ting.
+
+36:19
+Og så har vi set to der minus én og så minus én i minus to ting, så her har jeg altså fundet den.
+
+36:30
+Betinget af løsningen. Og det her var jo kun et eksempel jeg havde lavet, for læg mærke til at jeg sagde, at nu tager jeg bare.
+
+36:41
+Altså et eller andet eksempel. Her. Det jeg har fundet hende.
+
+36:48
+Det er en korrekt løsning ud fra det eksempel jeg har lavet her.
+
+36:54
+Det kan jo ikke være en løsning på den problemstilling, som der er op.
+
+37:00
+Så det vil jeg sige der kan være noget galt med det tal eksempel jeg har lavet her.
+
+37:05
+Hvordan kan jeg se det? Hvis jeg du hvor de har sat Thomsen saltkoncentration lønninger jo præcis.
+
+37:13
+De kan jo se, at der er nogle kraftige funktioner der ind i fire ting.
+
+37:17
+Den vokser helt vildt hurtigt og her som der bliver sagt selv kun stationen.
+
+37:23
+Den må jo være faldende i begge tønder. Så jeg tror, vi skal nok finde et eller andet.
+
+37:28
+Når I kigger på det i dag, så skal vi nok finde noget, hvor vi har sådan nogle negative eksponenter i det her eksponentielle funktioner.
+
+37:35
+Pause.

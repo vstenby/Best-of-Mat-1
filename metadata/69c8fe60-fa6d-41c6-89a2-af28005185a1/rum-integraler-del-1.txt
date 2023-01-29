@@ -1,0 +1,779 @@
+0:06
+På morgen Vi har haft que integraler.
+
+0:11
+Vi har haft planer integraler, vi har flade integraler,
+
+0:15
+og i dag skal vi have afslutningen på grundkursus i integrations regning, og det er rum integraler.
+
+0:22
+Så har vi haft alle de integrations typer, vi skal have. Vi har kigget på belastningen.
+
+0:29
+Funktioner hvor vi tit har sagt, det er en masse tæthed funktion.
+
+0:34
+Nu skal jeg i gang med projektet. Opgaverne bliver oploadet i eftermiddag, og når I er færdige med projektet, så genoptager vi integrations regningen.
+
+0:44
+Men nu er det I vægter felter, altså i rummet.
+
+0:49
+Da forestiller vi os, da er vægtere felter. Det kan være strømningen af vand, eller det kan være elektromagnetiske felter,
+
+0:59
+og der skal vi så observere forskellige typer af belastninger på objekter,
+
+1:04
+så der skal vi altså se på integration i vægt og felter, så det bliver forhåbentlig rigtig spændende.
+
+1:11
+Det her er altså grunden, kurset og lad os lige se på, hvad det er, vi skal i dag.
+
+1:18
+Vi har et rummeligt område, det indeni det rum rummelige område.
+
+1:24
+I et hvert punkt kender vi en belastning funktion, altså en funktion af x, y og Z, så vi kender for eksempel i form af en regne forskrift.
+
+1:35
+Da kender vi, hvad belastningen er i hvert eneste punkt.
+
+1:40
+Men det spørgsmål vi stiller det er hvilken virkning har den her belastning på det samlede objekt vi betragter?
+
+1:49
+Altså når vi kender alle de små virkninger inden i objektet.
+
+1:54
+Hvad betyder det så for hele ideen? Det er det, vi regner ud, og det er det, integralregning handler om.
+
+2:05
+Når det er akse parallelt, så ved vi fra rigmanden integralet, at så er det meget simpelt.
+
+2:13
+Den komplicerede tredimensionelle problemstilling jeg lige ridsede op.
+
+2:20
+Den kan vi nemlig udregne som tre på hinanden følgende endimensionale indtag en integraler.
+
+2:30
+Og hvor vi altså bare skriver vores belastning funktion ind her. Og skal vi bestemme volumen af det?
+
+2:38
+Det ville jo være nemt nok i forvejen. Men når vi skal udregne volumen, jamen så er det det samme som at integrere over en.
+
+2:50
+Så hvis verden var fuld af akse parallel områder i rummet, så var vi færdige nu.
+
+2:57
+Men der er jo også mange andre typer af områder.
+
+3:08
+Så jeg skulle lige finde en boksering.
+
+3:10
+Den er ikke særlig elegant, men lad os nu se, at det var det, og vi altså skulle integrere over den, og den lå akse parallelt.
+
+3:19
+Så var det altså nemt nok. Men man skal sådan set ikke ret meget til for at det ikke er lige så nemt mere.
+
+3:26
+Se, se hvis jeg nu. Hvis jeg nu tager den her skær hele vejen igennem, smider det øverste væk.
+
+3:39
+Så bryder den 90 grader. Så sker jeg en gang til.
+
+3:44
+Dem her. Så kan jeg se den kommer her.
+
+3:52
+Og den kommer her. Så er der altså sådan en fit figur tilbage. Jeg saver altså to gange.
+
+3:59
+Og mit spørgsmål til jer er så. Det tetraeder der er tilbage, hvor stort et volumen har det i forhold til den fuglekasse.
+
+4:10
+Er nogen der har et gæt på det. Hvad siger du?
+
+4:17
+En fjerdedel har budt ind. At alle der spiller på det eller nogen der andre forslag.
+
+4:43
+Det ser ud til der enighed om en fjerdedel, så blev vi altså bruge lige om lidt.
+
+4:48
+Så ville vi bruge slave metoden, nemlig integralregning til at udregne volumen af det objekt, der bliver tilbage.
+
+5:06
+Og så siger vi at brede den den er a.
+
+5:15
+Længden. Den er lige med B og Højby er lige med at.
+
+5:26
+Så er det jo klart at volumenet af hele boksen.
+
+5:34
+Den er jo så at se. Og lad os nu prøve at kigge på det objekt, der kom ud af den beskæring jeg lagde, siger han.
+
+5:45
+Vi får nemlig et tetraeder, som vi kan tegne på denne her måde i x y z koordinatsystemet.
+
+6:07
+Og hvad vi så kan sige at den går ud til A. Her på x aksen.
+
+6:13
+Den går ud til b på byer aksen.
+
+6:20
+Og så har den altså den firkantede bund hér. Og så har den.
+
+6:28
+Så siger vi at den har højden se, og så har jeg så det her.
+
+6:34
+Til træder. Sådan er.
+
+6:45
+Og det er altså volumen og tiltræder som jeg vil udregne.
+
+6:51
+Se, nu vælger jeg mig et vilkårligt punkt her i dette punkt her op.
+
+7:00
+Det vil jeg kalde for P. Det er nul komma nul komma se.
+
+7:08
+Og så vælger jeg et vilkårligt punkt nede i den her firkantede bund.
+
+7:21
+Og så kan jeg kalde. Det er tal der her på ikke saksen.
+
+7:26
+Det vil jeg kalde for ud det her tal. Jeg har på nuancen det vi har kaldt for V.
+
+7:33
+Og så vil det sige, at det er punkt Q, der ligger hernede. Q Det har altså koordinaterne uden komma ved komma nul.
+
+7:53
+Og jeg er så i gang med at parre med et frisere dem her.
+
+7:56
+Det her tiltræder, og jeg kan se dem væk, så jeg vil betragte det som p q kuverter.
+
+8:07
+Det er den vektor der ligger her. Kom og lad os skrive om.
+
+8:25
+Koordinaterne for P Q vægter. Det er jo o minus nul.
+
+8:33
+Det vil sige U, og så er det ved minus nul.
+
+8:38
+Det vil. Og så er det nul minus se.
+
+8:42
+Det vil sige det er man lige nu se. Og nu er jeg klar til at give en far med trisser ring af hele området.
+
+9:02
+Altså parameter fremstilling. For tetraeder.
+
+9:12
+Det har vi så er da u komma v kommet W.
+
+9:20
+Nu har vi tre variable i vores parameter fremstilling.
+
+9:29
+Og sædvanlig metode Vi tager begyndelse punktet p.
+
+9:36
+Som er nul nul. Se. Og så har vi retnings vektoren p, q, h, som vi altså har her opført.
+
+9:50
+Det er U, V og minus C.
+
+9:56
+Og den skal vi så gange med en parameter. W.
+
+10:08
+Og lad os lige se det jeg altså gør, det er, at nu gennemløber jeg hver eneste punkt i den røde vægtere her,
+
+10:17
+og det gør jeg med den parameter, der står dér.
+
+10:22
+Og så får vi altså foruden, når vi regner det sammen, så får vi W gange med U vi får W ganget med V og så får vi minus dobbelt.
+
+10:36
+V, c. Hvor og nu kommer pointen.
+
+10:44
+Spidsen her den flytter jeg nu rundt, så vi løber hele ugen igennem, så vi løber hele vejen igennem.
+
+10:52
+Det vil sige, den bliver væk og kommer til at røre hver eneste punkt til og med i det her kvadratiske område her.
+
+11:00
+Det vil sige på den måde.
+
+11:01
+Når jeg så løber vektorerne igennem, så får jeg tegnet uendelig mange linjer igennem hele tetraeder og dermed ramt hver eneste punkt i tetraeder.
+
+11:11
+Hvad siger du? Se par. Ja, det gør.
+
+11:19
+Der skal stort set minus, og det er det der kommer her hen,
+
+11:23
+frem og hvor U altså ligger i intervallet fra nul til A og V ligger i intervallet fra nul til B og W ligger i intervallet fra nul og til en sådan.
+
+11:48
+Så har vi altså et parameter fremstillingen for tetraeder, og selv skal jeg bruge det om lidt, når jeg skal udregne brum integralet,
+
+11:58
+og at det er klart, at jeg skal ud i sådan et triple integral tre på hinanden følgende enkelt dimensionelle integraler.
+
+12:11
+Men det er klart, det er ikke nok, at det er belastningen funktionen, der står her.
+
+12:15
+Den skal stå her, men der skal en Jacobi faktor på, og det er det, vi skal snakke om nu.
+
+12:21
+Hvordan Jacobi faktoren ser ud. For sådan nogle rumlige områder her.
+
+12:41
+Og lad os sige at der er givet et rummeligt.
+
+12:49
+Byområde. Omega og en belastning står motion.
+
+13:06
+Hun. F.A eksformand Y kommer set.
+
+13:15
+Og det vi altså skal. Bestem den samlede belastning.
+
+13:28
+For eksempel Madsen. Som vi skriver som integralet over omega A f a eksformand y Kommersant D my.
+
+13:49
+Har lavet er udkommer, vi kommer W.
+
+13:56
+Gør hver en parameter fremstilling.
+
+14:12
+For at omega. Hvor.
+
+14:23
+U komma V kommer W. Tilhører et område det.
+
+14:34
+Som er bestemt ved. At U ligger imellem A og B.
+
+14:47
+V ligger mellem. Plan B og C.
+
+14:58
+Og et W ligger imellem. Nej, se og det.
+
+15:04
+Og så ligger W. Imellem E og F. Så har vi nemlig fået lignede situationen op.
+
+15:15
+Der er givet et område omega, og jeg har så valgt en passende parameter fremstilling.
+
+15:24
+Som som er defineret på en boks og det kan jeg altså se A, at U og V og de ligger hver.
+
+15:33
+Imellem de her faste interval grænser.
+
+15:43
+Og så en opdeling. At det i små ryk tanker.
+
+16:00
+Som er akse parallel. Medføre en opdeling.
+
+16:15
+Er omega i små områder.
+
+16:24
+Og lad os kalde dem for. Delta Omega.
+
+16:32
+Og tilsvarende disse små richtung der her. Dem kan vi kalde for deltager.
+
+16:36
+Det. Der bliver bokset tak for det, fordi så får jeg også plads.
+
+16:54
+Tak. Så det er altså den sædvanlige situation, altså mit u, v, w røv er referencer mod bliver delt i en hel masse små punkter,
+
+17:09
+og så får jeg en hel masse små områder, der svarer til i ægge syge sæt.
+
+17:15
+Og så laver jeg altså dette her med fordi at belastningen funktionen er kontinuert.
+
+17:20
+Så har jeg bare brug for et test punkt, og så ganger jeg masse tætheden med det lille område, og nu begynder tegningerne jo at blive komplicerede.
+
+17:32
+Så derfor vil jeg nøjes med at tegne et enkelt af disse delområder, vi har her.
+
+17:45
+U V W i rummet.
+
+17:55
+Og. Og lad os sige at det er det er en lille boks i U, v, w området, altså den boks jeg har kaldt for.
+
+18:24
+For dels er det nu går vi så hen i x y z rummet.
+
+18:44
+Og så ser vi hvordan denne her parameter fremstilling, hvordan den er, former det her lille.
+
+18:50
+Denne lille boks fra det kunne være, at det står sådan herud.
+
+19:13
+Så denne parameter fremstilling er. Den tager altså denne her boks, og det er for mere til det område som i Se og Hør hende.
+
+19:28
+Også lad os sige at det punkt der ligger herinde. Dette punkt.
+
+19:35
+Lad os sige at vi kalder det for. Kommer vil komme dobbelt ved.
+
+19:41
+Så bliver det punkt afbilledet over i det punkt der ligger her.
+
+19:47
+Det vil sige det kalder vi for er er u er ved at W.
+
+19:59
+Og nu skal jeg så til at have vejet det rummelige område jeg har her i x y z planen, og det I ved er, at.
+
+20:12
+Der tegner sig belastning funktionen i det punkt.
+
+20:16
+Her. Og så siger jeg altså, at det her altså er området her.
+
+20:24
+Det er altså det jeg kalder for. Delta Omega også siger vi bidraget til samlede belastning.
+
+20:46
+Fra dette lille område her. Er sagt givet ved at vi tager.
+
+20:55
+Funktionen i test punktet. Og det ganger vi så med rumfanget.
+
+21:09
+Så sig. EHF testede her gange med volumen af det der, så har jeg Madsen eller den samlede belastning af det her.
+
+21:19
+Men nu er det jo et meget hvad skal vi sige?
+
+21:24
+Ubekvemt, smukt, men ubekvemt område jeg har her.
+
+21:28
+Jeg ville jo meget nemmere have det, jeg kender noget til, nemlig det er akse parallel område dér henne.
+
+21:36
+Hvad siger du? Nogle gange tog de unge, der skal vænne sig. Den der.
+
+21:47
+Ja, det er det omega jeg i ugevis. Ja tak.
+
+21:51
+Tak for det. Den skal hedde Delta det gamle.
+
+21:58
+Det er rigtigt, at så tager vi altså værdien her og ganger med volumen af dette.
+
+22:04
+Så det er rigtig nok. Så siger jeg bare jer dog i stedet for at bruge den sammensatte funktion og så teste her hen i stedet for.
+
+22:14
+Altså til F. Er I det her punkt.
+
+22:30
+Så nu tager jeg altså den sammensatte funktion her og bruger i det punkt til at hende.
+
+22:35
+Det giver jo klart det samme tal. Det er jo hvad skal vi sige det samme tal,
+
+22:41
+men bare betragtet fra to forskellige fortolkninger af taget hér eller den sammensatte funktion taget derhen samme tal.
+
+22:51
+Og så siger jeg, så vil jeg gange med det her rumfang i stedet for.
+
+23:01
+Se hvis bare det her var rigtigt, så ville det jo være rigtig nemt, ik? Og scorede på et direkte til integrationen af hende.
+
+23:08
+Men problemet er jo bare, at de har to rummelige områder.
+
+23:13
+De er ikke lige store, og så er det, vi kalder fejlen for jeg, Kobe.
+
+23:24
+Og så skal vi har udregnet Jacoby en. Så få at den her ligning.
+
+23:30
+Den skal gælde, så skal der gælde at. Så har vi mere plads her hen.
+
+23:49
+For at det her kan være rigtigt, så skal der jo altså gælde, at deltager Omega skal være lig med.
+
+23:57
+Dels er det gange jeg kobe. Hør og så skal jeg Kobe.
+
+24:12
+Så skal den jo være lig med delta omega divideret med delta og det.
+
+24:31
+Men igen dette er hvad er rumfanget af denne her?
+
+24:34
+Det er jo vores problem, fordi hvad er rumfanget af så nogle food områder?
+
+24:40
+Men så må man bruge dette her trick vi havde fra Cure integraler.
+
+24:47
+For se. Hvis jeg nu kalder det her den lige rette akse parallelle linjer jeg har liggende dér.
+
+24:55
+Hvis vi siger, at den har en længde. Deltager U.
+
+25:02
+Så er det altså en god tid der er gået. Her. Altså en partikel løber her i tiden deltager hun, og lad os sige, at det er i den tid, der løber.
+
+25:16
+Min partikel herovre i området på den kurve der ligger dér.
+
+25:23
+Så ved vi at længden af det her stykke.
+
+25:27
+Det er næsten det samme som længden af den vektor, jeg tegner her.
+
+25:34
+Er mærket efter ud. Gange deltog.
+
+25:43
+Maj. Hvor er mærket efter? Det er så hastigheds vektoren på den kurve.
+
+25:48
+Her deltager. Det er den tid, der er gået. Og så er jeg altså nået derhen til det punkt, der vil ligge tæt på dette punkt.
+
+25:59
+Og så på samme måde hvis. Se her har vi ved.
+
+26:06
+Altså hvis jeg kalder det stykke her for deltager ved.
+
+26:12
+Og jeg kalder dette stykke for. Delta W.
+
+26:20
+Så kan jeg på samme måde sige. Ja, men det punkt der ligger her når vi går ned i meget små bokse.
+
+26:28
+Så med det punkt peger ligger meget tæt på det punkt, der ligger der. Og den vægter her.
+
+26:34
+Den hedder er mærket efter vil ganget med det vi.
+
+26:42
+Og så endelig så går da W.
+
+26:46
+Tid her, og hvor partiklen kører igennem den knude der ligger her.
+
+26:52
+Og det punkt der ligger her. Vil næsten være det samme som ende punktet er den vektor der ligger her, som er er mærket efter W gange med.
+
+27:08
+D. W. Sådan.
+
+27:22
+Og der er nu det dette punkt ligger tæt på dette punkt.
+
+27:29
+Det er dette punkt her ligger tæt på det punkt, der lå her. Og dette punkt dér ligger tæt på det punkt, der ligger dér.
+
+27:39
+Så bliver det her parallelle epitome.
+
+27:59
+De kan se at der ligger et parallelt epi bederum spændt ud af disse hastigheds vektorer, som der ligger her.
+
+28:07
+Så hele ideen er nu, at jeg siger, at rumfanget af det lille område her er næsten det samme som rumfanget af dette parallelle epitome.
+
+28:24
+Rumfanget af et vilkårligt parallelle bederum.
+
+28:29
+Det snakkede vi om i efteråret semestret, da vi havde omkring determinanten.
+
+28:34
+Og nu har vi brug for det resultat. For kigger vi på.
+
+28:46
+I et parallelt epi bederum, da udspringer af tre forskellige lektorer,
+
+28:53
+så sår vi den gang, at Bo Lumet er den numeriske værdi af determinanten af den matrix,
+
+29:01
+der er udspændt af A koordinaterne B koordinaterne og se på det nallerne som vi kender, så formlen for et par rumfanget af et parallelle i publikum.
+
+29:18
+Så det vil altså sige. Dette område her.
+
+29:29
+Er så numerisk værdi. Af determinanten er den matrix hvor vi altså har er mærket efter ud.
+
+29:44
+Gange deltager ud. Det var den første søjle, den anden søjle.
+
+29:51
+Det er er mærket efter Vi Devil, og endelig har vi altså er mærket efter W.
+
+30:00
+DAMD med Delta W. Og det skal vi dividere med rumfanget af mit referencer box.
+
+30:18
+Og den har jo selvfølgelig. Den har selvfølgelig volumen.
+
+30:27
+Længde gange bredde gange med højden.
+
+30:33
+Så det er altså de tre små størrelser ganget med hinanden.
+
+30:40
+Her har vi tre vektorer, som alle sammen er ganget med en konstant, nemlig konstant den delta o delta v, delta W.
+
+30:52
+De tre størrelser kan jeg simpelthen nu mangler lige numerisk værdi tegn slutter.
+
+30:58
+De tre konstanter kan man sætte ud foran. Og så får vi altså her længden af determinanten af er mærket efter ud er mærket efter vi er mærket efter W.
+
+31:16
+Og så deltager u gange den ved gange deltager W divideret med.
+
+31:26
+Det u gange det v gange, det er dobbelt fedt.
+
+31:35
+Og så kan vi altså se, nu har vi bestemt Jacobi funktionen, fordi de her tre konstanter går væk med de her tre konstanter.
+
+31:45
+Det vil altså sige Jacobi funktionen. Den er den numeriske værdi af determinanten af den matrix,
+
+31:55
+der fremkommer når jeg differentierer parameter fremstillingen med hensyn til de tre variable.
+
+32:06
+Og den er slut. Så det var sådan set det jeg havde brug for.
+
+32:15
+Altså hvis jeg indfører, de har Kubel på den plads dér, så kan jeg flytte integrationen over i det her u,
+
+32:26
+v, w område, og så bliver det ikke lige det, jeg sagde her, da vi havde den akse parallel fox.
+
+32:35
+Nej, nu er belastningen her.
+
+32:40
+Nu skal den gange med corrections faktoren, som er Jacobi funktionen.
+
+32:49
+Og så kan vi altså nu opsummere da resultatet og formlen.
+
+33:00
+Den samlede virkning. At belastningen funktionen.
+
+33:11
+På hele området her. Det bliver så efter min formelle jeg hen et trippel integral, jeg burde skrive parantes omkring.
+
+33:22
+Så bliver det bare lidt mere uoverskueligt, så jeg snyder. Så vi har altså her integrationen fra A til B, C til D.
+
+33:34
+Ét af. Er funktionen taget i min parameter fremstilling.
+
+33:47
+Og så gange med Jacobi funktionen, som altså er determinanten af er mærket efter U er mærket efter vind og er mærket efter W.
+
+34:04
+Og så har vi altså her det u. Det ved det W.G.
+
+34:16
+Så det er formlen for rum integralet vi har udregnet her.
+
+34:26
+Hvis det er alene volumenet. Så forrest ved at sætte.
+
+34:42
+Belastningen funktionen. Lig med 1.
+
+34:49
+Det vil altid sige volumenet finder vi ved at integrere over Jacobi funktionen.
+
+34:55
+Hvad siger du? Verden over er. Ja, den skal også mærkes som det.
+
+35:07
+Så det har vi formen.
+
+35:18
+Og så kan vi gå tilbage til vores tag træder herhen, hvor vi jo allerede er nået et lille stykke, i og med at vi har fået par med et friseret område.
+
+35:30
+Og nu ved, hvad jeg kube i funktionen, den er, og hvordan vi skal finde det.
+
+35:57
+Det jeg har nu brug for en matrix jeg skal kalde den et eller andet.
+
+36:03
+Nu kalder jeg den for B matricen. Som er er mærket efter U er mærket efter vil.
+
+36:19
+Og er mærket efter W. Og nu skal jeg så op og differentiere.
+
+36:35
+Før skal jeg differentiere de tre størrelser med hensyn til U og I kan se det bliver, jo dyrere bliver den dobbelt b.
+
+36:48
+Der bliver nul. Og dér bliver den nul, fordi da U optræder ikke i de to sidste som vi får her.
+
+36:58
+W Nul og nul. Og så skal vi differentiere med hensyn til V.
+
+37:08
+Der har vi to konstanter det at den går i nul, to konstanter der går også i nul.
+
+37:14
+Så der er kun én meter tilbage var W.
+
+37:18
+Den er en konstant, så det er den vi skal beholde.
+
+37:23
+Så får vi her på andenpladsen dobbelt vind og nul.
+
+37:31
+Og så skal vi differentiere med hensyn til jobbet ved.
+
+37:37
+Og der kan I se der får vi U. Da får vi ved at gå i nul og så nu se.
+
+37:46
+Så vi har så U. V og mere nu se.
+
+37:56
+Så har jeg altså udregnet den matrix jeg skal bruge.
+
+38:01
+Jeg cope funktionerne. I et punkt u, v kommer W.
+
+38:14
+Er så lig med den numeriske værdi af determinanten af matricen by.
+
+38:32
+Hvordan kan I så se vi skal udregne matricen.
+
+38:36
+Vi laver opløsning efter første søjle. Det vil sige de to sidste bidrag går i nul.
+
+38:44
+Vi har det der W.
+
+38:47
+Der skal ganges med et determinanten under matricen, som så bliver dobbelt ved gange minus se minus nul gange med den så hele determinanten.
+
+38:58
+Den bliver altså min Venus C og så W i anden.
+
+39:11
+Og se er udlagt her som et positivt tal og den der er i anden.
+
+39:17
+Det vil sige, at numerisk værdi er det der er så lig med se.
+
+39:24
+Og så har vi ca. W i anden.
+
+39:30
+Nu skal vi så have udregnet volumen. Og så er volumenet bare et trippel integral over Jacobi.
+
+39:52
+Så vi har altså integralet integrator og integral.
+
+39:56
+Og skal vi se hvad var det vi integreret imellem? U løber fra nul til A.
+
+40:04
+Og. V løbere 0 til B og endelig så løber dobbelt bil fra nul og til en.
+
+40:15
+Og vi har altså her se. W i anden og så det ud.
+
+40:23
+Det vil. Og det W.
+
+40:34
+Se nu viser det sig at Jacoby ikke er afhængig hverken R, U eller V.
+
+40:44
+Det vil sige at så kan jeg jo sådan set flytte de konstanter helt her hen.
+
+40:51
+Altså uden for dem konstanten uden foran integrationens tegnet.
+
+40:56
+Og set kan jeg endda flytte helt ud, og så skal jeg integrere ind over det nu fra nul og til af.
+
+41:06
+Og den giver bare A. Så skal jeg integrere ind over det ved den giver bare B.
+
+41:16
+A og B kan jo så sidde uden for uden for integrationsegnede, og så får vi A, B og C tilbage.
+
+41:28
+Er der så bare at integrere? W i anden med hen ad os med hensyn til et W W.G.
+
+41:41
+Og da får vi jo så A, B, C og en stamme funktion til dog at tælle W.
+
+41:50
+Jamen det er dobbelt B i tredje tredjedel som skal integreres imellem 0 og 1.
+
+42:01
+Og det giver så en tredjedel. Og det var det bare så i en tredjedel af den boks vi startede med, så vi havde altså et gæt på en fjerdedel.
+
+42:27
+Men hvis lave metoden med brug af Jacobo funktioner der hele har vi nu vist,
+
+42:32
+er det faktisk en tredjedel, der bliver tilbage, når jeg skærer den igennem på den her måde.
+
+42:40
+Og gav i pauser.

@@ -1,0 +1,746 @@
+0:04
+Klokken er et velkommen til forelæsning.
+
+0:08
+Semester U-15 lille, da titlen er Løsnings mængden og den inverse matrix, så der er kun to punkter på dagsordenen.
+
+0:23
+Vi skal snakke om strukturen af løsnings mængden, og så skal vi snakke om kvadratiske matricer.
+
+0:30
+Os en speciel matrix, der hedder den inverse matrix og.
+
+0:36
+Jeg har, når man vi kører to korte forelæsninger med en kort pause i midten.
+
+0:41
+Jeg så det lidt for lang tid og her for mig i 50 55 minutter, så jeg håber, I kan gøre det på 25 minutter cirka hver anden.
+
+0:49
+Den første bliver nok lidt længere, den næste bliver nok lidt kortere, og så holder vi en kort pause imellem.
+
+0:53
+Så i skæg aftaler, hvornår I skal i fredagsbar, når jeg lige at tænke, er der ikke tid til i pausen.
+
+0:58
+I skal bare lige få lidt ilt til hovedet, så vi kan fortsætte med Deltorp.
+
+1:04
+Der er spændende program i dag. Det er jo fortsat fra i onsdags.
+
+1:11
+Vi betragter disse linjer linje, så stemmer jeg, viser et eksempel.
+
+1:18
+Med en fast nøgle. Den virkede på en møtrik, og man trykkede på fæstningen, og man undersøgte så spændingerne i fastholden,
+
+1:27
+når man påfører den ydre kraft i den ene ende af fæstningen og spændingerne.
+
+1:32
+Det er bare hvad hedder det. Det er trykket mellem atomerne inde i i fæstningen så godt.
+
+1:42
+Hvordan gør angriber man som mand? Man modellerer det først som mand.
+
+1:47
+Ud fra fysikken opskriver man nogle ligninger. Det er nogle differentialligninger i det her tilfælde eller en differentialligning.
+
+1:54
+Den diskrete taseer man, og det kommer vi en lille smule mere ind på i de følgende uger, når vi skal have om basis.
+
+1:59
+Vektorer, som har kritiseret det, man egentlig udregner, er koefficienter til nogen basis vektorer og kun det man finder ud af i en
+
+2:08
+approksimation til den oprindelige spænding i fast nøglen i de punkter jeg viste sidst.
+
+2:14
+Der var 15.000 punkter cirka fordelt ud over denne nøgle. Og man udregne approksimation til spændingen i alle disse punkter.
+
+2:21
+Man har 15.000 ligninger, man har 15.000 ubekendte, og man håber selvfølgelig, at når man opgiver de ligninger,
+
+2:27
+at der rent faktisk er en løsning til det ligning system eller sammenholder en fejl.
+
+2:31
+Altså vi er godt klar over på fysikken, at når jeg trykker på fast nøgle,
+
+2:34
+jamen så er der jo en spænding i tværsnittet, da der er en spændings fordeling.
+
+2:38
+Så der er lidt med matematik sprog, så Shipman eksistens og entydighed er løsningen.
+
+2:44
+Det ville vi gerne have. Der findes lige præcis en løsning. I har set lignende systemer, hvor der findes uendelig mange løsninger.
+
+2:50
+Men det ville ikke være så godt i det her system. Altså, der kan ikke være uendelig mange forskellige spændinger i denne Fasterholt,
+
+2:56
+hvis jeg påfører den en kraft, energi og kraft den så eller en givet kraft.
+
+3:01
+Så mangler jeg måske nogle ligninger, nogle nogle ligevægte ligninger fra min fysiske modellering af problemer,
+
+3:09
+at den anden situation, hvor der ikke er nogen løsning. Dem har vi også set eksempler på.
+
+3:13
+Om du heller et godt valg. Så har jeg også ladet når galt enten i min fysiske modellering,
+
+3:17
+problemet eller i min datering nok og gæt, men det er det, vi skal prøve at sige lidt nærmere om i dag.
+
+3:23
+Ikke nødvendigvis løse de her line's systemer, men sigende om hvordan ser løsning ud, hvor mange er der atter?
+
+3:28
+Nogle er dog egentlig mange af dem. Er der fem løsninger. Så det handler strukturen om.
+
+3:34
+Det er som at sige noget om, hvordan eller hvor mange løsninger har vi?
+
+3:39
+Og så skal vi se nærmere på det tilfældes, der hedder kvadratiske matricer. Jeg har lige præcis det samme antal ubekendte som ligninger.
+
+3:46
+Så kommer af matricen til at være en kvadratisk matrix og kan godt.
+
+3:52
+Så vi husker lidt på lidt notationen for sidst. Så.
+
+4:00
+Vi skal have denne her af Matrix, det er jo sådan en matrix, så form af et ét af to et.
+
+4:09
+Og så videre ned til A. Emmett kalder vi dem.
+
+4:13
+Så sidder den næste og så videre. Den går hen til Ah igen. Og det sidste eller noget hedder jo a m.
+
+4:19
+Demming godt. Og det her er en EM kryds n matrix.
+
+4:26
+Så havde vi højresiden, og vi har også de ubekendte, og dem vil også gerne lige sætte op i en vektor.
+
+4:32
+Vi har en ubekendt og skal lige skrive X2 og så videre ned af én, for det er jo en søjle vektor, og det skriver vi m.
+
+4:41
+Kryds et eller nogle gang bare eller lemming og m.
+
+4:47
+Og kan der ske jordhøjde i en test der skal flyttes?
+
+4:50
+1. Der er ingen pladser i denne vektor, og vi skal have højresiden i.
+
+4:57
+I det her problem er snakket om før, men med fastholden, der i højresiden kommer fra den kraftige påvirker.
+
+5:04
+Når man så blive et B-2 hele vejen ned til Bech 1 m.
+
+5:18
+Så er der en anden der er m ligninger.
+
+5:21
+Derfor er der EM højere sider, der er en ubekendte og derfor bliver a sådan en m kryds en matrix godt, så det ligner ligeså så vi betragtet.
+
+5:34
+Det lineære line system skriver deres lidt kortere I fik lidt flere detaljer sidst.
+
+5:46
+Det var jo det der hed A et et skidt plus og så videre.
+
+5:50
+Hele vejen ned til den sidste a. Et m x n.
+
+5:54
+Det var lige med B. Det var den første ligning. Så var der EM af dem, og den sidste ligning ser sådan her ud.
+
+6:00
+Ups x et plus prik prik. A.
+
+6:04
+M. M. X er lig med b m.
+
+6:08
+Og vi kaldte alle de her ligninger for stjerne. Okay, men, men det kan jeg altså skrive meget mere kompakt her ved hjælp af min matrix notation.
+
+6:19
+Så. Det kan kort skrives som skriver, så vil han bare af ex libris.
+
+6:33
+Der står det samme her som står heroppe og. Ja, jeg lavede jo sådan set skema her sidst.
+
+6:43
+Så lad mig lige huske på, hvordan det var vi lavede.
+
+6:47
+De her matrix svigter lektoren komplikationer, så jeg sætter af matricen ind her.
+
+6:55
+Så jeg ikke ser det vel gang på gang fra en stol excellent.
+
+7:00
+Og så vil jeg gerne se. Hvordan er det her matrix vektor produkt?
+
+7:05
+Jamen, så skal jeg gerne af et et på exit plus a et to til X2.
+
+7:10
+Plus hele vejen ned til et n til skal på x 1 og 5, så det føjer lige a et et x et plus a et, to x X2 plus a, et n, x1 og så videre.
+
+7:29
+Hvis jeg gør det hele vejen ned, så den sidste ære for Frem er denne.
+
+7:34
+Den der skal gang, skal være den der skal stå der hele vejen ned, og jeg sætter plus i mellem.
+
+7:46
+Så er dette år. Det er jo selvfølgelig så a.
+
+7:52
+Er størrelsen m, n x og størrelsen.
+
+7:59
+M. Sådan er Gare de de to sammen. Så får jeg noget af størrelsen. Gem kryds.
+
+8:10
+I skal huske at I skal garantere samme både matricer og vektorer, så skal det da den slutter på, der skal passe med det.
+
+8:17
+Den næste starter på, og de to ender forsvinder bare tilbage for noget, der er større til EM kryds i ét hug.
+
+8:23
+Så her har jeg en EM kurs i ét væk. Men det, der står i den første position i den søjle vektor, det skal jo være lige med det første, der står i b et.
+
+8:32
+Det er det, der står hernede. Den første, der står i BB 12, og det er selvfølgelig B.J.
+
+8:35
+Som man kom til at sige. Så det her skal være lige med benet osv.
+
+8:39
+Det sidste skal være lig med b EM. Og det er jo lige præcis det der står her.
+
+8:45
+Okay så. Det er en smart måde at skrive det på.
+
+8:49
+Og vi snakker også lidt om, hvad en løsning var, og det kan vi skrive meget kortere nu med denne notation.
+
+8:56
+Så husk at hvis.
+
+9:01
+Lad os kalde den x0. Det er en eller anden vektor af ubekendte.
+
+9:05
+Der er fem af dem. Og lad være med at skrive og flytte rundt på et tal.
+
+9:12
+Jeg skriver bare Ellen, og det betyder bare en søjle med tomme pladser og hvis den opfylder.
+
+9:26
+Af gangen på X0 Allee med B.
+
+9:30
+Jamen så er det jo en løsning.
+
+9:33
+Det vil svare til at jeg indsætter de elementer i den vægter i løsning, og den opfylder alle m ligninger, så det er en løsning.
+
+9:44
+Så er x 0 1, og man siger nogle gange partikulære par 10 kunne lære løsning.
+
+10:01
+Og skal vi være mere præcise til. Udligningssystemet.
+
+10:09
+Og at vi kan skrive løsnings man kan for en meget kort måde, så vi skriver at L og kaldte den ellers det var Løsnings Mukden i dag.
+
+10:18
+Der kommer man til at kalde den elle indhold, der er større end.
+
+10:24
+Det betyder det at løse i mængder, der hører til den endnu homogene ligning.
+
+10:28
+Husk at vi kalder det her Linnés system for en rumraket.
+
+10:33
+Hvis vi tillader højreside, der er forskellig fra nul hvis.
+
+10:40
+Alle B E er lig med nul. Så kalder vi det Homo gate.
+
+10:45
+Ligesom det modsatte ikke kan kaste. Afkast, så ellers er det endnu umuligt.
+
+10:50
+Så det er det vi have fat i her.
+
+10:54
+Og det er simpelthen bare alle de vektorer eller tilsæt med pladser for hvilket der gælder, at A.
+
+11:03
+Ikke alene vil. Og det er vel frem til at det er det der hedder struktur sætning.
+
+11:14
+Struktur og sætninger. Den vil vi se rigtig mange gange i forskellige afskygninger.
+
+11:20
+Den gælder også for line differentialligninger. Her gælder den fra linje af linje, så stemmer det den siger, er, at.
+
+11:30
+Vi antager at et indhold. Ikke er top, så der findes en eller anden løsning.
+
+11:38
+Han kan ikke der findes et eller andet tilsættes, som opfylder det herover godt.
+
+11:45
+Hvis det gælder, så kommer der konklusionen, så er alt indholdet.
+
+11:51
+Skriv det rigtig. Ikke andet end den partikulære løsning plus eller.
+
+12:01
+Så her har jeg altså sagt at denne her ex nul. Det er et andet element, det endelige.
+
+12:07
+Det kan jeg vælge, fordi den ikke er tom. Så der er.
+
+12:12
+Det her er ikke den tomme mængde, så der findes altså i hvert fald ét element der indeni det vi laver.
+
+12:17
+Og så kan jeg finde den indre målgivende løsning ved at finde den homogene løsning, der altså bare ligger den ene partikulære løsning.
+
+12:23
+Det skal jo vi lege med i detaljer. Det her er ikke noget plus X, hvor X opfylder det her.
+
+12:33
+Nu kan. Kan se hvad der står hvis jeg gør sådan her, så det her skal fortsætte.
+
+12:39
+Selvfølgelig er det et elementerne in mente, at man skal lige forstå, hvad mener man? Jamen, jeg skal tage x0, noget som er fast.
+
+12:45
+Så skal jeg lægge alle de eks'er. Så når jeg ganger A på exit, så giver det nul på højresiden det her.
+
+12:51
+Det er ikke bare nul Devon. Det er en søjle vektor af nuller, der står præcis nul og her.
+
+12:58
+Hun kan ikke, så det kaldes en homo gene, fordi det er den løsning jeg får.
+
+13:02
+Hvis jeg her opsætter hele højresiden, så 0 og løser ligning,
+
+13:06
+så stemmer det nogle gange meget nemmere end at løse det end en inhuman gena løsning, som jeg bare kan gætte.
+
+13:12
+En løsning der vil vise sig, når vi kommer til de fåtallige mere, så kan man gætte på x0 eller en eller anden form for intuition.
+
+13:20
+Og så skal man bare løse det homogene system bagefter. Og så er det altså, at man laver en.
+
+13:27
+Det kaldes den partikulære løsning ikke parti, eller det er bare en eller anden partikulære løsning.
+
+13:33
+Et væld af velmenende vælger. For lige et ord var det to ord så langt.
+
+13:52
+Fucking. Og inden jeg går videre, så bliver lige nødt til at nævne det, der hedder den transponerede matrix, for det har jeg ikke snakket om endnu.
+
+14:05
+Det har ikke noget med resten af forelæsninger at gøre.
+
+14:07
+I har en opgave om det i dag, så derfor vil jeg lige nævne, at det er ellers som et kik i en 8'erne, selvfølgelig.
+
+14:14
+Det er så den transponeret. Jeg tager bare den første række.
+
+14:28
+Af A og laver den til den første søjle og tager den anden række af og laver til den anden søjle,
+
+14:33
+så I kan bare fortælle, at jeg flipper denne her matrix på højkant.
+
+14:38
+Hvis sådan en bil har en aflang maske, så bliver det en på højkant.
+
+14:43
+Og kan så som A har størrelsen m n, som har denne størrelse.
+
+14:52
+Omvendt rækkefølge på de to. Det der betyder mig, tilhører det, fordi jeg læser det for venstre til højre for højre,
+
+14:58
+til venstre for det samme symbol, som det er godt, og det er her,
+
+15:04
+det bliver sådan, hvor der står A i et ét, og så skæres ned af et to nedaf, og den sidste skal være, inden det er den læring og underretter.
+
+15:20
+Godt at der gælder forskellige ting. Regneregler eller fax a b Hvis jeg ganger de to matricer sammen og udregne deres transponerede,
+
+15:32
+så er det det samme som at gøre det i modsat rækkefølge for dem.
+
+15:37
+Selvfølgelig skal de passe sammen med størrelser, så jeg skal kunne udregne produkter ud over der gælder individer ad gangen.
+
+15:46
+Kæft et var om sidst. Det var antal ledende ettaller, når jeg har lavet 30 matricen i A.
+
+15:51
+Det er det samme som mange af transponeret godt.
+
+15:56
+Det må være rigeligt med facts og logik, så det er alt, hvad vi har om, om ikke kvadratiske matricer i dag.
+
+16:08
+Ja, er det ikke det var det det var. Det er helt sandt.
+
+16:12
+Så indtil videre har jeg ikke. Jo, det første Panopto.
+
+16:16
+Jeg antager, at der skal man retur, så jeg kommer til at snakke lidt med jer godt. Der er spørgsmål.
+
+16:32
+Så der bliver spurgt Hvordan finder man et hul, og det er lige præcis sådan vil jeg foreslå, at man sætter højest til nul.
+
+16:40
+For hvis I laver jeres track total matrix, så den sidste søjle, hvor vi normalt har høje, som var mange år lang, så løser mandag, så var vi altså nu.
+
+16:50
+Og kan I så? Der gælder generelt og serverer jeg noget endog særdeles godt.
+
+17:06
+Så vi glemmer at kigge på det her. A ex i bedring og totalt matricen den er jo a b.
+
+17:16
+Sådan er. Godt det udtaler sig alt sammen omkring rækken af de her to matricer A og T.
+
+17:27
+Så hvis det er det rangen gro af af, hvis den er mindre end rangen er.
+
+17:38
+Så er der ingen løsninger. Andre må forstå hvorfor jeg synes der manglede lande, men altså lad mig bare færdiggøre det her,
+
+18:00
+så vi kan lave et eksempel lige om lidt, hvor det her sker. Så.
+
+18:07
+Og så der ingen løsninger hvis drengen er 10, er leg med drengen Per A.
+
+18:14
+Jamen så kan der være to forskellige muligheder. Den første er hat.
+
+18:20
+Rækken af T, som er arrangør af det, er lig med en fra ende antallet ubekendte.
+
+18:28
+Og kun hvis det sker, så har A x li B præcis en løsning.
+
+18:48
+Det vil sige der er ingen frie parameter, og det ved vi jo godt, fordi antallet af frie parametre.
+
+18:59
+Det er en minos mange af. Og hvad stiller man så der, når det så okay?
+
+19:09
+Det anden er tilfælde 2 er et. Bakken er RT, som jo er limet rangen af er mindre end en strengt mindre end en.
+
+19:23
+Så lad os kalde det tal her. Lad os kalde det kog.
+
+19:29
+Okay så. Hvad gælder dig om det?
+
+19:33
+Jamen, jeg er træt. Hurtig. Deres trappe får mig til, hvis jeg har gravsten hele vejen ned.
+
+19:40
+Hvor mange ledende ét tal har den? Skal vi lige have gang i hjernecellerne.
+
+19:48
+Og mange ledende ettaller har tabt 10. Det bag.
+
+19:55
+Ja, så mange som drenge, og den må jo gå så bare gå. Har K.
+
+20:01
+Det var definitionen på drenge, der var antallet af ledende i så lang som sangen at gå, så er der kun uden.
+
+20:07
+Det er der ikke meget i. Når man, hvis der er kor, ledende ettaller og jeg har en variable.
+
+20:14
+Ja, jeg sagde sidst, at de ledende ettaller, det er dem, der fastfryser variable.
+
+20:18
+Det fastholder en variabel, så er resten fri. Jamen, det må være end minus K.
+
+20:26
+Derfor er der end minus skov frie variable.
+
+20:36
+Og de frie variable erstatter jeg med parametre. Lige så godt kalde det pharm.
+
+20:40
+I drenge. Parametre. Og.
+
+20:50
+Skal vi tegne hvordan løsningen en struktur struktur mæssigt ser ud vi skriver når parameter form.
+
+20:57
+Jamen så er der jo en eller anden x0. Vækster plus dette parameter nogle fra en.
+
+21:09
+Den kan jeg kalde til et plus prik hele vejen ned til den sidste af dem som hedder K end minus til en scoring.
+
+21:21
+Der var en minus kog. Så sådan ser løsningen ud, og så skal jeg måske for god ordens skyld skrive alle de her tal i,
+
+21:29
+at det skal tilhøre el og eller jo enten de reelle eller de komplekse tal.
+
+21:35
+Sådan nogle løsninger har set flere tilfælde af allerede. Der er et eller andet konstant ned, og så er der noget, hvor der indgår disse parametre.
+
+21:44
+Nok nå, men det kan vi faktisk genkende i struktur sætningen, fordi x0, der jo ikke for sjov at jeg kaldte den første x0, er en partikulære løsning.
+
+21:54
+Det er en løsning, og præsten her er L.
+
+21:59
+Kong. Den rummer en løsning, så det her er den.
+
+22:04
+Partikulære. Og yderligere.
+
+22:15
+Ramme det end det der er den smukke en del af løsningen, der står hernede.
+
+22:23
+Eller. Og når jeg lægger x0 til Ahlhorn,
+
+22:30
+så får jeg den fuldstændige løsning til den inhumane gældende og kan ikke godt have nævnt, hvis der kun var to tilfælde.
+
+22:41
+Når renten er tillige med rang af, så har vi allerede tjekket tilfælde ét tilfælde 2.
+
+22:46
+Men det kunne jo også være, at retten her var strengt større end 1. Så lad os lige fortsætte den der.
+
+22:53
+Punkt 3 drengen. Men det er helt forkert, at jeg sagde der kun var to tilfælde, så lad mig nu op, skriver Tredje.
+
+23:01
+Fordi det er umuligt. Og hvad skyldes det?
+
+23:09
+Jamen. Vi ved at.
+
+23:15
+Ifølge en sætning selvfølgelig data fra en sætning jeg vil have fat i.
+
+23:21
+Den hedder vist to 24, som siger at rækken af A er mindre end eller lig med randen af EM, og den siger os, at mange af er mindre end eller lig med EM.
+
+23:39
+Den er formentlig en sandwich. Grand er mindre end det mindste tal R, m og en med dette sammen som beskrivelsen Herring.
+
+23:45
+Den er mindre end både EM og 1. Så kan den ikke være større end en så der tæt.
+
+23:51
+Nå, men det var hvis det skete, at rangen er hvor lige mange af, så mangler vi jo det sidste tilfælde.
+
+23:59
+Jeg har tjekket når rang af største jeg har tjekkerne, og det er lige med en anden og den sidste bullet frontduo.
+
+24:05
+Werner drengen er 10 er mindre end rang af når, men altså, det kan heller ikke lade sig gøre, så.
+
+24:20
+Og det er fordi at T. Det er jo en udvidelse af matricen A det af og til.
+
+24:26
+Og så tilføjede Ray søjlen Bering så antallet af lyde indtaler.
+
+24:30
+Der optræder jo specielt og så der. Derfor kan antallet ledende et tal aldrig være større herovre.
+
+24:39
+Men har. Så det er umuligt, og det er igen denne sætning, vi jeg og muligt.
+
+24:50
+Men så har vi tænkt på, hvordan løsningen ser ud i alle mulige tilfælde.
+
+24:55
+Der er kun de muligheder, jeg har sat op på tavlerne, så enten er der ingen løsning,
+
+24:59
+eller så er det præcis en løsning, eller også er der uendelig mange løsninger.
+
+25:04
+Med så mange frie variabler, der skal vi lige se et eksempel på, så.
+
+25:16
+Og jeg fortsætter for eksempel tre fra store dag.
+
+25:18
+Så behøver jeg ikke lave nogle udregninger, så der kigger vi på en meget, meget simpel ligning system to x plus.
+
+25:30
+At kalde det nye sidste eksaminer kalder det ikke sætter X2 således, og vi fandt at den løsning var givet ved.
+
+25:42
+Alle som kalder en inhuman. Og kage og var L.
+
+25:54
+Enorme. Jamen det selvfølgelig var den linje som de ditte, som den linje angiver.
+
+26:01
+Så man kunne skrive det for parameter for. Det gider jeg gentager.
+
+26:07
+I må kigge jeres nordre eller i de foreliggende. Noter dig, ja, oploadet tavle tavle billederne til kampe snart ikke så der kan jeg finde eksempler,
+
+26:14
+så vi fandt frem til, at den var givet ved denne her parameter fremstilling.
+
+26:24
+Behov og. Dette som nævnt det x0 og det her hende.
+
+26:35
+Det er det, der har at gøre med Elholm. Så vi skulle meget gerne havne nede i det her tilfælde tilfælde 2, hvor ringen er 10 af det samme.
+
+26:46
+Og. Klægt skal virke, skal udregne den totale masse, fik den er jo to et fem år, og det kan nemt dividere med to æg føjer et en halv.
+
+27:09
+Tre maksimalt fem halve år.
+
+27:14
+Sådan fungerer det, at trappe formen er enig.
+
+27:22
+Billederne et tilstå. Sangen er et man kigger på af sig.
+
+27:27
+Det er den der Matrix'. Den har den der terapiform. Men der er stadigvæk et indledende et tal, så rækken af T er lig med randen af A er lig med et.
+
+27:40
+Og det er mindre end 2 som antallet ubekendte.
+
+27:45
+Så derfor er der han mener, at sangen er af en fri parameter.
+
+27:59
+Så det handler. Kan vi slutter lige endelig få en kort pause, men eksempel som ser ud som følger ex et plus x2 er lig nul.
+
+28:15
+Ex et plus x2 er lig med et ja man kan jo også sagtens afskrive totalen.
+
+28:24
+Matricen hedder et et nul, et gæt et.
+
+28:29
+Det på aflæst af koefficienterne foran her et et nul, et et et.
+
+28:36
+Jeg laver ikke operationen, der hedder min nye række. 2 bliver række 2 min. Og trækker et række 2 min og trækker ét.
+
+28:46
+Og så får jeg et et nul og 0 0 et.
+
+28:53
+Det er topformen. Det var hurtigt, så det er Trap T, der kan aflæse antal ledende ettaller dér og dér.
+
+29:02
+De er ledende, fordi der står nul over og under, og det første jeg møder i rækken, er sådan lidt betaling.
+
+29:08
+Det er det der skal gælde. Godt, men så. Det vil sige, at rækken af ti er lig med toning.
+
+29:18
+Hvad randen er af. Der kan svare det ord den er en fordi man gør det samme.
+
+29:26
+Man glemmer den sidste række, så den har jo denne Tappernøje Matrix, og der er kun indledende ETA så, og det er jo strengt mindre.
+
+29:34
+2 brød ikke om det er strengt større end et så lige mange af.
+
+29:40
+Og så er jeg altså nede i nede her oppe i det allerførste tilfælde rangen RT er større end render af, så er der ingen løsninger.
+
+29:52
+Altså. Ingen løsninger. Men hvorfor er der ingen løsninger?
+
+29:59
+Det er mere interessant at vædring. Så det jeg kan skrive er at.
+
+30:07
+1H. Er tom, så kan jeg ikke bruge Startour sætning som navnet da når, men hvorfor er der ikke nogen løsninger?
+
+30:17
+Prøv lige at se hvordan LA trappe matrix og så husker oversete trapper matricen
+
+30:20
+til de ligninger vi har der tilhører jer som ligningerne tilhørerne trap.
+
+30:26
+Så fra Trap T ses, at den første hedder ex et plus X2 Lima 0.
+
+30:36
+Det ser fint ud. Den næste hedder en 0 gange exit plus nul gange X2 lige med ét.
+
+30:43
+Det er nummer to ligning I skæppede mærke i Hvad står der? Der står en 1 0 lige med ét.
+
+30:48
+Og så er det, jeg skal spørge mig selv Kan jeg finde nogle ekstra, som sørger for, at dette er opfyldt?
+
+30:53
+Og det i så fald? Nej, altså nul kan aldrig nogensinde blive lig med et ligegyldigt, hvordan jeg vælger mine eks'er.
+
+30:57
+Så der er ingen løsninger, så det her noget der denne, der er problemet.
+
+31:03
+Sætter et lyn ned foran, så jeg ser det den, der er problemer og.
+
+31:11
+Skal slutte her, hvilket aldrig. Kan være opfyldt.
+
+31:26
+Så altså lige så snart de møder i udregningen, hvis de møder som Ulrica, som slutter på noget, der ikke er noget så skidt stof.
+
+31:32
+Der er en grund til at nyde, er der ikke nogen løsninger. Den tager altid sin indledning, hvor der står noget nær lige midt og.
+
+31:41
+Og. Jeg kan måske lige. Nej.
+
+31:45
+I skal have en pause eller snak højst en halv time, så fem måneders pause og så dømmer forelæsning.
+
+31:56
+Fra.

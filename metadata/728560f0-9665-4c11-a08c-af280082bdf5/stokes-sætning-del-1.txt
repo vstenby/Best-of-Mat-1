@@ -1,0 +1,1028 @@
+0:00
+Ingen, og derfor kigger vi så til sidst på fortolkning af rotation, så vi kan få sådan en intuitiv indsigt i hvad rotation.
+
+0:13
+Det betyder rotation. Det er jo en vektor.
+
+0:19
+Som dannes ud fra et vægteren felt.
+
+0:22
+Altså har vi et vægtet felt ved, så kan vi danne rotationen, så har vi et netværk såvel.
+
+0:30
+Og det er altså det som Stokes sætning den handler om. Generelt er det jo sådan, at det her vægter fælles teori.
+
+0:40
+Det handler altså om, at vi har altså i rummet givet et til at finde nogle vektorer, der er tilknyttet alle de punkter, vi har i Victor feltet.
+
+0:52
+Og så har vi givet. Nogle objekter er sådan nogle geometriske objekter.
+
+0:57
+Det kan være en kurve. Det kan være en flade. Det kan være et rummeligt område, og det vi så arbejder med, er.
+
+1:06
+Så hvordan påvirker vækster feltet det objekt, vi kigger på?
+
+1:12
+Og lad os lige starte med at se på nogle af de eksempler, som også kan være sådan en lille mini repetition er skal lige se den store repetition.
+
+1:23
+Den får vi næste gang. Det er på store dag, for da vil vi gennemføre et bevis for Staub sætning og beviset.
+
+1:34
+Det tager godt og vel en times tid. Og når vi skal bevise Stokes sætning, så får vi brug for stort set alt det, vi har lært i en integralregning.
+
+1:47
+Så før, så det kan I godt glæde jer til at få lov at hænge på så godt som overhovedet muligt, for det er et rigtig flot bevis.
+
+1:59
+I kan forberede jeg lidt i en 8'erne, men det er nok ikke det nemmeste at læse.
+
+2:04
+Er det I haft i noterne? Så derfor prøver vi, om vi kan, om vi kan komme igennem det næste gang.
+
+2:13
+Men lad os se på et vægtet felt og et objekt.
+
+2:26
+Altså vi har her. Altså i rummet givet en hel masse vektorer, og så lad os betragte.
+
+2:42
+En kode der går fra P til Q.
+
+2:49
+Og så lad os fortolke V som et kraftfelt og så se hvor stort et arbejde kraftfelt udfører, når en partikel bevæges fra p og til Q.
+
+3:03
+Og da er vi jo så specielt interesserede i de faktorer, som virker direkte på kuren, så lad os prøve at se.
+
+3:17
+Altså hvis de kigger på det punkt her, da har vi måske vægteren ved givet her.
+
+3:25
+Og når vi skal betragte vægteren så resulterende virkning, så skal vi jo kigge på dens projektion ind på en en tangent.
+
+3:44
+Også selv kan den tangent jo være givet ved.
+
+3:47
+En enhed svigter så en. Og den resulterende kraft.
+
+4:00
+Er så produktionen af V ind på tangenten og.
+
+4:08
+Den kraft her er jo så givet ved skalaer produktet af V og E.
+
+4:16
+Og når vi så skal beregne hele det arbejde, der udføres langs den kurve her, så opstiller video i form af et howe integral.
+
+4:29
+Sådan at vi altså kan sige at. Det tangent selv kodein til grad.
+
+4:38
+Af vægtere feltet vil langs med kuglen.
+
+4:46
+Det opskriver vi så som cool integralet. Her har vi den lokale belastning.
+
+4:57
+Og så det med. Så det er vores generelle.
+
+5:03
+Symbol for det er tanken selv korrigerer Integral langs med på.
+
+5:11
+Hvis det nu er sådan at kuglen. Er givet ved en parameter fremstilling.
+
+5:27
+Så har vi også set hvordan vi kan udregne det her tankene selv, selve koden til grad, og det har vi bevist.
+
+5:36
+Det er en sætning, der siger, at så er det tang den sjæl koden til grad lig med integralet fra A til B.
+
+5:51
+At væg feltet taget på kurven. Og så ganget med tangent vektoren, som jo er parallel med en.
+
+6:05
+Og så det U bliver det så her. Så det blev altså til et ganske almindelig gymnasie integral.
+
+6:12
+Når vi har kigget på det og udviklet den sætning som står her.
+
+6:20
+Så er der et interessant specialtilfælde.
+
+6:37
+Og det opstår når. Når kog er en.
+
+6:49
+Lukket kunne Ove altså for eksempel en cirklet eller en anden kugle i rummet.
+
+6:58
+Vores slutpunktet er det samme som begyndte tidspunktet.
+
+7:03
+Det specialtilfælde. Det kalder vi for cirkulationen.
+
+7:09
+Så i det tilfælde. Der er i stedet for at sige det tangent selv korrigerer Integral langs med kurven.
+
+7:20
+Så siger vi også cirkulation af.
+
+7:29
+Altså cirkulationen er væk, så feltet langs med kurven og i fysik bøger.
+
+7:49
+Da altså vor cirkulation og jord er meget hyppige og meget interessante, da tilfører man så lige dette symbol.
+
+8:01
+Da vi ikke gjorde det enorme med det, skal vi selvfølgelig kende en cirkel på integrale tegnet, der betyder dette.
+
+8:06
+Det er en lukket kode. Vi taler om.
+
+8:10
+I kan måske huske, at der er meget særlige situationer, hvor de her siger kollisioner, hvor de var interessante eller gjorde sig særligt bemærket,
+
+8:21
+og det var jo hvis vægtere feltet vi betragter, hvis det var et gradient væg, så fælt.
+
+8:28
+Fordi så er cirkulationen lig med nul.
+
+8:32
+Altså uanset hvad det er for en gode, vi tegner, og hvor det ligger i gradient feltet, så er cirkulationen lig med nul.
+
+8:39
+Var det ikke et gradient ægtefælle, så ville det være helt tilfældigt,
+
+8:45
+hvis der var nogen steder, hvor vi kunne lægge en lukket kode, sådan så cirkulationen var nul.
+
+8:52
+Men så ville der i hvert fald være en kurve et eller andet sted og dermed også uendeligt mange steder, hvor cirkulationen altså er forskellig fra nul.
+
+9:03
+Men derfor er de her lukkede koder altså særligt interessante.
+
+9:11
+Og det har vi været inde på. Se, det var jo en type af geometrisk objekt.
+
+9:25
+Vi har kigget på i et væk så felt og set hvordan vægge så feltet. Det virker på det.
+
+9:30
+Et andet eksempel er jo flader. Så lad os også lige kapitulere.
+
+9:36
+Det. Altså en. Har vi her.
+
+9:44
+Det er en flade i. I placerede i rummet en flade af.
+
+9:55
+Så har vi jo interesseret os, for det spørgsmål gearede et vægtere felt.
+
+10:01
+Hvor store er så stranden igennem vækster feltet, og det ved jeg.
+
+10:05
+Det er der adskillige af jer, der også har beskæftiget jer med i projektperioden og derved derfra kunne jeg selvfølgelig sagtens gøre jer.
+
+10:17
+Jeg har måske svaret på det ved eksamen i i tirsdags, også her.
+
+10:24
+Da er det jo ikke nok at kigge i et bestemt punkt på vægteren ved.
+
+10:31
+Altså på strømmens retning og størrelse.
+
+10:35
+Det er jo ikke nok, når vi skal bestemme gennemstrømningen. Nej, vi er nødt til at kigge på dagens produktion ind på denne gang.
+
+10:44
+Er det ikke en tangent svigter, men på en normalvægt så.
+
+10:52
+Så tegner jeg altså her.
+
+10:57
+En enhed normalt vægter ind i det samme punkt, så er den effektive gennemstrømning som bekendt jyde ved produktionen af vægteren.
+
+11:13
+V ned på få normalvægt sådan her, det vil sige det er.
+
+11:21
+Den vægter her der er interessant, og den får vi jo igen ved et skalar produkt, nemlig Skalar.
+
+11:29
+Produktet er ved ganget en. Så altså ved gange M, der er et udtryk for hvor stor er gennemstrømningen faktisk i et lille lokalområde her på fladen.
+
+11:46
+Og når vi så. Og det er jo det som alle integralregning handler om.
+
+11:51
+Det er jo, når vi kender det lokale bidrag over alt på fladen, hvordan får vi så fundet ud af,
+
+11:59
+hvor stor en virkning er der så på hele fladen i denne her sammenhæng?
+
+12:04
+Hvor stor er der en flux igennem ved? Og det er jo det spørgsmål vi stillede os.
+
+12:17
+Flugten er ved. Gennem fladen.
+
+12:25
+Og det valgte vi så at skrive op som symbol på følgende måde.
+
+12:40
+Altså netop et flade integral, hvor belastningen.
+
+12:45
+Vi betragter altså er den lokale gennemstrømning overalt på fladen.
+
+12:53
+Og den. Hvis.
+
+12:58
+F er. Gedved Parameter fremstillingen er er udkommet ved.
+
+13:09
+Hvor U ligger fra A til B og den ved ligger fra C til del.
+
+13:22
+Så kunne vi jo også her finde frem til en sætning, hvor ved de rent faktisk kunne udregne flugten, og den sætning har vi hér flokken af V gange med F.
+
+13:39
+Er så lig med et dobbelt integral. Hvor vi altså kigger på, vægter feltet over alt på fladen, altså det er jo netop det det betyder.
+
+13:53
+Når jeg skriver det her op, så betyder det jo først reaktionen af V til denne flade.
+
+14:01
+Og hvor vi så skulle gange med store M.
+
+14:10
+Og hvor vi så integrerer fra A til B og C til det.
+
+14:16
+Det er bare formlen. Og hvor.
+
+14:23
+Store in bio også er en normalvægt så lokalt, men som hele tiden varierer i størrelse,
+
+14:34
+og det er altså den størrelse, der indgår i sætningen og størrelsen er.
+
+14:40
+Så givet ved. At det er længden af krydsproduktet af parameter for omstillingen først differentieret efter efter U og dels differentieret efter vil.
+
+14:58
+Så sådan kunne vi altså. Beregnet flux ind igennem fladen.
+
+15:11
+Se også i dette tilfælde.
+
+15:22
+Da havde vi et særdeles interessant særtilfælde og det kom.
+
+15:32
+Og det var jo når fladen er en lukket flade.
+
+15:54
+Og for ligesom at kunne finden symbol for at udtrykke dette, så sagde vi altså, at vi sådan set tager udgangspunkt i et.
+
+16:06
+Område i rummet, altså et massivt område. Altså hvis det er en lukket flade, så er den.
+
+16:21
+Overflade. For et massivt område.
+
+16:34
+Som vi kan kalde for Omega.
+
+16:42
+Og så taler vi altså om flugten, at vi gennem overfladen.
+
+16:50
+Af Omega. Og skrevet med integrerede tegn.
+
+16:58
+Så komma overfladen altså her til at hedde blødt d omega af.
+
+17:07
+V gange N. Det Mike.
+
+17:20
+Så det var lige et par vigtige eksempler på objekter i vægtere felter, og hvordan væg topfeltet påvirker det objekt, vi har betragtet her.
+
+17:33
+Se. De objekter vi så taler om, de kan jo være givet på forskellige måder.
+
+17:40
+Sommetider kan det være en geometrisk beskrivelse.
+
+17:44
+Vi kan for eksempel se en vanrøgt cirkel, der ligger i højden tre over ikke syg syg planen.
+
+17:55
+Altså der kan være forskellige måder. De her er angivet på. Og der ved jeg jo for at vi ligesom kan lave disse udregninger.
+
+18:04
+Så skal vi have givet dem en parameter fremstilling, og først når vi har givet altså interesseret dem,
+
+18:11
+så kan vi bruge disse formler til at udregne den samlede virkning.
+
+18:17
+Og da er det altså sådan med det vi arbejder med her, at da er orienteringen vigtig.
+
+18:26
+Og da er det sådan er parameter fremstilling, er det sådan vi møder objektet, står der altså.
+
+18:33
+Vi betragter en flade, der har parameter fremstilling. Bum, bum, bum bum.
+
+18:39
+Så ligger der i selve parameter fremstillingen en bestemmelse af, hvad det er for en orientering fladen den har.
+
+18:47
+Den er nemlig givet ud fra store enheder som alsang gennem fladen ved at sige i store ensretning.
+
+18:58
+Men i andre opgaver, hvis den bare har sejr.
+
+19:03
+Altså hvis vi bare sagt det er en cylinder eller et eller andet, så skal vi måske selv bestemme,
+
+19:07
+hvad det er for en orientering, som vi betragter og i mange opgaver.
+
+19:14
+Da kan det være en pointe at bestemme sig og finde ud af.
+
+19:17
+Er det nu den rigtige orientering, vi betragter?
+
+19:23
+Og det gælder altså især jord, så vi ved Gausel sætning, og det gælder også,
+
+19:29
+hvis duks sætning og det kommer lige tilbage til om lidt, så det skal vi altså huske altid tænke over.
+
+19:35
+Er orientering givet i opgaven? Eller er det noget, jeg skal tænke over?
+
+19:40
+Har jeg nu fået lavet en parameter fremstilling, der har den rigtige orientering i forhold til det, der er spurgt om?
+
+19:55
+Så. Så altså sidste gang før projektet.
+
+20:23
+Da betragtede vi Gausel sætning. Som handler om flux gennem en lukket flade, så da betragter vi altså.
+
+20:42
+Da betragter vi en lukket flade i rummet.
+
+20:51
+Og det vil sige vi betragter det først massivt som omega.
+
+20:56
+Og så spørger vi så om. Hvad er flugten?
+
+21:03
+Er ved ud gennem det omega.
+
+21:11
+Definerede ved det omega. Skalar produktet af V og enheds normalt vektoren.
+
+21:25
+Og der var det overraskende ved Gausel sætning Det var så at det her er jo et flade integral.
+
+21:36
+Men det kan være urin som et rum integral. Så er det her to.
+
+21:41
+Det. Dette dobbelte integral DQ i stedet for udregnes.
+
+21:48
+Som rum integralet af det massive område, men hvor det lige så integreret.
+
+21:58
+Det er bare begyndelsen. Er vi.
+
+22:11
+Så er Gausel sætning handler om forholdet imellem et massivt område og dets overflade.
+
+22:20
+To forskellige integrator, der stilles op, og hvor vi så kan sætte et lighedstegn imellem dem.
+
+22:27
+Og sætningen er jo altså i praksis.
+
+22:32
+Det er en fantastisk teoretisk sætning. I praksis er den rigtig god for somme tider, hvis vi skal udregne sådan et flade integral her.
+
+22:41
+Så kan det være besværligt af forskellige grunde.
+
+22:45
+Men hvis vi tager de dybe erkendelsen af det, så selv om det bliver et triple integral, så kan udregninger måske være og lette.
+
+22:56
+Andre gange kan det være en fordel at gå. Altså her med det jeg sagde nu, da gik jeg herfra hertil.
+
+23:03
+Andre gange, der er sætningen fantastisk, hvis vi skal gå den modsatte vej.
+
+23:10
+Så det var altså Gausel sætning, og så i dag, så er det Stokes sætning.
+
+23:28
+En stor sætning handler om en åben flade eller nærmere sagt om forholdet mellem en åben flade og dens rand kurve.
+
+23:42
+Så her tegner jeg nu. N Flade F.
+
+23:59
+Og det vi interesserer os for det er nu dens Ranko.
+
+24:08
+Altså den kurve som. Afgrænser fladen i rummet.
+
+24:15
+I dette tilfælde den kurve jeg har tegnet her fra denne hat, som i forestillinger den.
+
+24:23
+Og. Stokes sætning siger så at cirkulationen.
+
+24:34
+Er af så feltet langs med Francorum. Og det vil altså sige at det er det vi også skriver som det f.
+
+24:48
+Ved. Og så enedes tangent vektoren på denne her Ranko.
+
+24:59
+Her. At sådan et tangent sjældent koge i en grad, der kan udregnes som et enkelt integral tegn, at det kan udregnes som et flade integral over f.
+
+25:20
+Og var vi altså her, skriver rotationen af V.
+
+25:26
+Gange skalaer med en ellers normalt vektoren på på på fladen.
+
+25:35
+Det ville. Det er Stokes sætning der står her.
+
+25:42
+Så. I kan vælge at udregne cirkulationen af vind langs med RAND kurven eller I kan i stedet for at tage rotations flux.
+
+25:57
+Ud gennem fladen, som det handler om. Så det her er jo ikke Kluxen RV.
+
+26:06
+Men flugten er rotationen af V, som er et nyt værktøj felt.
+
+26:11
+Så det er de to ting der bliver stillet op, og hvor vi altså næste gang vil bevise, at sådan her forholder det sig rent faktisk.
+
+26:30
+Før og nu skal vi så lige snakke om det der med orienteringer, fordi her har jeg skrevet Gausel sætning.
+
+26:41
+Men Gausel sætning gælder kun hvis fladen er orienteret ud efter.
+
+26:47
+Det vil altså sige hvis vi har udadvendte, indledes normalvægt så fælt.
+
+26:59
+Fordi det man er det, er det Gausel sætning, siger Flux sendt ud igennem overfladen.
+
+27:07
+Så vi skal altså sørge for, at når vi laver parameter fremstillingen for denne her lukkede flade, at dens store en.
+
+27:17
+Så var det jeg havde skrevet den hen før. Den har vi her.
+
+27:21
+Altså at min parameter fremstilling er så stor en peger udad.
+
+27:26
+For ellers får jeg en beklagelig fortidens fejl. Altså værre er det heller ikke.
+
+27:31
+Men altså i en praktisk opgave kan det være altafgørende for, om om det virker dette at lave.
+
+27:38
+Så det er altså den orienterings regel, der skal gælde, og som vi skal sørge for er i orden.
+
+27:45
+Because sætning. Ved stork set den, da er det højere konventionen som skal være opfyldt og højere konventionen.
+
+27:57
+Det vil så sige at altså Vicario.
+
+28:04
+Den handler om den. Tangent svigter, vi taler om her over for den her enhed, står med et svigter, og de skal danne højere skrue.
+
+28:16
+Så det vil altså sige vist. Hvis min flade her.
+
+28:22
+Hvis den er orienteret. Altså jeg kan betragte her.
+
+28:32
+At sige at vi har. Enes normalvægt, teorier der peger i den retning, som jeg har antydet her.
+
+28:43
+Så skal der altså være sådan, at når jeg står ved spidsen af dem her, kigger ned på Ranko oven.
+
+28:53
+At så skal rangordne hindbær orienterede mod uret. Så det er altså denne sammenhæng, der skal være imellem den enedes normalvægt,
+
+29:02
+som står her til venstre, og den enheds normalt vektor, der står her til højre.
+
+29:07
+De skal danne højere skue, og det betyder altså højskole. Det vil sige, at hvis jeg lærer min tommelfinger repræsentere enheds normal vægt fra feltet,
+
+29:19
+så skal fingrene så vise retningen af kurven den vej foden den er orienteret.
+
+29:48
+Og så lad os prøve at kigge på et par eksempler på, hvorfor Stokes sætning Denne er smart!
+
+30:07
+Kom og mit første eksempel kom. Jeg har givet et vægtet felt som hedder.
+
+30:27
+Y ex. By og.
+
+30:34
+Exit i anden. Og så har jeg givet en kurv ved hjælp af en tegning.
+
+30:53
+Som jeg lige antyder her. Ikke saksen.
+
+31:04
+Y aksen. Og så i dette tilfælde.
+
+31:11
+Så lad os sige at det er os der sætter aksen, der ligesom klart peger ud fra tavlen her.
+
+31:17
+Jeg har altså lagt koordinatsystemet sammen, så jeg syvendepladsen ligger på tavlen her.
+
+31:23
+Og den kode, som er givet. Det er den kurve.
+
+31:40
+Den er kvadrat er det faktisk her. Det er jo i en lukket kurve, selvfølgelig og i det her tilfælde.
+
+31:47
+Der kan jo sige, at kuren består af fire dele.
+
+31:54
+Så nu vil jeg lige give dem nogle navne. K et.
+
+31:59
+CO2. Et træ og.
+
+32:06
+K fire. Og opgaven lyder altså.
+
+32:18
+Bestemt cirkulationen af V.
+
+32:25
+Langs med K. Og lad os nu følge den oplagte metode ud fra det vi kender i forvejen.
+
+32:46
+Det er jo simpelt hen, at nu parat med interesserede jeg hver, at de her kunne orgelstykker.
+
+32:53
+Så en. Jeg kan alle sige K et.
+
+33:05
+Er givet ved sundhed, skal jeg have lavet en parameter fremstilling af den.
+
+33:15
+Den har jo en variabel. Og jeg kan vælge dette som mit begyndelser sport.
+
+33:29
+Og det har jo ekskong DNAet en ny kortnæbbet ind. Og da den ligger i sygeplejen, så har vi altså set koordinaten nål.
+
+33:40
+Og så plus parameteren u. Og så ganget med.
+
+33:47
+Retnings vektoren, som ligger vanry her.
+
+33:54
+Og som jo altså har en første koordinat på 2. Nej, for der ligger fra 1 til herfra.
+
+34:06
+Altså vi har en to tre. Det skulle jeg selvfølgelig skrive. Så den har altså længden 2 her.
+
+34:14
+Og hvor U så løber fra. Nul og til en.
+
+34:27
+Og så kan jeg jo nu udregne. Det er tanken Sjelle Kuro integralet langs den første kurve altså ved.
+
+34:42
+Gange. E Demy. Det kan jeg jo så udregne ved et almindeligt integralet over ud fra nul og til en.
+
+34:57
+Og hvor jeg så tager. Vægter feltet restriktion til Cohen.
+
+35:06
+Ganger klart med er mærket og u. D. Og nu skal vi så have restriktion, vil til til parameter kurven og 1.
+
+35:27
+Jeg tror lige jeg vil skrive denne her ud.
+
+35:34
+Den bliver jo så en plus 2 U.
+
+35:40
+Og 1 og nul. Sådan.
+
+35:48
+Så det vil jeg sige, at når jeg så tager væk topfeltet her.
+
+35:54
+På. Så skal vi altså sige y gange med x.
+
+36:00
+Da y 1. Og Da Ekser 1+2 U, så bliver første koordinaten 1 in foto.
+
+36:10
+Og anden på natten den er by. Igen den var jo en.
+
+36:17
+Så kommer den til at stå ind for dette sted, og tredje koordinaten er nul.
+
+36:28
+Altså 3,19 er. Indgang til den skal jo være eks i anden, så det vil altså sige, at det er det der står her.
+
+36:36
+Én plus to i anden. Som så skal ganges med.
+
+36:51
+Skal labbe med tangent vektoren vi skal differentiere den efter uge.
+
+36:56
+Der bliver jo kun to tilbage. Så står der 2 og nul og nul.
+
+37:05
+Og så har vi integrale fra 1 til 0.
+
+37:09
+Og så bliver det vist bare. 2.
+
+37:15
+Hughes fire. U.
+
+37:24
+Og så og så videre. Og.
+
+37:31
+Er så får vi selvfølgelig. To ud plus to i anden.
+
+37:40
+Mellem nul og én, og det giver så fire.
+
+37:48
+Så på den måde kan jeg så udregne det tankene selv koger Integral for hvert af de stykker her.
+
+37:58
+Og så får vi altså at. At hele.
+
+38:09
+Cirkulationen. Det bliver så summen af de fire gode integraler jeg så laver på denne her måde, så summen af indtil graderne over på i.
+
+38:39
+Altså på samme måde som jeg har gjort nu, så skal jeg så udregne 3 mere.
+
+38:44
+Og også skal lægge alle dem der sammen. Og så ved jeg hjemmefra, at det så giver minus otte.
+
+39:01
+Men det kan vi gøre bedre. Og nemmere fordi nu bruger vi nemlig metode 2.
+
+39:29
+Fordi nu vil jeg bruge Stokes sætning i stedet for. Og det vil sige nu.
+
+39:36
+Skal dette ikke blot være en lukket kurve. Men det skal også være en lukket, rank kurve.
+
+39:43
+Så vil jeg altså sige Nu er jeg nødt til at finde ud af en eller.
+
+39:50
+Ja, bestemme definerer en flade. Som Howard K et CO2 kort træ som sin rank kurvet.
+
+40:01
+Og det er jo lige meget hvilken en jeg vælger. Det er faktisk en stor pointe ved Staub sætning, at rotations blusen altså er fuldstændig ligeglad med,
+
+40:16
+hvad det er for en flade, som har den her Ranko over for de rotations blusen ud igennem den f.
+
+40:25
+Her er jo klart den samme, som hvis jeg havde taget.
+
+40:30
+Nu vil jeg se, om det er plan. Det kan jeg ikke sige helt ud fra tegningen her.
+
+40:33
+Men den flux, der igennem en vandoverflade, der har denne her som Ranko rotation 000, derigennem er den samme.
+
+40:45
+Så det er jo altså en tydelig konsekvens af Stokes sætning.
+
+40:52
+Så det vil sige når jeg nu skal lave en flade, som har dette kvadrat som en rank kurve,
+
+41:00
+så kunne jeg vælge at tage en kugle, som gik herfra og så op til uret dør op.
+
+41:07
+Også her betragter rotations blusen er den hele vejen op til eller hvorfor ikke bare?
+
+41:17
+Vælger det lukkede kvadrat der ligger her, og den metode vælger jeg nu.
+
+41:21
+Og så kalder den det for store på. Eller store EF undskyld har altså metoden betyder altså, at jeg ved, at jeg vælger en flade.
+
+41:40
+F. For hvilken.
+
+42:00
+For hvilken kog er Ranko oven? Og det er nemmest, men bestemt ikke den eneste mulighed.
+
+42:14
+Det er simpelt hen kvadratet. Og det vil jeg sige Nu skal jeg udregne det her som en flux.
+
+42:29
+Og så har jeg brug for en parameter fremstilling her er u.
+
+42:33
+V. Så jeg laver en parameter fremstilling af det kvadrat.
+
+42:47
+Altså. F. Har PET fra en stilling.
+
+43:07
+Og i dette tilfælde. Kan vi jo bare sige at den har parameter, parameter, fremstilling udkommer, vi kommer nul.
+
+43:20
+Hvor U ligger fra 1 til 3. Og V ligger fra 1.
+
+43:28
+Til 3. Så har jeg jo allerede her en parameter fremstilling for kvadratet.
+
+43:42
+Men hov, nu skal jeg jo lige passe på med om højere konventionen om denne er opfyldt med den parameter fremstilling jeg har valgt mig herinde.
+
+43:52
+Og nu kan jeg se. Nu har jeg jo tegnet. Altså da jeg valgte min parameter fremstilling for kuren her, da valgte jeg jo, at den skulle gå den vej.
+
+44:05
+Og sådan vil jeg være nødt til at finde og passe de andre parameter fremstillinger til, så det altså er den her, jeg har valgt.
+
+44:17
+Det omdøbtes retningen. Nu skal jeg så tjekke om om højre konventionen om den er opfyldt.
+
+44:26
+Og det er jo at finde ud af om.
+
+44:31
+N har den rigtige retning. Det skal jo være sådan, at når jeg står her udefra fra store en, kigger ind på min figur her.
+
+44:43
+Så skal den gå i mod uret. Så nu vil jeg udregne store inde hende.
+
+44:58
+Som er er mærket efter U Ryesgade med, er mærket efter ved.
+
+45:14
+Og det vil sige nu skal denne her altså differentieres efter U, og så får jeg her en nul og nul.
+
+45:27
+Og så skal parameter fremstilling differentieres efter V, der føjer nul.
+
+45:33
+Der får jeg en og der føjer noget. Og så udregner jeg krydsproduktet den ganget med den minus, den ganger med den, det giver nul.
+
+45:48
+Den ganget med den minus den ganget med den giver også nul. Og så endelig den ganget med den minus den gange med den den giver en.
+
+46:04
+Så det vil altså sige at store ind i det her tilfælde er så konstant over hele fladen her, selvfølgelig, og vi kan jo se ganske rigtigt.
+
+46:21
+Store M peger udad højere konventionen opfyldt.
+
+46:25
+Jeg kan gå videre med den parameter fremstilling jeg valgte hende.
+
+46:40
+Han. Men det jeg var ude efter.
+
+46:53
+Det er Mario cirkulationen langs med den lukkede kurve, som jeg har kaldt for K.
+
+47:03
+Den er så det samme som ved rotationen slusen.
+
+47:10
+Langs Ranko er DK af.
+
+47:16
+Rotations rotation svigter feltet gange skalaer med en.
+
+47:26
+Og det kan vi så udregne som et dobbelt integralet over vores interval længder fra en til tre.
+
+47:37
+En til tre. Nu har vi så brug for rotationen vil.
+
+47:48
+Husk at den kan vi udregne ved navler kalkyle.
+
+48:02
+Altså gradient nu krydset med væg, så feltet hvor dette 1.
+
+48:09
+Det er differential operator om det er det ex. Det er det nye.
+
+48:15
+Dette sæt. Krydsede med U, V og ned.
+
+48:26
+Væk fra feltet hvor er det vi har det henne? Det har vi her han.
+
+48:36
+Vi set har vi hørt i X og Y.
+
+48:43
+Og ikke sige anden. Og igen.
+
+48:49
+Vi krydser her de France siger hernede med Y.
+
+48:52
+Det giver nul minus differentiere her op efter Z.
+
+48:57
+Det giver også nul. Så har vi altså nul stående her.
+
+49:03
+Og så differentierer vi hernede fra og her altså differentierer dette efter Z.
+
+49:09
+Det giver nul minus differentiere herfra og hermed.
+
+49:15
+Det bliver så 2. Og så var der altså et minus foran.
+
+49:19
+Så har vi altså mine to extend også at differentiere vi herefter.
+
+49:24
+Ex. Det giver nul minus differentierer efter Y.
+
+49:27
+Det giver minus 6. Så der har vi altså rotationen.
+
+49:37
+Udregnet. Og det er altså nul minus to x minus X, der så skal gange skalaer med store N efter vores produktionsformer som står dernede.
+
+49:57
+Og stor end. Det var jo den vi udregne det her nul nul en.
+
+50:04
+Og så det ud. Det ved. Og så ser jeg altså her får vi nul.
+
+50:15
+Der får vi nul, der får vi minus 6. Og minus ex betyder så minus U efter parameter fremstillingen op.
+
+50:30
+Som jeg så mine sug her, så det ud da vi.
+
+50:39
+Og ja, det er jo så enkelt som det overhovedet kan blive, når vi regner det ud.
+
+50:45
+Så får vi løn minus otte. Så er jeg altså.
+
+50:53
+Pointen er jo. Så her behøvede jeg kun at udregne et integral.
+
+50:59
+Det var godt nok et dobbelt integral, men indtil grænsen var så pæn og nem at at det jo virkelig er meget nemmere,
+
+51:08
+end hvis vi skulle lave fire af dem her, hvor indtil grænserne ovenikøbet var vanskeligere.
+
+51:17
+Så det var et eksempel på på Stog sætning Lad os lige tage det andet herfra fra Mabel i morgen.
+
+51:39
+Han. Strækker sig.
+
+52:23
+Ja, vi ser altså gide et vægtere felt og en lukket pool.
+
+52:33
+I kan se det er noget med kosmos, sinus og sinus og hvor u.
+
+52:38
+U går fra nul til to. Vi ser lige en figur af det om lidt.
+
+52:49
+Vi tegner Vectra feltet. Og Cohen.
+
+52:57
+Så dér har vi altså den lukkede kode. Det er faktisk en ellipse, som vi har fået tegnet en hær og som med et vildt forvirrende vægt såvel.
+
+53:14
+I kan sætte. Det er ikke nemt at se her hvordan resultatet vil være.
+
+53:21
+Altså hvis vi opfatter dette vægge så fælt som et kraftværk så fælt.
+
+53:26
+Hvordan vil det virke på den kurve? Det er jo.
+
+53:31
+Altså modarbejder dem lokalt eller 14 i den rigtige retning, hvor ophæver det modsatrettede hinanden, og hvad er overskuddet af det arbejde her?
+
+53:47
+Selvfølgelig kan vi regne ud. Det er først at finde ud mærke, og så får vi altså nogle trigonometriske funktioner her.
+
+53:59
+Det er altså dem, vi skal lave et enkelt integral af.
+
+54:12
+Og I kan se den står stærkere og tænker et stykke tid før den fandt ud af det.
+
+54:17
+Der var to give. Se her har vi så i stedet for at vi, at vi sætter ud foran de to steder.
+
+54:26
+Her altså for en ikke så udgår natten og dermed også foran tæt koordinaten.
+
+54:31
+Så får vi her en flade.
+
+54:35
+Hvor til ellipsen er en Ranko Ove, og det er selvfølgelig en ellipse skibe, som jeg har taget som den nemmeste udfylder kurver.
+
+54:45
+Her. Der har vi altså fra midt og fremstillingen.
+
+54:53
+Og der kan I se. Vi er heldige. Rotationen er faktisk en konstant vektor, så rotationen er altså ens overalt.
+
+55:01
+Det tyder jo på, at nu får vi nogle nemme udregninger. Og vi kan også lige tjekke på selve figuren.
+
+55:13
+Se nu er det nemt at se hvad det her det drejer sig om.
+
+55:17
+Og nu handler det ikke om træk langs med en kurve, men i stedet for en flux om op igennem cirkel skiven af det felt, vi har tegnet her og.
+
+55:31
+Da rangorden er den går altså den går imod uret her, så kan vi jo sagtens se jamen, så må det blive et positivt facit, der kommer ud af, at det her.
+
+55:44
+Vi skal lige have fundet en. Som jo er overordentligt simpel.
+
+56:02
+Og her ser vi, at den store Enya har lavet altså passer smukt.
+
+56:09
+Det er der peger ud ad her. Vi har rigtig højere sko på her.
+
+56:21
+Og indtil grænsen. Er meget nemmere end den, at de er den serie af trigonometriske funktioner.
+
+56:30
+Det er bare to ud vi skal. Vi skal have udregnet godt nok et dobbelt integral, men per og nemt det giver altså to ppi.
+
+56:36
+Så jeg ser to eksempler på hvorfor står sætninger smart? Og så kigger vi nærmere på det dér med fortolkning af rotation.
+
+56:44
+Efter pausen.

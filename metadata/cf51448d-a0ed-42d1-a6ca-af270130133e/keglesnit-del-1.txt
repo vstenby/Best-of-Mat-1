@@ -1,0 +1,1112 @@
+0:05
+Okay, er der lød på Go Morgen går eftermiddag, hvor laver?
+
+0:13
+Så kører vi toget igen, og det er sådan sidste den sidste.
+
+0:20
+Mental massage inden vi skal i gang med tal af formen på to variable på onsdag.
+
+0:26
+Så det vi skal gøre i dag. Det har noget at gøre med det, som man kalder keglesnit og keglesnit.
+
+0:33
+Flader som er i virkeligheden noget matematik, som går helt tilbage til de gamle grækere, og på sin vis er det meget smukt.
+
+0:43
+Det er også meget besværligt. Så det program vi har i dag, vil være assisteret af et et forholdsvis stort med Oblak som.
+
+0:54
+Jeg kun kan anbefale at I bruger lidt tid på, og så er der hvad nogle af jer måske.
+
+0:59
+Jeg opdagede en meget omfangsrig 1/8 TÜV, som handler om det her.
+
+1:05
+Og den er godt nok lang, og der er i hvert fald én side i den, som er meget vigtig.
+
+1:13
+Det er en navnelisten, som handler om keglesnit flader.
+
+1:18
+Der er selvfølgelig masser af ting i vente, der er vigtige, men vi når ikke at behandle det hele.
+
+1:23
+Lad os lige tjekke programmet, folkens, så jeg vil starte lige med at minde jer lidt om det, vi lavede sidst.
+
+1:35
+Så. Vi skal lige minde os selv om kvadratiske former.
+
+1:53
+Og jeg vil bare skrive det op med tre variable.
+
+2:01
+Man kan gøre det med lige så mange variable, man nu har lyst til, men det gør det ikke sværere.
+
+2:05
+Det gør det bare mere besværligt. Så så skal vi til at kigge på angrebsspillet.
+
+2:20
+Andras polynomier i to og tre variable. To plus tre betyder ikke fem.
+
+2:33
+Og i særdeleshed skal vi nemlig kigge på niveau kurvene for grads polynomier i to og tre variable og det at det man kalder keglesnit.
+
+2:48
+Eller keglesnit flader. Og så ville jeg lave.
+
+2:58
+Jeg ville lave et fuldstændig gennemregnet eksempel. Står et eksempel.
+
+3:08
+Et eksempel hvor man prøver at regne det hele igennem, regn hele svineriet ud og så prøve at se, om vi kan finde ud af at tegne.
+
+3:15
+Og så bagefter vil vi kigge på, hvor nemt det egentlig er, hvis man kan gøre det med.
+
+3:20
+Og så kan vi grine lidt af de gamle grækere, fordi vi har med ét land.
+
+3:25
+Så når okay, lad os kigge på det. Sidste gang snakker vi om kvadratiske former.
+
+3:34
+Og hvad var det nu? Det var jo i tre variable. Hvis jeg når lige præcis i dag, kalder det kog.
+
+3:41
+Så er der altså en funktion fra er 3 1.
+
+3:45
+Det reelle tal, som vi i dagens anledning kan skrive op på denne her måde.
+
+3:52
+Hvis vi nu kalder de variable for ikke et X2, X3 bare for sportens skyld her,
+
+3:59
+så har en kvadratisk form den egenskab, at den kun indeholder kvadratiske led.
+
+4:06
+Det vil sige, at der er ledigt. Der er noget der hedder a x i anden.
+
+4:12
+Så er der noget der hedder undskyld eks. Et. Så er der noget der hedder b x2.
+
+4:18
+Og så er der noget der hedder se X3 i anden.
+
+4:23
+Det er det vi kalder de rene kvadratiske lede. Så kommer de blandede kvadratiske lyde a, b, c, b.
+
+4:31
+Så kan der være noget hvor ikke bliver gange med ex to d, e.
+
+4:37
+Så kommer der noget hvor ex et kan blive gange med X3 og så kommer der et f fordi nu kan X2 også blive ganget med X3.
+
+4:49
+Og dens størrelse, der står her. Er en kvadratisk form i tre variable.
+
+4:59
+A, B, C, D, E og F er bare reelle tal, og nogle af dem kan jo sagtens være nul.
+
+5:07
+Så det er helt fint. Jeg vil nok sige, at hvis A, B og C allesammen med noget, så er der måske ikke så hyper interessant.
+
+5:16
+Men det er stadigvæk en kvadratisk form, fordi leddene er kvadratiske.
+
+5:20
+Så okay, hvad er det så, der er så epokegørende her?
+
+5:25
+Jo, fordi man kan skrive denne her kvadratiske form. På denne lidt smartere måde, hvor man tager og samler i sneen 1 1 gange, tre med friseret og.
+
+5:45
+Her vil vi gerne skrive en. For det tredje variabel, så vil vi gerne skrive en tre gange tre matrix, og her vil vi gerne skrive x et x2, x3.
+
+6:00
+Og vi så sidst hvordan man gjorde det, og nu vil jeg gøre det igen.
+
+6:03
+Fidusen er, at man skal gøre det på en måde sådan at den matrix, der kommer her, bliver symmetrisk.
+
+6:11
+Den matrix her. V hed A.
+
+6:17
+Så lad os lige se en gang hvordan er jo ikke Eliane?
+
+6:22
+Hvis jeg regner det her ud, så kommer bidraget til X i anden del kommer fra den første plads i diagonalen her der skal stå af X2.
+
+6:30
+Anden del kommer fra diagonalen her og ekstra i anden del kommer fra diagonalen der.
+
+6:38
+Så fik vi klaret de rene. De rene kvadratiske lyde.
+
+6:43
+Så kommer de blandede lede. X etter X2.
+
+6:48
+Det bliver grand sammen i denne multiplikation i den matrix hvor.
+
+6:54
+Pladserne i matricen hedder et, to eller to et et 2.
+
+6:58
+Det er den plads to et det den plads. Der deler vi den er lige ud.
+
+7:05
+Det vil sige, at der kommer til at stå det delte med to, og det er ideelt med to.
+
+7:12
+Så blev vi taget hånd om den. Dér hvor X og X3 møder hinanden.
+
+7:18
+Det er på pladsen der hedder et træ eller træ, et der sørger vi for at dele den der lige ud.
+
+7:25
+Det vil sige vi skriver det halve der. Og e.
+
+7:29
+Halvledere. Og så kan man gætte sig til hvad der sker her i år, hvor X2, X3 møder hinanden.
+
+7:36
+Det er på en plads, der hedder to, tre eller tre tog, to, tre DDR og tre 2.
+
+7:42
+Det er her, og der skal vi altså dele æblet lige ud for den der matrix.
+
+7:50
+Det er den entydigt bestemte symmetriske matrix.
+
+7:56
+Som giver os den kvadratiske form. Okay. Hvad er det så vi kan gøre ved det?
+
+8:03
+Ja, for det første matricen af asymmetrisk. Så findes der.
+
+8:15
+Så findes der. Så har denne her symmetrisk Matrix M.
+
+8:28
+Er i dette tilfælde er den tre gange tre, den har tre. Tre lineært.
+
+8:36
+Uafhængige egen vektorer. Og det som er magisk er at egenvægt over.
+
+8:53
+Pårørende. Til forskellige egenværdier.
+
+9:05
+Er ortogonale. Og ja, det betyder specielt, at hvis der er cirka 80 spørgsmål det i med erindringen turene er også finaler.
+
+9:20
+Gælder det også for ikke at sige mest, skal man nok? Det er faktisk sådan, at hvis egne vektorerne er ortogonale, så er matricen symmetrisk.
+
+9:34
+Så det er bare et godt spørgsmål. Så det gælder ikke generelt, men det gælder her og gab hvad?
+
+9:44
+Hvad kan man så gøre? Så findes en overtog Gunvald.
+
+10:03
+Den er tre gange tre, i dette tilfælde matrix.
+
+10:08
+Co. Og hvad var det nu, at det at være ortogonale betød?
+
+10:15
+Det betød bare, at hvis jeg tog af transponerede matrix, så var det det samme som at tage den inverse.
+
+10:23
+Det fede ved det er, at det generelt er svært at finde den inverse til en matrix, men at transponerede matrix.
+
+10:28
+Det kan man lære en gravhund. Ja, og så findes der en ortogonale Matrix Q.
+
+10:40
+Bestående da det normerede.
+
+10:49
+Egenvægt til over. Som søjler.
+
+10:59
+Og det vil altså sige, at hvis vi nu skulle skrive den matrix op Knud Mathiesen, så ville der her stå.
+
+11:08
+Hvis vi lukkede kassen kunne et besøg den første normerede egenvægt, så CO2.
+
+11:18
+Det er den anden normerede egenvægt. Og Q3 blev den tredje normerede egenvægt.
+
+11:26
+Så findes der sådan en ortogonale matrix og en diagonal matrix.
+
+11:41
+Den diagonal matrix har kært barn har mange navne.
+
+11:46
+Nogle kalder den fordi andre kalder dem for Lambda, og det er fordi, at det der står inde i denne diagonal matrix.
+
+11:56
+Det er simpelt hen invaderende lamper, et lambda tog og lambda træ skrevet op i diagonalen.
+
+12:09
+Sådan er Lambda et af egenværdi hørende til egenvægt og en ko, et lam, der to hører til Couto og lam, der tre hører til Q3.
+
+12:19
+Ellers spiller klaveret ikke. Sådan skal de laves.
+
+12:24
+Man skal selvfølgelig lige lægge mærke til. Der kunne jo godt være en kongelig Serene faktor her.
+
+12:29
+For hvad nu hvis for eksempel de to egenværdier var ens?
+
+12:33
+Det kan man godt komme ud for. Så kan man godt risikere, at når man leder efter egen vektorer, så kommer der en er nu det her, det normerede.
+
+12:44
+Men altså så kommer der en vektor ud her, og en tager ud her, som ikke nødvendigvis er ortogonale.
+
+12:51
+Men så er man simpelthen nødt til lige at tage den og regne det ud ved hjælp af Graham Smith.
+
+12:56
+Så kan man opnå, at de bliver ortogonale, men nogle gange er man heldig.
+
+13:01
+Så kommer de ud. Som det skal.
+
+13:05
+Okay. Så pas lige på, hvis der er en dobbelt egenværdi.
+
+13:10
+Så kan det godt være, at man lige skal bruge Graeme Smith på matricen for at få gjort den ortogonale.
+
+13:17
+Godt og og hvad? Kan man så få ved hjælp af det her?
+
+13:26
+Som opfølgning på Malung. Og hvad er det der opfylder jo denne her lambda matrix.
+
+13:38
+Den fremkommer simpelthen ved at tage vores matrix A og gange fra højre med Q og gange fra venstre med Q.
+
+13:47
+Enhver af os som bare er den transponerede. Det her svarer præcis til et basses skift.
+
+13:59
+Og hvad er det for et basis skift man laver?
+
+14:03
+Jo, hvis man starter i det helt almindelige koordinatsystem. Vores i et, to i tre koordinatsystem.
+
+14:11
+Så sker der en drejning af, er det sådan at dette bliver første akse der bliver anlagt og det bliver tredje akse,
+
+14:19
+så det der sker, er simpelhen bare en drejning, fordi det her nu foregår i rummet.
+
+14:24
+Fordreje med den sådan her rundt. Det er meget simplere at se, når der er.
+
+14:31
+Hvad hedder det, når vi i planen, når der kun er to variable? Og det kommer vi til at kigge på, når jeg regner det igennem.
+
+14:39
+Der er så lige nogle navne, fordi fortegn af disse egenværdier bliver faktisk vigtige, og det vil jeg lige skriver om et øjeblik.
+
+14:53
+Men hvad sker der med vores kvadratiske form?
+
+14:57
+Jo. Vi indfører. Vi indfører nu.
+
+15:06
+Vi indfører simpelt hen nogle nye variable. Sådan er vores gamle variable ex et x2, X3 er lig med vores matrix Q.
+
+15:23
+Gange nogle nye variable x et Childe X tog til det og ikke tre til det.
+
+15:36
+Sådan. Hvis man så på et X2 og ekstra plads og oppe i den kvadratiske form, skriver Q gange det der.
+
+15:47
+Så kan den kvadratiske form pludselig skrives, som hvis jeg indfører de nye variable.
+
+15:59
+På en måde hvor det kun er denne her, der kommer til at spille en rolle, fordi vi fjerner, vi fjerner alt snavset.
+
+16:08
+Alle de der blandede led, så det, der kommer ud af alle, det bliver simpelthen lammet af et x et filte i anden + larm,
+
+16:17
+da to x to tilde Jane Kluges lambda tre ekstra childe i anden så sådan her kommer.
+
+16:30
+Formen til at se ud i det nye koordinatsystem. Og om et øjeblik skal vi se hvorfor er vi er glade og glade for det?
+
+16:39
+Fordi den er meget, meget simplere at have med at gøre end det oprindelige udtryk her op.
+
+16:46
+Som jeg sagde før, så er fortegn af her lambda.
+
+16:52
+De er afgørende for, hvad det er for nogle niveau, flader eller niveau kurver man får ud af sådan nogle udtryk her.
+
+17:00
+Så derfor får man nogle navne, som man kan bruge, fordi det er sådan, at.
+
+17:10
+Hvis. Alle Lambda ejerne.
+
+17:16
+Er større end nul. Det vil sige hvis alle de her egenværdier er på.
+
+17:23
+Der er spørgsmål ved efterfulgt af et ja, ja, undskyld du godt du det.
+
+17:31
+Sådan. Tusind tak. Det er kun kvadratiske led der overlever her.
+
+17:40
+Er dog godt sat af, fordi det er meget vigtigt. Sådan.
+
+17:44
+Jeg skylder op til flere øl. Godt nok tilbage til navnene, hvis alle dette lambda skriver bare alle Larne Hvis de er positive,
+
+17:58
+så siger man at den matrix vi har med at gøre vores af matrix som står dér, vores af matrix eller den tilhørende kvadratiske form.
+
+18:11
+Navnet bruges om begge to. Så siger man, at A og den kvadratiske form er positiv defineret.
+
+18:25
+Så en positiv det finit matrix eller en positiv definitiv kvadratisk form.
+
+18:30
+Det er en vor egne DNA streng positive. Matricen skal være symmetrisk, ellers giver det ikke mening.
+
+18:36
+Så hvis alle invaderende er mindre end noget andet, tror jeg således, at negative define i dag.
+
+18:47
+Så det her gentager jeg bare. Og så hedder det negativt defineret. Og hvis der både er positive og negative.
+
+19:02
+Både positive Clowes negative lambda og altså egne ideer.
+
+19:10
+Så ser man, at matricen eller den kvadratiske form er en definitiv.
+
+19:18
+En. Det fe net, og så er der nogle detaljer, nemlig at hvis nu der bare står større end eller lig med her,
+
+19:31
+fordi en egen værdierne kunne godt gå hen og være nul eller mindre end eller lig med her.
+
+19:37
+Så kalder man det, hvis vi i dette tilfælde for eksempel positiv sámi definitivt, men det gider jeg ikke skrive op her.
+
+19:46
+Det fremgår også en ret klar, da teksten også, men det er de vigtige.
+
+19:50
+Det er de vigtige navne her positivt defineret hed og negativ definitive.
+
+19:56
+Husk lige. Husk lige at der er en lille en lille frisk detalje, som jeg måske kan huske at.
+
+20:05
+Hvordan kan man se på en matrix af noget af en egenværdi?
+
+20:10
+Det kan man vist determinanten af nul. For hvordan er det nu der er?
+
+20:17
+Produktet af egen værdierne er lig med determinanten.
+
+20:22
+Og så hvis en af invaderende er noget. Hvis en af ideerne er noget, så vil vi være helt sikre på.
+
+20:31
+At determinanten bliver nul, og så er man altså i en situation, hvor der er noget at se mine definitivt formentlig, og kan jeg godt så det her.
+
+20:43
+Det var sådan. Hvad skal man sige? Måske virkelig en repetition for sidste gang, men nu med tre variable.
+
+20:52
+Så lad os prøve en gang og kigge lidt på angrebsspillet nøjere.
+
+21:02
+Og. Hvordan ser et andrades på det enorme område?
+
+21:24
+Ja, hvis det. Hvis det er i to variable, så kan vi jo bare sige at Eva ikke kommer øy for eksempel.
+
+21:34
+Hvordan ser sådan et så ud? Jo. Så har vi nogle kvadratiske leder af dæk, siger Anden Clowes B Bøge Jane +.
+
+21:46
+Og så har vi måske et sæt igang ekskongen.
+
+21:51
+Y plus. Og så ved vi jo godt, at.
+
+21:56
+For eksempel når vi snakker om et andet grads Foligno.
+
+21:59
+Det kunne godt hedde ikke sige andet plus 7 x minus 3, så der kan godt komme et lineært møde, og det tager vi så også med her.
+
+22:06
+Så her kan der godt opstå a, b, c så koster det x Clowes, e, y, a, b, c, d, e.
+
+22:15
+Og så kan der stå f. Dette er et anden grads polynomium.
+
+22:24
+I to variable og et tilsvarende ved et Andras får nogle i tre variable.
+
+22:33
+Det vil se fuldstændig tilsvarende ud.
+
+22:38
+Da jeg ikke ser anden Clowes B, Y er anden plus C sagde de +, og så kommer der noget lineært, og der kommer muligvis blandede lede.
+
+22:49
+Lad os se hvordan. Engang hed a b, c, d, e.
+
+22:52
+X Y. Clowes e x.
+
+22:58
+Serie Clowes, f. B sad klos.
+
+23:03
+Hold da kæft e, f, g, x, Clowes, H, y.
+
+23:10
+Clowes, J. Z plus et tal der kommer efter J alfabetet J, K.
+
+23:18
+Sådan og prøve at se strut. Mangler der noget?
+
+23:25
+Det var ligene af J. Det var de blandede, og det var de rent kvadratiske.
+
+23:31
+Sådan. Ağca. Så nogle er så nogle der kan jo ihvertfald hvis man bare kigger på dem.
+
+23:46
+Prøv at se her. Denne her dagen her og tilsvarende.
+
+23:52
+Denne del her kan især være. Det er kvadratiske former.
+
+23:57
+Måske skulle jeg lige ringe dem ind her sådan her. Det her er jo en kvadratisk form i to variable.
+
+24:07
+Og hvor langt skærer ned. Jeg skal ned til her. Det her er jo en kvadratisk form i tre variable.
+
+24:16
+For dem kan man jo skifte variabel hvis man vil.
+
+24:20
+På den måde, som vi har beskrevet her.
+
+24:23
+Og hvad sker der så, hvis man skifter variabel, ja, så bruger man altså nogle andre ikke så og sætter nemlig dem, som står her.
+
+24:35
+Men det der kommer ud af det er at det blandede lede dette er lavet eller hernede.
+
+24:40
+Dette er dette og dette er de blandede lyde kan man fjerne. Prissætte.
+
+24:47
+Det vil sige at når man skal til at kigge på niveau o.k.
+
+24:59
+For dem her. Så vil man faktisk have stor fornøjelse af at lave sådan en substitution, som vi har lavet herover.
+
+25:09
+Hvorfor? Fordi og nu vil jeg, fordi det her tager så hulens lang tid at skrive.
+
+25:17
+For nu vil jeg kigge på to variable. Fordi.
+
+25:25
+Hvad kan man sige om sådan en her? Hvis der ikke er nogle blandede lyde.
+
+25:34
+Ingen. Og ved blandet lede, der mener at lede der hedder Ikke gang Y lød.
+
+25:45
+Okay. Det vil altså sige så har man noget af denne her form.
+
+25:52
+Jeg har noget der hedder A XL, Anden Clowes B bølge, Anden Clowes, C, Ex, Clowes, A, B, C, D.
+
+26:03
+Byg. Clowes E. Sådan vil det se ud, hvis der ikke er blandede lede.
+
+26:11
+Du skriver det bare op. Jeg skriver ikke funktionen lige med. Hvis det så er en eller anden i Vukovar, vi er interesserede i.
+
+26:17
+Så kunne for eksempel være niveau kurrer noget. Det er dér, hvor jeg tager denne funktion og sætter lig med nul.
+
+26:27
+For spørgsmålet er. Hvad er det?
+
+26:35
+Og hvad er mulighederne? Hvad kan der principielt optræde her og der er?
+
+26:42
+Ikke så mange muligheder, fordi den første mulighed.
+
+26:48
+Det er at man kan omskrive det her på denne her måde, hvor der står x minus et eller andet x0 i anden del med a plus y minus bygge 0.
+
+27:03
+I anden del med B. Anden lim i.
+
+27:11
+Altså over hovedet. Og hvordan det? Det kan man, det skal nok vise.
+
+27:16
+Sagen er. Sagen er, at dette ikke knogler og y nulre og br.
+
+27:21
+Det kommer selvfølgelig fra de der konstanter A, B, C, D og E der står her.
+
+27:25
+Og det regner vi jo frem med et øjeblik. Men fidusen er.
+
+27:31
+At dette er en ellipse. Hvis nu A og B er det samme for alle, så ganger man det jo bare over, og så kan man se den cirkel.
+
+27:41
+Det er sådan. Hvis jeg beder en, så ganger man dog over på den anden side, så det var en cirkel.
+
+27:48
+Centrum for ellipsen hedder eks 0,70. Og hvordan tegner man sådan en?
+
+27:55
+Nu skal vi bare se. Det er heldigvis nemt. Og det.
+
+28:04
+Først finder jeg lige centrum. Det er ikke 0,70 der ligger her.
+
+28:10
+X0 kommer i nul. Så bruger jeg aben.
+
+28:17
+Det er den vanrøgt halløj akse. Hedder det.
+
+28:26
+Hvad Andrade Halløj akse. Det fortæller bare, at hvis jeg gør stykket A til højre og stykket A til venstre, så kan jeg gøre sådan her.
+
+28:36
+Læg mærke til, at hvis hvis nu A og B havde været det samme, så skulle jeg bare have brugt A som radius.
+
+28:41
+Så kunne jeg tegne den rundt, så er det være radio radiospil, siger han.
+
+28:44
+Men eftersom en ellipse er bare en cirkel, der er blevet hoppet på plump, så er der sket det, at man i stedet for at gå det samme stykke,
+
+28:54
+som man går ud, så skal man gå stykke bede op og stykke bag ned her, men alligevel verdenskrig og ikke skrive det her.
+
+29:01
+Her skriver B. Og her skriver jeg A. Prøv at se. Så kan man lave en lille et lille rektangel, og ellipsen ligger så dér.
+
+29:15
+Det vil sige at så kan man sådan, hvis man er nogenlunde ædru, så kan man få noget der ligner en ellipse.
+
+29:25
+Læg mærke til det ærbare en deformerede cirkel. Man kan starte med en cirkel hvor radio.
+
+29:32
+Som altså hvor der så det samme, så alle hernede. Og så trykker man på den, enten den ene eller den anden retning.
+
+29:39
+Det er i virkeligheden en cirkel. Det er en proces, som man ofte iagttager, hvis man har et glas øl.
+
+29:47
+Og kigger man ned i det og så ser man en cirkel. Okay, så begynder man den proces, der hedder at drikke øl.
+
+29:56
+Det indebærer, at man er nødt til at vippe glasset. Når man vipper glasset, fremkommer en ellipse.
+
+30:05
+Okay, det er jo fantastisk. Så det er ikke løgn.
+
+30:13
+Det er rigtigt. Og der er et studie og jeg kan høre dem det må vi gøre noget.
+
+30:21
+Nå ja, sådan. Sådan tegner man.
+
+30:26
+Sådan tegner man sin ellipse. Læg mærke til, at dette her er centrum.
+
+30:34
+Det er det, der står her. Læg mærke til minutterne. Det er det samme, som er med cirkler.
+
+30:39
+Man trækker centrums koordinater fra. Læg mærke til at falde.
+
+30:44
+Sådan er det altså. Kvadrat brødrene er de tal, som står her i nævneren.
+
+30:49
+Disse punkter der dér, dér og dér.
+
+30:54
+Det kalder man faktisk for et Ipsens top punkter. Og det er ganske simpelt at finde dem også.
+
+31:07
+For hvis man har centrums koordinater, så kan man jo bare lægge A.
+
+31:13
+Til sin eks ved at trække af fra sine æg, fordi så har man de to punkter kan vise det.
+
+31:19
+Hvis man skulle have de to punkter, så skal jeg bare lægge begge til min nye værdi og trække det fra med nye værdi.
+
+31:25
+Så har jeg de to toppunktet. Nu kan jeg godt lægge mærke til at.
+
+31:34
+Den linje der. Som er fuldstændig parallel med coordinator aksen.
+
+31:39
+Her er den ene symmetriakse for ellipsen og den anden.
+
+31:44
+Her. Som også er parallel med coordinator aksen.
+
+31:48
+Den anden symmetriakse. Og gnide sig igennem centrum.
+
+31:53
+Det er nogle simple linjer. F.eks. For eksempel hedder denne lodrette linje denne hedder x li x0.
+
+32:03
+Det er den der og denne her vanrøgtet linje den hedder. Y li y 0.
+
+32:07
+Okay! Hvad kan der ske?
+
+32:12
+Jeg skulle lige skrevet af beder den lodrette. Lodrette haler, akser og gab.
+
+32:19
+Jamen, det andet tilfælde. Det kunne godt være, at foretagendet ikke var ens.
+
+32:26
+Det kan se sådan her ud. Hvor der står minusser.
+
+32:40
+Og hvad er det? Det er en hyperbel.
+
+32:47
+Det hedder en hyperbel. Jeg fik ikke skrevet ordet ellipse, det gør lige her.
+
+32:54
+Det her er en hyperbel. Og der er faktisk to muligheder Kan I sætte efter det, der kan stå minus dér og klogest.
+
+33:10
+Men der kunne også har stået plusser og minusser. Det giver begge to hyppigere.
+
+33:16
+Denne hyperbel, hvor der står et minus her. Det hedder en liggende befærdet.
+
+33:24
+Hvis man skal tegne den. Så gør man præcis på samme måde som er hende man tapper kridt en anden farve, så afsætter jeg x 0,70.
+
+33:38
+Det samme centrum som hvis det var en ellipse. Det hedder så også hyperbel centrum.
+
+33:44
+Så laver jeg præcis den samme klasse, som jeg har her.
+
+33:47
+Kan I sætte? Denne case her.
+
+33:53
+Den bliver lavet ved hjælp af Y'erne og Brende. Og så kan jeg tegne ved hjælp af denne her case.
+
+34:00
+Så kan jeg tegne den ene diagonal og forlænge den ud i det uendelige og den anden diagonal og forlænget ud i det uendelige.
+
+34:13
+Så såvel den hyperbel hastigt toppe på det ene top punkt ligger her, og så vil den smyge sig ud af de her enheder.
+
+34:22
+Dens sensorer og den anden gren ligger her.
+
+34:30
+Den ser simpelthen sådan ud hyper rablende. Er de her grene de røde linjer her hedder dens symptomer og er symptomerne.
+
+34:49
+Assens Sauterne, som I kan se der er to af de har linningen i minus by 0.
+
+34:57
+Og så skal man er fattig Signe. De er af og beder for der er en plus og minus.
+
+35:02
+Og så hedder det begge dele med A. Det er jo ikke. Hvad hedder det?
+
+35:08
+Hvad hedder det? Det er jo ikke så svært, fordi man kan stykke A ude og stykke B op.
+
+35:12
+Eller også går man stykke af ud og stykket bag ned og hældningen.
+
+35:17
+For de to linjer her bliver plus eller minus b'er ene del, og herinde i parentesen skal der spares på x minus x0.
+
+35:26
+Det er symptomerne. Og læg mærke til at også.
+
+35:32
+At symmetrier akserne for sådan en hyperbel er de samme som for ellipsen.
+
+35:39
+De har de samme symmetriakse top punkterne for hyperbel.
+
+35:46
+Der er kun to. Det sig så her. Godt.
+
+35:57
+Hvad kunne der så være sket? Jo. Hvis nu der havde stået minus her og plus der.
+
+36:09
+Så havde vi fået det som man i på på de lokale værtshus kalder en stående hyperbel.
+
+36:20
+Og hvordan ser dagen ud når i år?
+
+36:22
+Man kan sådan set egentlig bare forestille sig lidt, at der er byttet rundt på eksterne øerne, så den har bare sin top punkter her og her.
+
+36:29
+Men den har de samme sensorer. Sådan vil se sådan her ud.
+
+36:40
+Og. Allerede nu kan jeg måske se, at dette udtryk som altså kommer ved en omskrivning af det her.
+
+36:54
+Børster plusser. Foran ikke ser anden og øge i anden kassette.
+
+37:00
+Der stopklodser for ikke anden og øge i anden.
+
+37:04
+Det betyder det betyder, at egen værdierne, som man har fat i, når man laver denne transformation herover og egne værdierne, skal have samme fortegn.
+
+37:17
+Hvorimod her er der forskellige fortegn på anden grads ledende.
+
+37:23
+Og det betyder, at den kvadratiske form er defineret.
+
+37:27
+Der er altså en positiv og negativ egenværdi, så allerede nu har vi noget information.
+
+37:33
+Okay, er der så flere muligheder? Ja, fordi der er den tredje mulighed, som er.
+
+37:40
+Hvad i alverden er det? Det lignede lige noget bekvemt bekendt.
+
+37:59
+Så det her er tavle fire. Fordi det kunne jo være at man ved at omskrivningen nåede frem til noget der hed sådan noget i denne
+
+38:15
+stil minde os da x minus x noget i anden del med minus Y minus y 0 i anden del med B er lig med en.
+
+38:32
+Hvis omskrivningen giver sådan noget, så kigger man lige på det og ser med.
+
+38:36
+Og her står der noget positivt. Og så står der et negativt eller et minus foran sig.
+
+38:42
+Dette er det negative. Tilsvarende er det her det negativt, så to negative tal lagt sammen kan aldrig give et positivt.
+
+38:51
+Så hvis det ser sådan her ud, så er det ingenting. Så er det den tomme mængde.
+
+38:57
+Så man kan altså godt løbe ud i situationer, hvor dette ikke fremstiller noget som helst.
+
+39:04
+Ligesom vi var jo i situationer kan I huske det, vore niveau, kurvene.
+
+39:13
+Var den tomme mængde. Kan I huske det? Jeg prøvede at lave min frugtskål, og så tog jeg et niveau, der lå.
+
+39:21
+Nede på aksen er jeg slet ikke skarp. Min frugtskål kan udstøde, så var det den tomme mængde.
+
+39:26
+Og hvis jeg skal højere op, så var det cirkler. Så det kan godt ske.
+
+39:31
+Og kan jeg se nu, vil jeg.
+
+39:39
+Nu vil jeg ikke lave det samme i tre variable.
+
+39:44
+For det er ikke til at holde ud at gøre, og det er ikke til at holde ud at se på.
+
+39:49
+Men jeg vil vise, hvordan det principielt kunne se ud.
+
+39:55
+Så tre variable. Bare et eksempel.
+
+40:03
+For jeg tager det som i virkeligheden svarer til ellipsen.
+
+40:09
+Becks minde os x 0. Det er anden del med af Jane Klods minus by 0.
+
+40:17
+Vi er anden del med B and. Og så kommer der altså en variabel til.
+
+40:21
+Sådan hedder Z minus Z noget i anden del med C.
+
+40:27
+Og så lige med en. Hvad i alverden er det?
+
+40:33
+Det er det der hedder en PSO yde. Og hvordan fremkommer den,
+
+40:48
+når den fremkommer sådan set bare ved at tage den ellipse og så forestille sig at den bliver lavet om til en rummelig figur.
+
+40:56
+Men det er ikke sikkert, at den bare bliver snurret rundt. Det kan også gøre, verden blev trykket flad.
+
+41:02
+Hvis de tre, hvis de tre tal, der står hernede, er forskellige, så er ellipsen ikke.
+
+41:11
+Hvad hedder det da ikke lige tykt på alle retninger? En amerikansk fodbold for, sagde man.
+
+41:18
+Der allesammen se en amerikansk fodbold.
+
+41:20
+Det er standard eksempel på en ellipsoide, og dart er relativt vigtigt, at de to er ens, fordi ellers er den ikke rund på den rigtige måde.
+
+41:34
+Det viser en ellipsoide, som man skal spille amerikansk fodbold med.
+
+41:39
+Det skal jo fremkomme ved at tage sådan, og så roterer den lige rundt.
+
+41:42
+Der må man ikke gøre den flad i den ene retning. Kan de se det kan sætte tilføjer, så det hedder en ellipsoide centrum hedder x0, by, nål og z0.
+
+41:56
+Og så fordi den er rummelig, så vil den have to top punkter mere.
+
+42:04
+Det. Så er det er det simpelt.
+
+42:09
+Det er svært, og Mikkel er heldigvis rigtig, rigtig, rigtig god til at tegne de her figurer, så det skal vi til at gøre i Mabel.
+
+42:17
+Men læg mærke til læg mærke til. I tre dimensioner kalder altså sker rigtig mange ting, for disse fortegn kan skifte på forskellig måde.
+
+42:27
+Det kan være, at nogle af lederne helt forsvinder, fordi det oprindelige udtryk ser anderledes ud, og.
+
+42:37
+Dér er det en god idé eller hvad deraf følger at en rigtig god idé at kigge i den tabel, der står i 1/8 20.
+
+42:46
+Hvad der er af muligheder og i det er ikke noget nogle mennesker kan huske overhovedet.
+
+42:51
+Det er heller ikke meningen. Ellipsoide er nem nok at huske.
+
+42:57
+De her kan man måske også huske. Men okay, det her er, hvad jeg kan gøre umiddelbart.
+
+43:07
+Hvis der ikke er blandet lavet, og så vil jeg lige sluge det.
+
+43:10
+Det tager to minutter med lige at lave et eksempel, hvor jeg laver.
+
+43:18
+Omskrivningen til DDR så.
+
+43:26
+Det her er bare en teaser, og jeg har lavet en hvor hvor tallene bliver nogenlunde fornuftig.
+
+43:32
+Så det er en lidt Andras polynomium i to variable, der hedder to ekser anden minus 4 x Clowes, 3.
+
+43:45
+Yngwie anden klodes 6 y minus 1.
+
+43:50
+Og så vil jeg tegne niveau kurven K 0, så jeg sætter det her lig med nul, og så vil jeg prøve at se, hvad det er.
+
+44:00
+Fidusen er, at hvis man skal gøre det her i hånden, så skal man lave det,
+
+44:06
+der hedder og fuldende kvadratet, og det har man enten lært, eller også har man ikke lært det.
+
+44:12
+Så nu vil vi vise, hvordan man gør. Okay, man kigger på den, og så opdager man, at der er både æg og your.
+
+44:20
+Og så samler vi eksterne øerne. Det gør vi meget nemt ved i det her tilfælde bare gøre gøre priser da.
+
+44:32
+Så skal jeg sørge for at sætte koefficienten til højeste grad, slæde og anden grad slæde uden for parentes.
+
+44:40
+Det vil sige her sætter jeg to udenfor en parantes. Så kommer der til at stå ekser anden minus to ex.
+
+44:46
+Clowes tre, og så kommer det til at stå øde, Jane. Og så kommer det første plus to øy, og så står der stadigvæk minus én godt.
+
+44:57
+Nu vil jeg så skrive disse to parenteser som en parantes i anden.
+
+45:03
+Og hvordan er det nu, man gør det? Jo.
+
+45:08
+Hvis dette her skal være en parantes i anden, så skal ikke anden del kommer derfra.
+
+45:13
+Minus to ex skal være det dobbelte produkt, og det vil sige her skal der stå minus 1.
+
+45:21
+Fordi hvis jeg regner det her ud, så får jeg ikke andet, og så får jeg den gang den gang.
+
+45:26
+2. Det er den, men jeg får også en anden. Den har jeg ikke her op.
+
+45:31
+Jamen, så skal træk egentlig anden fra, og det gør, at der. Så det jeg gør her.
+
+45:38
+Det hedder at fuldende kvadratet, det svarer sådan set bare til at regne.
+
+45:43
+En hullet størrelse i anden baglæns prøvede at gøre det med den anden hende der står op plus tre, skal have en pause i anden bølge anden.
+
+45:55
+Den kommer fra det, der står dér. Det her skal være det dobbelte produkt inden.
+
+45:59
+Så skal jeg bare tage det tal, der står her, ligesom jeg gjorde her. Hvis dette dobbelte dog skal.
+
+46:04
+Det havde bestået. Det må være plusser i en.
+
+46:07
+Hvis jeg regner denne parantes ud, så får jeg den anden, det dobbelte produkt giver Dante, og så får jeg den der i anden.
+
+46:14
+Det har jeg jo ikke. Så skal jeg fjerne den, og så står der minus en dør, og så står der lige med nul.
+
+46:23
+Nu er jeg fuldendt kammeraterne. Så skal jeg bare vejen det hele ud igen.
+
+46:27
+Det er muligt, jeg lærte at gøre det på en anden måde. Så gør jeg bare det der står der ikke minutter ind i anden, så står der minus to.
+
+46:33
+Det gav mig et lille plus tre bøger plus en anden.
+
+46:39
+Minus tre. Leg med. Hvad får jeg herover?
+
+46:45
+Her får jeg minus to minus tre minus én.
+
+46:51
+Det må være seks. Når jeg smider det over, dækker det.
+
+46:57
+Og så. Det jeg gør nu når deler med sex på begge sider, så står der X minus bagen.
+
+47:04
+I anden forstår det to del med sex. Det må give tre.
+
+47:10
+Klogest. Den er delt med 6. Så kommer det til at stå tre dernede og så dog Dolly.
+
+47:18
+Nej, der kommer til at stå to. Og så står der lige med en kasse der.
+
+47:29
+Så at vi startede med er åbenbart en ellipse. Som eftersom jeg ikke skal bruge mere tarvelige, lige så kan vi lynhurtigt lide tanken.
+
+47:40
+Ellipsen har centrum i centrum hedder en komma minus en ikke kom amino sagen, fordi der står plus der så en Carver mener sagen.
+
+47:52
+Den ligger dér falder aktierne af det åbenbart kvadratrod træ og bag er kvadratrod 2.
+
+48:01
+Det er de tal, der står nede under det værksted, der står i anden og bed and og så kvadratrod træ.
+
+48:09
+Det cirka sommer. Kan jeg lige præcist se at kvadratrod tog det sommer.
+
+48:16
+Sådan og det vil sige med en ellipse. Kommer til den ligger inde i denne case.
+
+48:28
+Du og du kan bare lægge den op. Hvis man gjorde det, så ville der stå.
+
+48:34
+Som der dog måske ikke er lavet sport om. Nej, nej, men du er placeret centralt i ministeriet, kom ind og skrev fra.
+
+48:42
+Ja og kan nu være med at bruge ligheds test og ja, før der er der.
+
+48:52
+Jeg havde selvfølgelig placerede sentrum forkert indgår en mindesten.
+
+48:55
+Dette universitet her går også, så læreren burde vide, at en kommer Manu Sareen, der betyder én,
+
+49:00
+når man er dér og mindes en af med at det sådan organ hala akserne, kvadratrod, træ.
+
+49:07
+Det er så meget ud til begge sider og kvadratrod to. Det må være så meget her.
+
+49:12
+Så har jeg min case, og så kan jeg tegne. Lige nu gør skattekortet stærkt her.
+
+49:18
+Og ja, jeg ved godt godt redder mig.
+
+49:22
+Så skal vi i hvert fald have en pause, så stræk benene og komme tilbage.

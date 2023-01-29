@@ -1,0 +1,791 @@
+0:05
+På morgen. Sidste gang begyndte vi at snakke om matricer.
+
+0:15
+Vi fik indført sund matricer, vi fik indført at man kan gange matricer med et tal, og vi fik også produkt matricer.
+
+0:27
+I dag fokuserer vi på en særlig slags matricer, og det er dem, der hedder kvadratiske matricer.
+
+0:36
+I almindelighed kan vi altså sige, at det er de matricer, som har en rækker og søjler,
+
+0:43
+altså indbruds n matricer så langt det meste af det, vi snakker om i dag.
+
+0:49
+Det er den slags matricer, som er meget hyppige i matematik og i anvendelser.
+
+0:57
+Vi starter med at kigge på matrix ligninger. Og.
+
+1:16
+Men vi kan lige start ud med at kigge på et lignende system.
+
+1:28
+Som kunne se sådan her ud. X y minus x 2 er lig med 1.
+
+1:35
+Og så har vi to x 2 plus med X1 og så +6.
+
+1:42
+2 er lig med fire. Og der skulle det være minus 1.
+
+1:50
+Se hvis nogen siger. Hvis.
+
+1:58
+Ah! Det er matricen. 1 minus 1 og det er 2.
+
+2:05
+Og det er en. Og.
+
+2:12
+Vi sætter en vægtere bil lig med. Minus en over fire.
+
+2:23
+Så er det system jeg har skrevet om. Så er det ækvivalent med en matrix ligning.
+
+2:45
+Nemlig den matrix ligning jeg kan skrive sådan her.
+
+2:50
+A. Ex limede B.
+
+2:58
+Hvor eks leg med x1 x2.
+
+3:06
+Er en ubekendt vektor.
+
+3:17
+Og det var faktisk det vi var inde på sidste gang, at et ligende lignende system i dette tilfælde to ligninger med to ubekendte.
+
+3:30
+Det er ikke gevaldig med en matrix ligning. Hvor vi her har en ubekendt og den ubekendte.
+
+3:38
+Det er vektoren x lig med x et komma x2.
+
+3:45
+Og det var altså det vi fandt ud af sidste gang ved at vi indførte et matrix vector produkt.
+
+3:52
+Så når vi ganger de to ud med hinanden, jamen så får vi lige præcis det, der står på venstresiden herover.
+
+4:00
+Så det er en hurtig måde at skrive sådan et, der ligner finanssystem op på.
+
+4:19
+Og. Nu tager vi et stort hop videre, fordi vi siger.
+
+4:32
+Vi har givet matricer ned. Jeg har en af Matrix'.
+
+4:46
+Som hedder 1 2, minus 1 og 1.
+
+4:55
+Og så har jeg en anden matrix. Som hedder.
+
+5:02
+Minus 1 4. Og så hedder den tre og nul.
+
+5:12
+Og nu støtte. Nu stiller jeg mig så denne opgave. Løs matrix ligningen.
+
+5:30
+Som hedder. Af Matrix. Gange med ex matrix er lig med B.
+
+5:46
+Jeg har altså en venstre side, som består af et matrix matrix produkt og en højre side, som består af en 2+2 matrix.
+
+5:58
+Og kan I huske hvad vi snakkede om sidste gang, da vi snakkede om hvad er egentlig formatet for at man kan lave sådan et matrix metrisk produkt?
+
+6:08
+Da sagde vi så at den matrix der står dér.
+
+6:12
+Den skal respektere antallet af søjler i den der og antallet af rækker i det der kommer i outputtet som SI formatet.
+
+6:22
+Her bliver meget nemt, når det er inputs end matricer, fordi en M hos N matrix ganget med en genbruges.
+
+6:30
+En matrix vil billigere end indbruds enmands tricks, så alt det der.
+
+6:35
+Vi havde, vi var inde på sidste gang. Kan det nu lade sig gøre? Eller kan det ikke lade sig gøre?
+
+6:40
+Det er ikke et problem i dag, fordi nu skal vi altså bare sige, at den her.
+
+6:51
+Matrix. Den må have denne her form ex et et x et 2 x 2 1 x 2 2.
+
+7:10
+Er en. Ubekendt. Vektor.
+
+7:25
+Med ukendt ubekendt matrix er det selvfølgelig dengang. Hvor vi altså her op havde en uge at en ubekendt vægter, så har vi altså her er den ubekendte.
+
+7:39
+Det er en 2+2 matrix. Så nu skal vi tænke over hvordan vi kan løse denne matrix ligning.
+
+7:57
+Og da kunne vi jo lade os inspirere af det vi ville gøre i det tilfælde der.
+
+8:13
+Nu stiller vi nemlig en total matrix op, hvor vi både har A Matrix og B Matrix inde i billedet.
+
+8:27
+Og så får vi altså en matrix der hedder. 1 minus 1.
+
+8:34
+Minus en og tre. Og så har vi to.
+
+8:41
+1. Og så har vi en og nul.
+
+8:50
+Og så kan vi sætte en streg ned dér, så vi husker, hvad der er højere siden.
+
+9:00
+Der tak. Så nu vil jeg altså begynde at lave Gauss Jordan elimination på den totale matrix jeg har stillet op her.
+
+9:13
+Og det er jo noget med at laver række operationer. Ligesom jeg plejer at gøre.
+
+9:21
+Og så vil jeg arbejde med de tal der står dér. Og så vil det sige jamen de tal der står her.
+
+9:29
+Det var lige præcis højresiden der står heroppe. Så når jeg er færdig med at lave min gauthier Don Illumination her, så kan jeg læse her resultatet.
+
+9:40
+At vine er der vinen system, det der står dér. Men så vil jeg også lave række operationer på det her, der følger hvad jeg laver herovre.
+
+9:51
+Så det er sådan set det jeg er gået i gang med nu. Det er samtidigt og løse to ligningen systemer, der består af to ligninger med to ubekendte.
+
+10:03
+Og sådan kunne jeg sådan set fortsætte ligeså lige så længe jeg havde lyst til.
+
+10:09
+Det svarer bare til, at det er lignende systemer, der har den samme kommercielle matrix,
+
+10:14
+men forskellige højere sider, og dem kan jeg altså prøve at løse samtidigt.
+
+10:19
+Så lad os prøve at gøre det. Og hvad gør vi?
+
+10:32
+Sendte vi ganger den heroppe med minus to, og så ligger vi til her nede forneden.
+
+10:41
+Så vi beholder altså den øverste række. Her.
+
+10:46
+Så får vi nul her, den ganger vi med minus to.
+
+10:50
+Det bliver +2 lægger til, her får vi tre. Den der ganger vi med minus 2, så får vi plus to lægger til her.
+
+11:00
+Så giver det 6. Den ganger vi med minus to, og så får vi her minus 6.
+
+11:11
+Og vi har altså sagt. R 2 minus to er et.
+
+11:23
+Og så går vi videre. Og så har vi her.
+
+11:30
+Nu skal vi have et hvidt her, selvfølgelig. Det vil sige, at vi ganger anden række med en tredjedel og får nul.
+
+11:39
+En. 2 minus 1.
+
+11:50
+Det er det. Og set det jeg har gjort er at jeg har sagt, at.
+
+12:03
+Er 2. Den ganger jeg med en tredjedel.
+
+12:08
+Og derefter så den nye række jeg opnået her.
+
+12:12
+Den ligger jeg så til dér for oven. Og det vil så sige at der får vi, så vi siger altså er et plus er to.
+
+12:24
+Og så får vi en. Og så får vi nul, og så får vi en.
+
+12:35
+Og så får vi en sondern. Og det vil altså sige Nu har jeg løst matrix ligningen.
+
+12:50
+Den ubekendte matrix. Den hedder altså 1 over 2 og så ind over minus 2.
+
+13:03
+Sådan. Så vil jeg så sige at en over to.
+
+13:14
+Det var faktisk løsningen til det øverste Lienen system. Jeg havde skrevet dør og en over minus to.
+
+13:23
+Det er jeg løsningen til ligning systemet dér op. Vi ser i stedet for bruger højresiden, der hedder tre over nul.
+
+13:32
+Så sådan kan vi altså arbejde med matrix ligninger ved at vi laver gaucho, sådan hvor bare højresiden er blevet meget større.
+
+13:43
+Og så svarer det altså til, at vi løser en hel masse line og lignende systemer på én gang.
+
+13:49
+Det var der noget smag. C.
+
+14:26
+Sidste gang, da gjorde vi så det, at vi indførte egne operationer, som jeg var inde på for matricer.
+
+14:35
+Og nu skal vi prøve at regne operationen. Det var under regne operationer vi kender kender fra almindelige tal, og vi lægger sammen,
+
+14:42
+trækker fra gange alt det der, så nu skal vi prøve at se om altså og få nogle meget vigtige ting på plads,
+
+14:52
+som gælder for almindelige tal og så prøve at være med på det eksperiment, vi laver nu, fordi det vi bemærker som interessant.
+
+15:02
+Det er tre ting. Når vi er i det reelle tal og vi kunne også godt sige de komplekse tal, der har vi at tallet.
+
+15:15
+Et. Er neutralt. Med hensyn til multiplikation.
+
+15:37
+Og det er simpelthen fordi at. At de kan sige alle gange med en.
+
+15:48
+Lig med en gange med A. Så er man med A.
+
+15:59
+Det er disse vilkår der udtrykker at det er neutralt at gange med tallet et.
+
+16:15
+Alle tal. Alle tal A, som er forskellig fra nul.
+
+16:28
+Har et 1. Værste tal. Og vi har også kaldt det for et reciprokke tal.
+
+16:48
+Altså af minus farce, som vi også skriver som en over A. Der opfylder.
+
+17:02
+At når vi tager tallet A og ganger med dets enhvers et tal.
+
+17:09
+Vi kan også gøre det i den modsatte rækkefølge af Eminems første gange med A.
+
+17:16
+Så får vi et tallet. Og hvor et tallet deraf så tal legemets neutrale element med hensyn til multiplikation.
+
+17:37
+Og punkt tre. Igen for alle.
+
+17:47
+A, som er forskellige fra nul. Der har ligningen.
+
+18:00
+A. Ex leg med B. Den har løsningen X er lig med det inverse element til A og så gange med B.
+
+18:31
+Se, det er de tre egenskaber, som vi er meget interesserede i.
+
+18:37
+Om vi kan overføre til kvadratiske matricer.
+
+18:41
+Det kunne være fantastisk, hvis vi havde nogle tilsvarende regler, så lad os prøve at se, hvad der skal til.
+
+18:58
+Så nu stiller vi de følgende spørgsmål. C N kaldes n matricer.
+
+19:18
+Og det første spørgsmål der lyder sådan her. Og det er kun vi finder.
+
+19:31
+En matrix. Som vi selv kaldte for et eller andet, skal vi sige en.
+
+19:41
+Som opfylder. At hvis jeg laver Matrix matrix produktet af A og en.
+
+19:59
+Altså kan jeg filmen sådan en maltraktere. Så når jeg siger den gange med den, giver mig bare ah tilbage igen.
+
+20:08
+Altså et element der svarer til mit et tal i de reelle tal.
+
+20:17
+Og den metode jeg vil bruge. Det er simpelt hen nogle af bliver lagret, og nu har vi jo lært at løse matrix ligninger med indbruds inden matricer,
+
+20:35
+så den måde jeg vil gå frem efter det og så at sige, er matricen.
+
+20:43
+Og den er det jo min ubekendte ubekendt matrix findes den. Og så sætter jeg på højresiden ikke en bedemand Matrix, men af matricen selv.
+
+20:58
+Så det er det første vigtige spørgsmål vi skal have afklaret. Og det andet spørgsmål.
+
+21:17
+Kan vi få alle A. Finde en enhvers matrix.
+
+21:36
+Som vi kan forsøgsvis kalde for A i minus 40 næste.
+
+21:46
+Der opfylder. Hvis klubben undskyld, hvis jeg tager matricen A og ganger med dens inverse matrix.
+
+22:03
+Så skal jeg nå tilbage til enedes matricen. Altså et spørgsmål som relaterer sig direkte til mit spørgsmål.
+
+22:13
+To her op, hvor alle talte forskellige fra nul, har et enhvers tal.
+
+22:19
+Så når jeg siger a gange med det inverse, så får jeg det neutrale element med hensyn til multiplikation.
+
+22:28
+Så er jeg altså a gange med A. Enhver os skal give ens matricen.
+
+22:37
+Og her er min metode. Den vil være at vi siger.
+
+22:48
+Lykkes. A.
+
+22:54
+Gange en ubekendt matrix. Og hvor min højre side så er enheds matricen.
+
+23:16
+Og så indfører lige et særligt spørgsmål her. For op i de reelle tal og faktisk også i de komplekse tal.
+
+23:31
+Der var jeg nødt til at forudsætte, at mit tal skulle være forskellig fra nul.
+
+23:37
+For ellers kunne det ikke lade sig gøre. Så er mit særlige spørgsmål her er.
+
+23:46
+Om der findes undtagelser. Som at svare.
+
+24:01
+Til at A skal være forskellig fra nul i de reelle tal.
+
+24:12
+Og som mit tredje spørgsmål. Som relaterer sig til denne ligning i reelle tal.
+
+24:27
+Og det er kun ligningen der hedder matrix af matrix matrix biprodukt med ex limede B.
+
+24:45
+Om den kan løses. Ved.
+
+24:51
+At den ubekendte Matrix X. Er et matrix matrix produkt, er den inverse til A ganget med B.
+
+25:09
+Så I kan se mit spørgsmål her.
+
+25:11
+Det relaterer sig dels til det, vi har her for de reelle tal, dels relaterer sig til det, vi lavede her, hende for her hende, der lyste.
+
+25:21
+Jeg er jo en en matrix ligning.
+
+25:26
+Det gjorde jeg ved. Der er jo sådan elimination, og nu er jeg så spørgsmålet.
+
+25:31
+Her har vi en alternativ metode, så jeg ikke behøver at bruge Gauss sorterne elimination,
+
+25:37
+mens jeg i stedet for laver et Matrix Matrix produkt, og som med det samme har den ubekendte matrix.
+
+25:46
+Det er de helt afgørende spørgsmål vi skal stille os nu og.
+
+25:52
+Formelt da går vi nu frem efter eksperimentel matematik, så det er det, vi laver nu, og det gør vi ved hjælp af midtpå.
+
+27:05
+Se den før stedet. Det første eksempel her i Mabel demoen er såmænd bare, at vi laver alt det, vi løser en ligning af den type her.
+
+27:18
+Og det gør vi hurtigt med kommandoen alene.
+
+27:22
+Og så altså noget, der minder om Gauss, Jordan illumination.
+
+27:26
+Selv om vi jo ikke lige ved, hvad det er Mabel laver, når den laver Lindersvold.
+
+27:31
+Men jeg tror faktisk, det laver Gaucho sådan en mission. Og så kommer med et meget hurtigt svar.
+
+27:42
+Og så kan vi altså se X det er på Mabels på Linde og Sol.
+
+27:52
+Og så har vi altså løsnings matricen Ex.
+
+27:58
+Og så må vi jo så kontrollere. Er det nu rigtigt? Så kan vi jo bare gange med den fundne eks.
+
+28:08
+Og så kan vi altså se højresiden her Matrix matrix produktet.
+
+28:13
+Det er den, og der har vi altså B, og vi har identiteten her.
+
+28:18
+Det vil sige, at dette denne her metode, den holdt sig til maven, kontrollen.
+
+28:27
+Godt, så var der det vigtige spørgsmål jeg stillede, har vi nået i inputs enmands patricierne, som svarer til et 1 tal, altså et neutralt element.
+
+28:41
+Og det er det, vi går ind i nu. Og så for at gøre det så generelt som overhovedet muligt.
+
+29:04
+Så ja, og så bruger vi altså I bruger her tre krus tre matricer som et eksempel.
+
+29:10
+Og så for at gøre det så generelt som overhovedet muligt. Så giver vi det ikke tal.
+
+29:15
+Men så giver vi os nogle bogstaver i stedet for. I de første 9 af bogstav i alfabetet.
+
+29:21
+Og nu beder jeg så Mabel om at løse den ligning, der hedder A gange med X skal være lig med.
+
+29:33
+Og så er det spændende om der er en løsning eller hvad Mikkel siger her. Bum!
+
+29:39
+Der var den. Var det ikke et smukt syn? Bemærk.
+
+29:48
+Dette er det er enedes matricen for så vidt angår tre kryds tre matricer, det kalder man også for en diagonal matrix,
+
+29:59
+fordi alle de steder, der ikke er i den venstre højere videregående diagonal.
+
+30:08
+Altså et diagonalen, det ettaller alle de andre der nuller.
+
+30:13
+Så det er altså den, I skal vænne jer til. Altså er det 5.
+
+30:17
+Krydsfelt matricer. Jamen, så vil det bare sige så står der. Så er der fem ettaller i diagonalen og nuller.
+
+30:25
+Alle de andre steder. Så hermed kan vi altså bekræfte svaret.
+
+30:29
+Ja, der findes noget da en matrix, som er neutralt med hensyn til multiplikation.
+
+30:44
+Og så kan vi jo tjekke passer det nu. Får vi det samme på begge sider af lighedstegnet?
+
+30:50
+Ja, det gør vi så igen kan jeg høre, at i salen er man imponeret over dette resultat og se.
+
+31:02
+Kan I huske, vi havde et problem om hvorvidt Matrix Matrix produkt?
+
+31:06
+Hvorvidt det var kommutativ. Det var det jo ikke i al almindelighed.
+
+31:12
+Vi skulle lære at sige, at vi ganger med en matrix fra Venstre, eller vi ganger med en matrix fra højre.
+
+31:19
+Det er to forskellige regne operationer, så nu skal vi se.
+
+31:23
+Hvad så med denne her matrix? Fordi vi har jo her fra de reelle tal.
+
+31:28
+A gange med 1 er lig med 1 ganget med af er lig med F.
+
+31:32
+Så nu prøver vi lige opbygge dem om. Hvis ja, det er simpelthen bare imponerende det her.
+
+31:44
+Det går rigtig, rigtig godt. Nu går vi så videre til spørgsmålet omkring en værts matrix.
+
+31:56
+Og det var jo så dyrt. Altså det var jo Matrix' der skulle opfylde det her.
+
+32:02
+Og den måde vi vil gøre det på, det er at løse den ligning, som har a som venstre side og enheds matricen som højresiden.
+
+32:14
+Og nu skal disse her. Hvis man hurtigt skal have skrevet enheds matricen op, så skriver man bare og Identity Matrix er tre.
+
+32:28
+Så får vi dem smidt ud her. Det er fordi at det er tre kryds tre matricer, hvis du vil have 27 gange 27 enheds matricen.
+
+32:44
+Så skriver du bare 27 i stedet for et tal. Så må vi så se, om vi kan stå på siden, eller hvad der sker.
+
+32:52
+Nu løser vi ligningen. A. Ved at skrive ved at skrive totalt matricen om.
+
+33:01
+Læg lige mærke til hvad man skal, når man forsøger at finde en enhvers matrix.
+
+33:09
+Kan I se, så skal der altså her på venstresiden, der skal der stå den matrix, som vi ønsker os.
+
+33:16
+På højresiden skal der stå enheds matricen. Og så laver vi gaucho hvordan?
+
+33:23
+For den. Og så håber vi jo at når vi laver Gaucho.
+
+33:29
+Hvordan Elimination. At vi så får det syn herovre faktisk er erstattet af det syn der.
+
+33:37
+For det er jo det, vi gerne vil have. Når vi bruger Gauss sorterne elimination ledende ettaller.
+
+33:43
+Et et tal i den første søjle, et et tal, i den anden solgte et et tal i den tredje søjle, så at finde en enhvers matrix.
+
+33:52
+Det er jo sådan set xy. Byt dem over på venstresiden.
+
+33:57
+Og så ser hvad sker der herovre og vi laver disse række operationer. Og det gør vi da bare sådan her.
+
+34:13
+Skal lige se her. Der var et eller andet meget mærkeligt. Ikke så lovende.
+
+34:19
+Det burde ikke kunne lade sig gøre. Den danske mig.
+
+34:30
+Bakken Bears er nu mester.
+
+34:35
+Var det det? Jeg tog alligevel prøver og kørte den helt forfra.
+
+34:44
+Det gik lidt for godt en. Jeg fik to gange.
+
+34:51
+Okay. Dertil nåede det.
+
+34:56
+Og så fik vi et telt stillet totalt matricen op. Nu sker der spændende.
+
+35:04
+J. Ved I hvorfor ikke nam det hippie delfin?
+
+35:12
+Hvorfor ser dette ikke lovende ud? Hvorfor er det rigtigt, at det her ikke ser lovende ud?
+
+35:22
+I os. Dér, dér, dér H.
+
+35:29
+Det her er jo højresiden i et lineære fine system, hvor der står et et tal her.
+
+35:36
+Så er der jo ingen løsninger. Så står der jo nul gange except hos nul gange end to gange.
+
+35:42
+Et træ skal være limet. Det skal faktisk også være lige med mine to.
+
+35:47
+De har faktisk også være lige med en. Det er jo fuldstændig håbløst. Så eksperimentet mislykkedes.
+
+35:55
+Desværre. Og hvad er forklaringen?
+
+36:01
+Det er jo at varmen er min koefficient matrix, det er jo det, der står herovre.
+
+36:08
+Det vil sige randen af de ni tal 1, 2, 3, 4, 5.
+
+36:12
+6 7. 8. 9. Som jo ellers er så flot en.
+
+36:17
+De ni første tal. Stille op i matrix.
+
+36:21
+Hvem kunne gætte at de ikke havde fuld ret? Der har de altså ikke.
+
+36:25
+Jeg har kun rangen to. Mens Total matricen her har jo ingen målretter, og derfor har vi altså, at rammen er totalt matricen.
+
+36:36
+Den er tre. Han.
+
+36:50
+Vi skal have givet det onde et navn.
+
+36:54
+Vi er stødt ind i et problem, og så får vi kan diskutere det nærmere, og så må vi kalde dette problem for et eller andet par.
+
+37:00
+Så lad os nu sige, at sådan en m krydset en matrix, som ikke har fuld rang.
+
+37:06
+Den skal vi kalde for et eller andet. Så kalder vi den for sinke Guldager.
+
+37:11
+Så det vil altså sige min 1 2, 3 4 5, 6 7 8 9 matrix.
+
+37:16
+Den var single guldager, fordi den ikke havde rangen træ. Den havde kun vrangen 2.
+
+37:23
+Nu prøver jeg så med en anden. Altså vi kan bare prøve at sige, hvis jeg nu skriver nul i stedet for et på den første plads.
+
+37:39
+Den der. Grand træ er en.
+
+37:47
+Nu har vi opnået en matrix der har fuld rang. Herligt.
+
+37:52
+Den skal jo også hedde noget, når den, der ikke har fuld rang, hedder noget der hedder, nemlig Cinco.
+
+37:57
+Den tidligere den hedder regulær, så en impuls, en matrix, der har vangen m.
+
+38:04
+Det kalder vi fra nu af en regulær matrix. Og det er noget vi kan bruge til noget, fordi nu må det her ligne system, som vi stiller op her.
+
+38:19
+Nu må det have en løsning. Og skal vi se her?
+
+38:27
+Bum! Nu fik vi lige præcis. Venstresiden som enheds matricen.
+
+38:35
+Det er jo det der er resultatet af Claus Jourdan illumination, når der er fuld ret.
+
+38:41
+Og så har jeg min løsning her ude. Det er det, at det er den enhver som Matrix, som jeg var ude efter.
+
+38:55
+Så er den. Og nu kan vi jo lige prøve at tjekket.
+
+39:03
+Altså svarende til.
+
+39:10
+Svarende til når jeg nu skal gange A med a minus første også gør det den anden vej, så skal det give et tallet i krydset en matrikel uden.
+
+39:20
+Det skal altså give enheds matricen. Så vi prøver at gange ud.
+
+39:29
+Både altså begge veje i den kommutativ rækkefølge.
+
+39:36
+Og så kan I se, at vi får enheds matricen ud, så er det værd at se dette projekt.
+
+39:40
+Det lykkedes også. Og så endelig.
+
+39:53
+Så har Mabel selvfølgelig en direkte kommando til enhvers matrix, og denne hedder bare simpelt hen.
+
+39:59
+A i Millers første, hvis det kan lade sig gøre. Og så til sidst her altså den sidste del.
+
+40:08
+Her er. Vi kigger på de to matricer der.
+
+40:19
+Og så i stedet for at vi laver Gaucho Jordan elimination på et totalt matricen, så beder vi Mabel om at udregne den.
+
+40:31
+Enhver som Matrix og så garnet på B-EM matricen. Og så får vi den løsning ud af det.
+
+40:40
+Og lad os lige kigge her op for oven. Det var det samme.
+
+40:51
+Den samme matrix som den der stod dér. Herligt.
+
+41:04
+Så lad os nu vende os tilbage til de spørgsmål vi stillede til, indgås Elmar trissende.
+
+41:20
+Så spørgsmålet. Det var om vi kunne finde en matrix der opfylder det her, som altså er neutralt med hensyn til matrix matrixmultiplikation.
+
+41:32
+Ja, det kunne vi. Det er nemlig den matrix som har ettaller hele vejen ned igennem diagonalen, og hvor alle de andre tal er nul.
+
+42:00
+Også her kan vi finde. Hvad blev vore svar her kan vi altså.
+
+42:12
+Kan vi for alle finde en hver smag pris? Hvad siger du?
+
+42:17
+Nix! For det vi har nemlig en undtagelse for inverse matricer, som svarer til at A ikke må være nul.
+
+42:33
+Og hvad var undtagelsen? Hvad siger du?
+
+42:41
+Ja, og hvad kaldte vi det? Hvis den har fuld rang.
+
+42:46
+Du har to muligheder. Cinco at regulerer hvad vælger du? Jens?
+
+42:53
+Nej, kun hvis den er regulær.
+
+43:02
+Så er dagen og så om der var en undtagelse via.
+
+43:09
+Undtagelsen er. Hvis.
+
+43:18
+Matricen A er Sinne Guldager. Og så var så det sidste.
+
+43:32
+Spørgsmålet var om jeg kunne løse den her ligning.
+
+43:39
+Ved i stedet for at lave det her matrix matrix produkt, og der var det igen.
+
+43:46
+Ja, men kun. Hvis.
+
+43:56
+A er regulære. Så kan jeg nemt danne den her, hvis den ikke er regulære, så kan jeg ikke gøre det.
+
+44:07
+Så vi har altså fået en meget præcis overføring af nogle vigtige spørgsmål fra
+
+44:13
+de reelle tal og for de komplekse tal og har hermed overført dem til matricer.
+
+44:25
+Og hermed pause.

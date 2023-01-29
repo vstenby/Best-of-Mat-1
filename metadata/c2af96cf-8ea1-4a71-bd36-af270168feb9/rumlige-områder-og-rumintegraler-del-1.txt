@@ -1,0 +1,971 @@
+0:07
+Så ruller vil jeg gerne vide.
+
+0:14
+Vi skal slutte, at vi skal slutte vores gennemgang af de forskellige integraler i dagen.
+
+0:24
+Og det er rum integrated volume integraler, som man også kalder det.
+
+0:28
+Og jeg tror egentlig ikke, at der er noget der rigtig vil overraske.
+
+0:33
+Fordi vi laver præcis det samme, som vi har gjort de sidste par gange.
+
+0:38
+Nu for hvor du står bare i rummet. Og det er heller ikke fordi, at at det som sådan er vanskeligere, fordi de parametre i, at man skal lave det sted.
+
+0:51
+Det er de samme som dem, vi har, har kigget på indtil videre.
+
+0:56
+Der kommer sådan nogle integrator ud af det, som er umuligt at regne ud generelt.
+
+1:02
+Altså det har jo allerede steg. De bliver bare endnu værre nu.
+
+1:07
+Så vi er altså undtagen i nogle nogle helt specielle tilfælde.
+
+1:12
+Så er vi fuldstændig i Mabels vold, når vi skal eje de her kæmpemæssige integrator ud.
+
+1:18
+Til gengæld er der noget, som man gøre relativt meget i anvendelser, så det er lidt vigtigt at finde ud af, hvad der er,
+
+1:24
+vil vi gøre, og der er jo tema øvelser i det her emne på fredag for jer, så det har givet mig inspiration til.
+
+1:39
+Jeg tror, jeg starter i dag med at lave oversigter over alle de her integraler. Vi har kigget på.
+
+1:43
+Så laver den lille overset, som starter det her. Og så gennemgår vi det nye, og der kommer en masse eksempler.
+
+1:50
+Så hvorfor gør jeg ikke bare i gang? Så lad os kigge på det.
+
+2:00
+Så etteren her. Det hedder rum integraler. Det er overskriften og starter med en lille oversigt over de typer af integrator vi har mødt.
+
+2:20
+Og så går det naturligt over i rum integrator. Og når vi så kommer til rummene til gartnerne, ser det som det, som vi skal kigge på.
+
+2:28
+Det er simpelthen, hvordan man parametre ser parametre sikring af rumlige områder.
+
+2:45
+Og der er specielt nogle som vi ved vi vil kigge på. Der er det, der hedder grad begrænsede.
+
+2:57
+Der er også begrænsede områder. Og omdrejninger legemer.
+
+3:16
+Og det er bare betegnelser for sådan nogle massive områder, hvor vi ikke kun har fladerne, men også steg, indrømmede det her.
+
+3:26
+Dette generelle og det her er nogle specielle nogle, hvor det faktisk er muligt at sige noget de nogle gode tricks til, hvordan man skal gøre.
+
+3:35
+Men lad os lige. Lad os lige lave en oversigt, for de var vand.
+
+3:42
+Hvordan var det noget, det hele startede? Vi startede med kurve integral.
+
+3:53
+Og hvad skulle der til for at lave kurve integrale sådan helt generelt?
+
+4:01
+Så skulle man have i x stykke sæt rummet der skulle man have en kurv.
+
+4:09
+Og hvordan ser jeg sådan en?
+
+4:14
+Man kunne måske se søerne derude, og sådan en kurve er parret med et friseret ved hjælp af en parameter, men har altså eks variable afhænger af u.
+
+4:27
+Ny variabel afhænger af u og Z. Variablen afhænger af u og u ligger så et eller andet sted et parameter interval,
+
+4:41
+og det tegner til et klart tegn koordinatsystem, der kun er en variabel.
+
+4:45
+Så er det bare den reelle akse og intervallet fra a til B, og så har vi her vores parametre.
+
+4:53
+Ziering og sådanne kurver plejer vi at kalde på, og hvis parametre ser enheder er så skriver vi tit hernede under os og så ofte som en vektor.
+
+5:06
+Så man har altså en kurve, der ligger og fløjter rundt i rummet på denne her måde.
+
+5:12
+Og hvis man så skal have kurve integral jamen okay, så skal vi da også have en funktion F, som afbilder over i den reelle akse.
+
+5:27
+Så F er altså en funktion i dette tilfælde fra kurven eller det vil sige fra er tre end i de reelle tal,
+
+5:41
+og vi har snakket om, at man kunne opfatte EF som så en masse fordeling på kurven, hvis man ville og selve integral.
+
+5:54
+Jamen altså det er så kurve integral.
+
+5:59
+Det ville vi skrive på denne her måde.
+
+6:01
+Det vigtige er den måde, man regner det ud på, fordi det bare er helt almindelig integral, hvor vi så tager vores funktion værdier på kurven.
+
+6:11
+Dvs. At skrive på sandheder. Og så kommer det som går igen hele tiden vores Jacobo funktion og så det U har.
+
+6:25
+Og det kan man regne ud når man kender Jacobi funktionen og i det her tilfælde er vores Jacobi funktion.
+
+6:40
+Det er simpelthen længden af hastigheds vektoren, der fanger.
+
+6:49
+Den er afværget. Der er ikke nogen partielle afledede her, for den afhænger jo kun af en variabel, nemlig u,
+
+6:54
+så vi skal bare differentiere den med hensyn til denne variabel, så det var årets Jacobis funktion.
+
+7:01
+Og så er der specielle tilfælde. Nemlig at hvis vi sætter vores funktion F til at være en fotograf for en,
+
+7:12
+så var en integrerbare i Aquavit funktionen, så er det da integral bare længden.
+
+7:21
+Og det hedder kurve længden. Sådan er det, og det var det første.
+
+7:33
+Det første af de her integrator, som vi så med, lød det okay.
+
+7:39
+I det næste er sgu nok ikke rigtigt, får det til at være her, så må lægge en hverdag.
+
+7:53
+Var der dækket op her. Det næste vi så kiggede på og det vi kaldte plane integral.
+
+8:11
+Og hvad var det for noget? Når okay der gik jeg så over her i X Bygland barer og herover jeg ikke cykle planned.
+
+8:27
+Der havde jeg så et eller andet område, et plant område.
+
+8:34
+Vi kommer senere til at sætte en sætter aksel på. Så betyder det bare, at hvis man kigger på det her, så vil tredje koordinaten være nul.
+
+8:41
+Men lige nu lader det som om vi kun har to koordinater. Og det plane område.
+
+8:49
+Det kalder vi tit for P. Og så også har det en parameter, Riising er.
+
+8:54
+Og hvordan ser sådan en parameter ved serien ud? Jamen okay.
+
+9:01
+Fordi det klagende område, så skal vi bruge to parametre.
+
+9:07
+Og det vil sige nu vil X afhænge af uger V og Y afhængigt af uger V og U ligger
+
+9:19
+så et eller andet interval fra A til B og B ligger så tilsvarende i et interval.
+
+9:27
+Og det betyder så, at hvis man vil forsøge at tegne det her over, så vores parameter området for u v.
+
+9:35
+Der har vi fra A til B, og vi har for sent til det.
+
+9:41
+Så vores parameter område er dette her.
+
+9:46
+Og så har vi vores parametre. Se Hjørring her.
+
+9:51
+Så når vil gennemløber det her, denne firkant, det her generaliserede interval herovre, så gennemløber parametre serien denne her kurve på den måde.
+
+10:04
+Og så fuldstændig op. Hvis vi skal have et plan integral, så skal vi så have en funktion F, som anså værdier for den reelle akse.
+
+10:15
+Og eftersom vi kun har to variable, så skal EHF bare gå fra er to endelig de reelle tal.
+
+10:24
+Det behøver ikke være hele 2. Det skal bare være det. Den del er to, hvor vores område ligger.
+
+10:31
+Og så kan vi lave vores plan integral, fordi det er så funktionen f integreret over beklagende område.
+
+10:43
+Hvordan gør man det? Og kan det så sende dobbelt integral ud løver fra A til B ved løver for at se til dig?
+
+10:53
+Det skal vi gerne tage vores funktion af to variablen, så vi tager den værdiger på KU'ere eller på det plane område.
+
+11:06
+Så skal man huske at koge funktion, og så starter ellers det u det ved.
+
+11:16
+Og igen det her kan man regne ud, så snart man kender scenen. Ja, koge funktion.
+
+11:22
+Og måske skulle vi lige sådan her.
+
+11:27
+Så her er jeg, hvad jeg kan bruge i funktionen her.
+
+11:37
+Jamen, det er simpelthen den numeriske værdi af determinanten af den matrix,
+
+11:42
+hvor man i første søjle har af Merkel med hensyn til u, som først så alle og så er mærke med hensyn til V.
+
+11:52
+Som anden søjle. DDR markerer med de her lodrette streger, hvis altså det er det terminalt af en to gange to matrix,
+
+12:03
+og som vi så skal tage den numeriske værdi af det jeg funktionen,
+
+12:08
+og hvis man stiller sig i et eller andet sted herinde i området i et eller andet punkt inden det område,
+
+12:16
+og tegner der mærke U og er mærket V, så er det så vektorer, der ligger med i planen her og det vi regner ud med denne determination.
+
+12:32
+Det er simpelthen arealet af det rektangel, som de er hastigheds vektorer udspænder,
+
+12:42
+og moralen i det er, at jeg COBE funktionen fortæller altid, hvad der sker med eskalering.
+
+12:51
+Og altså hvad sker der, når vi skifter koordinatsystem fra en almindelig enhed?
+
+12:56
+Her op hopper vi over og laver en ændring, som er længden af stedets vægteren.
+
+13:03
+Her vil en arealenhed blive flyttet over i.
+
+13:08
+Et parallelogram der har det areal som står dér.
+
+13:12
+Det er matematikken bag det.
+
+13:15
+Det som er lidt interessant her, er jo, at hvis F er lig med en, så fås arealet af vores parameter friserede område afkald.
+
+13:37
+Fint nok. Hvorfor gjorde vi overhovedet det her med planen til grad?
+
+13:43
+Ja, det er jo fordi, at det gør det nemmere at forstå, hvad der sker, når man laver flaget integrated.
+
+14:01
+Fordi det synspunkt som jeg nævnte det var at man kan jo egentlig herover bare lade som om at det tredimensionale koordinatsystem.
+
+14:12
+Så har man et sæt af aksel strittende ud her og så det her område.
+
+14:18
+Jamen, der er jo så tre variable, men sæt variable er bare noget som er beskrevet dette.
+
+14:23
+Her kommer dette komma nul. Hvis det lå i tre dimensioner og så er et plane integral bare et specielt flagede integral.
+
+14:34
+For hvad er det vi gerne vil? Jeg herover. Der skal man altså forestille sig, at man har.
+
+14:46
+En eller anden flade, der ligger i rummet og igen jeg forsøger efter bedste evne at skitsere det.
+
+15:02
+Og hvad skal der til? Jamen altså, nu flyder den rundt i hele rummet.
+
+15:07
+Den er ikke trykket flad, så vi kan ikke nøjes med at have to koordinater, så vi vil have tre koordinater.
+
+15:13
+Men fordi det er en flade. Den har ikke nogen tykkelse.
+
+15:18
+Så kan vi nøjes med to parametre, men parametre. Serien vil altid være X og afhænger af uger.
+
+15:25
+Vil i by afhænge af uger.
+
+15:29
+V og Z vil afhænge af uger, ved jeg.
+
+15:36
+Og igen parameter intervallet herover i Uwe område.
+
+15:45
+Dette sammen da har vi A, B, C og D, for det ser sådan her ud.
+
+15:54
+Og her ligger man skulle gøre sådan her, hvad man kan, så man kan se, det duer.
+
+15:59
+Og okay, når du lægger så fra A til B og V ligger så på settet og så igen.
+
+16:13
+Hvis vi skal have et fladede integral ind, så er vi nødt til oven i hatten her.
+
+16:17
+Det her er så vores flade. Dem plejer man at kalde F.
+
+16:22
+Og så parameter serien hedder, er det, skriver jeg sådan her, så den bliver beskrevet på denne her måde.
+
+16:28
+Så vil jeg så have en funktion F, som afbilder over i de reelle tal, og den gør præcis det samme som herover.
+
+16:39
+Forskellen er bare, at nu er jeg nødt til at tage noget, der har tre koordinater.
+
+16:45
+Det vil sige, jeg skal have en funktion, som går fra R.
+
+16:48
+3 1 er ikke nødvendigvis hele 3, men altså i hvert fald dér, hvor fladen er defineret.
+
+16:55
+Og igen. Man kan tænke på det som sådan en masse fordeling af funktion, fordi egentligt det punkt.
+
+17:04
+Hvis den er 7, så fortæller det altså står her. Så vejer fladen 7 gram per kvadratcentimeter.
+
+17:11
+For eksempel så kan vi lave vores flade integral.
+
+17:18
+Og igen vi skriver det på samme måde, som vi hele tiden gøre. Det er ikke her, vi kan se forskel på det, og det er egentlig heller ikke her,
+
+17:26
+fordi fra A til B og C til D og F, som nu bare skal have tre variable puttet ind i sig.
+
+17:38
+Den skal vi tage, og så kommer det, som gør hele forskellen, nemlig vores Jacobo funktion og så det u det vi og jeg.
+
+17:51
+Funktionen er i virkeligheden magen til her over.
+
+17:55
+Der er bare en anden måde at regne dette areal ud på nu, fordi jeg kan huske funktionen.
+
+18:03
+Den gør det, at vi skal simpelthen bare tage A-mærket over og krydse ved at mærke V.
+
+18:11
+Det kan vi, fordi vi har tre koordinater, så der er et krydsproduktet.
+
+18:15
+Vi kan regne denne vækster ud. Og så kan vi tage dens længde, så længden af den der vægter, som i øvrigt er præcis det samme som arealet.
+
+18:27
+Nu ligger det bare ikke fladt nede i planen.
+
+18:30
+Skal man forestille sig, at det ligger her, som at disse vektorer er mærket U og A-mærket ved de tangent vektorer her op til Sladen?
+
+18:40
+De ligger sonder og den vægt her.
+
+18:47
+Det er det, der hedder en flade normalvægt, og den står vindue. Ret stritter enten den ene vej eller den anden vej.
+
+18:54
+Afhængig af orienteringen fra den flade normalvægt.
+
+19:00
+Og det er simpelthen dens længde, vi bruger som Jacobi funktion. Og igen hvis F er lig med en, så fås arealet og arealet af vores fladet,
+
+19:17
+og det betyder egentlig, hvis man kigger på på det seneste her, at vi er i stand til.
+
+19:29
+Hvis vi kan parameter ved se ja, så er vi i stand til at regne arealet af en ret syret figur ud.
+
+19:37
+Og vi har kigget på specielle typer af sådan nogle flade integraler, og det vil jeg ikke.
+
+19:45
+Det vil jeg ikke sige noget om nu,
+
+19:47
+men det her er en gennemgang af integraler og se hvordan vi går fra en kurv over en klage over noget rummeligt og den dømte.
+
+19:58
+Vejsig fortsætter nu. Og det kan godt være, at det er svar at gøre sådan her og så kalde det her for et tarveligt træ.
+
+20:16
+Fordi hvad er det så?
+
+20:20
+Det kan man næsten gætte sig til, fordi. Vi gør i virkeligheden det samme som her.
+
+20:32
+Forskellen er bare, at hvad er det nu, vi har med at gøre?
+
+20:38
+Jamen altså vi skal forestille jer, at jeg har sådan en kartoffel her liggende i tre dimensioner.
+
+20:50
+Et massivt rummeligt område. Tænk på en kartoffel.
+
+20:57
+Og den lægger sig her i vores koordinatsystem.
+
+21:05
+X, Y og Z. Hvis hvis vi tænker kartoffel så sendte skrællen, er en flade kartoffelskræller anslaget.
+
+21:19
+Men nu vil vi gerne have det indre med. Så nu har vi hele kartoflen, og den skal jo parameter se jeres.
+
+21:29
+Sådan en plejer vi mange gange at kalde EM, fordi den er massiv.
+
+21:34
+Og så har vi en eller anden parallel i frasering. Og igen.
+
+21:39
+Hvad skal der til for at parameter ser sådan et område?
+
+21:42
+Ja, for parameter seeren flade er vi nødt til at have to variable, hvis vi skal have det indre med.
+
+21:50
+Så skal vi have tre, og det hele foregår i rummet, så der skal komme tre koordinater ud.
+
+21:58
+Det vil sige x. Koordinaten kan afhænge af U, V og W.
+
+22:04
+Koordinaten afhænger af u, v og da oplevet i og Z.
+
+22:09
+Koordinaten afhænger af U, V og W.
+
+22:16
+I kan jo allerede se, at det her er et begyndelsen til et mareridt eng altså.
+
+22:22
+Og parameter. Intervallerne er guldløve fra A til B ved løver fra se til dag og W.
+
+22:35
+Løver sørger fra A, B, C, D, E til F.
+
+22:42
+Og hvordan ser det ud? Jamen altså de tegninger vi plejer at lave, så plejer vi at sige Okay, her har vi så er U, V, W og vores parameter.
+
+22:53
+Området her er nu tredimensionelle, og.
+
+23:04
+Hvordan ser det ud? Hvordan ser det ud under?
+
+23:18
+Og det slap. Jeg skulle veje og knap så ondt, at jeg måske skulle lade være med at tegne denne her her noget.
+
+23:27
+Det giver måske ikke nogen en del, så den lille lille firkant 1 1,
+
+23:34
+hvor den ene side lever fra A til B, og dens side ikke kan se, den løber for at se til bag.
+
+23:46
+Det er jo meget, meget klart. Og det er her, det så fra E til F er afviklet.
+
+23:52
+Vi allesammen se den case, der står og ser fine ud.
+
+23:56
+Det har vi i vores paralleler interval baggage og igen for at få et rum integral ud af det.
+
+24:08
+Jamen, så skal vi så have en funktion F,
+
+24:11
+som antager værdier over til den reelle akse og vores funktion f er nu ligesom herover at tre variable som ser sådan her ud.
+
+24:26
+Og igen det kan også.
+
+24:28
+Der kan jo tænke på F som en masse tæthed, som hvis der står et eller andet sted i kartoflen og tager funktionsleder ind i det punkt.
+
+24:38
+Så betyder det, at den vejer hvis funktion værdien er 7, så vejer den syv gram per kubikcentimeter.
+
+24:46
+For det er sådan det skal forstås. Så dette er præcis det samme billede.
+
+24:51
+Og hvad så?
+
+24:56
+Ja, man lagkage. Hvis man vil lave vores grumme integral.
+
+25:08
+Jamen så skal jeg gøre det på præcis samme måde fra A til B, fra C til D og fra E til F det u veer, der overbeviser laver.
+
+25:22
+Og så skal jeg tage vores funktions værdier på Dan, der er r.
+
+25:28
+V der op ved flere gange gange.
+
+25:35
+Ja, koge funktionen, som nu selvfølgelig afhænger af U, V og W.
+
+25:42
+Og så det er o.k. Det vil sige det der overbeviser.
+
+25:48
+Sådan skal den ged barberes. Og for overhovedet at kunne gøre dette, så er vi nødt til at fortælle, hvad Jacobi funktionen er.
+
+26:01
+Og ja, man nå.
+
+26:05
+Hvad er det den skal fortælle, inden den skal fortælle, hvad der sker, når vi flytter en rumfartens enhed her herover gennem den parat frasering?
+
+26:17
+For det er. Det er et rumfang småfugle, der køler et rumfang, der kommer ud af det, og hvad hvordan?
+
+26:25
+Hvordan regner vi derude? Jamen, det er den numeriske værdi af determinanten af denne her matrix, der hedder A-mærket.
+
+26:36
+Er mærket V er mærket W som søjler, og det er jo en tre gange tre matrix, der står her,
+
+26:50
+som vi så skal tage et determinanten af, og så skal vi tage den numeriske værdi.
+
+26:56
+Og så skal vi putte den ind i det der integral, hvor der står den der funktion.
+
+27:02
+Vi kan næsten sige, at selv at der skal man, skal gøre et eller andet for at få noget, der er til at regne ud i hånden.
+
+27:10
+Det viser det, fordi det i al almindelighed være noget snot.
+
+27:14
+Altså, man kan simpelt hen ikke komme videre, altså. Så så snart man har fået parameteren serien, er vi jo nødt til selv at lave det.
+
+27:23
+Det her vi selv skal arbejde også. Men så snart vi har parametre, ser jeg ingen.
+
+27:30
+Så her kan vi bede med æggeblommer, regne for os kan.
+
+27:35
+Og det skal vi altså gøre. Jeg vil selvfølgelig prøve at lave nogle udregninger, som jeg kan lave i hånden,
+
+27:43
+men igen eksemplerne for at det overhovedet kan lade sig gøre, så er de udvalgt.
+
+27:48
+Det kan også, og jeg vil for eksempel prøve at regne rumfanget ud af en kugle om lidt.
+
+27:56
+Og når jeg har set det som det, så vil jeg sige Okay, det skulle nok meget godt, vi ikke skal gøre det her i hånden, folkens.
+
+28:02
+Altså der er lige et spørgsmål, jeg ikke fatter, så du smider det fuldstændig?
+
+28:13
+Ikke fordi det er det, der hedder at rumme produktet, og man kan se, at man kan tage krydsproduktet af dem og prik med dem,
+
+28:20
+eller man kan tage krydsproduktet dem og prikkende dem blev eller krydsproduktet dem og prikkende dem og så den numeriske værdi.
+
+28:27
+Det hedder rumme produktet, og der er muligvis nogle af jer, der har set det i fysik i gymnasiet.
+
+28:32
+Det hedder rum produkt, men vi skriver det bare sådan her og.
+
+28:38
+Og bare lige for at fortælle, hvad det er, jeg har afsagt.
+
+28:45
+Men altså også her. Hvis jeg prøver at tegne at mærke U, så kunne jeg tegne.
+
+28:50
+Her er mærket ve og vel.
+
+28:55
+Hvad ved jeg det her? Det ville måske være at mærke da oplevet.
+
+29:01
+Det ville så være tre vektorer, der sidder sådan og stritter i rummet.
+
+29:05
+Det er sådan, de udspænder jo en fase og.
+
+29:20
+Nu.
+
+29:20
+Nu skal jeg så prøve at gøre, hvad jeg sikkert sætter låget på, og så har jeg hold nu kæft mand der da den ene side og det lukkede og lukkede sidder.
+
+29:43
+Nej, jeg har taget fejl. Hvis døre.
+
+29:47
+Hvis der er en psykolog, der sidder og kigger på dette, så bliver jeg jo straffet, bliver tvangsindlagt.
+
+29:51
+Frygten en hvid hvidvin en på, så snart jeg går ud af lokalet. Når man skal bare træde lidt tilbage, kan jeg se sådan meningen varer,
+
+30:03
+men tager måske mest til en vare, der modstående sider skulle være nogenlunde parallelle.
+
+30:10
+Det er lykkedes. Det været Frederik længe, og jeg ved ikke det.
+
+30:18
+Der er ikke så meget at gøre, men i allesammen. Vi er allesammen været med en flytning, der starter med nogle fine flyttekasser.
+
+30:24
+Der kan også flytte holdet gennem de første par kasser.
+
+30:28
+Så har man jo set hvordan, hvad der er, hvad der sker med de flyttekasser, når folk har siddet lidt på vægge.
+
+30:35
+Og det er så nogle. Det hedder at parallelle de PDO, og det betyder altså, at modstående sider er parallelogram, og de så forsiden og bagsiden.
+
+30:50
+Hvis man talte sådan, er det ikke sandt. Jeg vil sige det.
+
+30:53
+Der skulle nok det dårligste, jeg har lavet i mange år, og det er der.
+
+30:57
+Men de er jo så fantasifulde, så jeg kan sagtens forestille jer, hvordan det ser ud.
+
+31:02
+Og den decembernat, man regner ud her. Og det er præcis rumfanget af den figur.
+
+31:09
+Eller i hvert fald rumfanget den figur, sådan som den kunne have set ud.
+
+31:15
+Så kan jeg, og jeg skal lige sige, at for igen for f lige en.
+
+31:23
+Så får man volumenet. Sådan så I kan se.
+
+31:37
+Der er ikke noget i det her, som kan overraske os. Det er det.
+
+31:41
+Det følger fuldstændig opskriften fra før. Det eneste er bare, at det bliver.
+
+31:49
+Det bliver relativt grimt at kigge på, men lad os prøve nu og lad os prøve engang og tage nogle eksempler på de områder,
+
+32:00
+som har name parametre, zähringer og i første omgang i første omgang.
+
+32:13
+Så lad os prøve at kigge på det, som vi kalder graf begrænsede områder.
+
+32:32
+Og. Jamen, hvad springer nu ud nu?
+
+32:36
+Jeg prøvede efter bedste evne og om at gøre det, så er det vores exit.
+
+32:47
+Det er det vores by og det her er så vores set det, som man så skal forestille sig.
+
+32:55
+Måske skulle jeg nok have min yacc lidt som nogle mere moderate og måske lidt længere sukker og klæg.
+
+33:06
+Det som man også kan forestille sig. Det er, at vi hernede har et plant område og sådan et plant område, som altså ligger i ex by planned.
+
+33:25
+Det står vi jo herovre, og så er man parat med et friserede på denne her måde, fordi der kun er to variable.
+
+33:35
+Men lige nu er det vigtigt, at vi også har en sættere akse, så derfor vil jeg lade det plane område.
+
+33:43
+Han parameter serien, som jeg kalder, er hat og parameter seerrekord.
+
+33:50
+Den ser så samme herude er hat af u kommer V.
+
+33:55
+Det er bare et plant område. Den afhænger kun af Uwe. Det er så eks er o.k.
+
+34:03
+Byen er kommet med. Og så plejer vi at stå op.
+
+34:07
+Men nu vil have Z med. Og så fortæller vi bare med nul pct.
+
+34:11
+Nu er det plan område. Men i tre dimensioner, for ja, så har jeg heroppe liggende en graf for en funktion Z lige med hår af ekskongen.
+
+34:32
+Og hvad er det så, jeg gøre? Jamen, så løfter jeg denne her op på fladen.
+
+34:42
+Den der ryger. Måske skulle man måske gøre sådan her.
+
+34:48
+Altså Stefan. Der ryger jeg op. Det er denne her ryger der op, og så var der her oppe på flade Authari et eller andet, som måske ser sådan herude.
+
+35:04
+Det er lidt et fladeste, der ligger højere oppe, ligger også, men så vil vi have det hele med.
+
+35:13
+Det vil sige, vi vil have alt det, der er indeni med, og det kan jeg måske bedst illustreret ved at prøve at gøre sådan.
+
+35:25
+Det er også, det er det, vi tager og løfter det her hele vejen op på fladen eller grafen er det jo her op.
+
+35:36
+Så ligger den her op, men så tager vi alt det, der ligger inde imellem, og så alting er med.
+
+35:49
+Pædagogerne hjælper at gøre det her.
+
+35:52
+Det ideelle ville jo sige hvis det var en cirkel, så ville det bare været en stiletten og måske ikke også som var rundet af her op.
+
+35:59
+Men hele dette område. Spørgsmålet er Hvordan parameter ser man det?
+
+36:05
+Jamen altså. Hvis standard parameter sikring gælder, så ligger i hvert fald et eller andet sted fra A til B, og vi ligger for se til det.
+
+36:17
+Hvordan? Hvordan kan vi så få denne her parameter serien til at spille?
+
+36:22
+Jamen, den ser sådan her ud, og det er vel enormt med det her.
+
+36:29
+Det er så den det massive område. Det hedder altid EM er, og det her er altså en massiv kraft begrænset område.
+
+36:40
+Koglerne er u w. Jamen okay, vi tager bare og lagde æg, så y være, så får vi denne her flade med.
+
+36:54
+Men så skal vi jo gerne op i toppen. Jamen, der har vi jo vores funktion som fortæller.
+
+37:02
+Sæt alligevel på, at jeg ikke kommer øget. Det vil sige, at jeg siger hov!
+
+37:06
+F. Eks. Er udkommet V og Y er udkommet v.
+
+37:14
+Hvis jeg gør dette her, så ligger jeg her op på fladen.
+
+37:18
+Men jeg skal have alt det der ligger imellem med det gøre ved bare at skrive ganget dobbelt ved ideer.
+
+37:24
+Og så lad W I løbe fra nul til 1 for det, så for W lige med 0.
+
+37:31
+Står jeg nede på det plane område nede i exit planen og få W lige med ind, så jeg er røget helt op på fladen herover pct.
+
+37:41
+Og når jeg så snupper ind imellem, så ligger et eller andet sted inde imellem. Så er alle de plane områder, jeg har løftet hele vejen op.
+
+37:52
+Der har vi så på Amager med placeringen, og lad os tænke, at der skal en stor parantes rundt uden om det.
+
+38:00
+Og denne er faktisk ikke så slem. Det er sådan, fordi vi jo uenige om begge også.
+
+38:09
+Desværre i dette par med flad streg. Altså fra og med placeringen er det sværere, fordi nu kommer det,
+
+38:14
+som vi bare kan bede Mabel om, nemlig at vejene er gode funktioner og sådan noget ud.
+
+38:19
+Men det her er parameter sikring af et generelt graaff begrænset område.
+
+38:25
+Det gør vi på denne her måde. Som et eksempel på dage, hvor prøv at lave en parameter i serien.
+
+38:37
+Så prøv at hør det, jeg vil gøre det, jeg ville lave sådan en dag nu at lave et ekstra aksens,
+
+38:48
+strittet ud her, og så vil jeg da fyre aksen Street den vej, og så sidder aksen.
+
+38:58
+Og så vil jeg afsætte punkterne her. Der står der ingen på eksakt.
+
+39:04
+Det vil sige, det punkt hedder en kommer 0,0 og så det her punkt, der hedder nul komma 1,0 og så det her punkt.
+
+39:13
+Det hedder sig 0,1 nul komma 1, og så vil jeg forbinde dette, så jeg se det.
+
+39:24
+Så får jeg, hvis jeg tænker på punktet 0,1 0,0 nede.
+
+39:30
+At så få Tetra ydre kan sætte et år, en ro, et rumlig trekantsområdet pct.
+
+39:38
+Og det kunne jeg godt tænke mig.
+
+39:43
+Det kunne jeg godt tænke mig at privatisere. Og så siger jeg Okay, så kan jeg parameter se, at det er det, jeg står med et graaff begrænset område.
+
+39:53
+Ja, fordi hvis I nu tænker på hvad dette her er også den plan, som indeholder denne side i tetraeder.
+
+40:09
+Den plan må hedde ex clouds by plus z dream er en.
+
+40:19
+Ketsjerne, ja den indeholder et kommer 0,0 0,5 kommer nul og 0,1 0,2, og kun en plan er bestemt med tre punkter.
+
+40:33
+Og de opfylder det der. Og så dette er simpelthen ligningen for den plan, der indeholder den side der.
+
+40:45
+Planen er selvfølgelig hele det stykke, men så kunne jeg jo kigge og sige a i ex byplaner.
+
+40:54
+Der har jeg jo dette område. Så kan jeg finde ud af at parre i sag.
+
+41:00
+Er det fordi så kunne jeg jo bare op isolere Z og sige B.
+
+41:10
+Min funktion er to variable.
+
+41:18
+Det er jo så det, jeg gør nu.
+
+41:21
+Nu vil jeg forsøge at parameter og se, at det her område og det nemmeste er simpelt hen lige at tage x y planned og tegne, sådan som vi plejer.
+
+41:31
+Her er jeg ikke her y z blæser på, men altså den stritter så ud, da jeg så tegner den linje, da den går fra for en på øya aksen til en.
+
+41:45
+Du sætter alle på eksakt en. Den ser sådan her ud gaden.
+
+41:52
+Hvad hedder den linje, der denne hedder ødelagde en minus ex.
+
+42:01
+Så hvis jeg nu gerne vil parre med et frisere dette område, så husk lige her at jeg kalder parametre sikringerne af de plane områder for er.
+
+42:15
+Så det vil jeg så også gøre her. Og hvordan kan parametre se dette område?
+
+42:21
+Jamen, jeg kan jo sige, at den skal afhænge af U.
+
+42:25
+Murray. Og så kan jeg sige Jamen go. Det kan jo bare være eks.
+
+42:30
+Den kan løbe fra 0 til 1. Og hvad så her?
+
+42:35
+Ja, så ved jeg, den skal helt op til en minusvækst på y aksen, det de skal.
+
+42:39
+Man skal helt op til et minus o. Men eftersom jeg skal have hele stykket ned, så kan jeg bare gange med V dag til dag og så skal bo.
+
+42:49
+Det er bare mine ikke scoret. AaB danske løve fra 0 til 1. V skal så også leve fra nul til en for forventelige nul.
+
+43:00
+Så står jeg her for en eller anden uværdig, og får vi lige en, forstår jeg der.
+
+43:07
+Når jeg har valgt den uværdig, sætter jeg for denne parametre Sødring af denne.
+
+43:11
+Jeg er færdig, og så skal jeg lige huske, at jeg har et nul med på koordinaten.
+
+43:20
+Så har jeg parametre se, at den trekant, som er det plane område for dem, der ligger der.
+
+43:29
+Det er vores plane område.
+
+43:32
+Og så siger opskriften, at dette tetraeder som i sig en massiv figur, en massiv pyramide, den sidder sig sammen herude er er kommet ved Comme W.
+
+43:51
+OK, jeg skal tage 40 sekunder, der hedder bare U angående hvalen.
+
+43:56
+Den hedder B gerne et minus på H, og så skal jeg sige w gange.
+
+44:06
+Vores funktion h, som er den der står dér taget på ikke så det vil sige w.
+
+44:15
+W i gange. Hvor står der en minus vækst u og y.
+
+44:24
+Den hed ved gang inden mindet ved U. Sådan og så skal der en parantes til så vidt jeg kan se.
+
+44:38
+Og vi skal lige fortælle, at u løver fra nul til én vil jo også fra noget før 1.
+
+44:47
+Og det gør der aflevere os. Så det her illustrerer meget godt den tankegang, at man skal prøve at få et svigt,
+
+45:00
+når man skal prøve Effersøe krise, det er der en simpel måde at kigge på den figur man har.
+
+45:05
+Så det bliver et draft begrænset område, og det kan vi her også, fordi grafen denne flade.
+
+45:15
+Den ligger jo lige over vores område.
+
+45:19
+Her. Giver det mening?
+
+45:24
+Og her har I så opskriften til at pragmatiske seere end en lang række områder ikke oppe i bjerge.
+
+45:31
+Vi kan jo næsten sige til os selv, at helt generelle kartoffel områder er godt.
+
+45:39
+Det er jo ikke noget, man bare kan parameter, siger altså. Man skal være lidt heldig for at man kan parameter seere i det område.
+
+45:48
+Så derfor prøver vi at gøre det mere systematisk på denne her måde.
+
+45:52
+Men det var de Graeff begrænsede områder, så hvis vi nu holder et kvarters pause,
+
+45:57
+så laver vi lige et Graefe begrænset område til vandet, og så kører vi løs.

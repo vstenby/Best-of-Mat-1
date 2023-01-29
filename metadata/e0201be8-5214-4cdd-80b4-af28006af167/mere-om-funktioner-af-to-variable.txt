@@ -1,0 +1,1163 @@
+0:05
+Det er lille, da vi skal have en lille forelæsning på en times tid.
+
+0:10
+Så skal jeg ud i gruppearbejdet, derefter data ugens test.
+
+0:14
+Det er business as jusjong, altså ligesom i efterår, semestret og ugens emne.
+
+0:21
+Det er jo en introduktion til funktioner af to variable og det som jeg tror i Callie fornøjelse af det er.
+
+0:31
+Den røde tråd i det her er, at de partielt aflede og gradient,
+
+0:36
+den hele tiden dukker op i nye og spændende steder, og det skal vi se flere eksempler på i dag.
+
+0:43
+Så vi starter først med at kigge lidt helt fra bunden på punkt mængder i æg sygeplejen.
+
+0:50
+Hvordan kan vi karakterisere dem? Og det har vi meget brug for, når vi skal snakke om funktionerne definitionsmængde.
+
+1:00
+Derefter så tager vi tråden op for sidst, hvor vi både snakkede om det, der hed partielt afledet, og så differentierer Bility af funktionen.
+
+1:11
+Hvad er det lige, at relationen imellem de to ting hver bærer det?
+
+1:15
+Det går ud på. Det fører os over til nu også at kunne begynde at tale om proklamerede polynomier, for funktioner er flere variable,
+
+1:25
+og der skal vi altså se første ordens approksimation i dag og grafen for sådan en approksimant funktion.
+
+1:34
+Det er det, vi kalder for tangent planen. Det er altså ikke en tangent linje, som vi har, når det er funktioner i en variabel.
+
+1:41
+Det bliver til en plan i stedet for tre år, så til sidst skal vi så kigge på det, der hedder løftet og q ord.
+
+1:51
+Okay, vi tegner en kurve i A 7 planen, og hvordan får vi så den produceret op på fladen?
+
+2:00
+Så det bliver altså ligesom kan sige, at vi har løftet den op på pladen på.
+
+2:05
+Det gør vi ved hjælp af højde funktioner, så det er emnet for det sidste,
+
+2:10
+og så håber jeg, at vi måske kan kan nå at vise det her eksempel på Mabel godt.
+
+2:17
+Lad os starte med punkt mængder. Og jeg kigger her på.
+
+2:28
+Vi er i typer planen. Og vi kan kigge på en eller anden mængde her i syd planen.
+
+2:37
+Den hedder måske M. Og så kigger jeg på et punkt p ét et punkt P2.
+
+2:47
+Og så et punkt P 3. Og p ét.
+
+2:55
+Det kalder vi for et indre punkt. Og P2 er tilsvarende et ydre punkt.
+
+3:11
+Mens per tre det er et brændpunkt.
+
+3:24
+Det er ligesom de tre slags punkter vi gerne vil betragte.
+
+3:29
+Hvad mener vi så med et indre punkt? Ja, det der karakteriserer et indre punkt er, at man med punktet som centrum, da kan man lave en cirkel skive.
+
+3:49
+Som ligger helt inde i mængden, det vil jeg så sige.
+
+3:53
+Alle de punkter, der ligger på den cirkel skive her.
+
+3:56
+De er også punkter i mængden m, og det var jo meget nemt i det tilfælde her, hvor dette punkt, som jeg havde tegnet det lå inde i midten af mængden.
+
+4:07
+Men det skal tænke på, det er også. At det er et indre punkt.
+
+4:14
+Og her kan jeg også lægge en cirkel skive. Den er ikke nær så stor, men nu kan jeg lige prøve at antyde den.
+
+4:21
+Jeg vil kunne lægge en lille cirkel, hvor hele cirkel skiven ligger indenfor, så alle de indre punkter.
+
+4:28
+De har altså den egenskab tilsvarende et ydre punkt.
+
+4:34
+De har også den egenskab, at jeg altid vil kunne lægge en cirkel skive, som har centrum i punktet,
+
+4:42
+og hvor der ikke er nogen af de punkter, der er i cirkel skiven, som også er punkter i M til sidst.
+
+4:51
+Så kigger vi på rækken punkter C uanset hvor lille.
+
+4:57
+Jeg laver en cirkel skive der har centrum i P3, så nu kan jeg tegne denne her.
+
+5:07
+Så vil derfor et brændpunkt gælde, at den både har ydre punkter og indre punkter.
+
+5:16
+Så det er simpelt hen nogle helt grundlagde grundlæggende betragtningsmåde, som vi har brug for og i.
+
+5:29
+Nye begreber. En åben mængde.
+
+5:38
+Indeholder kun. Indre punkter.
+
+5:58
+Og vi har også begrebet en afsluttet mængde.
+
+6:15
+Og en afsluttet mængde. Den indeholder hele Xinran. Eller sagt på en anden måde alle sine Rahn punkter.
+
+6:34
+Og det sidste begreb her er en en begrænset mængde.
+
+6:49
+Den kan indfanges. A en cirklet.
+
+7:00
+Der har centrum. I 0,0.
+
+7:12
+Så det var altså en åben mængde.
+
+7:14
+En afsluttet mængde en begrænset mængde, så det var den anden serie af tre begreber, og nu kommer så den sidste serie.
+
+7:30
+Og det lyder sådan her Det indefra er A. Og dermed mener jeg altså alle de indre punkter.
+
+7:45
+De skrives. Som.
+
+7:53
+A og som sådan et nul der for oven. Og det vil altså sige, at hvis det nu i forvejen er en indre mængde, jamen så er den ved med det der.
+
+8:05
+Men hvis det er en afsluttet mængde, så skal vi lige pille randen ud for at få det indre af.
+
+8:15
+Og så. Og så renden.
+
+8:24
+A Den kan vi skriver skrives som.
+
+8:31
+Som lyder det for så A, så er jeg altså symbolet for alle rend punkterne, og så ved siges det.
+
+8:39
+Det er afslutningen. Af A.
+
+8:50
+Det er og det kan vi skrive sådan her. Det er altså det indre af A for enighed med hele randen.
+
+9:03
+Og den skrives. Som.
+
+9:11
+A med en streg over. Så er det indre af randene, og afslutningen af det er de ni begreber,
+
+9:23
+som vi skal bruge her i første omgang til at karakterisere punkt mængder i planen.
+
+9:32
+Og lad os tage et eksempel. Altså vi kigger på en funktion f a eksformand Y er lig med L end a x vi må synge.
+
+9:48
+Og jeg kigger på en funktion der hedder F.A ex komma y er lig med kvadratroden af en ti anden plus y i enden min.
+
+9:58
+Nu se. Den kan blive kaldt forbi, og så kigger vi på en tredje som hedder H.
+
+10:08
+Ex. Company er lig med kvadratroden af 1 minus Y i enden og så kvadratroden af fire minus x i anden.
+
+10:25
+Og det jeg gerne vil nu er, at jeg gerne vil betragte definitionsmængde fra de tre forskellige funktioner, jeg har kigget her.
+
+10:32
+Husk definitionsmængden. Det betyder den størst mulige mængde.
+
+10:36
+Jeg byplanen, hvor denne her forskrift, den giver en mening.
+
+10:43
+Og jeg er selvfølgelig valgt tre eksempler, hvor det ikke er hele er 2, som er definitionsmængden.
+
+10:52
+Se hvad er det der skal gælde her? Vi kan ikke tage l, n er et negativt tal og heller ikke nul.
+
+10:59
+Så der skal altså gælde x. Minus Y skal være større end nul, og det er jo ensbetydende med, at I skal være mindre end ex.
+
+11:17
+Og når jeg skal prøve at forstå hvad er det så for en mængde?
+
+11:21
+Vi kigger på et eksemplar. Så jeg vil gøre det. Det er i stedet for at uglede tegnet.
+
+11:25
+Så vil jeg bruge lighedstegnet. Så er jeg først og tegner jeg så den linje der hedder by limede ex.
+
+11:37
+Og den har vi, så den har vi så her. Tegneren lige så forsigtigt her.
+
+11:45
+Det er den linje der hedder Y lige med X. Men det der skulle gælde det var jo at økserne skal være større i byerne.
+
+11:58
+Så min definitionsmængde er enten det, der ligger neden for stregen, eller også det, der ligger ovenfor stregen.
+
+12:06
+Og det kan jeg så undersøge bare ved at tage et test punkt, for hvis jeg nu kigger her på det punkt her, der hedder 1,0.
+
+12:18
+Og så spørger jeg Her er Y er den mindre end X?
+
+12:23
+Ja, det er den jo, fordi nul er mindre end en. Så vi hjælper det her test på.
+
+12:28
+Der kan jeg se, at definitionsmængden før. For denne her funktion er altså hele det område, der ligger neden for den streg.
+
+12:43
+Selve stregen denne er ikke med, fordi by må ikke være lig med ex.
+
+12:48
+Den skal være skarpt større end X, og derfor så tegner jeg altså den linje dér.
+
+12:55
+Den tegner jeg stiplede. Lad os kigge på den anden mængde.
+
+13:10
+Her har vi at vi modtager kvadratrod af et negativt tal, så det vil sige her har vi at icsi anden plus sky i anden.
+
+13:20
+Minus 1 skal være større end lig med nul. Og det vil så sige at ikke sige andet plus y i anden.
+
+13:29
+Det skal være større end eller lig med en. Og igen når jeg skal forstå hvad er det så for en mængde?
+
+13:39
+Der er tale om her. Så tegner vi først. Ikke sige andet plus y i enden er lig med en.
+
+13:53
+Og det er jo enhedscirklen. Så igen, nu er der to muligheder for bagere definitionsmængden for denne funktion.
+
+14:09
+Enten er det den, der ligger inden for cirklen, eller også er det det, der ligger uden for cirklen.
+
+14:15
+Så nu prøver jeg med test punktet 0,0. Og indsætter i min ulighed, så står der altså noget plus nul.
+
+14:27
+Det giver nul er større end lig med en. Nej, det er jo ikke rigtigt.
+
+14:33
+Men tager jeg derimod et punkt her som minus to?
+
+14:38
+Altså 0,1 minus 2. Så får vi jo nul plus fire er større end lig med 1.
+
+14:48
+Så denne er altså god nok. Så definitionsmængden før for den funktion er der altså hele det område, der ligger uden for cirklen skiven.
+
+15:03
+Og denne s.m.b.a randen. Den har jeg tegnet optrukket, og det er fordi at retten den tilhører mængden.
+
+15:12
+Her altså i dette tilfælde må den gerne være lig med en.
+
+15:24
+Så har vi her 2 altså en funktion der består af en kvadratrod tælleren og en kvadratrod i nævneren, og der har vi altså 1 minus y de anden.
+
+15:37
+Den skal være større end lig med nul. Og det er så ensbetydende med at Y i enden skal være mindre end at lege med en.
+
+15:53
+Og den anden der har vi fire minus, ikke i anden.
+
+16:02
+Se den skal være større nul, fordi hvis den er lig med nul, så har vi kvadratroden af nåle i nævneren, og nævneren må jo ikke være nul.
+
+16:11
+Så læg lige mærke til den forskel her. Her skal den være større end eller lig med.
+
+16:15
+Her skal den være skarp større. Så det her er altså ensbetydende med, at X i enden er mindre end fire.
+
+16:28
+Kom. Så da jeg så to betingelser her der skal være opfyldt.
+
+16:33
+Vi skal nu se på hvad definitionsmængden for den funktion her. Lad os prøve at tegne.
+
+16:39
+Jo. Og igen i stedet for at betragte ulighed stegen, så betragter jeg i hvert tilfælde lighedstegn.
+
+16:52
+Så hvis de Boer prøver at tegne af tyve blander. Så kan jeg altså se hvis Y i anden er lig med 1.
+
+17:05
+Det giver to muligheder Enten er y lig med 1 eller også lidt med minus 1.
+
+17:13
+Så her har vi lige med en. Og her har vi by er lig med minusser.
+
+17:26
+Og på samme måde skal vi tegne denne her. Der giver ikke sige andet og lige med fire.
+
+17:31
+Det er jo ikke så lige med to eller ex er lig med minus to, så det giver så to.
+
+17:39
+Og de skal være stiplede, så her har vi altså eks.
+
+17:45
+Med minus to. Og her har vi ex limede 2.
+
+17:56
+Og der kan jeg altså se, at det denne definitionsmængde der er tilladt.
+
+18:02
+Det er altså den, der både overholder, at mængden ligger i mellem minus 1 og en lodret og imellem minus to og plus to Banhart.
+
+18:13
+Og så må vi lige huske at tegne. Sådan en åben cirkel på her for disse er disse hjørne punkterne.
+
+18:22
+De tilhører altså ikke mængden. Så nu har jeg altså tegnet den.
+
+18:26
+Så den er og stiplede her. Den er fuldt optrukket, stiplede og fuldt optrukket, og hjørnerne hører ikke med i definitionsmængden.
+
+18:39
+Og lad os lige prøve at så med vores begreber her. I kan se den mængde jeg har tegnet her.
+
+18:45
+Den er åben. Alle punkter kan jeg tegne en cirkel omkring.
+
+18:55
+Men den er ubegrænset, fordi jeg kan ikke lave en cirkel.
+
+18:59
+Lige meget hvor stor en cirkel jeg laver, så vil der være punkter, der ligger uden for cirklen, så den mængde den er altså ubegrænset.
+
+19:19
+Den mængde jeg har tegnet her, den indeholder hele sin rand, så derfor er det en afsluttet mængde.
+
+19:35
+Men den er ubegrænset, fordi jeg vil aldrig kunne fange den med en lasso.
+
+19:41
+Altså her med centrum i 0,0. Der vil altid være punkter, der ligger udenfor.
+
+19:46
+Så denne er så ubegrænset. Kom og så mit sidste eksempel.
+
+19:59
+Den mængde jeg har tegnet her, den er i hvert fald begrænset, for jeg kan jo sagtens lave en cirkel.
+
+20:07
+Som indeholder hele den mængde jeg tegnede her, så er jeg begrænset.
+
+20:22
+Og så er spørgsmålet Er den åben? Nej, fordi den indeholder nogle punkter, som ikke er indre punkter.
+
+20:30
+Den indeholder nemlig noget sin rand. Er den afsluttet?
+
+20:35
+Nej, det gør den ikke, fordi noget af randen tilhører ikke mængden.
+
+20:40
+Så i dette tilfælde har jeg altså en mængde, som hverken er åben eller afsluttet.
+
+21:03
+Og gav. Se sidste gang, da indførte vi partielt aflede og den måde jeg skrev partielt afledede på på tavlen sidste gang.
+
+21:33
+Det var sådan her, at den partielle afledede efter x i x komma.
+
+21:42
+Men kært barn har mange navne og partielt afledede.
+
+21:47
+De er så meget kære, så derfor er der mange forskellige måder at skrive det om på.
+
+21:52
+Jeg synes selv, det her er den nemmeste måde, men jeg skriver også de andre op,
+
+21:57
+for dem er jeg nødt til at kende, fordi dem kan de så godt træf sammen som dem, jeg har tegnet her.
+
+22:03
+Så sådan en partielt afledet som dem her. Den kan også skrives ved hjælp af bløde ideer.
+
+22:10
+Det har intet med renten at gøre, men det er det samme bogstav, så den kan altså skrives som blødt.
+
+22:17
+DF blødt d, ex. Taget i ex kommer.
+
+22:27
+Og der er også nogle der foretrækker og ikke at skrive egefade op i tælleren.
+
+22:35
+De vil hellere skrive sådan her. Det er ex. Og så f i Ekstra Molly.
+
+22:43
+Det er faktisk sådan som Mabel kommer med sit output.
+
+22:49
+Og så endelig så kan man skrive den partielle afledede ved hjælp af store del.
+
+22:55
+Og den partielt afledet efter extend kalder man en fordi ex er den første variabel.
+
+23:01
+Så den skriver man så det i f taget i eksformand.
+
+23:11
+Og nu giver jeg bare lige et da et andet eksempel, og så er det så slut lige med med, men med det her.
+
+23:19
+Hvis vi nu siger, at vi er her, har en af de anden ordens partielt afledet den, hvor jeg først har differentieret efter X og så bagefter efter Y.
+
+23:37
+Hvis jeg skal skrive den ved hjælp af bløde det, så vil den se sådan her ud.
+
+23:43
+Det er. Og så i nævneren hedder dem den i dag Dex, og hvor man ligesom sådan skal man måske skal forstå,
+
+23:52
+at der er gange tegn imellem dem, der også er taget i eksformand.
+
+23:58
+Men igen den kan også skrive sådan her. Det ny det ex.
+
+24:07
+Sad i f ikke man ellers den kan skrives ved hjælp af store by, nemlig det et to af f taget i ekskl.
+
+24:21
+Så det var bare lige for at understrege, at dette er nogle skrivemåder, som det er godt at kende.
+
+24:30
+Jeg går ud fra, at I får store dag, der fik trænet dette med både at finde de første og anden ordens partielt afledet.
+
+24:42
+Så skal vi snakke om forholdet mellem partielt afledet og så differentiere habilitet af funktioner der to variable.
+
+24:51
+Så hører her vi siger M.
+
+24:56
+Tag så. Og så punkt et F er defineret.
+
+25:11
+I en åben mængde. Som ligger i nr.
+
+25:23
+2, kan vi sige, og som vi tillader os at opfatte som ICTY planen.
+
+25:29
+Den skal altså være defineret i en åben mængde. 2. Vi har et punkt x0 komma nul, et fast punkt.
+
+25:43
+Som ligger i den åbne mængde også er punkt tre.
+
+25:52
+Altså hvis de partielle afledede. Altså et mærke efter eks.
+
+26:03
+Og F mærke efter Y. Hvis de eksisterer.
+
+26:15
+Og. Er kontinuert. Hvis det er tilfældet.
+
+26:33
+Så gælder så gælder der for ethvert x komma y i a.
+
+26:44
+Følgerne. At så kan det f.
+
+26:55
+Eks komma y. Det kan skrives med udgangspunkt i, idet i funktionens værdien i det faste punkt plus den partielt afledet efter eks.
+
+27:10
+Taget i det faste punkt gange med x minus x0 også er plus.
+
+27:18
+F mærket efter Y taget i det faste punkt og gange med by minus nul.
+
+27:29
+Og så kommer der så plus afstands funktioner. Og så gange med en epsilon funktion af x minus x0 komma y minus nul.
+
+27:49
+Så det er altså indhold at de France habilitet at EF i et variabelt punkt.
+
+27:57
+Det kan skrives med udgangspunkt i funktions værdien i et fast punkt x 0,50 og plus de her tre led.
+
+28:08
+Altså den plus den plus den påstand at der fire led i alt indgår i det her.
+
+28:19
+Så vi har altså et fast punkt x nul komma nul.
+
+28:24
+Det er vores udviklings punkt. Og så har vi altså et variabelt punkt, som kan køre rundt i den mængde af, hvor den er defineret.
+
+28:40
+Nu kommer der så altså. Det var nogenlunde det jeg tæpper, vi nåede sidste gang, men der kan vi altså se,
+
+28:45
+at hvis bare vi har de partier, der afledet, og de er kontinuert, så er den differentiabel set.
+
+28:49
+Så kan den altså opskrives på den måde, jeg har skrevet her og nu, kommer der så altså en ny betragtningsmåde.
+
+28:58
+Prøv at se hvis nu x y den kommer tæt på x nul komma nul.
+
+29:06
+Så kigger vi på de fire led. Den sker der jo ikke noget ved.
+
+29:10
+For det er jo bare funktions for dine x 0,20 mænd, og det er en konstant dente, og den går imod nul.
+
+29:19
+Så vi har altså en konstant gange med noget, der går imod nul.
+
+29:24
+Det er en anden konstant gange med noget, der går imod nul. Og her har vi to ting som begge to går imod nul, når eksport går i nul og Y går imod nul.
+
+29:39
+Så det skal jeg forstå hastigheden af hvor hurtigt de går imod nul, er her afgørende, for det vi nemlig gør nu, er jernmand.
+
+29:51
+Når det er to, der går imod nul i et meget lille tal gange med et meget lille tal.
+
+29:57
+Det blev et meget lille bitte bitte bitte bitte tal.
+
+30:02
+Dette bliver også bitte, men det bliver ikke lillebitte, så det er det betyder, at jeg så de to her led.
+
+30:10
+Det betyder meget mere end det sidste led, der ligger her, og derfor så vælger vi bedst, vi skal approksimant.
+
+30:19
+Så vælger vi så at se bort fra det fjerde led.
+
+30:25
+Og så er det det man kalder for det proklamerede første Grace på omnium.
+
+30:39
+Altså dér proklamerede da første grads polynomium. Altså med dette udviklings punkt.
+
+31:05
+Og det er så givet ved. Og den kalder vi floppy store p et.
+
+31:15
+Det er også en funktion af to variabler, og den er så f.
+
+31:22
+X0. Komma nul plus.
+
+31:30
+F mærke efter ICSI x0 fra nul plus x minus x0 og så det tredje led f.
+
+31:38
+Mærket efter y taget i x 0,50 gange med y minus 0.
+
+32:00
+Hvorfor er det i første grads polynomium? Da skal vi have fat i de variable.
+
+32:08
+Så er de variable bidder ikke så. Dette er en Constand.
+
+32:13
+Dette er en konstant x0 er konstant, men har vi ikke i første grad.
+
+32:21
+På samme måde der i første grad. Så det bliver altså et tal.
+
+32:26
+Og så bliver det noget med X og Y i første grad, og det kalder man det første græspollen omnium i eks'er.
+
+32:32
+Det er altså et første kraftfuldt nummer i to variabler i F12. Det bliver mere klart lige om lidt.
+
+32:41
+Men lad os lige først tænke lidt over grafen for sådan et første græspollen.
+
+32:48
+Her. Prøv at se.
+
+33:15
+Nu prøver lige nu skal jeg lige lovligt algebraiske operationer, så derfor gøre det lidt nemmere med dit.
+
+33:22
+Altså med de tal der indgår her på SE. Jeg tillader mig lige denne her på venstresiden.
+
+33:26
+Her. Det er jo en variabel i z aksens retning, altså et den skal man jo tænke sig som en som en z koordinat.
+
+33:38
+Det er, at det er et fast punkt, de sætter aksen.
+
+33:46
+Den dér. Den har vi jo tidligere kaldt for A. Og så har vi stadigvæk ex min nu 6 0, og den har vi kaldt forbi.
+
+33:58
+Hvis vi tillader os her kort og give dem nogle navne her.
+
+34:08
+Så kan vi altså se, at det vi har fået ud af det, er så at Z er lig med z nul plus a gange med med nu 6 0 plus B gange ny.
+
+34:23
+Lige nu synes. Og nu tillader jeg mig så at flytte alt det der står på højresiden her.
+
+34:42
+Det flytter jeg over på venstresiden. Sådan så er der kun kommer til at stå nul på højresiden, og så får jeg minus A date, smiler 6 0.
+
+34:54
+Minus B Y minus 7 0. Og så er der jo står der plus.
+
+35:00
+Og så 1 gange med. Sæt lige nu, sæt nul.
+
+35:06
+Allemano. Så er sagt grafen for det første grads polynomiet.
+
+35:15
+Det er altså noget som vi kan opskrive på den her måde. Her minder det om noget I har set i gymnasiet.
+
+35:29
+Når vi har dette x der skal stå der, skal der stå plusser, når det er ment sådan.
+
+35:36
+Altså eksmænd nu 6:0 by minus 7 0. Sæt minus sæt nul er lig med nul.
+
+35:41
+Hvad er det? Det er en ligning for hvad siger?
+
+35:52
+Nej, ikke for kuglen, men for en plan B.
+
+35:56
+Altså det er jo planens ligning er ligningen for en plan, som går igennem x 0,1 i 0,5 0.
+
+36:05
+Hvad er dens normalvægt vektor? Hvad jeg normalt vektoren for sådan en plan, hvordan kan vi aflæse den?
+
+36:38
+Jeg vil sige nu A, B og C jo, det er dér lige præcis de konfessioner der står foran parenteserne,
+
+36:46
+så det vil altså sige, at der har vi altså MINUSTAH miner, spil og en.
+
+36:56
+Det vil være normalt lektoren og. Så lad os lige prøve at huske.
+
+37:05
+Hvad det Jérémy. Hvad det er af hvad var det der stod for? Jo, det var jo den partielt afledet efter exit, som vi lige havde omdøbt et kort øjeblik.
+
+37:17
+Og så har vi altså minus den partielt afledet efter yay!
+
+37:24
+Og så har vi så her et et tal på på tredjepladsen.
+
+37:29
+Og ja, og altså det kaldes for tangent planen.
+
+37:55
+Og vi kan jo altså vi kan jo godt lide. De kan godt lige skudt nok en gang til.
+
+38:02
+Det vil altså sige, at den hedder, så den kan vi, så den ligning kan så skrives om.
+
+38:06
+Z er lig med f. Eks.
+
+38:10
+Nul komma yde noget plus. F mærke efter eks.
+
+38:16
+I x 0,40 gange med x minus x0 og plus mærke efter i x0 komma y nul ganget med y minus 0.
+
+38:40
+Så vi har et approksimation er første grads polynomium.
+
+38:46
+Grafen for det er første GEUS. Om det er tangent planen for EF i det punkt som hedder x 0,9 0,2 f a ex 0,10.
+
+39:04
+Vi prøver at tage et eksempel. Lad os kigge på funktionen f.
+
+39:18
+Ex you er lig med kvadratroden af minus fire ægte.
+
+39:26
+Anden minus by Jane. Og vi vil altså gerne finde Proximus Erna første grads polynomium.
+
+39:49
+I døde x 0 kommer y 0.
+
+39:54
+Lad os sige en kommer minus 1. Det er da en opgave vi gerne vil løse.
+
+40:11
+Jamen gad vide om dette punkt overhovedet ligger i definitionsmængden, så nu vi er nødt til først at finde ud af definitionsmængden på denne funktion.
+
+40:23
+Og der har vi jo fire minus exit i anden.
+
+40:27
+Minus Y i anden skal være større end lig med nul, og det er ensbetydende med, at X i anden plus hjernen skal være mindre end lig med fire.
+
+40:43
+Så vi tegner. Definitionsmængden for EM nu.
+
+41:05
+Og det vil jo så være en cirkel skipper, der har to som Radio's.
+
+41:13
+Og I kan se at det er en afsluttet mængde, fordi renden er med.
+
+41:20
+Men dér hvor vi gerne vil finde det, er Proxima erne første grads polynomium.
+
+41:24
+Det jeg så i punktet 1 kommer minus 1.
+
+41:34
+Og det er jo et indre punkt i den her mængde.
+
+41:39
+Så vi har da lov til at håbe, at det kan lade sig gøre, og vi vil nu prøve at finde de partielt afledede.
+
+41:53
+Så lad os først lige prøve at finde mærke efter eks i x komma.
+
+42:04
+Okay, vi skal differentiere en kvadratrod. Og da håber jeg I kan huske, at så skal man have den fra dragebåd ned i nævneren og gange den med to,
+
+42:18
+så der står jeg så her i nævneren fire minus x i anden.
+
+42:23
+Min nu syg Jan. Og det er jo en sammensat funktion og indmaden her.
+
+42:31
+Det er jo den indre funktion, så bag efter skal vi de differentiere den indre funktion med hensyn til ex.
+
+42:40
+Så er den går i nul. Den bliver til minus to x. Y går i nul, for den er konstant.
+
+42:51
+Og så får vi at F. I en kommer minus en.
+
+43:01
+Der får vi så extender ind, så vi får minus to i tælleren.
+
+43:09
+Og hvad får vi i nævneren? Der får vi fire minus 1 minus 1.
+
+43:18
+Det giver 2 kvadratrod. 2. Og den forkorter vi, så den er en over kvadratrod 2.
+
+43:34
+Og på samme måde med den partielt afledet efter Y.
+
+43:41
+Der får vi også to kvadratroden, fire minus ikke sige andet minus by Jane.
+
+43:47
+Den kommer ned i nævneren, men nu bliver det så bare minus to Y i stedet for i tælleren.
+
+43:57
+Og det medfører så at F 1 kommer minus en.
+
+44:04
+Altså nævneren bliver det samme. Tælleren bliver også det samme, bortset fra fortegnet.
+
+44:11
+For nu er Y jo min nu sagen, hvor eks den før var +1.
+
+44:18
+Så det korte af det lange er så at en partielt afledet efter y den er en over kvadratrod 2.
+
+44:31
+Så skal vi prøve at skrive det proklamerede polynomium p 1 i x Germany.
+
+44:39
+Den skal være ef i en kommer lige nu se.
+
+44:46
+Også + er mærket efter ex. 9 1,1 minus 1 gange med x minus 1 og plus et mærke efter Y i 1,90 cm.
+
+45:01
+Og nu bliver det så y +1. Og det vil sige vi skal nu her funktions værdien i en kommer minus en vi skal op og finde den herudfra funktion.
+
+45:19
+Forskriften dem bliver fire minus 1 minus 1, så den er kvadratrod 2.
+
+45:27
+Og så får vi den første partielt, afledet den der var konstant.
+
+45:33
+Denne er minus 1 år før drabet. Kvadratrod 2. Og så gange med x minus en.
+
+45:44
+Og den partielt afleder efter y den vej ind over kvadratrod 2 ganget med y +1.
+
+45:54
+Sådan så fik vi udregnet det proklamerede første grads polynomium med udvekslings pumpet 1,9 nu se.
+
+46:10
+Og altså tangent planens ligning har den samme højreside, og der kan vi så bare skrive sæt.
+
+46:16
+For eksempel kan vi jo Z at lege med, men altså perks mere, når først det gøres på Noma og tangent blandt er altså to, altså den.
+
+46:25
+De er altså næsten ens. Er det bare to forskellige vinkler og ligge på det?
+
+46:29
+Det ene er et analytisk udtryk. Det andet er noget med geometri. Så fik vi det.
+
+46:42
+Jamen så vil jeg nu til sidst snakke lidt om parameter, kurver og løftede kurver.
+
+46:51
+Og det gør vi i gennem en eksempel. Kurverne på de y planen.
+
+47:18
+Den er givet ved. For at få ethvert punkt.
+
+47:33
+På kog. Der gælder der.
+
+47:40
+At absolut værdien. Er lig med argumentet.
+
+47:48
+Så der kom lige nogle begreber, som måske kan huske lidt fra de første fire uger omkring komplekse tal.
+
+47:58
+Argumentet det er jo retnings vinklen. Og.
+
+48:03
+Absolut værdien af afstanden til origo, så skal vi prøve at tegne den.
+
+48:18
+Og det vi er, så vi er i Irak Syd planen. Når vinklen er nul sejre argumentet også nul, så er det klart, at vi skal starte på det sted her.
+
+48:38
+Når vinklen er pi halve, så er afstanden over Seppi halve.
+
+48:45
+Så er det altså se, når vi har drejet 90 grader, så skal vi altså blive halve oppe i saksen.
+
+49:00
+Og når vinklen er pi. Så er afstanden også by.
+
+49:17
+Så så når vi så herud og så her i.
+
+49:24
+Altså når vinklen er tre ppi halve, altså når vi kommer ned her til, så skal dette stykke være tre halve.
+
+49:32
+Så det betyder altså i praksis hermed har vi altså minus tre halve og så krummerne så her.
+
+49:43
+Og jeg skulle jo have startet her inden fra nul. Den starter her fra nul, og så kører den sådan her.
+
+49:50
+Op igennem Pi har 11. Her helt igennem minus pi og så hermed igennem minus py halve, og så hiver hende den ud i to ppi.
+
+50:00
+Og sådan fortsætter den så det er en spiral. Lad os prøve at finde et parameter fremstilling for denne her kurve.
+
+50:20
+Så skal se hvordan vi kan gøre det. Nu skal jeg se. Hvis jeg nu tegner en linje.
+
+50:31
+Opéra. Hvor argumentet er u.
+
+50:41
+Så ska, så ska absolut værdien den der.
+
+50:45
+Den skal også være u. Altså det stykke der ligger her derude som vinklen.
+
+50:54
+Argumentet er u og absolut værdien af U for det punkt, der ligger her.
+
+51:02
+Men det betyder, at det punkt der ligger her. Det må her koordinat sættet u cosinus til u og u sinus to.
+
+51:15
+Så det er altså kort at sættet fra det punkt der ligger her, så du vil altså se sådan en spiral, som jeg har liggende her.
+
+51:28
+Den har parameter fremstillingen. At R er U den er lig med u.
+
+51:43
+Knusende so. U sinus to.
+
+51:53
+Opera kan sige at udgå fra hvad skal vi sige fra navlen og til fem pip?
+
+52:00
+For eksempel. Når vi snakker om parameter kurs over for en meget oplagt fortolkning af en parameter kurve,
+
+52:15
+det er, at det er en partikel der bevæger sig, så I kan bare kigge på det her som en flot figur.
+
+52:23
+Men I kan også forestille jer det her som en bevægelse.
+
+52:26
+Altså partiklerne starter her, og så kører den rundt her, og hvis vi bruger den fortolkning, så er U.
+
+52:37
+Det er tiden, der går. Borg er er U det er stedet hvor partiklen den befinder sig.
+
+53:02
+Se nu betragter vi. Funktionen f a ex komma y, som er en minus en halv ex i hjernen minus en halv y.
+
+53:18
+Anden. Det er en funktion af to variable, og den er defineret af dens definition.
+
+53:31
+Definitionsmængde hele x byggeplan. Den har ingen problemer med, at vi ikke kan regne den ud.
+
+53:40
+Det vi nu gør, er, at nu kigger vi på f's restriktion til kog.
+
+53:48
+Nu interesserer vi os kun for Epps funktions værdi på de punkter, der ligger her.
+
+54:04
+Det minder lidt om det vi lavede der ville, da vi indførte det partielle afledede.
+
+54:09
+Altså når man har en funktion af to variable, så har man sommetider mulighed for at gøre det til en funktioner.
+
+54:15
+En variabel Orbiter betragter F til attraktionen, altså Efrons traktion til kurven K.
+
+54:24
+Hvor ser vi skriver restriktioner?
+
+54:36
+Af funktionen F til kommunen K.
+
+54:46
+Det bliver en funktion af en variabel, nemlig H. U.
+
+54:52
+Kan vi kalde det. Det bliver nemlig en.
+
+54:59
+Taget på parameter kuren. Se i stedet hvor f.
+
+55:05
+Eks kommer Y, så siger vi i stedet for bliver kun taget på.
+
+55:10
+Er u kurven. Så hvordan kan vi regne det ud?
+
+55:24
+Ja, vi var nødt til at bruge den regner forskrift, som vi har stående her.
+
+55:29
+Og den starter med en. Den skal vi under alle omstændigheder have med. Så der står en minus.
+
+55:37
+Og så har vi en konstant bedre end Helle. I stedet for X.
+
+55:44
+Vi kan jo ikke bruge alle eksterne.
+
+55:46
+Vi må kun bruge det ekstra, der har den her første koordinat, fordi så det er en af betingelserne for, at vi bliver på kurven.
+
+55:54
+Så bliver nu bliver der så ud gange cosinus til u i anden.
+
+56:00
+Og så bliver det minus en halv og så på samme måde. Byde skal erstattes af den fyr, der står der.
+
+56:12
+Sinus til u. I anden kamp. Og så får vi en.
+
+56:23
+Nu skal vi, regner vi lige det her ud. Det bliver jo så til.
+
+56:27
+I Anden Kuznets i anden 2.
+
+56:32
+Dette bliver også til uge i anden, og så bliver der sinus hjerne.
+
+56:36
+2. Så det er altså noget med kaos i hjernen. Og det er noget med sinus til Jane.
+
+56:44
+Da kan vi bruge idiot Grækenland, så den kommer ind i en mellemregning, som jeg altså springer over, fordi så bliver det til en.
+
+56:55
+Hell. I anden. Kan I.
+
+57:04
+Det blev til en funktion af en variabel.
+
+57:14
+Og det er højst funktionen vi har fundet her frem, fordi den funktion her fortæller mig hele tiden, når jeg er på et givet sted her.
+
+57:29
+Så har den jo givet mig funktionens værdien, det vil jeg sige. Jeg tænkte på at sætte hak, som går altså ud herfra og så hård af det tal.
+
+57:39
+Op sætter aksen. Så det vil altså sige den funktion, at den måler hele tiden.
+
+57:45
+Hvor højt er der op til grafen derfra? Derfra, derfra osv.
+
+58:02
+Så hårdt mærket af denne er jo nemt at finde. Det bliver jo bare simpelt hen, når vi differentierer den.
+
+58:09
+Så bliver det minus. Så det er meget nemt at differentiere den er der højde funktion, når vi kan nå op i alstahaug?
+
+58:20
+Når vi har fundet ud af. Når vi har fundet ud af, regner forskriften.
+
+58:30
+Nogle gange kan man ikke finde et udtryk for, for for at regne får skriften,
+
+58:36
+ligesom jeg gjorde det ud fra de oplysninger, der er i opgaven, så bruger man kæde reglerne.
+
+58:46
+Som siger at H. Mærke i O. Det er er de enten taget i F.
+
+58:54
+Er er der ud og gange er differentieret i.
+
+59:01
+Så det er altså de to måder der er at finde ud af den dér vækst.
+
+59:05
+Hastigheden i sætter aksens retning. Og i en opgave, da skal I prøve at bruge begge de to metoder, så må jeg altså lige prøve at finde ud af.
+
+59:18
+Altså hvordan kan I bruge det udtryk, der står her? Kæder i den langs kure hedder den.
+
+59:28
+Og så verificere at det er faktisk det samme der kom ud af det, og jeg vil altså lige tillade mig.
+
+59:34
+Jeg tror lige jeg kan nå at vise illustrationen af det sidste eksempel.
+
+59:39
+Den har jeg lige på en Dimmu her. Og kan måske se.
+
+1:00:04
+Fik jeg aktiveret den der. Den inviterer ingen heller ikke og til.
+
+1:00:12
+Så det var altså den parameter fremstilling vi fandt frem til for spiraler den.
+
+1:00:21
+Og dette er bare et eksempel på, at så skulle der mærkeligt ud.
+
+1:00:39
+Og her så jeg i pebernød her. Men er jeg så jeg er nødt til at skynde mig lidt, fordi jeg har ikke ret meget power på min computer.
+
+1:00:50
+Men det har jeg altså spiralen, som den ligger nede i. Jeg ikke sygeplejen, og nu prøver vi at løfte kurven.
+
+1:01:05
+Det har i funktioner to variabel. Hvis vi tegner den for sig selv, så kan vi se det er en smuk.
+
+1:01:11
+Pablo Yder. Der blev sagt nej, ikke smuk og kølig hård funktionen.
+
+1:01:23
+Det er den sammensatte funktion af efor er, og som ligesom vi fandt den før her, jo ikke.
+
+1:01:31
+Og så kan vi jo nu finder parameter.
+
+1:01:35
+Fremstillingen for den løftede kurve fik jeg skrevet den, for ellers ville jeg ellers lige gøre det,
+
+1:01:43
+fordi fastere parameter fremstillingen for den løftede kurve.
+
+1:02:02
+Og så er det ikke genialt første koordinaten for den løftede kode.
+
+1:02:06
+Det er den samme som den vi havde jeg byplanen. Det er også den samme som den vi havde.
+
+1:02:11
+Jeg byplanen. Og så kommer altså højde funktionen. Når vi lægger højden til, så betyder det jo lige præcis, at de to koordinater her.
+
+1:02:22
+Dem får vi løftet op på på på fladen, og det vil jeg rigtig gerne have vist dér.
+
+1:02:30
+Men nu tror jeg, at den muligvis er gået død, og det er den.
+
+1:02:35
+Men hvad? Folk der har overgået sig selv vi.
+
+1:02:53
+Vi har sådan en spiral, der ligger hernede i Irak vækstplanen. Og hvis vi lægger dens højde på hele tiden, så får vi så i stedet for en spiral.
+
+1:03:08
+Som ligger oppe på floden sådan her går også, så bliver altså producere den oppe på flade ikke.
+
+1:03:16
+Og det som jeg så gerne vil have, at I gør, når I går over til øvelserne går ind og kig på den Mabel demo.
+
+1:03:22
+Jeg lægger den ind på fritstillingen delingen under skema A, og så forestil jer, at I kører af en bobslæde.
+
+1:03:31
+Ned er den der, og det vil vi kunne se i døren.
+
+1:03:36
+Animation, hvor I vil kunne se, hvordan bobslæden kører ned og så.
+
+1:03:40
+Og så kan jeg altså udregne, hvor stor er faldet hastigheden til ethvert tidspunkt ved hjælp af hår mærke det er du så gå ind og kigge på dem.
+
+1:03:50
+Tak for nu. Og god fornøjelse. Da kaptajnen for tredje.

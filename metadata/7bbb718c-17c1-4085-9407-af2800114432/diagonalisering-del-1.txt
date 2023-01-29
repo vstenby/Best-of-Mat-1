@@ -1,0 +1,890 @@
+0:05
+Sidste gang fik vi indført egenværdier egne vektorer, og det gjorde vi sådan lidt eksperimentelt.
+
+0:13
+Vi prøvede det ene og det andet og det ufarbare og alt muligt.
+
+0:18
+Altså i dag, der skal vi have det. Der skal vi have det meget mere på plads, så programmet er sådan set relativt teoretisk betonet.
+
+0:28
+Men vi får også lejlighed til at kigge på en hel masse eksempler, så der er alligevel lidt for enhver smag og det vi så også gør i dag.
+
+0:39
+Altså nu skærer vi ind til benet, kigger på lige præcis det, der er nødvendigt.
+
+0:45
+Og det håber jeg, I er med på.
+
+0:48
+Og det vil sige, at nu kigger vi specielt på matricer, så lad os lige se, hvordan regnvejr problemet ser ud for matricer.
+
+1:03
+Så jeg kigger altså på egenværdi. Problemet. For en en kryds, en Matrix A og det problem vi studerede er findes der et tal lambda.
+
+1:32
+Og en igen lidt vægter.
+
+1:43
+Ved. Således at.
+
+1:53
+Matrix Vector produktet A og V.
+
+1:59
+Det er Lambda gange ved. Det er det spørgsmål vi stiller os.
+
+2:09
+Og det er altså igen det der med, hvor vi kan sige, at V er proportional med sig selv.
+
+2:18
+Og så siger vi Hvis vi har et ja til det spørgsmål, så er Lambda en egenværdi.
+
+2:37
+Og ve en tilhørende vector.
+
+2:51
+Og så kan vi sige så har vi sådan set løst egenværdi problemet i dette tilfælde her, hvis vi altså kan sige ja til det her spørgsmål.
+
+2:59
+Og så siger vi så en lambda.
+
+3:08
+Betegner underrum med.
+
+3:17
+Egenværdier. Maj egne lektorer.
+
+3:30
+Der tilhører Lambda. Og når det er vigtigt at understrege det her, så er det selvfølgelig fordi, at tit,
+
+3:43
+så er vi sådan set tilfredse, hvis vi kan finde en egenvægt for tæt til en egenværdi.
+
+3:49
+Men det er altså rigtig vigtigt at huske, at hvis vi har en egenvægt, så så har vi uendelig mange egen vektorer,
+
+3:59
+og det er derfor, at vi understreger altså, at aymaraer med det er et underrum.
+
+4:05
+Der er rigtig mange. Spørgsmålet er kun hvilken dimension har det der underrum?
+
+4:11
+Er det et en dimensionelle uendelighed eller den dobbelte du endelighed, eller hvad er det?
+
+4:17
+Og derfor indfører vi begrebet. Det m.
+
+4:29
+Lamper er så den geometriske. Mod 10 pct.
+
+4:45
+Sådan er dimensionen.
+
+4:53
+At det ingen rum da hører til den der givne egenværdi.
+
+5:03
+Og så er jeg altså plejer at sige her er, at det er en egenværdi deen konge over et kæmpe rige af egne lektorer.
+
+5:13
+Og spørgsmålet er bare om dette rige, om det er en dimension af to dimensioner.
+
+5:17
+Eller hvad der? Godt 10.
+
+5:33
+Og nu kommer jeg så til en definition. Hvis der findes.
+
+5:50
+En regulær matrix ved. Og en diagonal matrix lambda.
+
+6:14
+Der opfylder. At den inverse Matrix TV gange med A gange med V er lig med Lambda matricen.
+
+6:43
+Altså hvis det er tilfældet at vi kan finde sådan en matrix og sådan en matrix, så denne ligning er opfyldt, så siger man.
+
+6:57
+At A. Kan diagonal i seeres.
+
+7:11
+Ved muler og transformation. Så den her ligning.
+
+7:41
+Har I sådan set allerede mange gange i en anden sammenhæng?
+
+7:45
+Det kommer jeg tilbage til senere.
+
+7:47
+Men i øvrigt er det altså en rigtig, rigtig kendt ligning, og jeg er sikker på, at den vi snart kom til at kende og holdt meget af og den gang.
+
+8:02
+Jeg kan også afsløre, at den kommer i den næste aflevering sendte.
+
+8:10
+Så altså hvis de har en impuls, en matrix, en V matrix og en lampe matrix,
+
+8:15
+der opfylder denne relation, så kan A altså diagonal i Ceres A kan realiseres.
+
+8:25
+Og resten af forelæsningen vil jeg kort sige den kan diagonal seeres.
+
+8:32
+Forklaringen på hvorfor det hedder en simuleringer transformation.
+
+8:37
+Det kommer vi til, når vi skal snakke om timelærere matricer.
+
+8:42
+Det er fordi det her er en meget brugt teknisk anvendelse af cirkulære placering, men der findes også andre.
+
+8:51
+Der findes også noget, der hedder Diagonal i serien ved S. Hvad er det hedder SvD, cinco eller vandhjul.
+
+8:59
+Det er komposition. Så er der altså nogle forskellige nogen, og det her er altså similar transformation.
+
+9:07
+Godt. Så skal vi have en sætning.
+
+9:21
+Og den siger. A kan de kanaliseres.
+
+9:36
+Hvis og kun hvis. Den har en lineært uafhængige.
+
+10:02
+Egne lektorer. Så det er bare en sej og vigtig sætning, som vi har her.
+
+10:16
+Og når den er så vigtig, så bør vi bevise den, og da er et, synes jeg rimelig elegant beviser,
+
+10:30
+der sådan set kun kræver, at vi husker, hvad er et Matrix Matrix produkt og hvad Matrix vægter product.
+
+10:40
+Og kan ikke se nu beviser vi den. Og så ser vi.
+
+10:55
+Starter vi her A kan realiseres.
+
+11:07
+Det er ensbetydende med, at der findes en regulær matrix ved.
+
+11:23
+Og den kan vi så skrive som nogle søjler her søjle vektorer.
+
+11:31
+Ved et op til ved 1. Det skal jo være en impuls en matrix, for ellers skal vi ikke lave de her med et seks Matrix produkter.
+
+11:39
+Der findes altså sådan en regulær vind og en diagonal matrix.
+
+11:53
+Lambda. Med diagonal elementerne.
+
+12:08
+Lam, der er et lam der 2. Og da DR 1, da DR 1 indefryse indmad, så måtte være en diagonale elementer.
+
+12:27
+Således at V i minus første.
+
+12:36
+A. Ved. Animal lamper.
+
+12:49
+Så hvor langt er jeg i beviset? Jeg er sådan set ikke længere end en definition bliver indført her hende.
+
+12:56
+Det er jo dette at dette betyder, at den kan kunne realiseres. Nu går vi et skridt videre.
+
+13:07
+Se den ligning her. Der står her den vælger jeg nu at gange I kan huske dem, man kan gang fra Venstremand en gang for højere.
+
+13:16
+Nu vælger at gange fra Venstre med v matricen.
+
+13:22
+Og når jeg ganger Veyhe med dens inverse, så forsvinder den.
+
+13:26
+Den bliver lige mat eneste matricen og behøver ikke at skrive den. Og så står der altså at a ved at lege med.
+
+13:38
+Og så skal jeg selvfølgelig også Skarð her fra venstre på den anden side af lighedstegnet, og så får jeg så ved, og så har jeg lambda så endda.
+
+13:54
+Og så er det nu vi skal huske hvad er det nu? Hvordan er det et Matrix Matrix produkt er?
+
+14:01
+Se, her har jeg jo min v matrix. Når jeg skal garnet den med A, betyder det, at jeg skal gange a 1 på hver af de søjler, der står her.
+
+14:14
+Så der får jeg så. A ved et.
+
+14:21
+Det er en ny søjle. A v2.
+
+14:29
+Og så har vi her. A v en.
+
+14:38
+Så det produkt her blev altså til dag til den maltraktere, der har de søjler her.
+
+14:43
+Når jeg ganger af med en søjle væg, så bliver det til en søjle.
+
+14:46
+Så står der altså det her. Og så kommer pointen her.
+
+14:55
+Når jeg ganger en matrix sammen med en diagonal matrix af den type her, så bliver det dyrere at lig med lambda et ved et.
+
+15:10
+Det er den første søjle lambda 2.
+
+15:15
+Ved 2. Det er den anden og så ind til Lambda m og ved en.
+
+15:28
+Og inden jeg kommenterer på det her, så er det måske nogle af jer der siger jeg.
+
+15:34
+Men hvorfor er det egentlig på den måde?
+
+15:36
+Lad os lige kigge på et hurtigt eksempel, som jeg tror, jeg kan bruge til at overbevise om, at det er en rigtig måde at skrive det op på.
+
+15:57
+Så nu har jeg et lille eksempel her. Jeg ganger en vægtere med en bøjle, jeg ganger en matrix med en diagonal matrix.
+
+16:07
+Hvordan gør man det? Det gør man ved at gange matricen ind på hver af de søjler, der står der.
+
+16:16
+Så det er altså. En, to, tre, fire gange med den første søjle, som var lam da et nul.
+
+16:29
+Og så matricen igen. Og så ganget med den anden søjle som var nul over lam da.
+
+16:46
+Det var det med Matrix produkt betød. Hvad betyder så matrix svigter product.
+
+16:54
+Jo, det betyder jo. Det øverste element ganget med den første søjle plus den nedre del af, men ganget med den anden søjle.
+
+17:05
+Og så får vi altså her. Lam er et.
+
+17:12
+Gange en over tre. Og så fuldstændig giver jo bare nul, fordi der står at men der.
+
+17:21
+Og så det andet her. Nålen. Gange med den første søjle for slam, der to gange med den anden søjle.
+
+17:30
+Det første produkt bliver selvfølgelig bare nul, og så får vi altså lammet der to gange med to over fire.
+
+17:43
+Så der kan jeg altså se ideen er speciel, når vi laver et matrix produkt af en almindelig matrix og en diagonal med et,
+
+17:51
+så det bliver det første diagonal element gange den første søjle og det andet diagonal element gange med den anden søjle.
+
+17:59
+Så det vil altså sige, at det produkt, jeg lavede her.
+
+18:04
+Det kan jeg så skrive ud på den måde her. Men pas nu se, så betyder det her jo lige præcis, at det der står her, er identisk med det der står her.
+
+18:19
+Så regn med de problemer med løst. Fordi jeg har jo fundet en vægt, så ved et og et tal lambda et sådan at vi har proportionalitet forhold her.
+
+18:32
+Her er regn med problemløst en gang to barnet.
+
+18:37
+Tre gange enden gange har vi løst det.
+
+18:41
+Så det vil altså sige, at vi har konkluderet, at hvis A kan diagonal se os, så kan jeg løse det her problem indgange.
+
+18:57
+Så er altså vi i. En egenvægt vægter.
+
+19:09
+Der hører. Til egen værdien Lambda I.
+
+19:25
+Når indekset i det løber fra 1 og til 1.
+
+19:37
+Så nu står der jo i sætningen, at det her gælder hvis og kun hvis det betyder.
+
+19:43
+Nu har jeg bevist den ene vej. Altså at hvis a den kan diagonal i seeres, så har den ende lineært uafhængige egne vektorer.
+
+19:55
+At de er uafhængige. Det skyldes jo, at den er regulær, så tingene er helt i orden fra deres side.
+
+20:05
+Men nu kan vi jo bare begynde bagfra og sige hvis vi nu har en lineært uafhængige egn vektorer.
+
+20:15
+Jamen så kan jeg skrive det her op. Og så kan jeg gå baglæns og regne det ud.
+
+20:23
+Her farer der kan jo så gange med v minus først på begge sider, så er jeg her.
+
+20:30
+Og så har jeg jo i de ifølge definitionen diagonalt siddet. Så med andre ord.
+
+20:35
+Denne her fundamentale sætning nu er den bevidst. Og så har vi foreløbig teorien parat til det, vi nu skal i gang med.
+
+20:49
+For nu skal vi nemlig i gang med at kigge på fem eksempler.
+
+21:12
+Man får lige den, står og varmer lidt op, og jeg skal måske også lige indstille lidt på den her.
+
+21:27
+Kan I se det er ok. Så det ser jo helt tilforladeligt ud.
+
+21:33
+Her er der fire tre cool street matricer. Det er svært at se, at der skulle være noget som helst forskelligt ved dem.
+
+21:41
+Der er lidt nulre rundt omkring pærerne. Tal 1 2, 3 4, men de er vidt forskellige.
+
+21:48
+Deres hemmeligheder er skjult. Nu skal vi simpelt hen har kikkerten mere mave kikkert ned i dem og se, hvad har de af?
+
+21:58
+Egenværdier. Hvor mange har de, og den slags ting kan realiseres, så det er det, vi går i gang med nu.
+
+22:19
+Så nu betragter vi A og der tager jeg den.
+
+22:25
+Jeg starter med er nummer tre for Rogen der. Og vi har en tre og nul.
+
+22:39
+Og så har vi 1, 0, 0 og 2. Det var faktisk den jeg analyserede sidste gang.
+
+22:50
+Nu tager vi den op i en lidt anden sammenhæng, men jeg vil tillade mig at opskrive de resultater,
+
+22:57
+vi nåede frem til sidste gang, så vi ikke behøver at stå og lave det. Da fandt vi nemlig ud af at A.
+
+23:22
+Parrer to egenværdier. Nemlig lam da et.
+
+23:34
+Den var tilfældigvis lig med en. Og så havde vi.
+
+23:44
+Et egenvægt tomrum. Som var en dimensionalt.
+
+23:52
+Og som var udspændt af vægteren 1,1 1,0.
+
+24:07
+Og vi har altså at den biometriske multiple sitet alarm, der evt.
+
+24:15
+Den var så en. Og så havde vi den anden egenværdi som var 2.
+
+24:30
+Og dens egne valg var udspændt. Af to vektorer, hvor den ene er en halv 1 og nul.
+
+24:46
+Og den anden var nul komma nul komma in.
+
+24:58
+Så er der to egenværdier med de her egne rum.
+
+25:02
+Jeg har skrevet op her. Se, vi kigger nu på egne vektorer, for det er jo det jeg interesseret i i dag.
+
+25:14
+Hvor mange lineært uafhængige er der? Kan vi diagonal i seer?
+
+25:19
+Kan jeg bruge den sætning her? Nu er vi jo i tre kryds tre.
+
+25:24
+Jeg har brug for tre lineært uafhængige egne vektorer.
+
+25:28
+Hvis det findes, så kan den realiseres. Og vi kan lige kigge på.
+
+25:37
+Altså der er nogle kandidater her. Der var den der udspændt det første nøgen rum.
+
+25:45
+Der er den der udspænder den anden eller de to der udspænder, er tilsammen den andens egen rum her.
+
+25:55
+Og spørgsmålet er nu okay. Er de tre døre så lineært uafhængige?
+
+26:05
+Og det kunne jeg sagtens finde ud af. Så skulle jeg jo stille dem op i en søjle i Gerster, og så skal der være fuld fart.
+
+26:11
+Jeg kan tage et determinanten. Den skal være forskellig fra nul. Men det er lidt træls.
+
+26:16
+Så skulle det hver gang, og derfor så lad os lige kigge på.
+
+26:24
+Altså lige kik på en øvelse, som var på dagsordenen på store dag, altså i tirsdags.
+
+26:32
+Jeg ved ikke, hvor mange af jer, der nåede at få regnet den. Den lå lidt nede i programmet.
+
+26:36
+Der var sikkert nok at lave den dag. Det kan være nogle af jer, der har løst den, efter de kom hjem.
+
+26:51
+Er det rigtigt? Det. Se også Sker det i denne her?
+
+27:19
+Ja, så skal vi se jer. Vi går hermed til den der hedder teori opgave.
+
+27:30
+Nej, faktisk ikke at tænke på. Vi ser hvad var det så?
+
+27:37
+Den unge. Se, vi kigger på to forskellige egenværdier lamper lambda to, og det er dem man bliver spurgt om her.
+
+27:54
+Det er, at man skal vise, at hvis det er tilfældet. At vi altså har to egenværdier og vi kigger på en egenvægt, så der hører til hver af dem.
+
+28:12
+Så er det line er du afhængig. Vi har ikke tid til bevidst nu, men der er måske nogle af jer, der har kørt det igennem.
+
+28:21
+Men det er altså en rigtig vigtig konklusion her. Det betyder, at en glider egenvægt ture, der hører til forskellige egenværdier.
+
+28:31
+De er altid lineært uafhængige. Altså hvis du tager én, er du.
+
+28:38
+Du kigger lidt, kan jeg godt se. Jeg siger Har du to forskellige egne rum?
+
+28:44
+Du snupper en egenvægt til ud fra det ene. Du snupper et egenvægt ud for den anden, så er det lineært uafhængige.
+
+28:51
+Er det ikke fantastisk? Tak! Ideen.
+
+29:07
+Så når vi kigger på dér hvor vi var nået frem til. Så kan jeg i hvert fald sige, at.
+
+29:18
+Den dør. Og den er en del.
+
+29:22
+Det er sådan set nemt at se, at det er lineært uafhængige,
+
+29:25
+men der behøver overhovedet ikke at tænke over det, for de kommer fra to forskellige egne rum.
+
+29:30
+De er lineært uafhængige dem, og den er også lineært uafhængigt.
+
+29:38
+Og det kan man udvide. Altså da jo så den vigtige hjælpe sætning i en orden, der hedder 9,9.
+
+29:45
+Den viser lige præcis, at hvis man har mellem forskellige egne rum fra hver af de øjen rum, tager man ikke kun én, som jeg sagde før.
+
+29:58
+Men man tager et lineært, uafhængigt sæt fra det ene, et lineært, uafhængigt sæt fra det andet og så videre og sætter de sæt sammen til et nyt sæt.
+
+30:11
+Så vil de være lineært uafhængige. Så det er altså en specialitet ved lineær, altså ved ved lineær uafhængighed i forskellige egne.
+
+30:26
+Og det betyder nu kager for at finde mere om min sætning her.
+
+30:30
+Den sætning vi havde her. For det betyder, at det eneste jeg skal være sikker på det er, at summen af de geometriske multiplicere teater er lig med 1.
+
+30:58
+Så kan den diagonal i seeres. Det er endvidere en videreførelse af den sætning, men med et yderligere raffinement, så A kan diagonal i seeres.
+
+31:20
+Hvis og kun hvis. Summen af de geometriske.
+
+31:35
+Multiplex citerer. Er en.
+
+31:52
+For hvis summen af de geometriske mod til bedst fysisk set er vi stiger ind.
+
+31:58
+Jamen så betyder det lige præcis at så kan jeg fange. M lineært uafhængige egne vektorer.
+
+32:06
+Jeg går bare til det ene øje rum. Hvis det er to dimensionalt, så snupper jeg to ud.
+
+32:14
+Og så i det her tilfælde. Vi er i gang med her. Så var der også et et dimensionalt, der tager jeg nu ud, sætter dem sammen.
+
+32:22
+Så er det lineært uafhængigt, og så er sætningen et gennemført.
+
+32:27
+Så det her er altså et fint raffinement. Det er simpelt hen betingelsen.
+
+32:33
+Vi finder de geometriske multiple sitet og lægger dem sammen.
+
+32:38
+Hvis det er inden, så kan den diagonal i seeres. Hvis det ikke er M, så er der ikke nok.
+
+32:42
+Så kan den ikke diagonal seeres. Så nu går jeg det her.
+
+32:56
+Jeg kommer hen ad vejen med nogle generelle input, men nu skal vi så have konkluderede på den.
+
+33:02
+Det første eksempel her en. Vi ser at.
+
+33:17
+G m et plus g, m.
+
+33:21
+2 er lig med tre. A kan diagonal i seeres.
+
+33:39
+Og hvordan kommer? Hvordan kommer den lille her så til at se ud?
+
+33:48
+Det er jo det, det handler om. Som nu skal jeg have fat i min v matrix.
+
+33:56
+Og ved matricen. Det fremgår også det bevidste vi har lavet ved matricen, ved lige præcis hvad de tre vektorer, der står der.
+
+34:06
+Så nu kan jeg altså skrive. En 1 0.
+
+34:12
+Og en hale ind og noget. Og så kan vi skrive nul, nul og en.
+
+34:23
+Den er regulær. Den har en enhvers matrix. Gange med a matricen.
+
+34:32
+Det er den givende matrix som står her. Og så gange med igen den er 1 1, 0 1.
+
+34:43
+1 0, 0, 0 og 1.
+
+34:49
+Dette produkt af de tre matricer her.
+
+34:54
+Det giver matricen, hvor vi altså har. Og nu skal jeg have en diagonal matrix, og nu skal tingene hænge sammen.
+
+35:03
+Det her var jo en egenvægt, så. Og så skal jeg have fat i den egenværdi, som hører til denne her egen digter, og det var jo egenværdier 1.
+
+35:18
+Den står dér. Dér er egenværdi 1. Det er den egenvægt, der hører til den.
+
+35:30
+Og så kigger vi på dem her. Hvor hørte dem hjemme?
+
+35:35
+Ja, den var jo i egen rummet til egen værdien. 2. Sådan en kræver et totalt den vægt der står her.
+
+35:49
+Det var den, den hørte også til egenværdi 1. 2. Så nu har vi altså udføre diagonale I ser ingen af den matrix, vi har betragtet her.
+
+36:55
+Og nu vælger at gå videre med denne her.
+
+37:00
+Og nu tager vi den helt forfra, sådan som standard proceduren er, når vi skal finde egenværdier egen vektorer.
+
+37:17
+Og det er altså den underste der står der over. Den hedder nålen fire år nul minus 1, 5 og nul og nul sol og to.
+
+37:35
+Og jeg vil altså finde samtlige egenværdier med tilhørende egne lektorer.
+
+37:43
+Det man starter med, det er jo det karakteristiske polynomium.
+
+38:02
+Og mærkeligt nok, så er det jo altså en terminalt. Og det er nemlig et determinanten.
+
+38:14
+Er vægteren undskyld matricen. B minus lambda gange med enheds matricen.
+
+38:29
+Hvad ligger der egentlig i det her udtryk? I praksis betyder det bare, at jeg skal trække lamper fra i diagonalen.
+
+38:39
+Og så får jeg minus lamper minus 1 og nul.
+
+38:46
+Og så har jeg fire. Og så har jeg fem minus lamper.
+
+38:52
+Og så har jeg to. Og så har jeg nået nul, og så har jeg to minus lambda.
+
+39:07
+Og jeg skal jo skrive her foran. Det er det jeg er i gang med.
+
+39:11
+Det er jo at udregne en determinanten.
+
+39:17
+Fordi når vi udregner den determinanten, så vil vi se, at det bliver til et tredje grads polynomium i Lambda, fordi bind tre cruys tre matrix.
+
+39:27
+Det fører til et tredjegrads polynomium. Men hvordan gør vi?
+
+39:34
+Jeg oplevede støj efter nederste række. Det vil sige, at jeg har fat i elementet 2 minus lamper.
+
+39:48
+Kun. Så skal jeg se bort fra den søjler og den søjle.
+
+39:53
+Og så hedder det så gange med minus lambda gange med 5 minus lamper.
+
+40:04
+Og så. Plus fire bliver det. Og så ser vi så lige på hvad får vi ud af det her?
+
+40:20
+Vi får Lambda i anden, og så bliver det minus fem lamper.
+
+40:29
+Og så bliver det pludselig. Jeg har altså et første grads polynomium og et andet kraftfuldt.
+
+40:35
+Her er det jo nemt at se, at her vi har.
+
+40:40
+Vi har en rod, der hedder 1. Og vi har en rod, der hedder 4.
+
+40:46
+Så det kan altså skrives som 2 minus lamper.
+
+40:52
+Og så den første rod lambda minus en lambda minus den anden rod.
+
+41:16
+Og det er det vi siger i noten om polynomier.
+
+41:20
+Det betyder, at nu har vi skrevet det karakteristiske polynomium på fuldstændig sidder få.
+
+41:28
+Det er et tredjegrads polynomium, fordi det indeholder tre af de første græsland der.
+
+41:35
+Og den store fordel ved at have den på den autoriserede form her er jo, at jeg kan se, at der er rødderne 2.
+
+41:45
+1. Og 4. Og I kan se på den måde det er skrevet op eksponenten er jo første.
+
+42:08
+Altså her kan I læse, der står et og et og et uden der er skrevet så.
+
+42:22
+Så alle de tre rødder. De har så algebraisk multiple sitet en.
+
+42:39
+Og nu kan jeg faktisk godt sige allerede. Altså hvis vi har en egenværdi og den har en algebraisk multi boligsitet på 1, så må den også den kan.
+
+42:53
+Den geometriske multipliceret kan ikke være mindre end 1.
+
+42:57
+Det vil sige, at der må være en egenvægt til hver af de egenværdier og i følge det vi sagde før.
+
+43:04
+De tilhører forskellige egne rum, så de ligner. Er du afhængig?
+
+43:08
+Så vi kan faktisk godt allerede her konkludere, at den herover den kan diagonal i Ceres.
+
+43:39
+Men lad os lige prøve at finde så en en egnet med en egenvægt sig til hvert af disse egne værdier her.
+
+43:48
+Så nu vil jeg finde. Egen rummet der hører til egne vektoren en.
+
+44:04
+Så hvad er det jeg skal gøre? Det jeg gør nu er, at jeg skal kigge på den matrix, der hedder B minus.
+
+44:19
+Og nu har jeg fundet en gyldig den samme værdi. Det er nemlig en.
+
+44:30
+Hvilket i praksis betyder, at jeg skal trække et 1 tal fra i diagonalen og beholde de andre elementer, så den matrix der kommer ud af det.
+
+44:41
+Det er minus 1. Nu se, og det er noget.
+
+44:46
+Og så har vi fire år, og så har vi fire. Og så har vi 2.
+
+44:53
+Og så har vi 0 0. Og så har vi en.
+
+45:10
+Og så skal vi have lavet gaucho af den elimination. Og igen er det, jeg siger i dag, der skærer ind til benet.
+
+45:18
+Jeg laver Gaucho. Hvordan elimination, hvad I kan huske.
+
+45:22
+Jeg lavede et eksempel sidste gang, hvor jeg foldet ud, hvor det hele kommer fra.
+
+45:26
+Det er jeg sådan set er i gang med, nu da jeg løse et dining system.
+
+45:32
+Et hormon gennem et lignende system. Der burde jeg have en fjerde søjle med, som er rene noveller.
+
+45:38
+Men når man har gjort det mange gange, så bliver man klar over de noveller.
+
+45:43
+Behøver jeg ikke at tage med? Det gør jo ingen forskel på den elimination, jeg laver.
+
+45:48
+Alle radiGALE elimination, når jeg laver, betyder bare, at der bliver ved med at stå nul herude.
+
+45:53
+Jeg er gået ind til benet. Nu gør vi det så økonomisk som overhovedet muligt.
+
+45:58
+Så nu laver jeg altså alene. Dog selv en version på den, der står her.
+
+46:08
+Skal vi lige starte med at. Vi ganger den med fire og lægger til her.
+
+46:22
+Og så får jeg et to tal her. Gange med en hæl, så står der en der.
+
+46:30
+Bum bum bum. Jeg trækker den derfra hernede. Så står der 0 0 0.
+
+46:38
+Og hvad har vi så her oppe? Den ganger jeg med min New Zealand.
+
+46:43
+Så har vi 1, 1 og nul.
+
+46:53
+Og så er det jo nu. Nu skal jeg så fortolke, og det kan jeg godt blive ved med at øve jer i, når man først har fundet trappe formen.
+
+47:02
+Hvad er så konklusionen på det? Altså hvad er det for en løsning, jeg har fundet?
+
+47:07
+Og lad os se her. Hvordan kan man gøre det kort? Altså, vi kan jo se, at den første ubekendte er afhængig af den anden.
+
+47:20
+Den tredje af dem skal være nul. For husk der står nul og her henne.
+
+47:25
+Derfor står der X3 skal være lig med nul. Der står da ex.
+
+47:29
++6 2 +0 skal være lig med nul. Så det betyder at.
+
+47:35
+For egen rummet, der hører til den første egenværdi.
+
+47:45
+Den er udspændt af så får vi, så får vi i vægteren vektoren minus 1, 1 og 0.
+
+48:06
+Og så på samme måde med de efterfølgende. Der var.
+
+49:05
+Og så er det altså på nøjagtig samme måde som jeg nu har fundet det første regnum, vil jeg så finde de næste to egne rum her.
+
+49:14
+Og så ved jeg nu at dem væk der står dér, den tilhører en egenværdi.
+
+49:25
+Den tilhører en anden egenværdi. Den tilhører en tredje egenværdi.
+
+49:29
+Så er de tre vektorer lineært uafhængige.
+
+49:35
+Og vi kan også se det. Og så kan vi altså stå, kunne vi bruge. Så kunne vi bruge den første sætning.
+
+49:41
+Der findes tre lineært uafhængige egne vektorer.
+
+49:45
+Med andre ord kan den diagonal i se os, men jeg kunne også have benyttet den anden her.
+
+49:54
+Den geometriske multiple sitet er det første rejen rum.
+
+49:58
+Den er en den geometriske multipliceret, et andet er også er det tredje.
+
+50:04
+Det vil sige at summen. Altså altså at give EM.
+
+50:17
+I et plus g m et 2.
+
+50:21
+Nej. Sludder og vrøvl. Det var egenværdi 1 1 egenværdier 1 2 og den biometriske multiplex egenværdi 1 4 og lægger dem sammen.
+
+50:33
+Det er tre år, og nu kan vi så i se om matricen B, fordi vi kan altså så sige, at.
+
+50:49
+Nu skal være den diagonal i sædet, og så vil jeg godt lige gøre opmærksom på,
+
+50:53
+at vi har sådan set nogle valgmuligheder, fordi jeg skal have skrevet ind.
+
+50:59
+Jeg skal have valgt tre vektorer og se nu.
+
+51:04
+Nu vælger jeg tilfældigvis at tage denne først. Og så kan jeg tage det op.
+
+51:20
+Og så kan jeg tage den der. Og så har det altså den givende B matrix.
+
+51:37
+Også denne her har jeg inviteret. Skal der så bare stå det samme?
+
+52:01
+Og inden endelig får lov til at holde pause, så skal jeg hjælpe mig med at udfylde den matrix, der står der.
+
+52:11
+Og hvad skal der stå jer? Især hvis.
+
+52:17
+Hvad skal der stå her? Vis. Sådan så fik vi klarede den, og vi har fået diagonalen seere.
+
+52:31
+Den anden af de matricer vi har, vi kigger på her.
+
+52:35
+Vi tager en pause, og så kigger vi på de næste matricer.

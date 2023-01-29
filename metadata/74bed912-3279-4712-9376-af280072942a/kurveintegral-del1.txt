@@ -1,0 +1,797 @@
+0:09
+Selv så på hvordan. Så.
+
+0:24
+To. Det havde.
+
+1:13
+Men det er noget der koster.
+
+1:30
+Ja ja, det er vi så ikke rigtig fik snakket om sidste gang.
+
+1:38
+Det var hvorfor er jeg Jacobi funktionen som den er? Hvad er det den udtrykker?
+
+1:43
+Det håber jeg, vi kan få lidt mere styr på i dag, og det er også noget, vi fortsætter med næste gang, når vi skal snakke om flade integraler.
+
+1:52
+Vi fik heller ikke helt snakket om. Arealer af er plane områder.
+
+1:59
+Altså det forhold, at når vi skal beregne et areal, så kan vi bare betragte den masse tæthed funktion der hedder en.
+
+2:09
+Og når vi så udregner den en masse, ja så svarer det til at jeg.
+
+2:16
+Hvordan kan det nu være? Okay, hvis vi nu siger masse tæthed funktionen betyder gram per kvadratcentimeter.
+
+2:25
+Og masse til at hedde funktionen er en. Så betyder det jeg et gram betyder en centimeter.
+
+2:33
+Så det vil sige, at når Messi tætheden den er en som kan måle arealet ved at veje området, så er altså ideen i, at vi får et tal et der.
+
+2:48
+Men det vi skal snakke om i dag er jo cool integraler.
+
+2:54
+Og der skal vi så fortsætte lidt med at snakke om Papa med et friseret cover.
+
+2:59
+Det har vi været inde på før både før jul. Også når vi har brug for det hen ad vejen.
+
+3:05
+Vi uddyber det lidt mere i dag med nogle eksempler. F.eks.
+
+3:10
+Også med kobber givet i polære koordinater, og der vil vi også se lidt på områder givet i polære koordinater.
+
+3:20
+Og så skal vi jo ellers har indført differentiable koder, og vi skal se, hvordan vi kan udregne.
+
+3:29
+Massen af en vilkårlig kugle i rummet eller planen husker I sidste gang, da vejede vi en stang, det vil sige altså en ret linjestykke.
+
+3:43
+Og nu vil vi så se i dag, hvordan en vilkårlig kurve da er placeret i rummet, når vi skal i den.
+
+3:50
+Så kan vi overføre det til en problemstilling, ligesom den vi så sidste gang.
+
+3:55
+Et ganske almindeligt integral langs en ret linje, så det er kunststykket i dag, og det er der ud af, at vi vil se, hvordan jeg funktionen springer.
+
+4:07
+Jeg får på et tidspunkt brug for en pointe.
+
+4:14
+Sammensat funktion som i nok nogenlunde har set det i gymnasiet.
+
+4:20
+Sige at vi altså her har tre reelle områder.
+
+4:25
+Først er der givet en funktion, er der virker på det første område og afbilleder herhen, og så er en funktion f, der afbilleder herfra og her hen til.
+
+4:36
+Så har vi altså her en. En funktions værdi.
+
+4:42
+R er u. Og så virker F altså på det område.
+
+4:47
+Her vil det sige, at den værdi vi får her hen.
+
+4:54
+Kan vi bare skrive som f, r er r, u.
+
+5:00
+Se det er sådan en two step synsvinkel på en sammensat funktion.
+
+5:05
+Men nu kan jeg så også vælge at sige. At jeg betragter det som en funktion.
+
+5:19
+Som jeg kalder for EF bolde er. Og det er altså et udtryk for, at sammensætningen af de to funktioner jeg har her, så det er det, der ligger i det.
+
+5:31
+Når jeg siger f bolle, er funktionerne taget i tallet af U.
+
+5:42
+Det er lige det samme tal, som når jeg tager F.
+
+5:47
+I tallet er r u. Så det er klart det er det samme punkt vi når frem til.
+
+5:54
+Her. Men det er to forskellige betragtningsmåde, en to step og en indslæbt betragtningsmåde.
+
+6:02
+Det var lige en indskudt bemærkning. Men vi skal tale om par med takserede kure og den aller enkleste.
+
+6:15
+Det er jo, som vi også snakket lidt om sidste gang.
+
+6:17
+Den rette linje, og den er vi jo glade for, fordi vi meget ofte kan bruge den til parametre, siger Inger.
+
+6:25
+Så prøv igen eksempel en.
+
+6:33
+To punkter. I planen eller i rummet.
+
+6:46
+Vi betragter en ret linje der går igennem dem. Og så har vi altså en parameter fremstilling givet ved.
+
+6:57
+Begyndelse. Punktet plus en parameter gange a b vægter.
+
+7:05
+Og hvis vi nu siger. U tilhører er.
+
+7:14
+Så får vi. Hele linjen gennemløb med den retning der.
+
+7:26
+Skriver jeg. U er fra nul til en.
+
+7:32
+Så få er lige præcis. Linje stykket a b repræsenteret.
+
+7:45
+Og det er jo det vi bruger til at par interesserer områder med vi så forskellige eksempler.
+
+7:55
+Sidste gang. Og lad os lige kigge på et nyt eksempel.
+
+8:17
+Nemlig den figur jeg har tegnet her. Og her har en 2.
+
+8:27
+En, to, tre og jeg så set den linje.
+
+8:32
+Det er den bedre. Y er lig med 2 minus ex.
+
+8:43
+Og hvis jeg nu gerne vil parameter ser det område der ligger her.
+
+8:47
+Så kan vi jo gøre det via rette linje stykker. Og.
+
+8:53
+Se hvis jeg nu valgte mit up her. Og så frem interesserede den lodrette linje, da der lå opdagere.
+
+9:01
+Så ville det jo gå fint, lige indtil jeg kom her hen til der skulle jeg hele tiden betragte Y imellem et og to.
+
+9:10
+Men når jeg kom herhen, så ville jeg ikke kunne gøre det mere.
+
+9:16
+Så vil jeg altså være nødt til at dele området op i to områder og give en parameter fremstilling, for hvem det er okay.
+
+9:22
+Det kunne vi jo godt gøre. Men hvorfor ikke lave? En løsning hvor vi bare kan bruge en parameter fremstilling.
+
+9:31
+Og det kan vi selvfølgelig gøre, hvis vi i stedet for at vælge vores bud her.
+
+9:40
+Og. Og så vil vi altså interessere.
+
+9:54
+Linjestykke fra A til B. Og skal se på hvilke koordinater de har.
+
+10:05
+B har selvfølgelig koordinaterne tre kommer ud.
+
+10:11
+Her når hun den er. Når øy er u.
+
+10:23
+Så omregner vi lige den der altså Y.
+
+10:26
+Den er god, så får vi x 2 minutter. Og så kan vi altså skrive parameter fremstilling op.
+
+10:48
+Og den er så at A, dvs sige 2 minus ud over o.
+
+10:57
+Og så er plus ved Grand den vægtere der ligger her. Der bliver først på natten, den bliver tre.
+
+11:06
+Minus 2 giver en illusion. Og anden koordinaten bliver nul.
+
+11:17
+Og nu har jeg allerede. Lavet en parameter fremstilling for den uge, ska så løbe imellem 0 og 3.
+
+11:32
+Og vi skal løbe i mellem nul og et.
+
+11:44
+Så har vi altså fået lavet en parameter fremstilling for det her område.
+
+11:54
+Godt. Vi kigger nu på en anden meget enkel type af kobber.
+
+12:07
+Som. Altså den næst nemmeste kur at se det er kobber, som er farbar for en funktion.
+
+12:42
+Altså har vi her et et par, altså en parabel stykke her nede ved ligningen.
+
+12:51
+Y er lig med exit i anden. Så er det jo meget nemt at lave en parameter fremstilling for den.
+
+13:02
+I det vi jo blot sætter X lig med U. Og så har vi jo y koordinaten hvide som.
+
+13:16
+I anden. Og som på U ligger i intervallet det åbne fra minus 2 til 2 lukket.
+
+13:31
+Så det er de aller nemmeste at og par med trisser.
+
+13:46
+Hvad nu hvis vi drejer den med 45 grader? Sådan at den symmetriakse.
+
+14:08
+I stedet for ligger her. Og så ligger den så.
+
+14:28
+Så ligger kuren i stedet for her.
+
+14:35
+Nu er den jo ikke længere grav for en funktion, fordi til en bestemt ikke værdi vil der så høre to forskellige værdier, så det er ikke nogen.
+
+14:46
+Så det er altså ikke grafen for en funktion. Men hvordan kunne vi så få lavet en parameter fremstilling for den?
+
+15:05
+Så vi har jo en. Her har vi jo standard ikke basis for koordinatsystemet.
+
+15:22
+Så kunne vi jo vælge os et nyt koordinatsystem.
+
+15:39
+Så vi altså har en ekstra akse her. Og her har vi en by, et akset.
+
+15:56
+Er nogen der har forslag til hvordan vi kommer videre her. Skal vi have.
+
+16:11
+Skal vi har opstillet en basis, skifter matrix fra det nye til det gamle koordinatsystem.
+
+16:20
+Så skal vi jo have koordinaterne for den vektor, der ligger her ved et vægteren.
+
+16:26
+Den er kvadratrod to halve og minus, for der er der to halve.
+
+16:34
+Og den anden basis svigter. Var der er du to halve over for der har du to halve.
+
+16:46
+Og så ved vi jo at de gamle koordinater. Er lig med basis skifte matricen.
+
+17:06
+Gange med de nye koordinater, altså i det koordinatsystem der ligger her.
+
+17:12
+Der kan vi jo bruge den parameter fremstilling, som vi opstillede hende.
+
+17:17
+Så det skal altså ganges med u over o i anden.
+
+17:24
+Og så har vi altså en far med 3 serien. At dette parallelle stykke er er U.
+
+17:32
+Den er så og så kan vi sætte.
+
+17:38
+Bare dræbt rod to halve ud foran. Og så får vi så U Plus O i enden, og så får vi minus O plus o i anden.
+
+17:58
+Og hvor alt så ud, løber fra minus 1 og 2.
+
+18:08
+Så fik vi skaffet os en parameter fremstilling for den kurve, der ligger her.
+
+18:31
+Lad os snakke lidt mere om polære koordinater. Og problemstillingen er.
+
+19:05
+Et på A. Har.
+
+19:11
+Polære koordinater. Ro komma fi.
+
+19:30
+Bestemt i retning bløder. Ekskong.
+
+19:40
+Det er den grundlæggende problemstilling. Forholdet mellem det fulde grundlag der og det retvinklede.
+
+19:48
+Se hvad mener jeg med de polære koordinater. I asynkron systemet.
+
+20:03
+Ja, der har jeg jo altså koordinaterne Ruhe, som betyder afstanden til origo.
+
+20:11
+Og hvor fint det betyder retnings vinklen. Der vil jeg sige, at jeg kan afsætte punktet på.
+
+20:17
+På den her måde. Her indplacere jeg five.
+
+20:27
+Her indplacere jeg ro. Og så kan jeg altså her tegne punktet A.
+
+20:36
+Ud fra de polære koordinater. Men hvad er så X og Y?
+
+20:54
+Og det ser vi jo ud fra den retvinklet trekant vi har her.
+
+21:00
+Hvor eksport natten det er kun dem der ligger her og den her kan td.
+
+21:09
+Den er ro og så er cosinus til fin.
+
+21:16
+Og bykort med dem. Denne her kan TT selvfølgelig regnet med fortegn som er rød komma sinus til fi.
+
+21:30
+Så det er altså den. Grundlæggende bytte relation imellem retvinklede koordinater og polære koordinater.
+
+21:39
+Vi har skrevet op her. Og lad os lige tage nogle eksempler på det her.
+
+21:54
+Altså vi vil have en. Parameter fremstilling.
+
+22:05
+For den punkts mængde. Gide i ro kommer fi.
+
+22:14
+Hvor brug er lig med to og fly tilhører intervallet fra.
+
+22:28
+Minus pil til pil. Og nu har vi jo altså her vores grundlæggende form for omsætnings forholdet, så vi kan straks skrive parameter fremstilling op.
+
+22:51
+Og lad os lige se. Ro ligger fast.
+
+22:56
+Det er film der er den variable, så det bliver altså.
+
+23:02
+Hvis nu skjorten i V og ud i stedet for, så har vi altså her parameter fremstilling.
+
+23:08
+Den er så tung. Og så cosinus tv og sinus tv, hvor v.
+
+23:26
+Lægger fra minus Pi til Pi, altså med andre ord.
+
+23:35
+Vi har en konstant afstand. Til centrum og vinklen går altså fra minus py.
+
+23:52
+Og så til Pi. Det vil sige. Touren starter her.
+
+23:59
+Parameter fremstilling har altid en orientering. Vi har givet dem den orientering, der ligger her, og vi slutter her hen.
+
+24:09
+Så den parameter fremstilling har vi altså valgt for denne her punkt mængde.
+
+24:15
+Men vi kunne jo også have valgt andre parameter for omstillinger. Vi går vel fra nul til to ppi.
+
+24:23
+Så hvordan den bevægelse i stedet for. Eller vi kunne have sat et minus foran enden på natten.
+
+24:30
+Så var vi kørt den anden vej rundt, så jeg så en punktering.
+
+24:34
+Det har jeg så uendeligt mange parametre fremstillinger, og jeg har bare været del af dem her.
+
+24:50
+Og tilsvarende en pumpning der brød kommende film.
+
+25:01
+Hvor ro ligger fra en til tre og.
+
+25:11
+Og five er minus pi fjerdedele.
+
+25:19
+Vi kan jo straks opskrive parameter fremstilling ud fra vores grundlæggende relation her, og vi ser her på hvad er variabel?
+
+25:30
+Film ligger fast. Ro ligger fra 1.
+
+25:34
+Til 3. Så kunne vi jo kalde parameter fremstilling for r, u.
+
+25:41
+Og så har vi altså her cosinus. Nej, u. Vi kalder ro for uge.
+
+25:48
+Og så har vi fin. I.
+
+26:03
+Og så får vi her fradrag du to halve U og minus fradraget to halve bud hvor U ligger fra en til tre.
+
+26:18
+Så er vi altså interesserede Dan og.
+
+26:25
+Indtegnet i. En syg planen.
+
+26:31
+Så skal vi altså betragte vinkel halveringstiden ind her.
+
+26:40
+Y er lig med et minus ex u.
+
+26:44
+Det var altså den afstand der lå her fra, altså en.
+
+26:51
+Og sådan to og tre. Så det har vi altså.
+
+26:58
+Det stykke vi har interesseret det ligger der. For sådan er jeg til sidst kigge på.
+
+27:12
+På én punkt mængde, der i polære koordinater. Er givet ved at du ligger fra 1 til 2 og 4 ligger fra.
+
+27:39
+Peg halve til pi. Og nu kan vi se at vi når vi nu er det, at begge de polære koordinater som er variable,
+
+27:51
+så når vi skal give en parameter fremstilling for dette punkt fra den punkt.
+
+27:57
+Men det her går op og bruger vores grundlæggende relation.
+
+28:09
+Så har vi altså. To parametre her.
+
+28:19
+U Posens ved U senere SWE, hvor U ligger fra 1 til 2 og 4 ligger fra.
+
+28:34
+De halve og Tapie. Og så lad os prøve.
+
+28:47
+Og tegne mængden, altså radius ligger fra 1 til 2.
+
+29:06
+Så i hvert fald er området afgrænset af de to cirkler ligger altså imellem de to cirkler.
+
+29:13
+Jeg har lavet her og vinklen fi. Den ligger imellem pi halve og pi, så det her skal vi ikke tælle med.
+
+29:23
+Først her fra blive halve og så Tapie, og så er det område, som har været beskrevet i polære koordinater.
+
+29:34
+Det er det område, der ligger her. Et plant område, fordi vi havde to parametre inde i billedet.
+
+29:43
+Her. Og så bruger man polære koordinater.
+
+30:02
+Det vil sige dem relationen. Til at beskrive et eller andet område i planen med, så er jeg funktion altid u.
+
+30:13
+Det vil I kunne se, hvis vi udregner dem efter formlen nummer 2 og hænder så polære koordinater i planen giver altid Jacobi funktionen o.
+
+30:38
+Så. Nu skal vi til at tale om curd integraler, efter at vi nu har fået snakket om parameter kurér.
+
+30:54
+Og det jeg nu vil gøre, det er, at jeg har et eksempel.
+
+31:00
+Jeg tager udgangspunkt i. Og vi ser hvor langt vi når over midten.
+
+31:06
+Og så på et tidspunkt, så vi er nødt til at udvikle noget teori. Så udvikler vi teorien, og så vender vi tilbage og vejen opgaven færdig.
+
+31:34
+C der er givet. En romkugle ved bølgerne.
+
+31:51
+Udtryk. R er u.
+
+31:57
+Og når det er en rundkirker, så har vi givet tre forskellige koordinat funktioner.
+
+32:09
+Nemlig guld som funktion af eller ikke som funktion af u.
+
+32:15
+Y som funktion af o. Og sæt som funktioner jo.
+
+32:23
+I det her tilfælde da er den runde kurve der er givet.
+
+32:30
+Den hedder U. Gange med knusende stiv.
+
+32:36
+Og den hedder U. Se nu 7.
+
+32:43
+Og sæt funktionen. Den hedder U.
+
+32:49
+Og hvor. U ligger. I intervallet fra nul til fem.
+
+33:00
+Så der er et par meter kanon altså givet. Desuden er der givet en masse tæthed funktion.
+
+33:14
+Det er altså egentlig at bestemme, om det skal være en bestemt. Det kunne være en hvilken som helst anden.
+
+33:18
+Men altså. Herude masse til at hedde funktionen f, a eks komma y kommer z.
+
+33:40
+Ved kvadratroden af i anden plus Y i andet plus Z i anden.
+
+33:58
+Og så bare lige for at anskueliggøre. Den kunne for eksempel være målt i gram per centimeter.
+
+34:13
+Og dette er jo en ganske særlig. Funktionen er et egentligt udtrykker.
+
+34:20
+Er. Ja, afstanden til origo, så det vil altså sige, at masse tætheden inde i nul er nul.
+
+34:28
+Og så. Så forøges denne er jo præcis proportionalt med afstanden indtog Rigo,
+
+34:34
+så det er altså den mindste tæthed og funktion, der tilfældigvis er givet i den opgave her.
+
+34:39
+Og det er altså det, vi vil bruge et eksempel. Se, lad os nu prøve at tegne denne her rundkørsel så godt vi nu kan.
+
+35:17
+Så. Se først og starter vi jo med U lige med nul, og der har vi jo så nul.
+
+35:26
+Alle vegne her.
+
+35:29
+Og hvis I betragter ekskæresten natten over bykort natten, så kan jeg se det minder jo noget om polære koordinater, hvor hun og fi er det samme.
+
+35:39
+Altså radius er det samme som vinklen vil sige.
+
+35:43
+Når vinklerne er nul, så er vi altså nul. Og så begynder den altså både og Spira ligger.
+
+35:51
+Og så går opad altså højden her ud.
+
+35:56
+Den går højere højere op, så vi får så en spiral, der ligger her.
+
+36:08
+Sådan det ser ud som om at den skærer det, og det gør den ikke, fordi den snurrer rundt omkring z aksen.
+
+36:15
+Her. Så det er altså den kure jeg tager udgangspunkt i her.
+
+36:22
+Og det er jo en Paramore interesserede kure. Så det vil altså sige vi har.
+
+36:44
+Vi har så en urokse. Som går fra nul til fem.
+
+36:55
+Opgaven er altså her bestemt quo integralet.
+
+37:03
+Når det er denne her kurve vi betragter, og denne her masse teltets funktion vi betragter.
+
+37:13
+Se min idé. Nu er. At jeg deler nul til fem i en.
+
+37:28
+Lige store stykker. Og som vi plejer.
+
+37:44
+Så har vi altså u et her. Vi har U2 her.
+
+37:56
+Og så er det jo lige store stykker.
+
+37:58
+Vi har delt den op i, og dem kalder vi for Delta U, så det vil altså sige, at det er et stykke, jeg har tegnet her.
+
+38:10
+Det er altså Delta O og altså U et U2.
+
+38:16
+Og så videre. U i.
+
+38:27
+I plus ét. Og alle de stykker her de har længden.
+
+38:35
+Deltog. Og lad os nu prøve at kigge på situationen her hende på den kurve vi har i betragtning.
+
+38:52
+Der vil sige at hvis jeg tager er.
+
+38:59
+Er det første punkt her, så har vi selvfølgelig.
+
+39:11
+Er udviklede der. Og så et stykke derfra.
+
+39:23
+Der har jeg så billedet af det andet dele punkt.
+
+39:29
+Og så på et tidspunkt. Så har jeg det at dele punktet er r u et.
+
+39:43
+Der er er uenig. Og dér har vi dele punktet er u et plus en.
+
+40:01
+Så kan. Lad os prøve at elaboreret lidt på det her, hvordan vi kan udregne den samlede masse af det her og min idé.
+
+40:15
+Det vil så være den. At jeg tester min.
+
+40:20
+Masse teltets funktion i det første punkt. Her. Og så gange med længden af det første stykke.
+
+40:29
+Den forudsætter eller den er kontinuert, som vil sige det sådan set lige meget hvor jeg vælger den hende.
+
+40:35
+Hvis dette stykke er lille, så vil den jo næsten være det samme, som gælder det hele vejen rundt.
+
+40:39
+Så jeg ser altså masser tætheden i Gram per centimeter ganget med antal centimeter her hen til, så har jeg altså et bestemt antal gram.
+
+40:52
+Igen masse tæthed funktionen testet her ganget med det næste stykke masse til dets funktion taget her ganget med det stykke der.
+
+41:05
+Og det vil så sige at nu bliver det så relevant at betragte længden af de korte stykker der ligger her.
+
+41:12
+Så lad os kalde det første kunststykke her for Delta S et.
+
+41:21
+Det næste hedder så Delta S 2 og.
+
+41:29
+Længden af det gode stykke der ligger her, den kalder jeg så for Delta S i.
+
+41:37
+Så mit bud. Det er så.
+
+41:44
+At hele massen af den kurve her. Den må være proklamerede er summen, der går fra det lige med ét til end at teste værdien.
+
+42:05
+Og. Det vil sige jeg skal jo bruge min f funktion.
+
+42:12
+Taget i dette præcise punkt, så det vil jeg sige.
+
+42:16
+Det er f. R er u i.
+
+42:22
+Og så gange med stød. S er i.
+
+42:29
+Så det syntes jeg ville være et rimeligt intuitivt bud på, hvordan vi kan regne denne her masse ud.
+
+42:42
+Men nu er der altså én ting vi er nødt til at gøre opmærksom på. Jeg havde jo lavet min u opdeling sådan, at disse stykker var lige lange.
+
+42:53
+Men jeg kan på ingen måde gå ud fra, at de her stykker er lige lange, og det er de faktisk ikke, så de har forskellig længde.
+
+43:03
+Og nu er mit problem. Jeg aner jo ikke hvad længden den er. Så altså vi har fået et problem her.
+
+43:13
+Som vi er nødt til at løse på en eller anden måde.
+
+43:21
+Men en. Byen.
+
+43:35
+Men nu får jeg en ide fra det vi snakkede om her, hende med sammensatte funktion.
+
+43:52
+Så. CD Jeg vil gerne bede om at bemærke at her er.
+
+44:00
+Hvis jeg lider min test funktion her.
+
+44:04
+Altså hvis jeg tager masken på dette punkt. Her. Så vil det være nøjagtig det samme som hvis jeg tager f bold er her.
+
+44:16
+Så det vil altså sige at test værdien i punkt døde.
+
+44:23
+Er du i? Det er det samme som hvis vi tester funktionen F for lære.
+
+44:37
+I punktet af U i. Se, det er simpelt hen det.
+
+44:52
+Den idé jeg får nu, så nu tænker jeg altså på tænk nu hvis jeg kunne.
+
+45:02
+Overfører. Vejningen af denne her er denne kode.
+
+45:08
+Jeg tegnede her til en vejning af den kirurg jeg har her.
+
+45:14
+Så er vi jo tilbage til det som vi lavede sidste gang, hvor I kan huske vi havde en metalstang.
+
+45:20
+Den vejede vi ved et almindeligt gymnasie. Og ja. Så nu er jeg altså prøve at se.
+
+45:26
+Kan vi vare i denne her i stedet for? Så.
+
+45:33
+Så er det spørgsmål, jeg nu stiller. Se, det var den vi havde her oppe fra.
+
+45:53
+Altså hvis jeg nu sammenligner vægten af det her stykke.
+
+45:58
+Med vægten af det stykke her ved jeg forlader. Og så har jeg jo ganger med den opdeling jeg havde her.
+
+46:22
+Selv hvis jeg kunne gøre det her. Så ville det jo være rigtig fedt, fordi så var jeg meget tæt på løsningen.
+
+46:30
+Fordi den værdi dér er den samme som den værdi der er dér.
+
+46:37
+Mit eneste problem er altså, at længden af det stykke der her, ikke er det samme som det stykke, der er dér.
+
+46:46
+Det er mit problem i den ligning. Den faktor, der er ikke den samme som den faktor der.
+
+46:54
+Og nu vil jeg gerne finde forskellen på de to eller forholdet imellem dem, og den vil jeg kalde for Jacobi.
+
+47:21
+Fordi. Hvis jeg kan finde den faktor her, så har jeg løst mit problem.
+
+47:30
+Så kan jeg flytte vejningen af den her kurve ned til at veje dette stykke nede på uroksen.
+
+47:38
+Det har vi problemstillingen. Den skal vi have løst efter pausen.

@@ -1,0 +1,1073 @@
+0:08
+Ja, så er okay, vi er kommet i differentialligninger.
+
+0:14
+Det vil sige, at vi går både i dag og om morgenen.
+
+0:20
+Så man bare kræver koblede differentialligninger, og i dag er der altså ingen lineær algebra.
+
+0:29
+Vi er helt fri for lineær algebra i dag, så det er noget helt nyt.
+
+0:34
+Så hvis man synes, man er ved at være, så begynder at blive lidt svært med alle de nye ting, I kommer.
+
+0:40
+Så kan man jo starte på en frisk endnu, så emnerne i dag er Vignir ransagninger, og så er det en struktureret løsning.
+
+1:15
+Så kommer der noget der hedder panser formen, og så er det lavet om eksistens, stand og entydighed.
+
+1:34
+Og så er der noget om Mabel. Indtil sidste bane. Ja, så vi kan se i dag.
+
+1:48
+Så skal vi i gang med de den type.
+
+1:53
+De hedder line differentialligning af første orden. Dem skal vi lære, hvordan man løser noget velkendt fra tidligere.
+
+2:01
+Noget er nok nyt. Måden vi gør det på, er nok den ny her, eller den er ny for de fleste.
+
+2:07
+Så så går programmet med i dag,
+
+2:11
+og vi nåede en fortrolig med at løse første ordenens lineære differentialligninger og sige noget om struktur af deres løsninger.
+
+2:20
+Så ville jeg har gjort det på torsdag. Så går vi skridtet videre og siger Nu har vi et helt system af først ordenes lineære differentialligninger.
+
+2:30
+Der får vi altså brug for alt det her, vi lige har lavet med egne værdier og egne vektorer det hele for at løse dem.
+
+2:38
+Når det er overstået, og vi kommer tilbage sammen næste uge, så går vi i gang med de anden ordenens lineære differentialligninger.
+
+2:45
+Så det er ligesom programmet for at komme igennem det her.
+
+2:48
+Men det satte sig altså. I dag lægger vi vægten på de første rundes på torsdagens systemerne, og så på mandag, så er det igen.
+
+2:57
+Anden ordens differentialligninger. Og for at komme ind der får vi brug for rigtig meget af det, vi har lært.
+
+3:04
+På torsdag får vi brug for stort set alle vores lineær algebra, og på mandag,
+
+3:08
+hvor vi skal i gang med dette, er anden ordens og påtvungen får vi også brug for alle vores komplekse tal,
+
+3:14
+og vi får brug for de komplekse tal igen på mandag, så vi vil bruge alt, hvad vi har lært om komplekse tal,
+
+3:20
+og hvad vi har lært i den lille algebra for at løse de her differentialligninger.
+
+3:24
+Det er en af begrundelserne for, at det er så vigtigt fordi,
+
+3:26
+at det mentale er meget vigtig for ingeniører, og fordi jeg indgår i rigtig mange sammenhænge.
+
+3:31
+At komme til at lave fremmer så. Så derfor kan I så se hvor.
+
+3:39
+Hvad er det, vi kan bruge de her komplekse tal til, eller kan vi bruge den lineær algebra til?
+
+3:43
+Meget tydeligt, når vi går i gang med dem her? Ja, men vi kan lige så godt gå i gang med de linjer fra eller med differentialligninger generelt.
+
+3:51
+For hvad er en differentialligning?
+
+3:53
+Altså en differentialligning ligning for inden da, hvori der indgår funktioner og afledte af input, og den er den funktion.
+
+4:03
+Så 1. Det kunne for eksempel se sådan her ud her. En funktion du sagde skriver.
+
+4:14
+Søndag. Det er en differentiale, endda indgår en ukendt funktion ex.
+
+4:20
+Og så indgår. Eller hvad angår den anden aflære den, og den første aflagde den fjerde være.
+
+4:26
+Denne differentialligning er en anden ordens differentialligning,
+
+4:30
+fordi at den højest afledte vi har en af vore ukendte foton i ligningen er 2, så det er en anden ordens differentialligning.
+
+4:47
+Det er ikke altid, de ser sådan noget. De kan for eksempel se sådan her ud.
+
+4:49
+Et ægte mærke at se en, hvor vi afleder vores ukendte funktion gang the blues.
+
+4:57
+En eller anden funktion f rt gange. Ægsortering er lig med det se.
+
+5:05
+Altså hvor de ting der står i differentialligningen faktisk er funktioner de koefficienter vi havde, de skal forestille os her et f erkendt.
+
+5:14
+Det er en kendt funktion. FT kunne være en talte geert.
+
+5:18
+Ting kunne være cosinus tag, men ekstra stadigvæk ukendt.
+
+5:22
+Hvilke eks'er passer sig ind i denne her? Det er altså hvad kan jeg ikke?
+
+5:27
+Så kan vi fuldendt at løser. Det er nogle løsninger til vores differentialligning.
+
+5:31
+Den er differentialligningen er en første ordens differentialligning, fordi den højst er afledt af vores ukendte funktion af en.
+
+5:37
+For den første ordens var det minsandten Jes.
+
+5:47
+Man kunne også forestille sig en differentialligning, hvor man afledt af funktionen engang satte den i anden.
+
+5:53
+Og så sagde noget for simpelt ikke? Så tag med knusende suk.
+
+6:03
+Den er faktisk alene der, står der. Den er også til differentialligningen, fordi den højeste afledte, der indgår det 1.
+
+6:09
+Stadigvæk. Så det er også en for stor, selvom at det i anden led.
+
+6:15
+Det er altså ikke noget med nogen potens at gøre. Det har noget at gøre med, hvor mange gange eks'er er afledt.
+
+6:22
+Og man kan finde løsninger, selvom jeg opdager det. Det er ikke sikkert.
+
+6:27
+Det er heller ikke alle dem, vi vil finde løsninger til i det kursus her. For i første omgang vil vi ræsonnere os til dem.
+
+6:34
+Det hedder de lineare differentialligninger, og dem vil vi faktisk løse i dag og finde løsningsforslag til.
+
+6:41
+Jamen, så er det jo spørgsmålet Hvad er en lineær differentialligning? Hopsa lukker en linje af differentiale i R.
+
+7:01
+Ja, det vil jeg gerne lige sige. For at sige det, så er det nok nemmere faktisk at skrive noget op først.
+
+7:08
+Nemlig at hvis I nu for eksempel har en differentiering af Sassen, jo ex mærke ting.
+
+7:13
+Plus 3 ægsortering er lig med sinus tal.
+
+7:23
+Det er faktisk et eksempel på en linje af differentialligninger skrevet op. Men hvorfor er den lineære?
+
+7:28
+Ja, det kræver sådan lige lidt mere det, man egentlig gør. Man siger, at sådan en differentialligning hær, der består af den side, der er herover,
+
+7:37
+og så en side herover den side, der har puttet alle de led over, hvori der ikke er noget med ex rt at gøre.
+
+7:44
+Altså det vil sige her er vores Stinus tal. Vi har ikke noget med vores ukendte funktion at gøre, så den er rykket herover.
+
+7:50
+Den side der står i den, kalder vi højresiden. Vi kan ikke rykke flere led over til sinus.
+
+7:59
+Tag på alle de andre led der tilbage, da indgår jo ikke sig i enten a exit eller den afledte af ex.
+
+8:05
+Så vil jeg skrive denne ned på en lidt speciel måde. Jeg vil skrive det. Som f a exchange er vi teams.
+
+8:13
+Tag så den side jeg har skrevet værd. Det skriver jeg som nær.
+
+8:18
+Men hvad er F for noget? Ja, f. Den tager sådan en differentiabel funktion her.
+
+8:23
+Det er ikke sjovt. Man skal jo kunne differentiere. Han tager os en ind og smider den over i det her.
+
+8:28
+Og det er jo noget, vi har set før. Det er jo en linje afbildning F.
+
+8:33
+Den tager simpelt hen ekstra ting og sender når I ex mærke at se plus tre gange ekstra salt.
+
+8:46
+Og F er jo altså en afbildning, der går fra mængden af engang differentiable funktioner og på mængden af de kontinuerte funktioner,
+
+8:59
+hvor jeg lige skulle holde tavlen mellem skrevet med. Så er vores vores f.
+
+9:05
+Her er en linje afvænning. Det ved vi jo faktisk ikke noget vi. Indtil videre må vi bare sige, at det er en afbildning.
+
+9:11
+Der går fra ét, altså mængden af kontrolfunktioner,
+
+9:15
+da er der ingen af de militære operationer med kontoret dagligt og på mængden af de kontrolfunktioner.
+
+9:19
+Vi er nødt til at gå fra sekretær, fordi at vi skal jo differentiere.
+
+9:24
+Ex i denne her sag ikke skal være differentiabel. Men så at denne her EF hær viste F er en lineær afbildning er differential.
+
+9:51
+Liniger og har dette altså drejer sig og derfor lavet sådan en afbildning og så undersøge om den er leveret.
+
+10:04
+Det vil vi lige gøre, fordi er noget man undersøger om en afbildning er linjer.
+
+10:10
+Ja, det gør der jo to betingelser, f. Af eks. Et tab plus X2 af tab.
+
+10:17
+Det skal være lig med f. A x eternittag plus f a x2 er til.
+
+10:26
+Det er en betingelse der skal være opfyldt hvis der skal være linjer betingelser to er jo,
+
+10:30
+at hvis jeg tager en eller anden konstant og ganger den med x antal, så skal jeg kunne rykke konstant den ud foran.
+
+10:40
+Og vi kan lige så godt sige det helt generelt, at den konstant er et eller andet komplekst tal mellem os,
+
+10:49
+ofte reelt, men i reelle tal er også komplekst, så vi skal håndteres så generelt som muligt.
+
+10:54
+Sådan skal du være. Det skal det gælder for alle tal, og sådan ser det ud, hvis de to betingelser er opfyldt for denne her f.
+
+11:02
+Den her linje arve, hvad i denne afvænningen er der, så er vores afbildning linjer, og så har en linje differentialligning.
+
+11:09
+Så det er altså måden, vi undersøger på, om de sælger linjer. Nå, det må vi jo bare gøre.
+
+11:24
+Jo, jeg tager altså to funktioner. Det har jo her opstår en differentialligninger, men det er vi i gang med nu.
+
+11:34
+Det er at undersøge en helt generel afbildning F, der i virkeligheden ikke har ret meget med differentialligninger at gøre.
+
+11:39
+Mere andet end at selvfølgelig har vi brugt dele af differentialligning.
+
+11:43
+Vi har brugt det her til at lave vores efte mad, men altså i bund og grund, så er der ikke noget med.
+
+11:48
+Nu er det jo bare.
+
+11:48
+Nu kan jeg sætte enhver indgang differentiabel funktion ind i det der og regne det ud, uanset om den er løsningen til differentialligningen eller ej.
+
+11:55
+Så nu har jeg altså to helt tilfældige funktioner 1 2 funktioner, som er et differentiable tænkt som altså bare to portioner.
+
+12:05
+Jeg tilhører Z. Det pudsige, at det kunne være en ting, er at sige Neustadt, men vi siger ikke noget om,
+
+12:11
+at vi tager bare to helt grad af og undersøger nu vi undersøger denne her afbildning hér.
+
+12:16
+Den, der hedder f, a ægsortering u med ex og tal plus tre ekstra ting er den lineære spørgsmålstegn.
+
+12:29
+Så jeg ser altså på hvad F af X eller tag plus X2 alting.
+
+12:37
+Det kan jeg jo heldigvis nemt regne ud, for det kan jeg bare putte ind i mit udtryk her.
+
+12:42
+Hvis jeg på denne her sag siger det samme som briketter til nu 6 2 tag mærke, jeg skal differentiere.
+
+12:51
+Jeg står her en gang her, og skal jeg sige 3 gange det, der står der ensomt hører en fætter.
+
+12:56
+Tag nu 6 to af taget. Så kan jeg så skrive det op i en anden rækkefølge, skrive exit ét, mærke alting.
+
+13:07
+Det var den første plus 3 excellent sag. Plus Så kan jeg skrive X2 mærke til plus tre gange X2.
+
+13:22
+Og det er jo hvis man skal det der står her.
+
+13:26
+Det er jo det samme, som der står her, hvor der står CNET, og så er F.
+
+13:32
+Setanta, og det andet bliver på tilsvarende måde et stort tab.
+
+13:40
+Første betingelse er altså opfyldt for denne differentialligning,
+
+13:45
+og det kommer sig af blandt andet, at når vi differentierer, kan vi bare differentiere.
+
+13:49
+Vist ikke, så vi gør nogle ting, som er lineære, betjenes etc.
+
+13:57
+Den er o.k. Med 2 1, 3 2. Så skal jeg tage en f for en konstant guide et tag eksternt link.
+
+14:07
+Du kan da godt kalde det en ligegyldig kamp. Hvis jeg gør det, skal jeg sætte den ind i min udtryk her.
+
+14:14
+Jeg skal altså differentiere deres, står de. Der står altså på mange ekstra ting differentieret.
+
+14:20
+Plus tre k. Ex er til, når jeg differentierer fortsat er konstant nede foran, og det ser jeg ikke.
+
+14:30
+Så tag, og så står der pludselig 3 k x t.
+
+14:38
+Jamen, konstanten kan rode fra 1 det hele, og så står der x mærke.
+
+14:42
+Tag nu tre exciting, og så står der og læser det op til DK ganger, der står her.
+
+14:51
+Det der står der, er jo ikke sorte, og vi kan se, at betingelserne 2 hop også er opfyldt.
+
+15:00
+Så denne her differentialligning denne afbildning vi lige har lavet af ligner.
+
+15:11
+Og derfor er det samme som at sige, at differentialligningen står der helt oppe i toppen er lige ned.
+
+15:26
+Så vi forsøger alligevel, at det var en linje differentialligning. Det er altså en af dem, vi vil beskæftige os med i dag.
+
+15:40
+Den er god nok. Leni Differentialligning. Den er også af første orden, fordi at den højst er afledt af ekstra indbo.
+
+15:48
+Den er så. Vi har her en første ordens Leni differentialligning, og det var nogle af dem, vi gerne ville se på i dag.
+
+15:58
+Men dette er måske den dag, man skal huske.
+
+16:02
+Når morgentoilette er tændt, er det scener, der indgår her på siden. Det kommer aldrig i spil under dette arbejde.
+
+16:07
+Med eftervise ligner det ligegyldigt, hvad man står op og rasede.
+
+16:14
+Så det. Det er lidt det samme som vi gjorde, da vi da vi, da vi undersøgte at tage den af andre afbildninger,
+
+16:24
+ikke, så havde vi også inhumane gener ligninger a x 9 b.
+
+16:29
+Det er en linje af ligning. Det linje er fordi at a x var en linje har ikke, så jeg har set det tidligere.
+
+16:37
+Og godt, så skal vi i gang med.
+
+16:44
+Vi tager lige et par eksempler mere på nogle, der ser lidt mindre linjer ud ved første øjekast tavse for eksempel nogle der ikke er lineær.
+
+16:50
+Nu kommer der en til, som er linjer igen.
+
+16:55
+Den første ordens differential 1. Plus en itd gange ex.
+
+17:00
+Tag er lidt mad senere fortalt denne her.
+
+17:11
+Det er faktisk også en første ordens linjer. På trods af at der indgår sinus response alfonseri imod, så er det en linje af differentialligningen.
+
+17:19
+Og for at undersøge om det er rigtigt, så er der jo kun én måde at gøre det på, nemlig at finde den afbildning, der svarer til.
+
+17:28
+Vi skal først lave højresiden. Alt skal herover, der har noget med, der ikke er noget med ex på.
+
+17:32
+Det er ordnet, så her står højresiden.
+
+17:39
+Det der har noget med ekstra at gøre, det burde i den afvent hedder F af Satan og den afbildning kan man så se den skal være så lig med højere.
+
+17:48
+Når simultan, da kan denne arme.
+
+17:52
+Her kan vi så se at at den skal være.
+
+17:59
+Hvad skal man gøre ved en enkelt sag, der skal sætte det årige mærke at se? Plus en ting ved gange exciting.
+
+18:09
+Det er det afventende til gøre. Den skal tage en differentiabel funktion, altså F.
+
+18:14
+Skal vi skrive det igen? Den tager en differentiabel funktion. Altså noget der ligger i Z og smide over i nul.
+
+18:21
+Nu sidder nogle måske.
+
+18:21
+Jeg tænker Jamen, hvorfor skal det gå i nul for sit nul i containeren funktion at blive lige så af det, når man sidder med én gang.
+
+18:29
+Men hvis huset er den største mængde for eksempel sinus til den ligger i Z.
+
+18:34
+Den lægger op til uendelige flænger, og man differentierer lige så mange gange, man gider og når kontinuerte afledte.
+
+18:39
+Så det betyder, at når vi smider infusion. Vi kan bare ikke være sikker på, at når vi har differentierede en engang differentieret position,
+
+18:45
+så kan vi ikke være sikker på andet, end at det, der kommer ud af den, er kontinuert.
+
+18:49
+Det kan sagtens være uendelig ofte differentiabel til nul er den største af alle de her mængder.
+
+18:54
+Men altså, vi kan ikke være sikker på andet. Nogle bliver måske bare kontur af det, når de bliver differentierede den ene gang.
+
+19:04
+Nå, det var lige, så vi har altså afbilledet værterne.
+
+19:09
+Så tager vi bare to tilfældige differentiable funktioner, ikke sætter X2 og undersøger.
+
+19:16
+Første betingelse nemlig at jeg sætter til plus X2 af ting.
+
+19:21
+Hvad er det mon lige med? Det er altså to fuldt en tilfældig differentiere portion, og det er lidt vigtigt at forstå,
+
+19:28
+at de har intet med løsningen til differentialligningen og gør det jo slet ikke.
+
+19:33
+De skriver ofte Det er jo kun den afbildning F.
+
+19:37
+Vi er ved at undersøge, om den er lineare, og den kan vi jo tage enhver funktion og på den og de jo kun løsninger,
+
+19:43
+da de der ikke så vi en, at når vi regner ex mærke plus en sjette gang exciting hvis det bliver sinus tech.
+
+19:50
+Ellers er de jo ikke løsningerne. Jo, kun i det tilfælde lige præcis.
+
+19:54
+Men lige nu se at det vel løsninger putte bare to tilfældige ind her.
+
+19:58
+Hvad gør vi ved, at vi skal se X mærke, at vi skal differentiere dem.
+
+20:03
+Tag nu til X2 og tag det mærke plus det tal gange ikke at se.
+
+20:14
+Pludselig eksploderer tal. Så giver vi det hele ud.
+
+20:21
+Så er der en differentieringen, her står der ikke så et mærke og på taget.
+
+20:25
+Den er lavet og så plus en Tata.
+
+20:30
+En klædt sag. Hvor er taget? Billedet her jeg tage taget her +6 2.
+
+20:36
+Mærkatet tag og billedet her. Plus en ting.
+
+20:40
+Der er ikke stort tab. Når vi har gjort det, så ser vi med det samme, at det der står her.
+
+20:48
+Det er jo faktisk bare at se vores småsøerne afbildning.
+
+20:51
+Det er jo bare et af eksempler. Tjek. Plus det der står her.
+
+21:00
+Det er jo bare vores afbildning her. F er jo stor ting.
+
+21:09
+Det vil sige betingelse et i vores Lehner test hierarkier er altså opfyldt.
+
+21:16
+Og det er altså på trods af, at der står en ekskonens kontrolfunktion da.
+
+21:20
+Ni betingelser. 2 skal man selvfølgelig også til at ske, og vi kan jo godt lige gøre det.
+
+21:25
+F. K gange X2 at eller ikke satin er lig med, så skal vi så sige K gange ekstra til mærke plus en td gange k ganger satin.
+
+21:41
+Jamen den ved div differentialligninger. Så står der Korb gange ex. Mærke og tab.
+
+21:46
+Og her kan vi skrive kohvede uden for det ligegyldigt hvilken orden vi tager de faktorer der på gangen en gang jeg ikke satin.
+
+21:55
+Nu kan vi sætte håret for en pang tekst, og så står der ex mærket The Blues in the Gang af ekstra ting.
+
+22:03
+Og det er lige med K gange f. Eks. At se hvor der står det bare f.
+
+22:09
+A så ting som betingelser. Så tog jeg lige så vel op. Det vil sige afbildning af linjer, og det vil sige,
+
+22:14
+at differentialligning vi har lavet afbillede fra den er en lineare første ordens differentialligning.
+
+22:21
+Ja, det ser ud til, at alt kan gå godt her.
+
+22:27
+Selvom der er bingo og sigende altså ikke sjovt nok, så bliver det linie på dette eksempel, som ikke er lineært.
+
+22:33
+For sådan er det selvfølgelig ikke. At det helt alene. Og sådan er noget, som ikke er alene i hvert.
+
+22:59
+At se en eksempel på sådan en dag går for eksempel havde jeg X mærke plus eggs eller ex mercantec +6 rt.
+
+23:14
+Hjernen er lig med senere steg.
+
+23:19
+Jeg ved ikke sige nu, sagde han. Det var jo også ligegyldigt. Hvad har jeg siddet lige i denne sammenhæng.
+
+23:25
+Hvis jeg igen højresiden af det her. Det der står her hvis vi skal skrive det som F, er ikke satin.
+
+23:37
+Vi er pressede, så skal jeg f. Se ud som følger.
+
+23:41
+Den skal hedde EF, og den er altså dag sendes over i hvad så mærket af The Blues?
+
+23:49
+Ex acting hjernen. Vi skal undersøge i Nordatlanten.
+
+23:57
+Der er to ting, der skal være opfyldt, og lad os bare prøve at tage den første.
+
+24:02
+Nemlig at ef to funktioner to differentiable funktioner her.
+
+24:11
+Ja, hvad sandt Simon årige, når vi kørte igennem afvænning her? Jamen vi bor at køre igennem her.
+
+24:19
+Så står der et tag +6 to tag i andet.
+
+24:25
+Nej, mærke alt plus ikke ægceller ting hos x to tal.
+
+24:37
+Hvis jeg differentierer det, så får jeg ex et mærke t plus x 2 mærke.
+
+24:44
+Tag den lavet her. Det giver plus en eller tag i anden +6 to af ting.
+
+24:54
+Hvis vi kunne stå op her, så ville det være dejligt. Så en linje.
+
+24:57
+Det kan vi selvfølgelig ikke, fordi det er også et dobbelt produkt plus to gange X eller 3 x to ting.
+
+25:09
+Så sådan ud. Og så kan vi godt se nu, at hvis jeg skal skrive det, skal jeg tage x et mærke tag.
+
+25:20
+Og her står et led også med en kendt ex et i anden. Iklædt er jan plus x2 mærke T.
+
+25:30
+Jo, det er voksne. Della +6 to er til hjernen og så pludselig her dobbeltjobbe produkt klienter to gange ægsortering.
+
+25:43
+Hvad bliver det til? Jeg kan jo godt se, at de to faktisk er lavet af kendte mærker og ikke sendt til hjernen.
+
+25:50
+Det er jo lige præcis F, A eller C og det andet ned.
+
+25:57
+Her er plus f, a, ex to at se, men der det noget mere.
+
+26:05
+Der står også plus to til x to tal, og det er det, der gør, at denne her ikke er linjer for.
+
+26:12
+Nu er det jo sådan, at f a ikke ét af tabloid er stort.
+
+26:17
+Det bliver ikke fake til et plus fake to af ting, men der bliver noget mere, som ikke er nul.
+
+26:27
+Det skal jo gælde for alle en gang differentiere funktionen her, så jeg vil invitere dem,
+
+26:32
+der var 0.1, så ser det bedre ud, men det er jo bare et tilfælde.
+
+26:36
+Så vi skal jo gøre det her. Vi skal tjekke for samtlige funktioner en gang differentiable funktioner.
+
+26:45
+Når vi kan tjekke, om vores afklædning af linjer er, ja, så.
+
+26:55
+Det var nogle eksempler på linjer, ikke linjer og det man skal. Nu kommer så lavet noget.
+
+26:59
+Noget anden forklaring på hvad. Hvordan ser man derfor i praksis?
+
+27:03
+Der udfører man ikke det her hver eneste gang man skal afgøre, om en førstehånds overtager linjen.
+
+27:08
+Vi kan godt se, hvad det er, der går galt dér, hvor det går godt.
+
+27:11
+Der har vi noget, hvor vi differentierer ex, og vi ganger ex med et tal her eller vi ganger exit som herover.
+
+27:19
+Godt nok med en funktion, men selve eksamen og dens afledte de indgår linjer på højresiden.
+
+27:25
+Der er altså bare en Leynar kombination af ekser og x mærker.
+
+27:30
+Det der gik galt herovre, det var jo at at vi fik noget X i anden halvleg.
+
+27:37
+Så man kan altså godt gå ind og se, hvis det bare er en kombination af ekser eksalterede, og så så går det godt.
+
+27:45
+Også hvis den, hvis det vil bestemt den. Den argumentation, der hvor end det egentlig er kontinuert funktion, er vi i gang på.
+
+27:52
+Altså indtil jeg er god for se bare eksterne og ikke se mærkerne og vist højere orden.
+
+27:57
+Der kan også være eksterne mærker, bare de indgår linie.
+
+28:02
+Ja, ja, så er det måden at se på.
+
+28:07
+Men nu er man er nødt til som hér, hvis man virkelig skal vist.
+
+28:12
+Så må man skrive de to linjer i tilspidsning. Der er jo ingen grund til at chatte med tingene til 2 nu på én betingelse.
+
+28:17
+Ét er fejlet. Så er den ikke lige, ja, så skal man stoppe Jens.
+
+28:25
+Så er der lige nogle nogle ord nu, fordi man skal finde kridt.
+
+28:42
+Så er der lige nu ord for. Hvis vi først overhales af differentialligning og en helt generelt en af typen man kunne hedde ex mærke at se plus peer.
+
+29:12
+Bang, er jeg ikke så det. Den er lidt coating. Jeg prøver at sætte en streg i sandet.
+
+29:21
+Der er en linie, førsteholdets differentialligning. Den minder om den, vi har lige herover, hvor prioriteterne it og.
+
+29:29
+Taler sinus ting. Så kalder vi jo den, når det har været inde på højresiden.
+
+29:40
+Så hvis højresiden. Er nul.
+
+29:46
+Så siger vi at den er en homogen differentialligning.
+
+29:55
+Det vil jeg sige.
+
+29:58
+Hvis alle de leder, hvor der ikke er nogen eller ikke så mærker på de allesammen med noget at forstå noget, så er det en homogen differentialligning.
+
+30:06
+Og jeg ved, at hvis højresiden er forskellig fra nul for mindst mindste ting, så er den inhumane.
+
+30:35
+Det vil sige nå højere, end den er sinus. Den er jo godt nok nul, når den er nul og peg og to pigen og tre piger osv.
+
+30:42
+Men der er stadigvæk en homogen. For det andet skal der skal altså være nul hele tiden, for alle taler for, at den er en homogen.
+
+30:50
+Torsdag var formentlig er et tal at prøver at lave.
+
+30:56
+Det blev ikke så heldigt at prøve at lave noget fint efter. Det kan jeg godt se.
+
+31:00
+Sådan så ud, når man tog sig godt, har skrevet fra mindst ét ting med bogstaver Vejen.
+
+31:16
+Endnu må være en ligning. Det er altså en hvor man har en side og en homogen del, hvor holdes nede 0.
+
+31:24
+Se nu ved vi, at den der afbildning af den var lineær.
+
+31:30
+Så ved vi også noget om strukturen af løsningen til sådan nogle linjer ligninger for det.
+
+31:36
+Hvis man vil have den sammenvævet løsning smagen til teen en homogen ligning, så kan den fås ved at tage den samlede løsning,
+
+31:48
+hvis man er til den homogene ligning plus en eller anden tilfældig løsning til den enorme rorgænger, hvor altså alt indhold.
+
+32:00
+Skal vi nok komme tilbage til, hvad det betyder? Ja, fuldstændig. Nu har jeg ikke sagt noget om at det er differentiale.
+
+32:10
+Men tager man det helt generelt om ligninger ledninger fulgt af løsningen til inhumant system.
+
+32:26
+Tror Elle Hong det er fuldstændig løsningen til homogent.
+
+32:36
+Dødsdagen og exit x0 tag er en tilfældig.
+
+32:48
+Løsning til en homogen.
+
+32:56
+System. Godt det kan vi så os overføre til disse differentialligninger.
+
+33:06
+Det har vi jo set fra far på matriklen, alle legebarn.
+
+33:10
+Sådan er det, at hvis vi skulle have en, vi havde linje, så den hed a x line b.
+
+33:17
+Så kunne vi tage den fuldstændige løsning til det lignende system,
+
+33:19
+der hedder a x lig nul og til at lægge en eller anden tilfældig løsning til endnu en system.
+
+33:25
+Så havde vi den fuldstændige løsning til det inhumane i en tilstand. Jeg har også været en en aflevering, som gav hvad man kunne uden at det.
+
+33:33
+Det har været meget vigtigt. Men hvad end hvad ville den fuldstændige løsning sige,
+
+33:40
+hvis nu vi har en endnu homogen differentialligning deroppe, hvad er så den fuldstændige løsning sådan?
+
+33:46
+Ja, den fuldstændige løsning er sådan en homogen differentialligning. Det er jo en mængde af funktioner.
+
+33:53
+Det vil sige, at det er mængden af alle de funktioner, som passer ind i de differentialligningen, der er.
+
+34:02
+Der er altid uendelig mange.
+
+34:07
+Hvis man har sanserne alt til da, så er der altid uendelig mange eller slet ikke nogen af mig helt, for der har jeg en løsning.
+
+34:14
+Den. Så kunne vi så sige Jamen hvad så har den fuldstændige løsning til den homogene ligning, hvor vi sætter kurs til at være nul?
+
+34:28
+Ja, det er jo igen bare alle de funktioner, når vi putter dem ind i vores differentialligning på Excel Splash.
+
+34:34
+Så bliver det her nu. Det er igen en mængde. Så står der jo lidt noget sjovt noget her.
+
+34:39
+Hvis vi skal overføre det, så står der en mængde altså mængden af alle de funktioner fast endnu en ligning.
+
+34:44
+Det kan som den mængde, hvor de passende hooked en ligning med plus for x0 er til jo en konkret funktion.
+
+34:53
+Det er jo en der passer ind i den endnu en i 1 job, så man skal forstå her i differentieringen sammenhæng er,
+
+34:58
+at man kan få den fuldstændige løsning til den inhumane ligning ved at finde den fuldstændig løse den homogene ligning.
+
+35:04
+Altså hele den mængde af funktioner og til hver af alle de funktioner er lavet af en mængde.
+
+35:08
+Læg den her tilfældige løsning til hér, men bare lade løsningen til jeres, så man tager altså finder en eller anden.
+
+35:19
+På en anden måde gætter man måske en løsning op til. Og så løser man den homogene om så lig med nul og lægger dem sammen.
+
+35:25
+Så har man den fuldstændig løsning til den differentialligning, som er jo interesseret i at løse.
+
+35:32
+Det skal vi jo bare udnytte. Nu her på et eksempel. Så nu kommer alt i tal eksempel og.
+
+35:50
+Alder eller ej.
+
+36:02
+Her. Selvom vi har sådan en differentialligningen skrive, skal den x0 derfor ikke x mærke tab plus tre ekstra tal er lig nul.
+
+36:21
+Det er en første ordens differentialligning, fordi den afledte, der indgår den højst mulige, den går ind.
+
+36:27
+Den er linie R, og det skulle jeg egentlig undersøge om. Det har jeg faktisk gjort lige fra den første eksempel.
+
+36:32
+Og vi kan også se. Kan se på den linje. Det er bare en lille akkumulation af ex mærker ex og højresiden over den er nul, så den er homogen.
+
+36:47
+Hvad er løsningen til den lær? Der er flere måder at gøre det på.
+
+36:52
+Nogle siger, den kender vi den. Derfor har vi set flere gange tidligere.
+
+36:56
+Løsning nr. 1 i minus tre ting. Og hvorfor er det egentlig det?
+
+37:00
+Man må lige tjekke, om det er en løsning. Jeg synes hellere, det er en briks mærkets plads.
+
+37:03
+Her er det en løsning. Jeg er at at i panteisme, vi prøver lige at sætte sig selv og differentiere den.
+
+37:10
+Jeg mener trænede foran en minus tre ting plus tre gange 1 minus tre ting.
+
+37:16
+Jeg sætter min funktion ind i den her ind i ligningen.
+
+37:25
+Og hvad bliver det her? Den, der mener, at det bliver nul.
+
+37:28
+Det er altså en løsning, og det er den fuldstændige løsning. Der er flere måder at gøre det på, fordi man så viser vi en formel,
+
+37:37
+hvor vi generelt kan bestemme denne her løsning og sige så har vi gjort det en gang for alle.
+
+37:40
+Det er den fuldstændige løsning. Så det tror jeg, vi vil.
+
+37:45
+Vi vil gøre det, vi vil gøre i dag.
+
+37:48
+En anden måde at gøre det på, hvis man vil undersøge nogle, er det, at man i Mabels skriver noget, der hedder det, så det kommer tilbage til.
+
+37:55
+Og så giver den os altså også løsninger til sådanne differentialligning og så den tredje måde at gøre det på.
+
+38:01
+Det er jo, og alle har jo nok været igennem et bevis for, at du faktisk har en fuldstændig løsning,
+
+38:07
+bladre tilbage i, hvad man har lært tidligere og se, hvad løsningen er værd.
+
+38:11
+Men vi vil se senere i dag, at det er faktisk den fuldstændige løsning. Sådan en fuldstændig løsning er en homogen lige nu, ikke Michael eller ham.
+
+38:19
+Ja, det er mængden af de funktioner, som tilhører os.
+
+38:24
+Det er eller sæt, hvor om der gælder, at de skal være på formen.
+
+38:33
+Vi gør civile ensidig i de reelle løsninger i dag, så vi siger, at vores set tilhører bare de reelle tal.
+
+38:38
+Hver gang vi har et reelt tal, så kan vi sætte det foran, og så har vi en ny løsning.
+
+38:42
+Så det er altså, der er uendeligt mange løsninger til den her. Der er en for hver eneste sag.
+
+38:50
+Hauge. Lad os se på en ny differentialligning, og det ved jeg altså ikke mener skal være helt nyt.
+
+39:00
+Det skal faktisk være næsten den, vi lige har haft der. Vi skal bare lige ligge noget til den.
+
+39:13
+Vi tager sig af en lille tager den samme igen. Kan mærke. Tag plus 3 x antal er lig med 2 x plus 1.
+
+39:26
+Det er stadigvæk høj denne venstresiden.
+
+39:29
+Det er den samme. Nu er det kommet en ny højere side på. Det vil sige, at det nu er denne differentialligning.
+
+39:34
+Den er blevet en 1H Morgan. Men nu er der kommet ekko coating på, som hedder tog efter i sagen, og det er en fejl.
+
+39:44
+For satan er det her ikke to expos 1 2 tab plus en del der stod 2 to +1.
+
+39:51
+Så havde det været noget helt andet, har de to ting på én.
+
+39:57
+Det er en inhuman linie. Første ordens differentialligning hvad var så?
+
+40:04
+Jeg sagde, vi skulle finde en fuldstændig løsning til Anthon. Vi jo begynde at prøve at finde ud af, om vi kunne finde den.
+
+40:08
+Det ser lidt mere svært ud. For hvad skulle vi have? Skulle jeg ikke være sikker på, at alle løsninger på med?
+
+40:13
+Men det kan vi jo så se. Bare vi kan gætte en eneste løsning til den, der bare en eller anden ex, der passer ind, som giver det her.
+
+40:22
+Så er vi færdige på navigeret. 1. Så kan man lægge den til.
+
+40:26
+Vores indhold må være en løsning holder op.
+
+40:28
+Og så har vi jo ifølge vores det alene, at systemet er, så har vi den fuldstændige løsning til det inhumane handelssystem.
+
+40:36
+Så det prøver vi. Kan vi gætte en? Og det kan vi godt se, at det, der står her, og det er første gang at spille med om Hero da differentierer.
+
+40:44
+Vi har bevaret det lidt stald, så mon ikke vi skulle prøve at gætte på et første græs på lommen, når vi skal finde ud af, hvad det skulle være?
+
+40:51
+Det er nok et helt tosset. Det ville være dumt at gætte på noget med en og sinus ting her, for der er slet ikke noget med det her.
+
+40:57
+Det ville også være dumt at gætte på et angrebsspil med, om så ville vi bare få et andet slide her, der alligevel skulle være nul lige om lidt.
+
+41:02
+Men skulle man lige med det første græs på, når det bliver så i første grad, er et godt gæt.
+
+41:07
+Det gælder, hvis på. Skal vi gætte på, vi gætter på et, der hedder a, t plus B, og det er altså vores ex.
+
+41:14
+Gæt det her. Og på det er det en, hvis jeg differentierer det.
+
+41:21
+Så får jeg af her for første led. Og her var der føjet tre gange a t plus bag skal være lige med to tal plus en,
+
+41:30
+og det skal altså som sagt gælde for ethvert ting, og vi kan forestille os.
+
+41:34
+Det betyder også, at hvis det skal gælde for ethvert tab,
+
+41:37
+så må det værdsatte Kurt centeren til tilbedende og konen og lederen her, de hver især må udligne hinanden.
+
+41:44
+Det vil sige, at hvis jeg ser på det, der står her, så vil vi få folk, der hedder tre a ting.
+
+41:50
+Det er det eneste, der har noget med tære på. Det skal altså være lige med det. Lederen hedder to ting.
+
+41:54
+Og rent faktisk skal kursen den bare for at passe sammen.
+
+41:58
+Så har vi også et led, der hedder A plus 3 B, A plus tre B.
+
+42:04
+Den konstante er der ikke nogen tænder på. Det skal altså udligne konstant med herover, hvis det skal passe.
+
+42:10
+Og så har den første ligning her, og der kan vi så se, jeg skal af jeg lige med to tredjedele, og hvis A er lig med 32, kan man på denne her hernede.
+
+42:20
+Og så kan vi så se på samme måde. Det er jo ikke lave en mellemregning, at 3.
+
+42:24
+B man vil rykke to tredjedele her, også får vi en tredjedel og så B 9 1 ligner det.
+
+42:33
+Så har vi fået et godt gæt op for hvad skal vores gættede løsning hedde?
+
+42:37
+Der skal altid være to tredje dag og ben.
+
+42:40
+Det skal være en lille. Hest.
+
+42:53
+Hvad værre er, så er den fuldstændige løsning til denne her inhumane gener differentialligning.
+
+42:59
+Den vi kalder l indhold. Ja, det har igen de funktioner jeg ikke satin.
+
+43:07
+Tilhørende state and preservation, hvorom der gælder. Hvordan skal de se ud?
+
+43:11
+Ja, de skal faktisk se ud som dem her at ægge, så tag skal være lige med de inhumane vinde løsninger.
+
+43:19
+Se gange 1 i minus tre. Tag plus.
+
+43:24
+Til alle dem skal vi jo så lægge den gættede løsning.
+
+43:27
+Sådan hedder to tredjedele tænkt plus den ene dag og så hvor se bare et eller andet tilfældigt reelle tal.
+
+43:39
+For sådan os ser den fuldstændig løsning ud til en inhuman indledning og er opgøret med førsteholdet.
+
+43:48
+Det kan være let lige at løse den. Den homogene mening og på en måde kan man måske.
+
+43:54
+Hvis det var en eksamensopgave, kunne det være, at man havde fået et gæt efter vis, at denne her funktion er lytte til en inhumane ligning.
+
+44:00
+Og så har man faktisk løst den inhumane vegne bagefter. Men det er jo ikke nok for os.
+
+44:06
+Vi laver simpelthen en form, der løser enhver inhuman ligning i hver første ondets.
+
+44:12
+Endnu en hvid linje, altså enhver differentialligning på denne her form op simpelthen for mange på den.
+
+44:17
+Og så kommer løsningen liv. Det tror jeg, vi venter med at tælle lige efter pausen.
+
+44:23
+Ja.

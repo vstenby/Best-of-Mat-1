@@ -1,0 +1,1331 @@
+0:05
+Tage fat på Mars er det her jeg er Go morgen Danmark.
+
+0:15
+Det kan man høre det fra. Ja, da kan vi høre det, og jeg kan høre mig.
+
+0:26
+Altså må jeg råbe lidt højere. Jeg håber I har god fornøjelse tema øvelsen i sidste uge, altså som afsluttet forløbet omkring komplekse tal.
+
+0:38
+Men glem dem ikke, for de dukker op henad vejen igen.
+
+0:43
+Også i forbindelse med den næste nye store emner, som vi skal gennemgå. Og det er jo lineær algebra.
+
+0:50
+Det tager vi fat på i dag, for vi starter lidt med at snakke om, hvad matricer er for noget,
+
+0:56
+og hvordan man kan regne med dem og derefter så det store i det store emne.
+
+1:01
+I dag er lineære ligning systemer. Hvordan vi løser dem for mange løsninger, der er og alt det der.
+
+1:10
+Så det er et spændende nyt emne. Jeg tror ikke, der er så mange, der kender det på forhånd.
+
+1:16
+Der er nogle, der enten ikke har måske haft det som SRP eller noget i den stil som valgfag.
+
+1:24
+Men så kan du jo slappe lidt af i hvert fald i begyndelsen her. Men det ligner jo lignende systemer.
+
+1:29
+Det er noget, som vi får rigtig meget brug for i resten af semestret, og det er det hele den Linde Allé bare den bygger på.
+
+1:39
+Så nu går vi bare simpelt hen igang og er.
+
+1:45
+Vi skal starte med at snakke om matricer og vi siger en.
+
+1:52
+EM Cruys EM Matrix A.
+
+2:00
+Den har EM rækker og n søjler, og vi skriver sådan her,
+
+2:11
+at A den er et element i den mængde EM kryds end så det vil sige det sølle symbol, der står her.
+
+2:23
+Det er simpelt hen mængden af alle reelle matricer, som har EM rækker og søjler.
+
+2:34
+Og nu skal vi have nogle regner arter. Det første vi snakker om, det er selvfølgelig addition, og lad os kigge på en Matrix A.
+
+2:51
+Den er måske 1 2, 3 3 minus 1 1, og det vil altså sige, at den har to rækker og tre søjler.
+
+3:07
+Og så kigger vi på en matrix B. Denne hedder måske 1 0, 1 0, 2 3 skal vi se det, og den ligger også i mængden af 2 kryds 3 matricer.
+
+3:29
+Altså vi vil gerne kunne regne med alle disse matricer, ikke sandt? Nu er vi altså i gang med indføre nogle regner arter.
+
+3:34
+Det første addition, og det er heldigvis meget nemt, fordi vi siger A plus B.
+
+3:44
+Den får vi simpelt hen bare ved at lægge sammen plads. Så det skal altså være den plus den.
+
+3:50
+Det giver 2 og den plus den. Det giver også 2.
+
+3:55
+Og så får vi et 3 plus 1. Det giver 4, og så får vi 3 plus nul.
+
+4:02
+Det er tre, og så får vi minus 1 plus 2.
+
+4:06
+Det giver en, og til sidst har vi en plus 3.
+
+4:10
+Det giver fire. Så det var jo rigtig nemt, og I kan altså se addition af matricer, der er definerede for matricer, der er af samme type.
+
+4:26
+De skal altså have samme antal rækker og samme antal søjler.
+
+4:32
+Det næste vi så skal have indført, er multiplikation med tal.
+
+4:49
+Så vil jeg sige, at jeg vil gerne kunne tage et tal på.
+
+4:55
+Og gange den med min matrix.
+
+5:01
+Læg mærke til at når jeg skriver matricer og vektorer her i løbet af i dag og frem over, så sætter jeg altid en streg nedenunder,
+
+5:12
+og det betyder, at det svarer til de bogstaver, der står med fed i en ordrene, og som vi altså kan skelne mellem.
+
+5:20
+Hvad er et tal, og hvad er for eksempel en vægteren matrix? Når reglen for multiplikation med et tal?
+
+5:28
+Det er simpelt hen bare den, at tallet skal ganges ind på hver af de tal vi har, har da optik også er det vi sidder.
+
+5:36
+Kog 2 kog 3 K og så er det 3 K.
+
+5:42
+Og så er det minus kog, og så er det på. Så det var sådan set også meget nemt.
+
+5:54
+Så skal vi have subtraktion.
+
+6:07
+Og her gør vi det samme trick som vi gjorde, da vi snakker om komplekse tal, at subtraktion er sådan set ikke noget i sig selv.
+
+6:15
+Fordi vi definerer en Matrix A minus B som det samme som at lægge A sammen med den modsatte vægt, så er B.
+
+6:29
+Så det er altså a clouds. Og hvis vi siger minus 1 gange med B, så er dette den modsatte matrix til B.
+
+6:43
+Og det er sådan set bare lige for forenklet, hvad det er for nogle regner arter, vi bruger.
+
+6:49
+Men det er meget nemt at regne det ud. Ikke fordi alle de tal her bliver ganget med min Odysseen.
+
+6:55
+Og så skal vi bare lægge dem til sammen med alle, ikke sandt, så det bliver.
+
+7:00
+Det bliver så 1 min sagen. Det er nul, og så bliver det 2 minus nul.
+
+7:06
+Det giver 2. Og så er det 3 min. Nu sagen. Det giver 2.
+
+7:10
+Og så har vi et 3 minus nul. Det giver 3 min.
+
+7:14
+Nu se 1 minus 2. Det må være minus tre, og så endelig har vi 1 og minus 3.
+
+7:19
+Det giver minus 2. Det.
+
+7:27
+Så det var det, når vi skal snakke om multiplikation.
+
+7:36
+Så har vi noget, der hedder multiplikation.
+
+7:46
+Ja, vi kan kalde det for Matrix vægtere produkt.
+
+8:04
+Så lad os nu se at vi har en væg så givet ved 1 minus 1 og 2.
+
+8:16
+Og så vil vi gerne lave matrix vækster produktet A ganget med ved.
+
+8:27
+Og af dem har vi stadigvæk den, som jeg havde skrevet derovre en to 3 3 minus 1 1,
+
+8:38
+og den skal vi nu gange med vægteren V, som vi har kaldt minus 1 min.
+
+8:45
+Nu scenen og 2. Så nu skal jeg se hvordan man gør det.
+
+8:58
+Kan du huske det? Hvad er det så?
+
+9:05
+Ja, altså rækken gange med søjlen ikke sandt det, at den skal stå for over den, skal stå dér.
+
+9:14
+Den skal vi regne ud lige om lidt. Og så bagefter siger vi.
+
+9:17
+Rækken er gange med søjlen. Og hvad mener vi med gange?
+
+9:23
+Der mener vi prikproduktet. Som I kender fra vægttræning i gymnasiet?
+
+9:29
+Så vi skal altså have lavet to prikproduktet her og et prikproduktet, det vil sige den gange med den plus den ganget med den plus den gange med den.
+
+9:40
+Så lad os prøve at se, om vi kan regne det ud. Først har vi en.
+
+9:45
+Og så har vi minus 2. Så er vi nede på minus 1 og så tre gange med 2.
+
+9:50
+Det giver 6, og vi havde minus 1 i forvejen. Så giver det øverste prikproduktet giver 5.
+
+9:59
+Og så går vi til det andet prikproduktet. Der har vi altså tre gang en.
+
+10:03
+Det giver en plus minus 1 gange med minus 1.
+
+10:07
+Det giver +1. Så er vi oppe i 4 og så 1 gange med 2.
+
+10:11
+Det giver 2 plus de fire vi havde i forvejen. Så har vi altså regnet her.
+
+10:20
+Et matrix vektor produkt ud, altså som 2 prikproduktet.
+
+10:32
+Godt, så går vi videre til Matrix Matrix Product.
+
+10:49
+Og vi kan jo bare bruge den samme den samme a, 1, 2, 3 og 3, minus 1 og 1.
+
+11:05
+Og nu kan vi gange den med 1 minus 1 2 og så 1 0, 1 1, 1 0 og så 3 0 nul.
+
+11:28
+Det her er også noget med prick produkter. For faktisk så vil dette matrix matrix produkt.
+
+11:35
+Det ville sådan set bare sige, at altså vi har en matrix, og så har vi en vektor.
+
+11:41
+Det skal vi have regnet ud. Så det må blive det samme som det, der står herinde.
+
+11:46
+Men så kommer der altså en væg med mere. Hvor vi også skal lave prikproduktet dér og prikproduktet dér og sådan hele vejen hen, ikk?
+
+11:54
+Så det her matrix matrix produkt er sådan set bare den 4.
+
+11:59
+Matrix vektor produkt, og vi skal have lavet. Så lad os se, om vi kan hitte ud af det.
+
+12:06
+Så vi starter altså med den ganget med den, og den har vi regnet ud i forvejen.
+
+12:11
+Den 5. Fem. Og så tager vi den næste prikproduktet af den gange med denne ikke sandt det?
+
+12:20
+En ganget med 1 2 gange med nul. Det giver nul. Vi har én, og så har vi.
+
+12:24
+Så har vi tre gange, inden det giver én, og så må det blive fire på den plads her.
+
+12:31
+Og så tager vi igen prikproduktet af denne her med den tredje søjle.
+
+12:37
+Det giver så en gange med en. Og så giver det to gange med en top op i 3.
+
+12:42
+Og den sidste giver bare nul.
+
+12:43
+Den giver 3 1, og så til sidst, så har vi altså prikproduktet af den og den, og da kan I se der, for vi engang er 3 2 gange nul og tre gang med nul.
+
+12:54
+Det giver så bare 3. Så går vi ned til den nederste vanrøgt værktøj i matricen dér og skal nu gøre det samme.
+
+13:08
+4. Prikproduktet her. Der skal opskrive, ser hende.
+
+13:12
+Som vi har jo allerede regnet det første prikproduktet. Det var 6.
+
+13:19
+Og så skal vi se tre gange 1, og så er minus en gang med nul og så pludselig en gang 1.
+
+13:26
+Det giver fire udfald, og så skal vi se tre gange med én.
+
+13:32
+Det giver tre minus 1 gange med ens, så ved en fart giver 2.
+
+13:37
+Så her får vi altså 2. Og så til sidst, så får vi altså tre gange med 3, 9 og så nul og nul.
+
+13:45
+Og så har vi altså her udregnet et Matrix Matrix produkt.
+
+13:56
+Så I kan sådan set se, at der er en væsentlig forskel på det jeg har lavet her,
+
+14:04
+og så det jeg lavede i starten med addition og subtraktion for addition og subtraktion.
+
+14:11
+Det krævede, at det var samme type matrix. Sådan var det definerede.
+
+14:16
+Men I kan se. Dette er jo ikke samme type. Dette jeg er en se.
+
+14:22
+Det er en to gange tre matrix, mens dette er en tre gange fire matrix.
+
+14:31
+Så vi kan lige som prøver at overveje hvad må så egentlig reglen være for hvilke typer vi kan Kangert sammen af matricer?
+
+14:43
+Altså her havde vi bare en exchange der her havde jeg her havde taget fire mand i godt se.
+
+14:48
+Jeg kunne jo sådan set, jeg kunne have taget lige så mange.
+
+14:52
+Jeg kunne tage ligeså mange søjler med i anden faktoren, som jeg ville have gjort, og jeg kunne sagtens udregne de dér prikproduktet.
+
+15:00
+Sagen er det vigtigt, at vi kan af, at vi kan lave de dér prikproduktet.
+
+15:06
+Og hvorfor kan vi det så? Hvad er det egentlig? Hvad er det egentlig, som er det afgørende?
+
+15:12
+Kan jeg se. Det afgørende er jo, at antallet af rækker i den første skal være lig med antal.
+
+15:20
+Nej, hvad det hedder. Antallet af søjler den første skal være lig med antallet af rækker i den anden.
+
+15:27
+Ellers kan jeg ikke lave disse prikproduktet. Så antal søjler, altså i første faktor.
+
+15:44
+Skal være lig med. Antal rækker.
+
+15:57
+I anden faktoren, og vi kan endda lave en en lille flot formel, hvis vi siger hvis I har en matrix af.
+
+16:16
+Den vil vi gerne gange med en Matrix B. Og så skal vi lige se hvad er det egentlig, der er afgørende?
+
+16:27
+Hvis vi siger, at den første den har EM rækker og en søjler, så er det fastlagt, hvor mange rækker den anden skal have.
+
+16:40
+Så høj at altså en de to ting, der skal passe med hinanden.
+
+16:47
+Og så kan det ellers der kan være ligeså mange søjler som det skal være,
+
+16:51
+så vi kan se, at vi har en EM cruys en matrix som vi ganger med en Cruys p matrix.
+
+16:59
+Og hvad kommer der så ud af det? Så I kan se produktet, der overholder antal antal rækker i den første?
+
+17:10
+Så det bliver så EM og så antal søjler i den anden.
+
+17:15
+Det er PET, så det er sådan en lille. Format regel der åbenbart gælder for den type af produkter vi snakker om her.
+
+17:39
+Prøv at se. Hvis jeg nu laver en matrix A, som hedder en 1 0 nul.
+
+17:53
+Og vi har B som 0 1, 0 0.
+
+18:01
+Lad os prøve at gang mod. Adgang Betty passer i hvert fald med typen, så når vi udregner produktet ikke, så får vi en gang 1 og nul gange.
+
+18:14
+Nu har jeg godt, så det giver bare en nul på førstepladsen og så prikproduktet af en 1 gange med en over nul.
+
+18:23
+Det giver en, og tager vi så de to nulre og laver prikproduktet her.
+
+18:30
+Så er det jo klart, at der får i bare nul og nul. Så nu kunne det være sandt at prøve med det modsatte.
+
+18:41
+Hvor vi siger begge gange med A. Og nu skal vi så sige nul 1 gange 1 0 giver nul.
+
+18:53
+Og så 0 1 gange 1 over 1.
+
+18:58
+Den giver 1 1, og så skal vi sidde klar, når vi ser.
+
+19:04
+Hvad laver vi se, hvad vi ser.
+
+19:09
+Der får vi selvfølgelig den gange, men den giver nul.
+
+19:16
+Så vi skal. Har.
+
+19:23
+1 0 0, 0 0. Og så siger vi.
+
+19:32
+Altså giver de tager vi med hinanden desværre. Så man skal lige se, hvordan var det vi havde?
+
+19:40
+Hvordan var det at havde lavet denne her lille sjove ting med?
+
+19:47
+Og selv jeg vil nu gøre sådan her i stedet for. Og så prøver vi at lave den igen.
+
+19:53
+Så får vi den den gange med der.
+
+19:58
+Det giver en. Og så får vi den ganget med den, det giver nul, og så får vi 2 0, og det er ikke sandt, ik?
+
+20:10
+Og nu gør vi så det modsatte godt, og så tager vi det, og så tager vi den gange med den.
+
+20:17
+Det giver en, og vi tager den ganget med den. Det giver også en.
+
+20:22
+Og så tager vi et nul gange nul og nul gange nul, og så får vi altså det her ikke.
+
+20:28
+Så vi kan altså konstatere her, at den regel, vi kender fra reelle tal og for komplekse tal,
+
+20:38
+er et faktorernes orden er lige gyldig ved matrix matrix spådom eller altså ved almindelige produkter gælder ikke det Matrix Matrix Products.
+
+20:49
+Generelt set gælder det så, at A gange med bind ikke nødvendigvis er det samme som b gange med A.
+
+21:02
+Sådan det. Så derfor taler man om når man når når vi skal snakke om matricer.
+
+21:15
+Vi snakker om produkt, så er det noget der hedder gange fra venstre og gange fra højre.
+
+21:22
+For det giver så forskellige resultater, man husker i den der. Det sidste, som vi lige kan tage op her.
+
+21:37
+Det er transponerede matrix altså.
+
+21:45
+Hvis vi tager og laver transponering af matricen af og det er den samme mad som vi burde.
+
+21:55
+Det betyder bare simpelt hen det, der var rækker i den første.
+
+22:00
+Det er nu søjler i den samme make. Så I kan altså se at være her.
+
+22:05
+Da havde vi i rækken 1 2. 3. Og hvad var det vi sagde?
+
+22:10
+3. Minus 1 og 1. Så hvis vi havde en defekt i systemet her transponering gælder ikke,
+
+22:30
+så kan jeg jo prøve nu se vi lavede da vi lavede det Matrix Matrix Product, som står det, at hvis vi prøvede at transponeret.
+
+22:44
+De to som vi har det oppe ad, det vil jeg sige hvis vi altså vil snige 2 1, 1 1.
+
+22:52
+3. Minus 1, 0, 1 og 0.
+
+22:58
+Og så har vi to 1 0 og nul. Hvis I prøver at gange den med a transponeret 1, 2, 3, 3, minus 1 og 1.
+
+23:19
+Som det så viser sig når vi laver alt det dér prikproduktet, som hører til her.
+
+23:23
+Jamen, så vil vi lige præcis få 5, 4, 3, 3, 6, 4, 2.
+
+23:33
+Og 9. Så det vil altså sige.
+
+23:41
+At hvis se og det der kan vi så kalde for denne.
+
+23:46
+Det er den kan vi kalde for. For ikke er brudt sammen.
+
+23:52
+Bogstaver ikke er så det her. Tænk at vi kan se. Se transponerede.
+
+23:59
+Og det var altså a transponeret. Så er det sådan når I ganger se transponeret med transponeret, så er det lig med produktet af A og C.
+
+24:18
+Transponeret. Så det er sådan en litterær passivt skal det ikke være, siger en.
+
+24:29
+Jo, nej, nej, det er produktet du se.
+
+24:33
+Du har produktet er arving til højere ageres.
+
+24:36
+Det er det, vi har transponerede herinde, som vi kan se, at vi får sådan en.
+
+24:41
+Vi får altså også sådan en en mærkelig sætning, at hvis vi bytter faktorerne om at så se transponerede gange med den transponerede,
+
+24:51
+jamen så er det deres oprindelige produkt transponeret. Så det er sådan en lille fin sætning, der gælder om at transponering og produkter.
+
+25:08
+Godt det var da. Vi har fået introduceret matricer, og nu skal vi så i gang med at snakke om lineære ligning systemer.
+
+25:40
+Så lad os starte med et lille eksempel her.
+
+25:45
+Minus 2 x minus Y er lig med 5.
+
+25:50
+Og så har vi x plus 2. By er lig med 2.
+
+26:04
+Så her. Der har jeg, så skal vi lige prøve at levere det vi har gang i her.
+
+26:12
+Det er jo to ligninger, og der er to ubekendte. Ikke?
+
+26:16
+Så vi er jo de ubekendte, og vi vil gerne løse det her system.
+
+26:21
+Det betyder, vi vil gerne finde ud af, hvad skal ikke så være for at begge disse ligninger er opfyldt?
+
+26:29
+Og bemærk lige at systemet det er en homogent.
+
+26:37
+Så det kommer vi til at snakke meget om hovedorgan lignende systemer og en hårmode gren af lignende systemer.
+
+26:44
+Det er enormt arrogant, når højresiden ikke er nuller hele vejen igennem.
+
+26:50
+Så vil alt sige når vi har 5 og 2. Så er det en homogent. Det er kun homogen, hvis der er stået nul på begge de pladser her.
+
+26:58
+Så det er da huske det. Og så hvad mere kan vi sige?
+
+27:02
+Ja. Ideen i at løse dette er Gauss, Jordan elimination og hele princippet det går ud på,
+
+27:14
+at nu vil vi manipulere med de to ligninger, sådan at til sidst, så står der kun ét ex.
+
+27:25
+Her på venstresiden. Altså i den første række her, og der står kun ét y i.
+
+27:33
+På venstresiden i anden række. Og så har vi jo netop løsningen systemet.
+
+27:39
+Så læg lige mærke til jer brugt. Altså her. Jeg har brugt udtrykket række, så vi kan ikke skrive her.
+
+27:51
+Ja, hos jeg siger at dette er første række. Dette er anden række.
+
+28:00
+Så nu begynder vi så at manipulere med de to ligninger.
+
+28:04
+Her ikke så det første jeg vel er.
+
+28:08
+Jeg skal altså sørge for, at jeg har et X i den øverste række, da jeg ikke og har jeg kunnet gange med minus en halv et nordøstre.
+
+28:20
+Men. Hvad gør vi? Vi kan også bare bytte de to år.
+
+28:25
+Så nu står jeg her række ét. Det bytter jeg med at række 2.
+
+28:33
+Og så får jeg så x + 2.
+
+28:37
+Byen er lig med 2. I år strejke, og så får jeg minus 2 x minus Y plus 5 i den anden række.
+
+28:53
+Er. Lige madding. Sådan da.
+
+29:02
+Og det var det første jeg har sørget for.
+
+29:04
+Nu har jeg bare et enkelt æg stående for oven, og nu vil jeg gerne være fri for, at det er ikke så få forneden, fordi det må jeg.
+
+29:13
+Der må kun være ikke så strejke. Så hvad kan jeg gøre her?
+
+29:17
+Jo, hvis jeg tager den øverste række, ganger den med 2 og lægger til den nederste række, så må de minus to ikke må forsvinde.
+
+29:26
+Så hvordan kan vi skrive det? Det skriver. Vi ved, at vi tager, at vi tager række 2.
+
+29:36
+Og så siger vi + 2 gange med række et.
+
+29:42
+Og så ser vi hvad vi får ud af det. Der er ikke nogen forandringer i den øverste, så der har vi stadigvæk ex.
+
+29:49
++2. Y er lig med 2. Og så skal vi alle se to gange med denne lak til, så de som ønskede forsvundet.
+
+29:59
+Og så ser vi to gange 2. Y. Det giver fire min søn.
+
+30:03
+Så har vi trænet. På det sted.
+
+30:08
+Og så skal vi selvfølgelig også gange højresiden. Og så får vi altså to gange to +5.
+
+30:13
+Det giver I. Ja, men jeg har et X i den øverste række, og jeg har trænet nu i den nederste række.
+
+30:31
+Jeg vil kun have ét. Så hvad kan jeg gøre ved det?
+
+30:36
+Jo, jeg kan jo bare gange række 2 med en tredjedel, så det er min næste.
+
+30:43
+Operationen er så er to gange med en tredjedel.
+
+30:51
+Så har vi stadigvæk ex + 2.
+
+30:56
+By er lig med 2. Og så forneden har vi by er lig med 3.
+
+31:08
+Nu er der kun én ting jeg ikke kan li tilbage, og det er, at der er byer i den øverste række.
+
+31:16
+Så nu vil jeg gerne fjerne dem, eliminere dem. Og hvordan gør jeg det?
+
+31:21
+Jeg siger række et. Flows hvad?
+
+31:31
+Minus to ja minus to gange med R 2.
+
+31:37
+Sådan her og se hvad får vi så? Så skal vi altså gange med.
+
+31:43
+Vi ganger med minus to og lægger til.
+
+31:46
+Så forsvinder den for oven. Vi siger, den er minus 2.
+
+31:51
+Det giver det gennem endnu. 6 Plus.
+
+31:55
+2. Det giver minus 4, og så får vi altså. Til sidst får vi så ex er lig med minus fire og by er lig med 3.
+
+32:14
+Så nu har jeg lavet nogle elimination der betyder, at vi kun har et X i den øverste række og et Y i den nederste række, og det betyder jo ligning.
+
+32:26
+Systemet er løst, så jeg kan sådan set skrive nu, at det kan vi skrive på to steder på to måder.
+
+32:34
+X komma Y er lig med minus 4,3.
+
+32:41
+Det er en måde at skrive det på. Vi kan også skrive det sammen.
+
+32:44
+Vektorer x y er lig med minus 4 og 3.
+
+33:02
+Lad os lige overveje lidt hvad det er vi har lavet her. Det.
+
+33:07
+Vi havde et lignende system, to ligninger med to ubekendte, så fik vi et nyt Leino system.
+
+33:15
+Så blev vi et tredje level system. Så fik vi et bjergningen system, og så fik vi et femte længen system.
+
+33:23
+Det lignede systemer. De er selvfølgelig forskellige, men pointen er, at de har den samme løsning.
+
+33:35
+Den har den samme løsning som den, som har samme løsning som den som den.
+
+33:40
+Og som den så derfor er det rigtigt. Vi kunne bare prøve at indsætte minus fire, og så giver det plus 8 minus tre.
+
+33:49
+Det giver fem, og vi har minus fire plus to gange tre.
+
+33:54
+Det minus 4 +6 giver lidt med 2, som vi så indsætter det i den der lille system.
+
+33:59
+Så kan jeg altså se, at det passer. Så det er altså pointen. Så nu er spørgsmålet Hvad var det egentlig, jeg lavede?
+
+34:06
+De gange her? Hvad er det for nogle manipulationer jeg har lov til at lave sådan at løsnings mængden ikke ændrer sig.
+
+34:18
+Vener i systemerne ændrer sig, men det gør løsningen sprinten ikke. Det kalder man altså for række operationer.
+
+34:37
+Og så lad os lige på og supplere dem op. Og det er tilladt.
+
+34:51
+At og så er den første regel er. Bytte bytte to rækker.
+
+35:07
+Det håber jeg I synes at det må være klart ikke er, så det må høre, når der er to ligninger med to ubekendte.
+
+35:13
+Det er jo klart, at det må være fuldstændig ligegyldigt, om jeg skriver den ene først eller den anden først.
+
+35:17
+Det må være samme løsningsmodel, så det håber jeg enig med mig om. 2.
+
+35:25
+Ja, der kan vi lige tage den her krise. Jeg valgte at gange en række med et tal, nemlig med en tredjedel.
+
+35:35
+Og jeg kan godt se. Det ændrer jo ikke løsnings mængden for denne her, og så kan det heller ikke ændre løsnings mængden.
+
+35:42
+For hele systemet. Altså det er tilladt at gange en række.
+
+35:54
+Ned et bestemt tal. Men det tal må ikke være tallet nul, for det er klart, hvis jeg havde gange dette tal med 0 mm, så var det blevet til et andet.
+
+36:08
+Det nye system. Og så var der den altså den tredje ting, som jeg for eksempel brugte ikke.
+
+36:22
+Jeg er ganget den øverste række med 2, og så lader jeg det til.
+
+36:27
+Den nederste række skal lige overveje den.
+
+36:31
+Så nu vil jeg bruge sådan lidt intuitiv tænkning her, og ikke fordi det man kan sige en en ligning er korrekt, hvis den har ligevægt eksternt link.
+
+36:41
+Så hvis der er ligevægt mellem højresiden her og her, og der er ligevægt mellem de to sider.
+
+36:46
+Dér ligger jeg så Venstre siddende som og højere sæderne sammen. Så er der bevarede ligevægten.
+
+36:51
+Er jeg mere på det?
+
+36:53
+Hvis jeg nu tager den ene af dem, altså der lige virker her og ganger den med 2 på begge sider, så ligevægten bibeholdt på den øverste.
+
+37:04
+Og når jeg så lægger til den til en række nedenunder, hvor der også er ligevægt,
+
+37:08
+så må det være klart, at det, der kommer ud af det, også har ligevægt.
+
+37:14
+Så det vi altså kan sige her er at lægge et multiplum af en række.
+
+37:25
+Multiplum. Det betyder bare man har grand den med tallet ligget et multiplum af en række.
+
+37:37
+Til en anden række. Sådan.
+
+37:46
+Det er de tre frække operationer, og det er dem vi kommer til at bruge en hel masse.
+
+37:52
+Og mere behøver vi ikke. Så kan vi løse så store living systemer, og vi går nu i gang med det næste eksempel.
+
+38:02
+Og jeg skal lige have slettet lidt tavler, så I kan lige slappe af.
+
+38:16
+Lang. I stedet.
+
+38:21
+Privatskoler stiller.
+
+38:27
+Men nok til det, at det kan være sådan, at den der jo rejser sig fra det.
+
+38:36
+Ja, altså det gør man. Og så laver man sådan en pige nogle gange. Det er vist er geometrisk svigter, og det er altså.
+
+38:53
+Jeg har taget fejl. Der er.
+
+39:24
+Nej. Jo.
+
+39:38
+Jeg har sat mig. Så jeg.
+
+39:48
+Jeg til mig. Så.
+
+40:06
+Er godt med.
+
+40:19
+Ja, så er det da.
+
+40:31
+Der kan man høre samtaler.
+
+40:38
+Han sagde ja, så regner.
+
+40:46
+Ja, så er vi i gang igen med et lidt større dining sølvsteen.
+
+40:51
+Nu har jeg nemlig skrevet et lignende system UP, der består af tre ligninger med 3 ubekendte og altså hele ideen er den samme som i før,
+
+41:03
+nemlig at isolere den første ubekendte, som nu hedder Except.
+
+41:09
+I den øverste række isolerer X2 i den anden række og isolerer X3 i den tredje række.
+
+41:18
+Og nu kan jeg godt se at bare dette system med to linjer med to til to ubekendte.
+
+41:23
+Det fører til en masse udregninger osv. Så det man så har tænkt over er.
+
+41:30
+Altså hvad er egentligt den vigtige information i sådan et lignende system som det her?
+
+41:39
+Og den vigtige information. Det kan jo ikke være hvad de ubekendte hvad de hedder.
+
+41:47
+Altså om de hedder jeg ikke set X2, X3 eller i eksil i USA eller BSC eller hvad de hedder.
+
+41:52
+Det er jo ligegyldigt. Så nu skal vi prøve at være smarte.
+
+41:57
+Hvordan kan vi sørger for at få løst det her system på en måde?
+
+42:03
+Det er så nemt som muligt, og hvor vi fjerner overflødig information.
+
+42:08
+Og da er matricer vores metode, og nu indfører vi altså nogle begreber.
+
+42:19
+Altså vi indfører. Vi indfører det, der hedder en koefficient matrix.
+
+42:33
+Og den kan vi altså fejre at vi gerne og kalde for A, der kan svælge i hvad som helst, men lad os kalde den for A.
+
+42:44
+Og nu skal vi så her i den første søjle, der er, redegør vi så for koefficienterne med hensyn til except.
+
+42:54
+Og der kan hvis det der har vi altså en nul. Og der har vi to, og der har vi tre.
+
+43:00
+Og så Kofi centrene med hensyn til X2. Der har i minus 1, og der har vi fire, og der har vi så fire.
+
+43:11
+Og så skal vi have koefficienterne med hensyn til X3, og de må så være 1, 2.
+
+43:19
+Og 1. Det være sig koefficient matricen.
+
+43:26
+Som vi har skrevet op her. Og så har vi det vi kalder højresiden.
+
+43:38
+Se, det er matricen B. Og.
+
+43:46
+2. 2. 9. Har vi som der?
+
+43:52
+Og nu kaldte jeg det for en matrix. Men den ville jeg egentlig hellere kalde for en vektor.
+
+44:00
+Altså jeg kan se en vektor med koordinaterne 2, 2 og 9. Og så endelig så har vi det der hedder Total matricen.
+
+44:16
+Total matrix. Og den består simpelt hen bare ser totalt matricen.
+
+44:29
+Det er en matrix, hvor vi først skriver koefficient matricen op, og så afslutter vi med højresiden b.
+
+44:45
+Så lad os nu prøve at få støvet totalt matricen op, for dette ligner et ingen system.
+
+44:53
+Der har jeg altså te er lig med, og så må vi lige hjælpe mig.
+
+44:58
+Hvad står den dér? Over 02 3. Og så havde vi minus 1 4 4.
+
+45:12
+Og den tredje. Det var en to, en. Og så skal vi have højresiden med, og så står der altså 2, 2 og 9.
+
+45:28
+Og hermed har vi fået fjernet den overflødige information.
+
+45:34
+Vi har en repræsentation af i systemet, hvor vi altså har vedtaget, at første søjle står for den første ubekendte.
+
+45:45
+Den anden for den anden ubekendte og den derfor ekstreme.
+
+45:51
+Så det vil jeg se. Nu er det den her vi skal lave Gaucci, Jordan eliminationen på.
+
+45:57
+Men altså ideen er fuldstændig den samme som vi havde før.
+
+46:02
+Det vil nemlig sige, at vi skal have isoleret den første ubekendte her.
+
+46:08
+Og det bliver så på den første plads til venstre. Da vil vi gerne have et tal, for så betyder det, at vi har isoleret en af de første ubekendte.
+
+46:21
+Og så er vi jo blive enige om hvad er det vi gerne må?
+
+46:25
+Vi må gerne bruge de tre række operationer, vi indførte lige før.
+
+46:31
+Så lad os lige prøve. Det er jo klart at mit første problem er.
+
+46:41
+At der står et nul her foran, så er det vi er nødt til at gøre noget ved.
+
+46:47
+Jamen, der kan vi jo så bare bytte de første 2 rækker. Der vil jeg være så bygge bytte, række ét og række 2.
+
+47:00
+Når så række 2 kommer op for oven, så har den jo et problem, og det er, at der står to på førstepladsen.
+
+47:08
+Der vil jeg gerne have, at der skal stå et, så derfor gavner jeg den med en halv.
+
+47:13
+Så jeg først bytter om og så den nye række ét.
+
+47:17
+Den ganger jeg sammen med en halv, og så lad os se, hvad er hvad har vi så fået ud af det?
+
+47:25
+Så har vi fået en 2. 1 og 1.
+
+47:32
+Og så har vi bare byttet den her om, så får vi altså nul minus 1, 1 og 2.
+
+47:40
+Og så har vi tre, fire, 1.
+
+47:44
+Og 9. Nu har vi opnået meget behageligt.
+
+47:53
+Nu har vi nemlig et salg her op til venstre. Men dette et tal vil gerne være alene i den første.
+
+48:04
+Den første søjle, det vil sige at kongen har op, ønsker det dette tal fjernet.
+
+48:11
+Så det er det vi gør nu, og det kan vi jo gøre med følge en række operation.
+
+48:17
+Vi siger, jeg så er 3 minus tre gange er et lad os prøve det.
+
+48:28
+Se så de første 2 brækkede ændrer sig jo ikke. Der har vi to et, ét og nul, minus 1, 1 og 2.
+
+48:38
+Og så har vi ja. Nu skal vi have gjort det her. Det.
+
+48:41
+Vi ganger jeg, så vi ganger den øverste række med minus tre og lægger til altså minus tre gang 1.
+
+48:51
+Og så lægge til 3. Den giver selvfølgelig nul som ønsket. Og så ser vi altså minus tre gange med to.
+
+48:59
+Det er minus 6, som vi lægger til. 4. Det må give minus 2.
+
+49:06
+Og så skal vi se mindst tre gange med ét.
+
+49:10
+Det giver minus tre. Der skal lægges til en, der må give +2, og så får vi minus tre gange med én, der giver minus 3.
+
+49:20
+Der skal lægges 9. Det giver så 6 6.
+
+49:30
+HA. Nu er vi færdige med den første række. Nu er den lige præcis, som den skal se ud, og nu går vi så i gang med den anden række,
+
+49:39
+og det, der er det vigtige i anden række, er, at vi har et et tal stående her.
+
+49:44
+Så har vi nemlig fat i den anden ubekendte. Det skal vi ikke lige gøre det hurtigt.
+
+49:50
+Det gør vi jo bare ved at gange. Der siger vi række 2.
+
+49:58
+Så hvor har vi det henne? Så vil jeg se ham igen.
+
+50:04
+Ja, jeg var for sent. Ja, minus to herinde.
+
+50:08
+Så er det Jes om vi skal lige have klaret den godt.
+
+50:13
+Vi siger række 2 gange med minus.
+
+50:18
+Bliver det så bare, og skal vi så tage den her hende, så har vi.
+
+50:25
+Stadigvæk. 1 2, 1 1.
+
+50:29
+Og så har vi ændret den række til 1 0 1 minut senere og minus 2, og forneden fik vi jo et nul her.
+
+50:40
+Og hvad sagde i minus to minus 2? Og gæt vil nå så langt.
+
+50:55
+Nu er den næste behagelige ting opstået, nemlig. Vi har her et 2 tal i den anden række.
+
+51:00
+Anden søjle. Og den vil også gerne være alene, så den vil gerne have det er totalt væk, og det er totalt væk.
+
+51:09
+Så er der så den den næste. Vi skal have renset søjle nummer to.
+
+51:15
+Og hvordan kan vi gøre det? Jo, det kan vi jo bare gøre. Vi siger, vi siger række et minus to gange med række 2.
+
+51:27
+Og så skal vi sige række tre. Plus 2 gange række 2.
+
+51:40
+Vi starter med gang i minus 2 og læg til fra oven, og så får vi en.
+
+51:45
+Og så får vi selvfølgelig noget som ønskede Herrik ganger den med minus 2.
+
+51:50
+Så bliver det plus to og lægger til. Så må det give tre ganger den med minus to.
+
+51:59
+Det giver plus fire og +1. Det må give fem sådan, og enrække har vi stadigvæk en minus 1.
+
+52:15
+Nej, nul foran og vel nul 1.
+
+52:19
+Min nu Steen og mine to. Og så skal vi nu gange den anden række med to og lægge til forneden her.
+
+52:32
+Det vil sige to ganger på den og lagt til minus to.
+
+52:36
+Det giver selvfølgelig som ønsket nul. Og så skal vi sige to.
+
+52:43
+Gange med minus. Det gav minus 2 lagt til minus 2. Det må give minus 4.
+
+52:51
+Og så skal vi sige at. Så har vi og ganger næver.
+
+52:58
+Nu skal vi se en gang. Hvad var det vi sagde vi skal? Vi skulle jo gange den med.
+
+53:04
+2. Er den min mine sår, og det er rigtig nok. Og så kan vi den med minus to.
+
+53:11
+Det giver minus fire og lægger til. 6. Hvordan De to.
+
+53:18
+Det. Så vi lige går igennem igen, ganger dem med to, så går den ganger den med.
+
+53:33
+2 du nu står her fire ganger den med. 2. Så giver det.
+
+53:37
+Ja, det må give. 2. Så nu vil vi gerne have et et tal her forneden.
+
+53:51
+På dette sted. Og det får jeg ved at gange med.
+
+54:00
+Minus en fjerdedel. Og så får vi nu næste iteration 0 0, 3 5.
+
+54:17
+Og så har vi 0. 1.
+
+54:23
+Lige nu se og minus 2. Og så har vi 0 0 ind og minus en halv.
+
+54:38
+Så nu er vi næsten færdige, fordi nu har vi altså renset første søjle ren tid.
+
+54:45
+Anden søjle. Vi er næsten færdige med at remse tredje søjle her.
+
+54:51
+Men den vil også gerne være alene. Det vil sige, den vil gerne fjerne det, og det så er det sidste, vi altså lige skal have gjort her.
+
+54:59
+Det er så vi, siger række et. Minus tre gange med række 3.
+
+55:09
+Og så siger vi række 2. Lus er 3.
+
+55:22
+Og skal vi se hvad vi så får, så får vi altså følgende. Så får vi.
+
+55:28
+Så får vi 1 0 nul. Det ændrer sig ikke.
+
+55:32
+0, 1 og 0. Og så er vi altså nået så langt væk, og så ganger vi altså denne række med minus tre.
+
+55:42
+Som vi ser her, får vi plus 3, og så må vi få sex for oven.
+
+55:52
+Men nej er engang til. Så er det jo den vi skal gange med minus tre også, så får vi faktisk nul her, og så ganger vi den med minus 3.
+
+56:08
+Så får vi plus 3. Det vil sige, det giver tre halve, og så får vi altså her 5 3 halve.
+
+56:23
+Og så skal vi altså bare sige tredje række plus den, og der får vi, så vi skriver lige op her, så får vi nul.
+
+56:35
+Og den altså det er jo bare sammenlægningerne ikke sandt, og så får vi her minus to en halv.
+
+56:44
+Og så forneden der har vi så en og meiosen her.
+
+56:51
+Søndag. Og hermed har vi opnået det vi gerne ville.
+
+57:03
+Altså vi har isoleret altså her inden for koefficienten matricen.
+
+57:09
+Der har vi et et tal, der et et tal der, og et tal der da alle de andre steder.
+
+57:17
+Og det kalder man så for at nu har jeg opnået.
+
+57:23
+Ja, og grunden er kvalitet. Nu kan vi starte her. Hop fra et tårn til et tal til et tal.
+
+57:31
+Det kalder man at den har opnået terapiform, og derfor kalder vi den matrix, der er kommet ud her, for træt til.
+
+57:43
+Det er at formen af den matrix vi startede med her op til venstre.
+
+57:54
+Og det er hele formålet med gaucho den eliminationen det er at opnå tabt til,
+
+58:00
+så siger man, at man har lavet en fuldstændig reduktion af LEGO systemet,
+
+58:05
+og hele pointen er jo nu kan vi oversætte tilbage til en ligning, fordi det står der direkte at ex et.
+
+58:15
++0 X2 +0 X3 er lig med 5 3 halve, så vi har altså.
+
+58:24
+Du skal skrive fem, hvad der de er anlagt. Der står ikke noget pludselig mellem nu, om det betyder det.
+
+58:31
+13. Jamen, det betyder da. Når du skriver et helt tal, er jeg okay.
+
+58:35
+Det er jo det, man kalder for en blandet brøk. Det var en blandet for hvor jeg faktisk en undtagelse fra den sædvanlige brøkregning.
+
+58:44
+Men når du skriver en blandet bryg, så betyder det en en halv.
+
+58:48
+Det betyder, at du skal lægge dem sammen. Det er sådan er det med blandede brygger.
+
+58:56
+Hvad mere Carter skriver 13. Men det kan vi godt og ondt, og her dør princippet.
+
+59:04
+Hvis du skal lave en blandet bryg om til en ægte bryg, så skal du gange fem med to og lægge tre terning.
+
+59:11
+Så er den altså 13 hal væk.
+
+59:14
+Og den er jo så 5 11 2 gange 2+1, så det kan vi godt se, fordi nu kan vi nemlig skrive op, at konsekvensen er nu det, der står.
+
+59:25
+Det er der rent faktisk står i den matrix der hende. Det er så at ex et.
+
+59:30
+Den er 13 11 år x2.
+
+59:35
+Den er lig med hvor meget de minus fem halve og så X3 er lig med meiosen.
+
+59:55
+Og dermed er living systemet altså lykkedes ved Gaucho, hvordan elimination og.
+
+1:00:05
+Se de to Linux systemer vi har løst nu har det til fælles, at vi har fundet frem til, at de netop har en løsning.
+
+1:00:16
+Og sådan er det langtfra altid med line og line systemer, så det er noget, vi skal beskæftige os med i næste time.
+
+1:00:24
+Det er for mange løsninger, der er, og her vil jeg gerne lige introducere nogle begreber og en sætning, der handler om, hvor mange løsninger der er.
+
+1:00:35
+Og vi starter med at definere begrebet ram.
+
+1:00:48
+Og nu tager vi den sådan helt, helt generelt, det kan også. Manglen af en matrix m.
+
+1:01:04
+Det er antallet. Er ledende ettaller.
+
+1:01:19
+I Trap 1. Og det kan man.
+
+1:01:30
+Man kan skrive det sådan her. Altså det er gerne roret man bruger for ham.
+
+1:01:40
+Så altså i det tilfælde skal jeg altså gå hen, og så skal I læse og forstå det bedre i næste tema,
+
+1:01:47
+fordi de skal tælle antallet af ledende et tal og var et 2 og 3.
+
+1:01:54
+Når vi er nået frem til trappe med matricen, så i dette tilfælde i så der var rangen så lig med 3.
+
+1:02:03
+Men. Og den sætning, som I lige kan få at tygge på her i pausen, er så.
+
+1:02:31
+Det spørgsmål er vi om vi skal tage den nu, fordi dørene er en meget smuk sammenhæng.
+
+1:02:41
+Altså hvis det er sådan, er vi. Vi tager sådan en lejet udgave herind.
+
+1:02:46
+Hvis der er en ubekendt.
+
+1:02:57
+Og. Fra neden. At kunne matricen.
+
+1:03:04
+Er lig med rangen. Er totalt matricen.
+
+1:03:11
+Hvis drengen den er en. Så er der netop en løsning.
+
+1:03:32
+I kan altså se vi havde et line og et lille sted med tre ubekendte og ranglede.
+
+1:03:38
+Den var tre. Og I kan se her rangen koefficient matricen.
+
+1:03:44
+Det er det jeg har stående her. Så rangen koefficient matricen er træ og orange er total matricen.
+
+1:03:54
+Denne er også tryg. Så det er altså den forudsætning, der er opfyldt.
+
+1:03:58
+Hvis det er lig med 3, som er antallet af de ubekendte, jamen så er der netop en løsning.
+
+1:04:06
+Det så vi i, ja, faktisk også i dette eksempel her.
+
+1:04:11
+Men altså helt tydeligt i dette eksemplar. Så.
+
+1:04:16
+Hvad ser du? Hvornår du det, for det er overhovedet ikke været dagens gode eksempel.
+
+1:04:22
+Det får du bagefter, fordi hvor der er mange løsninger.
+
+1:04:29
+Så vi tager lige en pause, og så kommer der et stort eksempel, der afslutter forelæsningen.

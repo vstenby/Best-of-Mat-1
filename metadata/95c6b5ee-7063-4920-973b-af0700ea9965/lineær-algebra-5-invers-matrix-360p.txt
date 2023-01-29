@@ -1,0 +1,959 @@
+0:05
+Verner. Ja.
+
+0:10
+A. C. I dag er der to store hoveder overskrifter, og det er enhvers matrix og determinanten.
+
+0:29
+Nå nej verden, ja tak, skal jeg lige tjene godt.
+
+0:36
+Jeg da ikke så meget andet end Hylton.
+
+0:40
+Jeg tror en lille smule op. Hvor meget?
+
+0:54
+Så endda så godt. Jeg håber ikke den begynder at hylde den, er der ligesom været lidt kludder med den i år.
+
+1:05
+Den virkede perfekt sidste år. Det tager mere end munter, da to af en værste matrix og det anter.
+
+1:16
+Og så plejer at have testet bogen hedder Mabel, og det har jeg så til også en dag.
+
+1:21
+Men det kommer lidt ind imellem det hele. Så der er ikke sådan et pointsluger hemmeligheder.
+
+1:26
+Men det gør måske nok. Men der er de to hoveder skafter i dag.
+
+1:31
+Og. Nu er der jo gået lidt tid siden vi startede, og det vil sige, at nu kan nogle venner fornemme,
+
+1:46
+at man bygger oven på det, vi lavede sidst, og det gør vi også i dag. Det bygger om jeres test, og nedskæringerne bygger ovenpå det, vi lavede sidst.
+
+1:53
+Så derfor er det jo vigtigt og lige kunne huske, hvad man lavede sidste gang.
+
+2:00
+Og det er vel lige kort opridse, men et eksempel her, som vi skal bruge lige om lidt.
+
+2:05
+Hvad er det, der er foregået indtil nu? Så det i store træk. Så er man lige inden vi gør det.
+
+2:11
+Så vil vi lige definere to ting. Nemlig vil det sige, at hvis vi har en matrix af vi generelt.
+
+2:32
+Hvad vil det sige, at sådan en matrix er kvadratisk, og det betyder, at der er lige mange søjler og rækker.
+
+2:40
+Det vil altså sige, at antallet af ubekendte er lig med antallet af ligninger, må man sige.
+
+2:46
+For eksempel to ligninger med to ubekendte. Hvis vi tænker på det tilhørende ligning.
+
+2:51
+Systemet hører til sådan en god matrix. Hvis vi bare ser på matricen alene, så siger vi, at det er en matrix, at A er af type enkens an.
+
+3:05
+Så er den kvadratiske. Og det er sådan i dag, at alt det vi skal lave i dag, det gælder kun for kvadratiske matricer,
+
+3:20
+så man kan altså kun tale om en enhvers matrix, og man kan kun finde det.
+
+3:23
+Terminalt er en kvadratisk matrice matrix.
+
+3:31
+Og det betyder altså, at man kan ikke lade sig forvirre, hvis man har en to gange tre matrix.
+
+3:35
+Så kan man altså ikke finde den værste til den. Man kan heller ikke finde determinanten, så fra nu af i dag er der lige mange ligninger,
+
+3:42
+som der er ubekendte i de dertilhørende linjers ligning systemet godt.
+
+3:48
+Den ene ting, den anden til at definere deres Serie A er regulær.
+
+3:56
+Hvis rangen er af Ali mand og vi refererer til den matrix vi ovenover.
+
+4:08
+Det vil altså sige, at hvis vi bruger Claus Jordan eliminationen, så skal vi kunne reducere denne matrice ned til en igen en kvadratisk matrice,
+
+4:20
+hvor der står et tal i hele diagonalen og nuller fuldstændigt udenom.
+
+4:28
+Det kan vel også sige at A er Cinco lære. Hvis randen af mindre end 1.
+
+4:42
+Det betyder altså, at hvis vi prøver at Gausel denne her matrix sidder ovenover, og så får vi en nul række eller flere 0 rækker.
+
+4:52
+Så er den Cinco lære.
+
+4:53
+Og hvis vi tænker på matricen som matricen til at ligne alene systemet, så betyder det, at når AF er regulær, så er der en entydig løsning.
+
+5:04
+Og når jeg Cinco lærer, så er der flere løsninger. Eller eventuelt ingen.
+
+5:14
+Men altså nej, reguleres han af en ensidig løsning. Hvis det er et homogent Airlines system, så er der flere løsninger i det her tilfælde.
+
+5:21
+Og så er der en løsning i løvers tilfælde af regulære et hul i.
+
+5:26
+En ingen løsning er en sekulær, uendelig mange. Jeps, det er jo lige kort.
+
+5:32
+Nogle definitioner som jeg får brug for i dag. Og så går vi i gang med det egentlige.
+
+5:38
+Hvad drejer det sig om? Og det vi vil gøre først, er at lave et eksempel, der skal motivere til.
+
+5:42
+Hvordan finder man den inverse til en matrix?
+
+5:45
+Vi har ikke fortalt, hvad der nu kommer lige om lidt, men vi tager det et eksempel først, og det vil jeg jo fortælle om her.
+
+5:53
+Det er en lineær ligning system, vi har 2.
+
+5:59
+Vi har to lindt, der hedder enhed, og ex et plus to X2 er lig med ét og det andet.
+
+6:09
+Anden ligning her, der hedder 3 x et plus fire x2 er lig med 2.
+
+6:18
+Det var et særligt interessant. Vi har et lignende system mere og vil løse deres Nama venstreside her, men højresiden anderledes.
+
+6:31
+3 5 4 x 2 er lig med 3.
+
+6:39
+De to lignende systemer vil vi gerne løse, men gør det nemmest muligt uden at bruge Mabel.
+
+6:46
+Det er selvfølgelig det nemmeste. Kan man reducere i det her på en eller anden måde.
+
+6:54
+Det første vi lige vil gøre her er Vil du se sådan et lignende system?
+
+6:58
+Det kan jo skrives på matrix form. Vi står der sidst, men jeg gør det igen.
+
+7:03
+Se matricen til dette her op. Den hedder jo A, og den hedder 1 2, 3 4 og højresiden ordentligt vil kalde B.
+
+7:15
+Den hedder 1 2. Nu vil jeg lige tillade mig at kalde B her for B et højt et tal hernede.
+
+7:32
+Kunne man så i den anden ende i systemet, der ser ligesådan ud af Ali med en, to, tre, fire.
+
+7:40
+Det vil sige de samme kosan med tricks, de tog lignende systemer og højresiden.
+
+7:47
+Denne heed kalder vi lige for B2. Den hedder minus 1 og 3.
+
+7:54
+Giftefoged. Sagde jeg.
+
+7:58
+Nu kan vi jo skrive det her op på sådan en form, som der ligner noget med det her, der står for, at a ex skal være lige beat.
+
+8:09
+Og vi kan skrive det andledning system, som a y skal være lig med.
+
+8:17
+2. Ja, hvad har vi så fået slettet hér?
+
+8:23
+Vi har fået slettet, den er ægte her. Det er jo bare en søjle vektor, der hedder.
+
+8:30
+Iklædt Ecco og den ny licenssystem.
+
+8:38
+Den hedder faktisk også hvis vi ser på lidt under et X2.
+
+8:43
+Det er altså lidt uheldigt, at de begge to hedder exit X2, fordi de jo ikke den samme løsning talte de to for højresiden er forskellige.
+
+8:50
+Det kan man klare ved at for eksempel op i disse år en stjerne. Og så til at ligne systemerne forskellige ud.
+
+9:00
+Det vil sige at den kalder ikke exit og ikke tog det samme i de to systemer er.
+
+9:08
+Ja, sådan ser det ud, og man kan se, at hvis man udfører det, der står her i Matrix, får lov der hedder A gang y her a gallery,
+
+9:15
+så får man præcis det, der står heroppe på højresiden og venstresiden og højresiden.
+
+9:21
+Den står jo her, så det er bare en anden måde. Skal jo lige slippe op på Matrix.
+
+9:27
+Når vi gerne ville. Det var bare at løse dem. Det er da en smart måde at gøre det på.
+
+9:31
+Ja, hvis vi nu skulle løse et lignende system, så ville vi jo lave total.
+
+9:35
+Matricen, som vi ville kalde en, to, tre og fire ville sætte en streg, og så ville vi sætte.
+
+9:43
+Så nær. Og så ville vi Gausdal være ned, så der stod total elimineret.
+
+9:49
+Denne gang gjorde metoden, og så ville vi så kunne aflæse løsningen herover.
+
+9:56
+Det har vi gjort nogle gange, men det man lige skal bemærke, at hvis vi går i gang med at lave Gaucho sorterne med Showband,
+
+10:02
+så vil vi sørge for, at der står en hær og måske en hær og så nulre for resten, og så vil disse to bare følge med.
+
+10:09
+Alt hvad jeg gør ved dem her, det afhænger jo af, hvad jeg gør her for at lave dem, der er til en trappe matrix.
+
+10:16
+Det vil altså sige, at hvis jeg satte en søjle mere på yderligere en søjle herude, nemlig den der står her, udgøres minus 1 og 3,
+
+10:28
+så ville jeg kunne gå afstanden hermed stadigvæk til identitetsmæssige, når de tog fejl og bare følge med.
+
+10:33
+Og så ville jeg faktisk løse begge lignende systemer i ét hug, fordi alt hvad jeg gør ved den, følger denne her med alt, hvad der følger denne mand.
+
+10:41
+Men det var egentlig det, jeg skulle gøre hver for sig for at løse de to udligningssystemet.
+
+10:45
+Så jeg kan lønnes bag lignende systemer i ét hug ved at sætte begge højere siderne ind her og så Gauss ned.
+
+10:53
+Lad os gøre det, og det kan vi jo bruge lang tid på det.
+
+10:58
+Men lad os lige på at gøre det her. Hvis vi skal skaffe os et nul her, som vi gerne vil.
+
+11:05
+Øvrige FIM administrerer læg til. Her skriver vi den øverste igen. Det er noget man alene giver nul.
+
+11:12
+Jeg den ved mine til det giver minus to gange er den der med minus tre og lægger til her.
+
+11:17
+Det giver minus 1, og jeg ganger denne her med minus 3 og lægger til her.
+
+11:21
+Det giver 6. Jeg sagde Jeg skal jo egentlig skaffe mig lidt tjald her og skaffe mig noget her,
+
+11:34
+men jeg kan lige starte med at lægge den nederste ligning til den øverste højre. Hvis jeg gør det, så får jeg en nul 0 5.
+
+11:47
+Og nedskriver igen sig nul minus to midtersøgende sex.
+
+11:53
+Så deler jeg hele den nederst ligning med minus to.
+
+11:58
+1 0 0 5. Og så står der nul en en halv og minus tre.
+
+12:14
+Hvad er så ideen med det her? Jo, det er jo, at hvis der kun havde været, som vi sagde før, løste licenssystem.
+
+12:21
+Vi plejer at stå af og så bede et uden, men her ville løsningen stå her.
+
+12:27
+Det er ikke fedt, og det er X2. Så løsningen. I det tilfælde er der intet løsning, der hedder nul over en halv.
+
+12:35
+Altså hvis den er nul, så skal X2 være en halv.
+
+12:39
+Og så er der kun den løsning. Men det vil yderligere.
+
+12:42
+Få ud af dette er, at vi får fejlet. Nu går vi jo fortsat vil holde hånden over denne ligning, slet ikke have været der.
+
+12:48
+Den er slet ikke en flåde af på, hvad der foregår herovre. Da vi afslutte denne her.
+
+12:52
+Her står også løsning til et system, der hedder fem over minus tre. Så lysten til et andet system er det fem år minus tre.
+
+13:02
+Så man kan altså løse flere ligningen systemer samtiden vidste vel at mærke.
+
+13:08
+De har samme koefficient matrix eller så gælder selvfølgelig. Så kan man bare ser lige så mange højresiden på.
+
+13:15
+Og så løser man alt lige efter sig. Det er jo en ganske stor besparelse at arbejde her,
+
+13:19
+for ellers skulle vi have gjort to Fulla Gauss elimination og er den højsæde, hvor du følger denne her.
+
+13:27
+Eller venstresiden. Nu følger højresiden simpelt hen bare med. Ja.
+
+13:32
+Nå. Hvorfor skulle vi gøre det her? Hvad har det med dagens emne at gøre?
+
+13:36
+Og svaret er Det kommer an på, om der er vægt. Fordi nu skal vi til at tale om en værts matrix.
+
+13:56
+En hver med A6 og lad os lige prøve at se min lillebitte hjørne herover.
+
+14:06
+Hvad er en væres? Univers, javel.
+
+14:13
+Hvis vi har 2 og ganger det med en halv, så får jeg et.
+
+14:18
+Det vil sige at to af en vært til en halv eller man kan også sige, at en halv er en værdsat 2.
+
+14:27
+Vi er også set fem gange en femtedel. En femtedel af en.
+
+14:33
+5. Det vil jeg sige, når jeg ganger den inverse værdi på.
+
+14:40
+Et tal, så får jeg et 1 tal. Er der nogen af de her, der ikke gælder for hjernen?
+
+14:50
+Nul gange. Skal jeg give ét? Der har vi kan ikke lade sig gøre.
+
+14:59
+Så der er altså også værdier, der ikke har en enhvers. Det har nul.
+
+15:04
+Nu kan vi så oversat dette tal noget som vi kender, hvortil matrix sprog.
+
+15:10
+Der vil det jo det være naturligt at sige, at inden og vel at mærke det kvadratiske matricer vi taler om hele dag i dag.
+
+15:17
+Hvis jeg har en matrix af. Sådan er i nær.
+
+15:29
+Hvad skal den inverse af så være, hvis den findes? Regn i parentes, hvis den fælles.
+
+15:46
+Skal han være. B.
+
+15:52
+Og hvad skal bede opfylde? Ja, der skal jo galla tatar A og gange med B.
+
+16:00
+Læg mærke til at det her det giver mening, hvis B også er en engang en matrice.
+
+16:05
+Vi kan alle gange to engang ende matricer.
+
+16:09
+Så skal jeg jo gerne vil så gerne de to sammen, men minde om det lade have, og så skal jeg gerne få ét, men ét i Matrix bog.
+
+16:17
+Det er jo identitets matricen, som vi kalder en, og det vil sige, at det er den matrix, der har et taller ned igennem diagonalen og nuller udenom.
+
+16:31
+Og så videre. Når du på alle andre pladser ser et stort værk.
+
+16:37
+Nogle gange havde Enheds matricen, nogle gange kommer jeg til at kalde denne for stor i.
+
+16:45
+Og den fordi den hedder den ned i næsten alle andre byer end danske.
+
+16:50
+Det hedder enheds matricen Identity Matrix, og den hedder stor i, og det kan være en vane.
+
+16:55
+Man har skrevet det så mange gange, man er kommet til at skrive det.
+
+16:58
+Så kommer det til at bestå i at række hånden op og sige, det hedder eller så stor en.
+
+17:02
+Her er ikke fordi alle der den i og grunden til at den er blevet omdøbt til stor ether,
+
+17:08
+er, at store i Melbourne er reserveret til en noget vi kommer til i næste uge, så.
+
+17:15
+Så det giver altså de kalder jo stor i maven, så får jeg immervæk så godt.
+
+17:23
+Så det er jo meget logisk, at vi tager så skal have en inverse matrix til af.
+
+17:28
+Så skal jeg finde matricer af gangen. På af får jeg et 1 tal og et tal i Matrix Sport.
+
+17:32
+Det er jo den her diagonal matrix med et tal i diagonal. Nok så godt.
+
+17:40
+Det er jo fint. Men hvordan finder den det næste spørgsmål, ikk? Hvordan kan jeg vide, om den findes og i givet fald hvordan skal jeg finde den sig?
+
+17:49
+Og ja, ja, den findes.
+
+17:58
+Men vi kalder beder og B findes hvis og kun hvis store af er regulær og kaldes så.
+
+18:18
+Enhvers matrix til A.
+
+18:27
+Og ja, og den trives. A og så i minus først.
+
+18:36
+Altså ligesom vi nogle af jer skriver en over to beskriver vi som to mere.
+
+18:40
+Først skriver vi os matricen Ingen vinder forrest. Vi kan altså ikke ben bagefter, når den er fundet.
+
+18:45
+Så kalder vi den familiens første, hvis den findes. Og hvornår findes den?
+
+18:48
+Den findes. Når A er regulært. Og hvad var det regulært betød?
+
+18:54
+Det betød, at vi kunne gausel af matricen ned til identitets matricen.
+
+18:59
+Man kan jo se hvordan elimination. Godt.
+
+19:04
+Hvordan gør vi det her i praksis? Ferie denne her inverse? Ja, hvis vi nu forestiller os tænker lidt over det eksempel vi så på her.
+
+19:13
+I det her eksempel så vi jo at man kunne løse flere ligninger med flere ubekendte ved at stille alle de ubekendte højere sider op bagved matricen.
+
+19:27
+Hvis nu vi i virkeligheden forestiller os, at det, der står heroppe, er det, der står heroppe a gang den da ukendte Matrix bag skal give det her.
+
+19:39
+Så kan vi jo forsvare sig ved at stå herfor. Det er en helt masse højre side, der allerede er placeret herover, hvor den har siddet her.
+
+19:45
+Så får hver ligning, vi skal løse det her. Så får vi sådan et et sædvanligt licenssystemet.
+
+19:53
+Matrix af endnu ukendte veksler ex. Og så en højre side bag en søjle vægttabet.
+
+19:57
+Det kræver lige, at man kigger lidt mere på det lade system for at se på det.
+
+20:01
+Men nu siger et af Skarð. Og hvordan ser den vægte ud, der står her den ukendte vægt, så hed B.
+
+20:08
+Et bind 1 2 op tilbage den. Den næste hedder B.
+
+20:12
+Et hedder det, jeg nu hedder blev to og B end et bind 1, 2 bind, 2, 2.
+
+20:19
+Og så op. B, n 2. Og hele vejen hen til B.
+
+20:27
+Et N og ned til B end en alien.
+
+20:31
+Med herover har vist identitets matricen 1 0 0 0, red.
+
+20:37
+Et taller altså et 1 tal med hele Devon alen og nul og uden om.
+
+20:43
+Sådan ser vores spillesystem ud. Vi skriver det op.
+
+20:45
+Vores problem altså vores a gange b skal være lige med identitetsmæssige, som det ser sådan her ud.
+
+20:53
+Ja, hvad står der egentlig her? Hvor meget nu vi gange en matrix med en anden matrix.
+
+20:59
+Det var jo i virkeligheden, at vi først skrev det om til, at vi 2 1 lavede en helt ny matrix.
+
+21:04
+Hvor I er vi to a og gange på den første søjle vækster hér.
+
+21:09
+Denne kunne vi jo kalde b et. Denne søjle kunne vi kalde det 2. Og denne solgud kaldte den.
+
+21:14
+Så stod adgange b. Et skal være lim. Det var den før.
+
+21:18
+Jeg skal vist lige have lidt mere plads af gangen bag ét.
+
+21:23
+Det skulle så give den første søjle i denne her produkt matrix mellem de to.
+
+21:27
+Det er jo det, vi lavede sidst. Den næste fejl i den matricer, den bestod for af A ganget B2 og den sidste søjle bestod af ganget den.
+
+21:44
+Den skal så igen være lige meget siden over, så står 1 0 0 0.
+
+21:49
+Så står der 0, 1 0, og her var 1 0, og så står der her 0 0 0 hele vejen ned til et 1 tal.
+
+21:55
+Hermed står et tal diagonalen og nul dog udenom.
+
+22:02
+Hvis vi ser på det, så står der jo en hel masse ligning systemer her, for der står et lille system der hedder A ganger better.
+
+22:12
+Denne søjle. Den skal jo være lige med denne masse. Den skal være lige med denne her søjle.
+
+22:18
+1 0 0 hele vejen derned. Den næste lige skal polstre A ganget med 2 hær.
+
+22:27
+Den skal være lig med stoltheder 0 1, og nu er der forresten lige med dens højde og dens øje til svare sådan tak.
+
+22:35
+Pludselig opstår der en lignende systemer hér, hvor i den ukendte vækster.
+
+22:44
+B er den eneste ubekendte. Og hvordan var det nu lige?
+
+22:48
+Hvis vi kigger på vores eksempel. Hov, hvad var det der var Okan hér? Det var jo ex.
+
+22:53
+Og det næste land hed så for eksempel Y osv. B et og B2 svar til Metro 2.
+
+22:58
+Så vi har en hel masse ligninger herover, hvor vi har den samme karrusel matrix, men forskellige højre sider.
+
+23:04
+Vi har altså den samme kolossale matrix hær, men forskellige højresiden.
+
+23:09
+Hvordan løser vi det? Jamen, det så vi jo lige før. Vi laver en meget stor total matrix, der består af A.
+
+23:17
+Du kan jo godt skrive A endnu A indædt op til et M og a end et op til a nn.
+
+23:26
+Og så er der altså en masse herinde. Er en af valgdebatter. Så kunne vi sætte os frem, og så skulle vi sætte alle højresiden herover.
+
+23:33
+Det vil sige ned og endte 0 0. Hendes lån, valgsteder. Nul.
+
+23:36
+Et nul. Nok den næste. Bum, bum bum. Slutter med et tal herover og nul og hele vejen udenom.
+
+23:44
+Tallet. Hvordan det?
+
+23:47
+Vi har fundet ud af det vi har bevist tør er, at når vi skal finde en enhvers matrix til en matrix, så skal vi simpelthen sat dette system op.
+
+23:59
+Tager koefficient matricen talent af Matrix? Vi vil finde den værste sag.
+
+24:03
+Vi sætter identitets matricen overfor eller enheds matricen herover på højresiden.
+
+24:09
+Og hvad skulle vi så gøre? Så kunne vi bare gøre afstanden ned til identitets matricen.
+
+24:13
+Så står vores svar herover. Hvad er B? Så er metoden og med forklaringen Hvorfor er det sådan?
+
+24:20
+Det er ikke bare mystik. Hvor kommer den fra?
+
+24:23
+Det er simpelt hen, at vi skal have den er identitet matricen, og så står vores løsning herover alle vores bedre haver.
+
+24:28
+Det vil sige vores inverse matrix haver. Så er jeg spørgsmålet Kan vi mon?
+
+24:33
+Nu kan vi være sikre på, at vi kan gausdal venstresiden herover ned til identitets matricen.
+
+24:40
+Og svaret er ja, det kan vi. For hvad var vores betingelse for, at der lige præcis var en enhvers?
+
+24:46
+Det var, at A var regulær. Hvad betød det, at AF var regulær?
+
+24:50
+Det betød, at A havde fuld rang, og det betød, at vi kunne gausdal ned til identitets matricen med gamle sjoveren elevation.
+
+24:58
+Så vi ved, at det går altid godt, hvis af er regulær. Så går denne her illumination altid godt.
+
+25:04
+Så kan vi skaffe os identitets matricen hér, og så står vores inverse matrix over.
+
+25:10
+Vi kan prøve at gøre det et eksempel på man lærer det først, når man ser eksempel. Det er jo bare snak, snak og prøve at forklare.
+
+25:17
+Hvad er det egentlig vi gør? Hvordan hænger det sammen? Ja.
+
+25:28
+Og for lige at gentage, at det simpelthen ikke. Man kan altså ikke sige det nok gange, når vi en gang kommer til eksamen.
+
+25:33
+Så er det jo forståelsen af disse begreber og ikke så meget metoden, der bliver testet.
+
+25:38
+Selvfølgelig skal man kunne finde det i værste Matrix', men det er også det, de forståelsens tænker længere, om end det man ofte tester til eksamen.
+
+25:45
+Så rene færdigheder, det er ikke nok, så derfor er det også vigtigt at forstå.
+
+25:50
+Jeg. At nu kan jeg finde den værste, der ligger med alt andet, fordi det er tit dér, der ligger nær.
+
+25:55
+Ikke sagens kerne. Men det ville lige se.
+
+25:56
+Lige så snart vi går i gang med nogle eksempler gør om vi grupper regningen lærer, hvad de egentlig ser ud, og hvordan de fungerer.
+
+26:03
+S. Der står næsten aldrig Fenton 1. Værkstederne. Det kan godt forekomme, men det er ikke sådan.
+
+26:08
+Der får man jo ikke fuld point for den opgave, så det er ikke bare det, der er i den.
+
+26:13
+Og det skyldes jo alt, som det skal vise det. Det kan man gøre på et sekund.
+
+26:16
+Man kan bare prøve finde den inverse med et enkelt tryk, så det er ikke, så derfor er den her forståelse af, hvad er det for noget lidt vigtigt?
+
+26:25
+Ja. Når nok om det. Vi kan ikke stå og bruge tid på det.
+
+26:29
+Vi skal til at gøre det her i praksis, og hvordan gør man det? Ja.
+
+26:36
+Jamen, jeg laver et eksempel med Mabel, som er lidt længere.
+
+26:41
+Men lad os lige tage en lille med. Alting skal gøre det på.
+
+26:48
+Vi har en masse i dag. Den hedder 1 2, 3 4.
+
+27:00
+Har den mon en enhver? Og i givet fald verden har af en enhvers og velstand har.
+
+27:17
+Hvad er den så? Spørgsmålstegn.
+
+27:29
+Ja, vi løser de 2 spørgsmål her i ét hug, fordi vi prøver simpelthen at gå i gang med at finde den,
+
+27:37
+og hvis den findes, så vil det vise sig ved, at vi kan gavne sagen, at vi folk ind, vi kan.
+
+27:43
+Gauss. Denne af matrice beskriver her helt ned til identitets matricen.
+
+27:47
+Det betyder netop, at så er A. Regulært. Kan det ikke lade sig gøre, så kan vi sige, at den har ikke nogen enhvers, fordi A var ikke regulært.
+
+27:55
+Lad os på at gøre det. Hvad skal vi gøre? Ja, det er jo en helt mekanisk ting nu.
+
+28:00
+En godt glemme alt jeg forklaringer. Hvordan var det, vi gjorde det her? Jo, vi lavede jo en total matrice matrix, hvor vi sad a.
+
+28:08
+Her på højresiden 1 2, 3 4. Så lavede vi en meget streng, og herunder skrev vi identitets matricen Enheds matricen.
+
+28:19
+Så skulle vi afsøge denne fuldstændig ned til identitets matricen og så herover der står så vores løsning.
+
+28:28
+Lad os prøve at gøre det, så vi går i gang med at Gauss denne her. Jeg siger minus tre gange, den blev stand.
+
+28:34
+Det giver så den øverste igen. Vi nu drikker den fuldstændig, giver nul minus, drikker en dansk husstand, det giver minus to minutter,
+
+28:44
+drikker vand plus giver minus tre og mere drikker næppe fuldstændig giver det et tal, der stod der i forvejen.
+
+28:53
+Ja. Og som før jeg siger den nedre stigning lagt til den øverste.
+
+28:58
+Det giver en nul minus 2 og 1.
+
+29:05
+Jeg skriver det nederste igen. Nul minus to minus tre en.
+
+29:11
+Så det ville være den nederste ligning igen med minus 2. Det giver en nul nul svinekød i Neurosearch igen.
+
+29:18
+Minus to 1, så det ville være et nedstigning med mere end 2.
+
+29:23
+Giver 3 halve og 8. Så når han så er færdig, kan jeg svare på begge spørgsmål, fordi jeg kan svare på det først spørgsmål.
+
+29:33
+Jeg har en enhvers af har en enhvers, fordi jeg kunne gausel af matricen her ned til identitets processen.
+
+29:43
+Og hvad er værst? Skriver vi A i minus først lige med?
+
+29:47
+Ja, det er så det, der står på højresiden. Det er altså minus to.
+
+29:54
+En 3 halve. Og minus en halv.
+
+30:05
+Så kunne man jo være fristet til at sige jamen gælder det så virkelig, at a gange a i minus først?
+
+30:15
+Hvad skal det give? Ja, det skulle gerne give en nul. 1.
+
+30:23
+Og de gør det også hvis man er ivrig for at teste om det er rigtigt.
+
+30:27
+Så kan man jo bare tage den lære og gange med den er det, som vi lærte sidste matrixmultiplikation.
+
+30:33
+Eller man kan taste ind i Mabel eller Gangwon sammen. Det er meget hurtigt gjort.
+
+30:37
+Jeg vil ikke stå og gøre det her, for jeg tror ikke, at det er jo noget, man selv skal gøre.
+
+30:41
+Hvis der står noget på tavlen, så ganger den med den og lægger den med den til at like, så det kan drukne lidt fejl.
+
+30:49
+Så finder man altså den værste matrix, så jeg kan bruge sådan.
+
+30:53
+Så er metoden her. Man stiller dem op. Man tager af sted i den lidt matricen her.
+
+31:00
+Gausland, som man har. Identiteten drejes nær, så stå af her.
+
+31:06
+Hvis det var metoden, der har det, kan man jo gøre for at gøre en lige så stor matricer.
+
+31:11
+Man gider bare de kvadratiske. Grund til at lade med to gange 2 matricer er defineret for ikke at bruge for lang tid beregningerne.
+
+31:18
+Vi tager nogle eksempler lige efter pausen. Det er ikke på helt pause nu.
+
+31:22
+Vi har nogle eksempler i Mamet, hvor vi kan se, hvad man gør. Det kan også godt være det gør lige før pausen.
+
+31:28
+Det er ikke endeligt besluttet. Ja, hvad kan man så bruge den værste matrix til?
+
+31:36
+Ja, lad os give et eksempel. Så ja, vi havde jo udligningssystem her.
+
+31:54
+Det vil jeg udnytte igen her. Vi havde altså den eneste system, der havde lige skrive det igen.
+
+32:00
+Det havde klædt plus 2 x 2 at lege med ét og 3XN +4 står.
+
+32:12
+Alene med 2. Det kunne vi jo sætte op som en matrix ligning i stedet for, og der stod a x er lig med B.
+
+32:23
+Hvor så at A, og hvor man sidst havde en 2 3 4 oplever vores højreside der havde en 2.
+
+32:35
+Hvis man jo løser en næse, så kan man jo bare lave et totalt matricen, består en lille 2.
+
+32:40
+Gausdal ned, og det var det vi gjorde her og få løsningen at ad.
+
+32:45
+Løsningen er, at Exit X2 er lig med nul og en halv.
+
+32:54
+Det var konklusionen. Da kunne man løsningen systemet. Nu kan vi også gøre noget andet, fordi vi kan se på vores mad tidslinje her.
+
+33:05
+Og så hvis nu det havde været en almindelig ligning, så havde vi jo været fristet til at dividere a over på den anden side.
+
+33:10
+Så stod jeg jo alene og forstod løsningen. Det kan vi næsten gøre nu, fordi vi kan gange med A 1 værst på begge sider.
+
+33:17
+Så hvis man gør det, har en enhvers, nemlig værktøjet denne matricer.
+
+33:23
+Her er denne herover så af en enhvers, og her er der fundet den.
+
+33:28
+Jeg går jo på at gange med af enhvers på begge sider.
+
+33:32
+Det vil sige ah i mine og første gange med af garnet med X Ali A.
+
+33:40
+I mine første gange med B jeg altså bare ganget med min første fra venstresiden på begge sider.
+
+33:51
+Himmel af Milos første gang af. Det er jo identitetsmæssige eller enheds matricen er i det frisen en gang ex er lig med A.
+
+34:00
+I Meyers første gang er. Det vil sige dette er nemlig bare til det og ikke har den egenskab det lever enheds matricen, hvor vi svarer til taget.
+
+34:11
+Hvis jeg siger Enheds matricen Garrix, så sker der ikke andet end at jeg bare får ex ud af det, fordi engang.
+
+34:18
+Ex. Det er simpelt hen bare ex.
+
+34:22
+Hvis jeg ganger enheds matricen på hvad som helst, så får jeg bare matricen. Den gør ingenting.
+
+34:29
+Jamen så står der at eksekveres findes som et af mine første gang. B det vil sige nu har jeg fået en ny måde at løse min ligning på.
+
+34:36
+Hvis jeg gerne vil finde X i denne ligning, så stem her op.
+
+34:41
+Så skal jeg tage matricen og tage den inverse til land og gange den med mit højeste.
+
+34:45
+Det må prøves på hver af enhvers. Jamen, den har vi jo heldigvis fundet.
+
+34:51
+Den er minus to, et par halve og minus en halv.
+
+34:59
+Og den skal jeg gang på B og B. Det er jo den der hedder 1 2.
+
+35:06
+Min har også de to tilgange sammen. Hvordan er noget i gang og sådan en søjle på døren?
+
+35:11
+Jo, jeg siger minus to gang et. Plus to gange eller 1 er to et gange 2 og serie 3 halve gange ét.
+
+35:25
+Og så siger jeg så 2 gange minus en halv. Og det giver den øverste giver nul og den nedad giver ekstra halve minus 1.
+
+35:39
+Det er en halv. Nok er det sket, var det noget vi opdagede?
+
+35:49
+Ja, vi opdagede jo, at den løsning jeg fandt, var heldigvis den samme, som jeg fandt ved gravstenen.
+
+35:56
+Mere sjov. Det var godt, for ikke den samlede, så havde det jo ikke givet megen mening.
+
+36:01
+Så det er altså en ny måde. Nu kan vi løse et lignende system næsten på rigtig mange måder.
+
+36:06
+For det er den eneste sten nær. Det kan vi løse ved simpelt hen og lave en total matrice af matricen Gausland ned og så finde løsningen.
+
+36:19
+Vi kan også tage Mabel og lave en A og en bedemand og skrive Lene Holm.
+
+36:24
+Vi kan også tage Mabel og lave totalt matricen igen og så lave en Gauss religious flow indtil lang form og finde løsning.
+
+36:32
+Og nu kan vi også finde den inverse matrix og gange.
+
+36:35
+Vend sammen med B og finde løsning, så det på det samme problem har vi nu et helt arsenal af måder at gøre det på.
+
+36:42
+Og det er altså egentlig grund til, vi har alle de her måde.
+
+36:44
+Det er faktisk ikke for, at vi skal løse en eneste stemme, brugen af sådan en måde at skiftes til at lave forskellige dur.
+
+36:49
+Det ved hver, at disse metoder har en anvendelse. En rigtig vigtig anvendelse senere.
+
+36:58
+Og det vil vise sig fremover en man til alle de andre ingeniørmæssige ting, hvad det skal bruges til.
+
+37:06
+Forskellige se. Jeg tror vi holder pausen lige om et minut med en vigtig besked.
+
+37:10
+Og den gælder alle dem, som er bio taler.
+
+37:18
+Kommer lige en besked hér, så biotech og i andre må godt køre med en plus 2 hold eller to efter klokken 12 i dag.
+
+37:33
+Det vil sige efter forelagdes efter der lige har spist, så er det over i auditorium 31.
+
+37:42
+Det er altså derfor vi går og gruppe øvelser i 306. Op ad trappen, så plejer vi at gå ind i databank og råbe af værelserne, så gå over.
+
+37:49
+På den anden side af auditoriet overnattede Autumn 31.
+
+37:52
+Der kommer professoren overfor Systembiologi, der hedder Søren Bona, og han fortæller om, hvorfor det ikke altid kommer høre det.
+
+38:04
+Det tager kvarter højst. Han fortæller om, hvorfor matematik måske er et af en.
+
+38:10
+Her er en systembiologi eller en bioteknologisk allervigtigste fag.
+
+38:15
+Han fortæller om af alle de anmeldelser, hvad det bruges til.
+
+38:19
+Lige for tiden, og jeg hørte det sidste år, og der er virkelig mange og rigtig spændende,
+
+38:24
+så derfor har jeg altså en lang forklaring på alt det, jeg skal bruge det her matematik til.
+
+38:29
+Og hvis andre synes, det er spændende, og han er virkelig spændende og underholdende,
+
+38:32
+så er der altså masser af pladser også til andre må også gerne gå ind og høre det klokken tolv.
+
+38:36
+Men da bioteknologi skal ind og høre det klokken 12. Ja, vi holder lige pause i timer.

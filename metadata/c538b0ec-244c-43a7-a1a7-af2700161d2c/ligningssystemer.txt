@@ -1,0 +1,1064 @@
+0:04
+Og en smule om Linings System må først og det vi egentlig har i sinde at skal i gang med.
+
+0:10
+Det handler om den inverse matrix, og til sidst vil jeg lige nævne nogle ting omkring strukturen af løsninger og.
+
+0:23
+Til allersidst skal vi så gå ind og kigge på mig på og finde ud af, hvordan vi kan lave noget Matrix angribere med den inverse matrix.
+
+0:36
+Så i dag er der et gennemgående tema det at vi kigger hudlag på kvadratiske matricer,
+
+0:54
+og det betyder, at hvis jeg ikke siger noget andet, så er de af typen engang med.
+
+1:09
+Og hvorfor gør vi det? Jamen, de får det ene.
+
+1:13
+Vi kan kun danne inverse matrix på en kvadratisk matrice senere.
+
+1:24
+Det gør vi ikke i dag.
+
+1:26
+Også se vi kan udregne terminalt af en kvadratisk matrix, og endnu senere i dette semester kommer vi til at tale om en række af de problemer,
+
+1:38
+som vi også kan forstå i denne her sammenhæng, og med kvadratet skal matricer.
+
+1:49
+Så da vi skal se på i dag, er det her, og det kommer en anden gang.
+
+1:58
+Men det er bare lige for at nå emnet, hvorfor de her engang matricer egentlig er så vigtige at tænke over.
+
+2:08
+Så man tror det i orden, jeg kan bruge den travle.
+
+2:17
+Det. Ske gentager at gentage det at lignende systemer.
+
+2:26
+Så det er nummer et før. Og.
+
+2:33
+Det vi har kigget på sidste gang, var et system af lineære ligninger,
+
+2:37
+som ser noget jets x et plus to X2 og så videre tabet af et a ganget med X1 og lige med B ét, hvor højresiden af første ligning.
+
+2:53
+Og så antog vi at der var EM forskellige ligninger med den samme ubekendte excesser eksamen.
+
+3:03
+Men nu har vi altså det tilfælde, at vi har en kvadratisk matrix matrix, så det vil sige, at vi har n så ligninger.
+
+3:18
+Så har også n elementer i den højre side, og det har I se, at man kan skrive anderledes med hjælp Matrix produkter.
+
+3:35
+Og det har vi set i gruppe aviser, så det vil ikke vise grimme.
+
+3:44
+Så som Matrix' produkt kan vi skrive det her.
+
+3:49
+Og så skriver vi altså at matricen A gør med X er lige med B.
+
+4:01
+Og her definerer vi så at. Af denne trappe skal trykkes et et M og have godt af at og af.
+
+4:21
+Hver X6 er vægtere, så det er derfor jeg kun bruger en streng her og her på højre side, så den her søjle væk så.
+
+4:39
+Og lige så mødes. R b.
+
+4:45
+Her søjle vektor med elementer, så det jeg kan genkende er, at matricen er kvadratisk.
+
+4:57
+Der er også her så ved den forrige ligning system, der gør det ved at gange med koefficient matricen med X, så får ex et gange første søjle.
+
+5:09
+Her er et sæt af to exo og så videre.
+
+5:13
+Så ganger jeg exo hver anden søjle indtil nået frem til den sidst.
+
+5:21
+Så det er jeg også med det samme se selvfølgelig,
+
+5:24
+at matricen X af gakkede med ekstra vægt så for i ende dimensioner sendt væk, så som også ligger i en dimension.
+
+5:39
+Nu vil det være praktisk viste det sig om, at hvis vi, hvis vi kunne dividere denne her ligning med a,
+
+5:47
+så det denne masse går væk og flytter sig herover, så vil vi med det samme kunne få den ubekendte værktøj,
+
+5:54
+og det er det, vi vil gå i gang med at diskutere i dag og den måde man gør det på,
+
+6:01
+men multiplicere denne matrix for at venstreside med dens inverse matrix.
+
+6:08
+Men før vi gør det, så vil jeg først gå og studerer til eksempler.
+
+6:13
+Det er noget, jeg allerede ved.
+
+6:15
+Det er en generalisering af at løse det her ledning system A B, og fidusen er så ikke, at matricen er nærmere i minus 1, 2 og 1.
+
+6:38
+Fidusen er, at vi prøver at løse den her ligning for forskellige højre sider.
+
+6:46
+Og det vil vi gøre gøre simultant, så at sige bedre en over tre og begge to er en over 4.
+
+6:59
+Som smart måde at gøre det på den dumme måde ville være jeg gå i gang med Gauss
+
+7:05
+elimination på denne her og bruge ved et forsøg gøre det samme om igen med to faktor.
+
+7:09
+Faktisk skal vi gøre de to ting samtidig, og det er noget vi kommer til at bruge.
+
+7:13
+For at konstruere den inverse matrix bagefter, så er vores totalt matrix.
+
+7:23
+Og så et minus. To af.
+
+7:29
+Og så sætter vi de første højere end det var det svarende til den søjle vækst.
+
+7:35
+Og så kommer den anden ind. Og 4. Nu kan man se, hvor man bruger række operationerne på koefficient Mercedes, red.
+
+7:44
+Så kan man gøre det samtidig med begge to her, og der vil ske det samme.
+
+7:48
+Det er klart. Lad os lige prøve det.
+
+7:52
+Det vil jeg gerne vil have, er to glødende taler her, for så kan vi løse systemer, så vi kan tage to gange første række og trække den fra den anden.
+
+8:08
+Så det er række to minus to gang er, at så får vi at mod minus at et og nul.
+
+8:22
+Så bliver det +2, så får Tryg alle.
+
+8:26
+Plus minus to bliver af, og til sidst viser sorte tal her.
+
+8:35
+Og om det næste bliver så kan gøre dividere den sidste vej med tre.
+
+8:41
+Til købet og er. Gange med en tredjedel, siger han, der ved det for nul, et indføjede og to traverse.
+
+8:58
+Så det vi så mangler for at få den trappe for at komme af med det her nøgletal.
+
+9:02
+Her så vi at det og sidste række til den første.
+
+9:09
+Så det bliver af et plus er om to, så får vi et, og han har samme.
+
+9:20
+For det skriver han med det samme. Så bliver det her nul et minus A og 1 plus en tredjedel er 4 troede det.
+
+9:32
+Og plus to tråde er 5 trykket af dagen. Så har vi topformen, og dermed kan vi så med det samme aflæse de to løsninger.
+
+9:45
+Så det vil sige, at du skriver det her.
+
+9:50
+Løsningen. Tal ganget med S et lige ved at R.
+
+10:08
+Første søjle 4 tråde det. Over en tredjedel.
+
+10:16
+Og bløde stringente adgang to.
+
+10:24
+Det er tungt og det er selvfølgelig handels, og det vil sige fem, travede det over to travle.
+
+10:36
+Så det er de to løsninger til de to linningen systemer, som vi nu har løst simultant.
+
+10:45
+Og det er så en måde at gøre det på.
+
+10:48
+Nu skal vi så prøve at gå i gang med at tænke over den her inverse matrix, som vi kan gå ind på fra side for at få exo ud.
+
+11:03
+Før vi gør det. S og DF næste afsnit.
+
+11:08
+Enhver smag Trygs, men når vi taler om endnu værre, så er det altså vigtigt at vide, hvad et element er.
+
+11:18
+Tænk hvis I skriver 2. Og vil gerne have det eneværelse.
+
+11:26
+Så er det en halv og kan give os en. Og fordi det kommer til at se ud her, så får vi også en halv gang to og lige med en.
+
+11:37
+Så spørgsmålet er hvad et tallet i kontekster matricer.
+
+11:43
+Så det vil sige vi har Matrix' af at type engang ind og.
+
+11:56
+Ja, du skriver. Definition af in-house matrix, så vi kalder denne her i dette kursus e danskkursus.
+
+12:15
+Men i engelske fagbøger, der vil lige se en strid for.
+
+12:22
+I Dantes The Matrix, og tit ser man også sådan et sjovt tal, for ellers når regeringstropper s syv indgange ind til farlige.
+
+12:34
+Så I får hermed hver definition på en in-house med A6M er at.
+
+12:41
+Jeg kan skrive.
+
+12:46
+At Gay og A er det samme som enheds matricen ganget med af, og det vil give mig uanset om jeg har multipliceret fra venstre eller højre side.
+
+13:05
+Så det ved jeg selv og hvad det er det er.
+
+13:13
+Den her matrix, som har Luther anstand på diagonaler og alle andre elementer, er lig med nul.
+
+13:25
+Så kan jo være at vi lige skal veksle bedre. Her har forgængeren ikke gjort sig bedre kan lades.
+
+13:48
+Så er enheds matricen. Det kan vi lige gennemgå eksempler på.
+
+14:00
+Så I kan overbevise sig selv at de faktisk stemmer, er fortæller her for at sige Vi har tre gange tre matrix med følgende elementer fra A til J.
+
+14:20
+Og det vil jeg gerne mod enhedens matricen Tre Guide 3.
+
+14:26
+For når du her og her. Her.
+
+14:34
+Nu skal vi udregne hvordan var det nu, at vi gør det?
+
+14:39
+Det var, at vi så matricen A og ganger med den første søjle vækst, så have et 0 0.
+
+14:52
+Så samme matrix A og ganger med den anden søjle som.
+
+15:01
+Og siges det, og ved at dette produkt giver os så føjelig værk, som er et inddrag af denne her nye matrix.
+
+15:13
+Og når vi udfører det, så har vi et 00 af gangen med den her matrix.
+
+15:21
+Så får A og B og G. Her blev det bare nul.
+
+15:27
+Fraser a klø. Anden forstår at kortet er et tal på anden, for der bliver alt for få og til sidst ved den sidste søjle for af sig selv.
+
+15:43
+S j. Så vi kan se, at ganger af med identitets eller enheds matricen, så får er i kæden af.
+
+15:53
+Så den er o.k. Godt, så enedes Mathiesen.
+
+16:20
+Og. Sket er noget herovre.
+
+16:26
+Her. Vil jeg klatre, kan jeg både og selv er over.
+
+16:36
+Nu skal vi have fat i en definition. Og.
+
+16:44
+Den er så. Hvis matricen A.
+
+16:49
+Er engang en matrix. Med fuld var.
+
+17:02
+Det vil sige af rang. Af eller og a er lig med M.
+
+17:12
+Det er dimensionen af tøven blandt sæderækker og søjler.
+
+17:19
+Jamen så siges at A er regulær.
+
+17:38
+Det er et vigtigt udtryk og. Vælges af ikke har fuglereden rang.
+
+17:57
+Det vil sige at brand af den membran en så siges a er scenegulv af.
+
+18:27
+Det er ret vigtige udtryk, fordi de ligesom synonymet er fuld eller ikke fuld og fortæller stået om, om de kan løse lignende systemer i Vejle.
+
+18:39
+Så hvis vi har en kvadratisk matrix med fuld gang.
+
+18:58
+Ja, så er den så siger vi den er. Regulære.
+
+19:09
+Så kommer en sætning. Den siger at visse af.
+
+19:35
+Er en regulær matrix. Talent besidder den har fuldbragt, det vil sige at.
+
+19:49
+Rang af Anne M. Så så følger der at der findes.
+
+20:04
+I deres. Det er svært at skrive med en endnu værre smag Trygs.
+
+20:14
+Og ja, den kalder vi så a la Østrig minus en.
+
+20:23
+Og for den gælder. At alle gør noget af en Verres er lig med en aarhuus matrix, så det er derfor vi har indført den.
+
+20:41
+Og det omvendte tilsiger det omvendte produkt af en væres.
+
+20:49
+Gakkede med A er også en af matricen. Det betyder ikke, at den multiplikation der jeg kommer til at tippe.
+
+20:57
+Men det behøver ikke at være sådan, at bare fordi det er ottende gang eller med en anden matrix er.
+
+21:08
+Det samme som ved Grand. Det har ikke noget at gøre med det.
+
+21:12
+Det gælder kun for den inverse matrix. Og hvis vi sammenligner det her de to produkter, jamen så er vi det igen herinde i den situation,
+
+21:26
+hvor vi bare skal tale, som vi gerne vil dens inverse for så får vi, indehaves elementet i de reelle tal et tal.
+
+21:37
+Og det har vi også her. A grand den inverse.
+
+21:41
+Det er en men trist. Godt.
+
+21:54
+Så kommer det store kaos. Så at sige.
+
+22:02
+Det her vil gerne came. Og om.
+
+22:08
+Er. Så kan det være bedre Hr.
+
+22:16
+Og også god plads vil jeg ikke sige længere.
+
+22:30
+Så nu går vi tilbage til det første eksempel vi havde, havde vi jo ligesom løst to.
+
+22:39
+Lignende systemer Samtidig ryger vi ved at skrive de to højre sider op, og det danner så også Matrix,
+
+22:48
+så hvis vi vil skrive det anderledes, det her Linux system eller de to.
+
+23:05
+Jamen så kan vi skrive det kompakt som matrix multiplikation, og så er ikke svært.
+
+23:17
+Adgange eks med tøj der lignede b matricen, og det vi mener med det tog, er så selvfølgelig, at vi har igangsat et korstog, der ikke ses her.
+
+23:30
+To. Og.
+
+23:47
+Nu skal vi passe på. Det er der. Og rigtigt.
+
+23:53
+Og så. Med et spil, ja sågar fælt.
+
+24:04
+Stater ligesom mere kompakt måder at skrive på, og det stemmer det.
+
+24:11
+Hvis vi nu. Så nu ganger af med den første søjle her.
+
+24:20
+Jeg synes stedet skal hedde. AS to have og et sæt, så er det her på så få er side, hvor du så får.
+
+24:33
+Inddragende B et værktøj.
+
+24:37
+Om det er selvfølgelig rigtigt nok skal skrive det bliver ligesom B et søjler væk som der står her og finde to søjler ved så.
+
+24:49
+Og hvis vi nu kalder løsningerne her et sted så og x to søjler væk,
+
+24:57
+som der står halvt så ganger af med løse løsninger, så reaktorerne x på og så få er højre side.
+
+25:05
+Bag et tilsvarende kan jeg gøre det med exo søjler vægge, så gang på, så føjer B sover højere syd.
+
+25:14
+Og det vil vi udnytte. Denne skrivemåde for at finde frem til den inverse matrix.
+
+25:23
+Og hvad skal den opfylde? Så kan vi lige sammenligne, da vi havde før i sætningen om den inverse Toksværd.
+
+25:32
+Hvis jeg nu har gidet at A, så vil jeg gerne kunne gange på med.
+
+25:39
+Den inverse og få indøves matricen.
+
+25:45
+Hvad er det så? Hvis vi ser lige, så ligner de to skrivemåder.
+
+25:51
+Så kan man ligesom identificere af glæde.
+
+25:56
+Denne her vil jeg også kalde det samme inverse. Det svarer til den ubekendte.
+
+26:07
+Og. Ja, identitets eller enheds matricen den svarer simpelt hen til den højre side.
+
+26:16
+Bag. Så vi vil gerne finde den af.
+
+26:22
+Så mon ikke vi kan bruge den samme måde for at finde, hvad den ene af os er i det her Linnés system?
+
+26:36
+Og det vil vi så gøre. Så vi skriver totalt matricen.
+
+27:03
+Nå, så det var en. Det væres være selv.
+
+27:13
+Som jeg har et et og så videre, er et N.
+
+27:17
+Skåret ned til et kvadratisk matrix af en M og.
+
+27:26
+Så har vi højere og højere niveau så in-house matricen.
+
+27:35
+Og så står et salg på diagonaler og nulre i rasende.
+
+27:42
+Af. Den her højreside.
+
+27:52
+Så det vi vil gøre er at vi vil bruge række operationer Gauss elimination på den totale matrix,
+
+28:02
+således at vi får trappe form på koefficient matricen, og den vil jo så automatisk se sådan ud, fordi matricen er kvadratisk.
+
+28:13
+Der er lutter ledende taler fra diagonale, og resten vil være noveller, så det vi får sendt frem selv, så.
+
+28:25
+Det her. Og.
+
+28:35
+Den fremgangsmåde. Den fortæller os så ja, at højreside svarer til den inverse med tryksager, og det er den vi skal finde.
+
+28:47
+Snegle som dem bage opskrift er en algoritme for at beregne den inverse matrix.
+
+28:55
+Man skal selvfølgelig sige noget om, hvornår det overhovedet er muligt.
+
+29:00
+Og det kan man kun, hvis raten her er maksimal.
+
+29:07
+Så. Det er for at illustrere den selv om før, så den inverse matrix findes.
+
+29:18
+Hvis det var af. Det ligner en.
+
+29:24
+Og hvorfor er det så, hvis rangen ikke var maksimal, så vil det betyde, at der vil være en række med lutter nuller her.
+
+29:31
+Men det ville der ikke være i samme række i højere side ville stå at et salg eller noget andet der, hvis der stod 0 tal.
+
+29:43
+Og så vil der generelt set være nogle elementer her, som er ulige med nul, og det betyder,
+
+29:49
+at vi har en inkonsistent ligning inden for det her system af ligninger, og dermed kan det ikke løses.
+
+29:56
+Og hvis det ikke kan løses, så betyder det altså, at den her ubekendte her den inverse matrix slet ikke eksisterer.
+
+30:11
+Så det kan vi så prøve at illustrere på et eksempel.
+
+30:19
+Og. Herover.
+
+30:32
+Fordi vi. Skal glemme den her tavler. Og især ved om hvorfra jeg vil gemme dem.
+
+30:48
+Det er ganske enkelt fordi ved 15.
+
+30:59
+Inverse matrix. Af en matrix af som vakte det samme som i dette eksempel, hedder et news et tog og et som her.
+
+31:16
+Og spørgsmålet er hvad enhver. Og det skal vi så gøre ved hjælp af den her algoritme.
+
+31:26
+Så blev der skrevet totalt matricen, og op på hoppet sendte Mathiasen på højre side har vi identitets enheds matricen.
+
+31:38
+To gange to har et salg på diagonalen er.
+
+31:44
+Og nu vil vi omforme den, så vi også foran. Eller foran virginal med tryksager på venstre side med taler.
+
+31:54
+Så ja, det er ikke så svært. Vi skal tage.
+
+31:59
+Første række. Og. Trække to gange.
+
+32:06
+Anden række fra. Og omvendt.
+
+32:12
+For det giver mere mening. Så har vi et minus et og et 0 i første række.
+
+32:20
+Så får vi nul salto og 1 2 minus to gange 0 1.
+
+32:26
+Minus plus to. Det bliver. 3.
+
+32:32
+Så følg med, og så har vi det til bliver minus to.
+
+32:41
+Og her lægger vi ikke noget. Det bliver bare en. Zarqawi.
+
+32:48
+Det er faktisk det samme række operationer havde det før, så ganger vi den anden række med en faktor en tredjedel, så får vi et tal her.
+
+33:07
+Så får vi minus to troede af patter og en travede vel her.
+
+33:12
+Og det der manglede her var at ved for 0 tal. Her. Og det gør vi ved, at det er anden række til først, så har vi så et 0 0 et.
+
+33:30
+Som ønsket. Og nu har vi så en.
+
+33:36
+Minus to tredjedele. Og.
+
+33:40
+Pas på med fortegn. Ja, det er selvfølgelig en minus.
+
+33:55
+Er en tredjedel. Så har vi nul plus som det hør og de samme tal i anden række som med havde før.
+
+34:11
+Så det her resultat er det der står på højresiden.
+
+34:16
+Husk masser af gange og den ubekendte herind, så får ex et gang et at lege med højresiden,
+
+34:24
+og det er så en tredjedel og så videre, så den inverse matrix hær kan jeg aflæse, aflæser have.
+
+34:32
+Og den er prøvet ved en tredjedag. Minus to tredjedele og en tredje af.
+
+34:44
+Så er resultatet på vores regning, så vil vi gerne se, at det faktisk stemmer.
+
+34:53
+Det er altså en god idé.
+
+34:55
+Når jeg har udregnet det en lille to gange to med fire gange fire, så går det bestemt galt på et tidspunkt, hvor hun gør det i hånden.
+
+35:04
+Så tjek det her. Der skal være lige med i Enheds matricen, for vi har et så minus et to.
+
+35:18
+Ganget med dem det ville være, så blev tredjedagen. Tredjedagen.
+
+35:31
+Så kunne man jo lige være smart for en tredjedel af alle elementer ved siden man kunne trække dem ud.
+
+35:38
+Det kan det gøre lidt nemmere at vejen på en stor med et 6:00 folk.
+
+35:42
+Så stor kan vi op. Så har vi altså først søjler gakkede med det her.
+
+35:48
+Der bliver en tredjedel plus minus smugles.
+
+35:53
+Der bliver A++ to tredjevalg. Så kommer det tal er fået to gange.
+
+36:04
+Nu er News. Hvor passer der slet ikke noget?
+
+36:11
+Der skal være et salg derfor for at gøre regningen op.
+
+36:16
+Så er vi minus to tredjevalg. Det bliver så til 0.
+
+36:21
+Så har vi indfriet det minus en dag, og det siges, der bliver to.
+
+36:30
+Troede det. Plus er en travl dag.
+
+36:35
+Og nu kan vi se, at det er vores enheds matrix, et 0 0, et stærkere faktisk inverse.
+
+36:48
+Fidusen. Derudover er den noget jeg har annonceret i begyndelsen.
+
+36:54
+Det var, at vi nu kan gå hen og løse.
+
+37:02
+Det ligende system af slimet bag på en anden måde. Skriver en af Gargano eks er limet bag.
+
+37:15
+Og vi har denne egenskab egenskab, så nu det jeg havde arrangeret og svedt multiplicere denne her video af en os fra venstre sidder.
+
+37:28
+Hvad får jeg så? Så får jeg. Den nye ledning.
+
+37:37
+Doseret så noget af en skov på begge sider. Men nu ved man, at fordi det er endnu værre, så det in-house Mathiasen hér.
+
+37:53
+Og hvad er i enheds matricen ganget med en vægt, så eks.
+
+37:57
+Det er det samme som vektoren ex. Så for er Acs er lige noget af en væres ganget med B.
+
+38:09
+Så hvis vi kender det endnu værre, så kan simpelt hen multiplicere for venstresiden med højere offside, så bevæg så for at få løst af Linux systemer?
+
+38:20
+Ja. Det bliver vel også fordi at.
+
+38:30
+Lad os sige at give ordrer for højere sider. Volleyball pladsen er.
+
+38:42
+Dette starter hvor. Og nu vil du multipliceret fra højresiden.
+
+38:48
+Så har du af Gargano med x Gargano a enhvers.
+
+38:55
+Lige hvor Bay. Det kan du ikke udregne.
+
+39:05
+Fordi Frans søjler vægge er af sted samme situation som her advarer en søjle vægge, så gangen matrix.
+
+39:16
+Så lad os sige det var. B et og bed to herrer og du prøver at gange det med en matrix.
+
+39:30
+For havde et eller andet, så kan du ikke. Du gør at du ikke er.
+
+39:35
+Du kan ikke gøre det. Der mangler en ekstra søjle da fået den.
+
+39:39
+Den produkt er ikke defineret meget.
+
+39:44
+Det er også derfor, at det er lidt anderledes end med sejle væk.
+
+39:48
+Du kan ikke bare bytte rundt på rækkefølgen af multiplikation, og det er ekstremt vigtigt for matricer,
+
+39:55
+medmindre de har visse egenskaber på fælles kommutativ matricer, siger Motorvogn.
+
+40:01
+Tyrkiet byder rækkefølge, men det skal være samme størrelse.
+
+40:05
+Det kan du se her. For eksempel her størrelsen af B jo ikke den samme vej.
+
+40:11
+Så. Gå til hvad skal jeg så sige?
+
+40:21
+Nu har jeg så lige slaget den 1. Af identitets matricen Grand Rex er det samme som ex.
+
+40:32
+DEC. Nogle af jer synes ikke er troværdige, og at det er fup.
+
+40:40
+Det er der ikke. Det er den rene sandhed, og det kan vi meget nem sag.
+
+40:51
+Det var. A Stranger ex lemmer x la Cité var 2 gange 2 matrix.
+
+41:02
+Det er der også her i eksempler. Og ex til at have.
+
+41:10
+Og det ganger vi igennem det så engang i sæt.
+
+41:15
+Så har jeg nogle gange jeg ikke siddet her, og så det bliver en gang exit plus nul gange exo det jeg ligner et sæt.
+
+41:24
+Her og ved nul gange X+ i gang, så.
+
+41:30
+Så det er jo ikke.
+
+41:34
+Okay, men når vi nu er i gang med det her eksempel, så kan vi jo lige øjen det helt, færdes og se eller overbevise os selv, at det faktisk er rigtigt.
+
+41:52
+Det var at en. Garnet med bælg giver os x den ubekendte.
+
+42:00
+Og hvad så? Ja, enhver svar var lutter troede det hele bortset fra.
+
+42:08
+Dagen har. Og hvad er det?
+
+42:13
+B er. Jamen, der er to muligheder.
+
+42:21
+Nu vælger den første. Det er over tre.
+
+42:31
+Så ganger det igen for en gang tredjevalg. Jeg får tre gange prøvet det.
+
+42:41
+Her og i anden række får jeg en gang minus to tredjedele plus tre ganger.
+
+42:49
+Tre tredjedele af at være det. En plus tre prøvede, dette er 34.
+
+42:56
+Og minus to plus tre. Det bliver så en tredjedel.
+
+43:03
+Og det kan vi se, det er jo faktisk den samme løsning vi har fået fremsat med den oprindelige Gausdal i masse år,
+
+43:14
+og det virker heller ikke særlig Makan spillerne.
+
+43:19
+For i bund og grund har vi jo gjort nøjagtig det samme som den og højne de her række operationer, vi har lavet her.
+
+43:26
+Bare at vi har inkluderet identitets matricen som en slags højreside for at kunne finde frem til den her af en værelse som.
+
+43:38
+Skal opfylde den her problemstilling. Godt.
+
+43:50
+Det er det jeg vil sige om et den inverse matrix. Nu har vi kortet.
+
+43:57
+Jeg vil bare lige nævne at sidste ting omkring løsninger.
+
+44:07
+Hummer alene ligninger i vandingssystemer så.
+
+44:13
+Det første det lille målbare to ting, der første er en definition.
+
+44:18
+Hvis jeg giver er et lignende system, hvor Højers er lig med nul, så så hedder det et homogent.
+
+44:31
+Ledning system. Og hvis jeg ikke har nåle på højre side af gangen, er lige mod B.
+
+44:46
+Er ulige med 0 grader, så er det et E-nummer system.
+
+45:06
+Og det der går ud på struktur saltningen af løsninger er følgende hvis man nu har en.
+
+45:19
+Et problem som har dette linings system.
+
+45:24
+Så kan løsningen sættes sammen, og så er to slags løsninger.
+
+45:32
+Det kan man altid dele æren på en løsning, og det er den enorme orkan og løsning.
+
+45:41
+Nu skal jeg lige forklare, hvad det er den enorme gæld løsning eller en Hummer gener, der så bare den væk.
+
+45:49
+Så stop løser det her problem. Og.
+
+45:56
+Her den enorme og glidende løsning løser problemet, og hvor højre side ikke er lig med nul.
+
+46:04
+Så hvis jeg lægger den her sammen. Kan hurtigt overbeviser, at det er rigtigt.
+
+46:33
+Og. Så a ganget med den hårmode gennemløbes bare nul.
+
+46:44
+Og det der bliver tilbage, er det her, og det er lige nu.
+
+46:48
+B, så er strukturen er løst inden den sættes sammen af den homogene, om vi må ud i en hård margin og.
+
+47:01
+Godt for skal vi lige se på mig på.
+
+47:10
+Fra nye kommandoer som skal bruge. Det her virker.
+
+47:33
+Sådan. Ja, ok. Nå ja.
+
+47:41
+Det sidste du skriver ja du skriver a b a x indeholdt også.
+
+47:53
+De er. Ja.
+
+48:06
+Det hænger sådan så. Det er det oprindelige problem der skal løses nu ved hvad vi kan se på denne problemstilling som to seperate problemstillinger.
+
+48:20
+Det ene er at løse den homo gena del af problemstillingen.
+
+48:25
+Røg bare eller højere lig med nul. Det har en løsning, som jeg kalder x organ.
+
+48:33
+Og det samme sig gøre for den enorme Gena version af dette problem.
+
+48:37
+Når jeg og og det staten, når jeg laver løjer, lægges de to ulysten og have løst de to problemer.
+
+48:45
+Så en komplet løsning af dette problem sat sammen af en homogen løsning og den enorme og løsning.
+
+48:59
+Ja, den partikulære løsning. Er det her det ikke, så er en løsning af dette problem.
+
+49:14
+Vi har set stadig meget og vil gerne herud, så skal det være lige med nul, så det ikke noget.
+
+49:24
+Så komplet er kun de to lagt sammen, så man løser det her problem, da denne problemstilling.
+
+49:36
+Er det. Det er den URL'en det er det du har.
+
+49:46
+Det er det, du har løst. Det skal være en løsning på det her.
+
+49:52
+Derfor er det også en løsning på det her. Så er der så ligger noget oveni, som går ud mod noget.
+
+50:01
+Jamen så gør det ikke noget. Så den denne løsning hvor jeg lægger de to sammen, det er stadigvæk en løsning af det oprindelige problem.
+
+50:15
+Det vil kan lige snakke om. Jeg tror, at der vil lige vise, hvad man giver os.
+
+50:33
+Var. Det svarer. Til.
+
+51:14
+Og hvad med skærmen? Det ene øjeblik. Så nu håber jeg vi kan.
+
+51:42
+Det er et forbillede, men I kan ikke sidde i ska. Så hvad så virker med igen?
+
+52:01
+Beklager. Når.
+
+52:20
+Så vidt nåede alligevel. Ja.
+
+52:29
+OK, så fik vi lokket af.
+
+52:47
+Så er det godt vi starter med at lave det lidt nemmere at parkere, så det er lige om at finde en matrix, så løser det her store ligning system.
+
+53:02
+Det vil sige, at der er sat sammen af flere Leiningen systemer med Matrix X og Matrix B på højre side.
+
+53:10
+Det vi får givet er en Matrix A, og den tager sig noget og en højere to højreside med minus 7 over 6 og minus fire over to som de to søjler vektorer.
+
+53:28
+Dem kan vi også løse simultant med æbler. Det tager vare og giver så de to læsninger, altså udstedt søjle vægteren to over tre og minus et over et.
+
+53:39
+Skal vi i gang tilbage og stemmer? Det vil sige, at venstre side af gangen ex er lige med højre side.
+
+53:48
+B. Så det er rigtigt godt.
+
+53:53
+Spræl i det næste eksempel handler om at indføre in-house matricen.
+
+53:59
+Så har vi bare en generel matrix A med A, B, C til E komponenter elementer.
+
+54:09
+Og vi prøver at finde måder at løse denne her ligning.
+
+54:15
+Det vil sige, at X gør ikke noget ved. Hvis jeg ganger af med, så får jeg den samme matrix tilbage og.
+
+54:24
+Ja. Se her. Det er helt fantastisk med et I kan eller omvendt.
+
+54:29
+Det ved jeg ikke. Det er noget matricen.
+
+54:35
+Så kan vi tjekke, at jeg også virker, som vi forventer, så a ganget med enedes matricen er det samme som A.
+
+54:42
+Det er sandt, og det kan jeg også med enheds matricen.
+
+54:47
+Kan man så også gange fra begge steder? Det gøres ikke noget.
+
+54:52
+Der får man det sørme, så der er nogle specielle matricer, hvor det er rigtigt, at man kan gange fra to sider.
+
+55:01
+Så har vi den inverse matrix, så vi får igen denne her fantasifulde matrix fri med elementer fra et.
+
+55:14
+Og. Vi har defineret den ene smask, så her DDR's point.
+
+55:20
+Sidder der et and the matrix og siger så, at den skal have tre ganger, tre rækker og søjler.
+
+55:30
+Så får mere vi, så danner vi totalt matricen herrer.
+
+55:37
+Og vi kan køre rigtig stewardesserne om form for at bestille mad, trappe normale form.
+
+55:44
+Hvor sker så det at jeg kan se at sidste række her?
+
+55:51
+Hartkorn 3 0 taler med en.
+
+55:56
+Højreside har så u elementer ulige med nåle,
+
+56:00
+og det betyder at vi har ikke eller et sæt faktisk flere inkonsistente ligninger her, så dem kan vi ikke løse.
+
+56:09
+Og det kan vi så også bekræftet ved at udregne rangen af både af matricen her på Venstre og hele totalt matricen og totalt matricen,
+
+56:21
+har bank og entré og a Harvard to, så der er ingen løsning.
+
+56:27
+Og det var så her, vi sagde, at den her matrix af denne er Cinco lag, og fordi den ikke har fulgt rang.
+
+56:37
+Og det næste. Det har vi så rettet på det første element.
+
+56:44
+Og nu noget. Det har været Nordvang tre, så der eksisterer et univers.
+
+56:51
+Det prøver vi lige med ved at finde trappen normal form her.
+
+56:55
+Så får vi luller af et salg og her, så det ser fint ud.
+
+57:00
+Og så går, og her er et sjovt og sjovt kumpanerne som med et tricks af det udtrykkelige, vi har,
+
+57:11
+vi lige har evalueret, og det det gøre, er at skære rækker et til tre ud, men kun søjler 4 til 6.
+
+57:23
+Det vil sige det, der svarer til denne her halvdel, og det er den inverse matrix, som I så kan definere.
+
+57:32
+Det tænker vi ligeså. A gakkede univers A er det samme som en væres A ganget med A, og vi får enheds matricen for begge sider,
+
+57:42
+så det ser rigtig fint, så også en anden måde at udregne på e-mail på.
+
+57:47
+Man kan bare skrive af hash. Lige nu sættes det a i minus første.
+
+57:54
+For få med Nordsten i enhver matrix da.
+
+58:04
+Ja, det er gaten, og så har vi to.
+
+58:09
+Ja, så kan vi også løse af klimavenlighed at udregne af en væres, det gør vi til sidst,
+
+58:14
+så X er lige med af enhver arket med B og C for de her løsninger, som svarer akkurat til dem, vi har fundet sted før.
+
+58:27
+Var det? Tak.

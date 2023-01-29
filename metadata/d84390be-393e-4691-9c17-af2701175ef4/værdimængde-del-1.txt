@@ -1,0 +1,1133 @@
+0:04
+Jeg og programmet er sådan rimelig tilsneede.
+
+0:11
+Jeg tror jeg vil synes om det. Der er ikke rigtig noget ny teori, men vi skal lære at finde værdige mængder,
+
+0:19
+hvis vil minimum er maksimum for funktioner, og vi vil regne en hel masse eksemplarer.
+
+0:23
+En hel masse vil regne nogle lange eksempler, så det er det, der går ud på.
+
+0:29
+Så lad os lige skrive om, hvad det handler om. Så overskriften er værdimængden.
+
+0:44
+Og hvad handler det om? Vi skal lige.
+
+0:50
+Vi skal lige minde hinanden om det vi lavede senest, nemlig med retnings avlede.
+
+1:01
+Og det vil sige mistake øjeblik om om gradient der igen.
+
+1:06
+Og så skal vi også snakke en lille bitte smule om begrebet kompakthed.
+
+1:13
+Kompakte mængder. Hvad det er for noget.
+
+1:20
+Og så hedder det ellers det, der hedder det store dyr. Det hedder ekstrem værdisætningen.
+
+1:36
+Og så er der ellers eksempler. Sådan så.
+
+1:49
+Det er det, så lad os lige starte her med retning savlede jeg måske en meget god ide og lige tænke over, hvad der er, hvad det er, vi ved i forvejen.
+
+2:00
+Altså hvis vi nu. Hvis du tænker på en funktion i en variabel, som så er differentiabel.
+
+2:10
+Så kan vi tage et mærke i et eller andet punkt x0. Det tal.
+
+2:17
+Det tal fortæller hvor meget man gør op af.
+
+2:22
+Og hvis det er negativt, så går man jo ned af hvis man gør. Back in Hell er ikke så aksen, så dette er den tilvækst.
+
+2:34
+Tilvæksten på byer aksen.
+
+2:39
+Det vil sige funktions tilvæksten. Når.
+
+2:48
+Man. Bevæger sig i positiv betragtning.
+
+3:07
+Buddet fra x0 og forstår man, hvis man så står på grafen, forstår man jo et punkt der hedder fake knogle.
+
+3:17
+Det er allesammen jo måske bare en klumpet måde at skrive noget, som vi godt ved på.
+
+3:22
+Så nu har grafen her, og vi har punktet x0 liggende her, så punktet på grafen ser sådan her ud.
+
+3:33
+Og hvis man så tegner tangenten igennem punktet, så vil hældningen af den tangent præcis være af mærke taget i dette punkt.
+
+3:42
+Og det betyder altså, at hvis jeg gør en jeg.
+
+3:47
+Så gør jeg dette stykke op for at komme op til tangenten yoga, og det vil sige lige præcis i dette punkt på grafen er hældningen f mærkede jeg x0.
+
+3:59
+Hvad var det så vi gjorde sidst? Ja, så kigger vi på, hvad man hvad man så gøre i to variable.
+
+4:08
+Og. Fordi man når man har en funktion af to variable, så kan man jo ikke kun bevæge sig på heksejagten,
+
+4:18
+det vil sige i én retning, men man kan bevæge sig i hele x y planned.
+
+4:22
+Det vil altså sige, at man er nødt til at orientere sig efter en eller anden retning,
+
+4:27
+og det man så gøre det, at man vælger én retning bestemt ved en enheds vægter.
+
+4:32
+Det er jo i virkeligheden også det, vi gør her er ikke fordi vi gør ikke noget i den retning.
+
+4:39
+Og så fortæller detajler os, hvor meget man skal serveres, hvis man skal følge efter tangent ned, og den retning vælger man så.
+
+4:48
+Det skal være en enheds værktøj, og hvis man så prikker den med gratis appen i form af 0,70 eller skrive det ordentligt.
+
+4:59
+Så får man et tal som har præcis den samme betydning som det her, og fordi den fortæller, hvor meget funktions tilvæksten er i den retning.
+
+5:14
+Ja, og det vil jeg nok afholde mig fra og og hvad hedder det tegnet?
+
+5:20
+Men altså dette er er.
+
+5:27
+Funktions selv væk vækstlande.
+
+5:36
+Når. Maden bevæger sig. En enhed.
+
+5:48
+Og det er lige præcis sådan en længde der, fordi en enhed i.
+
+5:56
+I retningen bestemt ved den dag enheds reaktor. Det er genialt.
+
+6:02
+For hvad var det nu vi brugte det her til i en variabel?
+
+6:06
+Når i år? Fordi det må betyde, at hvis mærket er x0 af nul, så står man et sted,
+
+6:14
+hvor man hverken går op eller ned af gæsterne, og det må betyde, at man er et sted, hvor grafen er flad.
+
+6:22
+Tilsvarende her. Hvis det er tal der er nul ligegyldig for én eneste væg, som man putter ind her.
+
+6:31
+Det betyder altså at gradient er nul. Passer det.
+
+6:35
+Fordi indkredse en enheds vækster er jo ikke nået væk. Så hvis det her er nul.
+
+6:42
+Så er det fordi at gradient dér er nul. Det må altså betyde, at så står man.
+
+6:48
+I et punkt på denne her graf, som jo er et landskab, så står man i et punkt, hvor man hverken går op eller ned af til i nogen retninger.
+
+6:58
+Da det må betyde, at man står enten på en bakketop eller en bakkedal eller i noget, som vi kalder et sæde på.
+
+7:05
+Altså hvor man. Står den på kassava, men man, men står et sted hvor grafen er flad.
+
+7:14
+Kan jeg så det, er det vi skal bruge gradient den, og den retning savlede til at få dagen.
+
+7:24
+Information, så der var lige en ting som som vi lige kan tage med.
+
+7:32
+Bare lige for at minde os om det. Der var noget information, vi kunne få ud, fordi hvis man nu husker, hvordan det er, hvis man tager en vægtere.
+
+7:43
+Og prikker dem med en anden væg.
+
+7:45
+Det er jo det jeg gør, når jeg laver indretnings afledet, så er det altid sådan, at det tal der kommer ud af dage, det er længden af den ene væg så.
+
+7:59
+Venter denne gang længden af den med denne er jo indlagt, så det er et et tal.
+
+8:04
+Det gider jeg ikke skrive. Men så skal jeg gange med cosinus til vinklen. Imellem de to vektorer.
+
+8:12
+Så hvis I nu tænker på billedet her, hvis vi tegner, hvis vi tegner det og oppefra.
+
+8:19
+Her har jeg så Acs, og her har jeg så øy, og så har vi vores varer fra F liggende som sådan et landskab her.
+
+8:26
+OBS Varerne til at sætte aksens stikker ud her kan jeg så hernede i.
+
+8:32
+Actually planned. Der har jeg måske min gradient strittende den der var, hvis jeg tegner den sådan.
+
+8:40
+Og så vælger jeg en eller anden enheds værktøj. Det er min enheds væg til dig er her, og det er min gratier tæer.
+
+8:48
+Vinklen vi snakker om, det er den vinkel nede i en exoplanet, hvor disse vektorer ligger, som der er imellem de to vektorer.
+
+8:58
+Okay det her tal som vi regner ud.
+
+9:05
+Det var altså det der svarede til hældning skurke sendt ind for grafen i en variabel og.
+
+9:13
+I to variable, så er det Henning Skjødt Jensen er grafen i denne retning.
+
+9:19
+Nu kan det være at sige så meget jeg gør opad eller nedad, når jeg bevæger mig i den retning.
+
+9:25
+Et skridt frem, og så ser jeg så jamen, hvad er den maksimale højde?
+
+9:31
+Altså hvad er det maksimale, jeg kan komme og blive udsat for?
+
+9:36
+Jamen, det er det her er størst mulig, og hvor stort kan det blive, at den har arvet den længde, den nu engang har?
+
+9:43
+Men cosinus tv varierer jo afhængigt af, hvad vinklen er. Men korsene tv kan maksimalt være 1, og det er den, når vinklen er nul grader.
+
+9:54
+Det vil altså sige når vinklen er nul grader. Så det her en.
+
+10:01
+Så tager. Denne hældning som står her.
+
+10:06
+Den er så simpelt hen lig med længden at gøre det enten.
+
+10:10
+Jamen det betyder så at hvis man vil nu møde den stejleste kurve, så skal man vælge denne retning.
+
+10:17
+Og hvor stejl er kurven? Den er præcis så stejl som længden af gradient, den angiver, afgav så store Gratian, der giver stejle kurver.
+
+10:31
+Tilsvarende hvis jeg nu vælger at bevæge mig på tværs, hvis jeg vælger retningen på tværs af i 18,
+
+10:38
+så er vinklen jo 90 grader eller halve for klassens nul.
+
+10:43
+Og det betyder altså, hvis jeg står her og bevæger mig ind i den retning der.
+
+10:51
+Jamen så tilvæksten 0. Og det betyder, at jeg hverken går op eller ned.
+
+10:56
+Jamen, så går jeg i samme højde herover op.
+
+11:00
+Som jeg startede i, kan i dag hvad det vil sige at gå på det vi snakker om sidst og kalde det en niveau kurve,
+
+11:07
+så niveau kurverne står vinkelret på de interne. Så det er simpelthen en et.
+
+11:13
+Det er godt at vide. Og det er også godt at vide, at når man nu laver.
+
+11:17
+Hvis man skal lave en funktion, så undersøgelse at gradient.
+
+11:22
+Den har noget information, fordi hvis de har grædt i enten et punkt og I leder efter et maksimum for, så vil gradient.
+
+11:29
+Den peger i den retning, hvor I skal lede. Kan I se det?
+
+11:34
+Den peger hen mod, hvor funktionen kommer så højt op som overhovedet muligt.
+
+11:38
+Tilsvarende det modsatte retning, at de enten. Der vil formentlig gå ned af bakke Kaiser, hvis hvis gradient den altså var.
+
+11:47
+Hvis hvis det her var positivt, så nok om det.
+
+11:53
+Det er bare for at vende tilbage til når nu vi begynder at lede efter et minimum af maksimum, så det var det adaptation så.
+
+12:02
+Nu skal vi så lige til at snakke lidt om kompakte mængder, men det må være på tide med et morsomt indslag.
+
+12:08
+Er det ikke og ikke så.
+
+12:19
+Vi venter. Sådan er det altid med sprintere og kampe det.
+
+12:36
+Jeg er meget spændt. Ikke meget til dato.
+
+12:46
+Politiet har ikke rørt ved sejren i Stockholm.
+
+12:52
+Det er simpelthen en sejr, at den 1 1.
+
+12:56
+Angrebsduoen bør holde højland.
+
+13:05
+Og før den varslede, så kom der brag.
+
+13:22
+Og når man fri, når vi siger, at vi havde sagt floriner vi godt afgav folket.
+
+13:35
+Nu skal vi bare sidde her, og så er der ikke kompakte mængder.
+
+13:52
+Og bare lige for at minde jer om hvorfor vi skal snakke om kompakt natur,
+
+13:56
+sige hvorfor vi skal snakke om kompakt med ingen og derfor vi kigger på funktioner af to variable.
+
+14:05
+Som er definerede på nogle mængder, og det er de her mængder af delmængder af R i anden jeg er interesserede i.
+
+14:15
+Så der kommer lige en definition her.
+
+14:20
+Det er den sjove. En mængde.
+
+14:27
+A som ligger i og det er ligegyldigt om det er i anden eller er i første eller er i 27.
+
+14:33
+Men hvis det bare er er i 1. Eller C i 1.
+
+14:38
+Det kan da også være sådan, men mængde her er kompakt.
+
+14:47
+Hvis den vælges damen er både afsluttet.
+
+14:57
+Afsluttede og begrænset. Og hvad var det nu det betød?
+
+15:11
+Jamen altså hvis jeg nu, hvis jeg betegner nogle mængder her. Denne mærkedag kan hedde B et.
+
+15:22
+Denne mængde kan hedde begge to og design med inkluder, der hedder beige træ.
+
+15:32
+Det ligner hinanden de tre mængder, det er sådan som jeg har tegnet dem.
+
+15:38
+Så er de allesammen kompakte. Hvorfor det? Ja, fordi jeg har tegnet Foyn fuldstændig op.
+
+15:44
+Det betyder, at de indeholder deres vej, og det vil sige mængden bag alt det, der eventuelt ligger på vejen, men også indeni.
+
+15:52
+Tilsvarende med B2 og B3, og de er begrænsede.
+
+15:55
+Hvorfor? Ja, fordi jeg kan jo lægge en kugle eventuelt rundt om dem allesammen.
+
+16:01
+Så der er ikke nogen. Hvad hedder det?
+
+16:05
+Vektorer i nogle af de mængder, der er uendelig lange. For eksempel hvis jeg kigger på de reelle tal selv, så er det en afsluttende mængde.
+
+16:18
+Men den er ikke begrænset, så den er altså ikke kompakt. Så er er afsluttet, men ikke begrænset, så det er ikke en kompakt mængde.
+
+16:27
+Når nu tegner de her tre mængder, så sker nemlig definere et andet begreb, der hedder sammenhængende.
+
+16:36
+Så. En mængde.
+
+16:43
+Og den. Er mængde af et tilsvarende på samme måde at I er i vente kaldes sammenhængende.
+
+17:05
+Og hvornår gør den? Ja, det gør den, når den hænger sammen. Hvad vil det sige?
+
+17:09
+Jo, hvis hvis hvert par.
+
+17:21
+Par af punkter. X, Laugavegur, A og B i A.
+
+17:33
+Kan. Forbindes.
+
+17:40
+Med en kontinuert kurve. Og det er en definition.
+
+17:56
+Og hvis nu prøver at kigge på de mængder, jeg har lavet her, så kunne jeg lave et eksempel på det.
+
+18:04
+Jeg kunne lave en mængde A, der var b et forenet med begge to.
+
+18:15
+Det er de to mængder tilsammen. Den mængde er kompakt.
+
+18:25
+Fordi det er en afsluttet mængde, og den er også begrænset. Men den er ikke sammenhængende.
+
+18:41
+Og det er jo fordi at jeg ikke kan forbinde dette punkt med et punkt, der ligger herover med en kontinuert kurve, der ligger helt i.
+
+18:50
+Det glemte jeg. Men en konstrueret kurve i dag altså kurven skal ligge helt inde i midten.
+
+19:01
+Men jeg kunne tabe et træ, hvis bare kigger på den.
+
+19:06
+Den er kompakt. Og sammenhængende.
+
+19:19
+Fordi hvis jeg tager to vilkårlige punkter i B3 for eksempel.
+
+19:22
+Dette er på dette punkt, så kan jeg finde en eller anden konsumeret kurve, der forbinder de to punkter, som ligger helt ind i midten, så.
+
+19:32
+Hvis man bare har denne tegning for øje, så er det ganske simpelt, hvad det er at være sammenhængende.
+
+19:37
+Det betyder bare, at man ikke kan splitte den op i flere forskellige mængder, der ikke hænger sammen.
+
+19:41
+Kan især det? Så det var bare lige for at få nogle.
+
+19:50
+Nogle begreber på banen, fordi der er nemlig noget pænt at sige om kompakte mængder,
+
+20:00
+og der er noget ekstraordinært pænt at sige om kompakte, sammenhængende mængder.
+
+20:04
+Det kommer til udtryk i det, der hedder extreme. Sætningen. Ved en af de dele af de store satsninger.
+
+20:29
+Den er relativt nem at bevise, og I kommer til at bevise den, men ikke i det her kursus, men i matematik.
+
+20:36
+3. For alle der skal have matematik tre og have godt lad os se engang.
+
+20:47
+Hvad siger det? Den siger at lade F.
+
+20:56
+Være en funktion som vi kigger på. Hun går fra en mængde af egentlig de reelle tal.
+
+21:07
+Og den skal være kontinuert. Den det handler altså om kontinuerte funktioner og det.
+
+21:18
+Så gælder der følgende. Hvis A er kompakt.
+
+21:31
+Hvis jeg er kompakt, så ved vi at F anså både minimum og maksimum på mængden af.
+
+21:48
+Både minimum og. Maksimum.
+
+21:55
+På mængden af. Og som sige nå ja, hvorfor er det interessant?
+
+22:02
+Jo, fordi hvis man leder efter et minimum og et maksimum, så er det meget rart at vide, om man leder efter noget, der findes.
+
+22:08
+Og ja, der er masser af funktioner, der ikke har har noget maksimum, og så er det jo dumt at bruge tid på at finde det.
+
+22:16
+Okay. Det var vestaber kompakt. Visse dage er kompakt og sammenhængende.
+
+22:37
+For hvis af er kompakt og sammenhængende, så kan vi sige noget om værdimængden. Er værdimængden for F.
+
+22:47
+Det vil jeg skrive sådan her. Så er værdimængden simpelt hen intervallet fra minimum F til maksimum F.
+
+23:01
+Det vil sige værdimængden er et interval. For så er der nogen der siger ja, hvad nu hvis funktionen er konstant, som minimum lige med maksimum.
+
+23:10
+Og så vil værdimængden bare være et tal. Og det bliver ikke udelukket, at det her.
+
+23:20
+Så kan man sige hvad. Hvad er forskellen på de to? Her kom park og kompakt og sammenhængende jo holdested her.
+
+23:28
+Det er i virkeligheden dybt banalt, for lad os lige gøre det I hvis bare kigge på det i dag i en dimension.
+
+23:42
+Dette er altså den måde vi skriver det op på.
+
+23:46
+Så gælder det helt generelt I er I ændrer det altså ikke.
+
+23:51
+Det behøver ikke være er. Det kan både være R er i andet er et tredje i 27.
+
+23:56
+Denne sætning gælder altid. Og klage.
+
+24:00
+Prøv at se her. Hvis jeg nu tager. Hvis I nu har en funktion der er defineret på en kompakt mængde.
+
+24:10
+Som er sammenhængende. Så er det for eksempel sådan et afsluttet begrænset interval.
+
+24:16
+Her ikke også hvis de skal tegne en kontrolleret funktion, så kan man godt forestille sig.
+
+24:23
+Det må på en eller anden måde se sådan her ud, og det vil sige at værdimængden. Det bliver så tilsvarende intervallet fra minimum til maksimum kan.
+
+24:38
+Det der er altså et eksempel på det seneste vejr. Hvornår kan noget af det gå galt?
+
+24:45
+Jamen, hvis nu man tager det her interval og så det her interval og tager en funktion, der er defineret på de to intervaller.
+
+25:00
+Det kunne for eksempel være denne funktion. Og så kunne det være denne funktion som der.
+
+25:08
+Se. Det lyder mærket, men det er faktisk en kontinuert funktion.
+
+25:15
+Opfylder alle de krav der er til at være. Dens definitionsmængde er kompakt, men ikke sammenhængende.
+
+25:24
+Og læg mærke til at hvad kommer der ud af det? Værdimængden bliver dette.
+
+25:35
+Og så det her. Og det vil altså sige det ikke et interval for at man skal have et interval ud som værdimængden,
+
+25:44
+så skal man være sikker på, at ens definitionsmængde er sammenhængende. Så sådan noget her kan altså sagtens forekomme.
+
+25:50
+Og det kan jo i særdeleshed sagtens forekomme med enorme mængder.
+
+25:56
+Man kan bare vælge en funktion der ind på den to på hvordan og tre på den film kontrolfunktion.
+
+26:02
+Men værdimængden er ikke så valgt. Det talende indtog og 3 pct.
+
+26:07
+Men minimum må maksimum findes. Der er ingen problemer, der afgav godt.
+
+26:14
+Så. Nu kommer så det som vi skal bruge alt det her til, nemlig til at finde minimum og maksimum.
+
+26:25
+Så det handler nu om Coast. Få, mener Marx.
+
+26:43
+Hvordan gøre man i praksis, når man har en funktion? Og så skal finde den færdige mand ved hvert sit fællesdans, minimum og maksimum.
+
+26:54
+Der skal vi allerførst have defineret det som svarer til punkter, hvor f mærke er nul, og det vil jeg så skrive her.
+
+27:06
+Lavet af x0 kommer øen 0 være et.
+
+27:14
+Ændre. På. Og hvad er det nu?
+
+27:22
+Et indre punkt er, når det er noget, der ligger inde i midten.
+
+27:26
+Det vil sige jeg må ikke ligge på randen svarende til for funktioner af en variabel, hvis jeg skal differentiere.
+
+27:33
+Så skal jeg stå inde i det åbne interval. Hvordan når man Maric?
+
+27:38
+Man kan ikke differentiere i endepunkter punkterne. Når man skal have et åbent interval.
+
+27:43
+Det er derfor, at vi kigger på indre punkter i vores mængder. Så hvad x 0,10 være et indre punkt i vores mængde af.
+
+27:54
+Auckland. Hvis gradient er f.
+
+28:01
+Vi x0, kommer øen noget er lig med nulvækst. Så kalder vi punktet for et stationært punkt.
+
+28:22
+Et stationært flugt. Og det er så det der svarer til den punkter, hvor den afledede er nul.
+
+28:36
+Så det er sådan nogle, der vil være kandidater til minimum og maksimum punkter.
+
+28:41
+Okay, hvor skal man så søge efter minimum og markere nogle punkter?
+
+28:47
+Der er simpelt hen en opskrift. Man.
+
+28:53
+Skal søge. Min og Marks.
+
+29:05
+Blandt organ for det første de stationære punkter.
+
+29:23
+Så det gælder om at finde ud af hvor de stationære punkter er. Læg mærke til at.
+
+29:29
+For at finde stationære punkter, da man altså nødt til at kunne tage de partielle afledede fra funktionen skal have partielle afledede.
+
+29:36
+Det har de fleste funktioner også. Det er ikke nødvendigt, at de har dem alle steder, fordi.
+
+29:46
+Der findes også det der hedder undtagelsen punkter. Hvis nu vi lige gør sådan en.
+
+29:58
+Undtagelse punkter. Og det vil altså sige steder hvor de partielle afledede ikke findes.
+
+30:08
+Det kalder man for undtagelsen punkter. Cinco læger.
+
+30:19
+Punkter kalder man det også. Man kunne godt have funktioner, som eventuelt ikke var differentiable i enkelte punkter,
+
+30:28
+hvor man ikke kunne finde det parti eller aflede, så skal man pille dem ud og undersøge for sig.
+
+30:33
+Det sidste, man så skal undersøge, når man har fat nu, skal forestille jer.
+
+30:39
+Det kunne for eksempel være mælken bag et, der var den mængde.
+
+30:42
+Vi skal jo finde værdimængden for funktionen over, for kigger vi efter de indre punkter,
+
+30:48
+de stationære punkter i det indre, så kigger vi efter punkter, hvor de partielle avlede eventuelt ikke findes.
+
+30:55
+Og til allersidst kan man så se, så har man regnet. Den skal så undersøges for sig.
+
+31:04
+Programformater. Og hvis I lige tænker på hvorfor det her er naturligt.
+
+31:20
+Så bare lige i 1.
+
+31:23
+Der er spørgsmålet. Hvordan støtter man det er der nemlig.
+
+31:32
+Man skal tænke sig godt for hvad der. Ej, men der er selvfølgelig en strategi for hvordan man gør det, så vi gør det.
+
+31:41
+Allerførst en variabel. Hvis jeg nu tager f.
+
+31:46
+Eks. Liam kvadratrod eks. Vores berømte funktion for drabet ex.
+
+31:53
+Og lad os nu sige at mængden af den er defineret på. Dette lukkede interval fra 0 til.
+
+32:03
+Og så siger jeg A, men den her er afsluttet og begrænset.
+
+32:11
+Det vil sige at den mængde er kompakt.
+
+32:14
+Den funktion er kontinuert i hele den mængde, altså antager den ifølge Extreme med sætningen båret minimum og maksimum på mængden.
+
+32:24
+Mængden er i øvrigt sammenhængende, så værdimængden er et interval.
+
+32:30
+Okay, hvad skal jeg så gøre? Jamen, så skal jeg først lede efter stationære punkter.
+
+32:37
+Det vil sige ja differentieret jeg. Jamen, hvor kan jeg differentiere den.
+
+32:43
+Det kan jeg i det åbne interval drama. Så jeg tager lige og finder ud af hvad er et mærke?
+
+32:50
+Den er en dvd med to bedragede ex i kørte lige her op, så der.
+
+32:58
+Og vel at mærke man husker. Der står jeg her, og jeg kan også bare kan jo se varanen af den mængde her.
+
+33:11
+Drengen er tallet nul og det tallet 1. Det er rande.
+
+33:14
+Punkterne er vores mængde af med hvordan? Men det ene regne punkt nul er også et undtagelsen.
+
+33:21
+På kan ikke se det, fordi funktionen er ikke differentiabel i nul.
+
+33:27
+Kan I det? Den er ikke differentiabel i nul, så nul er et undtagelse punkt, men hvis disse eller dette er lig med nul, så kan jeg se.
+
+33:36
+Der er ikke nogen løsning, så der er ikke nogen stationære punkter.
+
+33:40
+Denne funktion har ingen stationære punkter vaske af sig.
+
+33:44
+Undersøge. Så skal jeg undersøge undtagelsen punkterne og regne punkterne.
+
+33:48
+Jamen, det nulre en. Sådan, men så sætter jeg Nuland efter 0 0.
+
+33:58
+Så sætter jeg 1 1 fr. Ind det 1.
+
+34:04
+Yoga. Så ved jeg at nul er minimum og en af maksimum, og værdimængden på grund af ekstreme værdisætning er så det lukkede interval fra 0 til 1.
+
+34:15
+Det vil sige det samme som det der står der. Kan jeg ikke være sikker på at den sprænger ikke noget over.
+
+34:24
+Men læg mærke til læg mærke til at man er nødt til at dele det op.
+
+34:28
+Det er ikke noget der overrasker dybt vel, men man er nødt til lige at undersøge endepunkter ned for sig.
+
+34:32
+Det ene er inde punkterne. Her er så et undtagelse punkt. Okay, lad os prøve at kigge på noget, som ikke er fuldstændig Mickey Mouse.
+
+34:45
+Så nu tager vi en nem funktion. Så.
+
+34:53
+Nu vil jeg bestemme værdimængden. For funktionen f.
+
+35:01
+Ekskl. Om at øge lim XL er anden bølge af anden.
+
+35:09
+På mængden. Og den mængde vil jeg kalde trekant.
+
+35:19
+Og. Og så vil jeg tage den.
+
+35:26
+Så hvis jeg tegner den her i sygeplejen nu. Så vil.
+
+35:33
+Det vil jeg have en ret linje som kan hedde uhyggelige mindelser ex. +5.
+
+35:39
+Og så kan jeg have en lodret.
+
+35:43
+Mændene der altså kan have en vanrøgtet linje der, og den lodrette linje, da den kan hedde ex led i minus en del fik den ligger.
+
+35:55
+Og gå ned igennem Meno sagen. Og så kan den være indrettet, at den kan hedde Y lige minus to.
+
+36:04
+Så nu holder. Sådan en trekant og min mængde A er så.
+
+36:12
+Det her det trekant. Okay.
+
+36:18
+Og den forholdsvis simpel figur. Og så har vi altså funktionen ikke siger Anden blev syg, anden liggende her oppe over.
+
+36:27
+Her sætter aksen så I har denne her frugtskål liggende herude.
+
+36:33
+Men I må kun putte ekstra øyer, der ligger i denne trekant i, så det er denne trekant, der på en eller anden måde bliver foldet op på frugtskålen.
+
+36:41
+Sådan. Og så skal vi prøve at finde ud af, hvad værdimængden. Og ja, så lad os lige tjekke.
+
+36:49
+For det første. Den mængde, der er kompakt, så trekant er kompakt.
+
+37:00
+Og sammenhængen. For er en kompakt og sammenhængende mængde.
+
+37:11
+Så ved jeg at værdimængden er et interval. Det vil sige.
+
+37:19
+Værdimængden for F er et lukket interval.
+
+37:28
+Og vi kan bare skrive det. Det er intervallet fra minimum af.
+
+37:36
+Til maksimum af sådanne. Det bliver ens klasselærer sikkert rigtig glad for, at man husker at skrive organ.
+
+37:42
+Går det godt, så skal vi. Nu skal vi have noget strategi.
+
+37:46
+Jeg kan også, for det er nu prøver vi det her problem alle.
+
+37:49
+Vi kigger på vores vinduer, og så ser vi det første vi skal lede efter det stationære punkter og stationære punkter.
+
+37:56
+De skal altså søges herinde. Inde i figuren passer den, så jeg leder efter stationære punkter.
+
+38:12
+Og det er meget, meget simpelt her, fordi gradient skal være noget.
+
+38:17
+Det vil sige f. Mærket eks. Er ikke skøre, man skal være noget og at mærke Y.
+
+38:26
+Er ikke skal Molly skal være nul. Det er det vi leder efter.
+
+38:30
+Og den er meget simpel denne her, fordi den er oppe differentierede med hensyn til ex.
+
+38:36
+Det bliver to x, som skal være noget, og med hensyn til øy, så er det to y.
+
+38:42
+Der skal være nul, og det vil sige at der er kun et stationært punkt og.
+
+38:52
+Koden blevet. Da dette punkt.
+
+39:00
+Og det hedder altså 0,0. Og.
+
+39:07
+Så skal vi lige finde ud af hvad funktion for ideen i det stationære på. Den er noget.
+
+39:16
+Og. Og læg mærke til at det her er faktisk minimum vi har fundet her.
+
+39:23
+Altså den der funktion. Den antager jo alle værdier fra og med noget og så op efter.
+
+39:29
+Hvis hvis den ikke var begrænset af det her, så ville værdimængden jo være fra nul med teorien.
+
+39:36
+Nu begrænser ville ved at lægge den ind i denne kasse. Men det rykker altså ikke ved at minimum.
+
+39:43
+Er lige præcis der hvor frugtskål fint står på bordet. Okay, men det fandt vi her.
+
+39:48
+Det var forholdsvis simpelt. Der kan sagtens være flere, men det man skal gøre, er, når man har fundet sin stationære punkter.
+
+39:55
+Så sætter man i funktionen for at finde ud af, hvad funktion værdierne er for.
+
+40:00
+Til sidst skal vi sammenligne alle funktioner for ideerne for at finde den mindste og den største.
+
+40:04
+Okay, godt, så skal vi have undtagelse.
+
+40:12
+Punkter Cinco lag punkter. Jamen, hvad er det for noget i det her tilfælde?
+
+40:17
+Jamen, det er hjørne. Punkterne her, som så også er at regne punkter.
+
+40:25
+Så i hjørnerne er der der. Dem skal man undersøge for sig.
+
+40:30
+Så. Hjørner. Og hvad har vi alle hjørner?
+
+40:39
+Vi har et hjørne der må hedde miner sagen kom under sex.
+
+40:49
+Det var dette. Og så har vi et møde minus 1,1 minus to.
+
+40:59
+Og så har vi et DR der må hedde og måtte gøre lidt senere er vi nede i minen, for det må være 7.
+
+41:11
+7 kommer mine to. Det må være rigtigt, når der er tre hjørner, og dem skal vi altså også lige have tjekket, for der er sikkert f.
+
+41:24
+Minus 1,6. Det er en anden +6 hjerne.
+
+41:29
+Det må være 37. Og funktions værdien heraf minus 1 kommer minus to ind i andet plus to i anden.
+
+41:38
+Det må være 5. Og her.
+
+41:45
+F 7 kommer minus to. Det må være 49 plus fire.
+
+41:51
+Det må være 53. Er det ikke.
+
+42:01
+Er det ikke rigtigt sjovt? Det ser rigtig godt ud. Så har jeg tre kandidater.
+
+42:07
+Nu kommer så selve Rando undersøgelsen. Så der var jeg.
+
+42:16
+De hører selvfølgelig med til randen, men de er specielle, fordi det er nogle knægte punkter som Naser nu, skriver Vangen.
+
+42:24
+Så mener jeg det der ligger imellem her. Klasse, da de her linjestykke her, og vi er nødt til at dele det op på en eller anden fornuftig måde.
+
+42:32
+Så hvis jeg nu kalder dette stykke for et bedre tog og dette stykke træ, og kan jeg.
+
+42:43
+Og det kalder vi, så nu regner undersøgelsen. Og det er fuldstændig lovligt at tage dette her med hjørnerne med i vejen.
+
+42:58
+Undersøgelsen ved hjørnerne er også i det her tilfælde jo regne punkter. Så det her er bare for det.
+
+43:05
+Den må jeg gøre det af. Så jeg starter med det første stykke retten.
+
+43:11
+Hvad ved jeg dér? Jamen, der ved jeg at gyldighed og minus x +5.
+
+43:21
+Jamen så kan jeg jo, når jeg ved hvad Y er, så kan jeg lave en funktion, som jeg kan kalde five af x,
+
+43:29
+som simpelthen er en funktion af en variabel, hvor jeg på excess plads skriver eksmænd på øget plads, skriver minusvækst +5.
+
+43:39
+Det er jo sådan som funktionen ser ud når jeg holder mig til den linje, der kan den.
+
+43:46
+Så jeres nye værdi i det, der står der, og det er jo nu bare en funktion, der kun afhænger af en variabel.
+
+43:51
+Den hedder så i øvrigt ikke sige andet plus minus 6 plus 5 i anden.
+
+43:58
+Og det vil sige hvis jeg nu regner det her ud, så får jeg ekser nu, og denne her giver plus minus 10 X+ 25, og det vil sige det har du travlt.
+
+44:13
+6. Det giver to æg.
+
+44:17
+Anden minus 10. X+. 25.
+
+44:24
+Og så skal vi finde ud af hvor den er størst mulig.
+
+44:32
+Vi har styr på, hvad den laver i ende punkterne kassedame, fordi i det ene endepunkt, der er den oppe i 37.
+
+44:41
+Og med det andet endepunkt, da den oppe i 53 kan. Dem har vi allerede styr på.
+
+44:46
+For det fattige nu er at finde stationære punkter sådan så jeg ser mærker af eks.
+
+44:55
+Det må være fire x minus 10, og den sætter jeg bare lige med nul.
+
+45:02
+Og det må være ensbetydende med, at jeg ikke forlige med to en halv.
+
+45:11
+Men hvordan? Og hvis ikke så lige minde eller hvis ikke så lige med to en halv, så ved jeg hvad øl er, og det må så være,
+
+45:20
+at mine kone halvt +5, det vil sige hygger sig lige minus 2,5 +5, som så er to en halv og sang.
+
+45:33
+At nu. Okay, det her må jeg aldrig nogensinde aflevere til jeres klasselærer,
+
+45:38
+vel fordi jeg har skrevet dette er ensbetydende med det, der er rigtig nok, når du begynder at skrive videre på det.
+
+45:43
+Det er dårlig stil. Der skal noget tekst indimellem med. Men altså den der udregning slutter.
+
+45:48
+Da jeg så regne ud, hvad Y er, så har jeg nogen kandidat.
+
+45:54
+Toenhalv kommer to en halv.
+
+45:59
+Så hvis jeg har regnet rigtigt her, har af nogen kandidat. Den skal tjekke F af toenhalv kommandoen alle må så være et semikolon DDR.
+
+46:15
+2. Halvleg andenbedste 6,1 25. Er der nogen af jer og 6,5 og 20 plus 6,1 25.
+
+46:24
+Det må være 12 en halv. Sådan dør.
+
+46:32
+Og det vil altså sige Når jeg holder mig på den linje minus jeg ikke +5,
+
+46:37
+så kommer den åbenbart ned til tavlen halvt og op til 53 og 37 i det andet ende på kinsella.
+
+46:46
+Der fik vi styr på dagen. Det var så nummer et, så lad os tage nummer to.
+
+46:54
+Og så skal vi lige gøre exempel færdigt, så fem minutter til.
+
+47:00
+Det er åndssvagt at stå op og holde pauserne ude, så lad os se en gang toeren.
+
+47:05
+Der er yderlige minus to. Jamen okay, så kan jeg lave præcis det samme nummer, jeg ikke, fordi så kan jeg lave en ny funktion.
+
+47:17
+Den, der hedder Five, så laver en, der hedder Pepsi. Siger eks.
+
+47:23
+Det ser f. Af eks kom Venus tungt, og det vil sige, at det er eks anden.
+
+47:31
+Clouds. Fire af. Er det ikke det den har stationeret punkt 0, og da så vi mærker eks den hedder to x,
+
+47:50
+og hvis den skal være lige med nålen, så er det så ensbetydende med, at jeg ikke så lig med noget.
+
+47:57
+Så har jeg mit på. Når jeg ikke så med noget, så er.
+
+48:05
+Altså ikke slimet, noget uhyggelige. Minus to.
+
+48:11
+Så hedder punktet åbenbart nul komma minus to.
+
+48:16
+Det er det punkt, jeg har fundet mig frem til. Nu er I med på den?
+
+48:20
+Det skal skrives ikke med. Okay, så skal jeg gøre lige som her jeg skal tage.
+
+48:27
+F er nul komma minus 2 0 i anden.
+
+48:30
+Plus minus to. Jamen, det må være 4. Og så mangler jeg kun den sidste og.
+
+48:45
+At vi nu gør sådan, så den fest det sig treeren. Der er ikke slige mindesten.
+
+48:53
+Så det er jo præcis det samme. Det spændende er nu, hvad jeg kan finde på at græske bogstaver.
+
+48:59
+FI si. Til ETA.
+
+49:06
+Det er nu en funktion af Y. Fordi det er f.
+
+49:12
+Mindeudstilling, kommer øen. Og det giver minus 1 i andet en klodes by Jane.
+
+49:23
+Så skal vi have stationære punkter, hvordan det vil sige at mærke er øget.
+
+49:28
+Det er to i. Det skal være 0. Og det er jo så ensbetydende med at byen med nul.
+
+49:40
+Så har jeg mit punkt det punkt siger yderlige med 0.
+
+49:46
+Og ekstra lige, mener sagen. Så punktet jeg har fundet frem til nu hedder minus 1,0.
+
+49:53
+Så skal jeg tage af funktions ved egentlig det punkt minus 1,0.
+
+49:58
+En anden snorlige anden. Det giver en. Og nu er færdig.
+
+50:06
+Nu har jeg fået stationære punkter, brændpunkter, undtagelse, punkter.
+
+50:12
+Hele svineriet. Så skal vi gå det hele efter.
+
+50:18
+Hvor lang kommer vi ned? Der Kaiser er minimum for funktionen af nul blev antaget i 0,0 og i øvrigt ingen andre steder.
+
+50:31
+Det kunne sagtens være, at man havde faldende funktion, som antog sit minimum flere forskellige steder.
+
+50:37
+Det kan man seancer, og uha, hvor højt kommer den op?
+
+50:41
+Ja, lad os se en gang. Jeg fandt dette. Og så fandt jeg hjørnet på markerne.
+
+50:46
+Den største er åbenbart 53 Ketsana, så den kommer op i 53.
+
+50:51
+Jamen, så kan du med fordel. Så kan vi bare bruge bruge ekstremer i sætningen den siger, så er værdimængden går fra 0 til og med 53.
+
+51:03
+Tak for kaffe. Sådan gør man.
+
+51:11
+Altså det vigtigste når man skal gøre det her, er at have en systematik. Jeg kan også starte med de indre punkter og så tage retten.
+
+51:22
+Så jeg er undtaget tidspunkterne selvfølgelig, men altså delt op på en eller anden smart måde,
+
+51:29
+sådan at man ikke roder tingene sammen og kommer til at lede efter forskellige ting.
+
+51:34
+Så efter pausen gennemgår jeg et eksempel.
+
+51:40
+Af samme type som det her. Og gav folk pause.

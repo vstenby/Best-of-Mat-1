@@ -1,0 +1,899 @@
+0:04
+Ja, så nu har vi i denne her uge for at finde 2 nye begreber, introduceret gradient viden og hendes hjerne.
+
+0:19
+To nye venner og ligesom går ind når skildpadden og får blade med en vis ret spørge hvor surfbrættet os navnet er morsomt,
+
+0:29
+hvad skal man så bruge dem til?
+
+0:35
+Ja, man skal bruge dem til egne tal, taler på nogle taler på nogle ord, der er brugt semere funktioner, sådan som vi har set her.
+
+0:42
+Men den anden vældige bro er den anden vigtige anvendelse.
+
+0:46
+Det er det lokale og sætter en global extreme form der.
+
+1:09
+Hvad er en ekstremsport? Det er et punkt, hvor funktionen er ekstrem.
+
+1:15
+Nu skal vi ikke lade os forlede egentlig. Altså at den normale brug af sproget?
+
+1:21
+Ja, det betyder jo i at forsvaret ikke andet end at det er en bog, som er anderledes end nabokommunerne.
+
+1:27
+Det er en bog, hvor og hvor man ikke kan komme længere enten opad eller nedad i funktionen,
+
+1:36
+så det i sådan en hel, men tal blot være at i et ekstremerne, for det er sådan et punkt her.
+
+1:44
+For eksempel. Eller. Sådan er et punkt hedder.
+
+1:54
+Så der findes noget for funktioner af en variabel, som hedder et lokalt maksimum, så maksimum punktet her er en dreven form.
+
+2:04
+Der findes dog havde lokal minimal minimums. Punktet er et lokalt minimums punkt.
+
+2:11
+Hvis vi vil skrive det op.
+
+2:14
+Så lidt mere præcist, så betyder det jo så her, at at alle andre punkter enten som i denne her situation har en mindre funktionens værdi.
+
+2:24
+Jamen det hedder ekstremer. Punkt eller i denne situation har alle nærliggende punkter en højere pensionsalder end det givne punkt.
+
+2:35
+Så hvis der gælder for to variable.
+
+2:41
+Ja, man kan sige for alle, og det skal virkelig gælde for alle. Jeg elsker maden i en omegn og om x 0,10.
+
+2:54
+Er et funktions værdien er ja, og så kan vi godt skelne en lille smule med et skjold er mindre.
+
+3:02
+En her nærliggende bunker var funktions, fordi en mindre end eller lig med ren værdi er.
+
+3:13
+Hvis nedtegnet er med. Så siger vi, så har vi ingen.
+
+3:20
+Så siger vi, at så kaldes x0, kommer nye nåle ind i lokalet.
+
+3:31
+Ekstremerne og alt vi kalder ved et lokalt maksimum.
+
+3:41
+Men der kan også være en lidt finere graduering, hvis vi slipper ved lide stregen her og siger Kåre nærvedliggende punkter.
+
+3:49
+Der er faktisk en streng, men vejen, de kan engang røre værdien, hvis de ikke er værdige en selv.
+
+3:57
+Så kaldes Lex 0,18.
+
+4:03
+For et. Egentligt.
+
+4:13
+Det er bare så har jeg set det ord lokalet maksimum.
+
+4:21
+Og fuldstændig tilsvarende omkring minimum der skal nærvedliggende punkter bare henholdsvis være,
+
+4:29
+hvis de har startet og hvinede sig videre lokalt minimum, hvis de med strengens bare for var de, når de ikke er til salg.
+
+4:37
+Så siger vi, at det er et inderligt. Maksimum og minimum.
+
+4:45
+Det er jo noget af det første man gør med analysen. Det er noget af det første, man gøre overhovedet bliver at udse sig sådan nogle punkter.
+
+4:52
+Hvorfor er de ikke interessante for os sammen som ingeniører eller teknikere?
+
+5:00
+Vi får vist funktionen nedefra med et slummer. Det betyder noget.
+
+5:04
+Har en eller anden konkret betydning, så er vi vigtige punkter.
+
+5:10
+Hvis det er en potential funktion, så falder systemet til ro. Hvis vi anbringer det i sådan et punkt,
+
+5:15
+og der er faktisk forskel på dem på at falde til ro i bunden af en gryde og falde til ro på toppen af en skål, for det i den situation er ustabil.
+
+5:30
+Denne situation er stabil. Men når det kommer, så man opsøger dem i første omgang ved at finde de lokale ekstremer,
+
+5:40
+så så vi har til begyndelsen af sådan en analyse, som for eksempel kunne være en stabilitets analyse.
+
+5:52
+Hvis vi husker betydningen af gradient nu, kan jeg huske onsdag i denne her uge.
+
+5:57
+Vi talte om betydningen gradient ved gradient, den var end en bil og pegede i den retning, hvor funktionen voksede mest.
+
+6:09
+Hvis man befinder sig i et lokale ekstremer, for så vokser funktionen overhovedet i.
+
+6:18
+Så eller også vokser den i alle retninger, men der vil ikke være nogen, der ikke være nogen speciel retning, hvor funktionen vokser mere eller mindre,
+
+6:27
+så det som jeg prøver at sige her, er, at udefra fra gradient, hvis betydning overhovedet som retnings afledes.
+
+6:35
+Så må det være klart, at hvis man er i et stationært punkt, så gradient.
+
+6:40
+Den nul stationære punkter er med garanti punkter, hvor gradient er nul.
+
+6:48
+Så jeg kan skrive et stationerede buk. Det er et punkt hvor radioantenne funktionen er lig med nul.
+
+7:07
+Det betyder ikke nødvendigvis at vi er i maksimum eller minimum, som vi skal se.
+
+7:12
+Men, men det er de punkter, vi nødvendigvis må starte med at finde for at.
+
+7:21
+Bestemmer. De stationære bunker.
+
+7:34
+Heriblandt mange lokale ekstremer. Så det er nærmest en definition.
+
+7:48
+Vender vi. Alle de x0 kommer nye nåle hvor gradient hvor.
+
+8:03
+Regnet ud i det punkt er lige nul.
+
+8:11
+Det svarer fuldstændig til hvad vi kender fra funktioner af en variabel, hvor man spørger hvor at den afledede nordlandet.
+
+8:20
+Så så for at finde mine Mårts punkter for en funktion af en variabel her, så finder man det ved at spare.
+
+8:29
+Hvor er banen hvor den afledede noget? Den afledede er nul, hvor der er maksimum punkter.
+
+8:37
+Og så er der jo en opførsel tale som vil give aflede noget,
+
+8:43
+hvor vi hverken har et lokalt minimum eller et lokalt maksimum, for det er sådan et specialtilfælde.
+
+8:51
+Men I har set funktioner, som kommer ned og siger, man tror lige, de vil have et minimum.
+
+8:57
+Og når jeg så bestemmer om at gå den anden vej med. Men vi må sige at er nuværende borgmester her funktionen.
+
+9:06
+Faktisk har funktionen faktisk vanrøgtet tangent. Man kalder det for en ven.
+
+9:12
+Tangent her, så den ligger sådan her.
+
+9:15
+Og så flipper vinden ned. Undervejs har den været nul.
+
+9:19
+Så sådan et punkt her vil også dukke op, hvis man undersøger alle de steder, hvor af mærket er lig nul.
+
+9:26
+Så her er mærket mærkelige med noget. Her er ikke lig med noget og herefter i Grosnij med nul.
+
+9:34
+Og hvordan skelner vi? Hvordan skelner vi imellem dem?
+
+9:42
+Kan justere. Hvordan gør jeg hvis hjernefunktioner en variabel vare?
+
+9:48
+Så så hvordan hvad? Hvad er forslaget på den situation og den situation og den situation?
+
+9:55
+Ikke i noget af det, jeg har skrevet op med et mærke her. Vi skal have fat i noget mere viden om funktionen.
+
+10:05
+Der bydes. Fald dobbelt.
+
+10:09
+Ja, det er dobbelt mærket som afgørende, fordi den biometriske information i efterlignet den er her at efterligne,
+
+10:20
+så den ligger ligesom Brexit landene, så et dobbelt mærke er positivt her.
+
+10:25
+Denne her den kommer til at ligne minus hjernen, så dommen er ikke negativ.
+
+10:33
+Her vil dommen er at lig med nul. Så dette efterår ølmærket lige med nul er en advarsel, kan man sige om,
+
+10:44
+at man skal søge yderligere funktion yderligere information som man ser nøjere havde skrevet.
+
+10:54
+Undersøgelse. Greves.
+
+11:04
+Med henblik på en funktion af en variabel. Vi får at vide, at jeg mærkede 0 og et dobbelt mærke er positivt, så garanterer det faktisk en minimums på.
+
+11:15
+Hvis I forvirrede mærket er noget og et dobbelt mærke er mindre noget, så garanterer det et maksimum på.
+
+11:21
+Kun hvis mærket er nul og jobbene er nul, så er det 1.
+
+11:25
+Jeg vil ikke sige, som der står i noterne, at der ikke er nogen information. Er der?
+
+11:29
+Der er masser af informationer, men, men. Det er noget, der peger Barber, om end vi beder om en nøjere undersøgelse.
+
+11:39
+Der er ingen garanti for at vi får svaret, hvis vi går til EF 3 bilmærker, men vi skal i hvert fald.
+
+11:44
+Vi skal i hvert fald højere. Vi skal som vædrede skilt, som vi skal dybere ned.
+
+11:52
+Sådan ser det ud for for en variabel.
+
+11:58
+Faktorer blev det ved vi. Det er det vi skal undersøge nu.
+
+12:12
+Nader. Et stationært punkt.
+
+12:26
+Altså et punkt hvor vi ved at gradient nu. Er noget.
+
+12:36
+Når ved vi jo at den kvadratiske tilnærmelse er den den lidt bedre tilnærmelse end en tangent blandede.
+
+12:43
+Nemlig den kvadratiske tilnærmelse. Den vil se sådan her ud. P2 om et minus 6 0.
+
+12:53
+Vi nøje nye nøgle består. Produktionsværdi er Hukaos.
+
+12:59
+Det er bare en viften op og ned med en konstant. Og så mangler jo gradient glæde, fordi det er jo nul.
+
+13:07
+Så det næste bliver næste ikke trivielt noget ved det.
+
+13:12
+Vi er nede med Rourkes minus knogle komma minus nul.
+
+13:19
+Hvis Jan matricen. Og så er min indsats noget svineri.
+
+13:31
+Og hessian mandrillen i dobbelt avlede er jo bare en matrix, som består af tal vi har taget i dobbeltrettede og regner det ud i punktet x 0,10.
+
+13:58
+Forlader Ecco hylderne bliver til noget. Det antal danskere skal det Stanley.
+
+14:07
+Tak de større Budva, jeg. Reggio.
+
+14:14
+Så den ændret usoignerede. Hvad er det Andries tilnærmet på jorden, da Andreas taler på polynomium?
+
+14:23
+Og så skal man så spørge sig selv om hvorfor typer?
+
+14:28
+Hvorfor de typer gode forekomme her. Man kan sige, at hvis jeg havde lavet det for en funktion af en variabel, jamen så er det meget simpelt,
+
+14:37
+fordi det er kun et spørgsmål om paraboler, hvor personen parabel herinde. Vi har lært om forskellen på en glad parabel og en ikke så glade for.
+
+14:46
+Her med to variable. Der får vi pludselig noget.
+
+14:51
+Et udtryk som et minimum består af tre forskellige ledige.
+
+14:59
+Den matrix som står heder som vi skal snakke om her, ja, hvor heste matricen.
+
+15:08
+Den er 1 2 gange 2 matrix. Der er reelle indgange i den, og den er symmetrisk matrix.
+
+15:19
+Så det er 1 2 gange 2 matrix så man reelt.
+
+15:29
+Men ellers ved vi ikke så afsindigt meget om den, men det er nu også meget godt at vide, vil jeg sige.
+
+15:40
+Lad os nu lige. Lad os nu leje en lille lej. Hvis skriver jeg som er stor hvis.
+
+15:48
+Hvis matricen var diagonal, så ville det være en lille smule nemmere.
+
+15:54
+Så vist vis satte han sig med tre resultat og havde et reelt tal her et reelt tal her et noget højere og et noget højere.
+
+16:08
+Så ville. P2.
+
+16:16
+Om Jordens minus og snorlige skal nok være ved at skrive denne her.
+
+16:22
+Hvad lige med jer igennem funktionen? Tredje gruppe så interessant.
+
+16:27
+Men så kunne vi faktisk skrive op, så vil der stå en havde.
+
+16:34
+Rex minus 1 0 i anden, og det bliver ganget med tallet i Lambrecht og det næste LED lamper.
+
+16:43
+2 halverer yderligere minus i nul.
+
+16:47
+Jamen så er det jo faktisk være en lille smule ligesom paraboler det er.
+
+16:54
+Vi ved egentlig godt hvordan sådan nogle funktioner, hjernen og plus strygejern med nogle tal på.
+
+17:02
+Går det ikke væk, er fuldstændig uoverskuelig og danne sig et overblik over det.
+
+17:09
+Vi kunne jo oven i købet sige. Min.
+
+17:16
+Hvis vi nu altså dette skift hen til nul.
+
+17:20
+Det går jo igennem hele vejen hen. Vi kunne også stilfærdigt flytte vores journalsystem ud til x0 kommer ikke noget til nogle nye variable.
+
+17:31
+Så i virkeligheden for at forenkle tingene bevæger sig ikke. Om det gør, så kan vi snakke om det i virkeligheden.
+
+17:35
+Et polynomium. To variable. Sammen har den højere talværdi.
+
+17:43
+Der kan vi ikke gøre noget ved det.
+
+17:45
+Men i virkeligheden så står der langt bag halve garnede, virkelig los, da to halve garnede byen hjernen bare i nogle nye variable.
+
+17:58
+Det formidlede spørgsmål Hvordan ser sådan nogen ud her? Nogle gange siger en noget gang You Jane.
+
+18:06
+Ja, der er faktisk ingen i tre situationer. Den ene situation er sådan en, som man næsten intuitivt ikke kalder den med at tænke på.
+
+18:13
+Det er et blankt et eller andre. To er positivt talt med. 2. Så er det slam, der ikke er positive, og lamper er positiv.
+
+18:25
+Jamen så vil sådan en funktion hellere være et positivt tal gange hjernen positive tal gang ved hjernen.
+
+18:31
+Jamen så bliver det det der hedder en opvarmnings partout møde. Så får vi sådan en flot skål her omkring vores på et nul komma nul.
+
+18:43
+Og sådan er vi godt, at situationen er, at når eftersom jeg proklamerede på lunger, følger funktionen, så klistrer funktionen.
+
+18:54
+Så går funktionen den vej her, og det vil sige, at x 0,40 er et minimum.
+
+19:04
+Det kan man argumentere meget præcist hvor vi hjælper uligheder og epsilon funktioner, og det vil jeg gøre her.
+
+19:12
+Jeg vil kun appellere til jeres intuition. Så tilsvarende denne her situation, så kan vi sige at.
+
+19:22
+Hvis de begge to var negative, hvis lamper ikke var negative og lamper 2 var negative også må jeg med.
+
+19:31
+Så står der bare minus hele den her affære, og det svarer bare til, at vi vender denne her om, så så klarer vi bare.
+
+19:44
+Sådan er en situation her man ikke er kommet i noget og så vel bruges, når det kommer indhold være et maksimum.
+
+19:55
+Og derved har vi faktisk udtømt de foretagendets muligheder.
+
+20:02
+Nej, det har vi faktisk ikke. Nej, det har vi faktisk. Men fordi så har vi balladen med, når der er to variable.
+
+20:10
+Så kan de nemlig være indbyrdes uenige. Der er jo ingen, der har sagt, at det gjorde jeg.
+
+20:14
+Vi skal have samme fortegn som den tredje situation.
+
+20:18
+Som er rigtig noget, ja, så er der sorgen stråler på heroppe vennerne med helt anderledes end situationen fra en variabel.
+
+20:26
+Den er. At de har forskellige fortegn, så jeg kan faktisk godt tage det under en hat og skrive,
+
+20:34
+at enten har vi lamper i et positive med en larm, der tog negativt eller klamper lidt negativt med en lampe.
+
+20:44
+To positive. Altså at de har forskellige fortegn.
+
+21:00
+Så bliver Polonius straf hverken sådan en skål fordi der bliver ligesom en skål i den ene retning,
+
+21:09
+altså en skål i en retning med en hane, en bakketop i den anden retning.
+
+21:14
+En skål i den ene retning med en bakketop i den anden retning, og det er det, man kalder taget bugt.
+
+21:27
+Så får man sådan en plade, der ser sådan her ud, hvor det langs med cirka i denne retning gør det en skål med en, hvilket var et borger gør det.
+
+21:36
+En bakketop. Så hvis man altid går fra vest til øst, så går man altid over en bakke, hvis man går fra syd til nord.
+
+21:44
+Så går man igennem, men så går man igennem skoven.
+
+21:49
+Og den traditionelle navn for sådan en flade, der nu skal bringe det på nøjagtig lige fod med de to andre,
+
+21:59
+som stammer fra en ældre tid, formodentlig fra Hesses egen tid, hvor folk rede meget på heste og brugte sadler hele tiden.
+
+22:10
+De havde taget bugt. Så ligesom der var ekstremer forude.
+
+22:20
+Det var ekstremt svært at sidde i fremmed punktet her. Så sidder i I.
+
+22:26
+I bunden af skålen, men på toppen så sige alle.
+
+22:32
+Alle bakker på toppen af den bakke, der går igennem. Der går ikke gennem det punkter.
+
+22:40
+Så I kan se hvis I husker valget hvordan en hest er en hest svajer jo.
+
+22:48
+Det behøver ikke være en hest, man er ude af på.
+
+22:50
+Det kan også være et helt andet hvert Debra nappet, men, men det vil typisk vare i ryggen, fordi man sidder her og.
+
+23:00
+Og så skal man kunne sætte benene ud over, så man går ned her på Bæksted.
+
+23:16
+Så den sidste situation kan man sige den som jeg har anbragt på den.
+
+23:22
+På den anden side den stiplede linje hedder det, der i en variabel svarer til, at man også får et dobbelt mærke til at være nul.
+
+23:29
+Hvad hedder det herover så? Hvad skulle jeg måske kalde gas?
+
+23:35
+4. Men det er sådan en let reserve situation eller Agfa situation, hvor man så siger.
+
+23:46
+Hvad skal jeg sige? Det er egentlig ikke udforsker så vanvittig meget.
+
+23:51
+I ved Horsens, mens en lampe af ihjel og lamper 2 giver nul.
+
+24:01
+Ligesom når en af dem bliver noget, så har vi noget, som er lidt mere problematisk end bare en skål, en bakketop eller en selv.
+
+24:18
+Og om lidt skal jeg vise jer hvordan det ser ud til.
+
+24:21
+Ikke specielt vanvittig eller forsigtigt ud, men.
+
+24:26
+Men det er så den sidste af det sidste tilføjelser, så så det som I gør med sådan en patient, undersøges her nu.
+
+24:38
+Nu kan vi så spørge. Hvad hvis alt det her, som jeg har beskrevet, tegnede sig flot.
+
+24:44
+Det var den heller ikke sige ISI Gas, hvor hans Jantzen havde et tal her 0 0 og et andet tal her.
+
+24:56
+Hvad hvis den ikke har? I almindelighed.
+
+25:15
+Gør man det at man finder. Egenværdier Malayerne.
+
+25:29
+Til hushjælpen.
+
+25:32
+Sagen er nemlig den, at da Hals jernbanen er en 2,2, red matrix, så nogle matricer og det vises i en ordrene, kan man altid diagonal ser.
+
+25:45
+Sådan nogle matricer reelle symmetriske matricer kan man altid derpå analysere.
+
+25:51
+Det vil sige man kan altid finde en ny basis, hvor i matricen er diagonal, så i virkeligheden?
+
+25:59
+I virkeligheden var det ikke noget tab af Generalitets. Her er magazine pånær Bonnat basis skifte.
+
+26:06
+Der vil, hvis vi alle kan se sådan her ud og basis skifte er jo sådan set bare, at man orienterer sig en lille smule anderledes i rummet,
+
+26:15
+så det kan godt være, at de er skåle og bakketoppe og stadig punkter, de ikke ligger præcis og orienterede.
+
+26:25
+Men hvis man går ind i en egen basis, hvis man skifter eventyr selv ud med det inden.
+
+26:32
+Med basis af egne ord, så bliver hans hjerne den diagonal, og i denne nye basis, så kan vi lave denne her skelnen mellem tilfældene.
+
+26:41
+Så jeg mindede, så finder man. Eje værdierne.
+
+26:45
+Og det var denne gamle ven, som jeg lovede jeg ville besøge.
+
+26:49
+Ja, det er en af de mange grunde til, at vi startede tidligt i kurset med komplekse tal og lineær algebra er,
+
+26:59
+at selv midt inde i sådan noget analyse står for,
+
+27:03
+hvor mange undersøger og ex-træner, så dukker rejemad lige nøjagtigt den op her, som en gæst fra linje er Alvar og hjælperens.
+
+27:13
+Og det var derfor at man lovede at levere algebra i sine Mabel pakker i de her uger.
+
+27:20
+Hvor det før eller siden. Så skal man i gang med at undersøge egne.
+
+27:25
+Men, men sagen er simpelthen klar, hvis man beder om at få andre DNA.
+
+27:29
+Og det får man jo med garanti, og de vil være rene, så vi kan skelne mellem de tre tilfælde.
+
+27:35
+Så kan man simpelthen lave denne her trick kaldes faktisk fire case undersøgelser og se,
+
+27:41
+om nogle af dem er noget, og om de er positive, negative, og hvordan pladen ser ud.
+
+27:47
+Og maven kan næsten ikke vente med at vise, hvordan den ser ud.
+
+27:57
+Så det vil jeg faktisk slutte med at gøre i dag hedder.
+
+28:15
+Sagde Lineær algebra kommer og hjælper os. Og plot skal vi sikkert også bruge.
+
+28:27
+Så jeg har sådan en funktion her som en. Ja, nu kan man så sige dette er jo selv et Foligno mere end udtryk så.
+
+28:39
+Så hvis vi nu gik til tredje, hvis vi var gået til tredje ordens taler på lånene, så må vi finde et tredje ordenes telefonnummer.
+
+28:50
+Så faktisk sådan ud. Sådan er det jo med polynomier på et eller andet tidspunkt.
+
+28:55
+Så finder man ud af, at de havde deres eget telefonnummer. Men lad os tage den her funktion for hvad den er.
+
+29:03
+Og så gå i gang med meget god gas og studere i vandet, hvis man bliver bedt om.
+
+29:11
+Talen maler sin arbejdsgiver eller sådan noget. Find ud af hvor er ekstremerne punkterne.
+
+29:16
+Denne her funktion er tryg og temperatur eller kræfter, spændinger eller hvad det nu kan være.
+
+29:24
+Så må vi megawatt i de stationære punkter. Stationære punkt er der hvor den afledede.
+
+29:33
+Her er der brugt gift operatoren.
+
+29:37
+De aflivede skal være lig med noget den afdøde ikke skal være lig med nul, og den afledede med yde skal være lig med nul.
+
+29:43
+Først så finder vi de to ligninger. Og så zollverein jeg ved at ordet sole gror direkte fra engelsk ind og blevet et verbum i det danske sprog,
+
+29:55
+som folk siger, så vi solvogn, vi salver det her Linnés system, og det gør man ved kommandoen.
+
+30:05
+Soul os og svarede ja. Der er fire mulige punkter.
+
+30:09
+Der er fire stationære punkter, hvor gradient er nul, nemlig 0,0, 2,0, 0,2 og 2,2.
+
+30:18
+Som der står her. Lad os hentede PC matricen fra vægteren Hewlett-Packard, som er blevet lovet højere.
+
+30:34
+Og vi går straks til og definerer den som anden funktion, så her ser jeg gerne blive brugt til at lave hele matricen til en en matrix SM funktion.
+
+30:47
+1 1 1 med Trice med funktions indgange.
+
+30:50
+Her. Den vi søger håndhævet på bagsædet når man differentierer det her to gange, så får man sådan en kedelig 0 6.
+
+30:59
+Så nu kan man så sige. Nu kan man så sige Her behøver vi ikke, at den er den.
+
+31:08
+Matrix er jo diagonal. Den er født diagonalt, så så kan vi slå en lille smule.
+
+31:14
+Vi skyder gråspurve med kanoner og findes i mere vulgært udtryk for det.
+
+31:19
+Men vi har lidt omgang med små effekter her.
+
+31:23
+Men, men i princippet kunne man hidkalde kommandoen.
+
+31:27
+Række over det, man skal gøre, er, at man skal ikke gøre det på funktion matricen.
+
+31:34
+Men man skal trin for trin indsætte alle de mulige punkter, som man for nu starter en systematisk undersøgelse,
+
+31:42
+hvor vi siger, hvor Gabi starter med 0,0, og så beder vi om regn værdierne.
+
+31:48
+Nu vil jeg så tro ja er jo smarte folk ikke som hvis vi sætter X og Y til nul.
+
+31:54
+Så står der minus 6 diagonalt minus seks, så er regn værdierne nok lige nu sikre mine 6 skal vi se om det passer.
+
+32:03
+Ja. Så en gigantisk sejr for What Were Here.
+
+32:08
+Men jeg har i hvert fald næppe lagt aviser i princippet, hvordan man gør.
+
+32:14
+Begge disse egenværdier er negative, så i virkeligheden en af vores er vores case serie er vi via i kasse 2.
+
+32:26
+Har jeg ikke ret. Hvilket egentlig er negativt. Altså er der et maksimum, og det er vel egentlig også det, der står.
+
+32:34
+Jeg ved det egentlig negativt. Der er et oven i købet enig maksimum.
+
+32:44
+Og gade værdien af noget så ved et maksimum der opstår omkring nul.
+
+32:53
+Vi kan lave et angrebsserie hvidbog sådan andet at man ser et blad lige omkring noget der ligner funktionen meget.
+
+33:01
+Den her funktion. Så går vi til punktet 2,0.
+
+33:09
+Og beder om remedierne. Vi er nok så ved formanden.
+
+33:16
+Sex.com er almindelig sex. Og det er fordi funktionen lokalt ligner denne her.
+
+33:25
+2,0. Der har vi faktisk den samme situation, så jeg glemte lige at kommentere på det.
+
+33:34
+Ej, medierne har forskellige fortrængninger. Hvad var det der var?
+
+33:40
+Hvordan ser den ud, når du har 2. Fra nogle forskellige egne medlemmer med forskelligt fortegn.
+
+33:47
+Der bliver mumles på rundt omkring. Væk er også hvad vi har, når vi har sagt hyperbolsk Pablo, hedder det også.
+
+33:55
+Det er finere. Men ordet særlig punkt bliver nævnt her.
+
+34:00
+Det er sådan lidt mere intuitivt. Det sidste punkt.
+
+34:08
+To kom 2. Det er et minimum spor, for det virker jo positivt.
+
+34:20
+Og endelige, så bliver der byger en masse blot kommandoveje, som sådan set bare går ud på at nu blotter vi funktionen.
+
+34:28
+Og nu kan vi se med vores egne øjne, at der er et maksimum på her.
+
+34:34
+Der er et minimum pumper, og der er et svagt punkt her og et særligt punkt her.
+
+34:40
+Så jeg ser man også er sådan i praksis, hvordan salig punkter ser ud.
+
+34:44
+Så det er altså steder, hvor man synes, man kan sætte sig overskrævs på eller noget.
+
+34:53
+Hvis man forestillede sig om man var en lille dukke, der kravlede rundt på programmet.
+
+35:00
+Jeg har faktisk tid til at vise et eksempel til.
+
+35:10
+Igen tager vi faktisk en polynomiet funktion, men så vander den faktisk på samme måde.
+
+35:16
+Nu kan jeg se, når sådan en rutine eller bestemmer en 3 ugers punkterne.
+
+35:20
+Gå ind og finde ud af, hvor har vi de stationære punkter, så de stationer er punkter lig med nul.
+
+35:27
+Så kommer der to ligninger med to ubekendte. De er ikke til løsning i lineær algebra.
+
+35:32
+Disse to ligninger med to vigen er ikke til løsningen. Ligner alle mig, fordi de er ikke lineære ligninger.
+
+35:37
+I kan jo se der står X i tredje og et gange y i tredje.
+
+35:41
+Den slags ligninger har vi jo slet ikke i en lineær algebra, så hvis man ikke havde Mabel til at solveigs,
+
+35:49
+så skulle man lave et eller andet rigtig snedigt tankegang, som egentlig ikke involverede.
+
+35:53
+Men nu siger vi bare vi bestiller straks løsningen.
+
+36:03
+Og de kompletterede værdier, den kan vi godt.
+
+36:09
+De kommer vel aldrig til at blive realiseret, vel? Fordi interviewet var rundt i det.
+
+36:13
+Den reelle plan. Så i virkeligheden er der kun fire stationære borde, at vi skal undersøge, nemlig 0,0, 3,0, 0,3 og 1,1.
+
+36:26
+Og så kører vi i forsvaret en procedure igen hedder den generelle form hedeslette matricen.
+
+36:34
+Det er i den generelle Toronto Matrix, at vi skal proppe de fire de fire stationære boder ind her.
+
+36:43
+Så. Har man nu kommet en sådan en matrix, så har 0,0.
+
+36:50
+Den har regnet er 0,0. Hvad er det for en pejs, hvor begge øjne er nul?
+
+36:59
+Der er vi over i denne her.
+
+37:02
+Så der er vigtige der ikke er nogen konklusion med dig i den konklusion, at den falder ikke ind under den, falder ikke ind under de normale.
+
+37:12
+Der foregår et eller andet, der kræver en nøjere undersøgelse. Det noterer vi.
+
+37:16
+Så går vi hastigt videre til en kommer en. Der er åbenbart et tredje punkt 3,0.
+
+37:24
+Der er et minimum sport 0,3, men der er også et minimum for ja som der står her egentlig minimum.
+
+37:32
+I de to andre punkter. Over værdierne kan være meget interessante.
+
+37:38
+Viden kommer ikke der hverken maksimum eller minimum. Der er en afgørelse en afgav.
+
+37:42
+Der er ingen afgørelse, og det var da også noget.
+
+37:45
+Hvad foregår der egentlig i 0,0? Hvad er værdien 2?
+
+37:50
+Nu fortæller sektoren afsindigt meget af værdien af to valg. Det bliver, hvad der sker rundt omkring det totalitære.
+
+37:57
+Så man kommer faktisk ikke videre, før man kan plotte. Og det er jo noget, vi kan gøre nu.
+
+38:03
+Det er, som man prøver at blotte jer. Ja, det er. Hvad sker der, hvis vi kører ned langs?
+
+38:08
+Lancerede nylig med Excel linjen. Og det tyder jo på, at der er sådan noget ven, som giver Inzaghi noget.
+
+38:18
+Og. Hvis vi bare ser i detaljer på hvordan funktionens værdier opfører sig langs med denne kurve i x lige med øy,
+
+38:29
+så opfører den sig ligesom eksil Pia minus otte æg sit tredje. Og det er jo faktisk stort set ligesom vi som et tredje.
+
+38:44
+Så når og når egtl er lille, så vil jeg sige som bliver parentesen ligesom mine fire sig.
+
+38:48
+I virkeligheden er det snarere rundt omkring nul, ligesom minus otte gange sit tredje.
+
+38:54
+Men hvorfor plotte særtilfælde? Når vi. Når vi kan blotte hele funktionen.
+
+39:03
+Og det er det som er gjort her. Det ligner ja ja, vi ligner faktisk et par bukser, og og der er stadig bogen, som der skal være i os i et par bukser.
+
+39:18
+Og så er det sådan nogle umulige bukser, som nogen har syet sammen, mens man sover forneden.
+
+39:23
+Det er minimums punkterne, og så er der. Ja, så er der det sidste punkt, hedder det.
+
+39:30
+Så hverken Maxim over min blæserne ven fandt Jens punkt.
+
+39:38
+Som er lidt minimum i vindretningen og vinden som denne hinanden, og det har faktisk et særligt dem.
+
+39:46
+Jeg har faktisk et særligt navn, fordi i sådan nogle sadler, som vender den ene vej eller den anden vej.
+
+39:54
+Det kaldes faktisk i litteraturen en monkey statue. Og her sidder i standard form for sådan en.
+
+40:01
+For sådan en sad så og man kan spå om hvorfor hedder det.
+
+40:06
+Hvorfor hedder det igen en markedsandel? Jamen, det er fordi.
+
+40:12
+Fordi af har jo en hale, og den skal have plads til sin hale om benet.
+
+40:20
+Sådan en der sidder overskrævs her, mens omme bagved, så i stedet for.
+
+40:24
+Så dykker funktionen ned foran dem.
+
+40:28
+Så kommer den ved mig som bag ved. Så giver den plads til til hanen, forklarer minimum en indretning og vende tangent i vandet.
+
+40:35
+Med disse vise ord vil jeg slutte boldbane og god weekend.

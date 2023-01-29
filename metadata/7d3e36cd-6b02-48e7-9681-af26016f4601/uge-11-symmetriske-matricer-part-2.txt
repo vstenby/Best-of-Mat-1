@@ -1,0 +1,1244 @@
+0:10
+Og gab. Vi er i gang igen og se.
+
+0:16
+Vi er inden vi når frem til og snakker om dagens andet emne, nemlig symmetriske matricer.
+
+0:21
+Og så skal vi lige snakker om ortogonale matricer, og det ligger lige i forlængelse af det, vi har lavet.
+
+0:27
+Så altså definition. 1 en cruys en matrix Q.
+
+0:42
+Den kaldes. Otto Grundahl.
+
+0:50
+Hvis dens søjler udgør en overtog normalt basis for er en.
+
+1:11
+Så der har vi altså indført ordet en ortogonale matrix.
+
+1:19
+Det ville have været rigtig, rigtig smart hvis den havde heddet 1,
+
+1:23
+overtog normal matrix ikke også fordi dens søjler, den over to normale basis, føjer en.
+
+1:29
+Men sådan har traditionen ikke villet, så det er altså jeres opgave at forstå,
+
+1:34
+at når der bliver talt om en ortogonale matrix, så er dens søjler en overtog normalt basis.
+
+1:42
+Otto Ortogonale Matrix' optog normalt basis og.
+
+1:48
+Se vi siger nu. Antag.
+
+1:56
+At kue. Leg med ved et op ved en.
+
+2:04
+Antag nu at den er ortogonale. Så prøver vi simpelt hen bare at.
+
+2:19
+At lave Matrix Matrix produktet af co.
+
+2:23
+Transponeret med Q. Chase Co.
+
+2:33
+Har selv disse søjler. Altså den består af de, at de der søjler jo ikke når vi nu er transponerede den, så betyder det så at de vil væk,
+
+2:48
+tror de i stedet for at stillet op som rækker, så det kan vi så lige skrive på denne her måde her i første række.
+
+2:55
+Dér vil et anden række dér blive 2. Og så videre.
+
+3:00
+Hele vejen ned, og her har I så den endte vægtere.
+
+3:06
+Den endte søjle i KU. Så nu har vi transformeret den, og den skal vi så gange med den sædvanlige.
+
+3:13
+Hvor ved et? Den står som søjle.
+
+3:19
+Det gør vi to os og så den hele vejen hen til den sidste, som så er ved en.
+
+3:34
+Og så ved vi at den første plads her i resultatet i produktet.
+
+3:42
+Det er jo prikproduktet, at den med den så i første søjle.
+
+3:46
+Her står der altså ved et prikket med sig selv. Og så skal vi se den anden plads her.
+
+3:55
+Det er jo vi et. Der er ganget med 2.
+
+4:04
+Og give op ved et prikket med veto. Hvad siger du?
+
+4:08
+Den er nul, for de er jo en otto normalt basis.
+
+4:12
+De står vinkelret på hinanden, så derfor får jeg altså nul her hele vejen hen.
+
+4:19
+Og så skal vi tage den og gøre det samme ved to prikke med ved ét.
+
+4:23
+Det er os 0. Så det er først her på anden pladsen, at vi får noget, der ikke er nul.
+
+4:29
+Og alle de andre, og de er nul og sådan dér hele vejen hen indtil det nederste element her til højre.
+
+4:37
+Det er v n prikket med v. N.
+
+4:46
+Og så lad os lige se det dér ved et prikket med.
+
+4:51
+Ved et. Se.
+
+4:58
+Det er jo altså er jo bare en gang hver nul gange at lovliggøre nul gange en gang at nå udgangen.
+
+5:06
+Årgang. Det er bare en som man prikker en ene. Svigter man selv, så får man bare tallet ét som.
+
+5:12
+I får altså simpelt hen et ét. Hele vejen hen her og nu eller alle de andre steder, dvs.
+
+5:21
+Hvis vi laver. Dem der ganger que transponerede med sig selv, så får vi altså enheds matricen I er en.
+
+5:35
+Så skal vi lige prøve at se hvad konsekvenserne så det er.
+
+5:42
+Så vi har vist. Punkt ét er altså at kue transponerede gange med Q er lig med Enheds matricen.
+
+6:07
+Se, nu kommer der noget meget fint, prøv nu at se. Hvis vi nu ganger med.
+
+6:13
+Que enhvers på begge sider her. Altså fra højere her krise.
+
+6:18
+Q Enhver skarð med ét. Det er bare cool i enhvers, for det er jo eneste matricen neutrale med hensyn til multiplikation.
+
+6:25
+Og hvis vi ganger med Q altså den inverse hér, så går den bare væk.
+
+6:33
+Og hvad får vi så her? Der får vi at Q transponeret.
+
+6:39
+Er lig med den inverse. Dette gælder kun for ortogonale matricer at den inverse og den transponerede dilemmaet hinanden.
+
+6:53
+Og det er jo et herligt resultat. Hvorfor? Jo, for det er jo meget nemmere at transponerede matrix.
+
+7:01
+Det er jo bare byt om på søjler rækker ind. Kan jeg huske, hvor besværligt det var, der skulle finde den værste matrix?
+
+7:07
+Så det er super fedt. Når.
+
+7:14
+Lad os nu prøve at tage et determinanten. Aku Transponerede og Co.
+
+7:26
+Vi ved at. Determinanten af et produkt.
+
+7:33
+Det er lige med determinanten, at den første gange med et determinanten at man.
+
+7:40
+Så har vi altså determinanten af que transponerede gange med determinanten af que.
+
+7:51
+Hvordan er det nu med determinanten af den transponerede?
+
+7:58
+Hvem har det resultat? I forhold til den.
+
+8:03
+Det ved du. Slet ikke.
+
+8:10
+Det er jo det dermed kan du ikke huske. Vi kunne selv vælge, om vi ville lave opløsning efter første række eller første søjle, ikke denne.
+
+8:19
+Den er det samme. Hvis det er rigtigt, så vil jeg sige det får jeg så, at det er determinanten af Q.
+
+8:27
+De anden. Og se, det er jo så lige med determinanten af det.
+
+8:45
+Og den er jo altid lig med en. Så nu har vi altså, at det der gælder for én.
+
+8:51
+Det der gælder for en. For en ortogonale matrix er dens determinanten hjerne.
+
+8:58
+Den er lig med 1. Og så kender vi jo også, at ved vi hvert determinanten er.
+
+9:05
+Determinanten af Q. Den kan så enten være en.
+
+9:11
+Eller den kan være minusser. Det er de to muligheder, der er for en ortogonale matrix.
+
+9:16
+Hvis determinanten er en, så kalder man den for positiv ortogonale.
+
+9:26
+Og. Hvis den er minus 1, jamen så hedder den tilsvarende negativ ortogonale.
+
+9:42
+Og det har faktisk en betydning. Husk sådan en Q.
+
+9:46
+Den dækker over en otto normalt basis. Og for eksempel i rummet.
+
+9:53
+Hvis I har siddet venlig orientering af de tre basis vektorer, så den altid positiv ortogonale hvis I finder ud af at H.O.
+
+10:01
+Sætter aksen. Den vil jeg hellere have, at den skal pege nedad.
+
+10:06
+Det ved jeg ikke om der var nogen der kunne finde på, men hvis de gjorde det, så var den negativ ortogonale.
+
+10:11
+Så det er altså ret fedt. Altså hvis det er til midnat.
+
+10:14
+Hvis det er manden, den er ind, så betyder det, at koordinatsystemet har siddet venlig orientering.
+
+10:21
+Og så ved man ligesom hvad man snakker om det andet koordinatsystem er sådan set lige så godt, men det er bare det der.
+
+10:28
+Vi kender ikke så som vi føler os trygge ved den, der giver lidt tryghed, og den giver lidt utryghed, ikke sandt?
+
+10:38
+Når nu skal vi så snakke om Hood emner, nemlig de symmetriske matricer, og hvad betyder det at en?
+
+10:49
+Men ja, altså symmetrisk matrix. Påsætte.
+
+11:06
+Nu laver vi de her en. 1 3 kryds 3 matrix.
+
+11:18
+Hvis der er noget specielt ved den. Det er nemlig hvis I ligesom kigger på diagonalen.
+
+11:26
+Den ligger dér. Så er matricen symmetrisk omkring diagonalen.
+
+11:32
+I kan se de to, der ligger over for hinanden. De to ligger overfor hinanden.
+
+11:38
+De to ligger overfor hinanden. Så sådan gælder det altså, hvis det er en tre krus tre, og det gælder også, hvis det er en 17 Cruys 17 matrix.
+
+11:48
+De skal være symmetriske over diagonalen.
+
+11:53
+For at sige det på en lidt mere tjekket måde, så betingelsen for at den er asymmetrisk, det er, at når man transponerede den,
+
+12:03
+er den med sig selv kan se, hvis jeg tager den første række og transponeret den, så får jeg den anden.
+
+12:09
+Her får den første søjle den anden række transponerede, den anden og den tredje er lig med den.
+
+12:16
+Det er jo ikke, så det er definitionen en. En kryds en matrix A.
+
+12:28
+Kaldes symmetrisk. Hvis der gælder at a transponerede er lig med A, så er det en bum.
+
+12:50
+Og sådan nogle symmetriske matricer. De har altså nogle virkelig lækre egenskaber.
+
+12:56
+Dem skal vi nu se på nu her. Altså fem Maries egenskaber.
+
+13:09
+Og så laves på. Vi laver lige et lille skema.
+
+13:16
+Hvor vi her kigger på en almindelig en cruys en matrix A.
+
+13:24
+Og så kigger vi på en symmetrisk. En kryds en matrix A.
+
+13:35
+Og så lad os kigge på den første egenskab.
+
+13:40
+En. Se.
+
+13:50
+Det var det vi snakkede om i sidste uge. Vi taler altså om en en krydsende matrix.
+
+13:57
+Den har en egenværdier og det var det der med det karakteristiske polynomium det var et græsk polynomiet,
+
+14:05
+der var noget med gau som algebraens fundamentale sætning. Så den har jeg, så en har en egenværdier.
+
+14:21
+Så lad os se herhen. Nu skal vi bare se. Det har den selvfølgelig også.
+
+14:27
+Men de er reelle. Så da det var den første egenskab altid reelle egenværdier, når I regner ud på symmetriske matricer.
+
+14:54
+Jeg skal lige sige at denne her. Den sætning den skal i arbejde med i øvelserne, da er 1 2 2 matrix,
+
+15:04
+hvor vi skal arbejde med egne værdierne og I skal bevise, at de altid er eller de er reelle.
+
+15:10
+For sådan 2 CO2 matrix og ja altså så det generelle bevis.
+
+15:15
+Det er jo så bare en generalisering af det, så den klarer jeg så selv. Denne her ring.
+
+15:21
+Når herhen er, ved vi, at hvis I har to egne lektorer, som hører til forskellige egenværdier, så er det lineært uafhængige.
+
+15:31
+Det var en af de ting, vi kiggede på sidste gang, ikke af sig egne lektorer.
+
+15:40
+Hørende til forskellige. Egenværdier.
+
+15:55
+De er lineært uafhængige. Og det var altså den har jeg også kigget på i en øvelse.
+
+16:11
+Og vi snakkede også om den sidste gang, ikk? Se, nu kommer der noget flot herind.
+
+16:16
+Altså egenvægt 2A. Som kører til forskellige egenværdier.
+
+16:35
+Ja, selvfølgelig lineære uafhængige, men de er meget mere, for de er nemlig ortogonale.
+
+16:49
+Bum. Og dagens bevidst beviser har valgt at lave i dag.
+
+17:01
+Det bliver altså den der, for jeg laver lige et lille bevis for, at det er sandt.
+
+17:09
+Treeren. A.
+
+17:15
+Det er den algebraiske multiplicere sitet der styrer. For der gælder nemlig altid at den biometriske multiplicere set er en egenværdi.
+
+17:27
+Den er mindre end eller lig med den algebraiske. Den kan blive op, opgraderer her hen, er der nogen der tør gætte.
+
+17:38
+Lima. Altid ikke noget pjat.
+
+17:47
+Den er lig med helt på niveau med den alt var friske.
+
+18:00
+Og så kommer der altså her fire. Og det kan vi, så fungerer det, kan vi få en almindelig matrix, der kan vi gøre det sådan her.
+
+18:14
+Vi siger altså hvis. Derfor alle lamper.
+
+18:25
+Gælder lighedstegn er g m.
+
+18:30
+Lambda. Er lige med a m. Alarm der.
+
+18:37
+Så kan A diagonal i Ceres. Og det ved vi jo så godt det går også hvis hele tiden den geometriske multipel set,
+
+18:56
+hvis den altid er lig med den algebraiske multiplicere set, så betyder det, at så kan vi jo finde en lineært uafhængige egn vektorer.
+
+19:05
+Og det var det, der var betingelsen for, at den kan diagonalt i Ceres.
+
+19:10
+Så her skrev vi altså hvis og så herhen blærerøven hende til højre altid altså kan altid diagonalt se os.
+
+19:28
+Og så mangler vi bare lige den sidste femmeren. Og hvor vi altså kan sige hvis forudsætningen her fire bestemt er opfyldt.
+
+19:48
+Hvis. Fire. Hvis den er opfyldt.
+
+19:58
+Så har vi jo altså relationen Larmen dør lig med V i minus første A ganget med ved.
+
+20:13
+Så kan den diagonal i sikres ved similar transformation. Bøje sig den, der ved den består af egen vektorerne.
+
+20:22
+Og så får vi altså lambda ud her, som er egnen værdierne. Et flot resultat fra sidste uge.
+
+20:32
+Orkan Hvad kan vi så her? Se.
+
+20:40
+Vi ved jo at. Agnete tåler de autodele og det er der så er meget fornemt.
+
+20:50
+Det er så at vi i stedet for at skrive det her, så kan vi bruge en over to normal basis eller en ortogonale matrix til at I med.
+
+21:01
+Og så får det altså dette fantastisk flotte udseende.
+
+21:06
+Que transponerede ganget med a ganget med que.
+
+21:15
+Bum bum bum. Og en symmetri siger man så også at en symmetrisk matrix.
+
+21:23
+Den kan kanaliseres ved ortogonale substitution.
+
+21:29
+Den matrix der står her. Den består af ortogonale egenvægt 42 for A.
+
+21:42
+Og nu begynder jeg at blive helt røret igen også, så jeg vil sige.
+
+21:48
+I hjertet af en. En cruys en matrix som er symmetrisk A, der ligger der en over to normal basis.
+
+22:00
+Og det skal vi se eksempler på. Lige om lidt. Og sådan binder vi altså de to dele af forelæsningen sammen.
+
+22:15
+Først snakkede vi om altså om de to normale baser.
+
+22:19
+Vi indfører det symmetriske matricer, og så ser vi altså det dér.
+
+22:24
+Det er en over to normal basis bestående af egen vektorer for a.
+
+22:31
+Så den 5. Det ligger altså i hjertet på af. Se, jeg har lige lovet at den er toeren.
+
+22:40
+Den bliver så lige. Den bliver så lige prøve at lave et bevis for.
+
+22:50
+Og så synes jeg altså det eneste, altså den den vi ikke så når det er treeren, den der kigger i selv på den, beviser jeg den der.
+
+23:00
+Ja, den har vi ikke tid til, men den selvfølgelig vigtig. Og så de de to.
+
+23:05
+De følger ligesom alle de andre ting, vi har sagt her. Så altså bevis for 2.
+
+23:19
+Jeg viser selvfølgelig, at jeg har valgt det bevidst, for jeg synes det så det er smukt,
+
+23:22
+og det siger virkelig noget om, hvad det handler om, så bluffe med.
+
+23:29
+Se antal. At A.
+
+23:37
+Asymmetrisk. Og.
+
+23:47
+At A. Gange med en eller anden vægt, så eks.
+
+23:54
+At det er lig med lam, da et ex. Det jeg har skrevet her.
+
+24:03
+Det var altså. Det var ét og så to, så siger disse a gange en anden vægter.
+
+24:10
+Y er lige med det samme der to. Y. Sådan her.
+
+24:21
+Det er jo bare den der relation med, at så er Lambda et en egne værdig, som hører til egen vægteren ex.
+
+24:29
+Så er det jeg har sagt her. Jeg kigger bare på to egenværdier med en tilhørende egn vektor.
+
+24:38
+Og så lad os lige slå fast Vi forudsætter altså at de to egenværdier de er forskellige.
+
+24:47
+Det sætter. Nu tager jeg den første ligning der, og den ganger jeg med y transponerede på begge sider.
+
+25:05
+Altså fra et. Der får vi så at vi kan, hvis vi ganger med by transponerede fra højre med a gange med X.
+
+25:19
+Så får vi også transponeret på højere, og der stod således lambda et gange med ex.
+
+25:28
+Som den. Altså hov, hvad betyder dette transponerede?
+
+25:35
+Vi plejer jo at skrive vektorer som søjler vektorer. Det betyder bare, at nu kigger vi på en vandret vægteren i stedet for at vi vender den vandret.
+
+25:46
+Så det er det eneste der ligger i dette, og det vi nød, det er vi nødt til at få for at kunne gange med dette.
+
+25:53
+Nu transponerede vi på begge sider. Det er klart, det må vi gerne.
+
+25:57
+Vi bare gør det på begge sider. Jeg vil sige den.
+
+26:00
+Det vil jeg lige sige, at dette er jo sådan set et brev i et prikproduktet med lam, der et gange ikke svigter,
+
+26:07
+og der kan jeg bare stille en konstant kan jeg sætte hen foran, så det står der altså lambda et.
+
+26:12
+Og så har vi i transponerede, der skal prikkes med ex.
+
+26:18
+Som det også er transponeret, er vi på begge sider by transponeret.
+
+26:24
+A. Ex. Altså hele molevitten der.
+
+26:30
+Den skal transporteres. Og det skal vi så også på den anden side lambda et.
+
+26:37
+Og så y transponerede og så eks. Skal transporteres.
+
+26:45
+Og det er ikke mærke med det er transponering, der skal transponering tegnet, der skal stå der.
+
+26:53
+Kan I huske hvis man transponerede et produkt? Det er det samme som at transponeret hver af dem.
+
+27:02
+Og så altså og så vende dem om, ikke sandt? Så vil jeg sige, at her får vi så, at det er den der vægtere, som hedder a.
+
+27:10
+Eks. Der skal transporteres, og så skal vi transponeret y, og så kommer den.
+
+27:16
+Til at ligge lodret sådan som vi plejer. En konstant betyder ikke noget for transponering.
+
+27:26
+Og nu får vi altså her. Vi skal bytter de to år, og så får vi ex transponeret og y.
+
+27:31
+Almindelig. En.
+
+27:37
+Nu har vi lige pludselig igen. Et produkt der skal transformeres, og det gør vi ved at vende dem om og transponeret dem hver for sig.
+
+27:48
+Så det er så eks transponerede. Gang a transponerede.
+
+27:57
+Hvad er A. Transponerede? Hvad siger du denne er så selv.
+
+28:05
+Det var lige præcis sådan vi definerede en symmetrisk matrix. Så det er det, der er helt afgørende nu.
+
+28:11
+Det har jeg behøver ikke at skrive a transponeret. Jeg kan bare skrive A her. Og så har vi gang imellem.
+
+28:19
+Og så er det samme her på DR på højresiden.
+
+28:26
+Der. Så kigger vi på det andet udsagn der op.
+
+28:35
+Den ganger vi sørm'e med ex transponerede på hver side, og så får vi altså x transponerede.
+
+28:44
+Og så får vi A. Y. Er lig med.
+
+28:50
+Ex transponerede. Og så stod der Lambda 2.
+
+28:57
+Og Y. Og som sagt før den larm der to dage hvor vi bare sad udenfor.
+
+29:04
+Og så står der ex transponerede y. Sådan.
+
+29:13
+Se, prøv nu at sammenligne det vi er nået frem til her. Se alle de her.
+
+29:17
+De hedder jo lam der et. Det var den vi starter med.
+
+29:22
+Prøv nu at sammenligne det der står her.
+
+29:26
+Med det vi har nået frem til her, kan vi se venstresiden der står der, er lig med den venstre side, der står det.
+
+29:35
+Så hvis vi så trækker, hvis vi trækker det her fra det hernede.
+
+29:43
+Så får vi på venstresiden nul og så kan I se det her.
+
+29:47
+Det bliver jo så at larme der et minus flamme der.
+
+29:51
+2. Og så gange x transponeret y.
+
+29:59
+Dette skal være lig med nul. Det er det det var et prikproduktet, det vil sige dette tal.
+
+30:11
+Så det er altså to tal der står her. Vi bruger nul reglen, da vi har forudsat at lam, der er forskellig fra lam der.
+
+30:19
+2. Så er der kun en mulighed tilbage, og det er at x transponerede gange med y.
+
+30:30
+Det er et prikproduktet tog begge turen og vi bare sagt at den ene er så den ene.
+
+30:34
+Den er ændret, og den anden er lodret. Men princippet i udregningen er jo nøjagtig den samme.
+
+30:40
+Det vil sige prikproduktet mellem dem. Den er lig med nul.
+
+30:50
+Og hvad er vinklen imellem dem, hvis deres prikproduktet er nul?
+
+30:58
+Hvad siger du? Jo, så er de 90 altså pi halvering.
+
+31:03
+Det betyder altså når prikproduktet og deraf. Jamen det hænger jo sammen med at det her ikke er så Koestlers TV.
+
+31:10
+Den er jo eks prikket med Y. De vil dermed deres længde product.
+
+31:16
+Og det har vi altså fundet ud af nu, at prikproduktet er nul sejre jeg altså nul, dvs.
+
+31:21
+I. Det vil sige at vinklen den er pi halve, så er den.
+
+31:28
+Og så har vi altså vis nummer to. Og det er altså.
+
+31:34
+Vi havde en vektor x som hørte til lambda et.
+
+31:38
+Og vi havde en vektor y som hørte til Lambda 2, og nu har vi altså vist jamen så gælder det at de to de er ortogonale.
+
+31:47
+Egenvægt to ord for en symmetrisk matrix, der hører til forskellige egenværdier.
+
+31:53
+De vinkelrette. Godt.
+
+32:05
+Nu skal vi kigge på. For et par eksempler her til sidst.
+
+32:12
+Og jeg har altså valgt at. Igen i dag arbejder jeg med et tre krus tre matricer.
+
+32:21
+I får selvfølgelig jeres opgaver masser af 2+2 matricer, og det er lidt nemmere end det jeg gør her.
+
+32:28
+Men det er rigtig vigtigt, at jeg prøver også at forstå denne teori for 2+2 matricer.
+
+32:33
+Det mener jeg godt, de selv kan klare. Grunden til, at jeg bruger tre kryds tre matricer som mine eksempler er,
+
+32:40
+at man skal faktisk offpiste op i tre kryds tre, før det rigtig bliver principielt vigtigt.
+
+32:46
+Altså, det er det, vi har set det i går også satser vi større. Altså hvis vi har en egenværdi som har algebraisk multiplicere til 2.
+
+32:55
+Et godt og geometrisk motiv til er to ikke, hvordan får vi det så sat sammen til en samlet basis?
+
+33:01
+Alt dette det jo ikke så 3 3 for det principielle, da de siger, at de er mere end 2 2, men 2 er rigtig vigtigt, så træn dem også.
+
+33:10
+Husk det. Se mit eksempler her. Vi siger.
+
+33:21
+Vi siger, at vi har en Matrix A. Som sagt 1.
+
+33:28
+3 kryds, 3 1 0, 2 0, 2 0 og 2 0.
+
+33:38
+Og hvad vil vi? Fem.
+
+33:44
+En. En OTTOMAN basis for a nej, altså den basis det selvfølgelig er tre.
+
+34:00
+Bestående af egenvægt 42 af. De kan nemlig se den er symmetrisk.
+
+34:19
+Og det betyder den har sådan en ortona normalt basis i sit hjerte.
+
+34:24
+Nu skal vi have skåret den op. Og få hjertet ud og se hvordan selv den otto normalt basis ud.
+
+34:30
+Hvordan kan vi finde den? Så ja, man kender historien.
+
+34:40
+Vi skal finde lam der. Og det gør vi ved at kigge på determinanten af den matrix vi får, hvis I mener Slam da 0 2 0 2 minus lamper.
+
+35:00
+0 og så 2 0 og 1 meter slam der.
+
+35:14
+Og vi kan jo se her. Der har vi jo en.
+
+35:17
+For eksempel en nul, altså en en søjle med to nuller, så den er nem at bruge, når vi skal udregne determinanten, så der har vi altså to minus lamper.
+
+35:28
+Og så sletter vi den række den søjle, og så får vi så her indeni.
+
+35:33
+Der får vi så en minus lambda i anden fem gange med den.
+
+35:40
+Og så får vi minus 4.
+
+35:49
+Og så får vi altså 2 Minutes lamper. Og hvad får vi så de får Lambda i anden.
+
+35:58
+Minus to. Skal det især.
+
+36:11
+Hvor skulle den være set? Nej, fordi en plus minus.
+
+36:19
+Altså en meters blues bænk, så den skal ikke være den endnu større, vel?
+
+36:23
+Og så får vi en mindre slammere, og så får vi minus 4.
+
+36:28
+Vi prøver lige at regne dette ud, ikke kvadratet på første led. Den giver.
+
+36:34
+En dag giver jeg en plus lambda i anden og så minus en.
+
+36:44
+Og så får vi her minus fire.
+
+36:56
+Og kan vi prøve at se om vi kan finde? Jeg synes, det ser lidt mærkeligt ud. Det var ikke lige det, jeg havde forventet.
+
+37:01
+Er det +1? Ja, selvfølgelig. Og så får vi altså.
+
+37:06
+Så får vi den dér, og så får vi. Så får vi lambda i anden.
+
+37:11
+Minus to samt da og så minus tre.
+
+37:19
+Og det havde vist nok været. At.
+
+37:28
+Og så finder de det eminent, men det er så fire.
+
+37:37
+Og så bliver det blues. Så vi får fire og så 12.
+
+37:45
+Den giver 16. Og så får vi lamper lig med 2 plus minus 4 divideret med 2.
+
+37:57
+Og dagen giver os så minus 1 og 3.
+
+38:02
+For er det så til? Og det vil sige vi har fundet.
+
+38:17
+Tre egenværdier. Det er nemlig.
+
+38:27
+1. Min nu sagen, og det er 3.
+
+38:37
+Dag 1 og 2 er. Desværre tog er.
+
+38:43
+2 minus 1 og så er det 3. Zanka. Og så skal vi prøve at se, om vi kan finde egnet rummet til den første.
+
+38:52
+1 minus 1 er lig med. Først skal vi opskrive totalt matricen.
+
+39:05
+Så vi kan godt. Ja, vi starter med minus 1. Det vil sige, at vi skal trække.
+
+39:11
+Milos egen far, og det vil så i praksis sige, at vi skal lægge en til, og så får vi 2 0 2.
+
+39:19
+Og som nålen tre. Og nul.
+
+39:25
+Og så får vi to. 0 og 2.
+
+39:30
+Og så har vi altså noveller her. Og skal vi se om vi kan hive Traps ud med det samme.
+
+39:39
+Det kan vi sagtens, for den giver jo bare simpelt hen den første række.
+
+39:44
+Her er 1 0, 1 0, og så er det 0 1.
+
+39:49
+Den gange vi jo bare med en tredjedel, og så er det 0 0, og så har vi en nul række forneden.
+
+39:58
+Og det vil så sige så har vi at v ét er lig med minus ved tre, og så har vi to.
+
+40:07
+Den er nul. Og det vil sige at vi har et veto med tre alene med en.
+
+40:17
+Fri parameter som vi kalder for fortie og det er jo virkeligheden B3.
+
+40:21
+Og så får vi minus 1, 0 og 1. Så.
+
+40:34
+Skal vi kalde den for uge 1, så har vi altså her brug en.
+
+40:40
+Som var min nu se nål i. Og.
+
+40:48
+Så har vi brugt den, så prøver vi med toeren. Det kan være processer jeg trækker lige denne her ned.
+
+40:59
+Så jeg kan lige bruge den anden til aflevering. Godt.
+
+41:05
+Det vil sige vi prøver nu med den anden egenværdi. Sommer.
+
+41:11
+2. Hvordan skal vi så trække fra i den op?
+
+41:16
+Så må vi få minus 1 0.
+
+41:22
+Og 2. Og så får vi nul. Nul og nul, og forneden får vi 2 0 og minus 1.
+
+41:38
+Og vi går direkte til Trapp the.
+
+41:43
+Så er den lig med. Hvad får vi?
+
+41:49
+Vi får. En. Nul minus to for oven, og så lige hvis vi ganger den der.
+
+42:02
+Med to og lægger til fra neden, så får vi nul, nul og en.
+
+42:13
+Og så får vi en nulre række her. Og det vi har fået ud af det er så, at vi ét er lig med to ved tre.
+
+42:24
+Og ved tre finder sørm'e lig med nul.
+
+42:29
+Så det er altså både det ét og vi tre der lige med nul. Og det vil altså sige, at så får vi.
+
+42:37
+Så får vi altså ved et veto ved tre.
+
+42:46
+Når jeg kan få den til at høre sådan, og så vil det sige, så bliver det i stedet.
+
+42:51
+Det er strøm, vi får. Vi får sådan en. Vi får det samme resultat, fordi det hvad er det, der står dér?
+
+42:57
+Det er jo bare, at ét er lig med nul, og B3 er lig med nul.
+
+43:02
+Og så vil det sige, vi har her nul en nul.
+
+43:10
+Der er ingen begrænsninger på den anden, og derfor så er vi to altså en fri parameter,
+
+43:20
+og nu har vi altså fundet en uge ét og den der den kalder vi så får U2, som er nålen ind og nul.
+
+43:37
+Og nu mangler vi så bare lige at kigge på den sidste egenværdi, som var ti tre, og vi prøver lige igen at få fat i total.
+
+43:47
+Matricen skal trække tre fra i diagonalen, og så får vi minus 2.
+
+43:54
+Manu Sareen. Om endnu to er vi enige om det.
+
+44:00
+Og så 1, 0 og 2. Og så har vi.
+
+44:05
+Nul og nul. Vi har to.
+
+44:11
+Og nul sondering og så en nul nul nul. Og vi prøver at finde frem til trappen.
+
+44:23
+Den sidste er den forsvinder og så får vi 1 0 min nu seen.
+
+44:30
+Og nul. Og så får vi nul.
+
+44:35
+1 0 og nul. Sonde og hvad har vi så vi har at vi ét er lig med hvidt træ.
+
+44:49
+Og så har vi at veto er lig med nul. Og dermed ved ét veto.
+
+44:59
+Det tre er lig med ti gange med en 0 1.
+
+45:06
+Og nu har vi altså en U3 vektor, som hedder en nul.
+
+45:12
+En. Nu har vi fundet egenværdi, hjørne og ayn vektorerne for en symmetrisk matrix.
+
+45:27
+Bemærk i dette tilfælde. Der var.
+
+45:33
+Der er tre forskellige egenværdier. 3 forskellige egenværdier.
+
+45:39
+Vi ved at. Egen vektorer der hører til forskellige egenværdier.
+
+45:47
+Disse ortogonale. Så vil jeg så sige Nu har jeg altså taget en repræsentant ud for den første egenværdi.
+
+45:55
+En repræsentant for den anden egenværdi lad os lige prøve at gange dem, prik dem hinanden ud og U2 minus én gang med nul.
+
+46:05
+Nul gange af en gang nul. G.
+
+46:15
+Så prøver vi med U. Et prikket med U3.
+
+46:22
+Uden den havde vi dér. Så vi prikker. Vi er nu set en gang egentlig gennem endnu en.
+
+46:27
+Så får vi nul, og så fik vi pludselig denne samme nul. Og så får vi i det sidste eksempel 1 2 gange med U 3.
+
+46:38
+Det er altså den der. Prikket med den der, og på grund af hullerne, så kan vi sagtens se, at de giver lig med nul.
+
+46:49
+Så det vil sige at. I et U2 U3.
+
+46:56
+Det er en. Det er en. Hvad skal vi kalde den?
+
+47:02
+Ja, altså vi kan sige at det er en ortogonale basis for er tre, de er ortogonale på hinanden,
+
+47:09
+men vi vil jo gerne finde en Otto normalt basis, så nu skal vi bare sørge for at u et U2 og U3.
+
+47:20
+At de har længden 1. Vi behøver ikke at lave Kams med det hele.
+
+47:24
+Fidusen ved at der var tre forskellige egenværdier. Det er tre små ayn rum, som står vinkelret på hinanden.
+
+47:32
+De behøver kun at normalisere dem. Vi behøver ikke at bruge algoritmen, så vi siger bare simpelt hen ved ét.
+
+47:40
+Er lig med u et divideret med dens længde og ud.
+
+47:45
+Den var jo. Den var jo.
+
+47:50
+Minus 1,1 nul komma 1, og det vil sige dens længde.
+
+47:55
+Den er kvadratrod 2. Og så har vi altså minus 1 divideret med kvadratrod.
+
+48:00
+2. Vi har nul, og så har vi en divideret med kvadratrod.
+
+48:03
+2. Også på samme måde med de to ja.
+
+48:11
+Ja, der skal stå der et et tal. Det er selvfølgelig et, som et dividerer med dens længde.
+
+48:19
+Altså det 2. Eller U2 den havde i forvejen længden 1, så kan vi den, kan vi bare, så den kan vi så bare direkte købe.
+
+48:29
+Den er sang nul og sådan en. Og så den nul og så indeni ved tre er lig med.
+
+48:39
+Det træ vi havde U3 som var en komma nul komma 1 divideret med dens længde.
+
+48:47
+Det kvadratrod 2. Og så har vi altså 1 divideret med kvadratrod 2 0.
+
+48:55
+Og vi har en divideret med foredrag. 2. Så er der.
+
+49:02
+Nu har vi fundet en over to mand basis for er tre, der består af egne lektorer for den symmetriske matrix, og vi kan endda sige, hvis vi sætter.
+
+49:19
+Hvis vi sætter Q matricen. Hvis vi sætter den til.
+
+49:28
+Til. Vi tager den første 1 divideret med kvadratrod 2, og så har vi nul og så en divideret med kvadrater 2.
+
+49:40
+Og så har vi altså nul, 1 og nul, og så har vi en divideret med kvadratet på 2 0 og 1 divideret med kvadratet.
+
+49:48
+2. Altså hvis vi sætter Q lige med den der.
+
+49:53
+Så vil det sige at kulturen over to Gunvald Matrix for det er en 8'er normalt basis får jeg 3.
+
+50:01
+Og. Lambda sætter vi til.
+
+50:06
+Hvad var den første egn, det vi arbejder med? Jeg tror det var minus en.
+
+50:12
+0 0. 0 2 0 0, 0 3.
+
+50:19
+Altså hvis vi definerer quo på den måde og lamper på den måde, så vil der gælde følgende at lamme.
+
+50:26
+Der er lig med q transponerede ganget med den A matrix vi starter ud med, og så gange med Q her og.
+
+50:38
+Det resultat kan vi lige nu verificere ved hjælp af Mikkel.
+
+50:52
+Så vi må sige. Vi kigger lige sådan her ja.
+
+51:10
+Nu kan jeg så se det er altså det jeg laver her.
+
+51:15
+Altså jeg laver nogle forelæsning, stemmer ja. Dér hvor jeg tager de eksempler op, jeg har kigget på under forelæsningen eller noget andet.
+
+51:24
+Dem lægger jeg op på fildeling for A, så der kan jeg gå ind og kigge på dem, hvis I har lyst til at kigge på dem, ikk?
+
+51:30
+Husk det er ikke de officielle demoer demoerne. Det er dem, der ligger på dagsordenen til programmet her ikke.
+
+51:37
+Men nu kan I lige se. Her har vi den matrix, som vi arbejdede med.
+
+51:45
+Se også Så kommer vi, så kommer vi altså. Hvad fanden var det for en fejl vi lavede?
+
+51:50
+Fordi I kan altså se, at der var et eller andet, der drillede mig. Hvis det ikke den samme når og kan se hvad var forskel?
+
+52:03
+Når jeg. Men det eksempel var faktisk lige så godt.
+
+52:08
+Så er det så nu har jeg to eksempler. Også her har vi nemlig øjen værdierne 1, 2.
+
+52:13
+Og 3. Og så kan I se, hvis vi så trækker de tre ud, der så ikke har set, at det er din egen vektorer, der er repræsenteret i søjlerne dér.
+
+52:27
+Dem kalder vi så dem kalder vi soft for dette.
+
+52:38
+Tror lige. Nej, det er der vi skal lige op at hæve den.
+
+52:44
+Hermed. Sangen der. Og så kan vi godt køre gram smidt.
+
+52:57
+Det er det der er gjort her i eksemplet. De er udregnet.
+
+53:04
+For jeg tror simpelthen indeni oploadet denne til jer. Så I kan se det vi har gjort her.
+
+53:09
+Det er det samme, som jeg går derhen. Der er ikke grund til at køre Gram smidt, så vi gør lige sådan her.
+
+53:15
+Bum! Inden jeg oploadede den til jeg også fordi det vi har gjort her,
+
+53:20
+det vi har bare taget dem og så altså ud fra et U2, U3, og det vil glæde dem med deres længder.
+
+53:26
+Så får vi altså den matrix der. Ved et med to og tre år som normalt basis for at have tre bestående af egne lektorer folk.
+
+53:36
+Og hvis vi så sætter Q op på denne her måde her, så betyder det at q ortogonale matrix.
+
+53:46
+Og så kan vi se her. How?
+
+53:53
+Nu blev jeg utryg. Determinanten var min muse, så det vil altså sige at den nye basis.
+
+54:03
+Den er ikke sædvanlig orienteret. Så kan vi bare vende ved 3 år om.
+
+54:09
+Altså svarende til sætter aksen vender nedad. Hvorfor ikke give den op, så den peger opad?
+
+54:18
+Vi tre defineres som minus ved tre, og så ser jeg så en ordre med en basis robot på den måde her.
+
+54:25
+Og så har vi fået en positiv og tonalt matrix, og så kan jeg se.
+
+54:30
+Vi tager, definerer Lambda matricen, og så laver vi denne her kontrol quo transponerede ganget med ét med Gud.
+
+54:37
+Det skal give det samme som Lambda, og det gør det også. Til allersidst.
+
+54:42
+Bemærk. Det er dette andet eksempel i denne forelæsning demo, hvor vi har givet den her Matrix A.
+
+54:58
+Og da kan I så se. Den.
+
+55:02
+Den har to egenværdier. 7'erne har algebraisk og geometrisk multiplicere Ted 2.
+
+55:12
+Så derfor har den 2 linjer uafhængige egn vektorer repræsenteret.
+
+55:18
+Og så har vi altså minus to som I ser derhen. Se hvis vi hiver de tre ud, så kan vi ikke være sikre på, at de er ortogonale på hinanden.
+
+55:30
+Det vi kan være helt sikker på, er, at den der står dér, hannen er ortogonale på hver af de to fyre, der står der.
+
+55:41
+Man kan bare prøve at gang ud. Så kan I se min numse en gang er en.
+
+55:46
+Og en gang en der giver nul, og hvis starten anså det plus en halv og det minus en halv, så er det et nej.
+
+55:55
+Hvad hedder denne egn? Rummet, der hedder en minus to.
+
+56:01
+Det er vinkelrette på landet, og så skal vi bare sørge for, at de to bliver vinkelrette på hinanden, og det kan vi gøre med Gram Smidt.
+
+56:11
+Så det vil jeg sige. Vi kan bare bruge proteser, vi trækker dem ud igen.
+
+56:15
+Et. Og U2 og U3.
+
+56:22
+Er bare herude fra dem. Den første af vores svigter.
+
+56:26
+Da tager vi den, der hører til minus to. De vil dele den med dens egen længde.
+
+56:31
+Så har jeg altså det den første af dem, vi gerne vil bruge.
+
+56:39
+Og så kan vi bare tage ved to'eren. Så så tager vi en af de andre.
+
+56:45
+Altså dem der hører til derfor oven. De kan også bare tage en af dem, og når man i senere for eksempel den der står henne.
+
+56:55
+Og tage længden af det det er det der er gjort her. Så har vi to.
+
+57:00
+Og nu kører vi så Gram smidt algoritmen på den tredje i forhold til den anden.
+
+57:06
+Og det er så det, der er gjort her. Og der finder vi så ved 3 og så har vi altså fundet en ottow normalt basis for.
+
+57:21
+Er tre består af egne vektorer for denne her, så det vi altså har set med de to eksempler her, er altså, at nogle gange kan vi være heldige,
+
+57:31
+at der er tre forskellige egenværdier ikke at lave kom, smidt eller vi kan være ude for at der i et eget rum,
+
+57:38
+som står vinkelret på et andet eget rum, men inde i dets eget rum.
+
+57:42
+Skal I finde en 8'er normalt basis, så de to står vinkelret på hinanden.
+
+57:47
+Og så er den tredje også kommer til at står vinkelret på hinanden. Så har I fundet en årsag normalt basis.
+
+57:52
+Nu er det jer, der skal ud med vinkel, jernede og tommestok og måle på vektorer.
+
+57:59
+Jeg en tak for i dag.

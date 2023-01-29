@@ -1,0 +1,941 @@
+0:04
+Nu kan Go Morgen der vil komme til.
+
+0:10
+I dag handler det om vægttab, felter som vi bevæger os lige kort væk for integration, og jeg vil starte med og definere vigtige felter.
+
+0:25
+Jeg vil ikke komme ind på den hele historien selv.
+
+0:31
+Nej, sådan forårstegn her. Så er det det, der er tilstrækkeligt for det her kursus.
+
+0:37
+Så vil jeg snakke lidt om en anvendelse af vægt felter i forbindelse med flow kurver.
+
+0:44
+Jeg vil snakke om nogle eksempler med nogle, som jeg vil illustrere nogle vigtige felter, og så vil snak om en speciel type af vægt 12 felter,
+
+0:55
+nemlig dem, der er gener ved os som gradient af en skalar funktion, det vi kalder et gradient væk fra felter.
+
+1:05
+Og så vil jeg snak om divergens og rotation.
+
+1:09
+Nogle begreber vi knytter til et værktøj felt, noget som vi bruger til at beskrive og felter med.
+
+1:15
+Det er en, og der vil indgå en bestemt brug af det symbol her.
+
+1:22
+Nakba symbol, som vi hidtil har forbundet med dens aktion på en funktion F giver os nemlig gradient.
+
+1:31
+Men nu skal vi ligesom lege videre med det her objekt.
+
+1:36
+Tager mere om det senere og sidste jeg snakker om, forstår dens vigtige felter.
+
+1:43
+Og lad os starte med den definition. King så det vi tænker på i det her kursus.
+
+1:57
+Når vi siger vægt, så fælt. Ved I er tre.
+
+2:08
+Tilskriver at blot tilskrives en.
+
+2:16
+Til ethvert punkt. X Y Z I rummer en vektor.
+
+2:34
+Så det vil sige at alle ved at x y, z.
+
+2:41
+At gide. Som sådan en vægtere her med nogen koordinat funktioner ved et veto og ved tre.
+
+2:58
+Ved en 2 med tre er funktioner af de tre variabel x, y, z, og hvis de har koordinat funktioner,
+
+3:14
+vil et veto og tre glatte funktioner altså begge differentiere den i sin.
+
+3:18
+Trods alt vel så siger vi, at Vectra feltet er fladt. Og Kim.
+
+3:29
+Så man kan sige det vi egentlig tænker på, når vi snakker vægt og felthær.
+
+3:34
+Det er, at vi tager et punkt. I er tre. Og så får vi end et nyt par i den forstand, der ligger i A3.
+
+3:50
+Altså for enhver ex. Sæt, så får vi et eller andet, fordi der et eller andet fordi der en eller anden værdi der.
+
+3:56
+Og det er her, at man skal være lidt varsom.
+
+4:00
+Ikke fordi så på den her måde, så er det ikke andet bare end en funktion af tre variable, der har værdier i r 3.
+
+4:09
+Men det er vigtigt at pointere her, når man arbejder med vigtige felter eller komme tilbage til det senere er, at de her værdier her er vektorer.
+
+4:24
+Og det er dér I der ligger lige som en adskillelse af funktioner og så felter.
+
+4:31
+Mere om det senere. Det er hårdt at kigge på et eksempel.
+
+4:41
+F. Eks. Kommer 1,6.
+
+4:48
+Bare x y z, så kan vi udregne gradient af F.
+
+5:02
+Hvad havde vi gjort? Vi stiller de partielt afledte op i en vægtere søjle vektor f mærke ex væk xy z.
+
+5:15
+F mærke y x y, z f med det z x y z.
+
+5:26
+Og få det her eksempel. Her får vi differentierer parcel med hensyn til ekstra for at vi igangsætter parcel med hensyn til ny.
+
+5:35
+Så får vi ekskongen sæt og parcel med hensyn til sæt.
+
+5:38
+Så får vi ikke gang i. Og det er en vægtere.
+
+5:54
+Og vi har jo allerede faktisk arbejdet med sådan et vægteren felt her.
+
+6:00
+Det er et vigtigt felt. Ikke til hver X, Y og Z har jeg knyttet en vægter.
+
+6:07
+Og af. Men det er meget specielt vægt felt, fordi det ligesom er gener bedre er funktionen F.
+
+6:24
+Det fortjener et bestemt navn. Vi kalder det gradient midterfeltet eller et gradient værktøj faldt.
+
+6:38
+Og det er før. Kaldes væk som feltets.
+
+6:51
+Stamform zone. Nu.
+
+7:03
+F. Kaldes Vectra feltets stam fusion. Lidt ligesom det sædvanlige stamm funktions begreb vi kender, hvor traditionen bare er den afledte eng.
+
+7:18
+Så her har vi et generaliseret begreb af en stamme function. Okay, selvfølgelig kan vi også godt bare kigge i.
+
+7:30
+Planen i planen der er ved blot.
+
+7:42
+Beskrevet ved to koordinat funktioner ved et veto som er funktioner, er vækst Y i planen.
+
+7:57
+Booking. Hvis nu gå videre med et eksempel her hvor jeg vil starte med at introducere de her flower power,
+
+8:19
+og jeg vil snakke om en anvendelse af de her værktøj felter. Så lad os nu først forestille os.
+
+8:28
+Der var to dele i det her eksemplar. Først så forestiller vi os en differentiabel parameter K.
+
+8:44
+Altså en gidet differentiabel parameter kurve er lig med er,
+
+8:49
+at the Paramore et par til sidder ved hjælp af en parameter ting som kunne ligge i et eller andet lukkede interval fra A til B.
+
+8:59
+Er og han er her, tager sine værdier I er 3 fod hvert 10.
+
+9:06
+Får jeg et punkt i rummet om at jeg gennemløber ting. Så får jeg en kurve i rummet.
+
+9:14
+Og vi tænker på er her som en bevægelse. Jeres årti er tiden og er RT fortæller mig så i hvilken position jeg befinder mig i til tiden t.
+
+9:37
+Ikke så. Det kunne se således ud. Her har er mit endepunkt.
+
+9:48
+Vær. Og hvis jeg betragter et punkt har kalde det er tænkt til tiden T.
+
+9:55
+Så har jeg en hastigheds lektor givet. I det punkt har han hastede væk, så givet i det punkt har.
+
+10:21
+Og for givet er positionen til tiden hastede vektoren får jeg bare som den afledte af min stadigvæk er med hensyn til tiden.
+
+10:33
+Det giver mig min hastighed svigter. Længden af den har vægt værktøjer.
+
+10:41
+Det er det vi kalder farten. Og kikset I kan se her er givet en parameter kurve.
+
+10:56
+Så får jeg en familie er vektorer tilknyttet til hvert punkt.
+
+11:00
+En familie af vektorer, som er tangent til denne kurve.
+
+11:04
+Altså hastighed. Vektoren er tangent til denne kurve. Her.
+
+11:11
+Booking så givet en branche der K.
+
+11:14
+Så har jeg generelt en familie af vektorer på denne her måde ved bare at differentiere den her et sted væk med hensyn til tid.
+
+11:22
+Omvendt Pas på at kig på det. Omvendt scenarie.
+
+11:31
+Altså der hvor jeg er givet nogle vektorer, specielt et væg felt.
+
+11:50
+Så givet vektorer ved hjælp af et vægtet felt ved. K.E.
+
+11:57
+Så lad os prøve at kigge på døden. Så givet som vægteren fælt.
+
+12:04
+Så kunne man spørge. Kan jeg.
+
+12:13
+Finde en bevægelse. Beskrevet ved en Paramore forcering på den her måde.
+
+12:31
+En bevægelse. Vi kan se at en partikel for eksempel supplerer med en figur om et øjeblik.
+
+12:41
+Af en partikel startende. I et punkt at sige er nul et eller andet givet punkt.
+
+13:00
+Som opfylder. Som opfylder følgende at alle de her hastigheds vektorer det skal være lig med vektorerne, som er givet for mit værktøj felt.
+
+13:26
+Så. Og.
+
+13:40
+Så det er spørgsmålet Kan jeg gøre det? Og hvad indebærer det?
+
+13:47
+Jamen, det indebærer egentlig, at jeg kan løse en differentialligning. Her har jeg en bil frontalt ind i givet.
+
+13:52
+Det fortalte en af de encellet er er skal være lig med en given funktion, der afhænger af min position?
+
+14:00
+Ja, og for tilknytter jeg et begyndelse betingelser så generelt, så er svaret ja.
+
+14:13
+Generelt svarede ja, og vi ville komme ind i situationer, hvor hvor vi er,
+
+14:16
+hvor vi faktisk kan lyse sunde de frontale lydsystem og dermed besvare det her spørgsmål.
+
+14:21
+Lad mig prøver illustrere det, hvordan det kan se ud i en fysisk sammenhæng.
+
+14:30
+Så jeg forestiller mig for eksempel, at jeg har. Strømningen i et eller andet rør.
+
+14:40
+Og jeg har givet. De mange strømninger mæssige sammenhænge.
+
+14:47
+Så kan det lade sig gøre. Eller så kan det forekomme at hastigheds feltet.
+
+14:53
+I det her i det her oprørte der flyder en eller anden strømning igennem det her røre har.
+
+15:02
+Og i nogle strømmens med sit sammenhæng, så kan det forekomme, at man kender den her.
+
+15:08
+Det her vægt så fælt i røget kød, så det betyder, at man kender til alle punkter herinde, der kender manden.
+
+15:15
+Hastede, svigter. Og spørgsmålet herom man kan finde en Belal bevægelse.
+
+15:26
+Det betyder så, at man kan finde en kone, der til startende fra et eller andet punkt kalder sit er nul.
+
+15:34
+Opfører sig således at den til alle tider er tangent til de givne vektorer.
+
+15:42
+For her har jeg prøvet at illustrere der skulle måske have brugt en anden farve. En kandidat til sådan en løsning af det problem jeg beskrev for.
+
+15:53
+Er så her er r rt.
+
+15:59
+Alle hastigheds vektorerne er lige med ved er at se, så alle hastede fik turen langs den her kurve.
+
+16:13
+Hør er præcis lige med det foreskrevne hastigheds felt, som man har fundet ved hjælp af andre metoder.
+
+16:21
+Kæk. Og hvad er hvem i strømmens med sammenhæng?
+
+16:26
+Hvad betyder det? Hvad så hvis nu at jeg sætter en partikel?
+
+16:29
+Her starter en partikel har for eksempel ved hjælp af jorden af noget farve og tilføjer min strømning, så vil denne er at se den kurve.
+
+16:41
+Den vil geimer strømningen af denne her den partikel jeg har introduceret i mine strømme.
+
+16:51
+Og når man har fundet sådan en er her, så kalder man den.
+
+16:59
+For en flad kurve. Jeg så en løsning til dette problem her, altså hvor alle hastede vægterne af,
+
+17:10
+at alt til denne privatisering er givet ved et kig ned foreskrevet væk så fælt.
+
+17:18
+Og så gå igennem et eller andet foreskrevet punkt kalder vi en flad kurve.
+
+17:24
+En. Og gæt.
+
+17:33
+Lad mig prøve at gå videre med et andet eksempel. Og.
+
+17:40
+Som om hvor meningen med det foregående eksempel var ligesom og viser hvordan.
+
+17:46
+Hvordan vægter felter er specielt vigtige i. I strømning med sin fysiske sammenhæng, så vil jeg i det næste eksempel prøve på at komme lidt ind på,
+
+17:57
+hvorfor denne her definition ikke præcis er fyldestgørende er fordi at hvor om jeg syntes at
+
+18:04
+denne her definition det er tilstrækkeligt for jer at tænke på vigtige felter i den her form.
+
+18:08
+Med det her kursus synes jeg stadig ikke det er vigtigt, at de ligesom forstår, at der er flere lag på det her kilten.
+
+18:16
+Så lad os kigge på. Nu kigger jeg bare på et vigtigt felt i planned.
+
+18:21
+Jeg kigger på et, som er et gradient væk fra felt, som er genereret af en funktion af to variabel, nu kaldet den uge ved i stedet for ikke så.
+
+18:31
+O Minus ved og jeg kan så definere et væk så fælt som gradient af funktionen gu ved.
+
+18:44
+Med hensyn til u om v variablen, så ville jeg differentiere den pause med hensyn til.
+
+18:50
+Så får jeg et påsætte med en synes javist, så får jeg minusset. Og der har ligesom været inde på på det her.
+
+19:04
+Men hvordan illustrere man et vægtere felt? Det gør man ved.
+
+19:10
+Og sige altså i et givet punkt. Lad os tage punktet.
+
+19:15
+Ind kommer en her. Ja, i det punkt har en kommer ind.
+
+19:21
+Så angiver jeg den væk.
+
+19:22
+Så i det punkt således at vi så står i det her punkt, så vil angivelsen af det væk så fælt svarer til, at jeg skal gå ind og ud.
+
+19:33
+1 ud og 1 ned. Det er den vægtere. Der er beskrevet der er angivet ved det store ved i præcis det punkt.
+
+19:41
+Tilsvarende her. Hvor han sig og ligeledes har brug for en datter.
+
+19:50
+Vækst. Feltet er konstant kamp i den forstand, og så.
+
+19:57
+Her. Det giver mig en have, der højst vil prøve at illustrere en linje,
+
+20:03
+så jeg kan gå lidt ind i den samme ting her, altså spørge om hvad er flow kurven, som starter i det punkt?
+
+20:14
+Og til hvert tidspunkt er tangent til eller at hastigheds vektoren lige med det foreskrevne vægt felt.
+
+20:24
+Og hvis jeg gør det, så får jeg er at se. Begyndelse.
+
+20:31
+Punktum. Plus te. Det kommer mine set er, så jeg har en linje der som Apartment sidder ved hjælp T og prøv at se hvordan jeg har konstrueret dem.
+
+20:46
+Jeg har jo konstrueret den således, at når jeg differentierer denne her, så får jeg en kommer minus en, som jeg gerne vil have, som netop var mit væk.
+
+20:55
+Så fælt udkom i. Ja, så det her er min fluke kurve.
+
+21:07
+Som tilfredsstiller denne betingelser og tilfredsstiller ydermere betingelsen at den går igennem punktet 0,2.
+
+21:14
+Herpå på y aksen. Og så lad os nu forestille os.
+
+21:21
+Vi har indført mange parametre.
+
+21:25
+Zähringer har allerede altså nu forestille os, at i stedet for U og V, så går jeg over i et exit plan.
+
+21:33
+Og hvordan tænker jeg det skal foregå? Jamen, det foregår ved, at jeg siger.
+
+21:41
+X og Y. Lege med to gange u.
+
+21:50
+Komma væk. Kø til ethvert punkt U kommer ved her over for eksempel et kommer, en sendes til punktet to kommer et, når man prøver, illustrerer det.
+
+22:04
+To. Kommer et. Ja, så er man punktet værd.
+
+22:18
+Der ryger over i punktet her ved hjælp af denne afbildning her.
+
+22:24
+Kan faktisk så gælder der. Jeg kan selvfølgelig smide hele denne her linje over i eksil planen.
+
+22:35
+Og jeg får bare. Denne her sag, lad mig kalde denne her for L mærke er denne er den givet skal skal skrive herunder.
+
+22:48
+Der tager bare denne her kurve her. Vi hjælper denne her på med serien og smider den kurve herover.
+
+22:53
+Og nu skriver jeg op, hvordan den er givet i ex. Planen. Ja, altså jeg kunne skrive her i stedet for er RT.
+
+23:11
+Så skulle jeg jo egentlig skrive Uartig og we are the. Her står urtet mave ved hjorte for at få ekstra t.
+
+23:25
+Så skal jeg bare gange uartig med to, så det gør jeg her i den første række af gangen.
+
+23:31
+2 får nul. Og så får jeg en gang 2.
+
+23:37
+Der står to her. Og tilsvarende ved jeg bare lige med Y, så jeg får det sammenhold og noget der står to og mine.
+
+23:48
+G. Pause nu. Hvis jeg differentierer denne her.
+
+23:58
+Med hensyn til tiden. Så får jeg selvfølgelig.
+
+24:03
+En væg, så ethvert punkt der er tangent til den her kurve.
+
+24:09
+På samme måde som man gjorde helt lov til venstre, altså en med placering, så kan jeg gen generere vektorer.
+
+24:15
+Der er tangent til min kurve bare ved at differentiere med hensyn til parameter.
+
+24:19
+Kan ikke så differentiere her og jeg får to minusset. Som for eksempel i punktet Her giver mig lige præcis denne længere væk, så.
+
+24:36
+Og tilsvarende viser startpunkt. Så får jeg denne vægter.
+
+24:43
+OK, men en anden ting jeg kunne gøre var, at jeg kunne sige, at jeg kunne tage det væk, så felthær.
+
+24:52
+Og så kunne jeg bruge simpelthen bare erstatte ur ved.
+
+24:58
+Beskrevet beskrive dem med ekstra y, og så ville jeg få et vægt felthær over.
+
+25:04
+Er så dårlige at flytte ophør.
+
+25:10
+Så det jeg siger er. Der kan introducere et nyt værktøj felt som funktion er ikke så ved og bare skrive ved at tage det af ikke u,
+
+25:25
+men a u som funktion af ex ikke så lige med tonen.
+
+25:29
+For det vil sige. På US plads skal skrive.
+
+25:34
+Halve er o er lig med salve for ikke så lige med to u.
+
+25:39
+Og her står der Y. Og hvad bliver det?
+
+25:43
+Ja, men den Afriyie vil faktisk ikke udvise så lidt kedelig kamp.
+
+25:48
+Den er bare den konstante vægter. Men nu kommer humlen som denne vægter er forskelligt fra denne vægt, så der.
+
+25:59
+Hvad så hvis jeg giver det har en farve. Lad os give det her en gul farve og lad os prøve at gå op i vores figur og illustrere.
+
+26:13
+Vægteren. Klik så her.
+
+26:20
+Det var denne her væg. Den har jeg allerede angivet, og nu angiver jeg min anden vægter en ud og en ned, der må se således ud.
+
+26:31
+Men forstår Pernille ikke magte til at væk fra feltet? Jeg har generelt vil hjælpe W, som er den logiske mor og generere et værktøj herover.
+
+26:40
+Den tilfredsstiller ikke betingelsen om at være tangent til den her kurve.
+
+26:47
+Denne vægt til guld værktøj er ikke tangent til kurven. Så.
+
+27:02
+En mere præcis definition. Kræver.
+
+27:20
+At denne. Egenskab.
+
+27:35
+Om at være tangent. Bevares.
+
+27:49
+Under en transformation. Jeg så en mere præcis definition.
+
+28:08
+Der vil jeg ikke tillade ved at transformere på den her måde, fordi det er utilfredsstillende, at det her er væk.
+
+28:14
+Jeg faldt ikke er tangent til mine transformerede kurve, så en præcis definition.
+
+28:20
+Den tager præcis hånd om det her. Og det, der er problemet, er jo, at jeg ligesom ikke rigtig har læst.
+
+28:25
+Tænk på deres vektorer, og jeg har ikke skrevet, der er noget omkring Bayezid.
+
+28:30
+Skift inde over har via min transformation, som jeg skal tage højde for, når jeg transformerer de her vektorer.
+
+28:38
+Klik. Og det korrekte transformerede værktøj fælt her er selvfølgelig præcis den her.
+
+28:47
+Den her som præcis opfylder betingelsen om, at den at den er tangent til den,
+
+28:52
+kunne lige så vel som Vectra feltet var tangent til den oprindelig kurve over.
+
+29:00
+Og. Så det var.
+
+29:12
+Altså et lille word of korset, ja, der er et spørgsmål. Jeg kan bare ikke forstå hvorfor det ikke sandt?
+
+29:18
+Derfor kom det til at vare to og et år, og det er lige præcis det, der kræver det her.
+
+29:28
+Jeg har sagt, at hvis jeg har en væg, så felt til venstre, er jeg introducerer en transformation og går i eksil en plan.
+
+29:37
+Jeg vil gerne have et væg felt. Derovre er den den mod den måde at gøre det på.
+
+29:42
+Det var jo bare ved, at ligesom man gør ved fiktion funktion og ikke spørger, om deres værdier i et givet punkt er.
+
+29:48
+Så det er det, jeg har gjort, har jeg betragtet som en funktion.
+
+29:50
+Og så spørger jeg om funktions værdien i det punkt, som nu er beskrevet ved x y er, så får jeg det her er.
+
+29:59
+Men det er ikke den rette måde at gøre det på, når vi snakker væg felter, fordi at jeg har jo mistet en vigtig egenskab,
+
+30:07
+nemlig at her overvejer tangent til kurven herover er ikke tangent til kurven.
+
+30:14
+Er det utilfredsstillende, er og det er den egenskab, man gerne vil have, der behandles,
+
+30:19
+når man snakker vægt og felter og forskelle mellem vægt og felter og funktioner. Funktioner der vil vi være interesserede i at kende værdien.
+
+30:27
+I et punkt. Men her der skal vi så kende vektorer. Så du har ret i, at der skal tages højde for de her to x.
+
+30:34
+Hvis præcis så ganger det første koordinaten to, så får jeg præcis mit rigtige koordinatsystem.
+
+30:40
+Men det var lige et. En advarselslampe, der skal, der skal lyse.
+
+30:45
+Det er ikke tilstrækkeligt bare betragte Vectra felter som funktion. Der er en forskel.
+
+30:51
+Lad os gå videre til et nyt eksempel. Så var det svar på de spørgsmål er.
+
+31:03
+April. Kate forhøjer et et vigtigt felt.
+
+31:13
+Og igen måden og illustreret et faldt på er derved tage et punkt.
+
+31:18
+For eksempel på ikke saksen. Og så angive vektorer med udgangspunkt i dette punkt er som sagt at evaluere vægt, så feltet på x lige et y lig nul.
+
+31:32
+Så får jeg vægteren, der hedder 1,0. Den peger i Exactly retning er ser således ud.
+
+31:40
+Er vi så tager et andet punkt, for eksempel en kommer ind, så er vægteren, og nu kommer jeg i problemer.
+
+31:47
+Men den er 1,1, så jeg går ind og ud og ind om. Nej.
+
+31:55
+Tilsvarende hvis jeg går herned om. Så skærer én ud og én ned fordi Y er minus ét.
+
+32:06
+Her der er ü. Minus ét og ekstra nul. Så det er vægteren.
+
+32:13
+Nul komma minefelt. Med udgangspunkt i dette punkt satte således ud, så jeg bevæger mig herover.
+
+32:19
+Så får jeg vægteren mine ord set kommer mine sæt altså noget der ser således ud.
+
+32:27
+Her. Vektoren peger denne retning. Denne retning.
+
+32:33
+Og endelig i den rette. Det har er ikke tilfældigt.
+
+32:39
+Det kalder vi os for Explosions. Væk felt.
+
+32:51
+Fordi hvis vi forestiller os en eller anden strømning på samme måde som vi havde en stramning.
+
+32:56
+Mekaniske ønolog har måske lidt dårlig strømning.
+
+33:00
+Set fordi den er alting, eksploderer man. Men tingene får der alligevel.
+
+33:05
+Hvis vi starter med noget herinde, så vil vi så tager end et punkt tæt på hér.
+
+33:10
+Så vil jeg. Bevæge mig og i deres vinkler kåret den der.
+
+33:18
+Så det flow kurven at bevæge sig ud af på denne her måde har følge alle de her retninger sektorer og alting vil eksplodere ud i alle hjørner.
+
+33:33
+Jeg kunne også forestille mig et andet væg felt, mener sex med Jozy.
+
+33:39
+Så bare er det negative. Er det andet vægt. Jeg følte, jeg havde fat i.
+
+33:43
+Og hvis jeg angiver jeg skal bare tage og gange i alle mine foregående vægge med minus ét, så det skifter bare retning og samme længde.
+
+33:53
+Jeg prøver at angive, hvordan jeg favner. Er det er vores inklusion.
+
+34:14
+Født tøj. Fem. Pudsigt.
+
+34:23
+G Der er to. Væk så felter et hvor der er eksplosion og et hvor alting samlet sammen i punktet 0,0.
+
+34:36
+I planen har. Charlie er endnu et eksempel.
+
+34:50
+Y kommer minus 6. Jeg prøve på at gøre ligesom før, så tager nogle vælgere nogle punkter for at forsøge at illustrere min ægtefælle.
+
+35:08
+Og jeg får noget der ser således ud. Så kan næsten forestille jer her, at der er noget rotation har rotation mod uret.
+
+35:26
+Det spørgsmål. Fra den tid. Med ure og det derfor igen med ure, retning og kø, så kalder vi et roterende værktøj selv.
+
+35:51
+Kø. Så nu kan vi spørge, ligesom vi spurgte før her omkring denne her problemstilling.
+
+35:58
+Lad os prøve at kigge på kager.
+
+36:05
+Finde. En bevægelse.
+
+36:19
+Er lig er the promised ved hjælp af tiden således at er mærket GT er lig med V, der er til.
+
+36:33
+Og. Og.
+
+36:39
+Lad os sige er er nået til tiden.
+
+36:42
+Nul er punktet et Comando, så jeg må sige, at den her problemstilling herovre, som jeg beskrev herover med, er givet lidt væk.
+
+36:51
+Staffeldt kan finde en bevægelse. Jamen, det kræver, at jeg kan løse det her differentialligning system, og lad os prøve at skrive op.
+
+37:01
+Så jeg skriver selvfølgelig er, at ting som Ekser the by the.
+
+37:09
+Nok. Og hvad indebærer denne ligning så, der indebærer at ex Margrethe The.
+
+37:19
+Er lig med. En ting. Og Y marketing.
+
+37:27
+Halvleg med minus 6 er ting. Er.
+
+37:35
+At der er nogen kan huske hvordan vi løser sådan en.
+
+37:40
+En gut der. Hvis det gik bedre lige det, hvis jeg havde skrevet det faktisk på væg, så form.
+
+37:53
+Nul et minus set nul x rt y er 3.
+
+38:01
+Er hvordan vi løser den her. Er.
+
+38:06
+Regn med at præcisere og egne værdierne her er plus minus i så vi inde i den
+
+38:13
+komplekse verden vi skal opskrive en egen funktion senere løvernes egen værdierne.
+
+38:18
+Og så tager vi og skriver en it garang i den komplekse egenvægt.
+
+38:23
+Så er det en kompleks løsning. En line af uafhængige løsninger givet som den konjugerede den løsning.
+
+38:30
+Alternativt kan vi tage to reelle lineært uafhængige løsninger ved at tage den
+
+38:34
+halvdelen af den komplekse løsning og imaginære del af den komplekse løsning.
+
+38:43
+Og ved at gøre det, så får vi ekstra te er lig med knusende sorte.
+
+38:56
+Og der var en. Og Y RT er lig med minus scenen sig til jer, når vi også anden vender begyndelsen.
+
+39:10
+Betingelserne ex er nul er lig 1 og y er nul.
+
+39:17
+Alene som følge heraf kan, så nu har vi vores bevægelse givet ved de to koordinat funktioner her og.
+
+39:29
+Der så hvis jeg jeg. Jeg har valgt at starte i det punkt 1,0, og ved hjælp af Kurnaz funktioner, så har jeg altså beskrevet min løsning,
+
+39:40
+som selvfølgelig er en cirkel cosinus 3 min og sinus til par madrasser en cirkel.
+
+39:45
+Det var ikke den måde jeg lige at se det på. Godt lige det med plusser, men det var fordi jeg bevæger mig med urets retning.
+
+39:53
+Jeg er i den, så jeg bevæger mig i denne retning her som foreskrevet af mine vektorer altid.
+
+40:00
+Selv om det er svært at illustrere. Så er.
+
+40:04
+Hastigheds vægteren, som jeg får ved at differentiere de her koordinat funktioner, er altid lig med den givende vektor,
+
+40:12
+som er foreskrevet af og feltet i præcis det punkt, som jeg forsøger at illustrere her.
+
+40:19
+Her så er mærket t r.
+
+40:26
+Jeg er ved at er at se i alle punkter.
+
+40:30
+Sådan er den netop konstrueret, og her får jeg altså en cirkel og giver endnu mere mening til, hvorfor vi kalder det her et roterende værktøj.
+
+40:40
+Alle løsningerne, alle de her flow kurver giver mig cirkler.
+
+40:48
+Så Den Røde Hær er et eksempel på en flad kurve. Kø Inden vi holder pausen, så snakker jeg så lige om gradient væg, så felter.
+
+41:17
+Så lad mig starte med et eksempel. To x y z y, så før der snakker vi om at vi havde en 1 en forgivet funktion i mit første eksempel.
+
+41:36
+To gratin. Så havde jeg et gradient væg Terfel værk nu.
+
+41:41
+Nu prøver jeg at vende det om og siger Jamen, lad mig være givet et væg felt 2 X, Z og Y kan jeg finde stam funktion.
+
+41:58
+Hov. Der er kun tre streger i et E findes et funktion.
+
+42:04
+Jeg har forsøgt at lave 4 kan jeg finde stam funktion f.
+
+42:10
+Hvad betyder det? Det betyder at V, X, Y og Z skal være gradient A, F, A, Ex og Z.
+
+42:21
+Nej, det er det det vil sige at være en stang funktion. Hvad læser jeg her af?
+
+42:31
+Heraf aflæses. Følgende ligninger.
+
+42:46
+Jamen, jeg tager jo første koordinaten, at denne skal være lige med det første koordinat, men den har over for to x skal være lige med f.
+
+42:55
+Mærke Ex. Z skal være lige med et mærke Y og Y skal være F.
+
+43:06
+Mærket Z. Kan vi løse de her ligninger har.
+
+43:16
+Ja, I må gerne gentage til en løsning.
+
+43:23
+Det står jeg prøver at lave et kvalificeret gæt, så vil jeg sige, at hvis nu jeg bare kigger på denne her ligning her,
+
+43:32
+så må jeg have noget med X i anden, fordi af de fronter den med hensyn til par med ikke så få apsis de to ex.
+
+43:42
+Det der skal være tilbage i funktionen, må være en konstant med hensyn sex.
+
+43:47
+Det afhænger altså kun af Y og Z. Hvis jeg kigger på denne her ligning her, så må jeg få glæde der hedder Y Garang selv.
+
+43:57
+Fordi når jeg parcel differentierer det her med hensyn til by, så får jeg på sig selv.
+
+44:02
+Og den tilfredsstiller også den sidste ligning. Så parkchef de fronter med hensyn til selv, så får jeg i.
+
+44:11
+På samme måde som vi kender det, så kan vi jo tilføje en arbitrært konstant.
+
+44:17
+Det vil også kvalificeres som en stamm funktion. Så er det selvfølge naturligt at spørge.
+
+44:24
+Er alle væk så felter. Af al vægt, felter, gradient, vægt, felter.
+
+44:50
+Klik. Svaret er nej.
+
+44:56
+Hvorfor er svaret nej? Det er fordi at jeg kan finde et eksempel, som ikke er gradient væg så fælt.
+
+45:06
+Jeg kan bare tage det værktøj, felt jeg har for oven, og det formelle det en lillebitte smule.
+
+45:15
+Hver. Det.
+
+45:25
+Tilsvarende undersøgelsen. Se blot se Jorden sendt.
+
+45:36
+For oven. Så får jeg to x f mærke ex.
+
+45:48
+Mener selv at lege med f. Mærke Y. Og Y er lig med F med.
+
+45:55
+AK ja, sæt. Kan man se nu er.
+
+46:06
+Hvis jeg differentierer ligningen nummer to, linen nummer to med hensyn til Y Major, skal man syntes Z.
+
+46:14
+Så det fronter med hensyn til selv på begge sider, så får jeg mine set på venstrefoden.
+
+46:20
+Flere differentierer mine sæt med hensyn til selv på højresiden får jeg f.
+
+46:25
+Mærke mærke y z. Hvis jeg differentierer tredje linje.
+
+46:37
+Med hensyn til de. Med hensyn til øy, så får jeg et lig med f dobbelt mærke z y, altså det her.
+
+46:50
+Det var med hendes differentiation. Med hensyn til Z og det her, det var det fra en station.
+
+47:00
+Med hensyn til. Y og hvad konkluderer vi af?
+
+47:11
+De to er ikke ens vej. For husk. At der skal gælde altid for f glat funktion er tre variabler.
+
+47:29
+For skal der gælder de blandede arvelige eller tilfredsstiller følgende betingelse.
+
+47:35
+Altså det er ligegyldigt om jeg differentierer med hensyn til ex først og somme y eller
+
+47:40
+differentierer med hensyn til Y og så med X og tilsvarende for de alle de andre blandede afledte.
+
+48:01
+Så det her det gælder altid. Men her.
+
+48:08
+Så har vi altså, at EHF jobbet med det gyldne sæt er minus én,
+
+48:15
+og det er i høj grad forskellig fra en, som er værdien af et dobbelt mærke z y altså ved ikke.
+
+48:27
+Gradient faldt. Gradient lektor Palle.
+
+48:36
+Og ikke. Nu skal man. Lang kø skal vi holde timers pause er kendt.
+
+48:49
+Velkommen til at komme ned og diskutere i pausen også.

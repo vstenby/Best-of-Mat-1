@@ -1,0 +1,935 @@
+0:06
+Velkommen. Velkommen Matematik 1. Jeg hedder Michael Petersen og det er mig der skal holde forelæsninger.
+
+0:15
+Det er en fornøjelse at se jeg. Nøjes med helt verset og lad os denne gang.
+
+0:28
+Det her er jo et meget stort korpus, og jeg ved faktisk ikke, at I allesammen ved kurset kørte gennem en hjemmeside.
+
+0:37
+Og lad mig lige skrive op her. Fordi der ikke har været inde i indslagene nu.
+
+0:46
+Nul et nul nåede fem. Og så står der mere.
+
+0:51
+Og så falder det i. Og BK.
+
+0:56
+Det er kursus hjemmesiden, og på den er der information om alting.
+
+1:02
+Og hvis de logger ind på den på et eller andet tidspunkt, så kan de se.
+
+1:07
+Hvad I har haft om i dag, hvor vi skal gå hen og lave øvelser og alt muligt andet.
+
+1:11
+Men. Øvelserne foregår over i Panopto som i.
+
+1:16
+Nogle af verdens. Og 306.
+
+1:21
+Det står på hjemmesiden, hvor de forskellige klasser som i tilhører, hører hjemme.
+
+1:32
+Så. Matematik er et meget stort kursus.
+
+1:38
+Det kører med. Fuldstændig ens for alle. Nye studerende på dette kursus alle skal have i.
+
+1:46
+Samme. Samme version af virkeligheden. Og vi starter det allerførste vi skal have om i dag.
+
+1:54
+Det er det, der hedder komplekse tal. Komplekse tal og.
+
+2:09
+Det vi finder ud af er, at i starten foregår der noget der ser lidt mystisk ud, og så vil vi finde ud af hov, det har vi set før.
+
+2:16
+Og så vil vi finde ud af det at regne med komplekse tal. Det er fuldstændig lige så banalt som at regne med helt.
+
+2:25
+Så det var vel det der kommer til at foregå i dag. Så.
+
+2:31
+Lad os en gang. Der er først lidt ved den notation som vi søger.
+
+2:37
+De reelle tal, som vi kender fra gymnasiet. Og det er alle de tal I kender indtil nu.
+
+2:49
+Alle de fine tal bryggere har prøvet og alt muligt andet.
+
+2:54
+De får i. Matematik s et stort R.
+
+2:59
+Det betyder det er et reelt tal man snakker om. Hvis man skriver et eller andet tal, tilhører denne.
+
+3:03
+Tal med 1B og så kan man så sige okay. Hvorfor og hvorfor er det ikke nok for?
+
+3:12
+For sin helt almindelige mennesker som os og have de reelle tal. Altså hvad der var ved dem.
+
+3:16
+Hvad er det vi ikke kan i de reelle tal, som vi som gør, at vi faktisk er nødt til at have nogle flere tal.
+
+3:22
+Det er mange ting. Man kan.
+
+3:28
+Sige at motivationen.
+
+3:35
+Motivationen for at lave de komplekse tal kommer fra et problem, som I formentlig allesammen har mødt, eller har I forhåbenligt mødt, nemlig af.
+
+3:49
+Hvis man skal løse denne alene ikke stjernene i min sagen eller ikke se andet i mine 27.
+
+3:56
+Så har man et problem. B Hvordan er det lige det er?
+
+4:02
+Er der løsninger til denne her ligning, hvis man leder i de reelle tal? Nej, det kan der ikke.
+
+4:07
+Der kan også være vel, for hvis man sætter et positivt salg ind på Excel og sender, jamen så får man et positivt.
+
+4:13
+Det ved vi allesammen. På den anden side, hvis man nu sætter et negativt tal ind og sender,
+
+4:18
+jamen så får vi også et positivt tal, og det vil sige, vi kan lige så godt glemme det her.
+
+4:24
+Det kan simpelt ikke lade sig gøre. Der er ikke nogen løsninger inden for de reelle tal.
+
+4:29
+Så. Ingen løsning.
+
+4:39
+I de reelle sale.
+
+4:41
+Og I kan også huske når jeg sidder løst af anden grads ligninger, som hjælper den sædvanlige løsning, får man så nogle gange, så får man en det skal.
+
+4:48
+Man er som sagt ingen løsning. Organ. Det er præcis det samme problem vi har her.
+
+4:54
+Ikke fordi hvis jeg skulle løse den alene, så skulle jeg billedligt talt bevare dem under minus.
+
+5:00
+Det er sådan. Det ved vi jo godt allesammen, det må man ikke, og hvis man kom til at gøre det, så kom jeg efter en, der slog en i hovedet med en pibe.
+
+5:07
+Det må man ikke. Men mine damer og herrer fra i dag et må man godt, for det vil vi lave det.
+
+5:16
+Vi vil lave de komplekse tal. Og.
+
+5:24
+Dem kalder man stort set, og det er simpelthen den største opfindelse siden hjulet for det.
+
+5:34
+Pludselig kan man sidde der, og man kan en hel masse andet, og det fede ved det er, at katte i forvejen.
+
+5:42
+Fordi. De komplekse tal.
+
+5:47
+Er i virkeligheden ikke andet end vægte regner.
+
+5:52
+Der er bare lige et twist. Så. Komplekse tal er væk fra vejene.
+
+6:03
+Og twistet er at der lige pludselig er en måde at gange på.
+
+6:11
+For det er vægte regningen med en multiplikation.
+
+6:23
+Og det er den der gør hele forskellen fordi. I kan formentlig huske i gymnasiet, at der er nogle ting I kunne vektorer.
+
+6:31
+Vil ikke sammen. En frakken fra hinanden. Det var nemt.
+
+6:37
+Den er med på du nemt at se, hvad man gjorde. Man kunne se det på en tegning.
+
+6:41
+Fint nok. Det kommer vi også til at gøre her. Fuldstændig på samme måde.
+
+6:47
+Det man ikke kan i gymnasiet er at man kan ikke gange to vektorer med hinanden.
+
+6:54
+Måske måske tænke på at I kunne noget andet.
+
+6:58
+I kunne prikke, kan huske det, der var det der hed prikproduktet eller produktet.
+
+7:03
+Det er ikke en multiplikation. Hvorfor ikke?
+
+7:08
+Jo, fordi I tager en vægter og tager en vægter, når I så prikker dem med hinanden, så får et tal.
+
+7:16
+Blæsevejr, men en multiplikation. Det er noget hvor man tager et tal og et tal.
+
+7:22
+Og multiplicere. Og så får man et tal, det vil sige hvis man skulle have en multiplikation for vektorer,
+
+7:28
+så skulle man tage en vektor ganget med en vektor og få en vektor.
+
+7:33
+Det er sådan det er det der er den magiske opfindelse her.
+
+7:37
+Det hele bygger på denne her multiplikation. Okay, så lad os nu se en gang.
+
+7:50
+Hvad vi har gang i her. Hvis jeg tager et komplekst tal, så vil jeg skrive det sådan her klart komplekst tal.
+
+8:02
+Z tilhører de komplekse tal. Og så siger jeg til mig selv Det er jo bare en vægter.
+
+8:09
+Okay. Jamen, så kan vi jo skrive det.
+
+8:15
+Som det man siger er et ordnet Talpa i gymnasiet, har de fleste af jer måske skrevet A over B på sådan en pause, så jeg går også.
+
+8:27
+Det fylder så meget, så derfor gør vi sådan her og så.
+
+8:32
+Lad os lige på gang at tegne. Dette hvad betyder det når det betyder at sætte.
+
+8:41
+Er det i virkeligheden bedst som man i gymnasie nok ville kalde vægteren ager over B eller A komme B,
+
+8:47
+og det betyder bare, at her er nede på den aksel, der står der af og inde på Dante.
+
+8:55
+Arktis står der bi.
+
+8:57
+Det ligner simpelt hen den første time, I havde vægge, så regnen vil ikke garantere det, at jeres lærere har stået og lavet på tavlen.
+
+9:10
+Hvad kan man så sige om om sådan en vægter det er hvad kan vi umiddelbart sige om den?
+
+9:16
+Det er et komplekst tal. Foreløbig ligner det bare en vægter, det vil det blive ved med et stykke tid endnu.
+
+9:25
+Der er noget, der hedder absolut værdi. Og absolut værdien af sådan et komplekst tal.
+
+9:37
+Det er præcis det, der i gymnasiet hedder længden af vektoren. Så.
+
+9:43
+Hvis jeg nu gør sådan her. Så hvis vi ikke vidste det komplekse tal, så ville vi bare sige, at det i længden af vektoren er med.
+
+9:49
+Hvordan? Og. Pythagoras vil sige at den der er alderen da den er belagt, så den er vægten af den, er vægtere.
+
+10:00
+Længden af det komplekse fald, om man så må sige det er jo kvadratroden i anden plus.
+
+10:05
+Jamen er I med hvordan? For.
+
+10:14
+Så det der hedder absolut værdien af et komplekst tal er simpelt hen.
+
+10:19
+Mængden af den vektor, som jeg virkelig holder.
+
+10:23
+Er det okay? Hvad kan man så? Lad os lave nogle egne regler.
+
+10:33
+Den kender i forvejen, fordi hvis jeg nu tager et komplekst salgbarhed og sat et.
+
+10:40
+Det hedder sig at a, f. B et. Og sæt to fade á to.
+
+10:49
+B2 Det er så i virkeligheden to vektorer i planen der over.
+
+10:55
+Så kan jeg lægge den sammen og trækken fra hinanden. Det vil sige ja til at sætte et plus eller minus.
+
+11:02
+Sæt 2. Det gør vi på fuldstændig samme måde som i gymnasiet, fordi hvis man knuser, så lægger man koordinaterne armen.
+
+11:13
+Det vil sige jeg siger a et plus a to. B F Kluges.
+
+11:20
+Begge to, og vi havde fået løst trækkene fra hinanden før der stod minestrygere.
+
+11:27
+Beregne reglerne. Dem kender jeg allerede Orca.
+
+11:34
+Indtil videre er der intet sket. Alt det her ved i forvejen.
+
+11:39
+Nu kommer der noget nyt. Nemlig den mystiske multiplikation.
+
+12:03
+Og. Det vil blive mystisk lidt endnu.
+
+12:08
+Men lige pludselig finder ud af hvad det er der foregår. Det er noget ganske simpelt. Nu skal se.
+
+12:15
+Det her er vores komplekse tal. Så nu kunne jeg godt tænke mig at se sæt et gange med to.
+
+12:27
+Og. Det at gøre. Ser ulogisk ud, og det ser ud som at det bare kommer dumpende ned fra himlen,
+
+12:35
+og det er noget en eller anden syg hjerne må konstruerede, fordi det ser ovenikøbet kompliceret.
+
+12:41
+Hvordan ganger man? Hvordan ganger man sådan to komplekse tal med hinanden?
+
+12:46
+Jo. For første koordinaten ser man dengang den mindes dengang den.
+
+12:55
+Jamen, det skriver vi. Først kortet med gang, første koordinat og minus.
+
+13:05
+Anden koordinat. Er afgav så den første gulvspand klang første går det med anden koordinat gang anden koordinat.
+
+13:16
+Nu bliver dødsdrift i forhold til det jeg har skrevet herover. Ja, dengang den mindes dengang det.
+
+13:23
+Og. Så skal vi finde noget der skal dukker andenpladsen der skal stå denne gang.
+
+13:29
+Den plus denne gang den. Så ganger man over Korsør og lægger sammen.
+
+13:36
+Det vil sige ja, siger A s b Tove Clowes a to b et.
+
+13:47
+Og hvis man kigger på det, så ser man under nej. Det her kommer jeg aldrig til at huske.
+
+13:52
+Det kan ikke lade sig gøre. Det er alt for svært. Fik porte fordi de kommer aldrig nogensinde til at bruge denne form.
+
+14:05
+Der er en meget, meget nemmere måde at gøre det på, og den dukker op om lidt på en helt naturlig måde.
+
+14:11
+Det er. Det er en mærkelig multiplikation.
+
+14:18
+Lad os lige prøve at gøre det. Lad os lige prøve at gøre det, for så kunne det være, at man måske kunne få en mistanke om, hvad det var, der foregik.
+
+14:26
+Lad os nu sige, at sæt et hedder Hvad skal vi sige? Det kan hedde forekomme en.
+
+14:33
+Og lad os sige, at z to nu hellere sige det er det et eksempel?
+
+14:38
+Olav fik felttog hvad skal denne hedde? Den skal hedde 3,4 Faxe.
+
+14:43
+Hvad? Så jeg gange med hinanden. Da dette 2.
+
+14:51
+Lad os længere skal se denne gang det jeg vil hellere skrive det to gange.
+
+14:55
+Tre minus. Denne gang det. Komma.
+
+15:01
+Og så skal jeg sige den gang den to gange fire. Klods den gang det.
+
+15:13
+Og lad os lige gøre det 6 minus fire det må være to af og otte plus tre.
+
+15:23
+Bind 11. Så.
+
+15:30
+Hvad pokker var det lige der skete der? Bare lige for at hente jer i den rigtige retning, så lad os lave en mini skitse.
+
+15:42
+2,1. Det er jo noget med to ud og ind af op den ligger inden for ærgelse jeg af.
+
+15:48
+Det er der nok sætte et. Z2. Den hedder 3,4 D3 komma fire.
+
+15:55
+Det er nok sådan cirka her af. Der er sat to.
+
+16:03
+To komma 11. Lad os se en gang.
+
+16:07
+Det dog to. Fordi og så skal vi op i 11.
+
+16:13
+Det er jo et eller andet sted langt oppe. Sådan så det da det resultatet, det ligger der.
+
+16:22
+Og. Hvis man nu skulle gætte på hvad det var der du har været.
+
+16:43
+Og dette er én og det var det en byder det tog, og det der betog, får jeg nu jeg nummerere dem sådan, at det passer med numrene her.
+
+16:53
+Er det. Er det ikke nok og Gruner og prøv lige at se her.
+
+16:59
+Denne intuition, som vi kan få her, er nemlig vigtig, fordi den kan bruges senere.
+
+17:04
+Når I skal lave udregninger med komplekse tal, fordi så har en chance for at se, om jeg regne rigtigt.
+
+17:10
+For hvis det ikke passer med den tegning, I kan lave inde i hovedet, så der i eller endda også her sådan to komplekse tal.
+
+17:17
+De har jo begge to en længde, en absolut værdi. Det er den der står der, og det er bare længden målt med en lindeallé her.
+
+17:26
+Men det er de også har. Og det skal vi kigge meget nærmere på senere.
+
+17:30
+De har faktisk begge to. En vinkel fra ikke saksen.
+
+17:36
+Kan I sådan. Og hvad mon det er der er sket her?
+
+17:43
+Når det der sker, er i virkeligheden at man tager længden af den.
+
+17:49
+Og ganger med længden af den. Så får man et tal.
+
+17:54
+Det er præcis længden af den. Så tager man den vinkel og lægger sammen med den vinkel.
+
+18:01
+Det giver præcis den vinkel. Det er det der sker.
+
+18:07
+Det kan man ikke se. Der. Det kan jeg ikke se i det.
+
+18:12
+Men det er faktisk det, der sker, og det vil vi kigge meget nærmere på senere i kurset.
+
+18:18
+Det her er bare for at give jer intuitionen, og det her er bare et eksempel. Nu skal vi se.
+
+18:27
+For at kunne lave den er multiplikation på en simplere måde.
+
+18:33
+Der er vi nødt til at lave en lille opdagelse. Så.
+
+18:46
+Vi bemærker lige noget. Som i.
+
+18:54
+Straks alle sammen har set det også. Så hvis jeg nu tager sådan et komplekst tal.
+
+18:59
+Vores sæt, som altså. Skulle hedde A kommet B også, så kan man jo skrive det.
+
+19:09
+Hvis vi går tilbage til den helt almindelige vægt, så vejning fra gymnasiet, så kan man sige Okay, jeg kan jo gøre sådan her.
+
+19:23
+Jeg kan sige okay vegetar a tallet A.
+
+19:28
+Det er jo ganske ment i reelle tal. Og ganger ind i den der vægteren der hedder 1,0, så får jeg A kommer noget.
+
+19:37
+Hvis det tager B og ganger ind i dem der, så får jeg noget kommer B.
+
+19:42
+Og vi lægger dem sammen. Så får jeg det. Det er sådan.
+
+19:47
+Det er ikke specielt dybsindig. Sagen er at de to størrelser der står her.
+
+19:58
+De ret specielle. Og de er ret specielle i forhold til den multiplikation, der står deroppe.
+
+20:08
+Fordi. Hvad sker der, hvis jeg tager et komplekst tal, hvor Z der hedder A, kommet b.
+
+20:19
+Jeg godt kunne tænke mig at garne. A kommer B med den første der.
+
+20:33
+Så nu kigger nærmere på de to specielle.
+
+20:37
+Først kigger jeg på dem, der tager et eller andet komplekst tal.
+
+20:41
+Ikke nødvendigvis det samme, som står her, men det ser sådan her ud, og så ganger er det med den der.
+
+20:47
+Og hvad er det nu jeg skal gøre, når jeg skal sige? Denne gang er det minus dengang det var.
+
+20:55
+Det giver a minus nul. Det er jo bare A. Nu kan jeg.
+
+21:03
+Hvad skulle man så gøre? Så skulle jeg sige. Denne gang, da det giver nul plus vandgang den.
+
+21:14
+Hovsa. Det giver det samme.
+
+21:20
+Kinsella. Så. Og i øvrigt i øvrigt også lægge mærke til.
+
+21:26
+Jeg kunne også gjort det i omvendt rækkefølge. Der er ikke forskel på hvad rækkefølge man laver denne operation med.
+
+21:34
+Jamen det her. Det her specielle komplekse tal der står dér når jeg ganger det med et andet komplekst tal, så sker der ikke noget.
+
+21:47
+Sådan et element, sådan et tal. Det hedder et neutralt element.
+
+21:52
+Så det der står der. Det er neutralt. Og det er et neutralt element i forhold flere gange.
+
+22:08
+I forhold til at knuse og trække fra er det 0,01. Nulvæksten.
+
+22:13
+Men ét kommer 0. Okay. Hvis man lige forestiller sig her hende hvad det er vi har gang i.
+
+22:28
+Så har vi altså først kigget på den der ligger dér. Et kommer 0.
+
+22:36
+Den opfører sig fuldstændig som taget et. Priserne tallet et når man ganger det ændrer jo ikke noget.
+
+22:46
+Så. 1,0, som altså er det komplekse tal.
+
+22:51
+Som svarer til den vægt for jeg har tegnet hende opføre sig som tallet et.
+
+22:57
+Læg i øvrigt mærke til, at hvis jeg nu holder mig.
+
+23:03
+Hvis jeg nu holder mig til væk der ligger.
+
+23:08
+På første afsnit. Det vil sige hvis han nu lige bemærker igen.
+
+23:18
+Hvis jeg nu tager en vægt på 40 staxen banco, så havde et komma nul.
+
+23:26
+Og jeg så ganger den. Med en anden vægt, der ligger på 40 stakken.
+
+23:31
+Den kunne vi kalde hvad kunne vi så kassen? Den kunne vi kalde ex 2,0.
+
+23:37
+Hvad sker der så? Jamen, vi skal gøre præcis som vi gjorde herovre, så lad os se gang vi skal sige dengang.
+
+23:45
+Det. Jeg siger Ser jeg ikke sætte gang, ikke tog Venus dengang.
+
+23:51
+Det er jo nul. Det vil sige at det giver except gange to komma.
+
+23:57
+Så skal jeg sige den gang da det bliver nul plus dengang band.
+
+24:01
+Det giver noget. Og kage.
+
+24:08
+Det vil sige hvis der står nulre på andenpladsen og man ganger, så bliver der ved med at stå nul på andenpladsen.
+
+24:18
+Hvad nu hvis jeg pludseligt og mine søde. Vi prøver x et komma nul plus minus x 2,0.
+
+24:32
+Når jeg. Der kommer også bare til at stå et plus eller minus X2.
+
+24:39
+På førstepladsen. Kan I sælge?
+
+24:46
+Så hvis der står noget på andenpladsen på anden koordinaten og vi udfører det her regner operationer, så bliver der ved med at strømme hul.
+
+24:55
+Og lagde ikke lige mærke til hvordan vejene operationerne ser ud.
+
+25:00
+Dette er det jo bare det der to gange sammen på helt almindelig vis, som vi har kunnet hele tiden passere.
+
+25:07
+Og dette er det jo bare. De to tal der står, er enten lagt sammen eller trukket fra hinanden.
+
+25:13
+Det er jo det vi gør, når vi regner med reelle fald. Det er sådan det er præcis det I gør, når I regner med reelle tal.
+
+25:21
+Det vil sige. Hvis denne her plan, som vi nu siger, er vores komplekse tal.
+
+25:28
+Hvis I holder jer. Til 40 staxen.
+
+25:34
+Og korn regner på første aften. Så er det de reelle tal I regner med.
+
+25:38
+Det er sådan. Der er ingen forskel. Så derfor kalder man denne akse, der ligger her for den reelle akse.
+
+25:55
+Og derfor kalder man. Den del af et komplekst tal, der står på første koordinaten.
+
+26:03
+Det kalder man for hvor halvdelen. Så det gør lige hænder, skriver her han.
+
+26:11
+Så hvis satte hedder a komma B. Så ser vi hvad andelen af fedt.
+
+26:17
+Det skriver vi sådan her. Det er simpelthen bare det reelle tal.
+
+26:23
+A. Først på natten. Okay, så nu har vi sådan et billede her og de reelle tal Aldi ligger åbenbart bare her får først aktien.
+
+26:40
+Det vil sige, at den. Vi kan lave en identifikation.
+
+26:45
+Den dér et kommer 0. Opfører sig fuldstændig som tallet et.
+
+26:52
+Og alle de andre tal der ligger her på. Først aksen den reelle akse opfører sig fuldstændig som reelle tal i øvrigt.
+
+27:01
+Det vil sige, at vi laver fra nu af en identifikation.
+
+27:08
+Ideen til ferie kan. Sjovt.
+
+27:15
+Og det vil sige at tal komplekse tal.
+
+27:21
+Der ser sådan her ud. Dem identificerer vi simpelthen.
+
+27:28
+Bare med det reelle tal A. Det betyder.
+
+27:34
+Jeg skriver det lige her. Det er et reelt tal. Det betyder så at den der.
+
+27:46
+Et kom noget som står dér. Den skal så identificeres med vores helt almindelige reelle et tal.
+
+27:53
+Så I skal fra nu bare tænke på den som et. Tallet i.
+
+28:00
+Okay. Hvad så med den der?
+
+28:07
+Den er meget værre eller meget bedre, lidt afhængig af hvad humøret er i.
+
+28:15
+Den er i hvert fald mærkeligt. Nu skal vi også løjer.
+
+28:28
+Nu er det komplekse tal står der og ganger med sig selv.
+
+28:36
+Så nu vil jeg regne ud hvad det er. I anden. Klage.
+
+28:42
+Hvad skal jeg gøre når i år? Jeg tager selvfølgelig lige og skriver det sådan her.
+
+28:51
+Og så skal jeg bruge mit regneregler. Denne gang, da det giver noget minus denne gang.
+
+29:06
+Har Det var min idé. Morgan. Hvad skal der stå på andenpladsen, der skal stå 0.
+
+29:14
+1 0 plus en nåede det 0. Og havde.
+
+29:28
+Jamen, hvordan var det nu lige det var? Tal der har noget på andenpladsen.
+
+29:35
+Det er bare de reelle tal. Arrogant. For dette der hvor står der det det reelle tal minus en.
+
+29:45
+Priserne. Det er det reelle tal ligner. Og nu skal der være noget praktisk glæde ved at holde dette.
+
+30:04
+Hvad er det vi lige har løst? Vi har lige løst den ligning, som står deroppe.
+
+30:14
+Exit anlæg, mener Casella. Løsningen er det komplekse tal 0,1.
+
+30:23
+Det ligger her. Og når ikke Arnold med sig selv.
+
+30:29
+Så kom det åbenbart. Herover ligger. Det passer meget godt med det vi lige snakker om, nemlig.
+
+30:36
+Hvis man ganger to komplekse tal med hinanden, så ganger man deres længder og lægger vinklerne sammen.
+
+30:42
+Længden af denne her er jo en. Så jeg bliver en gang en, og så skal jeg lægge den vinkel sammen med sig selv.
+
+30:50
+Så lander herover. Det er sådan. Så det passer også meget godt med det billede, som jeg forsøgte at tegne op.
+
+30:56
+Men dette. Det er det der gøre at de komplekse tal simpelt hen er Guds gave til menneskene, fordi denne her 0,1.
+
+31:11
+Som altså er den der. Den kalder vi så fra nu af den imaginære enhed.
+
+31:31
+Den imaginære enhed, som er alle berømt i hele verden, har den sit eget navn.
+
+31:37
+Den kommer til at hedde I. Og det vil sige at det vi har liggende her på.
+
+31:51
+Disse aktier. Det her er bare almindelige reelle tal, der ligger ud her for eksempel.
+
+31:57
+Her ligger der bare tallet tre. Den er.
+
+32:04
+Der ligger her den hedder I, og det vil sige, at hvis jeg nu står her op for eksempel dér,
+
+32:09
+så er det jo 4 gang i eller igang fire, og det vil sige at det er komplekse tal.
+
+32:19
+Der ligger der. Som hedder 3,4. Det vil jeg nu kunne skrive på en ny og genial måde.
+
+32:28
+Fordi det eneste vi skal huske fra nu af, når I regner med komplekse tal.
+
+32:34
+Den eneste ting som er rigtig, rigtig vigtigt, det er det, der står dér og der står.
+
+32:43
+At hvis man tager den komplekse enhed. Og sætter i.
+
+32:50
+Så får man minusser i. Det er den eneste nye bejleri.
+
+32:58
+Den er til at huske. Multiplikation. Den kan godt sådan set gå hen og glemme fordi den er.
+
+33:06
+Dem der producerer det hele, og nu skal I bare se hvorfor.
+
+33:11
+Og jeg er nødt til. Under.
+
+33:22
+Jeg har kun en meget, meget våd. Ja, det gør jeg ikke.
+
+33:28
+Jeg skriver på det her, og så løfter det her lidt af opføre sig.
+
+33:31
+Kan jeg ikke skrive det? Det komplekse tal som jeg havde fat i her.
+
+33:42
+Gør sandheder. Sæt lige med A komme b.
+
+33:55
+Det kan jeg så skrive på denne her måde og.
+
+34:01
+Vi gøre det vi ikke. For enhver.
+
+34:08
+Og så indfører vi de ting, som vi lige har har færdige. Nemlig dem der.
+
+34:14
+Det er jo bare det reelle et tal. Så her står der af ind.
+
+34:18
+Og når man bare gange reelle tal med hinanden, så skriver man jo ikke et tallet, så det er bare af.
+
+34:25
+Så står der pludselig. Og så står der B. Og så er vi lige døde den tørhed i.
+
+34:37
+Så nu står der A+ b gang i. Denne skrivemåde er det der hedder rektangulære skrivemåde.
+
+34:48
+Eller Ræk tarn gård lær form.
+
+34:58
+Læg mærke til at det er bare en anden måde at skrive det her på.
+
+35:05
+I kan se. Hvad der er først koordinater og anden koordinat i kan se den.
+
+35:13
+Den hedder a på først og aksen. Og den hedder b på anden og aksen så dette i der står der.
+
+35:19
+Det fortæller i virkeligheden bare, hvad der er anden koordinaten.
+
+35:24
+pCt. Det tal der står og bliver ganget med livet.
+
+35:29
+Det er anden koordinaten, hvis det nu havde været en vektor. Det kalder vi imaginær delen.
+
+35:36
+Og man skriver i Z. Og det er for abbediet det er det der står.
+
+35:45
+Og bliver gange med et så et komplekst tal har en høj andel og en imaginær del, og man kan skrive det på den måde.
+
+35:57
+Og som det sidste vi gør inden vi holder en pause der nu skal I se, hvorfor denne skrivemåde er den fedeste måde at skrive komplekse tal på,
+
+36:07
+fordi hvis vi nu ligger herover og napper vores sæt et og to herover fra.
+
+36:22
+Så kan vi så gange med hinanden. Og det vi gøre det er at vi bruger den rektangulære skrivemåde.
+
+36:31
+Jeg skal selvfølgelig også sige, at det er fuldstændig ligegyldigt, om der står b gang i eller i gang.
+
+36:35
+B. Det kunne vi måske vi bare skrive sådan her.
+
+36:43
+Det er fuldstændig lige meget om man ganger bede en for den side eller den side. Og I vil lige så tit i øvelser og opgaver anvendelse.
+
+36:51
+Se den skrivemåde, som den skrev. Der er ingen forskel er med.
+
+36:55
+Hvordan godt? Nu skal vi bare se nu. Jeg udfører det magiske magiske trick.
+
+37:02
+Den nemme udgave af multiplikation. Jeg sæt et.
+
+37:07
+Den havde jo en Clowes b.
+
+37:12
+F. Gang i Hjerk. Det hænger ikke.
+
+37:20
+Det er det den må hedde A et plus b et gangen. Og.
+
+37:27
+Sæt tog den behøvede A tog blues B to gang i.
+
+37:37
+For. Nu regner det så ud.
+
+37:44
+Det eneste jeg skal huske på at det er det jeg. Den eneste nye fik, så lad os se gang der gør at jeg ser gang a to.
+
+37:55
+Det er ét af to. For Serie A et Garonne Bay to I, det vil sige Clowes A et B to gange i.
+
+38:08
+Så ser jeg B et i gang i 2. Det må vi kunne skrive som Klaus B, f a to gange i bare for at sætte lid til sidst.
+
+38:20
+Og så ser jeg, og nu kommer det sjove docerende denne gang den der.
+
+38:24
+Hvad giver det? B et gang B 2. Det giver selvfølgelig bølgegang betog, men så kommer det også til at stå igang i.
+
+38:32
+Det er sådan. Og det mener da. Jeg kan også.
+
+38:38
+Så B et i gang. B to i er minus B et B2 der kom fra.
+
+38:51
+Er I med? Der blev idiot, møder et en, og så bliver det til mine sag om, hvad jeg giver det her.
+
+38:58
+Da vi fik gang.
+
+39:00
+Først samler jeg dem som ikke har ejer, fordi det er dér jeg skal have skrevet det på denne her måde, sådan at jeg ved, hvor det ligger.
+
+39:08
+Hvis jeg skal tegne den komplekse plan, for jeg skal finde ud af,
+
+39:10
+hvad der halvdelen og hvad imaginære delen, så jeg samler dem uden ejer først, jamen, så er et af to.
+
+39:21
+Og så står der minus. B et veto og kan i alle dem uden i så savne dem med fire år ét bind to og b et a to.
+
+39:35
+Det vil sige jeg kan skrive plus, og så kunne jeg for eksempel skrive intet uden udenfor her.
+
+39:40
+Og så kunne jeg sige Hvad var det, der stod? Der står. A et.
+
+39:45
+B to Clowes. Og så står der A to B bare for.
+
+39:55
+Bytte rundt på rækkefølgen for sjov. Og hvad står der hver?
+
+40:02
+Mine damer har postet her. Dem der.
+
+40:06
+Og den der. Første koordinaten, anden koordinaten.
+
+40:12
+Det er det der står ved multiplikation. Kan I se det?
+
+40:19
+Det at få bøder for. Kan det ikke betale sig at gå og huske på denne form, fordi det er meningsløst.
+
+40:27
+Man skal bare huske, at i anden halvleg mindes en. Nu kan jeg.
+
+40:34
+Lad os holde et minuts pause og så efter pausen ved at lave et par eksempler, hvor jeg ganger nogle salve hinanden.

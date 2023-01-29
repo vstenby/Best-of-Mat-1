@@ -1,0 +1,896 @@
+0:08
+Godmorgen og velkommen til uge 10. Ja, jeg er som en rigtig nervøs, superspændende taber egne af de problemer.
+
+0:18
+Det er det, vi skal diskutere i dag og om. Jeg så ikke har sagt mange gange, at det vi lærer nu, er meget vigtigt.
+
+0:26
+Det var der også, men det her problem. Det er virkelig ligesom personligt ved at se det som højdepunktet i den her forelæsning i efterår og regnvejr.
+
+0:39
+De problemer, der dukker op i rigtig, rigtig mange ingeniør problemstillinger.
+
+0:44
+Det dukker op, når vi skal løse de fatale ligninger. Folk må dog også da i statistik, hvor de kigger på data og mange andre anvendelser.
+
+0:57
+Så det er virkelig et grundrids budskab, og det er det, vi skal se på.
+
+1:03
+Jeg vil forklare det lige om lidt, men først jeg ved, giver dagens overblik, så i første time vil jeg introducere egenværdi problemer.
+
+1:12
+Hvad er en egenværdi og være den tilhørende egenvægt?
+
+1:17
+Så vil vi se, at de egenvægt to år vi har bestemt Stief, udspænder vægt, som det hedder egne rum.
+
+1:26
+Og når vi så noget derfra, så vil vi se på hvordan hele egenværdi problemet kan formuleres på matrix form,
+
+1:36
+hvor vi kan arbejde med matricer og vektorer, og vi vil se, hvordan en matrix kan, eller hvornår den kan skrives på en meget enkel form.
+
+1:47
+Det er diagonal form, så forelæsning endda.
+
+1:51
+Den har måske lidt mere teori end ellers.
+
+1:55
+Men inden for tvivl er ikke det så det, vi ser på i de følgende uger.
+
+2:00
+Så kommer vi faktisk til at anvende egenværdi problemet, når vi skal løse første og anden ordens Stephan sag ligninger.
+
+2:09
+Og vi kommer også til at se på en speciel form af matricer.
+
+2:13
+I næste uge stiller de symmetriske matricer. Og på fredag har vi så fået teltning egenværdi problemer.
+
+2:25
+For kigger vi så også på det tilfælde, hvor vi har komplekse tal, som som kan bruges til at løse egenværdi problemer.
+
+2:35
+Det anvendes også på funktion som at simulere matricen. Men hvad er egenværdi problemet?
+
+2:42
+I det hele taget er forsøgt at nedskrive her for den her slaget.
+
+2:48
+Så det er egentlig denne her ligning, vi ser på, så f.
+
+2:52
+Det er en eller anden lineær afbildning, som er givet. Og man forsøger så at finde en løsning for den her ligning, hvor man sætter en fægtere ved EM,
+
+3:05
+og den kommer ude efter den er ganget med en værdi ved en skalar værdi.
+
+3:11
+Hvor hedder Lambda? Og venstre fansiden vægtere, som er en egentlig væk, så ved siden af forskellige folk noget som kan løse det her problem.
+
+3:23
+Hvor vi finder en tilhørende egenværdi lambda, så hedder det et par lambda,
+
+3:29
+og hvori det hedder lystigt ses det her egenværdi, problem og lampe hedder egenværdi, og V er den tilhørende egenvægt.
+
+3:40
+Så de kan se der er en. Accent på den er tilhørerne, og det kommer til at falde på plads først skal egenværdi værdien bestemmes,
+
+3:51
+og derefter kan vi finde ud af, hvad de tilhørende egen vektorer er.
+
+3:59
+Så det er så abstrakt måde at definere på det.
+
+4:03
+Men det kan faktisk godt anskueliggøres i planen eller på geometrisk facon også i rummet og højere dimensioner, hvis man vil.
+
+4:13
+Og om det så det, vi ser på her. Vi har planen.
+
+4:18
+For ikke så y aksen. Og hvor er en for af?
+
+4:23
+Og som problemstillingen er givet, er der jo er en lineær afbildning F, så vi lader denne her virke.
+
+4:31
+Så får vi af f. A. Så får vi en eller anden ny væg, så der peger i en anden retning.
+
+4:39
+Og i det her tilfælde, så kan vi godt se, at denne væg af sted kan sandsynligvis ikke være en egenvægt.
+
+4:48
+Fordi den ikke bare bliver strukket i en bestemt retning eller stålet, for det er det den her faktor varme, der ville gøre.
+
+5:00
+Men ville hvis vi lader videre, så kan vi måske finde en anden væg som indfarvede i Rød jer som havde noget.
+
+5:10
+Og det viser så, at vi afbilleder den.
+
+5:14
+Så bliver den strukket og bliver lidt længere.
+
+5:17
+Det kunne også være at skrumper med eller endda blive spejlet hen over ordrige gå ind på den anden side så længe.
+
+5:25
+V er parallel til f. V. Så kan vi tale om en egenvægt.
+
+5:34
+Så afhængigt af egen værdi bliver så egne ord strukket stue eller spejlet,
+
+5:42
+og det er en meget vigtig egenskab af egenværdi problemer man møder efter specielle regninger,
+
+5:51
+der bevarer der bevares under den lineære afbildninger man sidder på.
+
+6:02
+Og det er så det forelæsning i dag handler stort set om.
+
+6:07
+For der er nogle bemærkninger, jeg lige vil gøre, før vi skal gå videre.
+
+6:11
+For det første, så kan man jo tro, at af de problemer, som du står her,
+
+6:16
+det vil sige bestemmelsen af en egenværdi og en egenvægt, så det, der ligner lidt som at lede den nål i en høstak.
+
+6:25
+For der er så mange retninger, at hele pladen, hvor man kunne vælge tog, så vælger de retninger ultra i den her egenskab,
+
+6:34
+at de kun bliver strukket eller studeret og spiddet af denne her afbildning.
+
+6:39
+Ved faktisk. Så ser vi senere, at der ikke er så mange egenværdier med tilhørende egenvægt.
+
+6:45
+Toer. Og det er jo netop fordi de er ejet vektorer.
+
+6:50
+De definerer udvalgte vandringer i vigtige rum som stue straks eller spejlets.
+
+7:00
+Du får også lige en bemærkning, vi skal lave, og det kommer jeg til at sige en gang til senere.
+
+7:07
+Det er, at de kræver, at de er væk.
+
+7:11
+Torve, der løser et af de problemer, det skal være forskellig fra nul.
+
+7:17
+Og hvorfor er det? Hvis vi nu selv lovede, at væk, så var nulvækst.
+
+7:22
+Så vil det jo ske følgende. Vi har denne her afbildning af denne her kandidat.
+
+7:31
+Så ved vi den lineære afbildning. Og for det første så ved vi også nulvækst.
+
+7:37
+Det kunne vi også skrive som en 0 Gaga nulvækst, så.
+
+7:42
+Og fordi den linje afbildninger som rykke op, så er den at skælde ud for noget.
+
+7:49
+Så får jeg nogle gange f af nul, og det vil sige hele udtrykket, der skal være.
+
+7:55
+Det er den tid. Med noget. Samtidig så møder vi efter denne her egenvægt, hvad vi og hvis nu nulvækst som skulle være med en tilhørende egenvægt.
+
+8:10
+Jamen så betyder det, at al værdi lambda faktisk er mulig.
+
+8:18
+Og det betyder at øjen værdien er ikke vel bestemt.
+
+8:26
+Eller ikke veldefineret, så det er derfor at vi først kræver, at vi leder efter egenværdier,
+
+8:39
+for hvilke der findes en løsning, hvor egenvægt toeren er forskellig fra nul.
+
+8:48
+Det andet jeg vil sige det er den store fidus i dag, det er jo, at man godt kunne tænke sig.
+
+8:58
+At man udtrykker denne afbildning Liniger og afbildning.
+
+9:04
+Den kunne vi ikke udtrykke sig med afbildning smage Fritz. Og det gør vi også her.
+
+9:19
+Hvis vi nu forestiller os, at der fandtes en basis for vores vektorrum V, som vi kunne danne egne vektorer.
+
+9:39
+Så hvis basis eget reaktorer. Selv ved findes.
+
+9:51
+Så ved vi jo hvordan finder vi afbildningen som strides om?
+
+9:55
+Jamen. Hvis dette er sættet af egenvægt vektorer.
+
+10:06
+Så afbilleder vi dem hver for sig. Så gjorde vi, så får vi de her søjle væg til ord, som vi igen udtrykker med hensyn til vores basis.
+
+10:27
+Jamen, hvis vi gør det, så ved vi at F vil et der giver os Lampre et ganger ved et d.
+
+10:37
+Definition på vores egenvægt, så det vil vi udtrykke med hensyn til Basels ve og så videre.
+
+10:47
+Det gør vi også med de andre søjler.
+
+10:55
+Så skal vi stadigvæk udtrykte det i Basel sved, og det betyder at lapper ind, selv om der det faktisk koordinaterne her til.
+
+11:04
+Og så vil vores matrix se sådan her ud.
+
+11:08
+Det vil stå på diagonal og her. Det er det vi skal.
+
+11:16
+Der skal komme henfald. Det er ikke altid sådan, at det lykkes.
+
+11:20
+Det er kun muligt, hvis der findes. Den her basis er en vektorer, og det er dér, vi ender til sidst i forelæsning.
+
+11:30
+Bukki. Det var de bemærkninger, for er der en række eksempler.
+
+11:44
+For at illustrere egenværdi problemer. Dem vil jeg gå igen.
+
+11:49
+Hvor Tre styk. Og det første eksempel bøde for.
+
+12:00
+At vi har en afbildning fra et alrummet er en anden sag er an og afbildningen.
+
+12:10
+Det er sådan væk så som bliver afbilledet på,
+
+12:16
+for Juve er lig med to ganger ved den omvendte afbildning er defineret og kan jeg måske regne ud med det samme.
+
+12:26
+Det er sådan en lettet Mickey Mouse eksempel. Så hvad betyder det?
+
+12:33
+Hvad er egenvægt, Tore? Til hvilken med egenværdi.
+
+12:52
+Nogle bud. Ja.
+
+13:00
+Egenværdi 1. Det er. Det er her to.
+
+13:08
+Og sådan er alle ved.
+
+13:13
+I er en egenvægt toer.
+
+13:21
+Så det er sådan lidt fjollede eksempler i det jeg kalder Mickey Mouse for eksempel.
+
+13:28
+Men lad os nu lige se på det. Måske er det ikke helt så nemt, for vi siger alle ved egne vektorer.
+
+13:34
+Hvad så med nulvækst, så skal jeg måske skrive her.
+
+13:53
+Er det også vejen væk, så?
+
+14:00
+Nulvæksten er selvfølgelig ikke en egentlig vektor og løser derfor per definition ikke egenværdi problemer, som der står her.
+
+14:11
+Det har vi udelukket, fordi vi har krævet, at han fik to år, som var forskellig fra 0 løsninger til egen værdi, egenværdi, problemer.
+
+14:23
+Og det skyldes jo, at hvis I brugte det som en løsning, så ville vi ende med at vores egen værdi lambda ikke kunne bestemmes.
+
+14:34
+Vi vil ikke vide om det er to, tre eller 25 eller et eller andet andet salg.
+
+14:42
+Men nulvæksten må godt være egenvægt sig efter.
+
+14:46
+Vi har bestemt den vel definerede egenværdi. Det er tilfældet efter vi har løst egenværdi problemet.
+
+14:55
+Her har vi først bestemt regner de. Vi har fundet, at det skulle være tog efter efter.
+
+15:01
+Det er vel bestemt. Ja, dem så kan vi godt hoppe ind og se, at det også mod at opfylde ligningen.
+
+15:09
+Så kort sagt nul aldrig en løsning, så selve egenværdi problemer.
+
+15:14
+Men vi kan godt sige, at. Det er en egenvægt sig til en vel bestemt egenværdi, for i vores eksempel har vi så, at der er to.
+
+15:30
+Og. Eller valgte defineret det her.
+
+15:45
+Bog om brug er. Og så er verden lig med nul og også egenvægt så.
+
+16:01
+Var det ikke en løsning?
+
+16:10
+Selv egenværdi problem. Spørgsmål hertil.
+
+16:28
+OK. Så vil vi gå videre til et andet eksempel, som måske er lidt mindre trivielt.
+
+16:38
+Var to. Først da jeg så vores eksempel nummer to er, at vi kigger på afbildninger fra rummet.
+
+16:50
+Plagen reaktorer og vi afbilder dem rummer flere reaktorer.
+
+17:01
+Stor overraskelse, og det vi vil gøre ved sådan en plan er, at vi tager dem, og vi sparer allerede den anden hånd.
+
+17:18
+Ved en linje L. Og det er måske en god idé at lave en sketch med stof, hvor også linje L.
+
+17:36
+Så kunne vi sige, at selv vælger et udgangspunkt her for langt væk, så det bliver spejlet ved den her linje,
+
+17:46
+det vil sige hvide når herned, og den længde skal være lige med den.
+
+17:51
+Så ender vi her. Så er det vores F.
+
+18:01
+Og spørgsmålet er så hvad er egenværdier og egenvægt år til dette?
+
+18:10
+Til dette afbildning. Folk kan måske tegne sådan, men her bliver affaldet herovre.
+
+18:20
+Vi har. To forskellige egenværdier.
+
+18:40
+Og tilhørende egenvægt store.
+
+18:52
+Der var nogle bud på hvordan de kunne se ud. Ja.
+
+19:04
+Se legende nitte. Der var dømt straffe. Ja.
+
+19:09
+Du foreslår at en ikke så for få her forstår vinkel RAFs på lige linje.
+
+19:18
+Det er klart, at hvis vi tager den og scanne den ved et tog, så kunne vi afbilde den, der bliver spejlet herover.
+
+19:27
+Så får vi altså f RV to alene med minus ved to, og vi kan se, at.
+
+19:37
+Dette er et skel. Den opfylder egne problemer.
+
+19:42
+Hvis vi tager væk, så vil få den samme ud bare ganget med en konstant, og den konstant er selvfølgelig lige nu, sagde han.
+
+19:49
+Og det kunne jeg jo godt, ha! Skrev han. Større for det vi får her er F RV to lige med minus 1 gange ved to, hvor den ene.
+
+20:15
+Så det betyder, at når der er to er minus én for dig og en andens egen vægt, så den vil kalde ved et.
+
+20:27
+Og hvor Morten så ikke. Hvis jeg vælger den vej der ligger på den lige linje her.
+
+20:40
+Hvad sker der så når jeg spejler den? Ja, ingen tænkte netop for det perfekte.
+
+20:50
+Det er rykket nærmere. Eksempel ikke må se dagen.
+
+20:54
+Det er ved et. Og det er det samme som F.
+
+21:01
+Så det er ret klart, at en løsning til egenværdi problemer.
+
+21:10
+For vi får de to egenværdier plus 1 og minus 1 har.
+
+21:18
+Det vil sige. Og egenvægt.
+
+21:25
+Med ét er parallel til linje L, og i det andet tilfælde var ved to bestod rad.
+
+21:37
+På linje L. For også en ting jeg kan se ved det eksempel og det her er jo,
+
+21:50
+at det med sådan vægt vil jeg sover halvt så lang, så vil det stadigvæk være en løsning til vores egenvægt.
+
+21:58
+Så er al-mahdi problem, og det samme gælder selvfølgelig for den anden egenvægt.
+
+22:04
+Så på den ene side er egenværdi, hvad de altid vil bestemme, men hvordan man vælger egenvægt reaktorerne.
+
+22:13
+Det kan man så vælge.
+
+22:16
+Så hvis vi havde fået en vægt, der hedder en halv og noget, så kunne man lige så godt have siddet en over nul og gang med to, som man ser pænt ud.
+
+22:27
+Det er så det eksempel. Så vil vi lige kigge på et allerede brugt.
+
+22:35
+Det hedder så følgende Vi har samme situation.
+
+22:45
+Pladen reaktorer så pladen Reaktorer. Og det vi vil gøre nu det i stedet for at vi tager væk og afbillede dem på en sværvægter.
+
+23:04
+Og hvordan ser det ud? Det får spiralen væk, så det her.
+
+23:11
+Hvad er sværvægteren? Det er den der bliver vejet.
+
+23:28
+Da fem sker i positiv retning, så vil jeg gøre det.
+
+23:35
+Så vil jeg få den her sværvægter.
+
+23:44
+Så man drejet 90 grader. Findes der en egenvægt?
+
+23:49
+Så det. Som er forskellig fra nul. Hvem er for?
+
+23:57
+Ingen går også før er ingen. Det er jo klart.
+
+24:01
+Altså hvad så nu? Jeg kunne jo forestille mig ligesom med en lille film.
+
+24:05
+Der ser jeg også på i gruppe i sådan en Jabra øvelse.
+
+24:09
+Så for hvordan vækster ved Dreijer i rummet, så man scanner ligesom alle regninger, og så ser man på, hvad der sker på den afbillede.
+
+24:20
+Man ser, nu flytter den bare lille bitte.
+
+24:22
+Så får en ny væg, så der er fløde her med en lille vægt, så det bliver ved med at have en forskel på 90 grader, uanset af hvilket tv jeg vælger.
+
+24:35
+Så konklusionen er sandsynligvis.
+
+24:43
+Den løsning ser egenværdi problemer.
+
+24:58
+Men. Vi vil senere se i dag, men på findes en løsning.
+
+25:09
+Når vi udvider de komplekse tal. Så vil der være en egenværdi der svarer til vores imaginære tal i.
+
+25:27
+Så det første jeg sagde det må gælde for alle, når problemet bliver formuleret for reelle tal.
+
+25:38
+For det er. Vores konklusion i dag og har et nyt blik til fortsættelsen eller udvidelsen til komplekse tal, der kommer til at diskutere her på fredag.
+
+25:58
+Godt, så det er så det så forhåbenligt givet os en fornemmelse af, hvad egenværdi.
+
+26:05
+Problemet er, hvad der findes for løsninger, og hvordan de kan sidde i.
+
+26:09
+Men nu vil vi gerne diskutere det i mere detalje. Og det første vi vil gøre er at indføre et nyt begreb.
+
+26:21
+Det er for dem, der er heroppe. Det er bedre at egne rum, og hvis vi har en lineær afbildning F, så er egen, rummer C en given egenværdi.
+
+26:34
+Det er simpel mængden af de tilhørende egenvægt, ordet.
+
+26:37
+Det vil sige hvis og at vi har en værdi i en lampe for det mukden alle vektorer v opfylder og med i problemer.
+
+26:45
+Så den egn ved de så det er også derfor vi skriver E.
+
+26:50
+Det er øjendråber med index lambda. Det kunne stadig være lambda 1 eller larmen der.
+
+26:55
+2 sådan som vi har skrevet her i eksemplerne før, og så alle ved som opfylder den ligning med netop denne her egne værdi.
+
+27:08
+Den og det at. Det er også et underrum.
+
+27:12
+For hvad er et underrum? Det er, at det er en undermennesker til vores vektorrum rum B, og der er de to stabilitets krav, der gælder.
+
+27:22
+Det vil sige, at hvis jeg tager en eller anden egenvægt, så og en anden, er det jeg dem eller ganger dem med salt.
+
+27:29
+Det vil sige, jeg kigger på alle mulige Linnéa og kombinationer af de øjen vektorer.
+
+27:35
+Jamen, så ligger de stadigvæk i det egne rum. Det regnum.
+
+27:44
+Det må jeg så også af en dimension.
+
+27:46
+Og det er det vel forklarer her, at vi kalder eget rummer Style Mansion den geometriske multipliceret set tilhørende egenværdi lampe,
+
+27:57
+og så skriver vi altså trembling g lamper, og de er vel bestemt værdi.
+
+28:11
+Og så kommer vi til det indlære interessante om disse egne rum.
+
+28:17
+For man kan jo godt spørge sig det der ville være henne, hvis vi nu har det store værk om hvordan er det de øjner,
+
+28:24
+om ligger endeligt ved et år, og hvordan deler de det store væg rum op?
+
+28:30
+Og det er så den sætning, der siger,
+
+28:32
+at BSV et og vel to egenvægt ord tilhørende forskellige egenværdier som så må de egenværdi egne vektorer også være lineært uafhængige.
+
+28:45
+Og det har for en række konsekvenser. Vi vil se på på næste slid, så hvis vi har en lineær afbildning, så kunne der være en eller anden basis.
+
+28:57
+Den hedder A eller B eller andet. Jeg er valgt, men det allervigtigste er, at det rum har en dimension, vi kalder 1.
+
+29:08
+Og det spørgsmål ved et eller flere spørgsmål.
+
+29:12
+Vi kan jo spørge først her på denne sløjdlærere Hvor mange egne værdier findes der?
+
+29:18
+Hvor mange egenvægt to er der, men så også vil jeg nævnte før.
+
+29:22
+Hvordan deler regner våbnene, de vektorrum V og i det hele taget?
+
+29:30
+Så hvis vi nu betragter to egne rum til forskellige egenværdier, så vi vil ifølge forrige sætning,
+
+29:39
+at sætningen om at de egne rum de er underrum og især udspænder sten egne vektorer er værd at se.
+
+29:50
+Altså i egne rum f. Og 2. At de er lineært uafhængige, og det betyder at regnvand ord for ligger det ene egne om.
+
+30:00
+De kan jo så ikke udspillene andet og egne rum. Og konsekvensen af det er altså, at de to egne rum vi kigger på.
+
+30:13
+De er næsten det sjovt. Det vil sige, at fællesmængden er de to.
+
+30:19
+Det er næsten tomt. Det kan kun indholde når agtig egenvægt.
+
+30:23
+Så det at nulvækst. Og det kan jo forstås på to måder.
+
+30:30
+Hvorfor noget? Jamen, hvis nålen ikke var inde, så ville det ikke være.
+
+30:34
+Hvornår? Det er det mindste underrum, der overhovedet findes.
+
+30:38
+For du kan strække nåle. Du kan have dette noget må noget. Har du har stadigvæk nul, for det definerer at underrum på den anden side.
+
+30:48
+Så sagde vi, at når egenværdi er bestemt, så kan vi godt sige, at nogen godt må være en egenvægt,
+
+30:56
+for det er altså en løsning, så længe egenværdier er ved en bestemt.
+
+31:06
+Det korte af det lange er, at der hver ved større to egne rum, så overlapper de ikke hinanden,
+
+31:12
+bortset fra at nulvækst, som er faldet dem op, er mange egne rum.
+
+31:20
+Så kunne det jo være sådan, at de kan afdække hele vores vægt, så.
+
+31:30
+Så vi ved også hvad dimensionen var bare for repeterer begreb.
+
+31:34
+Hvis vi har et egnet rum larme der er kog, så er der den her Cairo med.
+
+31:39
+Så skal multipliceres ses. Det giver dimensionen af det egne rum.
+
+31:45
+Jamen, så bliver det egne rum spændt op af ligeså mange egenvægt som ord tilhører.
+
+31:53
+Nej, hvad de lamper. Hvis det er sandt, så mængden af Ayla egen vægt.
+
+31:59
+To ord er delt op i disjunkte underrum, så vi får en hel sekvens af dem og deres dimensioner kan vi, at det er op.
+
+32:10
+Det er det, vi gør her. Og det kan så højest blive så stort som det, hvor vi skider på, det vil sige vores definition.
+
+32:19
+Så det er også disposition from her. Den sum kan aldrig blive større.
+
+32:26
+Så vi formoder at det er højest skal være inden for forskellige egne rum.
+
+32:31
+Messi forestiller os et eksemplar solgte det mellemste egne rum dér dimension et.
+
+32:38
+Så hvis alle har en mission, så kan der højst være én egne år.
+
+32:44
+Der kan højst være inden forskellige egne værdier,
+
+32:47
+der tilhører til vores linie og afbildning i netop det tilfælde jeg lige har lavet, og hvis det så er som en egen.
+
+32:59
+Rummets dimension er store nok.
+
+33:04
+Så kan de faktisk holde udspændte himmelråbende.
+
+33:07
+Det vil sige, når vi har mulighed lighed her, og det kommer vi til at tage op i den anden time til sidste dag.
+
+33:18
+Så vi står her og har snakket om hvor anden egenvægt sover og egne rum.
+
+33:23
+De strukturere vores vektorrum, og hvordan de fortæller os egenskaber.
+
+33:31
+Vigtige egenskaber af vores dinere, afbildning jævnligt.
+
+33:36
+Jo noget hvor. Hvorfor siger det?
+
+33:38
+Det er jo lidt noget specielt ved, at der bestemte udvalgte retninger, hvor en afbildning kun strækker stuer eller spejler.
+
+33:47
+Og det er jo godt nok, men vi vil gerne bestemme hvad de egne værdier og egenvægt 2'ere er for større problemer end dem vi har set på lige før.
+
+34:00
+Og hvis vi skal det, så skal vi finde en slags algoritme for at kunne bestemme egenværdier og tilhørende egen rectum.
+
+34:09
+Og det kan vi os. For at gøre det, så kan vi bruge.
+
+34:20
+Anna omformulering er vores egenværdi problem. Det er det der står op denne her ligning.
+
+34:27
+Egenværdi, problemer og løsninger er dame, for hvilket der findes et lambda og ved forskellig fra nul larm.
+
+34:35
+Der kunne godt være noget. Og vi ved vi kan omskrive de her afbildninger til en afbildning smag af tricks, det er så det jeg gør her,
+
+34:47
+så vi skriver en afbildning smages med hensyn til denne her basis større guide,
+
+34:52
+der hedder A og skriver det hele som så kan vi også flytte højre side til venstre side,
+
+35:00
+og så får vi faktisk noget, der ligner et homogent dining system.
+
+35:06
+Hvis vi skriver det dengang gang op, så fra nu af, så klemmer jeg denne her Enix af,
+
+35:14
+fordi vi har samme bevægelse i både definitionen for dispositionen former.
+
+35:21
+Vi behøver ikke at og minder så meget om det og vil så gøre det.
+
+35:26
+Så kunne jeg jo have skrevet daten her, så lamper i gangen vægter.
+
+35:31
+Jamen, det er det samme som Lambda grunge enedes matricen Den væk så e gange ved gearet igen v.
+
+35:41
+Så nu kan vi se er, at det svarer til at linje H Morgans linje system, hvor alt der står parat, sættes ind.
+
+35:51
+Det er en matrix, og så er der en ukendt vektor V her.
+
+35:57
+Og det er det, der svarer til en egenvægt. Listen er forskellig fra når.
+
+36:05
+Og det er det der svarer til egenværdi problemer på matrix form.
+
+36:13
+Så spørgsmålet vi vil se på er selvfølgelig hvornår.
+
+36:18
+For det her Matrix' egenrådige problem at en løsning.
+
+36:23
+Og det er også noget jeg vil spørge jer hvornår. Den her ligning kan have en løsning, som er forskellig fra nul værktøjer.
+
+36:38
+Ja, den matematiske tager funktionsmæssigt.
+
+36:47
+Den skal være Cinco lære denne matrix. Det er fuldstændig rigtigt.
+
+36:52
+Hvis den ikke var sekulære, så var den regulær. Hvis den er regulær, findes der en enhvers.
+
+36:59
+Hvis der findes i Verres, så kan jeg få gavn af det her over, og så få er en Lenin, der ser sådan her ud.
+
+37:10
+F minus Lambda E og freeze ganget med 0.
+
+37:18
+Og det er den inverse her. Hvad får jeg så? Jamen med så ganger en eller anden matrix med noget fra forrige nulvækst så.
+
+37:27
+Og det er som sagt ikke en løsning til egenværdi problemer.
+
+37:32
+Det er fuldstændig korrekt. Vores Matrix serier.
+
+37:37
+Den skal være scene Guldager. Så hvornår er den Cinco lov? Når dertil normalt determinanten er nul.
+
+37:53
+Determinanten er nået, så ved at være trængende ikke er der maksimale,
+
+37:58
+så det er lige det du sagde, når den karakteristiske matrix det er det vi kalder dem.
+
+38:04
+Den er dannet som summen af f og minus lammet.
+
+38:08
+Der hvor den er scenen, så findes der løsninger til egenværdi problemer, og det svarer til at vi har fået eller fornedrende eksistens.
+
+38:18
+Betinger sig selv løsninger og er denne. Determinanten er lig med nul.
+
+38:27
+Og denne terminalt stand giver os faktisk et polynomium i Lambda.
+
+38:35
+Måske husker. Jeg tror det var i jer det var hjemmeopgaver.
+
+38:39
+2. Forårskåd i udregnet en terminalt af en matrix, som indeholdt en parameter A for fik i et polynomium i A.
+
+38:49
+Her er der en anden parameter. Eller vi kan tænke på det som parameter.
+
+38:53
+Det er en ukendt Ragnvald vin, men I får så ligeledes et polynomium i lommen her,
+
+39:00
+og det er det der hedder det karakteristiske polynomium og rødderne for det på linier.
+
+39:06
+Men det er for egne værdierne Lambert Co.
+
+39:10
+Tilhørerne egenværdi problemer. De rødder kan årsagen.
+
+39:15
+Multipliceres. Set den for algebraisk multiple site og skrives som a m, f der k.
+
+39:22
+For eksempel kunne det se sådan her ud. I regner og regner, og så finder I et flerårigt polynomium derved lige foran 4 gange 4 matrix.
+
+39:32
+Husk kun udregne til militanter på kvadratiske matricer.
+
+39:38
+Så hele egenværdi problemet er også.
+
+39:43
+Der bliver formuleret for kvadratiske matricer, og det giver egentlig også god mening.
+
+39:48
+Fyldig går tilbage for det hele jo defineret på til afbildninger og billeder af fra det ene til det samme vektorrum,
+
+39:59
+der bliver udspændt af samme basis.
+
+40:01
+Hvis du har en afbildning fra den ene til den anden basis, så må den matrix den tilhørende afbildning smertens også være en gang 1.
+
+40:12
+Og så hvis vi har udregnet dette til en fjerde gang af firmaet, så kan vi aflæse, der er en egenværdi,
+
+40:21
+hedder en dræber, har minus 1 og indeholder 3, og de har så tilhørende algebraisk multiple site to.
+
+40:28
+Denne her rod dukker to gange op, så er der to, når den er da en, og for tre er det lig med O.
+
+40:38
+Det vi så er nået frem til, er sådan set en algoritme til beregning af egne værdier og egen vektorer.
+
+40:50
+Og hvordan det foregår er at vi har givet en lineær afbildning.
+
+40:57
+Vi bestemmer, at en afbildning smadres for tilhørere, og det skal vi selvfølgelig gøre ved at vælge en basis.
+
+41:07
+Ellers kan vi ikke nedskrive den afbildning. Smager frisk, så skal vi udregne.
+
+41:15
+Eller skrive den karakteristiske matrix ned og udregne det karakteristiske polynomium der selv og bestemme rødderne giver os egen værdierne.
+
+41:27
+Og først når vi har gjort det, så skal vi bestemme løsningerne til den tilhørende ligning.
+
+41:37
+Det vil sige, det var denne her, der skal løses.
+
+41:40
+Det vil sige, vi skal bestemme kernen for dagen. Her har afdelingen, der hedder F minus Lambda gange, en ellers matricen.
+
+41:52
+Orkan så om. Er der spørgsmål, så er det.
+
+42:01
+Mig så få at vi holder en tidlig pause. Så vil vi fortsætte.
+
+42:07
+Klokken fem elleve med nogle eksempler så jeg Matrix' egenværdi, problemer og gemme ro.
+
+42:15
+Går resten af teorien og med epidemien.

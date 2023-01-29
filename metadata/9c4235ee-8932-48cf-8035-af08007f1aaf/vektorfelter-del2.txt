@@ -1,0 +1,569 @@
+0:13
+Det har formanden. V er lig med en matrix A gange en ubekendt vektor og plus en kendt vektor.
+
+0:32
+Altså hvis et vægtet felt kan skrives på denne her form, så vil vi kalde det for et første ordens vektor felt.
+
+0:41
+Lad os prøve at se et eksempel på sådan et big felt. C.
+
+0:47
+Jeg skriver nu eksempel op Jeg har v a ex company, Kommersant er lig med en anden matrix.
+
+1:00
+Det kunne være en, to, tre. To menes tre, fem år er minus 1 3 minus 2.
+
+1:13
+Og den Matrix så gange smed en ubekendt væk, så lad os kalde den.
+
+1:21
+Lad os kalde den ægge Sysette. Når vi nu er i rummet.
+
+1:28
+Og så kan vi lægge en eller anden konstant væg sig til.
+
+1:36
+Så her har vi så den på dens kanoniske form. Men vi kan selvfølgelig også skrive den ud på sædvanlig vis ved at vi først laver matrix,
+
+1:50
+så produktet her, og så lægger den konstante vægtere til bagefter.
+
+1:57
+Og så får vi altså udtrykket Dex Blues to by plus tre sæt.
+
+2:08
+Også og plus to. Det er så vigtig at feltets første koordinat and koordinaten bliver så to x minus tre y plus fem sæt.
+
+2:24
+Og plus 7. Og så tredje kortet natten bliver minus ex Kluges tre y minus to sæt og så minus en.
+
+2:45
+Og så har vi altså regne ud hvordan den ville blev skrevet på normal fåremælk.
+
+2:50
+Så det vil altså sige, hvis det var det her, vi havde skrevet op først, og vi var blevet spurgt Er det her et første ordens felt?
+
+2:59
+Så kunne vi bare have sagt ja, det er det nemlig, fordi vi kan bare skrive det op for den her form.
+
+3:06
+Og altså pointen er altså, at vi har X, Y og Z i første grad.
+
+3:13
+Eller noget begravet eller hvad det nu er. Men ikke noget med hjernen og kvadratrod og den slags ting x, y og z det lineære udtryk.
+
+3:26
+Så er det sagt. For nu at nærme mig begrebet flow kurver, så lad os prøve at se på hastigheds vektorerne for en differentiabel parameter kurver.
+
+3:50
+For det jeg vil påstå. Og det vil jeg endda gøre her hende for en værre differentiabel.
+
+4:06
+Parameter kurver. Kan I ikke finde dagens?
+
+4:23
+Dens hastigheds vektorer. Og hvad er sprog og tegne et eksempel?
+
+4:47
+Lad os sige vi her er i. X Y Z rummet, og der er givet en differentiabel kurve.
+
+4:57
+Her. I ICTY sæt rummet.
+
+5:04
+Så har jeg så en parameter fremstilling for kurven.
+
+5:14
+Og lade sige til tiden t. Er vi i det punkt, der er her.
+
+5:22
+Og så kan jeg jo tegne dens tangent, vækster eller hastede svigter.
+
+5:28
+Den vil jo netop vise hvor og hvordan tangenten ligger i det her punkt.
+
+5:38
+Så her har jeg er mærket RT.
+
+5:45
+Og I kan altså se. Er mærket E.T.
+
+5:53
+Den angiver retningen for bevægelsen.
+
+6:01
+Og længden af R er t. Det er farten.
+
+6:07
+Altså hvor hurtigt det går. Og nu har jeg jo bare så det vil altså sige sådan en hastede svigter.
+
+6:21
+Hvis jeg har parameter kuren gearet, jamen så er det jo meget nemt at finde hastede væk,
+
+6:26
+så jeg skal bare differentiere de tre koordinat funktioner, der indgår i den.
+
+6:30
+Differentiere dem efter ti. Så vil jeg have tangent vektorerne.
+
+6:35
+Nu har jeg jo bare tegnet en tangent vektor, men jeg kan jo tegne mange flere.
+
+6:43
+Det da er farten gået ned. Det er måske gået endnu mere ned.
+
+6:51
+Og så stiger den lidt igen her. Altså jeg kan tegne lige så mange vektorer som jeg overhovedet gider.
+
+7:05
+Men nu kommer den omvendte problemstilling, som er dagens problemstilling,
+
+7:11
+fordi her der havde jeg først parameter kuren, og så fandt jeg hastigheds vektorerne bagefter.
+
+7:19
+Men hvad nu hvis det er omvendt, at det jeg erkender, det er, hastede vektorerne.
+
+7:24
+Men jeg ved ikke, hvor hvor kurven den ligger.
+
+7:28
+Jeg kender ikke udtrykket for parameter kurven. Så nu kommer altså den omvendte problemstilling.
+
+7:42
+Her der kunne vi ligesom se hastigheds vektorerne er ligesom et vægtere felt, der lægger sig oven på bugen.
+
+7:49
+Men nu er det omvendt. Hvor vi spørger.
+
+7:55
+Herude vægter felt. V.
+
+8:05
+Og et punkt. X nul komma y nul komma z nul.
+
+8:16
+Og problemet er kan vi finde parameter kurve.
+
+8:29
+Skal vi kalde den er rt. Således.
+
+8:42
+At bevægelsen ellers pumpede til tiden nålen er lig med det givne punkt.
+
+8:58
+Og at vægt topfeltet eller vi kan sige at hastigheds vektoren er lig med vægt topfeltet taget på kurven.
+
+9:16
+Det er det problem vi skal studere nu væk fra feltet og gide der givet punkt,
+
+9:22
+kan vi finde en kurve der går igennem punktet, og hvor de vektorer den støder ind i hele tiden er dens hastighed vektorer.
+
+9:36
+Og der har jeg bare lige for at yderligere antyde selve grundproblemet, har jeg en lille illustration med her.
+
+10:02
+Erkender i det program her. Vi arbejdede med det i efteråret. Det er gio meter.
+
+10:06
+Det er et ganske udmærket program. Jeg håber vi får råd til at opgradere til det der hedder dommersædet skidtspand 5 0.
+
+10:14
+Det er dér fire mænd 15 er endnu bedre, når man ikke kan se.
+
+10:19
+Vi har her tegnet et vægter felt ud fra sådan et gritt, og så siger vi så.
+
+10:30
+Hvis vi lægger startpunktet dér. Og så de vektorer der ligger her.
+
+10:36
+Det er hele tiden skal være tangent vektorer til bevægelsen, altså hastighed sektorer pinsebevægelsen.
+
+10:43
+Hvordan vil sådan en kurve se ud? Og det problem er løst i diameter ved hjælp af egenværdier og så videre.
+
+10:53
+Og I kan se op øverst til venstre. Det er altså et første ordens lineær første ordens væg felt vi har arbejdet med.
+
+11:01
+Altså bare her i planen. Og I kan se her har vi tiden.
+
+11:07
+Og når tiden går i nul, så skal vi altså gerne ramme startpunktet.
+
+11:13
+Men på en sådan måde at vektorerne er hastigheds vektorer, og nu kan vi bare stille og roligt.
+
+11:20
+Manuelt hvad tiden går. Og det kan jeg se her til noget der passer dem som ønsket.
+
+11:30
+Startpunkt, død og min begynder at gå hurtigere og hurtigere, og I kan altså se den lægger sig smukt ind til de vektorer, der er givet her.
+
+11:38
+Så her har vi så løst flow kurver problemet.
+
+11:45
+Hvad nu hvis startpunktet havde ligget et andet sted?
+
+11:51
+Se havde det nu ligget. Altså havde det for eksempel ligget her i stedet for.
+
+12:00
+Vi hiver lige tiden tilbage. Sletter de tidligere spor.
+
+12:10
+Og så kigger vi så på her. Vi lader tiden gå, og vi kan altså se her.
+
+12:16
+Til tiden nul. Går den igennem startpunktet, så skal den jo dreje for at de er væk 2'er.
+
+12:24
+De er hestes vektorer. Så det her er altså problemstillingen i en nøddeskal.
+
+12:31
+Punkt død og hastede vektorerne Find kuren!
+
+12:45
+Og det skal vi se et par eksempler på nu.
+
+13:10
+Og vi har altså eksemplet her. Vi har givet væk, så følge bede ved x formerly kommando sæt.
+
+13:25
+Som er ex komma to y komma tre sæt.
+
+13:33
+Og punkt det. X nul komma nul komma Z0 er lig med 1 komma in command.
+
+13:50
+Og den opgave vi stiller os, det er. 5.
+
+13:57
+Den lave kurvede. Er RT som opfylder.
+
+14:17
+At R er nul er lig med nul komma nul komma sæt nul som eksempel.
+
+14:26
+Her var lige med en komma in kommer ind som skal vi se.
+
+14:34
+Hvad der kommer ud af det her. Det jeg har sagt det er.
+
+14:46
+At det der i hvert fald skal gælde. Det er at hastigheds vektoren er at se.
+
+14:58
+Den skal være lig med vægt topfeltet udregnet på kurven i det punkt, altså v, a er rt.
+
+15:10
+Det vil sige. At det vi altså skal løse er, at hvis jeg differentierer hver parameter coons tre koordinat funktioner,
+
+15:26
+så får jeg ex mærket af T, vi mærke T og Z mærke at se.
+
+15:35
+Det skal altså være lige med vægtere felt død, som vi har her taget på kurven.
+
+15:44
+Og det vil jeg sige. Det skal altså være lig med ekstra ting.
+
+15:51
+To byer ti. Og tre sætter til.
+
+16:09
+Han. Så et flow kurver problem er lige pludselig havnet i et differentialligningen problem.
+
+16:21
+For nu skal jeg jo have fundet en funktion ex, hvorom der gælder at den differentierede er lig med sig selv.
+
+16:33
+Og være. Hvad er det så for funktioner der opfylder det?
+
+16:38
+Hvad siger du? 66 personer? Ja.
+
+16:43
+Er der en, er der mange. Hvad står der i eksponenten? Der er folk der står i objektivitet.
+
+16:50
+Ja, så er det den eneste. Den er fuldstændig korrekt. Det vil sige at er ting er lig med.
+
+17:08
+Og så er der ganske glimrende blevet foreslået den funktion her.
+
+17:15
+Men det er jo kun et eksempel. Og hvad kan vi nemlig gøre her?
+
+17:22
+Hvad siger du? Yes! Så altså en løsning på den første differentialligning.
+
+17:30
+Det er en vilkårlig konstant gange ind i IT en løsning på den anden.
+
+17:36
+Differentiabel er også en konstant, men en i to ting på grund af de to tal her.
+
+17:43
+Og endelig tredje koordinaten. Det er set tre gange i tre t.
+
+17:51
+På grund af det tre tal, der står der. Og hermed har jeg så fundet den fuldstændige løsning.
+
+18:09
+Men det er jeg interesseret i. Det er jo en ganske bestemt, nemlig den som har det her som begyndelse betingelser.
+
+18:23
+Så der skal også gælde.
+
+18:35
+At A er er nul. Så er vi jo så få her hende fra det er at se et Grand E i nul.
+
+18:49
+Bliver du så set to gange? Ikke i nul, fordi T jo er nul.
+
+18:55
+Og endelig set tre gange. I nul. Og de.
+
+19:03
+De bliver jo til en allesammen, så vi får altså her se en c2.
+
+19:09
+C3 er er nul.
+
+19:13
+Den skal være en komma, en kommer ind, og så ser vi altså, at hver af de konstanter.
+
+19:21
+Det skal altså være tallet et, hvis det skal være den præcise flow kode,
+
+19:27
+som går igennem det her punkt, og nu kan jeg så opskrive resultatet den ønskede flowerpower.
+
+19:43
+Er er at te er lig med.
+
+19:48
+Vi tager bare den her op, sætter alle konstant Bonnevie med ind,
+
+19:54
+og så har I her resultatet eksponentiel funktion, hvor vi har te to te henholdsvis tre te i eksponenten.
+
+20:09
+Og vi har altså fundet. Flugtruten.
+
+20:16
+Det. Det gik jo ganske nemt, og nu tager vi så dagens sidste eksempel.
+
+20:59
+Den. Og her har vi.
+
+21:08
+Og det er et eksempel fra planen. Og vi siger.
+
+21:18
+Gear ved begge topfeltet er faa x komma y er lig med minus y komma ex.
+
+21:35
+Så er det vi sidder altså lige præcis det væk så fælt, som vi tegnede her før pausen, og vi er altså interesserede i at finde flow, kurver og grunden.
+
+21:49
+Formlen er ligesom før det vi tager udgangspunkt er.
+
+21:57
+Der skal gælde. At.
+
+22:08
+Hastighed svigter om for parameter kurven, som er de to koordinat funktioner differentierede.
+
+22:23
+De skal være lig med sværvægteren taget på det sted.
+
+22:33
+Altså aminosyrer t over x er ting.
+
+22:43
+Her der røg vi ind i noget typisk. Fordi nu er der opstået to differentialligninger, men de er koblede, fordi I kan se x mærke.
+
+22:59
+Altså differentiation når først grundvand det angår natten. Definition er ankommet natten.
+
+23:03
+Det er første koordinat, men så er det ved siden.
+
+23:07
+Det er det, vi i efteråret kaldte for et koblede lignende differentialligningen system.
+
+23:14
+Og. Så vil det altså sige vi skal have løst det her differentialligning system og få og komme lidt hurtigt i gang.
+
+23:27
+Så vil jeg tillade mig at løse det her differentialligning system ved hjælp af Mabel.
+
+24:01
+Kort sagt. Der har vi altså de to koblede differentialligninger.
+
+24:09
+Det eks Nima aminosyrer det y lige med x faktor.
+
+24:15
+Og så den hurtige måde at gøre det på det jeg så bruge kommandoen bi soul.
+
+24:21
+Hvor vi ved hjælp af disse to krøllede parenteser har opskrevet en liste, det vil sige de to de skal løse samtidigt med hensyn til produktionerne.
+
+24:32
+Ekstra T og y og t. Og der kan jeg altså se Mabel har fundet.
+
+24:51
+Den fuldstændige løsning til os, da indgår to arbitrære konstanter, og det er fordi vi ikke har valgt os til en begyndelse.
+
+25:00
+Betingelse endnu. Men her kan vi jo så også bruge din søjle med en begyndelse som betingelse, fordi vi gerne vil se en.
+
+25:11
+Ligesom før. Jeg har glædet sig til tiden, noget der skal ekspert ind, og Y skal også være i.
+
+25:17
+Så har jeg altså valgt en ganske bestemt begyndelse betingelser, så nu er der fire ligninger fire ligninger som Mabel skal løse i ét hug.
+
+25:33
+Og så får vi altså det resultat ud her.
+
+25:37
+Første grundlag funktionen mine Sinais på skolens anden.
+
+25:40
+Det er så cosinus plus sinus til. Som i knockouts vi får at se i det kommende forløb sommeren over, og somme tider vil man gerne finde en løsning.
+
+25:59
+En flad kurve uden det præcist er sagt, hvad det er for en begyndelse.
+
+26:04
+Betingelse er, at man vil sætte ind. Så har man endelig løst flowerpower problemet én gang for alle, og det gør jeg.
+
+26:13
+Så vil jeg sige begyndelsen betingelsen. Den skal være et tal, som jeg kender x0 og den anden begyndelse.
+
+26:21
+Betinget skal også bare være et tal. Jeg behøver ikke at vide præcis, om det er et dengang, eller hvad det er.
+
+26:27
+Og nu vil jeg så løse denne her ligning. Ved hjælp af disse folk.
+
+26:34
+Og ser hvordan. Mabel så reagerer på det, og der får vi her den første kort er i funktion, og her den anden går.
+
+26:45
+Den er i funktion. Vi har så fundet flow kuren, og var vi så bare hen af vejen, kan vælge det x0 og det yde nul, som vi nu ønsker os.
+
+26:55
+Og måske også bruge det mere generelt. Det vi I får set eksempler på hen ad vejen når.
+
+27:05
+Nu vil jeg lige kigge lidt mere på den løsning vi fandt her.
+
+27:21
+Hvoraf begynde sidste betingelse. Er at R er nøglen.
+
+27:33
+Den skal være en kommaet, og der har vi så fundet er at te.
+
+27:44
+Den er så minus sinus til t plus cosinus til t.
+
+27:51
+Det var først på natten og anden koordinaten det var posens t plus sinus til t.
+
+28:04
+Så den der. Og så siger vi tak for hjælpen til Mabel.
+
+28:11
+Og. Vender vi tilbage til det her?
+
+28:17
+Lige om lidt. Så nu er jeg jo på Ishøj. Og Ishøj var jo fantastisk, det skal man have.
+
+28:23
+Det har man jo tit brug for. Men jeg går selvfølgelig ud fra, at I også er interesserede i selv at regne det ud.
+
+28:31
+Og der må jo lige huske, hvordan er det lige, man finder løsninger på koblede differentialligninger?
+
+28:40
+Jamen, det er jo noget med, at vi er nødt til at gå ind og kigge på den matrix her,
+
+28:45
+finde øjen værdierne egen vektorerne og så får stillet den fuldstændige løsning op.
+
+28:51
+Så det er altså egenværdi er problemet, som vi har camoufleret, kamuflerede lidt her ved hjælp af Mikkel.
+
+28:57
+Men det håber I også på at øve jer lidt på i dag. Min sidste pointe, det er sådan set bare, at jeg ser lige på.
+
+29:13
+Jeg ser lige på længden af stadigvæk tårne for den bevægelse, som vi har fundet her.
+
+29:27
+Du og længden af vektoren her. Det er jo kvadratroden af første koordinaten i anden plus anden koordinaten i anden, så her får vi altså sinus.
+
+29:44
+Hjernen blev skåret Snows i hjernen minus to sim kort.
+
+29:53
+Der var kvadratet på første led. Og så tager vi kvadratet på anlæget.
+
+30:00
+Det er cosinus i hjernen plus sinus i hjernen.
+
+30:06
+Også er plus det dobbelte produkt 2. Cosinus gange sinus.
+
+30:16
+Og ser at de to dobbelte produkter de ophæver hinanden, så vi har to Kuznets i hjernen plus to sinus hjernen.
+
+30:27
+Og bruger vi idiot formlen på det? Jamen, så har vi jo simpelt hen.
+
+30:34
+At det er lig med kvadratroden af 2.
+
+30:40
+Så jeg til sidst badevægt Tårnet har hele tiden.
+
+30:47
+Længden foredraget Røde To. Så det vi altså har været ude efter hende.
+
+30:57
+Det er altså med det her begyndelse SFO. For det var jo en kommer ind, det var det vi har løst.
+
+31:11
+Der har vi altså fundet denne her flow kurve, og der kan vi altså se.
+
+31:17
+Det her betyder lige præcis, at bevægelsen har radios kvadratrod.
+
+31:24
+2. Så nu kan jeg altså trygt gå ind og tegne flodpram, som jeg tegner her.
+
+31:42
+Så flov koen er bare simpelt hen en cirkel eller beskriver en cirkel.
+
+32:01
+Med centrum i 0,0 og radius lig med kvadratrod 2.
+
+32:15
+Og bevægelsen er simpelt hen bare den kører rundt i den cirkel.
+
+32:19
+Her er det den Flaubert, der svarer til dette tvær vægtere felt.
+
+32:27
+Jeg håber I får flere og mere interessante eksempler i øvelserne.
+
+32:32
+God fornøjelse og tak for nu.

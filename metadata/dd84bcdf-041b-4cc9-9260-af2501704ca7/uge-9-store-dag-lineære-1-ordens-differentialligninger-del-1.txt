@@ -1,0 +1,1241 @@
+0:01
+Det vil jeg gå morgen og i dag. Da tager vi lige et break, fordi dag skal vi se sådan et eksempel på, hvad man kan bruge lineær algebra til,
+
+0:12
+specielt på sådan noget af dem, vi kalder for uendelig dimensionale vektorrum.
+
+0:17
+Det handler nemlig om differentialligninger,
+
+0:22
+og det kender I jo heldigvis en hel masse til og specielt nogle første ordens differentialligninger, som vi skal arbejde med i dag.
+
+0:30
+Så et herligt program, så derfor har jeg taget en kop kaffe med her i dag, og før jeg når frem igen.
+
+0:39
+Jeg drikker den hurtigt, for jeg kan nemlig rigtig godt lide varm kaffe, og jeg hader kold kaffe.
+
+0:49
+Og undskyld. Jeg kan ikke huske, hvad det er, jeg har lagt mærke til.
+
+0:53
+Det er altså, har man sådan en dejlig kop varm kaffe, så varer det ikke ret lang tid, før den ligesom bliver lunken.
+
+1:02
+Og så står den sådan, og sådan så den halve arm i lang tid, før den sådan en fætter ud.
+
+1:08
+Så kan jeg klare den lidt galning, så jeg enten drikker den med det samme.
+
+1:12
+Eller også er jeg nødt til at vente et stykke tid.
+
+1:14
+Så hvis vi skal prøve at ligesom at redegøre for, hvad det er, der er sket i Hjørring, så tegner vi her et koordinatsystem, og her har vi tiden.
+
+1:29
+Og her har vi så ikke så te som temperaturen.
+
+1:37
+Og så hvis vi siger, at kaffen den var hundrede grader, da jeg kom ind i auditoriet.
+
+1:45
+Og hvis vi lige siger, at her er varmen i auditoriet, hvis den er, skal vi sige, den er 20.
+
+1:56
+Så vil jeg altså hævde altså ud fra min personlige erfaring,
+
+2:00
+at så hastigheden er der det valgflæsk sige temperaturen, den den selv om meget i starten.
+
+2:09
+Og selvfølgelig bliver den lunkne, og så sidder den lidt ud, og så begynder den at blive drikkelige igen.
+
+2:19
+Så noget i den stil ser kurven ud. Og altså hvad er det så ligesom der karakteriserer det her?
+
+2:28
+Det er altså, at i starten, der har vi en meget stejl hældning.
+
+2:34
+Se hvis jeg tegner tangenten her. Også den er meget stejl og her lidt mindre stejl.
+
+2:42
+Og så til sidst, så fedter jeg simpelthen ud. Og så.
+
+2:47
+Så det jeg bemærker er, at hvis vi her og har, hvis vi siger her, har vi den aktuelle temperatur og kaffens temperatur, som vi kalder ikke så.
+
+2:58
+Så er det altså sådan, at hvis afstanden her, hvis den er meget stor.
+
+3:05
+Så er hældningen også stor, men jo længere vi kommer hen, jo mindre afstanden bliver, jo mere fedt den ud.
+
+3:13
+Så det handler altså om hende. Skulle patienten? Og ja, det jeg så vil hævde, det er, at hældning skulle patienten.
+
+3:23
+Den er proportional med forskellen imellem ekstra te og auditoriet temperatur, så det kunne vi skrive sådan her.
+
+3:32
+Hennings koefficienten denne er en konstant gange forskellen på den aktuelle temperatur og så auditoriet og temperatur.
+
+3:44
+Sådan er. Og dette er der så en konstant som jeg kalder for kaffe konstanten.
+
+3:55
+Og det er jo en fysisk konstant, der afhænger af kaffens varme kapacitet, hvad det er for en kop, jeg nu har taget med i dag.
+
+4:04
+Hvor meget vin der er i auditoriet, så vi får frisk vin ind derfra.
+
+4:09
+Det giver jo selvfølgelig også lidt til dette og ikke så altså kog.
+
+4:13
+Det er en konstant. Og lad os ikke gøre det for svært.
+
+4:20
+Det kan vi bare sige, at den er minussiden. Vi skal huske helligste koefficienten her.
+
+4:25
+Den er jo negativ, så vi sætter så kog lige med minus 1, og så får vi her.
+
+4:33
+Så får vi ex mærke RT. Den er minus.
+
+4:38
+Så det vil sige, jeg flytter. Den kan flytte det over på venstresiden, så er den positiv.
+
+4:46
+Også dette minus 20. Bliver så til plus 20 og se.
+
+4:52
+Så har jeg her opnået en første ordens lineær differentialligning,
+
+4:56
+og dette kalder man for en matematisk model, at er den problemstilling vi har analyseret her i dag.
+
+5:04
+Der er da en særlig Mabel demo til jer, hvor I skal modellere,
+
+5:09
+altså lave en matematisk model af sådan en tønde, og det er en vandig opløsning med salt.
+
+5:17
+Vi hælder noget vand ind i den. Der kommer noget afløb. Hvordan udvikler saltkoncentration sig til tidens te arbejde med den?
+
+5:27
+Og så vil vi nok se, tror jeg, at der opstår en første ordens lineær differentialligning, som vi så skal undersøge og det her.
+
+5:35
+Det er noget, der sker hele tiden i alle videnskaber.
+
+5:40
+Fysik, samfundsteori, psykologi alle mulige steder, hvor man undersøger et problem, og man vil gerne her.
+
+5:49
+Der vil jeg gerne vide. Altså hvad er kaffens temperatur? Hvordan udvikler dem sig?
+
+5:54
+Det spørgsmål har jeg stillet mig selv. Der kommer en matematisk model.
+
+5:58
+Min første ordens differentialligning.
+
+5:59
+Hvis jeg kunne løse den, så ved jeg præcis, hvordan kaffens temperatur den udvikler sig i løbet af de første 20 minutter,
+
+6:07
+for eksempel building så matematiske modeller.
+
+6:13
+Det er Ingeniørens vigtigste redskab inden for matematik i hvert fald.
+
+6:19
+Så derfor er det vigtigt, at vi får studerede det her og se til en første ordens.
+
+6:32
+Nu tager vi det så let. Altså helt generelt. Altså en første ordens lineær differentialligningen.
+
+6:44
+Den har formen og den hedder ex mærke RT.
+
+6:55
+Plus P er ti gange med exciting lig med pubertet og tre, så det er sådan nogle af den type, vi har arbejdet med.
+
+7:11
+Nej, hvor I kan se, at vi har en funktion, der hedder P og Q, hvor S og P og Q er kendt kontinuert af funktioner.
+
+7:39
+Og over ikke sig til.
+
+7:47
+Det er den ukendte funktion vi gerne vil finde. Og okay, så siger vi hvis hvis Cure, the altså højresiden her, hvis den er lig med nul funktionen.
+
+8:16
+Så er ligningen homo gen. Og så selvfølgelig ellers kalder vi den for en homogen.
+
+8:34
+Så er vores set up i dag fredag.
+
+8:42
+C. Hvorfor kalder man sådan nogle for Line?
+
+8:47
+Det skal vi lige have afklaret. Og ja, så skal vi kigge på en lille afbildning af.
+
+9:03
+Vi siger en afbytning f.
+
+9:10
+Af mængden af differentiable funktioner over her og ind i mængden af kontinuerte funktioner.
+
+9:22
+Er givet ved at hvis I tager F er en funktion.
+
+9:37
+Så skal det være lige med den funktion differentieret plus en kendt kontinuert funktion som vi kalder piatti og så gange med den ukendte funktion.
+
+10:03
+Sådan at. Så I kan se det passer lige præcis med venstresiden,
+
+10:13
+at denne her normal formen for en første ordens differentialligning og I kan se input i sådan en lille afbildning, er altså en funktion.
+
+10:25
+Det har jeg set nogle eksempler på. Mest polynomier. Men nu kigger vi helt generelt på differentiable funktioner.
+
+10:31
+Den skal altså differentieres, og så skal den ganges med en funktion. P.
+
+10:35
+Så har vi billedet. Og så siger vi den er lineær og.
+
+10:48
+For de nu undersøger vi så el et af de tager f er to funktioner.
+
+10:59
+Summen af to funktioner, nemlig except plus x2 rigtig.
+
+11:08
+Leg med og nu skal vi så bruge forskriften her.
+
+11:15
+Se, det er jo en sum som vi så skal have differentieret.
+
+11:19
+Der står så x et RT plus X2 årti som er differentieret.
+
+11:30
+Og så skal vi så sige plus. Og så har vi PRT.
+
+11:35
+Det var den dør, der skal ganges med funktioner, som er summen funktionen.
+
+11:43
+Så her er der kommet til at stå. Exit RT plus X2 af.
+
+11:50
+Søndag. Går vi fortsætter lige her.
+
+11:56
+Som sædvanlig når vi de forcerer en sum, så er det jo differentialkvotienten af venner af dem, så derfor må vi altså ikke set mærkelige ting.
+
+12:07
+Kluges ex to mærke er T. Plus og her mangler vi p funktionen vendt på exit og på X2.
+
+12:18
+Så får vi p t af ekstra ting og +.
+
+12:25
+P er ti gange med ægsortering lige med.
+
+12:37
+Og nu kan vi jo så samle det derned og det dernede, og så kan vi se.
+
+12:44
+Det svarer jo bare til, at vi har taget et af kun exit til.
+
+12:54
+Og så tilsvarende med X2 mærket.
+
+12:59
+Her plus ti gange X2. Og den er jo så f x2, rt.
+
+13:08
+Og hermed har vi altså vist at l et den første delara tids betingelser den er opfyldt.
+
+13:15
+Vi skal have o.k. Og så skriver vi 1 2.
+
+13:24
+Nu skal vi have F af en vilkårlig funktion, et vilkårligt tal K og en vilkårlig funktion ikke så tit.
+
+13:37
+Vi skal bruge opskriften her igen, og det vil sige det indmaden.
+
+13:42
+Vi skal have differentieret kog gange ekser 10.
+
+13:47
+Der skal differentieres, og så skal vi sige vores p funktion skal ganges med den nye funktion, som hedder kog.
+
+13:57
+Ikke sig til, og vi differentierer en konstant gange med en funktion, bibeholde konstanten og differentiere funktionen.
+
+14:09
+Så nu har vi altså kog gange x mærke og 10 plus.
+
+14:16
+Så har vi PRT. Og ja, så kan vi jo.
+
+14:25
+CT Bars Jeg kan altså sætte den konstant ud foran.
+
+14:30
+Så har vi altså kog gange nede ex.
+
+14:37
+At se. For så kan vi sige kog.
+
+14:44
+Altså nu har vi den dér faktor K i begge led.
+
+14:48
+Den kan vi så sætte uden for en fart. Så har vi et mærke rt.
+
+14:52
+Plus P er ti gange med exciting.
+
+14:58
+Og det er jo så konstanten. Og det her er jo bare så et af exciting.
+
+15:10
+Og dermed har vi vist L2. Og så har vi altså det her herlige resultat at den venstre side af differentialligningen.
+
+15:20
+Denne er altså lineær, når vi opfatter dem som en lineær afbildning, og det som er det rigtig fede ved det her.
+
+15:28
+Det er så, at nu ved vi, at denne differentialligning.
+
+15:34
+Den opfylder structures sætningen, der gælder for alle lineære afvisninger.
+
+15:39
+I kan f.eks. Huske den fra dengang vi havde lineær lignende systemer, så gælder struktur sætningen.
+
+15:51
+Og. Og.
+
+16:03
+Og den siger at løsningen smag for den ene homogene ligning.
+
+16:14
+Er lig med en særlig løsning. X0 t plus l har altså løsnings mængden til den homogene ligning, der udgør dets struktur sætningen.
+
+16:31
+Den har vi altså rigtig meget glæde af i dag, og også senere på kurset har vi arbejdet med differentialligninger og så her hvor x0 er 10.
+
+16:47
+Det er det, man kalder en partikulære løsning. Og.
+
+17:03
+Elham og. Det er jo det samme som kernen for et.
+
+17:17
+Så vi har altså nu. Betragtet hvis.
+
+17:26
+En væg til rums afbildning og vores første rum.
+
+17:32
+Det er de det, de differentiable funktioner, det andet rum.
+
+17:36
+Det er de kontinuerte funktioner der. For vi har altså kigget på en lineær afbildning af.
+
+17:50
+Og hvis vi har en inhuman vending, så vil det sige, at vi har en ko funktion på højresiden, og den findes altså herover et eller andet sted.
+
+18:04
+Og vi skal altså finde ud af hvad er løsningerne til, at vi har denne her højreside, og der har vi os set.
+
+18:13
+Hvis bare vi har. Altså hvis bare vi har en x0.
+
+18:21
+Som kører over i den et specifik løsning som vi har fundet i en eller anden grund x0 til.
+
+18:31
+Så kan vi bare lægge hele kernen til, altså hele Elham som.
+
+18:45
+Så når vi tager den og lægger sammen med alle dem der, så får vi hele tiden det samme resultat,
+
+18:51
+nemlig cool ting og lad os lige få gjort kaffe eksemplets færdigt på sigt.
+
+19:04
+Vi var nået frem til denne her matematisk Model X mærke at 10 plus ekstra ting at den er lig med 20.
+
+19:18
+For det første vi så gør det her, kan vi få fat i en partikulære løsning, altså en særlig løsning.
+
+19:30
+Altså i første omgang der finder man den fuldstændige løsning ikke, og bagefter ingen indsætter man en begyndelse betingelse for at se.
+
+19:39
+Nu prøver jeg så se. Den her krop.
+
+19:48
+CBS, der nu var 20 grader da jeg kom ind, så vil den blive ved med at være 20 grader.
+
+19:52
+Jeg tror, at tyve. Det er en partikulære løsning. X0 til Lima tyve er en partikulære løsning.
+
+20:16
+Og skal vi se om det er rigtigt at den er en løsning på CBS, tager tyve og indsætter de francium tyve.
+
+20:24
+Den går i nul. Dette er bare funktionen, så der kommer til at stå tyve.
+
+20:30
+Så står der altså nul plus 20 21. Vi har fundet en partikulære løsning.
+
+20:37
+Så nu skal vi bare have fundet kernen. Det vil sige altså Elham.
+
+20:50
+Vi finder så Elham eller kernen om vi vil det betyder i dette tilfælde det samme,
+
+20:57
+og den finder vi jo ved at sige at ex er 10 plus exciting skal være lig med nul funktionen.
+
+21:12
+Vi nedre lige eksisterer over på den anden side, så står der minus ekstra ting.
+
+21:26
+Og nu skal vi så lige have løst den her.
+
+21:30
+Da vi skal have fundet alle de funktioner som differentieret ikke er lig med sig selv, men er lig med minus sig selv de.
+
+21:44
+Hvis jeg nu havde spurgt de funktioner, hvor man de folk siger dem, at de er enige med sig selv, hvad er det for nogle?
+
+21:52
+Skyr fik i opløftet tst det eksponentielt funktionen under, så kan du måske også sige hvad så hvis der står et nytårsforsæt?
+
+22:00
+Hvad er det så? Bliver vi opløftet til mindesten?
+
+22:03
+Mange tak. Og så skal vi altså for at have dem alle sammen med.
+
+22:10
+Så skal vi har gange dem med en konstant og så som der blev sagt i opløftet til minus 10.
+
+22:18
+Dette er Elham da uendelig mange løsninger for den differentialligning så tre.
+
+22:28
+Nu kan vi så finde den fuldstændige løsning til den enorme marginale ligning her.
+
+22:33
+Fordi nu har vi så 11 indhop i ifølge struktur sætninger.
+
+22:41
+Så er den den partikulære løsning vi har fundet. Den her type, og så skal vi have plus og så en hånd som var C gange en i minus 10 at se.
+
+23:00
+Det kan altså være en fuldstændig vilkårlig kontant.
+
+23:06
+Så nu har vi altså ved hjælp af struktur sætningen Der har vi løst denne her differentialligning.
+
+23:13
+Det vil sige, at vi har fundet alle løsningerne, men de har jo en begyndelse betingelse.
+
+23:28
+Og det var jo at da jeg kom ind og. Og der udbrød da jeg kom ind.
+
+23:38
+Der var 100 grader. Det er den ikke mere. Det kan jeg godt sige. Så vi har altså, at da vi startede her, der, var den 100 grader.
+
+23:49
+Så nu prøver jeg så at indsætte nål i differentialligningen her. Så står der eks.
+
+23:54
+At 0 er lig med tyve loose se, og når jeg indsætter tillige mad nul her, så bliver den det bare til et tallet ét.
+
+24:09
+Så derfor skal jeg kun have set på. Her er jeg næppe den.
+
+24:14
+Her får I et nul i opløftet til nul den giver én.
+
+24:17
+Og så har vi altså +1. Og det skulle være lig med hundred grader.
+
+24:26
+Og så får vi altså her at skal se hvad lige med 80.
+
+24:33
+Og nu har jeg så fundet den betingede løsning. Og den hedder så at kaffens temperatur den er tyve plus 80 gange med en minus t.
+
+24:56
+Sådan. Det var min min intro, og nu skal vi så kigge på de næste punkter på dagsordenen,
+
+25:14
+fordi nu kigger vi lidt mere generelt på den homogene, den homogene ligning for de første ordens differentialligninger.
+
+25:23
+Og så bagefter skal vi kigge på en rum Morgans ligninger, altså den første type, vi arbejder med.
+
+25:31
+Det er en løsning, vi hjælper struktur sætningen det er os lige, som jeg har gjort her i mit indledende eksempel.
+
+25:38
+Og så bagefter skal vi have indført det, der hedder panser formlen, hvor man ved hjælp af en stærk,
+
+25:44
+men tung sætning altså kan få løst differentialligningen på én gang.
+
+25:50
+Så det er altså ligesom dagsordenen for det, vi skal lave nu, og vi starter med den homogene ligning altså helt generelt.
+
+26:15
+Prøv at se. Se, vi kan godt skrive sætningen op med det samme.
+
+26:28
+Altså ligningerne. Og nu har vi så ex mærke at the clouds pi er ti gange med æg, så T er lig med nul.
+
+26:52
+Så nu kigger vi altså på på det generelt her set.
+
+26:56
+Hvis de går over og kigger igen på det her nemme, indledende eksempel her.
+
+27:01
+Da kunne vi se den funktion, der hedder P. Det er bare konstant funktionen der hedder Peer tillige med en om en q funktion q af 10.
+
+27:14
+Den var også konstant er nemlig konstant 25. Så derfor var det indledende eksempel.
+
+27:19
+Det var lidt nemt, men nu kigger vi da så generelt, når vi nu har en kontinuert funktion, der hedder flere ting.
+
+27:26
+Se, den har den fuldstændige løsning. Sådan her.
+
+27:38
+Den fuldstændige løsning denne her ikke så til at lima en vilkårlig konstant c gange eksponentielle funktioner.
+
+27:48
+Opløftet til noget der hedder minus store pr ting.
+
+27:56
+Og hvor den store PRT. Kære en vilkårlig stamme funktion.
+
+28:10
+Til Lille. Så der har jeg altså den fuldstændige løsning her, og lad os lige prøve at bevise den sætning.
+
+28:44
+Frådse.
+
+28:44
+De starter med det vi har opskrevet som løsningen her, så vi skriver altså ikke så ti lig med en vilkårlig konstant gange e i minus store p og T.
+
+29:03
+Se hvis det er sandt. Så kan vi så opskriver her eks.
+
+29:11
+Mærke at the Sluges High er ti gange med exciting.
+
+29:22
+Det er lig med.
+
+29:26
+Og jeg kan se hvad jeg se ser altså jeg er ved at indsætte det jeg har påstået, der er løsningen her for at indsætte i denne her ligning her.
+
+29:35
+Og så skulle det meget gerne give lige med nul. Så har vi gennemført beviset.
+
+29:42
+Så det har jeg altså eksisterer. Nu skal vi have den differentierede. Og kan vi differentiere højresiden her også konstant den skal vi bare beholde.
+
+29:55
+Så skal vi have differentieret eksponentielt funktionen, og nu er den jo en sammensat funktion.
+
+30:02
+Det vil sige i første omgang, så skal vi beholde dem her.
+
+30:09
+Men så skal vi gange den med differentialkvotienten af det, der står her.
+
+30:14
+Så vi skal differentiere den indre funktion. Jeg vil sige, at nu gør jeg det med det samme.
+
+30:21
+Minus store p differentieret.
+
+30:27
+Den giver en lille pik for store pik. Den var jo en stump funktion til lille pik.
+
+30:32
+Det betyder lige præcis, at når de francium store pik, så får vi lille pik.
+
+30:39
+Så vi differentierer altså denne her sætter ned foran, og så har vi altså lenape jer til her.
+
+30:47
+Og så skulle vi beholde funktionen selv. Så nu har vi gjort det første her, og nu skal vi så sige plus.
+
+31:03
+Og så har vi piatti. Gange med.
+
+31:11
+Exciting og ikke så det er jo den der står her. Så.
+
+31:18
+Det vil sige det er c gange E i mine store p, f, t.
+
+31:29
+Og kan vi se. Bortset fra dette minus nu står der.
+
+31:35
+Det er det første led her. Det var det her, for vi har et minus foran.
+
+31:41
+Og det der står her. Det er det samme som det, der står her.
+
+31:44
+Der er bare plus foran, og det vil sige, de to går ud mod hinanden, så de er lig med nul.
+
+31:51
+Så med andre ord Når vi påstår, at det er samtlige løsninger, så får vi.
+
+31:57
+Hvad er de løsninger på? På den ligning vi ud efter at finde ud af, så det passer.
+
+32:08
+Og så har vi bevidst indset det. Og ja, de tager lige et hurtigt eksempel på det.
+
+32:23
+Og vi siger her vi vil løse ligningen der hedder X mærke at 10 plus cosinus til ti gange eksisterer.
+
+32:40
+Altså her et eksempel på en homogen ligning af den slags vi arbejder med i dag, og vi starter nu med.
+
+32:50
+Men hvad er en så lille p rt? Det skal jo være en kendt funktion, og det skal være den funktion, der ganget på ekstra.
+
+33:02
+Her kan du se mit lille p. Det er cosinus til.
+
+33:13
+Og nu skal jeg så have en vilkårlig stamme funktion til cosinus.
+
+33:27
+Og en stamme funktion til cosinus. Det er jo sinus.
+
+33:36
+Fordi jeg differentierer sinus, så får jeg cosinus, og nu er jeg så i stand til at opskrive den fuldstændige løsning.
+
+33:47
+Ikke så tit. Så skal den være en vilkårlig konstant se.
+
+33:58
+Gange med en. Opløftede team minus store pi.
+
+34:11
+Så m. Hvor se så er en vilkårlig konstant.
+
+34:22
+Sådan fik jeg lige pludselig allerede udfyldt alle mine tavler, så jeg bliver nødt til at hviske lidt her.
+
+34:31
+I får ikke rigtig pauser nu. I får kun ikke engang en spørgere. Pause Kun en lille snakke pause, en kaffepause.
+
+34:37
+Måske det eller.
+
+34:48
+Hvad laver du i Danmark? Danmark altså nøjes ikke med at hæfte for.
+
+35:03
+Det var rettigheder til mange år som arrangør af fællesskabet. Han fortæller om det der sker her når man er 13 år efter man havde.
+
+35:26
+Gør ikke. Den kombination.
+
+35:38
+Anden. For vinde.
+
+36:25
+Der er reserver så skal. Har jeg været i Frankrig næste sommer, selv om jeg fortsat.
+
+36:41
+Og der kan være. Takket være resultater af.
+
+36:50
+For Andrew Murray på engelsk som værende. Og afklædt. Så nu tager vi fat på de enorme vuggende ligninger, og de er så lidt vanskeligere.
+
+37:04
+Men altså den metode vi nu kigger på dér hvor vi bruger struktur og sætningen, så lad os lige se eBay metoden.
+
+37:17
+Se punkt ét. Vi skal have fat i en partikulære løsning, hvis vi skal have gættet en løsning for differentialligningen.
+
+37:27
+Det er det, der er kunsten i det her, så vi gætter selvfølgelig et kvalificeret gæt.
+
+37:35
+Vi gætter en partikulære løsning sammen.
+
+37:43
+Vi kan kun få x0 til. 2.
+
+37:50
+Så finder vi ældre er det vil sige den fuldstændige løsning på den tilsvarende homo gældende ligning,
+
+38:04
+hvor vi altså sætter højresiden lig med nul, og så har vi faktisk den fuldstændige løsning.
+
+38:10
+Og det er jo som sagt, at l en hånd.
+
+38:16
+Den er så lig med den partikulære løsning vi har fundet. Og så plus Elhøj.
+
+38:25
+Og sådan det. Det er den metode, vi vil bruge nu.
+
+38:37
+Og det jeg nu har at byde på, det er, at nu tager vi fire eksempler, hvor vi bruger den samme venstreside.
+
+38:48
+Det er da rigtigt, at fokus på nu er, at vi får gættet en partikulære løsning.
+
+38:54
+Så er det I skal fokusere på nu.
+
+38:56
+Vi ved godt, hvordan vi skal løse den homogene ligning fik vi formen før, men vi skal altså se nogle forskellige eksempler,
+
+39:03
+så her har vi eksemplet, og vi kigger på den differentialligning, der hedder ex.
+
+39:17
+Mærke at ting vi minus to ekstra ting og vores højreside.
+
+39:29
+Denne hedder ind i minus 10. Og nu vil vi altså gerne prøve at gætte en partikulære løsning og se.
+
+39:45
+Vi ved jo, at når vi differentierer eksponentielle funktioner, så giver de sig selv.
+
+39:52
+Okay, der kommer i dette tilfælde et minus foran. Men den vil altid forsætte.
+
+39:58
+Så hvis vi skal komme med et kvalificeret gæt, især når vi differentierer den én gang,
+
+40:03
+så vil den funktion i hvert fald komme med ud, og dér skal funktionen selv se.
+
+40:09
+Der skal den selv stå her, ikke sandt? Så et kvalificeret gæt vil være en konstant gange denne her.
+
+40:19
+Altså vi gætter på at en funktion der hedder x0 t, og som bare er en konstant gange med højresiden.
+
+40:36
+Og nu kommer så næste trin her i det her går også fordi vi skal være bestemt konstant.
+
+40:42
+Og det gør vi så ved at indsætte vores gæt i differentialligningen.
+
+40:47
+Så skal de jo passe med det, der står her. Så vil jeg sige, vi går heroppe nu.
+
+40:56
+Den funktion vi skal have, de får altså, og det er det, vi kalder det med et gammelt udtryk.
+
+41:02
+Det hedder, at vi gør krybe op og sagt på en anden måde vi indsætter forudse, om det er gæt, om det er okay.
+
+41:12
+Og så altså vi differentierer denne her. Det er det vi skal beholde konstanten minus kommer ned foran.
+
+41:21
+Så står der minus K gange i de minus 10.
+
+41:28
+Så er man nået så langt, så får vi her minus to.
+
+41:33
+Det mener t funktion lige meget. Vi boller end bare her.
+
+41:36
+Mine to. Også funktionen selv den vi har gættet på.
+
+41:41
+Den hedder jo k gange e i minus ting.
+
+41:49
+Og så nu har jeg så hele venstresiden. Den har jeg fået opskrevet her skal vi ikke lige.
+
+41:59
+For selv om vi kan reducerede den, har vi minus på minus to K.
+
+42:03
+Det giver alt i alt minus tre K og så gange den e i it går jeg bare for at rydde lidt op i dette.
+
+42:14
+Gik i gang med at gøre og prøve det her. Skal være lige med højresiden.
+
+42:23
+Det er da en betingelse der skal til for at mit gæt er o.k.
+
+42:28
+Så nu skal jeg bare have isolerede K.
+
+42:38
+Og I kan se de differentiere funktionen der giver altid større nul.
+
+42:44
+Så jeg kan forkorte dem væk uden noget som helst problem. Og så står der minus tre K skal være lig med 1.
+
+42:51
+Det vil sige konstanten skal være minus en tredjedel. Og nu har jeg gættet en partikulære løsning, nemlig x0 af 10 er så minus.
+
+43:07
+En tredjedel og så grand i minus ting.
+
+43:16
+Så. Det var der ikke så sært. Så nu skal vi altså bare have fundet.
+
+43:22
+Vi skal have fundet Elham. Så det vil sige.
+
+43:35
+At nu skal vi have kigget på x værket og 10 minus to ekstra ting, og vi erstatter højresiden med nål og tråd.
+
+43:47
+Og så har vi at ex mærke RT skal være lig med to exciting.
+
+43:59
+Og alle de Franchell funktioner som er lig med det dobbelte af sig selv.
+
+44:06
+Dette er igen en eksponentiel funktion, nemlig hvilken.
+
+44:17
+Forekommer det totalt fra. Der er det i minus to eller minus to til.
+
+44:25
+Jeg vil sige to til dengang, fordi den er jo positiv. Prøv at se det.
+
+44:31
+Det er ensbetydende med, at X er 10, og den er lig med en i to ting.
+
+44:37
+Og vi skal have gang i den med en vilkårlig konstant. Kan du se når du når vi differentierer den.
+
+44:46
+Så går 2 ned foran og bliver til et det pludselig er godt. Så der har vi altså Elholm.
+
+44:54
+Og så tre, og nu har vi så den fuldstændige indhug i en løsning.
+
+45:01
+Det var den, vi gerne ville finde. Den er så ikke så tjept.
+
+45:07
+Og så den partikulære løsning. Vi fandt dem var minus en tredjedel ind i minus 10, og så får vi den fuldstændige homogene løsning.
+
+45:21
+Kernen for alt det her op at se, så er det bare en vilkårlig påstand.
+
+45:32
+Så nu har vi altså løst den. Det første eksempel. Nu kommer det andet.
+
+45:46
+Og nu har vi som jeg lovede ex mærke, at 10 minutes to ikke så til samme venstreside som før.
+
+45:58
+Og lad os nu sige, at vi har sådan en ind højre side, som I ser her.
+
+46:08
+Altså en trigonometrisk funktion sinus. Og vi vil gerne starte med et kvalificeret gæt.
+
+46:21
+På en partikulære løsning, som vi kan gætte. Det der skal komme ud af det.
+
+46:28
+Det skal være noget med sinus. Det er det resultat, vi skal have ud af den.
+
+46:35
+Og hvad sker? Hvad skal så vores funktion være? Vi ved jo, at hvis vi differentierer, hvis vi differentierer cosinus, så får vi sinus.
+
+46:46
+Men hov. Hvis jeg nu indfører sinus, så kan man også her, at de har cosinus, står der sine steder.
+
+46:56
+Så er du knusende stærk. Men der er kun sine spøjse.
+
+47:06
+Så når vi gætter altså her i det første eksempel, var det nemt, der kunne vi bare gætte på den, fordi den forandrer sig ikke.
+
+47:14
+Men sinus og cosinus, de bytter plads hele tiden.
+
+47:17
+For vi differentierer ikke, så vi er nok nødt til at gætte på noget, hvor de begge to har med kvalificerede gæt.
+
+47:25
+Og vi gætter på, at en lineær kombination af cosinus og sinus.
+
+47:47
+Og så gør vi prøve ved simpelt hen at indsætte.
+
+47:57
+Så nu skal I tage det der står her. Vores skab og differentiere.
+
+48:04
+Og når vi differentierer cosinus, så får vi mener Sinus.
+
+48:12
+Og koncernen skal jo bare beholde altså minus sinus til t.
+
+48:19
+Og så skal vi differentiere den her differentiere sige nu så får du Kuznets.
+
+48:30
+Så er vi færdige med den der. Så skal vi sige minus to.
+
+48:37
+Også gange med vores skat. Denne hedder A. Cosinus til sitet plus det sinus til T.
+
+48:49
+Så har vi fået det indsat her på venstresiden, og nu prøver vi så at rydde lidt op.
+
+49:02
+Sikkert har vi så egentlig af cosinus levet. Der har vi så B minus to af B minus to A ganget med knusende Storting.
+
+49:17
+Og hvad har vi at sige moslede? Ja, der har vi så minus AA.
+
+49:27
+Og mine to ben. Sejren.
+
+49:36
+Så fik vi ryddet lidt op, og det skal nu være lig med minus fem sinus tid til.
+
+49:43
+Det skal jo passe med denne her højresiden, så det er altså minus fem sinus til T.
+
+49:55
+Og jeg kan nu se her på højresiden hvad indgår der ikke er noget med konens.
+
+50:04
+Så derfor er vi nødt til at slå Kuznets ihjel her på venstresiden, det vil sige B skal være lig med to af, så bliver det nemlig til nul her.
+
+50:15
+Så har vi fået løst et af problemerne. Altså B minus to A skal være lig med nul, og så har vi B.
+
+50:26
+Den skal være. To af. Når.
+
+50:33
+Så er den ude af billedet her. Nu skal vi så bare sørge for, at den parantes dér den er lig med minus fem.
+
+50:43
+Så vi har altså minus a minutes to B.
+
+50:52
+Med. Når jeg skal vi ikke lige for dette bede væk.
+
+50:58
+Nu ved vi jo at bede den skal være to af, så får vi altså minus A minus fire.
+
+51:10
+Og det vil sige at det er minus 5 A.
+
+51:17
+Har vi så fået reduceret reduceret til deres gevaldige med de minus fem vi har stået her.
+
+51:26
+Så passer pengene. Og det vil så sige, at a.
+
+51:32
+At den skal være lig med en. Og så har vi her op fra at B er lig med to af.
+
+51:52
+Og den bliver så lig med 2 fordi A jo er en. Og så har vi fået bestemt alle os konstanter, og det vil så sige, at.
+
+52:05
+Rigtigt gæt. Så er følgende funktion x0 er.
+
+52:16
+Den er lig med a den bare 1, så det er altså cosinus til t plus 2 sinus til t som det.
+
+52:32
+Og dette det vi så har har fundet her. Det er en partikulære løsning, og så kunne vi selvfølgelig godt gå videre.
+
+52:42
+Kernen for FD er den samme som før, for det var jo samme venstreside, så l indhold.
+
+52:50
+Det ville så bare være den der også. Plus alle de funktioner der står her.
+
+52:57
+Men altså vi holder fokus, vi går videre.
+
+52:59
+Jeg gider ikke slutte op, så fokuser det altså at finde partikulære løsninger, og vi går videre til det tredje eksempel.
+
+53:08
+Selv. Hvor vi nu har.
+
+53:22
+Ex mærket til igen. Minus to exciting er lig med to ting minus tre.
+
+53:39
+Så med den metode vi bruger nu, da kan I se det, som er det helt afgørende.
+
+53:46
+Det er jo ikke bare vi gætter altså helt vildt. Nej, vi kommer med et kvalificeret gæt.
+
+53:54
+Det er igen altså. Det er ikke ligesom tipskuponen eller lotto eller et eller andet.
+
+53:58
+Det er altså virkelig et kvalificeret gæt, hvor vi tænker over, hvordan kan en mulig løsning se ud for den skrevet op?
+
+54:06
+Så afprøver vi den, og så finder vi ud af præcis, hvordan den skal se ud.
+
+54:13
+Prøv at se her står der i et første græsstrå på højresiden, og nu skal det altså komme med kvalificeret gæt.
+
+54:20
+Hvis en mand differentierede sådan et lidt højere grad et første kranspulsårer, men her, så får man bare en konstant ud af det.
+
+54:29
+Men her har man stillet med stadigvæk. For det er jo bare funktionen selv.
+
+54:34
+Så her vil et smart gæt. Det vil være første gang også får nogen.
+
+54:45
+Så vi gætter på at x0 af Ted måske kunne være et første kranspulsårerne a t på spil, hvor a og b er konstanter.
+
+55:05
+Vi prøver om det giver mening. Her ser vi gøre prøv nu.
+
+55:16
+Og det vil sige at nu skal vi have indsat.
+
+55:24
+Den fyrer her op på det første ved differentialligningen, for vi differentierer den.
+
+55:31
+Så bliver der bare ah tilbage, så X mærke til den er bare a.
+
+55:40
+Og så har vi står der minus to og så gættede selv altså minus to gange med a t Kruspe.
+
+55:59
+Og så er vi færdige med venstresiden. Vi prøver lige igen og rydde lidt op.
+
+56:05
+Det er jo et første kranspulsårer. Så når vi ligesom interesserede i at se, hvad er koefficient der på første krav sliddet.
+
+56:18
+Den bliver så mindst to a t, og så har vi et konstant led der hedder plus a minus to b altså A herfra, og så har vi altså minus to hvis der.
+
+56:37
+Krig. Og nu har vi fået ryddet op.
+
+56:41
+Det vil sige nu er vi klar til at sammenligne med den rigtige højreside.
+
+56:52
+Så dér har vi et først og fremmest polynomium. Der skal være lig med det første kranspulsårer, men her det kan det kun være, hvis deres kopier af ens.
+
+57:02
+Så vil jeg sige at 2 minus to A skal være lig med 2.
+
+57:09
+Altså Ditte. Bum. De der mener to af skal være enige med den der.
+
+57:14
+Så har vi altså minus to a skal vel lige med 2.
+
+57:21
+Og så har vi allerede her, at så skal A være lig med minus 1.
+
+57:33
+Og så skal det der står her konstant blodet skal være lige med konstant sliddet, så har vi altså at a minutes to be som Anima nu rydder op.
+
+57:47
+A Den var jo mine se. C Den skulle være lige med minus tre har vi kan.
+
+58:01
+Vi kender jo det rigtige minus tre. Og hvornår er den det?
+
+58:07
+Det er den jo, når b den er en, fordi så står der lige nu seen.
+
+58:12
+Minus to er lige ved minus tre. Så B skal altså være lige med i.
+
+58:20
+Og så har vi altså fundet den partikulære løsning.
+
+58:28
+Og den er altså så minus til plus en sådan.
+
+58:37
+Du stopper ved det. Se nu kommer som en fjerde.
+
+58:46
+Hvis eksempel og det er lidt specielt, fordi nu udnytter vi de første 3 se eksempel.
+
+58:52
+4. Prøv at se de har en differentialligningen bedre, ikke snakke er 10 minus to exciting og nu kommer dens højre side.
+
+59:10
+Højresiden er E i minus 10, og så hedder den minus 5 sinus til T.
+
+59:18
+Og så hedder den plus 2 til minus tre.
+
+59:32
+Puha. Nu skal vi have gættet en particular løsning til hele denne her.
+
+59:41
+Det gider du ikke, kan jeg se. Du ryster på hovedet? Hvorfor? Siden.
+
+59:47
+A Ja, jeg troede du ville sige når jamen det er jo bare de funktioner, som vi har set før.
+
+59:55
+Men det der bliver sagt det er endnu skarpere.
+
+59:57
+For der bliver sagt jamen, det er jo bare summen af de løsninger, vi allerede har fundet, fordi den højhuset vi har her i eksempel 4.
+
+1:00:07
+Det er jo summen af, at de er den, vi havde et eksempel et den vi havde her.
+
+1:00:12
+Eksempel 2 og dem vi havde eksempel 3, der siger det du sagde der er superposition.
+
+1:00:19
+Sætningen. Altså hvis vi har fundet en løsning til hver af dem.
+
+1:00:26
+En, to, tre, så løsningen til den samlede højreside er summen af de tre løsninger, jeg har fundet.
+
+1:00:35
+Tak for det. Det er super oppositionspartiet. Det er så vi siger at eks nålen er the.
+
+1:00:57
+Den er så summen af dem vi fandt og hvad var det nu?
+
+1:01:01
+Den første? Hvad hed den? Det var minus en tredjedel ind i minus 10.
+
+1:01:08
+Og så havde vi plus plus minus to ting, som var efterfulgt af to sinus tote.
+
+1:01:17
+Og så til sidst der havde vi minus 10. Pludselig så dette er en partikulære løsning.
+
+1:01:29
+Ellen har. Den har vi fundet til den var eks rt er lig med en vilkårlig konstant.
+
+1:01:43
+Og så var det en i to ting vi blev enige om, og dermed kan vi nu opskrive den fuldstændige løsning til den til en rugemor generelt, som I kan se her.
+
+1:01:58
+Fordi L 1 har.
+
+1:02:05
+Jo så bare er lig med se ind i minus 10 og så plus alt det der jeg har opskrevet her to sinus tal til og så minus til plus en.
+
+1:02:24
+Så fik vi løst den. Hvad siger.
+
+1:02:32
+I onsdags. Den. Ja.
+
+1:02:43
+Så ja, og i virkeligheden vil jeg faktisk helst skrive den til sidste plejere, så her har vi altså dér har vi.
+
+1:02:52
+Der har vi den partikulære løsning. Og så skriver vi her den homo givende løsning til sidst.
+
+1:03:00
+Sammen var en i to ting sådan. Ja tak for det.
+
+1:03:04
+Så fik vi den på plads. Se.
+
+1:03:09
+Vi nærmer os pausen og.
+
+1:03:18
+Så har jeg lige en plet underholdning til kaffen og jeg vi er opskriver nu vi opskriver tre differentialligninger.
+
+1:03:33
+Se, vi har X mærke, at ti sluges.
+
+1:03:41
+The Exciting. Og den skal i anden halvleg med til i tredje +1.
+
+1:03:55
+Det var A. Eksempler b ensemblet.
+
+1:04:00
+Den er ikke mærke at se. Og så har vi plus til hjernen.
+
+1:04:09
+Exciting er lige med til i tredje +1, og så har vi set X mærke at T i anden plus C i anden excited er lig med T.
+
+1:04:34
+I tredje plus en. Det her er tre forskellige første ordens differentialligninger, og når man siger første ordens differentialligning,
+
+1:04:48
+så betyder det altså, at den ukendte funktion kunne være differentieret én gang, og det kan jeg jo se.
+
+1:04:55
+Det er jo det, der er tilfældet her.
+
+1:04:57
+Da den differentierede indgang, da den differentierede indgang gør den differentierede indgang, så det altså alle sammen.
+
+1:05:02
+Første ordens differentialligninger og mit spørgsmål til jer er punkt ét.
+
+1:05:08
+Hvilke? Er ligene af.
+
+1:05:20
+Også at Panopto gæt en partikulære løsning.
+
+1:05:31
+Til hver af dem. Og for ikke at det skal blive alt for tungt.
+
+1:05:35
+Så kan jeg jo godt røbe, at der er en partikulære løsning, som passer til dem alle tre, så vi holder pause.
+
+1:05:45
+Jeg.
